@@ -453,6 +453,7 @@
 * ⭐ **[Upstract](https://upstract.com/)**
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
+* [Littleberg](https://littleberg.com/) - News Search
 * [NewsMinimalist](https://www.newsminimalist.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
 * [devo](https://github.com/karakanb/devo) - New Tab Page News Extension
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
@@ -808,10 +809,8 @@
 ## ▷ Finance / Savings
 
 * 🌐 **[/r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
-* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
-* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
 * [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
@@ -843,7 +842,9 @@
 ***
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
+* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
+* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [Bitbox](https://bitbox.swiss/), [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) - Hardware Wallets
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor

@@ -346,7 +346,7 @@
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
-* [LazyDocker](https://github.com/jesseduffield/lazydocker) - Docker TUI
+* [LazyDocker](https://github.com/jesseduffield/lazydocker) or [Isaiah](https://github.com/will-moss/isaiah) - Docker TUIs
 * [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
 * [Docker Disk Space](https://docker-disk.space/) - Disk Usage Manager
 * [Dockle](https://github.com/goodwithtech/dockle) - Image Linter

@@ -650,7 +650,6 @@
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [PixWox](https://www.pixwox.com/) - Picture Downloaders
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
-* [Instagram Video Control](https://github.com/Arcus92/instagram-video-control/) - Video Controls
 * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images

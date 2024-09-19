@@ -325,7 +325,7 @@
 ## ▷ Root / Flash
 
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Magisk Files](https://huskydg.github.io/magisk-files), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-the-next-generation-pif.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-the-next-generation-pif.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
@@ -381,6 +381,7 @@
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [PrivateBin](https://privatebin.info/) - Pastebin App
+* [Novelist](https://www.novelist.app/) - Writing App
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
@@ -1028,6 +1029,7 @@ https://github.com/Akylas/alpimaps
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
 * [IRuin](https://iriun.com/) - Use iOS Device as Webcam
+* [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation App
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303), [Feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - RSS Reader
 * [SlimeKT](https://kasem-sm.github.io/SlimeKT) - Article Aggregator / [GitHub](https://github.com/kasem-sm/SlimeKT)
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -1154,6 +1156,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser for iOS
 * ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)**, [SimpleX](https://apps.apple.com/us/app/simplex-chat-secure-messenger/id1605771084), [Session](https://getsession.org/) or [Olvid](https://olvid.io/en/) - Encrypted Messaging
+* [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy-Based Browsers
 * [Element](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
@@ -1189,6 +1192,7 @@ https://github.com/Akylas/alpimaps
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+* [Feather](https://github.com/khcrysalis/Feather) - App Manager / Installer
 
 ***
 
@@ -1273,6 +1277,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.paperback.moe/)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
+* [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player

@@ -799,7 +799,8 @@
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
-* [Audioz](https://audioz.download/) - Download / Use Debrid / [Forum](https://audiosex.pro/)
+* [AudioZ](https://audioz.download/) - Download / Use Debrid / [Forum](https://audiosex.pro/)
+* [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [VST Torrents](https://vsttorrentz.net/) - Torrent
 * [PluginTorrent](https://plugintorrent.com/) - Torrent
@@ -824,6 +825,7 @@
 * [KoanSound](https://discord.gg/koansound) - Plugins / Discord
 * [Producer Arcadia](https://discord.gg/GsK5SRTpgr) - Plugins / Discord
 * [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Custom AI Guitar Tones
+* [Krush](https://www.tritik.com/product/krush/) - Bitcrusher (Deep Fry) Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 

@@ -785,13 +785,13 @@
 
 ## MPV Shaders
 
+* [ArtCNN](https://github.com/Artoriuz/ArtCNN), [AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) or [Ani4k](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN)
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
 * [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/)
 * [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/)
 * [CFL](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction)
 * [JointBilateral](https://github.com/Artoriuz/glsl-joint-bilateral)
 * [KrigBilateral ](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
-* [ArtCNN](https://github.com/Artoriuz/ArtCNN)
 * [SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 * [SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
 * [Pixel Clipper](https://github.com/Artoriuz/glsl-pixel-clipper)
@@ -885,7 +885,7 @@
 
 * ⭐ **[MVSEP](https://mvsep.com/)** / [Decrease Queue Time](https://pastebin.com/U9kTDigG)
 
-[MDX23](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.4/MVSep-MDX23-Colab.ipynb), [VocalRemover](https://vocalremover.org/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [Ilaria_UVR](https://huggingface.co/spaces/TheStinger/Ilaria_UVR)
+[MDX23](https://github.com/jarredou/MVSEP-MDX23-Colab_v2), [VocalRemover](https://vocalremover.org/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [Ilaria_UVR](https://huggingface.co/spaces/TheStinger/Ilaria_UVR)
 
 ***
 

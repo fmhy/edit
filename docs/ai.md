@@ -11,7 +11,7 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / # Required
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
 * ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
@@ -23,10 +23,11 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
-* [Zhucn](https://zhucn.org/) or [Schat.laigc](https://schat.laigc.cloudns.be/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
+* [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
+* [Lite-GPT](https://lite.icoding.ink/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots

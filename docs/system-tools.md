@@ -26,7 +26,9 @@
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
+* [RunCat](https://github.com/Kyome22/RunCat_for_windows) - Animated CPU Monitor
 * [7-Max](https://7-max.com/) - Increase App Performance 
+* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
@@ -229,7 +231,6 @@
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 

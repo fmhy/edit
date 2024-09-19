@@ -27,6 +27,7 @@
 * [Read For Me](https://www.readsforme.com/)
 * [DigitalBook](https://www.digitalbook.io/)
 * [Librivox](https://librivox.org/)
+* [Book Radio](https://bookradio.vercel.app/)
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Litgu.ru](https://litgu.ru/)

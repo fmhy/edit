@@ -117,7 +117,7 @@
 
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
-* ⭐ **[Freedium](https://freedium.cfd/)**, [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
+* ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/), [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
