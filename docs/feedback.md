@@ -25,7 +25,7 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 
 * *"No bullshit, and has all the info I need to gain free access to media."*
 
-* *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!*"
+* *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
 
 * *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
 
