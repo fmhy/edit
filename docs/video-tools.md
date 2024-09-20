@@ -319,7 +319,7 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.hyper.lol/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
-* [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloading Discord
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online

@@ -717,6 +717,7 @@
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 * [Jukeblocks](https://jukeblocks.io/) - Generate Audio Project Templates (can lag browser)
 * [Music Software Deals](https://musicsoftwaredeals.com/) - Track Music Software Prices
+* [VSTSkins](https://vstskins.com/category/skins/?fwp_license=free) - VST Skins
 
 ***
 

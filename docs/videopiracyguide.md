@@ -12,7 +12,7 @@
 * ⭐ **[Braflix](https://www.braflix.st/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
 * ⭐ **[Binged](https://binged.to/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
-* ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Twitter](https://x.com/_hydra_official) / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
+* ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[kipwatch](https://kipwatch.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
@@ -85,7 +85,7 @@
 ## ▷ Single Server
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
-* ⭐ **[BFlix](https://nites.nz/)** - Movies / TV / 1080p
+* ⭐ **[BFlix](https://nitestv.co/)** - Movies / TV / 1080p
 * ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy / Sign-Up Required
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
@@ -148,7 +148,6 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / 1080p / Ad-Free / [Discord](https://discord.gg/6xJmJja8fV)
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
-* [AnimeZ](https://animez.org/) - Sub / 1080p
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube) - Sub / Dub / 1080p
 * [Animixplay.name](https://animixplay.name/) - Sub / Dub / 1080p
@@ -174,6 +173,7 @@
 * [MyAnime](https://myanime.live/) - Chinese Anime / Sub / 1080p
 * [Animekhor](https://animekhor.org/) - Chinese Anime / Sub / 1080p / [Telegram](https://t.me/AnimeKhorOfficial)
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
+* [AnimeZ](https://animez.org/) - Dub / 720p
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
 * [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime / Sub / Dub / 1080p / Asian VPN Needed
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
@@ -848,6 +848,7 @@
 * [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
 * [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
 * [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/), [Fansub Guide](https://unanimated.github.io/guides.htm) or [Fansubbing Guide](https://guide.encode.moe/) - Fansubbing Encoding Guides
+* [Wyzie Subs](https://subs.wyzie.ru/) - Subtitle Scraping API
 
 ***
 

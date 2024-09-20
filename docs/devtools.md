@@ -403,6 +403,7 @@
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
+* [Wyzie Subs](https://subs.wyzie.ru/) - Subtitle Scraping API
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API

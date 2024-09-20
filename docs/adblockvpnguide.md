@@ -134,7 +134,6 @@
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
-* [Malware Initial Assessment](https://www.winitor.com/) - Local Analysis Tool
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
 * [FileScan](https://www.filescan.io/) - Online File Scanner
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
@@ -155,13 +154,9 @@
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Multi-platform User Data Exporter
-* [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
-* [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
-* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
-* [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
@@ -247,6 +242,7 @@
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
+* [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web) or [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 
 ***
@@ -307,7 +303,6 @@
 * [lil mail server](https://uq.ci/) - Simple Privacy-Focused Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
-* [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***
@@ -371,7 +366,7 @@
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/) or [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
-* [DuckDuckGo](https://duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
+* [DuckDuckGo](https://start.duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)

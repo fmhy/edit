@@ -569,6 +569,7 @@ Linux Gaming Guide
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
+* [Flow](https://www.flowvoice.ai) - Speech to Text
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)

@@ -689,7 +689,6 @@
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [Guessr.gg](https://guessr.gg/) - Valorant GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
 * [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr
 * [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts

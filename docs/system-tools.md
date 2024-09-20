@@ -413,7 +413,7 @@
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-* [Windows 10 Themes](https://github.com/niivu/Windows-10-themes), [Windows 11 Themes](https://github.com/niivu/Windows-11-themes) or [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
+* [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
 * [Blackbox 4 Windows](https://blackbox4windows.com/) - Custom Windows Shells / Widgets
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells

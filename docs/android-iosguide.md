@@ -383,6 +383,7 @@
 * [PrivateBin](https://privatebin.info/) - Pastebin App
 * [Novelist](https://www.novelist.app/) - Writing App
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
+* [cdash](https://counterdash.com/) - Turn Old Tablets into Dashboards
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Unified Remote](https://www.unifiedremote.com/) or [Relmtech Remote](https://play.google.com/store/apps/details?id=com.Relmtech.Remote) - Universal Remotes
@@ -773,7 +774,7 @@ https://github.com/Akylas/alpimaps
 * [Digitron](https://play.google.com/store/apps/details?id=com.geka000.digitron) - Audio Synthesizer
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Music Maker JAM](https://www.musicmakerjam.app/) - Music Creator / Mixer
-* [SoundID](https://play.google.com/store/apps/details?id=com.sonarworks.soundid.mobile), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet), [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP), [Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
+* [SoundID](https://play.google.com/store/apps/details?id=com.sonarworks.soundid.mobile), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet), [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP), [Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode

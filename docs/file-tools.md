@@ -220,6 +220,7 @@
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
+* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
 * [PDFCrowd](https://pdfcrowd.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://issuudownload.com/)

@@ -648,6 +648,7 @@
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
+* [SpeedyApply](https://www.speedyapply.com/) - Job Application Autofill Tool
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [UseThis](https://usesthis.com/) - Career Interviews

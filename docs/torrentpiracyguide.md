@@ -183,7 +183,6 @@
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country
-* [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims

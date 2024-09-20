@@ -41,6 +41,7 @@
 
 ## Android Browsers
 
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browsers / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 

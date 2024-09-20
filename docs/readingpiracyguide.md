@@ -748,7 +748,7 @@
 ## ▷ Documents / Articles
 
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
+* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
 * ⭐ **[Nexus search](https://t.me/nexus_search/94)**, [2](https://t.me/nexus_search/214) - Science / Articles
