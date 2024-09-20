@@ -1395,7 +1395,6 @@
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
-* [UI Beats](https://uibeats.com) - Animated UI Components
 
 ***
 
