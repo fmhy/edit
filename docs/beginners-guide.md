@@ -78,6 +78,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 * **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://play.google.com/store/apps/details?id=org.readera)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
 
 ***

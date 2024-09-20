@@ -814,7 +814,7 @@
 
 ## Piracy Site Proxies
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/), [immortalproxy](https://immortalproxy.com/), [unblockit](https://unblockit.download/)
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/)
 
 ***
 
