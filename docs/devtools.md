@@ -102,6 +102,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [Dark Hamster](https://www.dark-hamster.com/) - IT Articles and Troubleshooting
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
+* [Narrow AI](https://www.getnarrow.ai/) - Automated Prompt Engineering and Optimization Platform
 
 ***
 
