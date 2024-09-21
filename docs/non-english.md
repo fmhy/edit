@@ -585,11 +585,12 @@
 
 ## ▷ Streaming
 
+* ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
-* ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
+* [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
 * [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
@@ -611,7 +612,6 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [ToonBaba](https://toonbaba.site/) - Anime
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
@@ -690,7 +690,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[CB01](https://cb01.charity/)** - Movies / TV / Sub / Dub / 1080p / 4K
+* ⭐ **[CB01](https://cb01.uno/)** - Movies / TV / Sub / Dub / 1080p / 4K
 * [Altaefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -1057,6 +1057,7 @@
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Veduca](https://veduca.org) - Courses
+* [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 * [Lesics](https://youtube.com/@LesicsPOR) - Engineering Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
@@ -1087,7 +1088,6 @@
 * [Mundo Podcast](https://mundopodcast.com.br) - Podcasts
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [Tastemade](https://www.tastemade.com.br) - Recipe Videos
-* [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 
 ## ▷ Reading / Lendo
 

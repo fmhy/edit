@@ -43,7 +43,6 @@
 
 ## ▷ System Debloating
 
-* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** or [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) - Bulk Uninstallation Tools
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
@@ -439,9 +438,9 @@
 ## ▷ Wallpapers
 
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop) or **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Find Wallpapers
+* ⭐ **[Rev Wallpaper](https://rev-wallpaper-engine.github.io/)** - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
-* [Rev Wallpaper](https://rev-wallpaper-engine.github.io/) - Reverse Wallpaper Search
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers

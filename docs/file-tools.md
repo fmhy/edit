@@ -368,7 +368,6 @@
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
-* [internxt](https://internxt.com/) - 10GB Free / ~4 for 1TB
 * [Akira Box](https://akirabox.com/) - 20GB Free
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
