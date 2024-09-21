@@ -331,6 +331,7 @@
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
+* [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***
@@ -427,6 +428,7 @@
 * [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Oldschool App Themes
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
+* [Cute Borders](https://github.com/keifufu/cute-borders) - Change Border Color / Win 11 Only
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
@@ -439,6 +441,7 @@
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop) or **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Find Wallpapers
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
+* [Rev Wallpaper](https://rev-wallpaper-engine.github.io/) - Reverse Wallpaper Search
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers

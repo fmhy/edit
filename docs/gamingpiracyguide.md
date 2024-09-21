@@ -462,7 +462,7 @@
 
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
-* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/)
+* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
 * [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/) - PvP FPS

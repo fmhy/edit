@@ -317,7 +317,6 @@
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
-* ⭐ **[ComicExtra](https://comicextra.me/)**
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[GoComics](https://www.gocomics.com/)** - Comics Strips
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics

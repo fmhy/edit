@@ -138,9 +138,9 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
-* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975)
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Stream / DDL Sites / [Send Magnets](https://greasyfork.org/en/scripts/481975)
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
@@ -150,10 +150,6 @@
 ***
 
 ## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
-
-***
-
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
 
 ***
 

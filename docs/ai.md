@@ -12,6 +12,7 @@
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
+* ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
@@ -32,7 +33,6 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
-* [Not Diamond](https://chat.notdiamond.ai/) - Multiple Chatbots
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
@@ -102,7 +102,6 @@
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
-* [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot
 * [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
