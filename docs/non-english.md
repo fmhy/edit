@@ -1087,6 +1087,7 @@
 * [Mundo Podcast](https://mundopodcast.com.br) - Podcasts
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [Tastemade](https://www.tastemade.com.br) - Recipe Videos
+* [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 
 ## ▷ Reading / Lendo
 
