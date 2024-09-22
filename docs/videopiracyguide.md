@@ -83,7 +83,7 @@
 
 ## ▷ Single Server
 
-* ⭐ **[Nites TV](https://nitestv.co/)** - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
+* ⭐ **[BFlix](https://nitestv.co/)** - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
 * ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy / Sign-Up Required
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
