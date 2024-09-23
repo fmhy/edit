@@ -35,10 +35,11 @@
 * [GLoad](https://gload.to/) - Download
 * [World of PC Games](https://worldofpcgames.com/) - Download / [Site Info](https://rentry.org/ikc3x8bt) / Use Adblocker
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
-* [Vran's Piracy](https://rentry.co/vranpirated) - Download / [Discord](https://discord.gg/bnHNVgTCkb)
 * [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
 * [CG Games](https://www.cg-gamespc.com/) - Download
+* [GamePCFull](https://gamepcfull.com/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
+* [Vran's Piracy](https://rentry.co/vranpirated) - Download / [Discord](https://discord.gg/bnHNVgTCkb)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [itch.io](https://itch.io/games/new-and-popular/featured/free), [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * itch.io Tools - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
