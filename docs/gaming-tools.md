@@ -395,7 +395,6 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[Switch Hacking Is Easy](https://rentry.co/FMHYBase64#switch-hacking-is-easy)** - Switch Homebrew Guide
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / WiiU Homebrew App Store
 * [Switch Guide](https://nh-server.github.io/switch-guide/) - Switch Homebrew Guide
 * [Switchway](https://switchway.net/) - Switch Homebrew Guide

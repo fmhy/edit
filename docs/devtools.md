@@ -612,7 +612,6 @@
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
-* [Replit](https://replit.com/) - Cloud IDE
 * [BoostNote](https://boostnote.io/) - Cloud IDE
 * [Moonbit](https://www.moonbitlang.com/) - Cloud IDE
 * [Aither](https://github.com/enoki-inc/aither) - Cloud IDE
@@ -622,7 +621,7 @@
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [DeepNote](https://deepnote.com/) - Cloud IDE
 * [Cloud9](https://aws.amazon.com/cloud9/) - Cloud IDE
-* [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch)
+* [Glitch](https://glitch.com/) - Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
 * [CoderPad](https://pad.new/) - Online Code Editor
