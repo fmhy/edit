@@ -6,7 +6,7 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
@@ -138,9 +138,9 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
-* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975)
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Stream / DDL Sites / [Send Magnets](https://greasyfork.org/en/scripts/481975)
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
@@ -150,10 +150,6 @@
 ***
 
 ## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
-
-***
-
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
 
 ***
 
@@ -183,7 +179,6 @@
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country
-* [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims

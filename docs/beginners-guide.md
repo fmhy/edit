@@ -12,9 +12,9 @@
 
 Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
 
-For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)** , and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)**, and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
 
-For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios), and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)**.
+For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
 !!!note Using several ad blockers, like uBO and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
@@ -24,7 +24,9 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 > Which web browser should I use?
 
-Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser) / [Librewolf](https://librewolf.net/)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
+We recommend  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium-based. 
+
+For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** or **[Mull](https://gitlab.com/divested-mobile/mull-fenix)** for privacy.
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
@@ -32,12 +34,12 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/vXzVCEda) / [Braflix](https://www.braflix.st/) / [Binged](https://binged.to/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [DramaCool](https://asianc.to/) / [KissAsian](https://kissasian.video/)**
-* **Track / Discover: [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
+* **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
 
@@ -54,7 +56,7 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) + [iOS](https://rentry.co/FMHYBase64#spotify) / [InnerTune](https://github.com/z-huang/InnerTune)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -76,6 +78,7 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 * **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://play.google.com/store/apps/details?id=org.readera)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
 
 ***
@@ -96,7 +99,9 @@ Before installing any file, its recommended to scan the setup / install with **[
 
 Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices. 
 
-For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like [HaveIBeenPwned](https://haveibeenpwned.com/Passwords) to make sure your info hasn't been part of any recent data breaches.
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
+
+!!!note Its best *not* to use your main email or password when you sign up for piracy sites. Its good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
 
 ***
 
@@ -104,12 +109,12 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/#Method-1---PowerShell)**.
 
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
 
-!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of his apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
+!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 
 ***
 
@@ -125,11 +130,13 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-### Mobile Apps
+### Android Apps
 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
+* **[Aurora Store](https://auroraoss.com/)** - Alt App Store
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
-* **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
+* **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS Android Apps
+* **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
 
 ***
 

@@ -109,7 +109,7 @@
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)** / [Guide](https://rentry.co/sandboxie-guide) or [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Sandbox Environments
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
-* ⭐ **[Malwarebytes](https://rentry.co/fmhybase64#malwarebytes-prem)**, [2](https://www.malwarebytes.com/) - Antivirus
+* ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
@@ -134,7 +134,6 @@
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
-* [Malware Initial Assessment](https://www.winitor.com/) - Local Analysis Tool
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
 * [FileScan](https://www.filescan.io/) - Online File Scanner
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
@@ -155,13 +154,9 @@
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Multi-platform User Data Exporter
-* [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
-* [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
-* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
-* [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
@@ -247,7 +242,7 @@
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
-* [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
+* [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web) or [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 
 ***
@@ -308,7 +303,6 @@
 * [lil mail server](https://uq.ci/) - Simple Privacy-Focused Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
-* [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***
@@ -336,7 +330,7 @@
 
 * 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/), [2](https://cf.farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_players_.2F_frontends)**
-* ⭐ **[LibRedirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
+* ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://redlib.fmhy.net/) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
@@ -372,7 +366,7 @@
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/) or [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
-* [DuckDuckGo](https://duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
+* [DuckDuckGo](https://start.duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
@@ -401,8 +395,8 @@
 * ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan 
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid 
 * ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Plan / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / [GitHub](https://github.com/ProtonVPN/)
-* ⭐ **[Warp](https://one.one.one.one/)** - Free / #Free-Stuff Discord Pins for Keys
-* ⭐ **Warp Tools** - [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning2)
+* ⭐ **[Warp](https://one.one.one.one/)** - Free / #Free-Stuff [Discord Pins](https://discord.gg/5W9QJKuPkD) for Keys
+* ⭐ **Warp Tools** - [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot) / [Warp+ Warning](https://rentry.co/warpwarning2)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)

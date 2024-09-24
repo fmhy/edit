@@ -371,11 +371,9 @@
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
-* [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
-* [Neko-sama](https://www.neko-sama.fr/) - Anime / Sub / 1080p
 * [sekai](https://sekai.one/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
@@ -587,11 +585,12 @@
 
 ## ▷ Streaming
 
+* ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
-* ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
+* [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
 * [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
@@ -613,7 +612,6 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [ToonBaba](https://toonbaba.site/) - Anime
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
@@ -692,7 +690,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[CB01](https://cb01.charity/)** - Movies / TV / Sub / Dub / 1080p / 4K
+* ⭐ **[CB01](https://cb01.uno/)** - Movies / TV / Sub / Dub / 1080p / 4K
 * [Altaefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -1059,6 +1057,7 @@
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Veduca](https://veduca.org) - Courses
+* [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 * [Lesics](https://youtube.com/@LesicsPOR) - Engineering Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
@@ -1522,7 +1521,6 @@
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
-* [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
@@ -1546,8 +1544,6 @@
 * [vermanhwa](https://vermanhwa.com/) - Manga
 * [faneo](https://www.faneo.es/) - Manga
 * [daprob](https://daprob.com/) - Manga
-* [scambertraslator](https://scambertraslator.com/) - Manga
-* [Leer Manga](https://r2.leermanga.xyz/) - Manga
 * [MangaCrab](https://httpmangacrab2.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
@@ -1601,7 +1597,7 @@
 * ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.sh/)**, [2](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
-* [İnat TV](https://inattv120.link/) / [Twitter](https://twitter.com/inattvapk) / [Telegram](https://t.me/s/inattvlinks) - App / Movies / TV / Sports
+* [İnat TV](https://inattv139.link/) / [Twitter](https://twitter.com/inattvapk) / [Telegram](https://t.me/s/inattvlinks) - App / Movies / TV / Sports
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p

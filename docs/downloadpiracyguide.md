@@ -190,7 +190,6 @@
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
 * [Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - Adobe Software Alternative Index
 * [SaaSHub](https://www.saashub.com/) - Alt Software Index
-* [SimilarSiteSearch](https://www.similarsitesearch.com/) - Similar Site List
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-Source Alternatives
 
 ***

@@ -96,10 +96,9 @@
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
 * [Winnydows](https://winnydows.com/en/) - Video Conversion Software
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
-* [Video Express Converter](https://vc.germanov.dev/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
 * [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
+* [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://videoconverter.com/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
 * [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
-* [VideoConverter](https://videoconverter.com/) - Online Video Conversion
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 
@@ -320,7 +319,7 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.hyper.lol/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
-* [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloading Discord
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online

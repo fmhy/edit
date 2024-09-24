@@ -17,6 +17,7 @@
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** - Task Automation / [Discord](https://discord.com/invite/Aat7KHmG7v) / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
+* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
@@ -25,10 +26,11 @@
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
+* [RunCat](https://github.com/Kyome22/RunCat_for_windows) - Animated CPU Monitor
 * [7-Max](https://7-max.com/) - Increase App Performance 
+* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
-* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
@@ -41,7 +43,6 @@
 
 ## ▷ System Debloating
 
-* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** or [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) - Bulk Uninstallation Tools
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
@@ -223,14 +224,12 @@
 * ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) - NVIDIA Driver Packages
 * [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) - NVIDIA Driver Manager
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
-* [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 
@@ -320,18 +319,18 @@
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
-* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
 
 # ► Windows ISOs
 
-* ⭐ **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)** - Windows Clean Installation Guides
+* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows Clean Installation / [Guide](https://gravesoft.dev/clean_install_windows)
 * [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/), [files.rg-adguard](https://files.rg-adguard.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
+* [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***
@@ -372,7 +371,6 @@
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [SevenForums](https://www.sevenforums.com/) or [Hardforum](https://hardforum.com/) - Tech Support Forums
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
-* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
 * [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
@@ -415,7 +413,7 @@
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-* [Windows 10 Themes](https://github.com/niivu/Windows-10-themes), [Windows 11 Themes](https://github.com/niivu/Windows-11-themes) or [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
+* [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
 * [Blackbox 4 Windows](https://blackbox4windows.com/) - Custom Windows Shells / Widgets
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
@@ -429,6 +427,7 @@
 * [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Oldschool App Themes
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
+* [Cute Borders](https://github.com/keifufu/cute-borders) - Change Border Color / Win 11 Only
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
@@ -439,6 +438,7 @@
 ## ▷ Wallpapers
 
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop) or **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Find Wallpapers
+* ⭐ **[Rev Wallpaper](https://rev-wallpaper-engine.github.io/)** - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community

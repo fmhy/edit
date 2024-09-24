@@ -41,7 +41,7 @@
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKCombo](https://apkcombo.com/)**
 * ⭐ **[Aurora Store](https://auroraoss.com/)** - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
-* [APKPure](https://apkpure.net/)
+* [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
 * [APKSum](https://www.apksum.com/)
 * [Play Search](https://playsearch.kaki87.net/) - Advanced Playstore Search
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
@@ -136,9 +136,9 @@
 
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* ⭐ **[ReVanced Auto-Update](https://rentry.co/revanced-auto-update)** - Update ReVanced Apps Automatically
 * ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/242) or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
 * [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/) / [Discord](https://discord.gg/yMnc3EywRZ)
-* [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
 * [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced/) - Build APKs with Python
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) / [Automated](https://github.com/taku-nm/auto-cli/), [2](https://github.com/XDream8/revanced-creator) - CLI Patcher
@@ -306,12 +306,12 @@
 ## ▷ Number / SMS
 
 * ⭐ **[Quik](https://github.com/octoshrimpy/quik)** - Stock Messaging App Replacement
+* ⭐ **[Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/)** / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Should I Answer?](https://www.shouldianswer.net/), [SpamBlocker](https://github.com/aj3423/SpamBlocker) or [Silence](https://f-droid.org/packages/me.lucky.silence) - Block Spam Calls
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
 * [android-call-recorder](https://gitlab.com/axet/android-call-recorder) or [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) - Call Recorders
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
-* [Should I Answer?](https://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [SpamBlocker](https://github.com/aj3423/SpamBlocker) or [Silence](https://f-droid.org/packages/me.lucky.silence) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
@@ -325,7 +325,7 @@
 ## ▷ Root / Flash
 
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Magisk Files](https://huskydg.github.io/magisk-files), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-the-next-generation-pif.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-the-next-generation-pif.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
@@ -381,7 +381,9 @@
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [PrivateBin](https://privatebin.info/) - Pastebin App
+* [Novelist](https://www.novelist.app/) - Writing App
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
+* [cdash](https://counterdash.com/) - Turn Old Tablets into Dashboards
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Unified Remote](https://www.unifiedremote.com/) or [Relmtech Remote](https://play.google.com/store/apps/details?id=com.Relmtech.Remote) - Universal Remotes
@@ -772,7 +774,7 @@ https://github.com/Akylas/alpimaps
 * [Digitron](https://play.google.com/store/apps/details?id=com.geka000.digitron) - Audio Synthesizer
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Music Maker JAM](https://www.musicmakerjam.app/) - Music Creator / Mixer
-* [SoundID](https://play.google.com/store/apps/details?id=com.sonarworks.soundid.mobile), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet), [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP), [Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
+* [SoundID](https://play.google.com/store/apps/details?id=com.sonarworks.soundid.mobile), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet), [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP), [Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode
@@ -914,6 +916,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)**, [2](https://everythingmoe.org/#section-mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo)
 * ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* [Fogplix Anime](https://fogplix-anime.com/)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)
@@ -1013,7 +1016,6 @@ https://github.com/Akylas/alpimaps
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
 * [Enmity](https://github.com/enmity-mod/enmity) - Discord Client with Addons + Themes / [Discord](https://discord.gg/rMdzhWUaGT)
-* [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
@@ -1028,6 +1030,7 @@ https://github.com/Akylas/alpimaps
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
 * [IRuin](https://iriun.com/) - Use iOS Device as Webcam
+* [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation App
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303), [Feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - RSS Reader
 * [SlimeKT](https://kasem-sm.github.io/SlimeKT) - Article Aggregator / [GitHub](https://github.com/kasem-sm/SlimeKT)
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -1137,7 +1140,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
+* ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into an App, without Ads
 * [1Blocker](https://1blocker.com/) - Adblocker
@@ -1154,6 +1157,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser for iOS
 * ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)**, [SimpleX](https://apps.apple.com/us/app/simplex-chat-secure-messenger/id1605771084), [Session](https://getsession.org/) or [Olvid](https://olvid.io/en/) - Encrypted Messaging
+* [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy-Based Browsers
 * [Element](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
@@ -1189,6 +1193,7 @@ https://github.com/Akylas/alpimaps
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+* [Feather](https://github.com/khcrysalis/Feather) - App Manager / Installer
 
 ***
 
@@ -1273,6 +1278,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.paperback.moe/)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
+* [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player

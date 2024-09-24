@@ -240,6 +240,7 @@
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[Git-Fork](https://git-fork.com/)** or [GitQlient](https://github.com/francescmm/GitQlient) - Git Desktop Clients
 * ⭐ **[Codeberg](https://codeberg.org/)**, [Drift](https://drift.lol/), [Gitea](https://about.gitea.com/), [GitLab.com](https://about.gitlab.com/) or [sourcehut](https://sourcehut.org/) - GitHub Alternatives
+* [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Gittea.dev](https://gittea.dev/), [Savannah](https://savannah.gnu.org/), [FSFE](https://git.fsfe.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting / Software Forge
 * [Forgejo](https://forgejo.org/) or [Gogs](https://gogs.io/) - Self-Hosted Git Services / Forge
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
@@ -345,7 +346,7 @@
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
-* [LazyDocker](https://github.com/jesseduffield/lazydocker) - Docker TUI
+* [LazyDocker](https://github.com/jesseduffield/lazydocker) or [Isaiah](https://github.com/will-moss/isaiah) - Docker TUIs
 * [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
 * [Docker Disk Space](https://docker-disk.space/) - Disk Usage Manager
 * [Dockle](https://github.com/goodwithtech/dockle) - Image Linter
@@ -402,6 +403,7 @@
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
+* [Wyzie Subs](https://subs.wyzie.ru/) - Subtitle Scraping API
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
@@ -610,7 +612,6 @@
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
-* [Replit](https://replit.com/) - Cloud IDE
 * [BoostNote](https://boostnote.io/) - Cloud IDE
 * [Moonbit](https://www.moonbitlang.com/) - Cloud IDE
 * [Aither](https://github.com/enoki-inc/aither) - Cloud IDE
@@ -620,7 +621,7 @@
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [DeepNote](https://deepnote.com/) - Cloud IDE
 * [Cloud9](https://aws.amazon.com/cloud9/) - Cloud IDE
-* [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch)
+* [Glitch](https://glitch.com/) - Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
 * [CoderPad](https://pad.new/) - Online Code Editor
@@ -681,7 +682,6 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [Sourcegraph](https://sourcegraph.com/search) or [SeaGOAT](https://github.com/kantord/SeaGOAT) - Code Searching
-* [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
 * [Chalk](https://chalk.ist/), [Carbon](https://carbon.now.sh/), [Ray](https://ray.so/) or [Show Code](https://showcode.app/) - Code Screenshots

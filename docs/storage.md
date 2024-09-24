@@ -29,7 +29,7 @@
 
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**
 
-[Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownload.ru/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [TopGFX](https://topgfx.info/index.php), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/)
+[Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownload.ru/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [TopGFX](https://topgfx.info/index.php), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/), [thebasemesh](https://www.thebasemesh.com/)
 
 ***
 
@@ -41,6 +41,7 @@
 
 ## Android Browsers
 
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browsers / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
@@ -49,7 +50,7 @@
 ### Privacy Based
 
 * 🌐 **[Privacy Browser Comparisons](https://divestos.org/pages/browsers)**
-* ⭐ **[Mull](http://gitlab.com/divested-mobile/mull-fenix)**
+* ⭐ **[Mull](https://gitlab.com/divested-mobile/mull-fenix)**
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
@@ -402,7 +403,7 @@
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[sourcehut pages](https://srht.site/)**
 
-[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
+[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
 
 ***
 
@@ -785,13 +786,13 @@
 
 ## MPV Shaders
 
+* [ArtCNN](https://github.com/Artoriuz/ArtCNN), [AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) or [Ani4k](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN)
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
 * [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/)
 * [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/)
 * [CFL](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction)
 * [JointBilateral](https://github.com/Artoriuz/glsl-joint-bilateral)
 * [KrigBilateral ](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
-* [ArtCNN](https://github.com/Artoriuz/ArtCNN)
 * [SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 * [SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
 * [Pixel Clipper](https://github.com/Artoriuz/glsl-pixel-clipper)
@@ -813,7 +814,7 @@
 
 ## Piracy Site Proxies
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/), [immortalproxy](https://immortalproxy.com/), [unblockit](https://unblockit.download/)
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/)
 
 ***
 
@@ -885,7 +886,7 @@
 
 * ⭐ **[MVSEP](https://mvsep.com/)** / [Decrease Queue Time](https://pastebin.com/U9kTDigG)
 
-[MDX23](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.4/MVSep-MDX23-Colab.ipynb), [VocalRemover](https://vocalremover.org/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [Ilaria_UVR](https://huggingface.co/spaces/TheStinger/Ilaria_UVR)
+[MDX23](https://github.com/jarredou/MVSEP-MDX23-Colab_v2), [VocalRemover](https://vocalremover.org/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [Ilaria_UVR](https://huggingface.co/spaces/TheStinger/Ilaria_UVR)
 
 ***
 

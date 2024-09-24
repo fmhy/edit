@@ -11,22 +11,22 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / # Required
-* ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
 * ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** or [Elicit](https://elicit.com/) - Research Paper Chatbots
+* [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
-* [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool / [Guide](https://rentry.org/mirrorpools)
+* [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
+* [Lite-GPT](https://lite.icoding.ink/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
@@ -34,13 +34,13 @@
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
+* [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
-* [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) - Extensions
 * [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Turn Documents into Chatbots
 
@@ -59,9 +59,7 @@
 * [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
 * [iSeek](https://www.iseek.com/) - AI Search Engine
-* [WhatOnEarth](https://www.whatonearth.ai/) - AI Search Engine
 * [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
-* [Farfalle](https://www.farfalle.dev/) - AI Search Engine
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
@@ -103,9 +101,9 @@
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
-* [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot
+* [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
 * [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
@@ -202,6 +200,7 @@
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
+* [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/) - LLM Pricing Index
 
 ***
 
@@ -294,7 +293,6 @@
 * [GetIMG.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
-* [Venice](https://venice.ai/chat/Wyg_3w4M5KDFAcAHnqf-s) / 25 Daily
 * [Yodayo](https://yodayo.com/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [PixAI](https://pixai.art/) / 10 Daily

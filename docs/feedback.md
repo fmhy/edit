@@ -25,6 +25,8 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 
 * *"No bullshit, and has all the info I need to gain free access to media."*
 
+* *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
+
 * *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
 
 * *"thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
@@ -32,6 +34,8 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
+
+* *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
