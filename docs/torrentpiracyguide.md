@@ -157,7 +157,7 @@
 
 * 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
-* ⭐ **[The Sheet](https://inviteroute.github.io/sheet/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* ⭐ **[/r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Recruitments
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** - Tracker Status Updates
 * [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
 * [/r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [/r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
