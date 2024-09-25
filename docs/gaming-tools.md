@@ -49,7 +49,7 @@
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Offline Steam DRM Bypass / DLC Unlockers
+* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Guide](https://rentry.org/gzny948p) - Offline Steam DRM Bypass / DLC Unlockers
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://github.com/Detanup01/gbe_fork)** / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam DRM Bypass / Multiplayer Emulator
