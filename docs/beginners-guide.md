@@ -34,7 +34,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/vXzVCEda) / [Braflix](https://www.braflix.st/) / [Binged](https://binged.to/)**
+* **Streaming: [watch.lonelil](https://watch.lonelil.ru/)** + [Sources](https://watch.lonelil.ru/onboarding/extension) / [Nunflix](https://nunflix.com/) / [Braflix](https://www.braflix.st/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -64,7 +64,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 ### Gaming
 
 * **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://myrient.erista.me/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
 * **DLC Unlocker: [Koalageddon](https://github.com/acidicoala/Koalageddon/)** 
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
 * **Track / Discover: [Glitchwave](https://glitchwave.com/)**

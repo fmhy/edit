@@ -162,6 +162,7 @@
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen
 * [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
