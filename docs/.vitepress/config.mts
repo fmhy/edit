@@ -130,7 +130,7 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://github.com/taskylizard">taskylizard</a> and contributors. Estd [2018](https://i.ibb.co/VJQmQ9t/image.png).`
+      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://github.com/taskylizard">taskylizard</a> and contributors. <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',
