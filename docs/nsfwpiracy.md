@@ -15,7 +15,6 @@
 * [IndianPornList](https://indianpornlist.com/)
 * [Tommy's Bookmarks](https://www.tommys-bookmarks.com/)
 * [ThePornMap](https://thepornmap.com/)
-* [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
 ***
 

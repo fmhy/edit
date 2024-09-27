@@ -530,6 +530,7 @@
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
 * [HUDSxGUIS](https://www.hudsandguis.com/) - UI Design Concepts
 * [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
+* [Game Sounds](https://gamesounds.xyz/) - Royalty Free Game Sounds
 * [Bleeper](https://pixwlk.itch.io/bleeper) or [jfxr](https://jfxr.frozenfractal.com/) - Game Sound Effects Creators
 * [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
 * [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds Examples
@@ -1157,7 +1158,7 @@
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [de4js](https://lelinhtinh.github.io/de4js/), [Deobfuscator](https://willnode.github.io/deobfuscator/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [de4js](https://lelinhtinh.github.io/de4js/), [Deobfuscator](https://willnode.github.io/deobfuscator/), [WebCrack](https://webcrack.netlify.app/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
 * [Unibeautify](https://github.com/Unibeautify/unibeautify) - JavaScript Beautifier
 * [Minify JS](https://minify-js.com/) - JavaScript Minifier
 * [Underdash](https://surma.github.io/underdash/) - JavaScript Snippets
