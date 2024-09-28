@@ -413,43 +413,23 @@
 * [XlecX](https://xlecx.one/) - Hentai Manga / Comics
 * [HentaiRox](https://hentairox.com/) - Hentai Manga
 * [EAHentai](https://eahentai.com/) - Hentai Manga
-* [M-Hentai](https://m-hentai.net/) - Hentai Manga
-* [177pica](http://www.177pica.com/) - Hentai Raws
-* [Hentaifromhell](https://hentaifromhell.org/) - Hentai Manga / Comics
-* [EggPornComics](https://eggporncomics.com/) - Hentai / Comics
 * [ILikeComix](https://ilikecomix.com/) - Comics
 * [AllPornComic](https://allporncomic.com/) - Comics
-* [MyHentaiGallery](https://myhentaigallery.com/) - Comics
+* [MyHentaiGallery](https://myhentaigallery.com/) - Comics / [Discord](https://discord.com/invite/h2cmkc64k8)
 * [FreeAdultComix](https://freeadultcomix.com/) - Comics
-* [Shentai](https://shentai.org/) - Comics
-* [ComixZilla](https://comixzilla.com/) - Comics
-* [My Hentai Comics](https://myhentaicomics.com/) - Comics
 * [Mult34](https://mult34.com/) - Comics
 * [ComicsValley](https://comicsvalley.com/) - Comics
-* [LaComics](https://lacomics.net/) - Comics
-* [PornComixOne](https://porncomixone.net/) - Comics
-* [AllPornComix.net](https://allporncomix.net/) - Comics
 * [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
 * [SVSComics](https://svscomics.com/) - Comics
 * [BestPornComix](https://bestporncomix.com/) - Comics
-* [NXTComics](https://nxt-comics.net/) - Comics
-* [GoldenComics](https://goldencomics.art/) - Comics
-* [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
-* [Xcomics](https://xcomics.se/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
 * [Mangadass](https://mangadass.com/) - Hentai Manga
-* [Hentaidexy](https://hentaidexy.net/) - Hentai Manga
 * [Hentaiwebtoon](https://hentaiwebtoon.com/) - Hentai Manga
-* [OmegaScans](https://omegascans.org/) - Hentai Manga / [Discord](https://discord.com/invite/BrkUm8jeng)
-* [MadaraDex](https://madaradex.org/) - Hentai Manga / [Discord](https://discord.com/invite/mubnYvjFEY)
+* [OmegaScans](https://omegascans.org/) - Pornwha / [Discord](https://discord.com/invite/BrkUm8jeng)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) - Hentai Manga
-* [shikotch](https://shikotch.net/) - Hentai Manga
-* [Hentai IMG](https://hentai-img.com/) - Hentai Manga
 * [Anime-Sharing Hentai](https://www.anime-sharing.com/forum/hentai-ovas-36/) - Hentai Manga
-* [SavitaHD](https://savitahd.net/) - Indian Sex Comics
-* [Doujinantena](https://doujinantena.top/) - Japanese Hentai Manga
 * [ComicBox](https://www.comicbox.xyz/) - Chinese Pornhwa
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
