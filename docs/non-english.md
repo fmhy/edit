@@ -584,6 +584,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Bharatflix](https://bharatflix.live/)** - Movies / TV / Anime / Sub / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
