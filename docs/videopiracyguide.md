@@ -23,8 +23,8 @@
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
-* ⭐ **[PrimeWire](https://www.primewire.tf/)**, [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
-* ⭐ **[UpMovies](https://upmovies.net/)**, [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
+* [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
+* [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
 * [kipwatch](https://kipwatch.xyz/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / 1080p / [Clones](https://rentry.co/sflix)
 * [YesMovies](https://yesmovies.ag/), [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
