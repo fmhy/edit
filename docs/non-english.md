@@ -1613,7 +1613,6 @@
 ## ▷ Reading / Okuma
 
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
-* ⭐ **[Booksfer](https://booksfer.net)** - Books / Account Required
 * [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58) or [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy
