@@ -1659,7 +1659,6 @@
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
 * [jq](https://jqlang.github.io/jq/) - CLI JSON Processor / [GitHub](https://github.com/jqlang/jq)
 * [oq](https://blacksmoke16.github.io/oq/) - Portable jq Wrapper / [GitHub](https://github.com/Blacksmoke16/oq)
-* [Transluna](https://transluna.net/) - JSON Translator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://zio.dev/zio-json)- JSON Library
 * [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data

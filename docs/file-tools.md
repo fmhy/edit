@@ -296,24 +296,24 @@
 
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
-* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
 * ⭐ **[justbeamit](https://justbeamit.com/)**
 * ⭐ **[spacedrop](https://spacedrop.app/)**
 * [wormhole](https://wormhole.app/)
 * [KDEConnect](https://kdeconnect.kde.org/)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
-* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
+* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
 * [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
 * [file.pizza](https://file.pizza/)
 * [Transfernow](https://www.transfernow.net/en)
-* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
 * [WinSCP](https://winscp.net/eng/index.php)
-* [croc](https://github.com/schollz/croc) / [GUI](https://github.com/howeyc/crocgui)
 * [landrop](https://landrop.app/)
 * [Surge](https://getsurge.io/)
 * [saladroom](https://saladroom.net/)

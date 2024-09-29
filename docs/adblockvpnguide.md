@@ -338,7 +338,6 @@
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://pastebin.com/DmbrhEDD)
-* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend

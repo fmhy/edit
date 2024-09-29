@@ -15,6 +15,7 @@
 ### CAD Engineering
 
 * [ChokokuCAD](https://github.com/itta611/ChokokuCAD) - CAD Modeling
+* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling
 * [Tinkercad](https://www.tinkercad.com/) - CAD Modeling
 * [FreeCAD](https://www.freecad.org/) - CAD Modeling
 * [BRL-CAD](https://brlcad.org/) - CAD Modeling
@@ -357,7 +358,6 @@
 * https://zilore.com/en/dns
 * https://docs.glauca.digital/hexdns/
 * https://www.zoneedit.com/free-dns/
-* https://www.dnsabr.com/
 * https://dns.sb/
 * https://www.bestdns.org/
 * https://public-dns.info/
@@ -895,7 +895,7 @@
 * ⭐ **[NCS](https://ncs.io/)**
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)**
 
-[FreePB](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/), [Incompetech Music](https://incompetech.com/music/royalty-free/music.html)
+[FreePD](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/), [Incompetech Music](https://incompetech.com/music/royalty-free/music.html)
 
 ***
 
@@ -914,7 +914,7 @@
 
 * ⭐ **[URL Void](https://www.urlvoid.com/)**
 
-[ThreatStop](https://www.threatstop.com/check-ioc), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [scanurl](https://scanurl.net/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/), [ScamRate](https://www.scamrate.com/)
+[ThreatStop](https://www.threatstop.com/check-ioc), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/), [ScamRate](https://www.scamrate.com/)
 
 ***
 
@@ -983,7 +983,6 @@
 * [9animetv](https://9animetv.to/)
 * [anicrush](https://anicrush.to/)
 * [aniwatchtv](https://aniwatchtv.to/)
-* [9anime.pe](https://9anime.pe/)
 
 ***
 
@@ -1112,7 +1111,7 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Giga Course](https://gigacourse.com/), [Udemy 24](https://udemy24.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [TutsNode](https://tutsnode.org/), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/)
+[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Giga Course](https://gigacourse.com/), [Udemy 24](https://udemy24.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/)
 
 ### Udemy TG Channels
 
@@ -1149,13 +1148,13 @@
 
 * [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
 
-[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [zerotheme](https://www.zerotheme.com/), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
+[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
 
 ***
 
 ## WordPress Themes
 
-[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [Mega Drive](https://rentry.co/FMHYBase64#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [justfreewpthemes](https://justfreewpthemes.com/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
+[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [Mega Drive](https://rentry.co/FMHYBase64#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
 
 ***
 

@@ -66,7 +66,7 @@
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
 * ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.se/), [3](https://annas-archive.li/), [4](https://annas-archive.gs/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
-* ⭐ **[Z-Library](https://z-library.rs/)**, [2](https://singlelogin.rs/), [3](https://singlelogin.re/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/), [2](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
+* ⭐ **[Z-Library](http://z-library.do/)**, [2](https://singlelogin.re/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/), [2](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://rentry.org/arch1ve), [2](https://bookripper.neocities.org/), [3](https://redd.it/fm1xpw) / [Extension](https://github.com/elementdavv/internet_archive_downloader) / [Script](https://redd.it/ofcqds)
@@ -76,6 +76,7 @@
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[FreeBannedBooks](https://freebannedbooks.org/)** - Books Banned in Schools by Politicians
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
+* [Open Slum](https://open-slum.org/) - Ebook Site Uptime Tracker
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
 * irc://irc.undernet.org/bookz

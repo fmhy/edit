@@ -10,15 +10,15 @@
 
 * ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Docs](https://docs.undi.rest/)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
-* ⭐ **[Braflix](https://www.braflix.st/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
+* ⭐ **[Braflix](https://www.braflix.gd/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Nunflix](https://nunflix.com/)**, [2](https://nunflix.live/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy.stream](https://smashy.stream/) (ad-free) - Movies / TV / Anime / 1080p
-* ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
+* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy.stream](https://smashy.stream/) (ad-free w/ signup) - Movies / TV / Anime / 1080p
+* ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐  **[Novafork](https://novafork.com/)** - Movies / TV / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
@@ -369,7 +369,7 @@
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * ⭐ **[DaddyLive](https://dlhd.sx/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport
-* [Braflix](https://www.braflix.st/livestream/) - TV / Sports
+* [Braflix](https://www.braflix.gd/livestream/) - TV / Sports
 * [Heartive](https://heartive.pages.dev/live/) - Live TV / Sports
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
@@ -550,10 +550,11 @@
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
-* ⭐ **[Braflix](https://www.braflix.st/)** - Movies / TV / Anime / 4K / 1080p / Account Required
+* ⭐ **[Braflix](hhttps://www.braflix.gd/)** - Movies / TV / Anime / 4K / 1080p / Account Required
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
+* [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p

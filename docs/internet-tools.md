@@ -230,6 +230,7 @@
 
 # ► Search Tools
 
+* 🌐 **[Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines)** - List of Popular Search Engines
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
