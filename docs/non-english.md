@@ -414,8 +414,9 @@
 
 ## ▷ Downloading / Herunterladen
 
+* [Usenet DE Guide](https://github.com/PCJones/usenet-guide) - best Usenet guide for german content and [Radarr + Sonarr DE Guide](https://github.com/PCJones/radarr-sonarr-german-dual-language/blob/main/GERMAN_DUAL_LANGUAGE_GUIDE_GER.md) - includes tweaking instructions for german content and is written by the same person / [Discord](https://discord.com/invite/pZrrMcJMQM)
 * [Crawli](https://crawli.net/) - Download Search
-* [ArchivX](https://www.archivx.to/) or [StartSeite](https://startseite.to/) - Warez Lists
+* [ArchivX](https://www.archivx.to/), [StartSeite](https://startseite.to/) or [BestOfLinks](http://bestoflinks.synology.me/) - Warez Lists
 * [DarkLight](https://board.darklight.to/) - Video / Audio / ROMs / Books / Magazines / NSFW
 * [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [Goldesel](https://goldesel.bz/) - Video / Audio / NSFW
@@ -433,14 +434,14 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Braflix](https://www.braflix.gd/)** - Movies / TV / Anime / Dub / 4K / 1080p
+* ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[HDFilme](https://hdfilme.plus/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinokiste](https://kinokiste.live/)** - Movies / TV / Dub / 1080p
-* [streamkiste](https://streamkiste.taxi/) - Movies / TV / Dub / 1080p
+* [Braflix](https://www.braflix.gd/) - Movies / TV / Anime / Dub / 4K / 1080p
+* [Streamkiste](https://streamkiste.tv/), [2](https://streamkiste.taxi/) - Movies / TV / Dub / 1080p
 * [FilmPalast](https://filmpalast.sx/), [2](https://filmpalast.info/) - Movies / TV / Dub / 1080p
-* [Kinoger](https://kinoger.com/) - Movies / TV / 1080p
-* [Megakino](https://megakino.org/) - Movies / TV / Dub / 720p
+* [Megakino](https://megakino.onl/), [2](https://megakino.org/) - Movies / TV / Dub / 720p
 * [StreamCloud](https://streamcloud.sx/) - Movies / TV / 720p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [xCine](https://xcine.ru/) - Movies / TV / Dub / 720p
