@@ -911,7 +911,7 @@
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
-
+* [International GPA & CGPA Calculator](https://www.calculatecgpa.com/gpa-calculator) - Universal Grades Calculator
 ***
 
 ## ▷ Study / Research
