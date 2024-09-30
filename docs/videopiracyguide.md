@@ -95,6 +95,7 @@
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / 1080p / Ad-Free
 * ⭐ **[Soaper.TV](https://soaper.tv/)**, [2](https://soaper.live/) - Movies / TV / Anime / 1080p
+* ⭐ **[BooFlix](https://booflix.to/)**, [2](https://meowatch.tv/) - Movies / TV / Anime / Drama / 1080p
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
