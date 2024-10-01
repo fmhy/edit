@@ -834,6 +834,7 @@
 * [Calculator](https://goldratestoday.net/gold-calculator/) - Gold Investment Calculators
 * [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* [BondSmartly](https://www.bondsmartly.com/) - Bonds data for retail investors
 
 ***
 
