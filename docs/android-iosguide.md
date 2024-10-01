@@ -954,7 +954,7 @@ https://github.com/Akylas/alpimaps
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player
-* [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeCordova) - YouTube Player
+* [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) - YouTube Player
 * [Video Summarizer](https://play.google.com/store/apps/details?id=com.emote.youtube_summarizer) - YouTube Video Summarizer
 
 ***
