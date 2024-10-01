@@ -625,6 +625,7 @@ https://github.com/Akylas/alpimaps
 * [Bura](https://github.com/davidtakac/bura)
 * [omWeather](https://github.com/woheller69/omweather)
 * [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App
+* [Weawow](https://play.google.com/store/apps/details?id=com.weawow&hl=en_CA)
 
 ***
 
