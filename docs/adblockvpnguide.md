@@ -165,6 +165,7 @@
 * [image-scrubber](https://everestpipkin.github.io/image-scrubber) - Anonymize Protest Photos / [GitHub](https://github.com/everestpipkin/image-scrubber)
 * [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
+* [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 
 ***

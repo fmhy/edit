@@ -42,7 +42,8 @@
 * [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Note](https://pastebin.com/T9kHqc0v)
 * [Piracy App](https://www.piracy.su/) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [GitHub](https://github.com/ambr0sial/nova/)
-* [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
+* [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K / 1080p
+* [Movierr](https://movierr.online/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/sxKN424ZYK)
 * [Cataz](https://cataz.ru/) - Movies / TV / Anime / 1080p
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime / 1080p
 * [FlixHQ.click](https://flixhq.click/) - Movies / TV / 1080p
@@ -64,6 +65,7 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/) - Movies / TV / Anime / 1080p / [GitHub](https://github.com/coen-h/zmov)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
+* [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
 * [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
@@ -870,6 +872,7 @@
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
 * [Subscene](https://subscene.best/) - Subtitles
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
+* [Closed Caption Browser](https://cc.edatribe.com/ ) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles
 * [English-Subtitles](https://english-subtitles.org/) - Subtitles
 * [My Subs](https://my-subs.co/) - Subtitles

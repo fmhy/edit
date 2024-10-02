@@ -61,55 +61,39 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
-* ⭐ **[Raindrop.io](https://raindrop.io/)**
-* [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
-* [Bort](https://bort.io/) - Bookmark Manager / Dropbox Sync
-* [WebCull](https://webcull.com/) - End-to-end Encryption / Extension / Webapp
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
-* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmarks Folder Cleanup Extension
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
-* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
-* [wallabag](https://wallabag.org/) - Save and Classify Articles
-* [SuperMemory](https://supermemory.ai/) - AI Bookmark App
-* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension
-* [Centroly](https://centroly.com/) - Extension
-* [Omni](https://github.com/alyssaxuu/omni) - Extension
-* [Saka](https://saka.io/) - Extension
-* [BetterStacks](https://betterstacks.com/) - Extension
-* [Instapaper](https://www.instapaper.com/)
-* [Bookmark OS](https://bookmarkos.com/)
-* [Bookmarkify](https://bookmarkify.it/)
-* [Patchwork](https://patchworkapp.com/)
-* [start.me](https://start.me/start/int/startpage)
-* [buku](https://github.com/jarun/buku)
-* [booky](https://booky.io/)
-* [WebCrate](https://webcrate.app/)
-* [Unmark](https://unmark.it/)
-* [Diigo](https://diigo.com/)
-* [linkding](https://github.com/sissbruecker/linkding)
-* [linksort](https://linksort.com/)
-* [LinkAce](https://www.linkace.org/)
-* [Tagpacker](https://tagpacker.com/)
-* [yabs.io](https://www.yabs.io/)
-* [Shaarli](https://shaarli.readthedocs.io/en/master/)
-* [Openoox](https://openoox.com/)
-* [Mission Control](https://mission-control.app/)
-* [histre](https://histre.com/)
-* [Zulu](https://tryzulu.com/)
-* [Contentle](https://contentle.com/)
-* [Clipix](https://www.clipix.com/)
-* [Collect](https://colllect.io/)
-* [GGather](https://web.ggather.com/)
-* [Dropmark](https://www.dropmark.com/)
-* [Bookmarkme](https://bookmarkme.io/)
-* [Bublup](https://www.bublup.com/)
-* [Bkmark](https://bkmark.io/)
-* [Shiori](https://github.com/go-shiori/shiori)
-* [LinkSnatch](https://linksnatch.pages.dev/)
-* [KeepThisSite](https://keepthis.site/)
+* ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
+* ⭐ **[Shiori](https://github.com/go-shiori/shiori)** - Desktop Manager
+* [Bort](https://bort.io/) - Web-Based Manager / Dropbox Sync
+* [WebCull](https://webcull.com/) - Web-Based Manager
+* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
+* [buku](https://github.com/jarun/buku) - Terminal Manager
+* [wallabag](https://wallabag.org/) - Web-Based Manager
+* [Unmark](https://unmark.it/) - Web-Based Manager
+* [yabs.io](https://www.yabs.io/) - Web-Based Manager
+* [Dropmark](https://www.dropmark.com/) - Web-Based Manager
+* [KeepThisSite](https://keepthis.site/) - Web-Based Manager
+* [histre](https://histre.com/) - Web-Based Manager
+* [Instapaper](https://www.instapaper.com/) - Desktop Manager
+* [booky](https://booky.io/) - Desktop Manager
+* [linksort](https://linksort.com/) - Desktop Manager
+* [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
+* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension Manager
+* [Centroly](https://centroly.com/) - Extension Manager
+* [Omni](https://github.com/alyssaxuu/omni) - Extension Manager
+* [Saka](https://saka.io/) - Extension Manager
+* [BetterStacks](https://betterstacks.com/) - Extension Manager
+* [Mission Control](https://mission-control.app/) - Extension Manager
+* [Zulu](https://tryzulu.com/) - Extension Manager
+* [GGather](https://web.ggather.com/) - Extension Manager
+* [linkwarden](https://github.com/linkwarden/linkwarden), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
+* [SuperMemory](https://supermemory.ai/) - AI Bookmark App
+* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
+* [Bookmarkify](https://bookmarkify.it/) - Create Bookmarklets
+* [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarklets
 * [GetBookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
-* [linkwarden](https://github.com/linkwarden/linkwarden) - Self-Hosted Bookmark Manager
+* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
 
 ***
 
@@ -230,15 +214,12 @@
 
 # ► Search Tools
 
-* 🌐 **[Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines)** - List of Popular Search Engines
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
-* ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
-* [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
-* [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
-* [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
-* [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
+* [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
+* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
+* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlockproject.xyz/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [Soovle](https://soovle.com/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
-* [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
+* [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine
 * [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
@@ -246,17 +227,12 @@
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
-* [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
+* [Search My Site](https://searchmysite.net/) - Personal Site Search / Open Source
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools
-* [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
-* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
-* [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/) or [OpenBuckets](https://openbuckets.io/) - Amazon s3 Buckets Search
-* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlockproject.xyz/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
-* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Yandex Search Operators](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/) - Yandex Search Operator Resources
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
@@ -280,10 +256,17 @@
 
 ## ▷ Search Engines
 
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_ai_search_engines)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
+* ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
+* [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
+* [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
+* [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
+* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
+* [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Leta](https://leta.mullvad.net) - Mullvad VPN Required
@@ -309,29 +292,29 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Search TV Streaming Sites
-* ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
-* ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)**, [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
-* ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Search Software Sites
-* ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)**, [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
-* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)**, [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=e9657e69c76480cb8), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://ravebooksearch.com/), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
-* ⭐ **[Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Search Audiobook Sites
-* ⭐ **[Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Search Comic Sites
-* ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)**, [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
-* ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)**, [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
-* ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Search Extension Sites
-* ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Search Font Sites
-* ⭐ **[Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_video_streaming)** - Search YouTube-Like Video Sites
-* ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)**, [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
-* ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Search Video Torrent Sites
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)**, [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
-* ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Search Anime Download Sites
-* ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
-* ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)**, [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
-* ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Search Audio Torrent Sites
-* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
-* ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** or [Rave Search](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
-* ⭐ **[Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
+* [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
+* [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
+* [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
+* [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Search Software Sites
+* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
+* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=e9657e69c76480cb8), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://ravebooksearch.com/), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
+* [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Search Audiobook Sites
+* [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - Search Comic Sites
+* [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
+* [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
+* [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Search Extension Sites
+* [Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d) - Search Font Sites
+* [Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_video_streaming) - Search YouTube-Like Video Sites
+* [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
+* [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
+* [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
+* [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
+* [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
+* [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
+* [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - Search Audio Torrent Sites
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [Rave Search](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
+* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
 * [Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b) - Search Linux Software Sites
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
@@ -361,7 +344,6 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
-* [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Auto-check the status of File Host links.
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker

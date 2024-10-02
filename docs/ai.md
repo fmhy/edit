@@ -25,7 +25,6 @@
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
-* [Lite-GPT](https://lite.icoding.ink/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
@@ -178,6 +177,7 @@
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) - Prompting Guides
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
+* [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
 * [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory
 * [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts/) - Prompt Directory
 * [L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - Jailbreak Prompts / [Discord](https://discord.gg/basi) / [Twitter](https://x.com/elder_plinius)
@@ -420,7 +420,7 @@
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[Applio](https://github.com/IAHispano/Applio)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/playground)
+* ⭐ **[Applio](https://github.com/IAHispano/Applio)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/products/playground)
 * ⭐ **[weights.gg](https://www.weights.gg/)** / [Discord](https://discord.gg/aihub) or [Voice Models](https://voice-models.com/) - AI Voice Models and Guides  
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Real-Time Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)

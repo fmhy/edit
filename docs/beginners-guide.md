@@ -73,7 +73,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Reading
 
-* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.is) / [Z-Library](https://z-library.rs/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
+* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.is) / [Z-Library](https://z-lib.do/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**

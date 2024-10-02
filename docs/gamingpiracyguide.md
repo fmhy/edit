@@ -235,7 +235,6 @@
 * [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
-* [SafeROMs](https://www.saferoms.com/) - Emulators / ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
@@ -307,6 +306,7 @@
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
+* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) - Online ROM Patcher / [GitHub](https://github.com/marcrobledo/RomPatcher.js/)
 
 ***
 
@@ -404,7 +404,6 @@
 
 ## ▷ Multi-Game Sites
 
-* 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
@@ -423,6 +422,18 @@
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
 * [Miniplay](https://www.miniplay.com/) - Browser Games
 * [Yandex Games](https://yandex.com/games/) - Browser Games
+* [Poki](https://poki.com/) - Browser Games
+* [Arkadium](https://www.arkadium.com/) - Browser Games
+* [GamePix](https://www.gamepix.com/) - Browser Games
+* [RoundGames](https://www.roundgames.com/) - Browser Games
+* [Snokido](https://www.snokido.com/) - Browser Games
+* [Game-Game](https://game-game.com/) - Browser Games
+* [ArcadeSpot](https://arcadespot.com/) - Browser Games
+* [Gaming Wonderland](https://www.gamingwonderland.com/) - Browser Games
+* [Alfy](https://www.alfy.com/) - Browser Games
+* [Andkon](https://andkon.com/arcade/) - Browser Games
+* [FreeGames](https://freegames.org/) - Browser Games
+* [Friv](https://www.friv.com/) - Browser Games
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools

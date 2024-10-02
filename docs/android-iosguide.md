@@ -809,6 +809,7 @@ https://github.com/Akylas/alpimaps
 * [Retro Music Player](https://retromusic.app/)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
 * [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music)
+* [MissingCore Music](https://github.com/MissingCore/Music)
 * [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [mucke](https://github.com/moritz-weber/mucke)

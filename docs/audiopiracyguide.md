@@ -61,8 +61,8 @@
 ## ▷ Streaming Apps
 
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
+* ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - YouTube Music Client / [GitHub](https://github.com/KRTirtho/spotube)
 * [MooSync](https://moosync.app/) - YouTube Music Client / [GitHub](https://github.com/Moosync/Moosync)
-* [SpoTube](https://spotube.krtirtho.dev/) - YouTube Music Client
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
 * [Headset](https://headsetapp.co) - YouTube Music Client
@@ -455,7 +455,7 @@
 
 ## ▷ Game Soundtracks
 
-* [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader) - Game Soundtracks / MP3
+* ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader)
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
@@ -534,7 +534,7 @@
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
 * [Maloja](https://maloja.krateng.ch) / [GitHub](https://github.com/krateng/maloja) or [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Self-Hosted Audio Scrobbling
 * [libib](https://www.libib.com/) - Desktop Media Catalog
-* [AME](https://notabug.org/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
+* [AME](https://gitlab.com/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
 
 ***
 
@@ -705,11 +705,10 @@
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
-* ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
+* ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
 * ⭐ **[KVR Audio](https://www.kvraudio.com/)** or [VI-CONTROL](https://vi-control.net/community/) - Audio Production News / Forums
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials / [Discord](https://discord.gg/KfyHfUTjsK)
 * [We Suck At Producing](https://discord.gg/wsap) - Audio Production Discord
-* [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Vocal Remover](https://separatemusic.com/), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
@@ -735,6 +734,7 @@
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
 * [Element](https://kushview.net/element/), [Bespoke](https://www.bespokesynth.com/) or [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
 * [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/), [SuperCollider](https://supercollider.github.io/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
+* [WaveTracker](https://wavetracker.org/) - Wavetable Audio Editor / [GitHub](https://github.com/squiggythings/WaveTracker)
 * [TuneFlow](https://tuneflow.com/) - AI Audio Editor
 * [ocenaudio](https://www.ocenaudio.com/) - Audio Editor
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
@@ -856,6 +856,10 @@
 * [SoundSnap](https://www.soundsnap.com/) - 5 Weekly
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts
+
+***
+
+# ► [System Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools/#wiki_.25B7_system_audio)
 
 ***
 
