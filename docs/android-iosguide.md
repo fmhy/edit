@@ -619,13 +619,13 @@ https://github.com/Akylas/alpimaps
 * [OSS Weather](https://github.com/Akylas/oss-weather)
 * [Clima](https://codeberg.org/Lacerte/clima)
 * [Rain](https://github.com/DarkMooNight/Rain)
+* [Weawow](https://play.google.com/store/apps/details?id=com.weawow&hl=en_CA)
 * [KWeather](https://invent.kde.org/utilities/kweather)
 * [Meteored](https://rentry.co/FMHYBase64#meteored)
 * [OpenWeather](https://play.google.com/store/apps/details?id=uk.co.openweather)
 * [Bura](https://github.com/davidtakac/bura)
 * [omWeather](https://github.com/woheller69/omweather)
 * [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App
-* [Weawow](https://play.google.com/store/apps/details?id=com.weawow&hl=en_CA)
 
 ***
 
