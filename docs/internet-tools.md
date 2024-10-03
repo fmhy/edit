@@ -132,6 +132,7 @@
 * [LinkMix](https://linkmix.co/)
 * [Mylinx](https://mylinx.cc/)
 * [LinkBun](https://linkbun.io)
+* [AlsoAt](https://alsoat.app)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
