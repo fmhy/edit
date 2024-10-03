@@ -111,6 +111,8 @@
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
 * [Minetest](https://www.minetest.net/) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
+* [Teeworlds](https://teeworlds.com) - A retro multiplayer shooter
+* [DDNet](https://ddnet.org/) - DDraceNetwork, a free cooperative platformer game
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
