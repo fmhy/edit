@@ -101,8 +101,8 @@
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)**
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [Tixati](https://tixati.com/)
 * [Motrix](https://motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
+* [Tixati](https://tixati.com/)
 * [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare
 * [Picotorrent](https://picotorrent.org/)
 * [BiglyBT](https://www.biglybt.com/)
