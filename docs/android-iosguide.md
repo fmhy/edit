@@ -26,7 +26,6 @@
 * [APKVision](https://apkvision.org/)
 * [A2Z APK](https://a2zapk.io/)
 * [HappyMod](https://happymod.com/)
-* [APK Home](https://apkhome.io/)
 * [APK4Free](https://apk4free.net/)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)

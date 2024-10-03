@@ -15,6 +15,8 @@
 * ↪️ **[Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups)**
 * ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
+* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
+* [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
@@ -175,12 +177,10 @@
 * [Softpedia](https://www.softpedia.com/), [Realityripple](https://realityripple.com/), [OlderGeeks](https://oldergeeks.com/), [FilePuma](https://www.filepuma.com/), [FileEagle](https://www.fileeagle.com/), [LO4D](https://www.lo4d.com/), [GRC](https://www.grc.com/freepopular.htm), [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) or [Software Informer](https://software.informer.com/) - Freeware
 * [PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
-* [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
 * [Suckless](https://suckless.org/) - Simple Software Archive
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [The Vintage Software Collection](https://rentry.co/fmhybase64#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
-* [BelowAverage](https://belowaverage.org/) - I.T. Software
 
 ***
 
@@ -188,7 +188,6 @@
 
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
 * [Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - Adobe Software Alternative Index
-* [SaaSHub](https://www.saashub.com/) - Alt Software Index
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-Source Alternatives
 
 ***
@@ -198,15 +197,6 @@
 ***
 
 ## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)
-
-***
-
-# ► File Sharing Apps
-
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
-* [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
-* [Fopnu](https://fopnu.com/), [Shareaza](https://shareaza.sourceforge.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
-* [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 
 ***
 

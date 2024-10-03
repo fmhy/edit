@@ -55,7 +55,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 

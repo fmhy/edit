@@ -582,7 +582,7 @@
 * ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
-* ⭐ **[Edge-Remover](https://rentry.co/uninstall_edge)** - Microsoft Edge Removal Script
+* ⭐ **[Edge-Uninstall](https://rentry.co/uninstall_edge)** - Microsoft Edge Removal Script
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service

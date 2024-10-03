@@ -369,7 +369,7 @@
 * [ArmorLab](https://armorlab.org/), [Pixela](https://pixela.ai/), [Texture Library](https://www.texture-library.com/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab) / [Discord](https://discord.com/invite/975NdQPsSc)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/), [Patternizer](https://www.patternizer.com/) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [Patternizer](https://www.patternizer.com/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators

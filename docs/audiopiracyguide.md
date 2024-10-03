@@ -225,7 +225,7 @@
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk) / [Important Note](https://rentry.co/LucidaDoubleDouble)
 * ⭐ **[cobalt](https://cobalt.tools/)** - [Multi-Site](https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services) / 320kb / MP3 / Ad-Free / [Instances](https://instances.hyper.lol/)
-* ⭐ **[deezer.squid](https://deezer.squid.wtf/)** or [qobuz.squid](https://qobuz.squid.wtf/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
+* ⭐ **[squid.wtf](https://squid.wtf/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC
 * [EzMP3](https://ezmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free / [Subreddit](https://www.reddit.com/r/EzMP3/)
@@ -412,10 +412,10 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
+* ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/en/index.html)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
-* ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC / [Interviews](https://interviewfor.red/en/index.html)
+* ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[Lidarr](http://lidarr.audio/)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
