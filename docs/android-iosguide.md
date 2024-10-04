@@ -650,7 +650,7 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ Android on Windows
 
-* **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WayDroid).
+* **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems.
 
 ***
 
