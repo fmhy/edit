@@ -773,10 +773,10 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [Super Color Palette](https://supercolorpalette.com/) or [Coolors](https://coolors.co/) - Color Palette Generators
+* ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [Super Color Palette](https://supercolorpalette.com/), [Coolors](https://coolors.co/) or [Clariss](https://www.clariss.xyz/generate-palettes-from-hex/) - Color Palette Generators
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
-* [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
+* [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/), [Color Picker](https://imagecolorpicker.com/) or [Clariss](https://www.clariss.xyz/) - Generate Color Palettes from Images
 * [Color Kit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
 * [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/), [Personal Color Analysis](https://www.personal-color-analysis.com/) or [Huey](https://huey.design/) - Simple Color Palette Generators
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
@@ -798,11 +798,17 @@
 * [ColourCode](https://www.toptal.com/designers/colourcode/) or [Colordot](https://color.hailpixel.com/) - Find Colors by Moving Mouse
 * [Geenes](https://geenes.app/welcome) or [Leonardo](https://leonardocolor.io/) - Find UI Color Palettes
 * [Sorted CSS Colors](https://enes.in/sorted-colors/) - Find Similar CSS Colors
-* [Color Hunt](https://colorhunt.co/), [COLOURlovers](https://www.colourlovers.com/), [SchemeColor](https://www.schemecolor.com/), [Culrs](https://culrs.com/) or [Colorffy](https://colorffy.com/) - Find Color Palettes
+* [Color Hunt](https://colorhunt.co/), [COLOURlovers](https://www.colourlovers.com/), [SchemeColor](https://www.schemecolor.com/), [Culrs](https://culrs.com/), [Colorffy](https://colorffy.com/) or [Clariss](https://www.clariss.xyz/color-names/) - Find Color Palettes
 * [Adobe Color](https://color.adobe.com/) - Find Color Palettes with Color Wheel
 * [Color Lisa](https://colorlisa.com/) - Find Art-Based Color Palettes
 * [Color Leap](https://colorleap.app/) - Find Historical Color Palettes
 * [COLORWISE](https://colorwise.io/) - Find Color Palettes from Product Hunt Products
+
+***
+
+## ▷ Color Code Converter
+
+* [Clariss](https://www.clariss.xyz/converter/) - Hexacode ⇄ Pantone (pms) converter
 
 ***
 
