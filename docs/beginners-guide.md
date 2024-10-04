@@ -126,7 +126,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
 * **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
-* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://guides.viren070.me/stremio)**
+* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://guides.viren070.me/stremio), [2](https://rentry.co/bye-sudo)**
 
 ***
 
