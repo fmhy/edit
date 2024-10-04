@@ -1175,7 +1175,8 @@
 # ► Russian / Русский
 
 * ⭐ **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) or [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Telegram
+* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) - Censorship Discussion Telegram
+* [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List
 * [DXP](https://dxp.ru/) - Subtitles Tracker
