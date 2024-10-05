@@ -40,8 +40,8 @@
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) - Extensions
-* [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Document Chatbots / Note-Taking
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 
 ***
 
@@ -151,7 +151,6 @@
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * 🌐 **[cool-ai-stuff](https://cas.xyzbot.net)** - Comparison Overview of Free(mium) AI API Proxies
-* [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - Document Chatbots / Note-Taking
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
 * [Msty](https://msty.app/) - Desktop App

@@ -62,7 +62,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
-* ⭐ **[Shiori](https://github.com/go-shiori/shiori)** - Desktop Manager
+* [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
 * [Bort](https://bort.io/) - Web-Based Manager / Dropbox Sync
 * [WebCull](https://webcull.com/) - Web-Based Manager
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)

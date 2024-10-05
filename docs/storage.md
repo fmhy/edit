@@ -693,6 +693,7 @@
 
 ### Optimization Mods
 
+* 🌐 **[NotEssential](https://notessential.blurry.gay/)** - List of Alternatives to Essential
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ⭐ **[Fabulously Optimized](https://download.fo)** - Performance Modpack / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
