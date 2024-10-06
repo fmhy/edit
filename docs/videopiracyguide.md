@@ -393,6 +393,7 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [PhotoCall](https://photocall.xyz/) - TV
+* [Puffer](https://puffer.stanford.edu/) - San Fran TV
 * [cytube](https://cytu.be/) - Random Streams
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
 * [Baked](https://baked.live/) - Random Streams
@@ -403,8 +404,6 @@
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
 * [TitanTV](https://titantv.com/) - Live TV Listings
-* [Puffer](https://puffer.stanford.edu/) - Major brodcast stations from San Francisco
-
 
 ***
 
