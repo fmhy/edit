@@ -1587,7 +1587,7 @@
 
 * ⭐ **[caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** - Get rid of low-quality Turkish results
 * ⭐ [akakçe](https://www.akakce.com/) - Find the cheapest price of everything
-
+* [Türkçe Mahremiyet Rehberi](https://github.com/1Xnes/turkish-privacy-guide) -  Turkish Privacy Guide
 ## ▷ Downloading / İndirme
 
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
