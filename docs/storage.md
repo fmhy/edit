@@ -1032,6 +1032,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
 * ⭐ **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)**
+* ⭐ **[Letmefix Browser](https://letmefix.io/browser)**
 
 [OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
