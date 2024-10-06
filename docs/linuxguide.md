@@ -433,7 +433,7 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Android Emulators
+## ▷ Android on Linux
 
 * ⭐ **[WayDroid](https://waydro.id/)** - Android Emulator / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script)
 * [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
