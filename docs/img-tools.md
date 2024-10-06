@@ -40,37 +40,29 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Lunapic](https://lunapic.com/)**
-* ⭐ **[Photopea](https://www.photopea.com/)** / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
-* [Pixlr](https://pixlr.com/)
-* [Photomate](https://photomate.dev/)
-* [BeFunky](https://www.befunky.com/)
-* [Resize Pixel](https://www.resizepixel.com/)
-* [Polotno Studio](https://studio.polotno.com/)
-* [OIE](https://www.online-image-editor.com/)
-* [IMG online](https://www.imgonline.com.ua/eng/)
-* [BitMappery](https://www.igorski.nl/application/bitmappery/)
-* [iPiccy](https://ipiccy.com/)
-* [Kapwing](https://www.kapwing.com/)
-* [ILoveImg](https://www.iloveimg.com/photo-editor)
-* [Panzoid](https://panzoid.com/)
-* [Stet](https://stet.io/)
-* [GifGit](https://www.gifgit.com/)
-* [Polarr](https://photoeditor.polarr.co/)
-* [UpperPix](https://upperpix.com/)
-* [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/)
-* [Picverse](https://www.picverse.com/)
-* [Fotor](https://www.fotor.com/)
-* [PictureEditor](https://www.pictureeditor.com/)
-* [PhotoStack](https://photostack.app/)
-* [Facet](https://facet.ai/)
-* [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
-* [imageamigo](https://imageamigo.com)
-* [ImageOnline](https://imageonline.co/)
-* [Tom's Editor](https://tomseditor.com/)
-* [photoaid](https://photoaid.com/en/tools/)
-* [edit.photo](https://edit.photo/)
-* [Image Resizer](https://www.image-resizer.eu/)
+* ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
+* ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
+* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
+* [BitMappery](https://www.igorski.nl/application/bitmappery/) - Photoshop Alt
+* [iPiccy](https://ipiccy.com/) - Photoshop Alt
+* [Stet](https://stet.io/) - Photoshop Alt
+* [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
+* [ImageOnline](https://imageonline.co/) - Multi-Tool
+* [IMG online](https://www.imgonline.com.ua/eng/) - Multi-Tool
+* [GifGit](https://www.gifgit.com/) - Multi-Tool
+* [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
+* [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
+* [Pixlr](https://pixlr.com/) - Simple Editor
+* [Photomate](https://photomate.dev/) - Simple Editor
+* [BeFunky](https://www.befunky.com/) - Simple Editor
+* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
+* [OIE](https://www.online-image-editor.com/) - Simple Editor
+* [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
+* [UpperPix](https://upperpix.com/) - Simple Editor
+* [Picverse](https://www.picverse.com/online-photo-editor) - Simple Editor
+* [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
+* [edit.photo](https://edit.photo/) - Simple Editor
+* [Image Resizer](https://www.image-resizer.eu/) - Simple Editor
 
 ***
 
@@ -288,6 +280,7 @@
 * [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
+* [LowQualitymemes](https://www.lowqualitymemes.com/) - Low Quality / Cursed Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
 * [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
 * [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes

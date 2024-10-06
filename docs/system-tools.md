@@ -81,7 +81,7 @@
 
 ## ▷ Package Managers
 
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** CLI Package Manager
+* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager
 * ⭐ **WinGet Tools** - [Repo Browser](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
 * ⭐ **[Scoop](https://scoop.sh/)** - CLI Package Manager
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
@@ -118,29 +118,26 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[RustDesk](https://rustdesk.com/)** - FOSS Remote Desktop / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Parsec](https://parsec.app/)**
-* [RealVNC](https://www.realvnc.com/en/) - Max 3, Multi-OS Support
-* [FreeRDP](https://www.freerdp.com/)
-* [Remotly](https://remotly.com/)
-* [Aspia](https://aspia.org/)
-* [ChromeRemoteDesktop](https://remotedesktop.google.com/)
-* [TightVNC](https://www.tightvnc.com/)
-* [remoteutilities](https://www.remoteutilities.com/)
-* [p2p](https://github.com/miroslavpejic85/p2p)
-* [UVNC](https://uvnc.com/)
-* [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk)
-* [PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop)
-* [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/)
-* [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy)
-* [HopToDesk](https://www.hoptodesk.com/)
-* [CoScreen](https://www.coscreen.co/)
-* [TigerVNC](https://tigervnc.org/) - VNC
-* [noVNC](https://novnc.com/info.html) - JavaScript VNC
-* [InputDirector](https://www.inputdirector.com/) - Multi-Computer
-* [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
-* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer
-* [Nebula](https://github.com/slackhq/nebula) - Multi-Computer
+* ⭐ **[FreeRDP](https://www.freerdp.com/)** - Desktop Client / [GitHub](https://github.com/FreeRDP/FreeRDP)
+* ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[Screego](https://app.screego.net/)** - Web-Based / [GitHub](https://github.com/screego/server/)
+* [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
+* [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
+* [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
+* [CoScreen](https://www.coscreen.co/) - Desktop Client
+* [Parsec](https://parsec.app/) - Desktop Client
+* [Remotly](https://remotly.com/) - Desktop Client
+* [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
+* [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Web-Based
+* [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client
+* [Barrier](https://github.com/debauchee/barrier) - Multi-Computer Client
+* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client
+* [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Client
+* [p2p](https://github.com/miroslavpejic85/p2p) - Portable Client
+* [RustDesk](https://rustdesk.com/) - Self-Hosted Client / [GitHub](https://github.com/rustdesk/rustdesk)
+* [TigerVNC](https://tigervnc.org/) - VNC Client
+* [TightVNC](https://www.tightvnc.com/) - VNC Client
+* [noVNC](https://novnc.com/info.html) - JavaScript VNC Client
 
 ***
 

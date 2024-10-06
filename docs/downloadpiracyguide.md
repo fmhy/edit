@@ -54,26 +54,21 @@
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [AyakaLounge](https://ayakalounge.me/) - Video / Audio / ROMs
-* [2DDL](https://2ddl.it/) - Video / Audio / Books / Comics / Magazines
-* [WarezLover](https://warezlover.xyz/) - Video / Audio / ROMs / Books / Magazines
+* [1DDL](https://1ddl.org/) - Video / Audio / Books / Comics / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
 * [WarezLoad](https://warezload.net/index.php) - Video / Audio / Books
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / NSFW
-* [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Books / Magazines
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Books / Leech Required
-* [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Books
 * [Leaker](https://leaker.me/) - Video / Audio
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio / Books / Audiobooks / NSFW
-* [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Books / Magazines / NSFW
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Video / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [Amader Forum](https://amaderforum.net/) - Video / Books / NSFW
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
 * [ddlspot](https://www.ddlspot.com/) - Video / Audio
-* [Uploadgig](https://uploadgig.me/) - Video / Audio / Books / Audiobooks / Magazines / NSFW
 * [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Books / Magazines
 * [Downturk.net](https://www.downturk.net/) - Video / Audio / Books

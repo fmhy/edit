@@ -233,7 +233,6 @@
 * [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
-* [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
