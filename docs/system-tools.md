@@ -120,7 +120,7 @@
 
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Screego](https://app.screego.net/)** - Web-Based / [GitHub](https://github.com/screego/server/)
-* ⭐ **[RustDesk](https://rustdesk.com/)** - Self-Hosted Client / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [GitHub](https://github.com/rustdesk/rustdesk)
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
