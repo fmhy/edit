@@ -118,6 +118,7 @@
 
 ## ▷ Remote Desktop
 
+* ⭐ **[Parsec](https://parsec.app/)** - Desktop Client
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Screego](https://app.screego.net/)** - Web-Based / [GitHub](https://github.com/screego/server/)
 * ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [GitHub](https://github.com/rustdesk/rustdesk)
@@ -125,7 +126,6 @@
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) - Desktop Client
-* [Parsec](https://parsec.app/) - Desktop Client
 * [Remotly](https://remotly.com/) - Desktop Client
 * [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Web-Based
