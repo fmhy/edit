@@ -118,9 +118,9 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[FreeRDP](https://www.freerdp.com/)** - Desktop Client / [GitHub](https://github.com/FreeRDP/FreeRDP)
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Screego](https://app.screego.net/)** - Web-Based / [GitHub](https://github.com/screego/server/)
+* ⭐ **[RustDesk](https://rustdesk.com/)** - Self-Hosted Client / [GitHub](https://github.com/rustdesk/rustdesk)
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -134,7 +134,6 @@
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Client
 * [p2p](https://github.com/miroslavpejic85/p2p) - Portable Client
-* [RustDesk](https://rustdesk.com/) - Self-Hosted Client / [GitHub](https://github.com/rustdesk/rustdesk)
 * [TigerVNC](https://tigervnc.org/) - VNC Client
 * [TightVNC](https://www.tightvnc.com/) - VNC Client
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC Client
