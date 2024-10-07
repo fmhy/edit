@@ -119,9 +119,9 @@
 ## ▷ Remote Desktop
 
 * ⭐ **[Parsec](https://parsec.app/)** - Desktop Client
-* ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Screego](https://app.screego.net/)** - Web-Based / [GitHub](https://github.com/screego/server/)
 * ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -134,6 +134,7 @@
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Client
 * [p2p](https://github.com/miroslavpejic85/p2p) - Portable Client
+* [Screego](https://app.screego.net/) - Screen Sharing / [GitHub](https://github.com/screego/server/)
 * [TigerVNC](https://tigervnc.org/) - VNC Client
 * [TightVNC](https://www.tightvnc.com/) - VNC Client
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC Client
