@@ -451,6 +451,7 @@
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Games DDL
 * [VNPocket](https://vnpocket.com)
+* [Ryuugames](https://ryuugames.com/)
 * [CPG Repacks](https://cpgrepacks.site) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
 * [The Asenheim Project](https://www.asenheim.org) / [Play Online](https://tss.asenheim.org/)
