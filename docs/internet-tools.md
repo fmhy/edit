@@ -362,6 +362,7 @@
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
+* [Multy](https://www.multy.me) - Create a list of URLs, and share it with one link
 
 ***
 
