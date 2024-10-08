@@ -582,3 +582,8 @@
 * [fontchangerguru](https://fontchangerguru.com/)
 * [tell.wtf](https://tell.wtf/)
 * [fancytextdecorator](https://fancytextdecorator.com/)
+* [cool font generator](https://www.aicashflowmaster.online/p/cool-font-generator.html)
+[Iframe generator tool](https://www.aicashflowmaster.online/p/iframe-generato.html)
+[random password generator](https://www.aicashflowmaster.online/p/password-generator-margin-0-padding-0.html)
+[image compression tool](https://www.aicashflowmaster.online/p/image-compression-tool-margin-0-padding.html)
+[fonts for instagram](https://www.aicashflowmaster.online/p/fonts-for-instagram.html)
