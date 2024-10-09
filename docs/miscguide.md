@@ -1216,6 +1216,7 @@
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
+* [TriviaMaker](https://triviamaker.com/) - Online quiz creator with different quiz style like Jeopardy, FamilyFeud, Wheel etc. 
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
