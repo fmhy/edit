@@ -707,6 +707,7 @@ https://github.com/Akylas/alpimaps
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
 * [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Audiobook Player
 * [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Player
+* [Text Reader](https://elevenlabs.io/text-reader) - Create Audiobooks
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
