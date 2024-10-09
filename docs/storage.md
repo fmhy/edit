@@ -447,6 +447,7 @@
 * [Script 8](https://script-8.github.io/)
 * [Tic80](https://tic80.com/)
 * [Byond](https://www.byond.com/)
+* [Rosebud AI](https://www.rosebud.ai/)
 
 ### 3D Game Engines
 
@@ -1006,12 +1007,12 @@
 ## SVG Icons
 
 * 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Indexes
+* ⭐ **[Iconify](https://iconify.design/)** / [Premium Unlock](https://github.com/Kyutefox/Iconify)
 * ⭐ **[icons8](https://icons8.com/icons)**
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)**
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
-
-[Icofont](https://icofont.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/icons/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/), [cappuccicons](https://cappuccicons.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [Iconify](https://iconify.design/) / [Extension](https://github.com/Kyutefox/Iconify), [IconNinja](https://www.iconninja.com/),[IconHunt](https://www.iconhunt.site/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/)
+[Icofont](https://icofont.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/icons/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/), [cappuccicons](https://cappuccicons.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/),[IconHunt](https://www.iconhunt.site/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/)
 
 ***
 

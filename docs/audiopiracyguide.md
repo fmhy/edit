@@ -281,7 +281,7 @@
 * ⭐ **[BeatSpotBot](https://t.me/BeatSpotBot)** - Deezer / Tidal / Yandex / VK / FLAC
 * ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** and **[Glomatico Apple](https://t.me/GlomaticoAppleMusicBot)** - Amazon / Apple / FLAC / [FAQ](https://rentry.org/glomaticobotfaq)
 * [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
-* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - YouTube / JioSaavn / 320kb MP3
+* [Spotify_download_bot](https://t.me/Spotify_downloa_bot) - YouTube / JioSaavn / 320kb MP3
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Deezer / YouTube / Spotify / 320kb
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / 320kb MP3
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3
@@ -841,6 +841,7 @@
 * [Free-Loops](https://free-loops.com/)
 * [Freesound](https://freesound.org/)
 * [GDC](https://sonniss.com/gameaudiogdc)
+* [Citizen DJ](https://citizen-dj.labs.loc.gov/)
 * [soundbible](https://soundbible.com/)
 * [SoundGator](https://www.soundgator.com/)
 * [FindSounds](https://www.findsounds.com/)

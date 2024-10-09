@@ -77,6 +77,7 @@
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
+* [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
 * [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
@@ -382,6 +383,7 @@
 * [psdkeys](https://psdkeys.com/)
 * [AvaxGFX](https://avxgfx.com/)
 * [Freeject](https://www.freeject.net/)
+* [Cg_peers](https://t.me/Cg_peers)
 * [PDFTree](https://pngtree.com/)
 * [NitroGFX](https://nitrogfx.pro/)
 * [TianUI](https://www.titanui.com/)

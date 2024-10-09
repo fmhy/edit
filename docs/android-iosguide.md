@@ -10,12 +10,12 @@
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** / [App](https://forum.mobilism.org/app/) / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
-* ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
-* ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods) 
+* ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://pastebin.com/3ebTvx0b)
 * [Modyolo](https://modyolo.com/) / [Note](https://pastebin.com/3ebTvx0b)
 * [Nsane Forums](https://nsaneforums.com/)
+* [PDALife](https://pdalife.com/) / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
 * [Sbenny](https://sbenny.com/)
 * [farsroid](https://www.farsroid.com/)
 * [RevDL](https://www.revdl.com/)
@@ -460,7 +460,7 @@
 ## ▷ Android Internet
 
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [Keyguard](https://github.com/AChep/keyguard-app), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [Keyguard](https://github.com/AChep/keyguard-app), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass), [PasswordStore](https://passwordstore.app/) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[K-9 Mail](https://k9mail.app/)**, [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://f-droid.org/packages/co.appreactor.news/) / [GitHub](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti), [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news), [CapyReader](https://github.com/jocmp/capyreader) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
@@ -656,9 +656,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linuxs)**
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** / Windows Subsystem / Pre-built Binaries
-* ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
-* [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
 * [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48) - Android Emulator
@@ -994,7 +992,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
 * ⭐ **[Orion](https://kagi.com/orion/)** - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
-* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) or [PasswordStore](https://passwordstore.app/) - Password Managers
+* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Gear4](https://gear4.app/) - Browser with Userscript Support
 * [Arc](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080) - Feature-Rich iOS Adblock Browser
@@ -1173,8 +1171,8 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
 * ⭐ **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://sidestore.io/) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
-* ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* PDALife - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * [AppDB](https://appdb.to) - App Library 
 * [AppSnake](https://appsnake.cypwn.xyz/) - IAP Database
 * [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram

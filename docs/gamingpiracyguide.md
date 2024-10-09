@@ -90,7 +90,6 @@
 * ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
-* [PCGameAbandonware](https://www.pcgamesabandonware.com/) - Abandonware
 * [Flashtro](https://flashtro.com/) - Abandonware
 * [Zombs-Lair](https://www.zombs-lair.com/) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware
@@ -245,7 +244,7 @@
 * [BlueRoms](https://www.blueroms.ws/) - Emulators / ROMs / Torrents
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip 
-* [Romsie](https://romzie.com/) - Emulators / ROMs
+* [Romsie](https://roms2000.com/) - Emulators / ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs
@@ -255,7 +254,7 @@
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://roms-download.com/) - Emulators / ROMs
+* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://myretro.games/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
@@ -364,7 +363,7 @@
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives
 * ⭐ **[Ninja Kiwi Archive](https://ninjakiwi.com/archive)** - Ninja Kiwi / Bloons Archive
-* ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.zptr.cc/search) - Infinite Item Crafting Games
+* ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[TagPro](https://koalabeast.com/)** - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
@@ -418,7 +417,6 @@
 * [Deepnight](https://deepnight.net/) - Browser Games
 * [Nicky Case](https://ncase.me/) - Browser Games
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
-* [N-Arcade](https://n-arcade.io/) - Browser Games
 * [watabou](https://watabou.itch.io/) - Browser Games
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
 * [Miniplay](https://www.miniplay.com/) - Browser Games
@@ -437,6 +435,7 @@
 * [Friv](https://www.friv.com/) - Browser Games
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
+* [Rosebud AI](https://www.rosebud.ai/) - AI Made Browser Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
 * [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
@@ -453,7 +452,7 @@
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[Eaglercraft](https://eaglercraftx1-8.github.io/eagler-files/1.8/resent4.0/index.html)**, [2](https://eaglercraft.com/) - Online Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft)
-* ⭐ **Eaglercraft Tools** - [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
+* ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
 * [MiniBlox](https://miniblox.io/) - Online Minecraft Alternative
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Gidd.io](https://gidd.io/) - Multiple Games
@@ -658,7 +657,7 @@
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme / Trivia
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Kino.wtf](https://www.kino.wtf/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Kino.wtf](https://www.kino.wtf/) or [Framed](https://framed.wtf/) - Movie Guessing Games
 * [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [GuessAnimeQuiz](https://guessanimequiz.com/) - Anime Guessing
@@ -682,7 +681,6 @@
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Worldle](https://worldle.teuteuf.fr/) - Country Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
-* [Factle](https://trivia.frontofficesports.com/factle) - Trivia Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
 
@@ -693,7 +691,7 @@
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
-* [OpenGuessr](https://openguessr.netlify.app/) - Free GeoGuessr Alternative with Multiplayer
+* [OpenGuessr](https://openguessr.com/) - Free GeoGuessr Alternative with Multiplayer
 * [Geotastic](https://geotastic.net/) - Multiplayer GeoGuessr / Account Required
 * [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alternative
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr

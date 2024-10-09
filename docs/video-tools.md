@@ -348,6 +348,7 @@
 
 ## ▷ Video Editors
 
+* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
@@ -362,7 +363,6 @@
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Video Editor
 * [EZVid](https://www.ezvid.com/) - Video Editor
 * [OpenShot](https://www.openshot.org/) - Video Editor
-* [kdenlive](https://kdenlive.org/en/) - Video Editor
 * [Lightworks](https://lwks.com/) - Video Editor
 * [VSDC](https://www.videosoftdev.com/) - Video Editor
 * [avidemux](https://avidemux.sourceforge.net/) - Video Editor

@@ -113,7 +113,6 @@
 * [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
-* [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
 
 ***
 
@@ -562,7 +561,6 @@
 * [FilmyMeet](https://filmy4web.mex.com/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MoviesNation](https://moviesnation.rip/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
 * [DesireMovies](https://desiremovies.nexus/) - Movies / TV / Sub / Dub / 1080p
-* [Moviehunt](https://moviehunt.us) - Movies / TV / Sub / Dub / 1080p
 * [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+6Kx9qLtPyO80OGM1)
 * [9xflix](https://9xflix.wang/m/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
 * [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / Sub / Dub / 720p / [Login](https://pastebin.com/bQkQpee4)

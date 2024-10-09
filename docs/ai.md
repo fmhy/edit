@@ -15,7 +15,6 @@
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
-* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/), [4](https://happyapi.org/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
@@ -24,6 +23,7 @@
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
+* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
@@ -39,7 +39,7 @@
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
-* [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Document Chatbots / Note-Taking
+* [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
 
 ***
 
@@ -102,7 +102,7 @@
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot
-* [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
+* [Faraday](https://backyard.ai/) - Self-Hosted Roleplaying Chatbot
 * [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
@@ -117,23 +117,23 @@
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
 * [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / [GitHub](https://github.com/imgcook/imgcook)
-* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
+* [CodeWhisperer](https://aws.amazon.com/q/developer/) - Coding AI
 * [Telosys](https://www.telosys.org/) - Coding AI
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Sourcery](https://sourcery.ai/) - Coding AI
 * [Devv](https://devv.ai/) - Coding AI
 * [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
-* [Cody](https://about.sourcegraph.com/cody) - Coding AI
-* [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Coding AI
+* [Cody](https://sourcegraph.com/cody) - Coding AI
+* [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
 * [Bito AI](https://bito.ai/) - Coding AI
 * [Claude Dev](https://github.com/saoudrizwan/claude-dev) - Coding AI
-* [CodiumAI](https://www.codium.ai/) - Coding AI
+* [CodiumAI](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
 * [Codel](https://github.com/semanser/codel) - Coding AI
-* [DoWhile](https://chat.collectivai.com/) - Coding AI
+* [DoWhile](https://chat.dowhile.ai/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
-* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Coding AI
+* [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Coding AI
 * [Aider](https://aider.chat/) - Terminal Coding AI
 * [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
@@ -150,7 +150,7 @@
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* 🌐 **[cool-ai-stuff](https://cas.xyzbot.net)** - Comparison Overview of Free(mium) AI API Proxies
+* 🌐 **[cool-ai-stuff](https://cas.zukijourney.com/)** - Comparison Overview of Free(mium) AI API Proxies
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
@@ -181,7 +181,7 @@
 * [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory
 * [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts/) - Prompt Directory
 * [L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - Jailbreak Prompts / [Discord](https://discord.gg/basi) / [Twitter](https://x.com/elder_plinius)
-* [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
+* [promptfoo](https://github.com/promptfoo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
 * [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games
@@ -265,7 +265,7 @@
 * ⭐ **[Mage](https://www.mage.space/)** / Unlimited / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
 * ⭐ **[FastFLUX](https://fastflux.ai/)** - Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
@@ -343,14 +343,12 @@
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
-* [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
+* [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/IOPaint) - Image Fill / Item Removal
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
 * [StableDiffusion Cheatsheet](https://supagruen.github.io/StableDiffusion-CheatSheet/) - Stable Diffusion Cheatsheet
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
-* [drfar](https://rentry.org/drfar) - InPainting Guide
-* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english) or [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
 * [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
@@ -388,11 +386,11 @@
 ## ▷ Text to Speech
 
 * 🌐 **[TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)** - Text to Speech Voting / Leaderboards
-* ⭐ **[ElevenLabs](https://beta.elevenlabs.io/)** / [Discord](https://discord.com/invite/elevenlabs)
 * ⭐ **[Uberduck](https://uberduck.ai/)**
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+* [ElevenLabs](https://beta.elevenlabs.io/) / [Discord](https://discord.com/invite/elevenlabs)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm)
 * [ttsMP3](https://ttsmp3.com/)
 * [FakeYou](https://fakeyou.com/)
@@ -429,7 +427,6 @@
 * [Clownfish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Bark with Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
 * [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning
-* [RVC Docs](https://docs.aihub.wtf/) - RVC AI Documentation
 
 ***
 

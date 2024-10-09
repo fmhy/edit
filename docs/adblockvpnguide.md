@@ -184,6 +184,7 @@
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
 * [Hostux](https://hostux.network/) - Privacy Tools
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
+* [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps
 
@@ -227,7 +228,7 @@
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
-* [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
+* [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
@@ -408,7 +409,7 @@
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
-* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
+* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
 * [Xray-Core](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites

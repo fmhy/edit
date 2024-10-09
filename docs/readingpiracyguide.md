@@ -64,7 +64,7 @@
 # ► Ebooks
 
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
-* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.se/), [3](https://annas-archive.li/), [4](https://annas-archive.gs/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262)
+* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.se/), [3](https://annas-archive.li/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Mobile App](https://github.com/dstark5/Openlib)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[Z-Library](https://singlelogin.re/)**, [2](http://z-library.do/), [3](https://z-lib.gs/), [4](https://articles.sk/), [5](https://z-lib.gd/), [6](https://1lib.sk/) - Books / Comics / Educational / [Desktop / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
@@ -92,7 +92,6 @@
 * [Only Books](https://onlybooks.org/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [Read Novels](https://en.novelonlineread.com/) - Books
-* [EBooksCart](https://ebookscart.com/) - Books
 * [TPB Books](https://thepiratebay.org/search.php?q=top100:601) - Books / Torrents / **Avoid Software / Games**
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
@@ -208,7 +207,7 @@
 
 ## ▷ Esoteric / Cultural
 
-* 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
+* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
@@ -261,15 +260,12 @@
 * [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
 * [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
 * [eSword](https://e-sword.net/) - Christian Bible Desktop App
-* [BibleTheLife](https://gitlab.com/hotlittlewhitedog/BibleTheLife) - Christian Bible / Android
-* [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://alfaazplus.com/)
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
-* [English Torah](https://englishtorah.com/) - Torah Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
 * [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
@@ -299,7 +295,7 @@
 * [QSL](https://rentry.co/FMHYBase64#qsl) - Ham Radio & Antenna Books
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Film Books
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
-* [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
+* [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 * [Trans Reads](https://transreads.org/) - Transgender-focused Literature
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
@@ -410,14 +406,10 @@
 * ⭐ **[Toonily](https://toonily.com/)**
 * [Like Manga](https://likemanga.io/)
 * [Wuxia World](https://wuxiaworld.site/)
-* [MangaKomi](https://mangakomi.io/)
 * [Zero Scans](https://zscans.com/)
-* [MangaWeebs](https://mangaweebs.in/)
 * [Manhuafast](https://manhuafast.com/)
-* [Manhwasco](https://manhwasco.net/)
 * [Kaliscan](https://kaliscan.io/)
 * [Manhwatop](https://manhwatop.com/)
-* [Manhwafull](https://manhwafull.com/)
 
 ***
 
@@ -444,14 +436,11 @@
 * [Ocean of EPUB](https://oceanofepub.com/)
 * [wuxiabee](https://www.wuxiabee.net/)
 * [List Novel](https://listnovel.com/)
-* [Novel Ringan](https://novelringan.com/)
 * [NobleMTL](https://noblemtl.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
 * [Panda Novel](https://www.panda-novel.com/)
 * [FreeWebNovel](https://freewebnovel.com/)
-* [MyBoxNovel](https://myboxnovel.com/)
-* [Foxaholic](https://www.foxaholic.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels)
 * [NovelNext](https://novelnext.com/)
 * [NovelBuddy](https://novelbuddy.io/)
@@ -464,7 +453,6 @@
 * [Novel Hall](https://www.novelhall.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
 * [WoopRead](https://woopread.com/)
-* [MTL Novel](https://www.mtlnovel.com/)
 * [Royal Road](https://www.royalroad.com/) - Web Novels
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
@@ -492,7 +480,6 @@
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
-* [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
@@ -523,12 +510,10 @@
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Kiosko](https://en.kiosko.net/)
 * [FullOnHistory](https://fultonhistory.com/)
 * [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
-* [EurekaDDL](https://eurekaddl.autos/newspapers/)
 * [Newspapers](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
@@ -596,7 +581,6 @@
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [IntechOpen](https://www.intechopen.com/) - Science
-* [Magazines Scientific](https://scientificmagazines.top/) - Science Magazines
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
@@ -604,7 +588,6 @@
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
-* [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
@@ -612,14 +595,12 @@
 * [IT Book Drive](https://rentry.co/FMHYBase64#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
-* [Textbook of Bacteriology](https://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
-* [/r/Scholar](https://reddit.com/r/Scholar)
 
 ***
 
