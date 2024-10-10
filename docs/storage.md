@@ -382,7 +382,6 @@
 * https://sshkit.com/
 * https://www.jagoanssh.com/
 * https://dewassh.net/
-* https://www.speedssh.com/
 * https://www.fastssh.com/
 * https://www.mytunneling.com/
 * https://createssh.net/
@@ -560,7 +559,6 @@
 
 ## LibGen Mirrors
 
-* https://libgen.rs/ - main
 * https://libgen.is/ - main
 * https://libgen.st/ - main
 * https://libgen.li/ - clone
@@ -854,7 +852,7 @@
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxypedia](https://proxypedia.org), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [freeproxy](https://freeproxy.world/)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [freeproxy](https://freeproxy.world/)
 
 ***
 
@@ -876,11 +874,15 @@
 
 ## Random Generators
 
-[perchance](https://perchance.org/generators), [Cool Generator](https://www.coolgenerator.com/), [The One Generator](https://theonegenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix), [NumberGenerator](https://numbergenerator.org/), [Random Lists](https://www.randomlists.com/), [Random User Generator](https://randomuser.me/)
+* ⭐ **[RANDOM](https://www.random.org/)**
+
+[perchance](https://perchance.org/generators), [Cool Generator](https://www.coolgenerator.com/), [The One Generator](https://theonegenerator.com/), [Random-Ize](https://random-ize.com/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix), [NumberGenerator](https://numbergenerator.org/), [Random Lists](https://www.randomlists.com/), [Random User Generator](https://randomuser.me/)
 
 ### Random Image Sites
 
-[r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com/), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/), [z0r](https://z0r.de/)
+* ⭐ **[iFunny](https://ifunny.co/)**
+
+[r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com/), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/), [z0r](https://z0r.de/)
 
 ***
 
@@ -920,8 +922,11 @@
 ## Site Legitimacy Check
 
 * ⭐ **[URL Void](https://www.urlvoid.com/)**
+* ⭐ **[urlscan.io](https://urlscan.io/)**
+* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
+* ⭐ **[censys](https://search.censys.io/)**
 
-[ThreatStop](https://www.threatstop.com/check-ioc), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/), [ScamRate](https://www.scamrate.com/)
+[ThreatStop](https://www.threatstop.com/check-ioc), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [ScamRate](https://www.scamrate.com/)
 
 ***
 
@@ -1018,7 +1023,7 @@
 
 ## Switch ROMs
 
-* [RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605) - Use VPN
+* ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
 * [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
 * [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
@@ -1147,7 +1152,11 @@
 
 ### Simple Site Creators
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/), [Lexi's Hosting](https://hosting.lexiqqq.com/), [Reocities](https://www.reocities.xyz/), [yay.boo](https://yay.boo/), [Web 1.0 Hosting](http://web1.0hosting.net/) 
+* ⭐ **[Neocities](https://neocities.org/)**
+* ⭐ **[nekoweb](https://nekoweb.org/)**
+* ⭐ **[Eleventy](https://11ty.dev/)**
+
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/), [Lexi's Hosting](https://hosting.lexiqqq.com/), [Reocities](https://www.reocities.xyz/), [yay.boo](https://yay.boo/), [Web 1.0 Hosting](http://web1.0hosting.net/) 
 
 ***
 

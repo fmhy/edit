@@ -371,13 +371,14 @@
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Slither.io](http://slither.io/) - Grow the Longest Worm
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
-* [agar.io](https://agar.io/) - Become the Biggest Circle 
+* [agar.io](https://agar.io/) - Become the Biggest Circle
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
 * [Deeeep](https://beta.deeeep.io/) - Multiplayer Feeding Frenzy Games
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
+* [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti

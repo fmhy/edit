@@ -920,7 +920,7 @@
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Awesome Anki](https://github.com/tianshanghong/awesome-anki), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
-* ⭐ **[Scholar Unlock](https://www.scholarunlock.com/)** - Edu Account Sharing / [Note](https://ibb.co/rQTPw0N)
+* ⭐ **[Scholar Unlock](https://www.scholarunlock.com/)** - Edu Account Sharing / [Note](https://ibb.co/Rb5j1BR), [2](https://imgur.com/a/BdkX9vO)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
@@ -986,7 +986,6 @@
 * 🌐 **[JEE Masterlist](https://rentry.co/FMHYBase64#jee-masterlist)** - JEE Resources
 * 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[StudyRays](https://devjisu.com/)** - Guides / Study Material / [Telegram](https://telegram.dog/+PQRH3MJfeacxZWU1)
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archive
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
@@ -1045,7 +1044,6 @@
 * [Dictionary](https://www.dictionary.com/) - Dictionary
 * [Spellcheck](https://www.spellcheck.net/) - Dictionary
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
-* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [Words to Use](https://www.words-to-use.com/) - Find Alternative Words
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary

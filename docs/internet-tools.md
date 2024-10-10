@@ -31,7 +31,7 @@
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [TCP Optimizer](https://www.speedguide.net/downloads.php) - Connection Optimization / Tuning
-* [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public Wi-Fi Login Pages
+* [NeverSSL](http://neverssl.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
 * [MAC Address](https://macaddress.io/) - Check MAC Address
@@ -157,7 +157,7 @@
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
-* [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
+* [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
@@ -372,7 +372,6 @@
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
-* [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)

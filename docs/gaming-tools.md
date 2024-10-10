@@ -79,7 +79,6 @@
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
-* [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
@@ -530,13 +529,13 @@
 * ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android & iOS (Requires Legit Account)
-* [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) - Launchers for Bedrock Edition
+* ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launchers for Bedrock Edition
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
 * [MultiMC](https://multimc.org/) - Launcher
-* [Legacy Launcher](https://lln4.ru/en), [2](https://llaun.ch/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
+* [Legacy Launcher](https://llaun.ch/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher
@@ -645,7 +644,6 @@
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info / Tools
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
-* [Trackmania Replay Viewer](https://gbx.bigbang1112.cz/tool/replay-viewer) - View Trackmania Replays
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats

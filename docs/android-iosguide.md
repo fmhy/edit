@@ -595,7 +595,6 @@
 * [Tides Near Me](https://play.google.com/store/apps/details?id=me.tidesnear.free) - Tide Tracking App
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional) / [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
-* [Locus](https://github.com/Myzel394/locus) - E2E Location Sharing
 * [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) (root) - Fake GPS Location
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
@@ -758,7 +757,6 @@ https://github.com/Akylas/alpimaps
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [GrayJay](https://grayjay.app/) - Streaming
-* [Musify](https://gokadzev.github.io/Musify/) - Streaming / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
 * [Soundbound App](https://soundbound.app/) - Steaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
@@ -783,8 +781,9 @@ https://github.com/Akylas/alpimaps
 * [Volumee](https://maslanka.app/volumee/) or [SoundTap](https://play.google.com/store/apps/details?id=fr.angel.soundtap) - Volume Button Track Control
 * [VolumeLockr](https://github.com/jonathanklee/VolumeLockr) - Volume Locker
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
-* [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
+* [SongSync](https://github.com/Lambada10/SongSync) or [Lyricify](https://github.com/WXRIW/Lyricify-App) - Lyrics Apps
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Find Lyrics for Playing Song
+* 
 * [Metadator](https://github.com/BobbyESP/Metadator) - ID3 Metadata Editor
 
 ***
@@ -794,7 +793,6 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
 * ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
-* ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
 * ⭐ **[Symphony](https://zyrouge.github.io/symphony/)**
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
@@ -823,6 +821,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune), [3](https://github.com/DD3Boh/OuterTune) - YouTube Music Player
 * ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
+* [Musify](https://gokadzev.github.io/Musify/) - Strea YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [RiMusic](https://rimusic.xyz) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
@@ -921,7 +920,7 @@ https://github.com/Akylas/alpimaps
 * [AnimeChicken](https://animechicken.app/)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Anime Download App
-* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
+* [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
 
 ***
 
@@ -989,7 +988,6 @@ https://github.com/Akylas/alpimaps
 
 # ► iOS Tools
 
-* 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
 * ⭐ **[Orion](https://kagi.com/orion/)** - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
@@ -1180,7 +1178,6 @@ https://github.com/Akylas/alpimaps
 * [fnd](https://fnd.io/) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library /  [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * [App Cake](https://www.iphonecake.com/) - App Library
-* [iosninja](https://iosninja.io/ipa-library) - App Library
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
@@ -1248,7 +1245,6 @@ https://github.com/Akylas/alpimaps
 
 * [NineAnimator](https://nineanimator.marcuszhou.com/) / [Discord](https://discord.gg/dzTVzeW)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
-* [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
 * [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
 

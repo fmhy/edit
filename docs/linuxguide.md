@@ -236,6 +236,7 @@
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
+* [Kew](https://github.com/ravachol/kew) - Audio Player TUI
 * [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Client
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
@@ -470,12 +471,11 @@ Linux Gaming Guide
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
 * [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [eza](https://eza.rocks/) - Modern ls replacement
-* [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
+* [explainshell.com](https://explainshell.com/) or [shell.how](https://www.shell.how/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
 * [Zellij](https://zellij.dev/) - Terminal Workspace
 * [asciinema](https://asciinema.org/) - Terminal Recorder
-* [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/lotabout/skim) - Fuzzy Finders
 * [atuin](https://atuin.sh/) - Shell History Management / [GitHub](https://github.com/atuinsh/atuin)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
@@ -641,7 +641,7 @@ Linux Gaming Guide
 * [Donna](https://www.musicdonna.com/) - AI Music Generator
 * [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
 * [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
-* [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
+* [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/feramhq/Perspec) - Correct Perspective of Images
 * [Draw Things](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) - AI Image Drawing Tool

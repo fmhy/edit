@@ -784,6 +784,7 @@
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
 * [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
+* [IGMDB](https://igmdb.com/) - LGBT Movies
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
 * [Taiga](https://taiga.moe/) - Anime Tracking Program
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
@@ -938,7 +939,7 @@
 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama  / 1080p / API / [Discord](https://discord.com/invite/streamflix)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama  / 1080p / API / [Telegram](https://t.me/auto_embed)
-* [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K / 1080p
+* [VidSrc.pro](https://vidsrc.pro/) or [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p

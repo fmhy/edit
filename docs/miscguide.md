@@ -170,7 +170,7 @@
 * [WildFlowerSearch](https://wildflowersearch.org/) - Flower Identifier
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
 * [Florae](https://github.com/aeri/Florae) or [Plant-it](https://plant-it.org/) / [GitHub](https://github.com/MDeLuise/plant-it) - Plant Care Reminders
-* [WorldOfSucculents](https://worldofsucculents.com/) or [SucculentGuide](https://www.succulentguide.com/) - Succulent Database
+* [WorldOfSucculents](https://worldofsucculents.com/) - Succulent Database
 * [MyGarden](https://gitlab.com/m9712/mygarden) - Garden Management App
 * [Gardenia](https://www.gardenia.net/) or [Garden Design](https://www.gardendesign.com/) - Garden Design Resources
 * [/r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
@@ -344,7 +344,7 @@
 
 * [USGS Maps](https://www.usgs.gov/products/maps) - Geologic Maps / 3-D Geologic Frameworks
 * [Macrostrat](https://macrostrat.org/) - Geological Data Map
-* [Fishermap](https://usa.fishermap.org/depth-map/) or [Bathymetric Data Viewer](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
+* [Fishermap](https://usa.fishermap.org/depth-map/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - Raindrop Tracking Map
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
@@ -354,7 +354,6 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
-* [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
 ***
 
@@ -424,7 +423,7 @@
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [ArtDaily](https://artdaily.com) - Art News
 * [The Athletic](https://www.nytimes.com/athletic/) / [Bypass Paywall](https://fmhy.net/internet-tools#paywall-bypass) / [Mobile](https://rentry.co/FMHYBase64#the-athletic)
-* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
+* [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature](https://www.nature.com/), [Science](https://www.science.org/), [PopSci](https://www.popsci.com/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
@@ -787,9 +786,9 @@
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
+* [NewIdeas](https://indieideas.io/) or [Business Generator](https://business-generator.vercel.app/) - Generate Business Ideas
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [Playbooks](https://playbooks.com/) - Startup Tips
-* [Business Generator](https://business-generator.vercel.app/) - Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
 * [WellFound](https://wellfound.com/) - Find Employees for Startups
@@ -843,6 +842,7 @@
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [Dora](https://www.ondora.xyz/) - Cross-Chain Search Engine
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
@@ -1426,6 +1426,7 @@
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [The Red Button](https://clicktheredbutton.com/) - Find Random Sites 
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
 * [Sharkle!](https://sharkle.com/) - Find Random Sites 

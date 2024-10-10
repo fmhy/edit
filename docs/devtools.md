@@ -113,34 +113,22 @@
 * ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications
 * [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
-* [vfox](https://vfox.lhan.me/) - SDK Version Manager
-* [WinFsp](https://winfsp.dev/) - Write File Systems (i.e. "Windows drives")
-* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
+* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [MSYS2](https://www.msys2.org/) - Windows Software Creator
-* [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Dokploy](https://github.com/dokploy/dokploy), [Kamal](https://kamal-deploy.org/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment
+* [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Dokploy](https://github.com/dokploy/dokploy) or [Waypoint](https://www.waypointproject.io) - App Deployment
 * [Dotnet Content Creators](https://www.wearedotnet.io/) - .NET Content Creators Index
-* [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
-* [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [Gaultier Blog](https://gaultier.github.io/blog/x11_x64.html) - Learn x86-64 Assembly
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
-* [Cron AI](https://cron-ai.vercel.app/) - Convert Words to Cron Expressions
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Website Components
 * [Fluent Svelte](https://fluent-svelte.vercel.app/) - Microsoft's Fluent Design System in Svelte
-* [Slint](https://slint.dev) / [GitHub](https://github.com/slint-ui/slint), [Fyne](https://fyne.io/) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
-* [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
+* [Slint](https://slint.dev) / [GitHub](https://github.com/slint-ui/slint) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
-* [CODEX-Installer](https://github.com/SolsticeSpectrum/CODEX-Installer) - Original CODEX Installer Code
-* [Sparkle](https://sparkle-project.org) - MacOS Update Framework
-* [Dify](https://dify.ai/) - Create AI Apps
 * [Jina](https://docs.jina.ai) - Create AI Applications
-* [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
-* [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
-* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Create Terminal Applications
 * [Etebase](https://www.etebase.com/) - Encrypted App Backend
 * [tl;drLegal](https://www.tldrlegal.com/) - Software License Summaries
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
@@ -156,35 +144,14 @@
 * 🌐 **[Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)**, [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.com/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Resources
 * 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Heroku Alternatives
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
-* ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
-* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop), [Plasmic](https://www.plasmic.app/), [noodl](https://www.noodl.net/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators / Builders
-* [StreamLit](https://streamlit.io/) - Data Science App Creator / [Templates](https://extras.streamlit.app/)
-* [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - Windows App Dev Docs
-* [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
-* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
-* [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
-* [butterfly](https://github.com/GetStream/butterfly) - App UI Builder
-* [Layout Editor](https://apt.izzysoft.de/fdroid/index/apk/com.itsvks.layouteditor) - App Layout Editor
-* [Flutter Login Page Design](https://github.com/afgprogrammer/Flutter-Login-Page-Design) or [LoginCritter](https://github.com/cgoldsby/LoginCritter) - Login Page Designs
+* [SupaBase](https://supabase.com/), [Plasmic](https://www.plasmic.app/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators / Builders
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
-* [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
-* [Blisk](https://blisk.io/) - Cross-Device Testing
-* [Percy](https://percy.io/) - Visual App Review Platform
-* [Booster](https://booster.johnsonlee.io/) - Mobile App Optimization
-* [Xcodes App](https://github.com/XcodesOrg/XcodesApp) - Xcode Manager
-* [ControlRoom](https://github.com/twostraws/ControlRoom) - Xcode Simulator Controller
-* [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Xcode Cache Cleaner
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
-* [MDB GO](https://mdbgo.com/) - Free App Hosting
 * [namae](https://namae.dev/) - App Name Availability Check
-* [Sketchbook Compose](https://github.com/GetStream/sketchbook-compose) - Jetpack Sketchbook
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
-* [Median](https://median.co/) - Convert Websites to Mobile Apps
-* [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - Flutter Tips and Tricks
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
-* [Uiautomator2](https://github.com/openatx/uiautomator2), [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
-* [SigNoz](https://signoz.io/) - Detect App Issues
+* [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Mantine](https://mantine.dev/) - Components and Templates
@@ -192,21 +159,12 @@
 * [Official Android Courses](https://developer.android.com/courses) - Android Training Courses
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use Any Icon / Font as Your Drawable App
-* [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [Contacts Android](https://vestrel00.github.io/contacts-android/) - Android Contacts APIs
-* [Compose Samples](https://developer.android.com/develop/ui/compose) - Android UI Toolkit
 * [Push Notifications API](https://github.com/viktorholk/push-notifications-api) - Push Notifications API
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
-* [Lich](https://github.com/line/lich) - Android Development Libraries
-* [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
-* [Redex](https://fbredex.com/) - Android Bytecode Optimizer
-* [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
-* [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
-* [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
-* [Appleshouter](https://github.com/kosmigramma/appleshouter) - iOS notifications for PWAs and Web apps
 
 ***
 
@@ -384,7 +342,7 @@
 
 ## ▷ API Tools
 
-* 🌐 **[Awesome APIs](https://github.com/TonnyL/Awesome_APIs)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [RapidAPI](https://rapidapi.com/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [APIVault](https://apivault.dev/), [Any API](https://any-api.com/) or [Public APIs](http://public-apis.org) / [GitHub](https://github.com/public-apis/public-apis) - API Indexes
+* 🌐 **[Awesome APIs](https://github.com/TonnyL/Awesome_APIs)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [RapidAPI](https://rapidapi.com/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [APIVault](https://apivault.dev/) or [Any API](https://any-api.com/) - API Indexes
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [cool ai stuff!](https://cas.zukijourney.com/) or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
@@ -571,7 +529,7 @@
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
 * ⭐ **[Lite XL](https://lite-xl.com/)** - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/)
-* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Code Editor / Notepad
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
@@ -891,7 +849,6 @@
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Data Science Resources](https://rentry.co/FMHYBase64#data-science-resources) - Data Science Learning Resources
 * [365Datascience](https://365datascience.com/) - Data Science Courses
-* [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
@@ -1152,7 +1109,6 @@
 * 🌐 **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - JavaScript Resources
 * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
 * ↪️ **[Vue Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_vue_tools)**
-* [JavaScripting](https://www.javascripting.com/) - JavaScript Libraries
 * [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
 * [RunKit](https://runkit.com/) - Browser JavaScript Sandbox
 * [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
@@ -1176,7 +1132,6 @@
 * [React Suite](https://rsuitejs.com/) or [Radix UI](https://www.radix-ui.com/) - React Components
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
-* [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
 * [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
 * [Codux](https://www.codux.com/) - Visual IDE for React
@@ -1199,7 +1154,6 @@
 
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
 * [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
-* [PHP Beautifier](https://phpbeautifier.com/) - PHP Formatter
 * [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
 * [Valinor](https://valinor.cuyz.io) / [GitHub](https://github.com/CuyZ/Valinor) - PHP Object Mapper
 * [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
@@ -1332,11 +1286,11 @@
 * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
 * ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia
 * ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
-* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
 * ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Palettte](https://palettte.app/) - Color Palette Editor
+* [Colouris](https://colouris.surge.sh/) - Color Model Conversions
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
@@ -1415,7 +1369,7 @@
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
+* [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
@@ -1479,7 +1433,6 @@
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
-* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
 * [Testmail](https://testmail.app/) - Site Signup Test
 * [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)

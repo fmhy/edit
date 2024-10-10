@@ -29,7 +29,9 @@
 
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes / Plugins
 * ⭐ **Spicetify Tools** - [CLI](https://spicetify.app) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr)
+* ⭐ **[exportify](https://github.com/watsonbox/exportify)** - Playlist Backup
 * [sptlrx](https://github.com/raitonoberu/sptlrx) or [Versefy](https://versefy.app/) - Lyric Apps
+* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -38,20 +40,18 @@
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs
 * [Skiley](https://skiley.net/) - Playlist Manager
 * [Kotify](https://github.com/dzirbel/kotify) - Organize Spotify Music
-* [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists
+* [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists / [GitHub](https://github.com/okanten/playlistproxy.net)
 * [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
 * [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
-* [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://tierify.app/) - Tier Lists
-* [Kira](https://kira.vercel.app/) - Browse by Country
+* [Kira](https://kira.vercel.app/) - Browse by Country / [GitLab](https://gitlab.com/timrossback/kira)
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
-* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
 ***
@@ -87,7 +87,6 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [Spotify Web Client](https://open.spotify.com/)
-* [WProject](https://wproject.vercel.app/) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [ccMixter](https://dig.ccmixter.org/) - Browser Music
@@ -250,7 +249,6 @@
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify / 160kb Free / 320kb Premium
 * [Zotify](https://zotify.xyz/) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/Arpx9hunkm)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [Spotify Direct Downloader](https://github.com/afkarxyz/spotify-downloader-gui) - Lucida / Spotifydown Frontend 
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kb Free / FLAC Premium (Firehawk52)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC Premium (Firehawk52)/ [Colab](https://github.com/r-piratedgames/rip)
 * [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium (Firehawk52) / [GUI](https://github.com/jaylex32/BeatOn)
@@ -353,7 +351,7 @@
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC
 * [Music Rider](https://musicrider.org/) - MP3 / FLAC
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4
-* [iPlusFree](https://www7.iplusfree.org/), [iTDMusic](https://itdmusic.in/), [iTopMusicx](https://itopmusicx.com/) or [Plus Premieres](http://www129.pluspremieres.biz//) - iTunes M4A
+* [iPlusFree](https://www7.iplusfree.org/), [iTDMusic](https://itdmusic.in/) or [Plus Premieres](http://www129.pluspremieres.biz//) - iTunes M4A
 * [Archive.org](https://archive.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
@@ -365,7 +363,6 @@
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
 * [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
-* [HPS Music](https://hpsmusic.ru/) - Hardcore / Punk / MP3
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
 * [1Gabba](https://1gabba.pw/), [Gabber](https://gabber.od.ua/), [EDM Lake](https://edmlake.com/), [EDMBoost](https://edmboost.org/), [EDMWaves](https://edmwaves.org/), [MusicFans](https://musicfans.space/), [PSYFP](https://psyfp.ucoz.ru/), [DMO](https://dance-music.org/), [MyPromoSound](https://mypromosound.com/), [ElectronicFresh](https://electronicfresh.com/) - Electronic / MP3
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
@@ -392,7 +389,6 @@
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [MP3JP](https://mp3jp.si/) - Japanese / MP3 / FLAC
-* [JP Music Blog](https://jpmusicblog.com/) - Japanese / MP3 / FLAC
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
 * [MikuDB](https://mikudb.moe/) - Vocaloid / MP3
@@ -502,7 +498,6 @@
 * [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
-* [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
@@ -624,7 +619,7 @@
 * [TagEditor](https://github.com/Martchus/tageditor) - Metadata Organizer
 * [tone](https://github.com/sandreas/tone) - Metadata Organizer
 * [Kid3](https://kid3.kde.org/) - Metadata Organizer
-* [MetaTogger](https://www.luminescence-software.org/en/metatogger) - Metadata Organizer
+* [MetaTogger](https://luminescence-software.org/en/metatogger/about/) - Metadata Organizer
 * [MusicBrainz](https://picard.musicbrainz.org/) - Metadata Organizer
 * [TagScanner](https://www.xdlab.ru/en/) - Metadata Organizer
 
