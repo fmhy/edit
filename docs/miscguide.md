@@ -1376,7 +1376,7 @@
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [BogLeech](https://bogleech.com/) - Monster Design Reviews
-* [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
+* [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Lego Building Software
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
