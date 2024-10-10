@@ -143,6 +143,7 @@
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 * [CS50.ai](https://cs50.ai/) - AI Rubberducking
+* [Jibyte](https://jibyte.com/) - Multifunctional AI
 
 ***
 
