@@ -1,5 +1,5 @@
 ---
-title: Internet Archive
+title: Internet Archive Breach
 description: Internet Archive was hacked
 date: 2024-10-09
 next: false
