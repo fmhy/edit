@@ -628,6 +628,7 @@
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
+* [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermark from photos
 
 ***
 
