@@ -924,7 +924,6 @@
 * ⭐ **[URL Void](https://www.urlvoid.com/)**
 * ⭐ **[urlscan.io](https://urlscan.io/)**
 * ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
-* ⭐ **[censys](https://search.censys.io/)**
 
 [ThreatStop](https://www.threatstop.com/check-ioc), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [ScamRate](https://www.scamrate.com/)
 

@@ -443,7 +443,7 @@
 
 * ↪️ **[DNS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)**
 * ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
-* [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
+* ⭐ **[censys](https://search.censys.io/)**, [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
 * [Rankchart](https://rankchart.org/) - Multiple Domain Tools
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
