@@ -20,6 +20,7 @@
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
+* [IGExporter](https://igexporter.net) - Export Instagram follower data with just one click
 
 ***
 
