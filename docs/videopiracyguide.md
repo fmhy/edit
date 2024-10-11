@@ -941,12 +941,14 @@
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama  / 1080p / API / [Telegram](https://t.me/auto_embed)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
+* [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
 * [VidLink](https://vidlink.pro/) - Movies / TV / API / 1080p
 * [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 
-* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p 
+* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p
+* [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K / 1080p
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API / 1080p
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / 1080p  / [Telegram](https://t.me/moviesapi_club)
