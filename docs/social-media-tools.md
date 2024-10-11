@@ -267,7 +267,7 @@
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
 * [/r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
 * [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
-* [redditlist](https://redditlist.com/) or [Subreddit Stats](https://subredditstats.com/) - Subreddits Stats / Ranking
+* [Subreddit Stats](https://subredditstats.com/) - Subreddits Stats / Ranking
 
 ***
 

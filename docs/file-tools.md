@@ -416,9 +416,9 @@
 
 ## ▷ Mega Tools
 
-* ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://pastebin.com/BpS2mwKX)
 * ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
 * ⭐ **[MegaDoctor](https://github.com/tonikelope/megadoctor)** - Mega Upload Manager
 * [MEGASync](https://mega.io/desktop) or [MegaCMD](https://mega.io/cmd) - Mega Apps
 * [Mega Gen](https://rentry.co/FMHYBase64#mega-gen) - Mega Account Generator
+* [Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - Transfer Files from Mega to GDrive
