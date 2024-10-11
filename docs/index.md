@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Internet Archive Breach ⚠️
-    link: /posts/Internet-Archive
+    title: October 2024 Updates 🎃
+    link: /posts/oct-2024
   image:
     src: /test.png
     alt: FMHY Icon
