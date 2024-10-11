@@ -947,6 +947,7 @@
 * [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 
-* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p 
+* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p
+* [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 1080p / 4K 
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API / 1080p
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / 1080p  / [Telegram](https://t.me/moviesapi_club)
