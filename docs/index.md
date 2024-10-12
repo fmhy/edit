@@ -7,7 +7,7 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: October 2024 Updates 🎃
+    title: October Updates 🎃
     link: /posts/oct-2024
   image:
     src: /test.png
