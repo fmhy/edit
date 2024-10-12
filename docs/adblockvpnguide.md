@@ -328,9 +328,9 @@
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
 * 🌐 **[nixnet](https://searx.nixnet.services/)**, [searx.space](https://searx.space/) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/) or [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
+* ⭐ **[Fuck Off Google](https://search.fuckoffgoogle.net/)**, [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/) or [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
-* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
+* [whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance  / Uses Google
 * [DuckDuckGo](https://start.duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
