@@ -40,13 +40,12 @@
 
 * ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
 * ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
-* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
+* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Photoshop Alt
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 * [ImageOnline](https://imageonline.co/) - Multi-Tool
-* [IMG online](https://www.imgonline.com.ua/eng/) - Multi-Tool
 * [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
@@ -385,7 +384,7 @@
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [GraphixTree](https://graphixtree.com/)
-* [PSDLY](https://www.psdly.com/)
+* [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
 * [CGArchives](https://cgarchives.com/)
 * [CGPlugin](https://t.me/s/cgplugin)
