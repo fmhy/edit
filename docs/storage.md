@@ -85,16 +85,6 @@
 
 ***
 
-## Android Video Players
-
-* ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
-* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** -
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**
-
-[MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg), [mpv-android](https://github.com/mpv-android/mpv-android), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [SPlayer](https://splayer.dev/), [Next Player](https://github.com/anilbeesetti/nextplayer), [M3UAndroid](https://github.com/realOxy/M3UAndroid) / [Telegram](https://t.me/m3u_android), [Audiofy](https://github.com/iZakirSheikh/Audiofy)
-
-***
-
 ## App / Site Mockups
 
 * [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
@@ -697,7 +687,7 @@
 * ⭐ **[Fabulously Optimized](https://download.fo)** - Performance Modpack / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
 * ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Extra Features](https://modrinth.com/mod/sodium-extra) / [Reese's Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Additive](https://modrinth.com/modpack/additive) - Alt Optifine Modpack for Fabric
+* ⭐ **[Additive](https://modrinth.com/modpack/additive)** - Alt Optifine Modpack for Fabric
 * [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)

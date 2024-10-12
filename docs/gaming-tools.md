@@ -529,7 +529,6 @@
 * ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android & iOS (Requires Legit Account)
-* ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launchers for Bedrock Edition
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
@@ -543,6 +542,7 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Salwyrr Launcher](https://www.salwyrr.com/) - Launcher / [Use Cracked Accounts](https://pastebin.com/ggcB7RNi)
 * [Ares](https://www.aresclient.com/) - Client
+* [Bedrock Launcher](https://bedrocklauncher.github.io/) or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launchers for Bedrock Edition
 
 ***
 
