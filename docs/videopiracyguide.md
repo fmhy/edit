@@ -945,6 +945,7 @@
 * [VidLink](https://vidlink.pro/) - Movies / TV / API / 1080p
 * [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p
+* [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K / 1080p
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p
 * [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 1080p / 4K 
