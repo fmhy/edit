@@ -353,7 +353,7 @@
 
 ***
 
-* ⭐ **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
+* ⭐ **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Policies
 * ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3 for 1TB
 * ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2 for 1TB
@@ -416,9 +416,9 @@
 
 ## ▷ Mega Tools
 
-* ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://pastebin.com/BpS2mwKX)
 * ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
 * ⭐ **[MegaDoctor](https://github.com/tonikelope/megadoctor)** - Mega Upload Manager
 * [MEGASync](https://mega.io/desktop) or [MegaCMD](https://mega.io/cmd) - Mega Apps
 * [Mega Gen](https://rentry.co/FMHYBase64#mega-gen) - Mega Account Generator
+* [Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - Transfer Files from Mega to GDrive

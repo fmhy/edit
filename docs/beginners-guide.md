@@ -34,7 +34,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [watch.lonelil](https://watch.lonelil.ru/) + [Sources](https://watch.lonelil.ru/onboarding/extension) / [Nunflix](https://nunflix.com/) / [Braflix](https://www.braflix.gd/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [watch.lonelil](https://watch.lonelil.ru/) + [Sources](https://watch.lonelil.ru/onboarding/extension) / [Nunflix](https://nunflix.org/) / [Braflix](https://www.braflix.gd/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -73,7 +73,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Reading
 
-* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.is) / [Z-Library](https://z-lib.do/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
+* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.is) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
