@@ -843,7 +843,7 @@
 
 # ► Subtitles
 
-* 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
+* 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
 * [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [Subtitle Workshop](https://www.uruworks.net/), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
