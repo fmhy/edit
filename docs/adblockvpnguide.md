@@ -265,7 +265,7 @@
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
-* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
+* ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA
 * ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
 * ⭐ **[Password Strength Chart](https://i.ibb.co/y8n3BZP/Hive-Systems-Password-Table-2024-Square.png)** / [2](https://i.imgur.com/g4NcQKd.png)
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
