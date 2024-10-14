@@ -249,7 +249,7 @@
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * 🌐 **[GitHub-Userscripts](https://greasyfork.org/en/users/24847)** - GitHub Userscripts
 * ⭐ **[GitHub Desktop](https://desktop.github.com/)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
-* ⭐ **[GitHub.Dev](https://github.dev/)* - GitHub Web Apps
+* ⭐ **[GitHub.Dev](https://github.dev/)** - GitHub Web Apps
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
