@@ -267,6 +267,7 @@
 
 * ⭐ **[Signal](https://signal.org/#signal)** or [Mollyim](https://github.com/mollyim/mollyim-android)
 * ⭐ **[Briar](https://briarproject.org/)**
+* ⭐ **[SimpleX](https://simplex.chat/)**
 
 [Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
 
@@ -1116,6 +1117,7 @@
 
 ### Udemy TG Channels
 
+* [UdemyRip](https://t.me/udemyrip)
 * [udemyforu](https://t.me/udemyforu)
 * [CGPERS](https://t.me/CGPERS)
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily)

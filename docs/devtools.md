@@ -58,9 +58,9 @@
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * ⭐ **[DevDocs](https://devdocs.io/)** - Dev Documentation
+* ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App
 * [Slidev](https://github.com/slidevjs/slidev) - Developer Presentation Slides
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* [DevToys](https://devtoys.app/) - Dev Multi-Tool App
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [AppFlowy](https://appflowy.io/) - Project Workspace / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
@@ -998,7 +998,7 @@
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
 * [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
-* [Formshare](https://formshare.ai/) - AI Form / Feedback Builder
+* [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
@@ -1200,7 +1200,7 @@
 ## ▷ SVG Tools
 
 * ↪️ **[SVG / Vector Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
-* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)

@@ -45,8 +45,8 @@
 
 ## ▷ AI Search Engines
 
-* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/) / [Enhancements](https://cplx.vercel.app/)
 * ⭐ **[You](https://you.com/)** - AI Search Engine
 * [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
@@ -68,7 +68,8 @@
 ## ▷ Self-Hosting Tools
 
 * ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Frontend for LLMs
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface
+* ⭐ **[Open-WebUI](https://openwebui.com/)** - Self-Hosted Interface / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
@@ -211,6 +212,7 @@
 * ⭐ **[LMSYS Arena](https://lmarena.ai/?leaderboard)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[LiveBench](https://livebench.ai/)** - Chatbot Leaderboards / Benchmarks
+* [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
 * [Aider Leaderboards](https://aider.chat/docs/leaderboards/) - Chatbot Leaderboards / Benchmarks
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
@@ -274,6 +276,7 @@
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell?ref=blog.fal.ai) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev?ref=blog.fal.ai) / Unlimited
+* [NexusAI](https://flux.nexusapi.tech/) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
@@ -287,6 +290,7 @@
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
+* [Pixvify](https://pixvify.com/) / Unlimited
 * [OIChat](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)

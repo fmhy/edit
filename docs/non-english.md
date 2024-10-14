@@ -540,7 +540,7 @@
 * ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MkvCinemas](https://mkvcinemas.cat/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
-* ⭐ **[MoviesMod](https://moviesmod.life/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[MoviesMod](https://moviesmod.day/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
@@ -628,10 +628,8 @@
 ## ▷ Reading
 
 * [SuccessCDs](https://www.successcds.net/) - CBSE Study Guides
-* [BDEBooks](https://bdebooks.com/) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
-* [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism Texts
 
 ***
 
@@ -1106,6 +1104,7 @@
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
 * [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
+* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Comic Encyclopedia
 * [Kiniga](https://kiniga.com) - Light Novels
 * [Novel Mania](https://novelmania.com.br) - Light Novels
 * [Central Novel](https://centralnovel.com) - Light Novels
@@ -1117,6 +1116,7 @@
 * [Poesias Online](https://www.poesiasonline.com) - Poetry
 * [Site de Poesias](https://sitedepoesias.com) - Poetry
 * [A Magia da Poesia](https://poemassemerros.wordpress.com) - Poetry
+* [bibliotecaelfica](https://bibliotecaelfica.org/) - RPG Books
 * [Superarquivo](https://super.abril.com.br/superarquivo/) - Magazines
 * [Jornais e Revistas](https://www.jornaiserevistas.com) - Magazines
 * [VerCapas](https://www.vercapas.com.br) - Magazines
@@ -1137,7 +1137,6 @@
 * [Apologeta](https://www.apologeta.com.br) - Bible Commentary
 * [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
 * [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
-* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Comic Encyclopedia
 
 ***
 
@@ -1775,6 +1774,7 @@
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
 * [Violet](https://violet.vn) - Educational Books / Documents
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
+* [Tech12h](https://tech12h.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.cc/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
 * [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua

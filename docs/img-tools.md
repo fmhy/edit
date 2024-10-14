@@ -189,6 +189,7 @@
 
 ## ▷ Drawing
 
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching
 * ⭐ **[AutoDraw](https://www.autodraw.com/)** or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
 * [inkscape](https://inkscape.org/) - Drawing / Sketching
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
@@ -200,7 +201,6 @@
 * [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Mobile Only
 * [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS Only
 * [Concepts](https://concepts.app/) - Drawing / Sketching
-* [Excalidraw](https://excalidraw.com/) - Drawing / Sketching
 * [Aggie.io](https://aggie.io/), [Magma](https://magma.com/index), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)

@@ -56,7 +56,7 @@
 * [Porndish](https://www.porndish.com/)
 * [Analdin](https://www.analdin.com/)
 * [Tube8](https://www.tube8.com/)
-* [xMegaDrive](https://video.xmegadrive.com/)
+* [xMegaDrive](https://www.xmegadrive.com/), [2](https://video.xmegadrive.com/)
 * [Porndoe](https://porndoe.com/)
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)

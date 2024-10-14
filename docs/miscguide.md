@@ -402,6 +402,7 @@
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [GeoHack](https://geohack.toolforge.org/) - Uncensored Google Satellite View
 
 ***
 
@@ -1230,7 +1231,6 @@
 ## ▷ Interactive
 
 * 🌐 **[David.li](https://david.li/)** - Physics Games
-* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators
 * ↪️ **[Fun Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)**
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_image_creation)**
@@ -1241,10 +1241,6 @@
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
 * ⭐ **[2020 Game](https://2020game.io/)** - Play Through 2020
-* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
-* [PCjs Machines](https://www.pcjs.org/) or [Windows93](https://www.windows93.net/) - Classic Computer Emulators
-* [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
-* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
@@ -1352,12 +1348,13 @@
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.com/invite/XPz5Zm42tR)
-* [Old Computer Museum](https://oldcomputers.net/) - Computer History / Info
+* [Old Computer Museum](https://oldcomputers.net/) - Computer History
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
 * [Folklore](https://www.folklore.org) or [TheAppleWiki](https://theapplewiki.com/) - Apple Computer History
-* [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History / Info
-* [The Retro Web](https://theretroweb.com/) - Computer Hardware History / Info
-* [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History / Info
+* [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History
+* [The Retro Web](https://theretroweb.com/) - Computer Hardware History
+* [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History
+* [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
 * [KilledByGoogle](https://killedbygoogle.com/), [KilledByMicrosoft](https://killedbymicrosoft.info/) or [KilledByTech](https://killedby.tech/) - Dead Projects
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
