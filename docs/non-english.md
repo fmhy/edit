@@ -1104,7 +1104,6 @@
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
 * [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
-* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Comic Encyclopedia
 * [Kiniga](https://kiniga.com) - Light Novels
 * [Novel Mania](https://novelmania.com.br) - Light Novels
 * [Central Novel](https://centralnovel.com) - Light Novels
@@ -1137,6 +1136,7 @@
 * [Apologeta](https://www.apologeta.com.br) - Bible Commentary
 * [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
 * [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
+* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Wikipedia Parody
 
 ***
 
