@@ -119,7 +119,7 @@
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
-
+* [Discord Music Presence](https://github.com/ungive/discord-music-presence) - Any Music Media Player Rich Presence / [Discord](https://discord.gg/7rc8dWD4ug)
 ***
 
 ## ▷ Discord Bots
