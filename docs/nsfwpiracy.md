@@ -502,6 +502,7 @@
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Rule 34 App](https://r34.app/) - PWA Booru Client
 * [Boob Bot](https://www.boobbot.us/) or [CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Porn Image Downloaders
+* [Rule34 Scroller](https://rule34.pw/)
 
 ***
 
