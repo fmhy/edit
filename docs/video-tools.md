@@ -345,7 +345,7 @@
 ## ▷ Video Editors
 
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Requires Registration - Video Editor
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
@@ -383,7 +383,7 @@
 ## ▷ Online Editors
 
 * ⭐ **[Pikimov](https://pikimov.com/)**
-* ⭐ **[Mastershot](https://mastershot.app/)** - Requires Registration
+* ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
 * [Kapwing](https://www.kapwing.com/)
