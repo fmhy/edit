@@ -118,7 +118,7 @@
 * [Freevee](https://www.amazon.com/gp/video/storefront/subscription/freewithads) - Movies / TV / 1080p / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p / US Only
-* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US Only / Use Adblocker
+* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US + CA Only / Use Adblocker
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / US Only / Library Card Required
 * [7+](https://7plus.com.au/) - Movies / TV / 1080p / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
