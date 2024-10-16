@@ -30,6 +30,7 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
+* [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
@@ -51,11 +52,11 @@
 * ⭐ **[You](https://you.com/)** - AI Search Engine
 * [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
+* [Andi](https://andisearch.com/) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine
 * [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
-* [Andi](https://andisearch.com/) - AI Search Engine
 * [iSeek](https://www.iseek.com/) - AI Search Engine
 * [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
@@ -68,7 +69,8 @@
 ## ▷ Self-Hosting Tools
 
 * ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Frontend for LLMs
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface
+* ⭐ **[Open-WebUI](https://openwebui.com/)** - Self-Hosted Interface / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
@@ -115,13 +117,13 @@
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
 * ⭐ **[Codeium](https://codeium.com/)** - Coding AI / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
+* [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations
+* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
+* [Devv](https://devv.ai/) - Coding Search Engine
 * [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / [GitHub](https://github.com/imgcook/imgcook)
 * [CodeWhisperer](https://aws.amazon.com/q/developer/) - Coding AI
 * [Telosys](https://www.telosys.org/) - Coding AI
-* [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
-* [Sourcery](https://sourcery.ai/) - Coding AI
-* [Devv](https://devv.ai/) - Coding AI
 * [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
@@ -211,6 +213,7 @@
 * ⭐ **[LMSYS Arena](https://lmarena.ai/?leaderboard)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[LiveBench](https://livebench.ai/)** - Chatbot Leaderboards / Benchmarks
+* [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
 * [Aider Leaderboards](https://aider.chat/docs/leaderboards/) - Chatbot Leaderboards / Benchmarks
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
@@ -274,6 +277,7 @@
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell?ref=blog.fal.ai) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev?ref=blog.fal.ai) / Unlimited
+* [NexusAI](https://flux.nexusapi.tech/) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
@@ -287,6 +291,7 @@
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
+* [Pixvify](https://pixvify.com/) / Unlimited
 * [OIChat](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)

@@ -147,6 +147,10 @@ export const nav: DefaultTheme.NavItem[] = [
         link: 'https://github.com/fmhy/bookmarks'
       }
     ]
+  },
+  {
+    text: '💐 tasky',
+    link: 'https://tasky.nuxt.dev'
   }
 ]
 

@@ -56,7 +56,7 @@
 * [Porndish](https://www.porndish.com/)
 * [Analdin](https://www.analdin.com/)
 * [Tube8](https://www.tube8.com/)
-* [xMegaDrive](https://video.xmegadrive.com/)
+* [xMegaDrive](https://www.xmegadrive.com/), [2](https://video.xmegadrive.com/)
 * [Porndoe](https://porndoe.com/)
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)
@@ -495,6 +495,7 @@
 * [Xbooru](https://xbooru.com/)
 * [The Hentai World](https://thehentaiworld.com/)
 * [WHentai](https://whentai.com/)
+* [Rule34 Scroller](https://rule34.pw/)
 * [Hypno Hub](https://hypnohub.net/) - Hypno Fetish Art / [Discord](https://discord.com/invite/4Y82pB6)
 * [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)

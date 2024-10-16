@@ -46,14 +46,24 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/test.png', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: '/test.png' }],
     ['link', { rel: 'mask-icon', href: '/test.png', color: '#7bc5e4' }],
-    ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
+    ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }],
     // Bing site verification
-    ["meta", {
-      name: "msvalidate.01", content: "55ae5a0600A8C7827B59CFD506D76DC2"
-    }],
+    [
+      'meta',
+      {
+        name: 'msvalidate.01',
+        content: '55ae5a0600A8C7827B59CFD506D76DC2'
+      }
+    ],
     // Google site verification
-    ["meta", { name: "google-site-verification", content: "XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E" }]
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: 'XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E'
+      }
+    ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
@@ -130,7 +140,7 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://github.com/taskylizard">taskylizard</a> and contributors. <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>`
+      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://tasky.nuxt.dev" class="text-[#ff91af]">taskylizard</a> and contributors. <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',
