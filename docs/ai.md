@@ -120,10 +120,10 @@
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
 * [Devv](https://devv.ai/) - Coding Search Engine
-* [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
+* [Cursor](https://www.trycursor.com/) - AI Code Editor / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / [GitHub](https://github.com/imgcook/imgcook)
 * [CodeWhisperer](https://aws.amazon.com/q/developer/) - Coding AI
-* [Telosys](https://www.telosys.org/) - Coding AI
+* [Telosys](https://www.telosys.org/) - Lightweight Code Generator
 * [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
