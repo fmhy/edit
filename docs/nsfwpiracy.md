@@ -247,7 +247,7 @@
 * [Reddit Gone Wild](https://gonewildbrowser.com/)
 * [ViralPorn](https://viralporn.com/)
 * [nsfw.xxx](https://nsfw.xxx/)
-* [Scroller](https://scrolller.com/)
+* [Scroller](https://scrolller.com/) [downloader](https://github.com/sakonma/scrolllah)
 * [NSFWSwipe](https://nsfwswipe.com/v/6716209)
 * [NSFW Monster](https://nsfwmonster.com/)
 * [Simple-Costplay](https://www.simply-cosplay.com/), [Mitaku](https://mitaku.net/), [Hentai Costplays](https://hentai-cosplays.com) or [NudeCosplayGirls](https://nudecosplaygirls.com/) - Cosplay Images
