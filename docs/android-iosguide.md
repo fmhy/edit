@@ -685,6 +685,7 @@ https://github.com/Akylas/alpimaps
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager
 * [Meoko](https://play.google.com/store/apps/details?id=com.app.meoko) - Anime Torrent Search
 * [AniVu](https://github.com/SkyD666/AniVu) - Anime Torrent Client / Streaming
+* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en-US) - Android downloader / torrent client
 
 ***
 
