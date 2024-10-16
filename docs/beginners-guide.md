@@ -45,7 +45,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Anime 
 
-* **Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/)**
+* **Streaming: [Gojo](https://gojo.live/) / [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
