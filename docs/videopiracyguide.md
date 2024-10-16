@@ -947,7 +947,7 @@
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
 * [VidLink](https://vidlink.pro/) - Movies / TV / API / 1080p
-* [CineScrape](https://cinescrape.com/) - Movies / TV / Anime / API / 4K / [Discord](https://discord.gg/XbDBBmh5FY)
+* [CineScrape](https://cinescrape.com/) - Movies / TV / Anime / API / 4K / 1080p / [Discord](https://discord.gg/XbDBBmh5FY)
 * [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K / 1080p
