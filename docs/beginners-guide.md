@@ -34,7 +34,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/vXzVCEda) [watch.lonelil](https://watch.lonelil.ru/)** + [Sources](https://watch.lonelil.ru/onboarding/extension) / [Nunflix](https://nunflix.com/) / [Braflix](https://www.braflix.st/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [watch.lonelil](https://watch.lonelil.ru/) + [Sources](https://watch.lonelil.ru/onboarding/extension) / [Nunflix](https://nunflix.org/) / [Braflix](https://www.braflix.is/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -55,7 +55,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
@@ -73,7 +73,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Reading
 
-* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
+* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.is) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
@@ -99,7 +99,7 @@ Before installing any file, its recommended to scan the setup / install with **[
 
 Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices. 
 
-For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.nixnet.services/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
 
 !!!note Its best *not* to use your main email or password when you sign up for piracy sites. Its good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
 
@@ -126,7 +126,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
 * **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
-* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://viren070.github.io/guides/stremio/guide)**
+* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://guides.viren070.me/stremio), [2](https://rentry.co/bye-sudo)**
 
 ***
 

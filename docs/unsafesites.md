@@ -86,6 +86,8 @@
 
 ### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 
-### [FMHY Adblock Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) 
-
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
+
+***
+
+You can add all of these sites to your adblocker using our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)**, [2](https://fmhy.github.io/FMHYFilterlist/).

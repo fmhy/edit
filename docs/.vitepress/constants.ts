@@ -131,7 +131,6 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: '🔖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
-  { text: '📑 Guides', link: 'https://rentry.co/fmhy-guides' },
   {
     text: '💾 Backups',
     link: 'https://github.com/fmhy/FMHY/wiki/Backups'
@@ -143,13 +142,15 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '🌐 Search', link: '/posts/search' },
       { text: '🏞 Wallpapers', link: '/other/wallpapers' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
-      { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
-      { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
       {
         text: '🔗 Bookmarks',
         link: 'https://github.com/fmhy/bookmarks'
       }
     ]
+  },
+  {
+    text: '💐 tasky',
+    link: 'https://tasky.nuxt.dev'
   }
 ]
 
