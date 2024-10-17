@@ -27,10 +27,11 @@ export default defineEventHandler(async (event) => {
   )
   const env = useRuntimeConfig(event)
 
+  const pageURL = `https://fmhy.net${page}`
   const fields = [
     {
       name: 'Page',
-      value: page,
+      value: `[${page}](${pageURL})`,
       inline: true
     },
     {
