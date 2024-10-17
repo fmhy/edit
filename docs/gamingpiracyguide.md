@@ -697,6 +697,7 @@
 ## ▷ GeoGuessr Games
 
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
+* [Geohub](https://www.geohub.gg/) / [Github](https://github.com/benlikescode/geohub) / [Discord](https://discord.com/invite/9qdXWqgbrH) - Requires Google Maps API key
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
 * [OpenGuessr](https://openguessr.com/) - Free GeoGuessr Alternative with Multiplayer
