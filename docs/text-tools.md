@@ -124,7 +124,7 @@
 ## ▷ Encode / Decode
 
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
-* ⭐ **[Base64 Decode](https://www.base64decode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/) or [Base64.Guru](https://base64.guru/) - Encode / Decode Base64
+* ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 E/D](https://apps.maximelafarie.com/base64/) - Encode / Decode Base64
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
