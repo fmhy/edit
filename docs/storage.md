@@ -132,10 +132,12 @@
 
 ## Browser Startpages
 
+* 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
+* 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://behu.io/) / [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
 
 ### Customizable New Tab Page
 

@@ -16,7 +16,8 @@
 * [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/), [4](https://happyapi.org/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://happyapi.org/) - GPT-4o / Multiple Chatbots
+* [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [Not Diamond](https://chat.notdiamond.ai/) - Multiple Chatbots
 * [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
@@ -120,10 +121,10 @@
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
 * [Devv](https://devv.ai/) - Coding Search Engine
+* [Telosys](https://www.telosys.org/) - Lightweight Code Generator
 * [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / [GitHub](https://github.com/imgcook/imgcook)
 * [CodeWhisperer](https://aws.amazon.com/q/developer/) - Coding AI
-* [Telosys](https://www.telosys.org/) - Coding AI
 * [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI

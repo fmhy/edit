@@ -6,9 +6,8 @@
 
 # ► Audiobooks
 
-* [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
-* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
-* [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converter
+* ⭐ **[Text Reader](https://elevenlabs.io/text-reader)** or [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converters
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
 * [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
@@ -382,6 +381,7 @@
 * [Mangairo](https://h.mangairo.com/)
 * [MangaBerri](https://mangaberri.com/)
 * [OniManga](https://onimanga.com)
+* [Shiroko](https://shiroko.co/)
 * [MangaBat](https://m.mangabat.com/)
 * [Mangahasu](https://mangahasu.se/)
 * [mangapill](https://mangapill.com/)

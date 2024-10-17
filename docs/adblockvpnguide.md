@@ -395,7 +395,6 @@
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
 * [Lantern](https://lantern.io/) - Free Proxy / Slowed Past 250mb
-* [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [zapret](https://github.com/bol-van/zapret) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
@@ -420,6 +419,7 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
+* ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/)

@@ -390,7 +390,6 @@
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planet-DB](https://planete-bd.org/) - Manga / Comics
 * [mangascan](https://mangascan-fr.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.me/) - Manga
-* [Bento Manga](https://www.bentomanga.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
 

@@ -73,10 +73,10 @@
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord)
-* ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Discord Client Mod / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/Vm4CwZx)
+* [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+* BetterDiscord Tools - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4)
 * [Legcord](https://github.com/Legcord/Legcord) - Discord Client / Lightweight / [Discord](https://discord.gg/TnhxcqynZ2)
 * [GoofCord](https://github.com/Milkshiift/GoofCord) - Privacy-Focused Legcord Fork

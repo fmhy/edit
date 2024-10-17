@@ -158,6 +158,7 @@
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [1Anime](https://1anime.co/), [2](https://1anime.one/) - Sub / Dub / 1080p / [Discord](https://dsc.gg/1Anime)
+* [Shiroko](https://shiroko.co/) - Sub / Dub / 1080p
 * [Anidey](https://anidey.fun/) - Sub / Dub / 1080p / [Discord](https://discord.gg/rT5AQkys2v)
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube) - Sub / Dub / 1080p
 * [Animixplay.name](https://animixplay.name/), [2](https://animixplay.st/) - Sub / Dub / 1080p
