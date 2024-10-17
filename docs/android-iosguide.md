@@ -1098,7 +1098,7 @@ https://github.com/Akylas/alpimaps
 
 * 🌐 **[iOS Jailbreak Guide](https://ios.cfw.guide/)**, [CanIJailbreak?](https://canijailbreak.com/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
-* ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)**, [Free Sideloading](https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/), [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guides
+* ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)**, [Free Sideloading](https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/), [2](https://sideloading.vercel.app/), [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guides
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
