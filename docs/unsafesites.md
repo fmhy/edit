@@ -15,7 +15,7 @@
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
-* SteamUnlocked - [IGG uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
+* SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 
 ***
 
