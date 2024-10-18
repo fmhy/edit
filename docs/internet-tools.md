@@ -101,7 +101,7 @@
 
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
-* ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/), [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
+* ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
 * [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
@@ -111,28 +111,26 @@
 
 ***
 
-## ▷ Link in Bio Sites
+## ▷ Link in Bio
 
-* ⭐ **[Linktree](https://linktr.ee/)**
-* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-Hosted
-* ⭐ **[Bio Link](https://bio.link/)**
-* [Beacons](https://beacons.ai/)
-* [Carrd](https://carrd.co/)
-* [Ayo](https://ayo.so/)
-* [ContactInBio](https://www.contactinbio.com/)
-* [LinkSpace.Bio](https://linkspace.bio/)
-* [Campsite.bio](https://campsite.bio/)
-* [Taplink](https://taplink.at/)
-* [Lynk](https://lynk.id/)
-* [Bento](https://bento.me/)
-* [ammo.lol](https://ammo.lol/)
-* [Linkezo](https://linkezo.com/)
-* [Hipolink](https://hipolink.net/)
-* [Linkr](https://linkr.com/)
-* [LinkMix](https://linkmix.co/)
-* [Mylinx](https://mylinx.cc/)
-* [LinkBun](https://linkbun.io)
-* [AlsoAt](https://alsoat.app)
+* ⭐ **[Linktree](https://linktr.ee/)** / Unlimited / Custom URLs
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) / Unlimited / Self-Hosted
+* ⭐ **[Bio Link](https://bio.link/)** / Unlimited / Custom URLs
+* [Bento](https://bento.me/) / Unlimited / Custom URLs
+* [LinkBun](https://linkbun.io) / Unlimited / Custom URLs
+* [Lynk](https://lynk.id/) / Unlimited / Custom URLs
+* [ContactInBio](https://www.contactinbio.com/) / Unlimited / Custom URLs
+* [AlsoAt](https://alsoat.app) / Unlimited / Custom URLs
+* [ammo.lol](https://ammo.lol/) / Unlimited / Custom URLs
+* [Mylinx](https://mylinx.cc/) / Unlimited / Custom URLs
+* [Linkr](https://linkr.com/) / Unlimited / Custom URLs
+* [Beacons](https://beacons.ai/) / Unlimited
+* [Carrd](https://carrd.co/) / Unlimited
+* [Ayo](https://ayo.so/) / Unlimited
+* [Campsite.bio](https://campsite.bio/) / Unlimited
+* [Taplink](https://taplink.at/) / Unlimited
+* [LinkSpace.Bio](https://linkspace.bio/) / 250 Limit / Custom URLs
+* [LinkMix](https://linkmix.co/) / 20 Limit
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
@@ -326,6 +324,7 @@
 
 ## ▷ Google Search Tools
 
+* 🌐 **[SearchTweaks](https://searchtweaks.com/)** - Google Search Tools
 * [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
 * [goosh](https://goosh.org/) - Simple Google Web Client
@@ -669,6 +668,7 @@
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
+* [CopyTabTitleURL](https://github.com/k08045kk/CopyTabTitleUrl) - Link Auto-Markdown Formatting
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - Turn Webpages into Editable Documents

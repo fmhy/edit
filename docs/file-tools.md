@@ -365,7 +365,7 @@
 * [mediafire](https://www.mediafire.com/) - 10GB Free / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / ~$4 for 1TB
-* [Proton Drive](https://proton.me/drive) - 5GB Free / ~$23 for 3TB
+* [Proton Drive](https://proton.me/drive) - 2GB Free / ~$23 for 3TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB

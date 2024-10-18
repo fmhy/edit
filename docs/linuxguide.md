@@ -248,6 +248,7 @@
 * [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger
 * [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
+* [Blanket](https://github.com/rafaelmardojai/blanket) - Ambient Sound Mixer for Linux
 * [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 
