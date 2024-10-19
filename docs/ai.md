@@ -270,7 +270,7 @@
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
-* ⭐ **[FastFLUX](https://fastflux.ai/)** - Unlimited
+* ⭐ **[Runware](https://runware.ai/)** - Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily

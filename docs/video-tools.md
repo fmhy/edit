@@ -461,13 +461,14 @@
 ## ▷ Stock Videos
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
-* ⭐ **[VidsPlay](https://www.vidsplay.com/)** - Stock Videos
+* [Pexels](https://www.pexels.com/) - Stock Videos
 * [4K Media](https://4kmedia.org/) - 4K Stock Videos
 * [Dareful](https://dareful.com/) - 4K Stock Videos
 * [Monzoom](https://www.monzoom.com/) - 4K Stock Videos
 * [BeachFrontBroll](https://www.beachfrontbroll.com/) - Stock Videos
 * [Videvo](https://www.videvo.net/) - Stock Videos
 * [veed.io](https://www.veed.io/videos) - Stock Videos
+* [VidsPlay](https://www.vidsplay.com/) - Stock Videos
 * [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Stock Videos
 * [MixKit](https://mixkit.co/) - Stock Videos
 * [ineedfx](https://ineedfx.com/) - Stock Videos

@@ -40,6 +40,7 @@
 * ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
 * ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
 * ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
+* ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Photoshop Alt
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
@@ -48,7 +49,6 @@
 * [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
-* [Pixlr](https://pixlr.com/) - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [BeFunky](https://www.befunky.com/) - Simple Editor
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor

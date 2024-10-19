@@ -378,7 +378,7 @@
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
-* [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 
 ## ▷ Reading / Lecture 
 
@@ -620,7 +620,7 @@
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
 * [PhysicsWallah](https://www.pw.live/) - Physics Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
-* [Lesics](https://youtube.com/@LesicsHindi) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsHindi) - Sabins Civil Engineering
 
 ## ▷ Reading
 
@@ -650,7 +650,7 @@
 * [OtakuDesu](https://otakudesu.cloud/) - Anime / Sub / 720p
 * [Kuramanime](https://kuramanime.boo/) - Anime / Sub / 720p
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
-* [Lesics](https://youtube.com/@LesicsIndo) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsIndo) - Sabins Civil Engineering
 
 ## ▷ Reading / Membaca
 
@@ -744,7 +744,7 @@
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Abema](https://abema.tv/) - Live TV
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
-* [Lesics](https://youtube.com/@LesicsJPN) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsJPN) - Sabins Civil Engineering
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Movie Archive
 * [kuukunen](https://touhou.kuukunen.net/) - Music
@@ -814,7 +814,7 @@
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
-* [Lesics](https://youtube.com/@Sabinz) - Engineering Courses
+* [Lesics](https://youtube.com/@Sabinz) - Sabins Civil Engineering
 
 ## ▷ Reading
 
@@ -1053,7 +1053,7 @@
 * [Veduca](https://veduca.org) - Courses
 * [Moodle](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) - MOOC Courses
 * [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
-* [Lesics](https://youtube.com/@LesicsPOR) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsPOR) - Sabins Civil Engineering
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
 * [Harpa Cristã](https://harpacrista.org), [2](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
@@ -1507,7 +1507,7 @@
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
-* [Lesics](https://youtube.com/@LesicsESP) - Engineering Courses
+* [Lesics](https://youtube.com/@LesicsESP) - Sabins Civil Engineering
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 
 ## ▷ Reading / Leer
@@ -1815,7 +1815,7 @@
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian Streaming / Dubbed Cartoons / Use Adblock
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
-* [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
+* [Lesics](https://youtube.com/@LesicsDE) - Danish / Sabins Civil Engineering
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons

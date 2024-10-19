@@ -154,7 +154,7 @@
 * ⭐ **[ADBAppControl](https://adbappcontrol.com/en/)** or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers
 * ⭐ **[Gadget Bridge](https://gadgetbridge.org/)** - Bluetooth Device Manager
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop
-* [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
+* [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
