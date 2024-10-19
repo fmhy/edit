@@ -957,11 +957,11 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [YT Guide](https://redd.it/xlcny9) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc. / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-Free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
-* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc. / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - YouTube Client
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client

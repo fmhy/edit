@@ -542,7 +542,7 @@
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [Tunebat](https://tunebat.com/) - Music Key / BPM Database
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) - Karaoke App
-* [X-Minus](https://x-minus.pro/) or [karaoke-maker](https://humtools.com/karaoke-maker/) - Create Karaoke Songs
+* [X-Minus](https://x-minus.pro/), [LRC Maker](https://lrcmaker.com/) or [karaoke-maker](https://humtools.com/karaoke-maker/) - Create Karaoke Songs
 * [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 

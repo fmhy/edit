@@ -48,7 +48,7 @@
 * [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
-* [Pixlr](https://pixlr.com/) - Simple Editor / [Hide Ads](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
+* [Pixlr](https://pixlr.com/) - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [BeFunky](https://www.befunky.com/) - Simple Editor
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor

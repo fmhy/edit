@@ -171,8 +171,10 @@
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [ToonBaba](https://toonbaba.site/) - Sub / Dub / 1080p
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
+* [AniPlay](https://aniplaynow.live/) - Sub / Dub / 1080p / [Discord](https://discord.gg/Zws2rAGSN6)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
+* [YukiWatch](https://yukiwatch.fr/) - Sub / Dub / 1080p / [Discord](https://discord.gg/mnZsm6mFAm)
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
 * [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
