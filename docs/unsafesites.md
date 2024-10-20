@@ -10,7 +10,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * 🌐 **[Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)**
 * 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
-* IGG Games / Load Games - Caught with [malware](https://i.ibb.co/cwxJfkw/image.png) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png) / [4](https://redd.it/bzczk6), doxxed member, added DRM to games
+* IGG Games / Load Games - Caught with [malware](https://i.ibb.co/cwxJfkw/image.png) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png) / [4](https://redd.it/bzczk6), [doxxed member](https://i.ibb.co/VNM4HY8/image.png)
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
