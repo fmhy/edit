@@ -134,23 +134,13 @@
 
 ***
 
-## ▷ Podcasts / Radio
+## ▷ Radio Streaming
 
-* 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * ↪️ **[Radio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** or [Drive & Listen](https://driveandlisten.herokuapp.com/) - Radio Driving Simulators
 * ⭐ **[Daft Punk Cafe](https://daftpunk.cafe/)** - Daft Punk Radio
-* [Podchaser](https://podchaser.com/), [Rephonic](https://rephonic.com/graph) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/), [TuneIn](https://tunein.com/) or [Zeno](https://zeno.fm/) - Podcasts / Radio
-* [PodParadise](https://www.podparadise.com/), [Podbean](https://www.podbean.com/), [Podbay](https://podbay.fm/), [podcastindex](https://podcastindex.org/), [player.fm](https://player.fm/), [Podcast Republic](https://www.podcastrepublic.net/), [Relay.fm](https://www.relay.fm/) or [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
-* [Maps.fm](https://maps.fm/) - Find Podcasts from Anywhere
-* [PodClips](https://podclips.com/) - Podcast Clips
-* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodFetch](https://samtv12345.github.io/PodFetch) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
-* [CPod](https://github.com/z-------------/CPod) - Podcast App
-* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
-* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
 * [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/), [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
@@ -182,6 +172,29 @@
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
 * [RadioSide](https://radioside.com/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
+
+***
+
+## ▷ Podcast Streaming
+
+* 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
+* [Podchaser](https://podchaser.com/), [Rephonic](https://rephonic.com/graph) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
+* [Apple Podcasts](https://podcasts.apple.com/us/home) - Podcasts
+* [PodParadise](https://www.podparadise.com/) - Podcasts
+* [Podbean](https://www.podbean.com/) - Podcasts
+* [Podbay](https://podbay.fm/) - Podcasts
+* [podcastindex](https://podcastindex.org/) - Podcasts
+* [player.fm](https://player.fm/) - Podcasts
+* [Podcast Republic](https://www.podcastrepublic.net/) - Podcasts
+* [Relay.fm](https://www.relay.fm/) - Podcasts
+* [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
+* [Maps.fm](https://maps.fm/) - Find Podcasts from Anywhere
+* [PodClips](https://podclips.com/) - Podcast Clips
+* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodFetch](https://samtv12345.github.io/PodFetch) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
+* [CPod](https://github.com/z-------------/CPod) - Podcast App
+* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
+* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
 * [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
@@ -189,13 +202,16 @@
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
 
+
+
+
 ***
 
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Ambient Sound Mixers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_sound_mixers)**
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)**, [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/), [Raining.fm](https://raining.fm/) or [Rainyscope](https://rainyscope.com/) - Ambient Rain
-* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Moon Phase Radio](https://www.moonphaseradio.com/), [Ambient Sleeping Pill](https://ambientsleepingpill.com/), [Ambicular](https://ambicular.com/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/), [DevTunes FM](https://radio.madza.dev/) or [Moss Garden](https://moss.garden/) - Lofi Radio
+* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Moon Phase Radio](https://www.moonphaseradio.com/), [Ambient Sleeping Pill](https://ambientsleepingpill.com/), [Ambicular](https://ambicular.com/), [Lofi Music](https://lofimusic.app/), [Loofi](https://loofi.netlify.app/ ), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/), [DevTunes FM](https://radio.madza.dev/) or [Moss Garden](https://moss.garden/) - Lofi Radio
 * ⭐ **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
