@@ -13,13 +13,14 @@
 * ⭐ **[Braflix](https://www.braflix.is/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
+* ⭐ **[kipstream](https://kipstream.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.live/), [3](https://nunflix.com/), [4](https://nunflix-firebase.web.app/), [5](https://nunflix-ey9.pages.dev/), [6](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
-* ⭐ **[kipstream](https://kipstream.lol/)**, [KipFlix](https://kipflix.xyz/) or [kipwatch](https://kipwatch.xyz/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
 * ⭐ **[456movie](https://456movie.com/)** - Movies / TV / 4K / 1080p
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 1080p
+* ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
