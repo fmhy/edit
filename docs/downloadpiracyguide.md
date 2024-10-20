@@ -142,7 +142,6 @@
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [DownloadHa](https://www.downloadha.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Patoghu](https://patoghu.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Softlay](https://www.softlay.com/downloads/)
 * [Mutaz](https://www.mutaz.pro/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
