@@ -495,7 +495,7 @@
 
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ⭐ **[Bunny](https://github.com/pyoncord/Bunny)** / [Plugins](https://bn-plugins.github.io/vd-web/) / [Discord](https://discord.gg/XjYgWXHb9Q), **[Revenge](https://github.com/revenge-mod/revenge)** or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
+* ⭐ **[Bunny](https://github.com/pyoncord/Bunny)** / [Plugins](https://bn-plugins.github.io/vd-web/) / [Discord](https://discord.gg/XjYgWXHb9Q), **[Revenge](https://github.com/revenge-mod/revenge-bundle)** or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://lucasggamerm.github.io/moshidon//) / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[Reddit Client Patch Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md)** - How To Patch 3rd Party Reddit Clients
@@ -504,6 +504,7 @@
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
 * [Xtra](https://github.com/crackededed/Xtra), [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Clients
+* [Graysky](https://graysky.app/) - Bluesky Client 
 * [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -518,7 +519,6 @@
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 * [SE Extended](https://github.com/bocajthomas/SE-Extended) - Snapchat Client / [Telegram](https://t.me/SE_Extended_CI)
-* [Graysky](https://graysky.app/) - Bluesky Client 
 
 ***
 
@@ -899,9 +899,6 @@ https://github.com/Akylas/alpimaps
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
-* [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
-* [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
-* [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [SubTypo](https://github.com/teixeira0x/SubTypo) - Subtitle Editor
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
@@ -914,12 +911,16 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)**
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
+* ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 * [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
 * [Audiofy](https://play.google.com/store/apps/details?id=com.prime.player)
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
+* [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
+* [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
 
 ***
@@ -930,7 +931,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)**, [2](https://everythingmoe.org/#section-mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo)
 * ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
-* [Fogplix Anime](https://fogplix-anime.com/)
+* ⭐ **[Fogplix Anime](https://fogplix-anime.com/)**
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)
@@ -1249,6 +1250,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Stremio](https://web.stremio.com/)** - Movies / TV / Anime / [Guide](https://guides.viren070.me/stremio/setup?platform=ios)
 * ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
+* ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser with Adblock

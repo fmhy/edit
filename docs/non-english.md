@@ -1400,12 +1400,9 @@
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
 * [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
-* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub / [Bypass](https://greasyfork.org/en/scripts/485014)
 * [Shadow-Rangers](https://shadowrangers.net/) - Anime / Sub / Dub / Latino / Castilian
 * [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
-* [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
-* [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/484990)
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub

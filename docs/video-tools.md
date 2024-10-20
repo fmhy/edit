@@ -289,7 +289,6 @@
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
-* [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Plugin
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
 
 ***
@@ -313,7 +312,7 @@
 
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.hyper.lol/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI

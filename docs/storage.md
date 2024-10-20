@@ -56,6 +56,7 @@
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
 * [Brave](https://brave.com/)
+* [Browser Tuning](https://divestos.org/pages/browsers#tuning) - Browser Privacy Settings Guide
 
 ***
 

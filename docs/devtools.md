@@ -307,7 +307,7 @@
 
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
-* ⭐ **[portainer](https://portainer.io/)**, [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
+* ⭐ **[portainer](https://portainer.io/)**, [yacht](https://yacht.sh/), [DockGE](https://dockge.kuma.pet/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
@@ -351,7 +351,7 @@
 * 🌐 **[Awesome APIs](https://github.com/TonnyL/Awesome_APIs)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [RapidAPI](https://rapidapi.com/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [APIVault](https://apivault.dev/) or [Any API](https://any-api.com/) - API Indexes
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
-* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [cool ai stuff!](https://cas.zukijourney.com/) or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
+* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/) or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
 * ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
@@ -922,6 +922,7 @@
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
+* ⭐ **[Formulaer](https://formulaer.com/)**, [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS / [GitHub](https://github.com/getgrav/grav)
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
@@ -992,7 +993,6 @@
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
 * [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
-* [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
@@ -1089,7 +1089,7 @@
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
-* [BoxCoding](https://www.avabucks.it/) or [MagicUI](https://magicui.design/) - UI Components
+* [BoxCoding](https://www.avabucks.it/), [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations

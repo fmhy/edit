@@ -39,7 +39,7 @@
 * 🌐 **[Awesome Courses](https://github.com/prakhar1989/awesome-courses/)** - Courses
 * 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
 * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
-* ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/raffaem/cs-dlp)
+* ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/EminentPhoton/financial-aid-on-coursera) / [Download](https://github.com/raffaem/cs-dlp)
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl) / [Solver](https://greasyfork.org/en/scripts/427964)
@@ -241,7 +241,7 @@
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer), [sightread](https://sightread.dev/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice
 * [Keyboard Connect](https://keyboardconnect.com/) - Keyboard Tutoring App
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
-* [FretFlip](https://fretflip.com/guitar-scales) or [GuitarScale](https://www.guitarscale.org/) - Guitar Scales
+* [FretFlip](https://fretflip.com/guitar-scales), [StringScales](https://stringscales.com/) or [GuitarScale](https://www.guitarscale.org/) - Guitar Scales
 * [JamStart](https://jamstart.app/) - Spotify Chord Charts
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts
 * [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
@@ -1164,6 +1164,7 @@
 * [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
+* [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings

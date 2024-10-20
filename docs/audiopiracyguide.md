@@ -146,9 +146,6 @@
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
-* [Remixatron](https://github.com/drensin/Remixatron) - Radio CLI
-* [90s90s](https://www.90s90s.de/) - 90's Radio
-* [80s80s](https://www.80s80s.de/) - 80's Radio
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
 * [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio
@@ -160,7 +157,7 @@
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
 * [LISTEN.moe](https://listen.moe/) - K-Pop Radio
-* [420.moe](https://420.moe/ ) - 420 Radio
+* [420.moe](https://420.moe/) - 420 Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio

@@ -509,6 +509,7 @@
 * [DFonts](https://www.dfonts.org/)
 * [FontSpark](https://fontspark.com/)
 * [Velvetyne](https://velvetyne.fr/)
+* [Best Free Fonts](https://bestfreefonts.com/)
 * [FontPair](https://www.fontpair.co/fonts)
 * [FontsHub](https://fontshub.pro/)
 * [CDNFonts](https://www.cdnfonts.com/)

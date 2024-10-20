@@ -18,12 +18,12 @@
 * ⭐ **[kipstream](https://kipstream.lol/)**, [KipFlix](https://kipflix.xyz/) or [kipwatch](https://kipwatch.xyz/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
 * ⭐ **[456movie](https://456movie.com/)** - Movies / TV / 4K / 1080p
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) (ad-free w/ signup) - Movies / TV / Anime / 1080p
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
@@ -48,6 +48,7 @@
 * [Movierr](https://movierr.online/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/sxKN424ZYK)
 * [Cataz](https://cataz.ru/) - Movies / TV / Anime / 1080p
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime / 1080p
+* [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / 1080p
 * [FlixHQ.click](https://flixhq.click/) - Movies / TV / 1080p
 * [Filmex](https://filmex.to/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/6r5KTZgqXV)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime / 1080p
@@ -438,7 +439,6 @@
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
 * [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
-* [AESports](https://aesport.tv/) - Sports
 * [720pStream](https://720pstream.nu/) - Sports
 * [BuffStream](https://bestmlb.buffstream.io/) - Sports
 * [LiveTV](https://livetv780.me/enx/) - Sports
@@ -478,6 +478,7 @@
 * [55Goal](https://55goal.com/) - Soccer
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Soccer
 * [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
+* [TIZ Cycling](https://tiz-cycling.io/) - Cycling
 * [Mazespin](https://mazespin.live/) - Motorsports / Soccer / Cycling
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [MotoGP](https://motogpstream.me/) - Motorsports
@@ -951,7 +952,7 @@
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
 * [VidLink](https://vidlink.pro/) - Movies / TV / API / 1080p
 * [CineScrape](https://cinescrape.com/) - Movies / TV / Anime / API / 4K / 1080p / [Discord](https://discord.gg/XbDBBmh5FY)
-* [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
+* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.to/) - Movies / TV / Anime / API / 1080p
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K / 1080p
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 

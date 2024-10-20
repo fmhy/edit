@@ -438,7 +438,7 @@
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Instances](https://instances.hyper.lol/)
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [Stacher](https://stacher.io/), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui), [Vividl](https://github.com/Bluegrams/Vividl), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - YT-DLP GUIs
 * [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-platform YT-DLP GUIs
@@ -487,12 +487,12 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[PlayPhrase](https://playphrase.me/)**, [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Phrase Search Engines
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
+* [YouTube-Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
-* [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen), [YCF](https://ytcomment.kmcat.uk/) or [YouTube Comment Finder](https://www.youtubecommentfinder.com) - YouTube Comment Search
+* [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCF](https://ytcomment.kmcat.uk/) or [YouTube Comment Finder](https://www.youtubecommentfinder.com) - YouTube Comment Search
 * [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
-* [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
@@ -685,7 +685,7 @@
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search
