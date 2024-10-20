@@ -39,7 +39,6 @@
 
 * ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[Knaben](https://knaben.eu/)**
-* [ABCTorrents](https://abctorrents.xyz/)
 * [Torrent Finder](https://torrent-finder.com/)
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
