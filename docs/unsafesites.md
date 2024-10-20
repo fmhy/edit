@@ -1,3 +1,7 @@
+**Note** - To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/kenhendricks00/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)** / [2](https://fmhy.github.io/FMHYFilterlist/) to your adblocker.
+
+***
+
 ### Game Sites
 
 * **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
@@ -87,7 +91,3 @@
 ### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
-
-***
-
-You can add all of these sites to your adblocker using our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)**, [2](https://fmhy.github.io/FMHYFilterlist/).
