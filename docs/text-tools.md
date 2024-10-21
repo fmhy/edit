@@ -123,7 +123,7 @@
 
 ## ▷ Encode / Decode
 
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**, [2](https://cyberchef.atl.tools/) - Encode / Decode Text
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 E/D](https://apps.maximelafarie.com/base64/) - Encode / Decode Base64
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
