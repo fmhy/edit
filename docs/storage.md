@@ -1040,8 +1040,8 @@
 
 ## Telegram Anime Downloads
 
+* ⭐ **[Anime_Gallery](https://t.me/Anime_Gallery)**
 * https://t.me/Anime_Ocean_Backup
-* https://t.me/Anime_Gallery
 * https://t.me/anidlws
 * https://t.me/AnimeCrunch
 * https://t.me/Anime_Library

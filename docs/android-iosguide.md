@@ -114,7 +114,7 @@
 * ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)**, [UpdateMe](https://github.com/anfreire/updateMe-Mobile) (modded), [Inure](https://rentry.co/FMHYBase64#inure) or [PackageManager](https://f-droid.org/packages/com.smartpack.packagemanager/) - Package Managers
 * ⭐ **[Lucky Patcher](https://rentry.co/FMHYBase64#lucky-patcher)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/EikpPCAW)
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
-* ⭐ **[Obtainium](https://github.com/ImranR98/Obtainium/)**, [UpgradeAll](https://up-a.org/en/) / [GitHub](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
+* ⭐ **[Obtainium](https://github.com/ImranR98/Obtainium/)** / [Configs](https://apps.obtainium.imranr.dev/), [UpgradeAll](https://up-a.org/en/) / [GitHub](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
@@ -511,7 +511,7 @@
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Instander](https://t.me/instander), [MyInsta](https://t.me/instasmashrepo) or [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
-* [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
+* [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client / [Mod Config](https://pastebin.com/esYHBsL1) / [Plugin Config](https://pastebin.com/CebEg0vD)
 * [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -565,6 +565,7 @@
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
 * [FamilyWall](https://www.familywall.com/) - Family Oriented Planner
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
+* [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
 * [Folksable](https://folksable.com/) - Habit Tracker
 * [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
@@ -575,7 +576,6 @@
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
 * [timeto](https://github.com/Medvedev91/timeto.me) - Productivity Tracker
-* [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Habit Tracker
 
 ***
 
@@ -661,6 +661,7 @@ https://github.com/Akylas/alpimaps
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
 * [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48) - Android Emulator
+* [MSI App Player](https://www.msi.com/Landing/appplayer) - Android Emulator / Debloated BlueStacks
 * [BlueStacks](https://www.bluestacks.com/) - Android Emulator
 * [GameLoop](https://www.gameloop.com/) - Android Emulator
 * [MuMu](https://www.mumuplayer.com/) - Android Emulator
@@ -1143,6 +1144,7 @@ https://github.com/Akylas/alpimaps
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) - iOS Package Managers
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
+* [Nugget](https://github.com/leminlimez/Nugget) - iOS Device Tweaks
 * [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
 * [iDownloadBlog](https://www.idownloadblog.com) - Jailbreak News
 
@@ -1279,7 +1281,7 @@ https://github.com/Akylas/alpimaps
 * [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) - YouTube Player
 * [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Player
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPA
-* [YTLitePlus](https://github.com/Balackburn/YTLitePlus/) - Modded YouTube iPA
+* [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - Modded YouTube iPA
 * [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) - Modded YouTube iPA
 * [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA
 
