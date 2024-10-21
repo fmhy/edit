@@ -36,6 +36,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * FileCR - Caught with malware [multiple times](https://rentry.co/filecr_malware)
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
+* CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1) 
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
