@@ -171,6 +171,8 @@
 
 ## ▷ Software Sites
 
+* 🌐 **[Rim's Linux Wiki](https://rlw.pages.dev/)** - Linux Software / 
+Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** - Linux Software / Site Index
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Software Index
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
