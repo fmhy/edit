@@ -289,7 +289,7 @@
 
 * ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
 * ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)**, [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/cheatSheet) - Keyboard Shortcuts / [Image](https://i.ibb.co/yNHRPfm/2147ec86baff.png), [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/)
-* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
+* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/), [Mahou](https://gitea.com/BladeMight/Mahou) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity

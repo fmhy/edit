@@ -627,9 +627,9 @@
 
 # ► Facebook Tools
 
-* ⭐ **[Caprine](https://github.com/sindresorhus/caprine)** - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * ⭐ **[Social Fixer](https://socialfixer.com/)** or [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)** - Facebook Filters
+* [Caprine](https://github.com/sindresorhus/caprine) - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [FDown](https://fdown.net/) or [GetFVid](https://www.getfvid.com/) - Facebook Video Downloaders

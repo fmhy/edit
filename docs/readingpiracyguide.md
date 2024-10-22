@@ -314,6 +314,7 @@
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
+* ⭐ **[ComixExtra](https://comixextra.com/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[GoComics](https://www.gocomics.com/)** - Comics Strips
@@ -322,7 +323,6 @@
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomic.com/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
-* [ComixExtra](https://comixextra.com/)
 * [View Comics](https://viewcomics.org/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads

@@ -594,7 +594,6 @@
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
-* [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Flash 32 Download](https://pastebin.com/CTLS5EVy) or [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads

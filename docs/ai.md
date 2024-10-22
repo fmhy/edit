@@ -11,7 +11,7 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
-* ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
+* ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
