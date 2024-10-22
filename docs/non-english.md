@@ -287,6 +287,7 @@
 ## ▷ Downloading
 
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
+* [W.A.R fórum](warforum.xyz) - Video / Audio / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 
@@ -348,12 +349,15 @@
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 
-## ▷ Torrenting / Télecharger
+## ▷ Torrenting
 
 * [Torrent9](https://www.torrent9.se/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://feminalpes.fr/), [2](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
+
+## ▷ Downloading / Télecharger
+* [Wawacity](wawacity.click) - Movies / TV / Anime / Audio / Books / ROMs
 
 ## ▷ Streaming
 
