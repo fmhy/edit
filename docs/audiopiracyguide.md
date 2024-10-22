@@ -46,7 +46,7 @@
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [Album Availability Map](https://kaaes.github.io/albums-availability/ ⁠) - Check Album Availability
+* [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Album Availability
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
@@ -188,7 +188,7 @@
 * [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
 * [Maps.fm](https://maps.fm/) - Find Podcasts from Anywhere
 * [PodClips](https://podclips.com/) - Podcast Clips
-* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodFetch](https://samtv12345.github.io/PodFetch) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
+* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodFetch](https://samtv12345.github.io/PodFetch) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [PodScripts](https://podscripts.co/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
