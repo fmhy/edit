@@ -509,7 +509,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
 * ⭐ **[Desmos](https://www.desmos.com/)** or [GeoGebra](https://www.geogebra.org/) - Graphing Calculators
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)** - Online TI-84 Calculator / [Calculator Buying Guide](https://sagecalc.com/blog/cheapest-ti84-calculator)
+* ⭐ **[SageCalc](https://sagecalc.com/)** - Online TI-84 Calculator
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
@@ -519,9 +519,9 @@
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
+* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - 
 * [Mathcha](https://www.mathcha.io/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
