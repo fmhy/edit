@@ -384,8 +384,8 @@
 
 # ► Customization
 
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
-* ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
+* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
+* ⭐ **Rainmeter Tools** - [Skins](https://discord.com/invite/rainmeter) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization

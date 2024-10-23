@@ -910,7 +910,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android Video Players
 
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
-* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)**
+* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
@@ -1204,6 +1204,7 @@ https://github.com/Akylas/alpimaps
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
+* [IPA Library](https://t.me/iapps_ipa) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
@@ -1262,6 +1263,7 @@ https://github.com/Akylas/alpimaps
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
+* [ATVLoadly](https://github.com/bitxeno/atvloadly) - Apple TV Sideloading
 
 ***
 
