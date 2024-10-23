@@ -23,7 +23,6 @@
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
-* [12ft.io](https://12ft.io/) - Share Ad-Free URLs
 
 ***
 

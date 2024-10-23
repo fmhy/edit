@@ -249,7 +249,6 @@
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
 * [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search
-* [grep.app](https://grep.app/) - Git Repository Search
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
 
 ***
