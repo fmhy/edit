@@ -10,7 +10,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * 🌐 **[Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)**
 * 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
-* IGG Games / Load Games - Caught with [malware](https://i.ibb.co/cwxJfkw/image.png) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png) / [4](https://redd.it/bzczk6), [doxxed another site](https://i.ibb.co/VNM4HY8/image.png)
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
@@ -18,6 +17,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://rentry.co/qoobrepacker)
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
+* IGG Games / Load Games - Highly distrusted due to [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) + allowing click hijacking ads on their site
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 
