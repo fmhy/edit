@@ -33,7 +33,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
 * AliTPB / AliPak / b4tman - Caught with malware multiple times
-* FileCR - Caught with malware [multiple times](https://rentry.co/filecr_malware)
+* FileCR - Caught with malware [multiple times](https://pastebin.com/ky5KMGz2)
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
 * CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1) 
