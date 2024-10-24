@@ -685,6 +685,7 @@
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
 * [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - Scrape LinkedIn
+* [Best PM Jobs](https://www.bestpmjobs.com/) - Get PM jobs at top tech firms
 
 ***
 
