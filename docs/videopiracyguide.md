@@ -14,7 +14,7 @@
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[kipstream](https://kipstream.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.live/), [3](https://nunflix.com/), [4](https://nunflix-firebase.web.app/), [5](https://nunflix-ey9.pages.dev/), [6](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.com/), [3](https://nunflix-firebase.web.app/), [4](https://nunflix-ey9.pages.dev/), [5](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / [Docs] (https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
 * ⭐ **[456movie](https://456movie.com/)** - Movies / TV / 4K / 1080p
@@ -465,9 +465,8 @@
 * [CricHD](https://crichdplayer.com/) - Sports
 * [CricHD.stream](https://www.crichd.stream/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
-* [NFLHunter](https://nflhunter.com/) - Football
-* [NFLBite](https://nflbite.tv/) - Football
-* [NFL Video](https://nfl-video.com/) - Football
+* [NFLHunter](https://nflhunter.com/) - American Football
+* [NFLBite](https://nflbite.tv/) - American Football
 * [MLB66](https://mlb66.ir/) - Baseball
 * [MLBshows](https://mlbshow.com/) - Baseball
 * [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
@@ -502,7 +501,7 @@
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents / 1080p
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Soccer Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays / 1080p
-* ⭐ **[Fishker NFL](https://fishkernfl.com/)** - Football Replays / 720p
+* ⭐ **[Fishker NFL](https://fishkernfl.com/)** - American Football Replays / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays / 1080p
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
@@ -510,14 +509,15 @@
 * ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays / 1080p
 * [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * [Classic Sports Fanatic](https://www.youtube.com/@classicsportsfanatic7183/playlists) - Full Classic Sports Replays
+* [NFL Video](https://nfl-video.com/), [2](https://nfl-replays.com/) - American Football / 1080p
 * [MLBLive](https://mlblive.net/) - Baseball Replays
 * [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
-* [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
-* [123footy](https://123footy.com/) - Soccer Replays
-* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays
-* [Soccer Full Match](https://soccerfullmatch.com/ ) - Soccer Replays
-* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays
-* [Full Match](https://fullmatch.info/) - Soccer Replays
+* [FootballOrigin](https://www.footballorgin.com/) - Football Replays
+* [123footy](https://123footy.com/) - Football Replays
+* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Football Replays
+* [Soccer Full Match](https://soccerfullmatch.com/ ) - Football Replays
+* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
+* [Full Match](https://fullmatch.info/) - Football Replays
 * [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
@@ -832,7 +832,7 @@
 * [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
-* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 
 ***
 

@@ -37,10 +37,10 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
-* ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
-* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
 * ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
+* ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
+* ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
+* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Photoshop Alt
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
@@ -712,11 +712,8 @@
 * [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
-* [Shutterfly](https://www.shutterfly.com/)
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
-* [pasteboard](https://www.pasteboard.co/)
-* [picsur](https://picsur.org/)
 * [vgy](https://vgy.me/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
