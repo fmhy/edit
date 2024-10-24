@@ -162,7 +162,7 @@
 * [1Anime](https://1anime.co/), [2](https://1anime.one/) - Sub / Dub / 1080p / [Discord](https://dsc.gg/1Anime)
 * [Shiroko](https://shiroko.co/) - Sub / Dub / 1080p
 * [Anidey](https://anidey.fun/) - Sub / Dub / 1080p / [Discord](https://discord.gg/rT5AQkys2v)
-* [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube) - Sub / Dub / 1080p
+* [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / 1080p
 * [Animixplay.name](https://animixplay.name/), [2](https://animixplay.st/) - Sub / Dub / 1080p
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
@@ -181,7 +181,7 @@
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
 * [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
-* [Anime Edge](https://anime-edge.com/) - Sub / Dub / 1080p / [Discord](https://discord.gg/8HuVwPKJ) / [Telegram](https://t.me/Anime_Edge)
+* [Anime Edge](https://anime-edge.com/) - Sub / Dub / 1080p / [Telegram](https://t.me/Anime_Edge)
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
 * [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
@@ -623,8 +623,8 @@
 ## ▷ Drives / Directories
 
 * ⭐ **[Vadapav](https://rentry.co/FMHYBase64#vadapav)** - Movies / TV / Anime / [Enhancements](https://greasyfork.org/en/scripts/496099) / Do **[NOT](https://ibb.co/VvrZMXQ)** bulk download
-* ⭐ **[datadiff](https://rentry.co/FMHYBase64#datadiff)** - Movies / TV / [Discord](https://discord.gg/dMszNcTb) / [Request](https://www.reddit.com/r/reqworkers101/)
-* [188.165.227.112](https://rentry.co/FMHYBase64#188165227112) - Movies / TV
+* ⭐ **[datadiff](https://rentry.co/FMHYBase64#datadiff)** - Movies / TV / [Request](https://www.reddit.com/r/reqworkers101/)
+* [188.165.227.112](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
