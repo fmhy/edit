@@ -77,7 +77,8 @@
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
 * [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
-
+* [SlideShare Downloader](https://getmyppt.com/) - Free SlideShare PPT Downloader / Free SlideShare PDF Downloader
+  
 ***
 
 ## ▷ Search Sites
