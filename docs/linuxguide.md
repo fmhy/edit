@@ -721,8 +721,8 @@ Linux Gaming Guide
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
-* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - DNS Adlocker
-* [1Blocker](https://1blocker.com/) - DNS Adlocker
+* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - DNS Adblocker
+* [1Blocker](https://1blocker.com/) - DNS Adblocker
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client
