@@ -172,6 +172,7 @@
 * [Enimoe](https://enimoe.live/) - Sub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [ToonBaba](https://toonbaba.site/) - Sub / Dub / 1080p
+* [⁠Anime Realms](https://www.animerealms.org/) - Sub / Dub / 1080p / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AniPlay](https://aniplaynow.live/) - Sub / Dub / 1080p / [Discord](https://discord.gg/Zws2rAGSN6)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
@@ -320,7 +321,7 @@
 * [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.online/) / [Telegram](https://t.me/sideplusleaks) or [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content
+* [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks) 
 * [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Daily Commercials](https://dailycommercials.com/) - Commercial Archive

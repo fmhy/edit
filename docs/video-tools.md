@@ -92,7 +92,7 @@
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
-* [Winnydows](https://winnydows.com/en/) - Video Conversion Software
+* [Winnydows](https://winnydows.com/) - Video Conversion Software
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
 * [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
 * [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion

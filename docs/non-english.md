@@ -958,7 +958,6 @@
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
 * [Desu-Online](https://desu-online.pl/) - Anime / Sub / 1080p
 * [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
-* [Vestroia Kreskówki](https://vestroiakreskowki.blogspot.com/) - Cartoons
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
@@ -1008,7 +1007,6 @@
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
 * [Mega Torrents](https://megatorrents.co) - Movies / TV
-* [Filmes Épicos](http://www.filmesepicos.com) - Movies
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
@@ -1079,7 +1077,6 @@
 * [cinematório](https://www.cinematorio.com.br) - Movie Podcasts
 * [RapaduraCast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcasts
 * [Omelete Originals](https://originals.omelete.com.br) - Podcasts
-* [Rede Geek](https://redegeek.com.br/blog/) - Podcasts
 * [Papo de Gordo](https://www.papodegordo.com.br/category/podcast/) - Podcasts
 * [Mundo Podcast](https://mundopodcast.com.br) - Podcasts
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
@@ -1437,7 +1434,6 @@
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [epublibre](https://www.epublibre.org/) - Books
 * [elcano.top](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
-* [eventos-liart](https://eventos-liart.vercel.app/) - Live Sports Acestream IDs
 
 ## ▷ Streaming / Streamear
 
@@ -1609,7 +1605,6 @@
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
 * [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58) or [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
-* [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy
 * [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/) or [Glory Manga](https://glorymanga.com/) - Manga
 
 ***
@@ -1704,7 +1699,6 @@
 
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music
-* [LuotPhim](https://luotphimtv1.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
 * [MotChill](https://motchilltv.to/) - Movies / TV / Sub

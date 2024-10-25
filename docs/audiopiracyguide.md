@@ -243,7 +243,6 @@
 * [EzMP3](https://ezmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free / [Subreddit](https://www.reddit.com/r/EzMP3/)
 * [AZMP3](https://azmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
-* [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kb AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
@@ -253,34 +252,28 @@
 ## ▷ Audio Ripping Tools
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)** or [MusicDL](https://rentry.org/musicdl) - Downloading / Ripping Guides
-* ↪️ **[YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)** - YouTube Downloaders
-* ⭐ **[Firehawk52](https://rentry.co/FMHYBase64#firehawk)** - Deezer / Qobuz / Tidal
+* ↪️ **[YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)** - YouTube / Multi-Site Downloaders
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
+* ⭐ **[Firehawk52](https://rentry.co/FMHYBase64#firehawk)** - Deezer / Qobuz / Tidal
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
-* [spotDL](https://spotdl.readthedocs.io/en/latest/) - YouTube / SoundCloud / 128kb AAC
-* [CLSpotify](https://agent255.github.io/clspotifyweb/) - Spotify / 160kb Free / 320kb Premium / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
-* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify / 160kb Free / 320kb Premium
+* [CLSpotify](https://agent255.github.io/clspotifyweb/) - Spotify / 160kb Free / 320kb Premium / [GitHub](https://github.com/agent255/clspotify)
 * [Zotify](https://zotify.xyz/) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/Arpx9hunkm)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
+* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify / 160kb Free / 320kb Premium
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kb Free / FLAC / Use Firehawk52
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/r-piratedgames/rip)
 * [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Use Firehawk52 / [GUI](https://github.com/jaylex32/BeatOn)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
 * [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC / Use Firehawk52
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix) - Deezer / FLAC / Use Firehawk52
-* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / FLAC / Use Firehawk52
-* [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
-* [tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Tidal 
-* [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Use Firehawk52
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
-* [Savify](https://github.com/LaurenceRawlings/savify) - YouTube / SoundCloud / 128kb AAC
-* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YouTube / SoundCloud / 128kb AAC
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - YouTube / SoundCloud / 128kb AAC
-* [FreyrJS](https://github.com/miraclx/freyr-js) - YouTube / 128kb AAC
 * [irs](https://github.com/cooperhammond/irs) - YouTube / SoundCloud / Bandcamp / 128kb AAC
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / Bandcamp / 128kb AAC
-* [yewtube](https://github.com/mps-youtube/yewtube) - YouTube / 128kb AAC
+* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / FLAC / Use Firehawk52
+* [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
+* [tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Tidal / Use Firehawk52
+* [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Use Firehawk52
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP) / Free Only
 * [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
@@ -427,7 +420,6 @@
 * ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[Lidarr](http://lidarr.audio/)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
-* [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheTradersDen](http://www.thetradersden.org/) - FLAC
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
@@ -439,7 +431,7 @@
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
-* [bt.etree](https://bt.etree.org/), [etreedb](https://etreedb.org/ ), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
+* [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [etreedb](https://etreedb.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***

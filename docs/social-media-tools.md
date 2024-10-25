@@ -290,6 +290,7 @@
 
 ## ▷ Telegram Clients
 
+* ↪️ **[Android Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
 * ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
 * ⭐ **[Materialgram](https://kukuruzka165.github.io/materialgram/)** - Desktop Client / Portable
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
@@ -360,6 +361,7 @@
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
+* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Hide Watched Videos
 * [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
 * [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
@@ -761,7 +763,6 @@
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
-* [4chanCode](https://4chancode.org/) - Code Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4Chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats
 * [Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) or [Reply All](https://gitlab.com/lucadou/4chan-reply-all) - Mass Reply on 4chan

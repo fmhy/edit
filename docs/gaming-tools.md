@@ -143,6 +143,7 @@
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
+* [WSGF](https://www.wsgf.org/) - Widescreen Gaming Community / Solutions / [Discord](https://discord.com/invite/KV5hM8MH)
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB
 
@@ -402,8 +403,11 @@
 * [Switchway](https://switchway.net/) - Switch Homebrew Guide
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
-* [FlagBrew](https://flagbrew.org/) - Switch / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* [FlagBrew](https://flagbrew.org/) - Switch Homebrew / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
+* [SysDVR](https://github.com/exelix11/SysDVR) - Switch Game Capture
+* [sys-con](https://github.com/cathery/sys-con) - Use Any USB Controller on Switch
+* [MissionControl](https://github.com/ndeadly/MissionControl) - Use Any Bluetooth Controller on Switch
 
 ***
 
@@ -473,7 +477,7 @@
 * [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Rentry](https://rentry.org/steamdeckpirates)
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
-* [EmuDeck](https://www.emudeck.com/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Game / Emulator Setup
+* [EmuDeck](https://www.emudeck.com/) / [Compatibility](https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Game / Emulator Setup
 * [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
@@ -482,7 +486,7 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
+* 🌐 **[MCDOC](https://openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)
@@ -498,6 +502,7 @@
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
+* [Altera](https://altera.al/) - Minecraft AI Bots / [Discord](https://discord.gg/alteraal)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
 * [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
@@ -531,7 +536,7 @@
 ## ▷ Launchers
 
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-rich Launcher / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
-* ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
+* ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.org/6epnbq3g) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android & iOS (Requires Legit Account)
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launchers for Bedrock Edition

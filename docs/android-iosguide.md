@@ -495,12 +495,12 @@
 ## ▷ Social Media Apps
 
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
+* ↪️ **[Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Bunny](https://github.com/pyoncord/Bunny)** / [Plugins](https://bn-plugins.github.io/vd-web/) / [Discord](https://discord.gg/XjYgWXHb9Q), **[Revenge](https://github.com/revenge-mod/revenge-bundle)** or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://lucasggamerm.github.io/moshidon//) / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[Reddit Client Patch Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md)** - How To Patch 3rd Party Reddit Clients
-* ⭐ **[AyuGram](https://t.me/ayugramchat)**, **[Nagram](https://github.com/nextalone/nagram)**, [Nekogram](https://nekogram.app/), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.me/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * ⭐ **[piko](https://t.me/pikopatches)** / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
@@ -1105,7 +1105,7 @@ https://github.com/Akylas/alpimaps
 
 * 🌐 **[iOS Jailbreak Guide](https://ios.cfw.guide/)**, [CanIJailbreak?](https://canijailbreak.com/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
-* ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)**, [Free Sideloading](https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/), [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guides
+* ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)**, [PuReEnVyUs](https://sideloading.vercel.app/), [Free Sideloading](https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/), [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guides
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
@@ -1202,7 +1202,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * PDALife - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * [AppDB](https://appdb.to) - App Library 
-* [AppSnake](https://appsnake.cypwn.xyz/) - IAP Database
+* [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram
 * [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps / Telegram
 * [fnd](https://fnd.io/) - App Store Search
@@ -1210,6 +1210,7 @@ https://github.com/Akylas/alpimaps
 * [App Cake](https://www.iphonecake.com/) - App Library
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
+* [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [IPA Library](https://t.me/iapps_ipa) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive

@@ -22,7 +22,7 @@
 * [Not Diamond](https://chat.notdiamond.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
-* [Kelaode](https://kelaode.ai/)  or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
+* [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
@@ -31,12 +31,14 @@
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
+* [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
+* [Autonomous](https://www.autonomous.ai/anon) - No Login Llama / Hermes / FLUX
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
@@ -44,6 +46,7 @@
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder
 
 ***
 
@@ -258,7 +261,6 @@
 * [Kling AI](https://klingai.com/) - Video Generator
 * [Pika Labs](https://www.pika.art/) - Video Generator
 * [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
-* [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Video Generator
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 
 ***
@@ -340,7 +342,7 @@
 
 ## ▷ Guides / Tools
 
-* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
 * 🌐 **[PromptMania](https://promptomania.com/)** or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
@@ -350,11 +352,10 @@
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Dynamic Prompts Extension
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
-* [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
+* [AITransformer](https://aitransformer.net/) - AI Image Transformer
 * [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/IOPaint) - Image Fill / Item Removal
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-* [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
 * [StableDiffusion Cheatsheet](https://supagruen.github.io/StableDiffusion-CheatSheet/) - Stable Diffusion Cheatsheet
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english) or [ora_train](https://rentry.org/lora_train) - SD LoRA Guides

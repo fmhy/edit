@@ -294,7 +294,7 @@
 * [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
-* [NesFiles](https://www.nesfiles.com/) - ROMs / NES
+* [NesFiles](https://www.nesfiles.com/) or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
 * [MFGG](https://mfgg.net/) - Super Mario Mods / [Discord](https://discord.gg/jchgfw5)
@@ -436,6 +436,7 @@
 * [Yandex Games](https://yandex.com/games/) - Browser Games
 * [Poki](https://poki.com/) - Browser Games
 * [Arkadium](https://www.arkadium.com/) - Browser Games
+* [classroom-6x](https://www.classroom-6-x.games/) - Browser Games
 * [GamePix](https://www.gamepix.com/) - Browser Games
 * [RoundGames](https://www.roundgames.com/) - Browser Games
 * [Snokido](https://www.snokido.com/) - Browser Games
@@ -626,7 +627,6 @@
 * [PROXX](https://proxx.app/) - Space Minesweeper
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
-* [classroom-6x](https://www.classroom-6-x.games/) - Puzzle Game + Stickman + Shotting and More games
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
@@ -674,10 +674,11 @@
 * [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Kino.wtf](https://www.kino.wtf/) or [Framed](https://framed.wtf/) - Movie Guessing Games
 * [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
+* [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
 * [GuessAnimeQuiz](https://guessanimequiz.com/) - Anime Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/ ) - Music Guessing Games
+* [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/) - Music Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game

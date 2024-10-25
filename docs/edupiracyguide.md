@@ -1269,7 +1269,7 @@
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/), [All Acronyms](https://www.allacronyms.com/) or [The Acronym Server](https://acronyms.silmaril.ie/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
-* [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
+* [Fraze.it](https://fraze.it/) - Sentence Search
 * [Word Hippo](https://www.wordhippo.com/) - Thesaurus
 * [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus

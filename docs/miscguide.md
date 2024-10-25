@@ -824,7 +824,6 @@
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
-* [Calculator](https://goldratestoday.net/gold-calculator/) - Gold Investment Calculators
 * [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 
@@ -1198,6 +1197,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
+* [TenThousandPixels](https://tenthousandpixels.com/) - Online Pixel Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
@@ -1247,6 +1247,7 @@
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
 * ⭐ **[2020 Game](https://2020game.io/)** - Play Through 2020
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
+* [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)
 * [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
@@ -1261,6 +1262,7 @@
 * [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
+* [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
 * [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites / Horror Games
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -1346,8 +1348,6 @@
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
-* [ColorNames](https://colornames.org/) - Help Name Colors
-* [Colorword](https://colorword.recu3125.com/) - Word Color Voting
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
@@ -1445,6 +1445,9 @@
 * [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
+* [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
+* [ColorNames](https://colornames.org/) - Help Name Colors
+* [Colorword](https://colorword.recu3125.com/) - Word Color Voting
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
 * [Mystery Search](https://www.mysterysearch.lol/) - Google, but you get last person's search
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely

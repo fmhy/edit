@@ -86,6 +86,15 @@
 
 ***
 
+## Android Telegram Clients
+
+* ⭐ **[AyuGram](https://t.me/ayugramchat)**
+* ⭐ **[Nagram](https://github.com/nextalone/nagram)**
+
+[Nekogram](https://nekogram.app/), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Turrit](https://play.google.com/store/apps/details?id=org.telegram.group), [Nicegram](https://nicegram.app/), [Octogram](https://octogram.me/), [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
+
+***
+
 ## App / Site Mockups
 
 * [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
@@ -148,7 +157,7 @@
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Tabiverse](https://pastebin.com/tApHRJDv) / [Discord](https://discord.gg/MUgRGwE)
 
-[Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab)
+[Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
 ***
 
@@ -285,7 +294,7 @@
 * ⭐ **[Matrix](https://matrix.org/)**, [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/), [Fluffy](https://fluffychat.im) or [Ditto](https://www.dittochat.org/) - Matrix Client / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)**
 
-[Bitmessage](https://wiki.bitmessage.org/Main_Page), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [Cwtch](https://cwtch.im/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/)
+[Cwtch](https://docs.cwtch.im/), [Bitmessage](https://wiki.bitmessage.org/Main_Page), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [Cwtch](https://cwtch.im/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/)
 
 ### Matrix Home Servers
 
