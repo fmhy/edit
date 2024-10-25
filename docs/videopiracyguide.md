@@ -97,7 +97,6 @@
 ***
 
 ## ▷ Single Server
-
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / 1080p / Ad-Free
@@ -131,6 +130,8 @@
 * [VidStore](https://stream.vidzstore.com/) - Movies / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
+* [YoMovies](https://yomovies.ing/) - Movies / TV / 720p / India Only / Use Adblocker
+* [M4uHD](https://ww1.m4uhd.tv/) - Movies / TV / 720p / 1080p / India VPN required
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
