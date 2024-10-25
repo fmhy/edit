@@ -626,6 +626,7 @@
 * [PROXX](https://proxx.app/) - Space Minesweeper
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
+* [classroom-6x](https://www.classroom-6-x.games/) - Puzzle Game + Stickman + Shotting and More games
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
