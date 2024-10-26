@@ -36,6 +36,7 @@
 * [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / [Note](https://pastebin.com/kXrVBceh)
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [WatchWave](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p
+* [Zmov](https://plexmovies.online/) - Movies / TV / 1080p/ multiserver
 * [BFlix](https://nitestv.co/) - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
 * [Free Cinema](https://freecinema.live/) - Movies / TV / Anime / 1080p
 * [Watchug](https://watchug.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/watchugofficial)
