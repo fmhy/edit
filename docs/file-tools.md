@@ -344,7 +344,7 @@
 * [ffsend](https://github.com/timvisee/ffsend)
 * [File.love](https://file.love/)
 * [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
-* IPFS Tools - [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
+* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 

@@ -318,8 +318,8 @@
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[GoComics](https://www.gocomics.com/)** - Comics Strips
-* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
-* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
+* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
+* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomic.com/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
@@ -335,8 +335,10 @@
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [Zahard](https://zahard.xyz/) - Web Comics / [Telegram](https://t.me/fast_pass)
-* [The Oatmeal](https://theoatmeal.com/) - Web Comics
+* [Zahard](https://zahard.xyz/) - Webcomics / [Telegram](https://t.me/fast_pass)
+* [The Oatmeal](https://theoatmeal.com/) - Webcomics
+* [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
+* [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
 * [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor Required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders

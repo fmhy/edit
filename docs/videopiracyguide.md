@@ -47,6 +47,7 @@
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [GitHub](https://github.com/ambr0sial/nova/)
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K / 1080p
 * [Movierr](https://movierr.online/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/sxKN424ZYK)
+* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / 1080p / [GitHub](https://github.com/coen-h/zmov)
 * [Cataz](https://cataz.ru/) - Movies / TV / Anime / 1080p
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime / 1080p
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / 1080p
@@ -68,7 +69,6 @@
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime / 1080p
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/) - Movies / TV / Anime / 1080p / [GitHub](https://github.com/coen-h/zmov)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
@@ -246,6 +246,7 @@
 * ⭐ **[DramaCool](https://asianc.to/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / 1080p / [Clones List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.video/)**, [2](https://kissasian.si) - TV / Movies
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
+* [Einthusan](https://einthusan.tv/) - Movies
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [LokLok](https://loklok.com/) - TV / Movies
@@ -319,6 +320,7 @@
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
+* [3DS Movies](https://rentry.co/FMHYBase64#3d-3ds-movies) - 3D Movies for 3DS
 * [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks) 

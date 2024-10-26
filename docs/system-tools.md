@@ -81,8 +81,7 @@
 
 ## ▷ Package Managers
 
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager
-* ⭐ **WinGet Tools** - [Repo Browser](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
+* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager / [Repos](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate)
 * ⭐ **[Scoop](https://scoop.sh/)** - CLI Package Manager
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator

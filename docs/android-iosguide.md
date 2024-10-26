@@ -449,7 +449,6 @@
 * [v2rayNG](https://github.com/2dust/v2rayNG) or [V2Ray Proxy](https://play.google.com/store/apps/details?id=free.v2ray.proxy.VPN) - Build Privacy Network
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
-* [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [AndroidFaker](https://github.com/Android1500/AndroidFaker) - Device ID Spoofing / Root
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
@@ -465,7 +464,7 @@
 
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [Keyguard](https://github.com/AChep/keyguard-app), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass), [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
-* ⭐ **[K-9 Mail](https://k9mail.app/)**, [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
+* ⭐ **[K-9 Mail](https://k9mail.app/)**, [Thunderbird](https://github.com/thunderbird/thunderbird-android), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://f-droid.org/packages/co.appreactor.news/) / [GitHub](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti), [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news), [CapyReader](https://github.com/jocmp/capyreader) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Raven](https://github.com/ksh-b/raven) - News Apps
@@ -737,7 +736,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://github.com/komikku-app/komikku)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
-* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader / [Discord](https://discord.gg/4vmK42QuKG)
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
@@ -892,6 +891,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms) or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [PopcornTime](https://popcorn-time.site) - Torrent Streaming / [GitHub](https://github.com/popcorn-official/popcorn-android) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide) 
 * [FilmPlus](https://filmplus.app/) - Movies / TV
+* [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Discord / Plugins](https://discord.com/invite/7yPSPveReu)
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV
 * [TeaTV](https://rentry.co/FMHYBase64#teatv) - Movies / TV
 * [Flixeon](https://flixeon.me/) - Movies / TV
@@ -933,7 +933,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)**, [2](https://everythingmoe.org/#section-mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo)
-* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)
@@ -1185,7 +1185,6 @@ https://github.com/Akylas/alpimaps
 * [Element](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) or [Tuta](https://tuta.com/) - Encrypted Emailing Service
-* [InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Mail
 
 ***
 
@@ -1289,7 +1288,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) - YouTube Player
 * [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Player
-* [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPA
+* [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) or [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPAs
 * [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - Modded YouTube iPA
 * [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) - Modded YouTube iPA
 * [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA

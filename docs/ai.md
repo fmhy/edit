@@ -8,7 +8,7 @@
 
 ## ▷ Online Chatbots
 
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)** - Online GPT Indexes
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots

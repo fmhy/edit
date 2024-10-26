@@ -398,6 +398,7 @@
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
+* [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
 * [Starship](https://starshipthegame.spacex.com/) - SpaceX Rocket Game
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)

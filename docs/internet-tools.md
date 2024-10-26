@@ -200,7 +200,7 @@
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
 * [NewsBlur](http://www.newsblur.com) - RSS Reader / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [Osmosfeed](https://osmoscraft.org) - RSS Reader / [GitHub](https://github.com/osmoscraft/osmosfeed)
-* [rss](https://github.com/ssddanbrown/rss) - RSS Reader
+* [rss](https://codeberg.org/danb/rss) - RSS Reader
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email

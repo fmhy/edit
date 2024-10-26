@@ -707,6 +707,7 @@
 * [Altadefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
+* [StreamingCommunity](https://streamingcommunity.computer/ ) - Movies / TV / Dub / 720p
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [AnimeSaturn](https://www.animesaturn.nl/) - Anime / Sub / 1080p
@@ -1459,7 +1460,7 @@
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[Cuevana](https://cuevana.si/)** - Movies / TV / Anime / 1080p / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
-* ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
+* ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** or [Xupimarc2](https://www.socialcreator.com/xupimarc2/?s=256326) - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://flipax.es/)** - Live Sports
 * [PlayDede](https://playdede.eu/) - Movies / TV / Anime / 1080p / Castilian / Latino / [Telegram](https://t.me/s/playdedeinformacion)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino

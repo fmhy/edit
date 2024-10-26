@@ -361,17 +361,16 @@
 * [OpenShot](https://www.openshot.org/) - Video Editor
 * [Lightworks](https://lwks.com/) - Video Editor
 * [VSDC](https://www.videosoftdev.com/) - Video Editor
-* [avidemux](https://avidemux.sourceforge.net/) - Video Editor
 * [Pitivi](https://www.pitivi.org/) - Video Editor
 * [Visla](https://www.visla.us/) - Video Editor
 * [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [2](https://archive.org/details/mm26enu_202002), [3](https://archive.org/details/MM2.1And2.6_201903) - Video Editor
+* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
-* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
 * [Opus](https://www.opus.pro/) - Clip Creator
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)

@@ -258,6 +258,7 @@
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * [CLSpotify](https://agent255.github.io/clspotifyweb/) - Spotify / 160kb Free / 320kb Premium / [GitHub](https://github.com/agent255/clspotify)
 * [Zotify](https://zotify.xyz/) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/Arpx9hunkm)
+* [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify / 160kb Free / 320kb Premium
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kb Free / FLAC / Use Firehawk52
