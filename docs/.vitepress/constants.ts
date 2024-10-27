@@ -139,6 +139,7 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: '💙 Feedback', link: '/feedback' },
       { text: '🌐 Search', link: '/posts/search' },
+      { text: '😇 SFW FMHY', link: 'https://fmhy.xyz/' },
       { text: '🏞 Wallpapers', link: '/other/wallpapers' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
       {
