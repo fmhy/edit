@@ -207,11 +207,25 @@
 
 ***
 
-# ► Text Editors / Notes
+# ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
+* ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/) - Notepad & Code Editor
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
+* [Notepads](https://www.notepadsapp.com/) - Text Editor
+* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
+* [Kompad](https://kompad.vercel.app/) - Text Editor
+* [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
+* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
+* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
+* [Helix](https://helix-editor.com/) - Kakuone/Neovim-Based Text Editor
+
+***
+
+## ▷ Note-Taking
+
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / [Discord](https://discord.gg/obsidianmd)
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Gdrive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)** - Note-Taking
@@ -220,39 +234,27 @@
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
-* [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Information Managers
-* [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [benotes](https://benotes.org/) - Self-Hosted Bookmarks and Note-Taking
-* [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
-* [Simplenote](https://simplenote.com/) - Crossplatform Note-Taking
-* [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
-* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
-* [Notepads](https://www.notepadsapp.com/) - Text Editor
-* [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
-* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
 * [Flotes](https://flotes.app/) - Markdown Note-Taking
-* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
-* [Helix](https://helix-editor.com/) - Kakuone/Neovim-Based Text Editor
+* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking
+* [Tiddly](https://tiddlywiki.com/) - Info Manager / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+* [Trilium](https://github.com/zadam/trilium) - Info Manager
+* [Org-roam](https://www.orgroam.com/) - Info Manager / [GitHub](https://github.com/org-roam/org-roam)
+* [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
+* [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv)
+* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
+* [Simplenote](https://simplenote.com/) - Note-Taking
+* [FromScratch](https://fromscratch.rocks/) - Note-Taking
+* [MicroPad](https://getmicropad.com/) - Note-Taking
+* [WriteDown](https://writedown.app/) - Note-Taking
+* [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
+* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking
+* [Google Keep](https://keep.google.com/) - Simple Notes
+* [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
+* [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
+* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [cherrytree](https://www.giuspen.net/cherrytree/) - Hierarchical Note-Taking 
-* [UseMemos](https://usememos.com/) / [Discord](https://discord.gg/tfPJa4UmAv)
-* [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
-* [FromScratch](https://fromscratch.rocks/)
-* [Org-roam](https://www.orgroam.com/) / [GitHub](https://github.com/org-roam/org-roam)
-* [Trilium](https://github.com/zadam/trilium)
-* [Kompad](https://kompad.vercel.app/)
-* [MicroPad](https://getmicropad.com/)
-* [WriteDown](https://writedown.app/)
-* [Standard Notes](https://standardnotes.com/)
-* [KeyNote NF](https://github.com/dpradov/keynote-nf)
-* [Notes](https://www.get-notes.com/)
-* [TinyList](https://tinylist.app/)
-* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/)
-* [QOwnNotes](https://www.qownnotes.org/)
-* [FastNotes](https://fastedit.frozenassassine.de/)
-* [Google Keep](https://keep.google.com/)
-* [LockBook](https://github.com/lockbook/lockbook)
+* [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
+* [benotes](https://benotes.org/) - Self-Hosted Note-Taking
 
 ***
 
@@ -288,6 +290,7 @@
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
 * [KiloDoc](https://www.kilodoc.com/) - Cloud Saves
+* [TinyList](https://tinylist.app/) - Cloud Saves
 * [Edit-Document](https://edit-document.com/) - Local / Cloud Saves
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
 * [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
