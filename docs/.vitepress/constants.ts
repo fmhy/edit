@@ -137,14 +137,14 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: '🪅 Ecosystem',
     items: [
-      { text: '💙 Feedback', link: '/feedback' },
-      { text: '🌐 Search', link: '/posts/search' },
       { text: '😇 SFW FMHY', link: 'https://fmhy.xyz/' },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
+      { text: '🌐 Search', link: '/posts/search' },
+      { text: '🔗 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+      { text: '🏞 Wallpapers', link: '/other/wallpapers' },  
       {
-        text: '🔗 Bookmarks',
-        link: 'https://github.com/fmhy/bookmarks'
+        text: '💙 Feedback',
+        link: '/feedback'
       }
     ]
   }
