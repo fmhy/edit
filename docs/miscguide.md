@@ -744,6 +744,7 @@
 * [DailyRemote](https://dailyremote.com/) - Remote Jobs
 * [HireBasis](https://www.hirebasis.com/) - Remote Jobs
 * [Remotedom](https://remotedom.com/) - Remote Jobs
+* [Hired](https://www.hired.co.ke) - Remote Jobs
 
 ***
 
