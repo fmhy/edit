@@ -350,48 +350,25 @@
 * 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools
 * ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
-* ⭐ **[Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/)** - Create Anon Playlists
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
 * [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels without Account
+* [YouTube Wrapped](https://videorecap.viewodyssey.com/) - Personal YouTube Rewind
 * [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
-* [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk YouTube Subscription Remover
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
-* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Hide Watched Videos
-* [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
-* [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
 * [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
-* [Video Recap](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
-* [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
-* [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
-* [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
-* [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sorts YT Playlists
-* [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
-* [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
-* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
-* [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
 * [FREEZE](https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
-* [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper), [Apps Golem](https://appsgolem.com/en/cut-youtube-video) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
-* [Gemini](https://gemini.google.com/), [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/), [VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/) - Summarize YouTube Videos
-* [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
-* [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
-* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
-* [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
-* [Loadtup](https://loadtup.com/) or [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Video Transcribers
-* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
-* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
@@ -400,6 +377,42 @@
 * [Fast Chat](https://greasyfork.org/en/scripts/469878) - Chat Optimization Extension
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-Style Theater Mode for YouTube Live
+
+***
+
+## ▷ Playlist Tools
+
+* ⭐ **[Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/)** - Create Anon Playlists
+* [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
+* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
+* [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
+* [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sorts YT Playlists
+* [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
+* [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
+* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
+* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
+
+***
+
+## ▷ YT Video Tools (needs checking)
+
+* ⭐ **[DocXPDF Checker](https://docxpdf.com/youtube-region-restriction-checker)** or [polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi) - Video Region Restriction Checker
+* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
+* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos
+---
+* [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
+* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Hide Watched Videos
+* [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
+* [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
+* [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
+* [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper), [Apps Golem](https://appsgolem.com/en/cut-youtube-video) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
+* [Gemini](https://gemini.google.com/), [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/), [VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/) - Summarize YouTube Videos
+* [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
+* [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
+* [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
+* [Loadtup](https://loadtup.com/) or [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Video Transcribers
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
+* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 
 ***
 
@@ -426,11 +439,8 @@
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
 * [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
 * [Video Speed Controller](https://github.com/igrigorik/videospeed), [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
-* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
-* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
 * [YT CPU Tamer](https://greasyfork.org/en/scripts/431573), [YT JS Tamer](https://greasyfork.org/en/scripts/473972) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
-* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
 * [YouTube: Audio Only](https://greasyfork.org/en/scripts/484611) or [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 
 ***
