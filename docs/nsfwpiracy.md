@@ -14,7 +14,6 @@
 * [PornList18](https://pornlist18.com/)
 * [IndianPornList](https://indianpornlist.com/)
 * [Tommy's Bookmarks](https://www.tommys-bookmarks.com/)
-* [ThePornMap](https://thepornmap.com/)
 
 ***
 
@@ -23,7 +22,7 @@
 * ⭐ **[HQPorner](https://hqporner.com/)**
 * ⭐ **[SexyPorn](https://www.sxyprn.com/)**
 * ⭐ **[WatchPorn.to](https://watchporn.to)**
-* ⭐ **[PornHoarder](https://pornhoarder.tv/)**
+* ⭐ **[PornHoarder](https://pornhoarder.tv/)**, [2](https://pornhoarder.org/)
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
 * [FindTubes](https://www.findtubes.com/) - Aggregator
@@ -32,7 +31,7 @@
 * [XVideos](https://www.xvideos.com/)
 * [PlayHDPorn](https://www.playhdporn.com/)
 * [SpankBang](https://spankbang.com/)
-* [goodporn](https://goodporn.se/)
+* [goodporn](https://goodporn.se/), [2](https://sincity.is/) / [Status / Mirrors](https://gpstatus.org/)
 * [neporn](https://neporn.com/)
 * [FreePornVideos](https://www.freepornvideos.xxx/)
 * [BananaMovies](https://bananamovies.org/)
@@ -41,6 +40,7 @@
 * [TNAFlix](https://www.tnaflix.com/)
 * [PornXP](https://pornxp.org/)
 * [Youporn](https://www.youporn.com/)
+* [PornTrex](https://www.porntrex.com/)
 * [SomePorn](https://some.porn/)
 * [ThePornHub](https://thepornhub.org/)
 * [wapbold](https://wapbold.net/)
@@ -58,6 +58,8 @@
 * [Tube8](https://www.tube8.com/)
 * [xMegaDrive](https://www.xmegadrive.com/), [2](https://video.xmegadrive.com/)
 * [Porndoe](https://porndoe.com/)
+* [Intporn](https://www.intporn.com/)
+* [Siska](https://siska.video/)
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)
 * [Sex-Empire](https://hd.sex-empire.org/en/)
@@ -73,7 +75,6 @@
 * [Vid123](https://vid123.net/)
 * [Adultism](https://www.adultism.com/), [Erome](https://www.erome.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
 * [PornFreeX](https://pornfreex.app/), [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn Apps
-* [Porn Guide](https://fapbuddies.net/porn-guide/) - How to Find Porn
 
 ***
 
@@ -144,8 +145,11 @@
 * ⭐ **[CamCaps](https://camcaps.ac/)**
 * ⭐ **[Peachurbate](https://peachurbate.com/en)**
 * [Curbate](https://curbate.tv/)
+* [LiveCamRips](https://livecamrips.su/)
+* [CamBro](https://www.cambro.tv/)
 * [CamSmut](https://camsmut.com/)
 * [Recurbate](https://recu.me/)
+* [CamGirlFinder](https://camgirlfinder.net/) - Cam Model Database
 
 ***
 
@@ -154,6 +158,8 @@
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ⭐ **[SeaPorn](https://www.seaporn.org/)**
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
+* [AEBN Downloader](https://github.com/estellaarrieta/aebn-vod-downloader) - Downloader for [AEBN](https://www.aebn.com/)  
+* [StashDB](https://stashdb.org/) - Porn Database / [Invite](https://pastebin.com/GWGXMBYW)
 * [0xxx](https://0xxx.ws/)
 * [SiteRips](https://www.siterips.org/)
 * [PornFactors](https://pornfactors.com/)
@@ -194,6 +200,7 @@
 * ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - JAV
 * ⭐ **[Next JAV](https://nextjav.com/)** - JAV
 * ⭐ **[Xchina](https://en.xchina.co/)** / [Note](https://pastebin.com/u4jcUYVq) / [Warning](https://pastebin.com/8DuageSv)
+* [xXxAdultTorrent](https://xxxadulttorrent.org/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [pussytorrents](https://pussytorrents.org/)
@@ -220,13 +227,12 @@
 * ⭐ **[fyptt](https://fyptt.to/)**
 * [Sex.com](https://www.sex.com/)
 * [PornPics](https://www.pornpics.com/)
+* [javxf](https://www.javxf.com/)
 * [Realbooru](https://realbooru.com/)
+* [ViperGirls](https://vipergirls.to/)
 * [PimpAndHost](https://pimpandhost.com/site/trending)
 * [PornedUp](https://pornedup.com/)
 * [V2PH](https://www.v2ph.com/?hl=en)
-* [Sexy Girls Pics](https://sexygirlspics.com/)
-* [HotPornPhotos](https://www.hotpornphotos.com/)
-* [PornPaw](https://www.pornpaw.com/)
 * [xxxtik](https://xxxtik.com/)
 * [Tik.porn](https://tik.porn/)
 * [TikPorn.tube](https://tikporn.tube/)
@@ -234,8 +240,6 @@
 * [OnlyTik](https://onlytik.com/)
 * [Xfollow](https://www.xfollow.com/)
 * [Tik.pm](https://tik.pm/)
-* [r/tiktokporn](https://www.reddit.com/r/tiktokporn/)
-* [r/Tiktokthots](https://www.reddit.com/r/tiktokthots/)
 * [EliteBabes](https://www.elitebabes.com/)
 * [GifHQ](https://gifhq.com/)
 * [GifSauce](https://gifsauce.com/)
@@ -263,10 +267,13 @@
 * ⭐ **[Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5)**, [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * ⭐ **[Fapello](https://fapello.com/)** - OnlyFans / Patreon
 * ⭐ **[Hotleak](https://hotleak.vip/)** - OnlyFans / Patreon
-* ⭐ **[Kemono](https://kemono.su/)** - Patreon / [Downloader](https://github.com/notFaad/coom-dl)
+* ⭐ **[Kemono](https://kemono.su/)** or [nekohouse](https://nekohouse.su/) - Patreon / [Downloader](https://github.com/notFaad/coom-dl)
 * ⭐ **[Coomer](https://coomer.su/)** - OnlyFans
 * ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
+* [OSosedki](https://ososedki.com/) - OnlyFans / Patreon
 * [Reddit Plug](https://redditplug.com/) - OnlyFans
+* [EroThots](https://erothots.co/) - OnlyFans
+* [ViperGirls](https://vipergirls.to/) - OnlyFans / Patreon
 * [PornLeaks](https://pornleaks.in/) or [Vixenleaks](https://vixenleaks.com/) - OnlyFans / Patreon
 * [NobodyHome](https://nobodyhome.tv/index.php) - OnlyFans
 * [Vlixa](https://vlixa.com/) - OnlyFans
@@ -357,14 +364,6 @@
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
 * [AnimeTime](https://www.animetime.pw/) - Hentai DDL
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents
-* [Rule34Video](https://rule34video.com/) - 3D Porn
-* [Rule34Porn](https://rule34porn.net/) - 3D Porn
-* [XAnimu](https://xanimu.com/) - 3D Porn
-* [ZZCartoon](https://www.zzcartoon.com/) - 3D Porn
-* [3D Sex Anime](https://www.3dsexanime.xyz/) - 3D Porn
-* [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
-* [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
-* [SFM Compile](https://sfmcompile.club/) - 3D Porn
 * [HentaiLA](https://www4.hentaila.com/) - Spanish
 * [MandraHentai](https://mandrahentai.com/) - Spanish / [Bypasser](https://greasyfork.org/en/scripts/484990)
 * [EhPanda](https://ehpanda.app/) - Hentai iOS App
@@ -382,7 +381,7 @@
 * ⭐ **[Koharu](https://koharu.to/)** or **[HentaiNexus](https://hentainexus.com/)** - Official Translatations / [Backup](https://fakku.cc/)
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga
-* ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://nhentaidownloader.zirk.eu/)
+* ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://nhentaidownloader.zirk.eu/), [3](https://github.com/9-FS/nhentai_archivist)
 * ⭐ **[Manga District](https://mangadistrict.com/)** - Pornhwa
 * ⭐ **[BATO.TO](https://bato.to/)** - Pornhwa / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
@@ -400,6 +399,7 @@
 * [HentaiRead](https://hentairead.com/) - Hentai Manga
 * [HentaiHand](https://hentaihand.com/en/) - Hentai Manga
 * [HentaiZap](https://hentaizap.com/) - Hentai Manga
+* [18Kami](https://18kami.com/) - Hentai Manga
 * [akuma](https://akuma.moe/) - Hentai Manga
 * [MangaHentai](https://mangahentai.me/) - Hentai Manga
 * [Toonily](https://toonily.me/) - Pornhwa
@@ -413,6 +413,7 @@
 * [Comic Porn XXX](https://comicporn.xxx/) - Hentai Manga / Comics
 * [XlecX](https://xlecx.one/) - Hentai Manga / Comics
 * [HentaiRox](https://hentairox.com/) - Hentai Manga
+* [HenTalk](https://hentalk.pw/) - Hentai Manga
 * [EAHentai](https://eahentai.com/) - Hentai Manga
 * [ILikeComix](https://ilikecomix.com/) - Comics
 * [AllPornComic](https://allporncomic.com/) - Comics
@@ -436,6 +437,7 @@
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
 * [Mihentai](https://mihentai.com/) - Indo Hentai Manga
 * [Anime-Sharing](https://www.anime-sharing.com/#downloads-requests) - Hentai Manga Forums
+* [AVN2](https://androidvisualnovels2.wordpress.com/) - Android Visual Novels / [Discord](https://discord.com/invite/tn3fAPt)
 * [Hentaiser](https://hentaiser.com/en/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai / [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
@@ -473,12 +475,9 @@
 ## ▷ Illustrations
 
 * ⭐ **[Pixiv](https://www.pixiv.net/en/)** / [Rankings](https://pixiv.navirank.com/)
-* ⭐ **[Danbooru](https://danbooru.donmai.us/)**
-* ⭐ **[Rule 34](https://rule34.xxx/)**
-* ⭐ **[Rule34.dev](https://rule34.dev/)** - Multi-Booru Aggregator
+* ⭐ **[Gelbooru](https://gelbooru.com/)**
 * ⭐ **[Hentai Foundry](https://www.hentai-foundry.com/)** / [Discord](https://discord.com/invite/gMtgEcZuk4)
 * [kemono.party](https://kemono.su/) / [Downloader](https://github.com/notFaad/coom-dl)
-* [Gelbooru](https://gelbooru.com/)
 * [yande.re](https://yande.re/)
 * [Konachan](https://konachan.com/)
 * [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
@@ -486,17 +485,19 @@
 * [Nozomi.la](https://nozomi.la/)
 * [booru.io](https://booru.io/)
 * [Slushe](https://slushe.com/) / [Discord](https://discord.com/invite/GYjEXqeXSJ)
+* [TBIB](https://tbib.org/)
+* [Xbooru](https://xbooru.com/)
+* [The Hentai World](https://thehentaiworld.com/)
+* [Danbooru](https://danbooru.donmai.us/)
+* [WHentai](https://whentai.com/)
+* [Rule34 Scroller](https://rule34.pw/)
+* [Rule 34](https://rule34.xxx/)
 * [Rule 34 Paheal](https://rule34.paheal.net/)
 * [Rule34.xyz](https://rule34.xyz/) / [Discord](https://discord.com/invite/GVfjtug)
 * [Rule34.us](https://rule34.us/)
 * [Rule34Hentai](https://rule34hentai.net/)
 * [Rule34World](https://rule34.world/)
-* [TBIB](https://tbib.org/)
-* [Xbooru](https://xbooru.com/)
-* [The Hentai World](https://thehentaiworld.com/)
-* [WHentai](https://whentai.com/)
-* [Rule34 Scroller](https://rule34.pw/)
-* [Hypno Hub](https://hypnohub.net/) - Hypno Fetish Art / [Discord](https://discord.com/invite/4Y82pB6)
+* [Rule34.dev](https://rule34.dev/) - Multi-Booru Aggregator
 * [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/)
@@ -544,10 +545,12 @@
 
 * 🌐 **[MyGaySites](https://mygaysites.com/)** - Gay Porn Site Index
 * [PlayHDPorn Gay](https://www.playhdporn.com/categories/gay/)
+* [Boyfriend.tv](https://boyfriend.tv/)
+* [JAVBoys](https://javboys.com/) - Gay JAV
+* [Gay Torrents](https://www.gay-torrents.net/) - Torrents / Use VPN
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
 * [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai
-* [BLCollection](https://blcollection.co/) - Boys Love Manga
 * [Nifty](https://www.nifty.org/nifty/) - LGBT / Fictional
 * [FictionMania](https://fictionmania.tv/) - Transgender / Fictional
 * [TransVids](https://transvids.wtf/) - OnlyFans / Patreon
@@ -577,6 +580,7 @@
 * [Awesome Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
 * [ERP/RP Datasets](https://rentry.org/qib8f) - NSFW Roleplaying LLM Datasets
+* [Pury.fi](https://pury.fi/site/) / [Discord](https://discord.gg/9aBBJNEJGC) / [GitHub](https://github.com/pury-fi) or [beta-censoring](https://github.com/silveredgold/beta-censoring) - Censor NSFW Images
 
 ***
 
