@@ -243,7 +243,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)**, [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -262,7 +262,7 @@
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
-* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
+* ⭐ **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray), [Monitorian](https://github.com/emoacht/Monitorian) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test

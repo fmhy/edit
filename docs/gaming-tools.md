@@ -6,6 +6,7 @@
 
 # ► Gaming Tools
 
+* 🌐 **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Fixes & Workarounds
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
@@ -118,7 +119,6 @@
 
 ## ▷ Optimization Tools
 
-* 🌐 **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Optimization Resources / Fixes
 * 🌐 **[Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md)** - Nvidia Overclocking Resources
 * ↪️ **[System Optimization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_hardware_tools)**
 * ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk)
