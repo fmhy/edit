@@ -60,12 +60,37 @@
 
 ***
 
-## Android Note Apps
+## Android Text Editors
 
-* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**
+* [Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Text Editor
+* [QuickEdit](https://rentry.co/FMHYBase64#quickedit) - Text Editor
+* [Markor](https://fossdroid.com/a/markor.html) - Text Editor
 * [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Office Suite
 
-[Markor](https://fossdroid.com/a/markor.html), [sNotz](https://sunilpaulmathew.github.io/sNotz/), [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep), [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [ColorNote](https://www.colornote.com/), [Notion](https://www.notion.so/), [Joplin](https://joplinapp.org/), [Notebook](https://www.zoho.com/notebook/), [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android), [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [neutriNote](https://github.com/appml/neutrinote), [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer), [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived), [Justnote](https://justnote.cc/), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself), [Noto](https://github.com/alialbaali/Noto), [Obsidian](https://obsidian.md/mobile), [Saber](https://github.com/saber-notes/saber) (tablets), [Quillpad](https://quillpad.github.io/), [Spooky](https://theachoem.github.io/spooky-mb/), [Moe Memos](https://memos.moe/), [Ara Note](https://github.com/hashemi-hossein/ara-note), [Notally](https://github.com/OmGodse/Notally), [Omni Notes](https://omninotes.app/), [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid), [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global), [memos](https://memos.moe/), [NotiNotes](https://github.com/Yanndroid/NotiNotes), [DailyNote](https://play.google.com/store/apps/details?id=com.akapps.dailynote), [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android), [OpenNote](https://github.com/YangDai2003/OpenNote-Compose), [NotePad](https://github.com/mshdabiola/NotePad), [uNote](https://gitlab.com/Varlorg/uNote/), [Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor), [Kardi Notes](https://f-droid.org/packages/github.rikodot.kardi_notes/), [QuickEdit](https://rentry.co/FMHYBase64#quickedit)
+### Note-Taking
+
+* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Note-Taking
+* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Note-Taking
+* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Note-Taking
+* [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking
+* [Quillpad](https://quillpad.github.io/) - Note-Taking
+* [sNotz](https://sunilpaulmathew.github.io/sNotz/) - Note-Taking
+* [Notion](https://www.notion.so/) - Note-Taking
+* [Joplin](https://joplinapp.org/) - Note-Taking
+* [Notebook](https://www.zoho.com/notebook/) - Note-Taking
+* [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android) - Note-Taking
+* [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688) - Note-Taking
+* [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking
+* [Notally](https://github.com/OmGodse/Notally) - Note-Taking
+* [Omni Notes](https://omninotes.app/) - Note-Taking
+* [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid) - Note-Taking
+* [DailyNote](https://play.google.com/store/apps/details?id=com.akapps.dailynote) - Note-Taking
+* [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking
+* [Kardi Notes](https://f-droid.org/packages/github.rikodot.kardi_notes/) - Note-Taking
+* [Moe Memos](https://memos.moe/) - Note-Taking
+* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking / Writing
+* [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived) - Note-Taking 
+* [Saber](https://github.com/saber-notes/saber) or [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global) - Handwritten Notes for Tablets
 
 ### To-Do Apps
 
