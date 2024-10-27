@@ -116,6 +116,7 @@
 * [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
+* [PersonaForce](https://personaforce.ai/) - Create and chat with AI buyer personas for smarter marketing
 
 ***
 
