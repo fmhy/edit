@@ -15,6 +15,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [FacePoke](https://huggingface.co/spaces/jbilcke-hf/FacePoke) or [Expression Editor](https://huggingface.co/spaces/fffiloni/expression-editor) - Adjust Headshot Orientations
 
 ***
 

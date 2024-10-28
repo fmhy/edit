@@ -494,9 +494,9 @@
 ## ▷ Download Fonts
 
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-site Font Search
-* ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * ⭐ **[FontSource](https://fontsource.org/)**
+* ⭐ **[FontPiracy](https://rentry.co/FontPiracy)** - Font Download Guide
 * [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
 * [Google Fonts](https://fonts.google.com/)
 * [GooFonts](https://goofonts.com/)

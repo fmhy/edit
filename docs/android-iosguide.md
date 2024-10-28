@@ -71,7 +71,7 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[Modded Central](https://t.me/+ilCkWkm0e39hZTQ1)** / [2](https://t.me/moddedcentralbackup)
+* ⭐ **[Modded Central](https://t.me/moddedcentralbackup)**
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
@@ -854,7 +854,7 @@ https://github.com/Akylas/alpimaps
 * [PocketCasts](https://www.pocketcasts.com/) - Podcast Player
 * [Podcini](https://github.com/XilinJia/Podcini) - Podcast Player
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio App
-* [RadioTime](https://radiotimeapp.com/) - Radio App
+* [RadiOMG for SomaFM](https://play.google.com/store/apps/details?id=com.dgmltn.radiomg.somafm) - Radio App / [Beta](https://somafm.com/aabeta/)
 * [SiriusXM](https://rentry.co/FMHYBase64#siriusxm) - Radio App
 * [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) - Radio App
 * [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio App
@@ -1244,6 +1244,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - Podcasts
 * [Podbean](https://apps.apple.com/app/apple-store/id973361050) or [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [IHeartRadio](https://apps.apple.com/us/app/iheartradio/id290638154), [MixCloud](https://apps.apple.com/us/app/mixcloud/id401206431) or [TuneIn](https://apps.apple.com/us/app/tunein-radio/id418987775) - Podcasts / Radio
+* [RadiOMG for SomaFM](https://somafm.com/iphone.app) - Radio
 * [DI.FM](https://apps.apple.com/us/app/di-fm-electronic-music-radio/id375242617) - Electronic Radio
 
 ***
