@@ -1023,9 +1023,6 @@
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
-* [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
-* [Comando](https://comando.la) - Movies / TV
-* [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker

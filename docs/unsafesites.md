@@ -20,6 +20,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) + allowing click hijack ads / [backups](https://imgur.com/a/jg9mLIa)
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
+* game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
 
 ***
 
@@ -71,7 +72,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * Limewire - Dead for years, anything claiming to be them now should be avoided
 * Downloadly (video downloader) - Crypto miner
-* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/) / [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
+* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * McAfee - Preinstalled Bloatware
 * Avast - Known for selling user data
 * AVG - Owned by Avast

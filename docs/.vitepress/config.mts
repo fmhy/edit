@@ -30,7 +30,7 @@ export default defineConfig({
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
-  appearance: 'dark',
+  appearance: true,
   base: baseUrl,
   srcExclude: ['README.md', 'single-page'],
   ignoreDeadLinks: true,

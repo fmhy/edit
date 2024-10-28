@@ -70,13 +70,13 @@
 * 🌐 **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - Course Site Index
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opens Fridays
-* ⭐ **[OneHack](https://onehack.us/)** - Courses / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
+* [OneHack](https://onehack.us/) - Courses / [Telegram](https://t.me/Official_OneHack)
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
@@ -1178,7 +1178,7 @@
 ## ▷ Study / Research
 
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://foambubble.github.io/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
-* ↪️ **[Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)** / **[Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools)**
+* ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)**
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)

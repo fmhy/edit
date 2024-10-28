@@ -238,7 +238,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
-* [Kew](https://github.com/ravachol/kew) - Audio Player TUI
+* [MOC](http://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
 * [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Client
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients

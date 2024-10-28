@@ -32,6 +32,7 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
+* [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
@@ -194,6 +195,7 @@
 * [promptfoo](https://github.com/promptfoo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
+* [RedTeam Arena](https://redarena.ai/) - AI Jailbreak Game
 * [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games
 * [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
 
