@@ -136,6 +136,7 @@
 * [Jav-angel](https://jav-angel.net/)
 * [KoreanPornMovies](https://koreanpornmovie.com/) - Korean
 * [cosplay.jav](https://cosplay.jav.pw/) - Cosplay Porn
+* [JAVLibrary](https://www.javlibrary.com/en/) - Video  / Star Database
 
 ***
 
