@@ -433,6 +433,7 @@
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
 * ⭐ **[Strims](https://strims.in/)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
+* [MutStreams](https://mutstreams.com) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
