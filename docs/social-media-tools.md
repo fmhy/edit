@@ -347,7 +347,7 @@
 
 # ► YouTube Tools
 
-* 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools
+* 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools Index
 * ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
@@ -385,17 +385,27 @@
 * ⭐ **[Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/)** - Create Anon Playlists
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
 * [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
-* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
 * [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sorts YT Playlists
 * [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
 * [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
+* [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
+* [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
+
+***
+
+youtube preservation section?
+* [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
+* [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
+* [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
+* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [RecoverMy.Video](https://www.recovermy.video/) or [quite a playlist](https://quiteaplaylist.com/) - Restore Titles of Deleted / Private Videos
 
 ***
 
 ## ▷ YT Video Tools (needs checking)
 
+* ↪️ **[Summarize YT Videos]()**
 * ⭐ **[DocXPDF Checker](https://docxpdf.com/youtube-region-restriction-checker)** or [polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi) - Video Region Restriction Checker
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos
@@ -406,13 +416,22 @@
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper), [Apps Golem](https://appsgolem.com/en/cut-youtube-video) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
-* [Gemini](https://gemini.google.com/), [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/), [VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/) - Summarize YouTube Videos
-* [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
-* [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
 * [Loadtup](https://loadtup.com/) or [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Video Transcribers
 * [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
+---
+* [Gemini](https://gemini.google.com/)
+* [Solidpoint](https://solidpoint.ai/)
+* [Glasp](https://glasp.co/youtube-summary)
+* [Glarity](https://glarity.app/)
+* [Quickvid](https://quickvid.vercel.app/)
+* [Eightify](https://eightify.app/)
+* [VideoGist](https://www.videogist.co/)
+* [VideoHighlight](https://videohighlight.com/)
+* [Clipnote](https://clipnote.ai/)
+* [Summarize](https://summarize.tech/)
+* [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial
 
 ***
 
@@ -428,6 +447,9 @@
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
+* [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
+* [Video Speed Controller](https://github.com/igrigorik/videospeed), [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
 * [CloudTube](https://tube.cadence.moe/) - YouTube Frontend
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [ViewTube](https://viewtube.wiki/) - YouTube Frontend
@@ -436,9 +458,6 @@
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
-* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
-* [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
-* [Video Speed Controller](https://github.com/igrigorik/videospeed), [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
 * [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
 * [YT CPU Tamer](https://greasyfork.org/en/scripts/431573), [YT JS Tamer](https://greasyfork.org/en/scripts/473972) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [YouTube: Audio Only](https://greasyfork.org/en/scripts/484611) or [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
@@ -459,12 +478,9 @@
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader
 * [Poke](https://poketube.fun/download) / [Discord](https://discord.gg/Kqdn8CHacP) or [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloaders
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YouTube Downloader
-* [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes
-* [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
-* [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) - Guide
 
 ***
 
@@ -504,11 +520,7 @@
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCF](https://ytcomment.kmcat.uk/) or [YouTube Comment Finder](https://www.youtubecommentfinder.com) - YouTube Comment Search
 * [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
-* [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
-* [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
-* [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
 * [TubeArchivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
-* [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
 
 ***
 
