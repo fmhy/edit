@@ -279,7 +279,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       {
         text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-        link: '/nsfwpiracy'
+        link: 'https://rentry.co/NSFW-Checkpoint'
       },
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
