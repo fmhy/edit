@@ -8,7 +8,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: ACE Threats ⚠️
-    link: /posts/oct-2024
+    link: /posts/ace-threats
   image:
     src: /test.png
     alt: FMHY Icon
