@@ -292,7 +292,8 @@
 
 ## ▷ Streaming
 
-* [Kukaj](https://ww.kukaj.sx/) - Movies / TV / Anime / 1080p
+* [Kukaj](https://ww.kukaj.to/) - Movies / TV / Anime / 1080p
+* [Bombuj](https://bombuj.si/) - Movies / TV
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 
 ***
@@ -366,7 +367,7 @@
 
 * ⭐ **[SeeFrench](https://seefrench.pro/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/5ZYBNAp7tm)
 * ⭐ **[Braflix](https://www.braflix.gd/)** - Movies / TV / Anime / Dub / 4K / 1080p
-* ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
+* ⭐ **[Hotstream](https://hotstream.at/)** - Movies / TV / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
 * [Atstream](https://atstream.xyz/) - Movies / TV / Anime / Dub / 1080p
@@ -383,7 +384,6 @@
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
-* [sekai](https://sekai.one/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
 * [VostFree](https://vostfree.ws/) - Anime / Sub / 1080p
@@ -1350,9 +1350,11 @@
 
 ## ▷ Streaming
 
+* [Kukaj](https://ww.kukaj.to/) - Movies / TV / Anime / 1080p
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
+* [Bombuj](https://bombuj.si/) - Movies / TV
 
 ***
 
