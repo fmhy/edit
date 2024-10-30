@@ -390,6 +390,7 @@
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
+* [BCE Premium TV](https://premium.b-c-e.us/) - Live TV / Sports
 * [SportsLive](https://sportslive.me/) - Sport / [Discord](https://discord.gg/22BUXzus2h) / [Telegram](https://t.me/+TQLKRehSyuszOWRi)
 * [Time4TV](https://time4tv.online/) - TV / Sports
 * [time4tv.top](https://time4tv.top/) - TV / Sports
@@ -479,6 +480,7 @@
 * [MMA Streams](https://tonight.mmastreams.cc/) - MMA
 * [MMAStreamLinks](https://red3.mmastreamlinks.com/) - MMA
 * [SoccerOnline](https://socceronline.me/) - Soccer
+* [BCE TV](https://live.b-c-e.us) - Soccer
 * [55Goal](https://55goal.com/) - Soccer
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Soccer
 * [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
@@ -518,6 +520,7 @@
 * [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Football Replays
 * [123footy](https://123footy.com/) - Football Replays
+* [BCE Sportflix](https://video.b-c-e.us/) - Football Replays
 * [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Football Replays
 * [Soccer Full Match](https://soccerfullmatch.com/ ) - Football Replays
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
