@@ -7,7 +7,7 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: October Updates 🎃
+    title: ACE Threats ⚠️
     link: /posts/oct-2024
   image:
     src: /test.png
