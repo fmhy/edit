@@ -1608,6 +1608,7 @@
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.sh/)**, [2](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
 * [İnat TV](https://inattv146.link/) / [Twitter](https://twitter.com/inattvapk) / [Telegram](https://t.me/s/inattvlinks) - App / Movies / TV / Sports
+* [Dizi Film Botu](https://t.me/Difix9Bot) - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / Series / Documentaries
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
@@ -1620,7 +1621,8 @@
 ## ▷ Reading / Okuma
 
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
-* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
+* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot)
+* [Kitap Botu](https://t.me/Kitap777bot) - 1+ Million Books!
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58) or [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/) or [Glory Manga](https://glorymanga.com/) - Manga
 
