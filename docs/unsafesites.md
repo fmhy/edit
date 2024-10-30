@@ -46,6 +46,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
+* Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
