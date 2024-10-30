@@ -20,6 +20,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) + allowing click hijack ads / [backups](https://imgur.com/a/jg9mLIa)
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
+* game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
 
 ***
 
@@ -29,7 +30,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ***
 
-* GetIntoPC / GetIntoMAC - Caught with malware multiple times
+* GetIntoPC / GetIntoMAC - Caught with [malware](https://www.virustotal.com/gui/file/5af9e89a7bfcfcae1c75de6acb7194b667d13776b61e79ea8aeab95f0af76bc7/), responsible for countless cases of malware at this point
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
 * AliTPB / AliPak / b4tman - Caught with malware multiple times
@@ -44,6 +45,8 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
+* Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
+* Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
@@ -70,7 +73,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * Limewire - Dead for years, anything claiming to be them now should be avoided
 * Downloadly (video downloader) - Crypto miner
-* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/) / [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
+* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * McAfee - Preinstalled Bloatware
 * Avast - Known for selling user data
 * AVG - Owned by Avast
@@ -87,7 +90,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ***
 
-### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/) / [2](https://ibb.co/MhfGTWx)
+### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/) / [2](https://i.imgur.com/lSMHLlL.png) / [3](https://i.ibb.co/KGDLZRp/image.png)
 
 ### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 

@@ -15,6 +15,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [FacePoke](https://huggingface.co/spaces/jbilcke-hf/FacePoke) or [Expression Editor](https://huggingface.co/spaces/fffiloni/expression-editor) - Adjust Headshot Orientations
 
 ***
 
@@ -37,10 +38,10 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
-* ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
-* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
 * ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881)
+* ⭐ **[Polarr](https://photoeditor.polarr.co/)** - Multi-Tool
+* ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
+* ⭐ **[Photopea](https://www.photopea.com/)** - Photoshop Alt
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Photoshop Alt
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
@@ -562,7 +563,7 @@
 * [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.io/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
-* [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
+* [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
@@ -634,7 +635,6 @@
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
-* [Pomodoro](https://pomodoro.semlab.io/) - Online OCR
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
 * [OCR.SPACE](https://ocr.space/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
@@ -712,11 +712,8 @@
 * [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
-* [Shutterfly](https://www.shutterfly.com/)
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
-* [pasteboard](https://www.pasteboard.co/)
-* [picsur](https://picsur.org/)
 * [vgy](https://vgy.me/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)

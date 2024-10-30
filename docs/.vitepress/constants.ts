@@ -137,13 +137,14 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: '🪅 Ecosystem',
     items: [
-      { text: '💙 Feedback', link: '/feedback' },
       { text: '🌐 Search', link: '/posts/search' },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
+      { text: '🔗 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+      { text: '🏞 Wallpapers', link: '/other/wallpapers' },  
+      { text: '💙 Feedback', link: '/feedback' },
       {
-        text: '🔗 Bookmarks',
-        link: 'https://github.com/fmhy/bookmarks'
+        text: '😇 SFW FMHY',
+        link: 'https://fmhy.xyz/'
       }
     ]
   }
@@ -278,7 +279,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       {
         text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-        link: '/nsfwpiracy'
+        link: 'https://rentry.co/NSFW-Checkpoint'
       },
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
