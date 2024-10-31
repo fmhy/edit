@@ -351,7 +351,6 @@
 * ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
 * ⭐ **[Niconico](https://www.nicovideo.jp/)**
-* ⭐ **[Veoh](https://www.veoh.com/)**
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
 * [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
@@ -435,6 +434,7 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * [MutStreams](https://mutstreams.com) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
+* [AllReplays](https://allreplays.com/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
@@ -540,8 +540,34 @@
 * [Rugby24](https://rugby24.net/) - Rugby Replays
 
 ***
+***
 
-# ► [Smart TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_smart_tv_.2F_firestick)
+# ► Smart TV / Firestick
+
+* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
+* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
+* [KPFire](https://linktr.ee/kpfire) - Firestick Apps
+* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
+* [Dev Manager Desktop](https://github.com/webosbrew/dev-manager-desktop) - Webos Desktop Dev Mode Manager / Homebrew Installer
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
+* [Tizentube](https://tizentube.vercel.app/) - Block Samsung Smart TV YouTube Ads
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad-Free Android TV Browsers
+* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
+* [WebOS YouTube](https://github.com/webosbrew/youtube-webos) - Ad-Free YouTube for LG TVs / [Guide](https://youtu.be/Zoc9Bt9TuZA), [2](https://redd.it/wzs6hg)
+* [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
+* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
+* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
+* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
+* [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
+* [StreamFire](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
+* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
+* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher), [FLauncher](https://gitlab.com/flauncher/flauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
+* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
+* [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
 
 ***
 

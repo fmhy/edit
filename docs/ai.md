@@ -41,7 +41,7 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
 * [Autonomous](https://www.autonomous.ai/anon) - No Login Llama / Hermes / FLUX
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
-* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot
+* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Login
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
@@ -260,7 +260,7 @@
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
-* ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
+* ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
@@ -270,7 +270,7 @@
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
-* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily
+* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily / No Login
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
 * [OpenArt](https://openart.ai/) / 50 Daily / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
@@ -377,7 +377,6 @@
 
 ## ▷ Text to Speech
 
-* 🌐 **[TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)** - Text to Speech Voting / Leaderboards
 * ⭐ **[Uberduck](https://uberduck.ai/)**
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
