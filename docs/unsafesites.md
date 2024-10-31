@@ -1,4 +1,4 @@
-To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/kenhendricks00/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)** / [2](https://fmhy.github.io/FMHYFilterlist/) to your adblocker.
+To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/kenhendricks00/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://github.com/fmhy/FMHYFilterlist)** to your adblocker.
 
 ***
 
