@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://discord.gg/Stz6y6NgNg
+      link: https://rentry.co/fmhy-invite
 
 features:
   - title: Adblocking / Privacy
