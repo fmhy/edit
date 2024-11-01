@@ -25,7 +25,7 @@ Here are a few ways you can get involved:
 * Anyone can suggest changes or corrections to the wiki. Please read our [contribution guide](https://fmhy.net/other/contributing) before trying to add or remove anything.
 * If you're adding a new site, please [search](https://api.fmhy.net/single-page) (control + f) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
-* You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
+* You can send us stuff directly via [💬 Discord](https://rentry.co/fmhy-invite).
 * To help us find new sites, check out the lists of links in [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/).
 
 ## 🔔 Follow
