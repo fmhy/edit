@@ -9,7 +9,7 @@ There are multiple ways you can contribute to this repository:
 ## Submitting a Link
 
 > [!NOTE]
-> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or reach out to us on **[Discord](https://discord.gg/5W9QJKuPkD)** rather than making a Pull Request.
+> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or reach out to us on **[Discord](https://rentry.co/fmhy-invite)** rather than making a Pull Request.
 
 1. Before submitting a link, please **[search](https://redd.it/105xraz)** to make sure it's not already in the wiki.
 

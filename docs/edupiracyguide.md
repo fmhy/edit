@@ -72,6 +72,7 @@
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
+* ⭐ **[InfiCourses](https://www.inficourses.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
@@ -80,7 +81,6 @@
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
-* [InfiCourses](https://www.inficourses.com/) - Courses
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
@@ -1180,6 +1180,7 @@
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://foambubble.github.io/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
 * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)**
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Awesome Anki](https://github.com/tianshanghong/awesome-anki), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
@@ -1201,7 +1202,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
-* [CalculateCGPA](https://www.calculatecgpa.com/) - Calculate GPA
+* [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Discord Bot
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
@@ -1235,12 +1236,10 @@
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
-* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
-* [School Cheats](https://schoolcheats.net/) - School Platform Answers
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
+* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 
 ***
 
@@ -1261,7 +1260,6 @@
 
 ## ▷ Reference Sites
 
-* ↪️ **[Encyclopedia Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encyclopedias)** - Encyclopedia Sites / Tools
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
@@ -1323,3 +1321,39 @@
 * [WordSafety](http://wordsafety.com/) - Swear Word Indexes
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://rentry.co/FMHYBase64#freemdict-downloads)
 * [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
+
+***
+
+## ▷ Encyclopedias
+
+* ⭐ **[Wikipedia](https://www.wikipedia.org/)** - Encyclopedia / [Content List](https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists)
+* ⭐ **Wikipedia Frontends** - [WikiWand](https://www.wikiwand.com/) or [ModernWiki](https://www.modernwiki.app/)
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
+* [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
+* [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
+* [Archivy](https://github.com/archivy/archivy/) - Self-Hosted Wiki
+* [Britannica](https://www.britannica.com/)
+* [EverybodyWiki](https://en.everybodywiki.com/)
+* [Encyclopedia](https://www.encyclopedia.com/)
+* [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/)
+* [Citizendium](https://citizendium.org/)
+* [Wikitia](https://wikitia.com/)
+* [Conze.pt](https://conze.pt/)
+* [InfoPlease](https://www.infoplease.com/)
+* [Refdesk](https://www.refdesk.com/factency.html)
+* [HandWiki](https://handwiki.org/)
+
+***
+
+## ▷ Wikipedia Tools
+ 
+* [HatNote](https://top.hatnote.com/) - Top Pages
+* [Deletionpedia](https://deletionpedia.org/en/Main_Page) - Deleted Pages
+* [HyperLeak](https://hyperleap.com/), [2](https://reversepedia.org/) - Page Connections
+* [Wiki Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) - Dark Mode
+* [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
+* [CDPedia](http://cdpedia.python.org.ar/index.en.es.html) - Offline View
+* [WikiExtractor](https://github.com/attardi/wikiextractor) - Extract Text
+* [Substance](https://substance.reorx.com/) - Extract Markdown
+* [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
+* [WikiNearby](https://wikinearby.toolforge.org/) - Location Search

@@ -317,6 +317,7 @@
 * [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
+* [OpenSpy](http://beta.openspy.net/en/) - LAN Multiplayer Fix / [GitHub](https://github.com/openspy/openspy-core)
 * [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
 * [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
@@ -501,7 +502,6 @@
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
-* [Altera](https://altera.al/) - Minecraft AI Bots / [Discord](https://discord.gg/alteraal)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
 * [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator

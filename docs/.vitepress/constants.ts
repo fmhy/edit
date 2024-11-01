@@ -111,7 +111,7 @@ export const search: DefaultTheme.Config['search'] = {
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
   { icon: 'github', link: 'https://github.com/fmhy/FMHYEdit' },
-  { icon: 'discord', link: 'https://discord.gg/Stz6y6NgNg' },
+  { icon: 'discord', link: 'https://rentry.co/fmhy-invite' },
   {
     ariaLabel: 'Reddit',
     icon: {
@@ -279,7 +279,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       {
         text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-        link: '/nsfwpiracy'
+        link: 'https://rentry.co/NSFW-Checkpoint'
       },
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',

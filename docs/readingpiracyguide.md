@@ -334,6 +334,7 @@
 * [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
+* [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - Webcomics / [Telegram](https://t.me/fast_pass)
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics

@@ -32,7 +32,7 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
-* [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots
+* [NextChat](https://free.xiercloud.top/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
@@ -41,7 +41,7 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
 * [Autonomous](https://www.autonomous.ai/anon) - No Login Llama / Hermes / FLUX
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
-* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot
+* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Login
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
@@ -56,18 +56,13 @@
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/) / [Enhancements](https://cplx.vercel.app/)
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[You](https://you.com/)** - AI Search Engine
 * [Hyper](https://hyper.space/) - P2P AI Network / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/)
 * [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
-* [Andi](https://andisearch.com/) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
-* [iAsk](https://iask.ai/) - AI Search Engine
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine
-* [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
-* [iSeek](https://www.iseek.com/) - AI Search Engine
-* [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
@@ -85,7 +80,6 @@
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
-* [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
 * [Petals](https://petals.dev/) - Self-Hosted
 * [Ollama](https://ollama.com/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
@@ -98,7 +92,6 @@
 ## ▷ Roleplaying Chatbots
 
 * 🌐 **[BestERP](https://besterp.ai/)** - Roleplaying LLM Lists
-* 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
@@ -107,15 +100,11 @@
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
-* [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
-* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Moescape](https://moescape.ai/) - Roleplaying Chatbot
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot
 * [Faraday](https://backyard.ai/) - Self-Hosted Roleplaying Chatbot
-* [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
-* [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
 
 ***
@@ -132,28 +121,20 @@
 * [Telosys](https://www.telosys.org/) - Lightweight Code Generator
 * [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / [GitHub](https://github.com/imgcook/imgcook)
-* [CodeWhisperer](https://aws.amazon.com/q/developer/) - Coding AI
 * [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
-* [Bito AI](https://bito.ai/) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI
 * [CodiumAI](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
-* [Codel](https://github.com/semanser/codel) - Coding AI
-* [DoWhile](https://chat.dowhile.ai/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
-* [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Coding AI
 * [Aider](https://aider.chat/) - Terminal Coding AI
-* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
+* [Codacy](https://www.codacy.com/) - Code Fixing AI
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
 * [v0](https://v0.dev/) - Text to Site Code
 * [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
-* [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
-* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
-* [CS50.ai](https://cs50.ai/) - AI Rubberducking
 
 ***
 
@@ -279,7 +260,7 @@
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
-* ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
+* ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
@@ -289,7 +270,7 @@
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
-* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily
+* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily / No Login
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
 * [OpenArt](https://openart.ai/) / 50 Daily / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
@@ -396,7 +377,6 @@
 
 ## ▷ Text to Speech
 
-* 🌐 **[TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)** - Text to Speech Voting / Leaderboards
 * ⭐ **[Uberduck](https://uberduck.ai/)**
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
@@ -410,6 +390,7 @@
 * [TextToSpeech](https://texttospeech.io/)
 * [LazyPY](https://lazypy.ro/tts/)
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+* [CablyAI](https://free.cablyai.com/)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui)
