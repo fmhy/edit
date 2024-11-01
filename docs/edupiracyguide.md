@@ -1240,6 +1240,7 @@
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
+* [Certifast](https://certifast.co/intl/en-us) - Effortlessly create certificates for webinars, online courses, and more.
 
 ***
 
