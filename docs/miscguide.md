@@ -903,10 +903,9 @@
 * [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
-* [Desk Spacing](https://deskspacing.com/) or [PlanYourRoom](https://www.planyourroom.com/) - Visualize PC Setups
+* [PlanYourRoom](https://www.planyourroom.com/) - Visualize PC Setups
 * [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/index.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
-* [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database

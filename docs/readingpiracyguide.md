@@ -100,7 +100,6 @@
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
-* [Ebooks3000](https://ebook3000.com/) - Books
 * [eBookHunter.net](https://www.ebookhunter.net/) - Books
 * [obooko](https://www.obooko.com/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
@@ -118,7 +117,7 @@
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
 * [Find Books](https://www.findbooks.info/) - Books / IPFS Required
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
-* [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required / [Guide](https://guide.ibhaven.st/)
+* [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
 ***
@@ -130,7 +129,6 @@
 * [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Standard EBooks](https://standardebooks.org/)
 * [Manybooks](https://manybooks.net/)
-* [Luminarium](https://www.luminarium.org/)
 * [JustFreeBooks](https://www.justfreebooks.info/)
 * [Classic Literature](https://classic-literature.co.uk/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
@@ -331,7 +329,6 @@
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
-* [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
@@ -445,7 +442,6 @@
 * [NobleMTL](https://noblemtl.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
-* [Panda Novel](https://www.panda-novel.com/)
 * [FreeWebNovel](https://freewebnovel.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels)
 * [NovelNext](https://novelnext.com/)
@@ -872,7 +868,7 @@
 * [kenmei](https://www.kenmei.co/) - Manga
 * [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [vndb](https://vndb.org/) - Visual Novels / [Stats](https://vnstat.net/)
+* [vndb](https://vndb.org/) - Visual Novels
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog

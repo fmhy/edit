@@ -11,12 +11,12 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
-* ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* [TypeSet](https://typeset.io/) or [Elicit](https://elicit.com/) - Research Paper Chatbots
+* ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
-* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://happyapi.org/) - GPT-4o / Multiple Chatbots
+* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / No Signup / [Discord](https://discord.com/invite/q55gsH8z5F)
+* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://happyapi.me/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [Not Diamond](https://chat.notdiamond.ai/) - Multiple Chatbots
@@ -25,42 +25,42 @@
 * [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
-* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
+* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
-* [NextChat](https://free.xiercloud.top/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots
-* [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
+* [NextChat](https://free.xiercloud.top/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
+* [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
-* [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
+* [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
-* [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited
-* [Autonomous](https://www.autonomous.ai/anon) - No Login Llama / Hermes / FLUX
+* [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
+* [Autonomous](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
-* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Login
+* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
-* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
+* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot / No Signup
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
-* [GPT4o.so](https://gpt4o.so/app) - GPT-4o
+* [GPT4o.so](https://gpt4o.so/app) - GPT-4o / No Signup
 * [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder / No Signup
 
 ***
 
 ## ▷ AI Search Engines
 
-* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/) / [Enhancements](https://cplx.vercel.app/)
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
-* ⭐ **[You](https://you.com/)** - AI Search Engine
-* [Hyper](https://hyper.space/) - P2P AI Network / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/)
-* [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
-* [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
+* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English / No Signup
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / No Signup / [Open Source Models](https://labs.perplexity.ai/) / [Enhancements](https://cplx.vercel.app/)
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
+* ⭐ **[You](https://you.com/)** - AI Search Engine / No Signup
+* [Hyper](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/)
+* [Phind](https://www.phind.com/) - Llama Search Engine / No Signup / [Discord](https://discord.gg/S25yW8TebZ)
+* [Morphic](https://www.morphic.sh/) - AI Search Engine / No Signup / [Discord](https://discord.gg/zRxaseCuGq)
 * [Komo](https://komo.ai/) - AI Search Engine
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
@@ -265,22 +265,22 @@
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
-* [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell?ref=blog.fal.ai) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev?ref=blog.fal.ai) / Unlimited
+* [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
-* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily / No Login
+* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily / No Signup
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
 * [OpenArt](https://openart.ai/) / 50 Daily / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
 * [AIGallery](https://aigallery.app/) / Unlimited
-* [ComfyUI Web](https://comfyuiweb.com/) or [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
+* [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
 * [Pixvify](https://pixvify.com/) / Unlimited
-* [OIChat](https://chat.oaichat.cc/) / Unlimited
+* [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
