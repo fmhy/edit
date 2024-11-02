@@ -399,7 +399,7 @@
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
-* [huhu.to](http://huhu.to/) or [oha.to](http://oha.to/) - TV / Sports
+* [huhu.to](http://huhu.to/) or [oha.to](http://oha.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [Stream4Free Live](https://www.infinite-streaming.live/) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV
