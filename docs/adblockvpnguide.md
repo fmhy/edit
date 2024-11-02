@@ -145,8 +145,8 @@
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[/r/Privacy](https://reddit.com/r/privacy)**, [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
-* [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89), [2](https://rentry.co/telemetry) - Disable Windows 10/11 Telemetry
+* [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
@@ -358,7 +358,7 @@
 * ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan 
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid 
 * ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Plan / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [GitHub](https://github.com/ProtonVPN/)
-* ⭐ **[Warp](https://one.one.one.one/)** - Free / #Free-Stuff [Discord Pins](https://discord.gg/5W9QJKuPkD) for Keys
+* ⭐ **[Warp](https://one.one.one.one/)** - Free / #Free-Stuff [Discord Pins](https://rentry.co/fmhy-invite) for Keys
 * ⭐ **Warp Tools** - [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot) / [Warp+ Warning](https://rentry.co/warpwarning2)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)

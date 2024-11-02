@@ -426,8 +426,8 @@
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
 * ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
 * [Is The Service Down?](https://istheservicedown.com/)
-* [Down.com](https://down.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
+* [Down.com](https://down.com/)
 * [websitedown](http://www.websitedown.info/)
 * [UpDown Radar](https://updownradar.com/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
@@ -552,7 +552,6 @@
 * [5yMail](https://www.5ymail.com/)
 * [anonymousemail.me](https://anonymousemail.me/)
 * [Anonymouse](http://anonymouse.org/anonemail.html)
-* [Send Anonymous Email](http://www.sendanonymousemail.net/)
 
 ***
 
@@ -661,9 +660,7 @@
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
 * [Max Focus](https://maxfoc.us/) - Preview Links
-* [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
-* [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
+* [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages

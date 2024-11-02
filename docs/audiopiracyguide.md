@@ -82,7 +82,7 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [YTMP](https://ytmp.itsvg.in/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic) / [Better Lyrics](https://chromewebstore.google.com/detail/better-lyrics-lyrics-for/effdbpeggelllpfkjppbokhmmiinhlmg)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
@@ -421,7 +421,6 @@
 * ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[Lidarr](http://lidarr.audio/)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
-* [TheTradersDen](http://www.thetradersden.org/) - FLAC
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [TheMixingBowl](https://themixingbowl.org/) - MP3 / Signup Required
@@ -432,7 +431,7 @@
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
-* [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [etreedb](https://etreedb.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
+* [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [TheTradersDen](http://www.thetradersden.org/), [etreedb](https://etreedb.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***

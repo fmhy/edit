@@ -242,6 +242,7 @@
 * 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
+* ⭐ **[WinDirStat](https://windirstat.net/)** - Disk Usage Analyzer / Cleanup Tool
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
@@ -249,7 +250,6 @@
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) or [Diskovery](https://diskovery.io/) - Disk Usage Analyzers
-* [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer / Cleanup Tool
 * [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
 * [Erdtree](https://github.com/solidiquis/erdtree) - Cross-Platform Disk Usage Analyzer
 * [PC Manager](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
