@@ -445,16 +445,24 @@
 * [Braflix](https://www.braflix.gd/) - Movies / TV / Anime / Dub / 4K / 1080p
 * [Streamkiste](https://streamkiste.tv/), [2](https://streamkiste.taxi/) - Movies / TV / Dub / 1080p
 * [FilmPalast](https://filmpalast.sx/), [2](https://filmpalast.info/) - Movies / TV / Dub / 1080p
+* [Moflix](https://moflix-stream.xyz/) - Movies / TV / Dub / 1080p
 * [Megakino](https://megakino.onl/), [2](https://megakino.org/) - Movies / TV / Dub / 720p
 * [StreamCloud](https://streamcloud.sx/) - Movies / TV / 720p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [xCine](https://xcine.ru/) - Movies / TV / Dub / 720p
+* [Cine](https://cine.to/) - Movies / TV / Dub / 720p
+* [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
+* [Einschalten](https://einschalten.in/) - Movies / TV / Dub / 720p
+* [Haschcon](https://haschcon.com/) - Movies / 720p
 * [Burning Series](https://bs.to/) - TV / Dub / 1080p
 * [S.TO](https://s.to/) - TV / Anime / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
 * [dokustreams](https://dokustreams.de/), [dctp.tv](https://www.dctp.tv/) or [dokuh.de](https://www.dokuh.de/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
+* [Edels Gute Stube](https://edels-stube.eu/) - Live TV / Sports / Movies / TV / Documentaries / Dub / 720p
+* [Bundesliga Streams](https://bundesliga-streams.net/) - Sports
+* [LiveTV](https://livetv.sx/dex/) - Sports
 * [SRF.CH](https://www.srf.ch/) - Live TV / Sports
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
