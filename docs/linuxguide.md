@@ -596,7 +596,7 @@ Linux Gaming Guide
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [AirBattery](https://github.com/lihaoyun6/AirBattery) - Device Battery Tracker
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
-* [Bunch](https://bunchapp.co/) - Task Automation
+* [Hammerspoon](https://www.hammerspoon.org/) or [Bunch](https://bunchapp.co/) - Desktop Automation
 * [MacScripter](https://www.macscripter.net/) - Automation Forum
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator

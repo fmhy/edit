@@ -429,7 +429,6 @@
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
 * [Down.com](https://down.com/)
 * [websitedown](http://www.websitedown.info/)
-* [UpDown Radar](https://updownradar.com/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
 * [Dr. Link Check](https://www.drlinkcheck.com/)

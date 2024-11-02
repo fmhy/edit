@@ -38,6 +38,7 @@
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
 * [Tagify](https://tagify.me/) - Use Playlists as Tags
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs
+* [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create Spotify RSS (atom) Feeds
 * [Skiley](https://skiley.net/) - Playlist Manager
 * [Kotify](https://github.com/dzirbel/kotify) - Organize Spotify Music
 * [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists / [GitHub](https://github.com/okanten/playlistproxy.net)

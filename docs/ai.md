@@ -281,6 +281,7 @@
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
 * [Pixvify](https://pixvify.com/) / Unlimited
+* [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup 
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.com/invite/8HqSRhJVxn)

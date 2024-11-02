@@ -8,13 +8,12 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Docs](https://docs.undi.rest/)
-* ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
-* ⭐ **[Braflix](https://www.braflix.is/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/dexBcDVdEk)
+* ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Auto-Play / [Docs](https://docs.undi.rest/)
+* ⭐ **[Braflix](https://www.braflix.is/)** - Movies / TV / Anime / 4K / 1080p / Auto-Play / [Discord](https://discord.com/invite/dexBcDVdEk)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[kipstream](https://kipstream.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.com/), [3](https://nunflix-firebase.web.app/), [4](https://nunflix-ey9.pages.dev/), [5](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.com/), [3](https://nunflix-firebase.web.app/), [4](https://nunflix-ey9.pages.dev/), [5](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / Auto-Play / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
@@ -71,6 +70,7 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime / 1080p
+* [Watch2Day](https://watch2day.online/) - Movies / TV / Anime / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
 * [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime / 1080p
@@ -153,7 +153,8 @@
 * ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub / 1080p
 * ⭐ **[Akuse](https://github.com/akuse-app/Akuse)**, [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
+* ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
+* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Multi-Site Anime Search
 * [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / 1080p / Ad-Free / [Discord](https://discord.gg/6xJmJja8fV)
 * [Anify](https://anify.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/79GgUXYwey) 
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
@@ -382,7 +383,6 @@
 * ⭐ **[TheTVApp](https://thetvapp.to/)** - TV / Sports / Ad-Free
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
-* ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports / 1080p
 * [Braflix](https://www.braflix.gd/livestream/) - TV / Sports
 * [Heartive](https://heartive.pages.dev/live/) - Live TV / Sports
@@ -399,7 +399,7 @@
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
-* [huhu.to](http://huhu.to/) or [oha.to](http://oha.to/) - TV / Sports
+* [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [Stream4Free Live](https://www.infinite-streaming.live/) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV

@@ -83,6 +83,7 @@
 * [Superimage](https://superimage.io/) - Image Upscaling
 * [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
 * [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
+* [PixNova](https://pixnova.ai/image-upscaler/) - Image Upscaling
 * [Nicescaler](https://github.com/Djdefrag/NiceScaler) - Image Upscaling
 * [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling
@@ -269,7 +270,7 @@
 
 ## ▷ Meme Tools
 
-* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases / [Frontend](https://mm.vern.cc/), [2](https://git.vern.cc/cobra/MeMe)
+* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FindThatMeme](https://findthatmeme.com/) - Meme Databases / [Frontend](https://mm.vern.cc/), [2](https://git.vern.cc/cobra/MeMe)
 * [ImgFlip](https://imgflip.com/memegenerator), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
