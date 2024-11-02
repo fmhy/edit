@@ -401,7 +401,7 @@
 
 ***
 
-## ▷ Site Customization
+## ▷ YouTube Customization
 
 * ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
 * ⭐ **[ReturnYouTubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/), [2](https://jabrek.net/dislike-en) / [Discord](https://discord.com/invite/mYnESY4Md5)
@@ -451,7 +451,7 @@
 
 ***
 
-## ▷ YT Video Tools (needs checking)
+## ▷ Video Tools (needs checking)
 
 * ↪️ **[Summarize YT Videos]()**
 * ⭐ **[DocXPDF Checker](https://docxpdf.com/youtube-region-restriction-checker)** or [polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi) - Video Region Restriction Checker
@@ -490,7 +490,7 @@
 
 ## ▷ YouTube Archiving (needs checking)
 
-* [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
+* [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
 * [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [RecoverMy.Video](https://www.recovermy.video/) or [quite a playlist](https://quiteaplaylist.com/) - Restore Titles of Deleted / Private Videos
