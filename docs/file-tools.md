@@ -243,9 +243,65 @@
 
 ***
 
+# ► File Transfer
+
+* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
+* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
+* [FileZilla](https://filezilla-project.org/) - FTP Client
+* [WinSCP](https://winscp.net/eng/index.php) - FTP Client
+* [Wing FTP](https://www.wftpserver.com/) - FTP Client
+* [Xlight](https://xlightftpd.com/) - FTP Client
+* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
+* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
+
+***
+
+## ▷ P2P Transfer
+
+* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
+* ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
+* ⭐ **[justbeamit](https://justbeamit.com/)**
+* ⭐ **[spacedrop](https://spacedrop.app/)**
+* [wormhole](https://wormhole.app/)
+* [KDEConnect](https://kdeconnect.kde.org/)
+* [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
+* [sharedrop](https://www.sharedrop.io/)
+* [new.space](https://new.space/)
+* [file.pizza](https://file.pizza/)
+* [Transfernow](https://www.transfernow.net/en)
+* [onionshare](https://onionshare.org/)
+* [Horizon Send](https://send.hrzn.cool/)
+* [landrop](https://landrop.app/)
+* [Surge](https://getsurge.io/)
+* [saladroom](https://saladroom.net/)
+* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
+* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
+* [sendfiles](https://sendfiles.online/)
+* [lightning](https://lightning-share.vercel.app/)
+* [RDrop](https://rdrop.link/)
+* [webdrop](https://webdrop.space/)
+* [MyAirBridge](https://www.myairbridge.com/)
+* [Sprend](https://sprend.com/)
+* [JumboMail](https://www.jumbomail.me/)
+* [PlusTransfer](https://www.plustransfer.com/)
+* [filetransfer](https://filetransfer.kpn.com/)
+* [WebWormhole](https://webwormhole.io/)
+* [Destiny](https://github.com/LeastAuthority/destiny)
+* [sharrr](https://www.sharrr.com/)
+* [Photon](https://photondev.netlify.app/)
+* [EchoDuck](https://echoduck.com/)
+* [ffsend](https://github.com/timvisee/ffsend)
+* [File.love](https://file.love/)
+
+***
+
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
 
 ***
 
@@ -297,60 +353,6 @@
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
-
-***
-
-## ▷ P2P File Transfer
-
-* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
-* ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
-* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[spacedrop](https://spacedrop.app/)**
-* [wormhole](https://wormhole.app/)
-* [KDEConnect](https://kdeconnect.kde.org/)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
-* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
-* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
-* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
-* [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
-* [sharedrop](https://www.sharedrop.io/)
-* [new.space](https://new.space/)
-* [file.pizza](https://file.pizza/)
-* [Transfernow](https://www.transfernow.net/en)
-* [onionshare](https://onionshare.org/)
-* [Horizon Send](https://send.hrzn.cool/)
-* [WinSCP](https://winscp.net/eng/index.php)
-* [landrop](https://landrop.app/)
-* [Surge](https://getsurge.io/)
-* [saladroom](https://saladroom.net/)
-* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
-* [sendfiles](https://sendfiles.online/)
-* [XD-Torrent](https://xd-torrent.github.io/)
-* [lightning](https://lightning-share.vercel.app/)
-* [RDrop](https://rdrop.link/)
-* [webdrop](https://webdrop.space/)
-* [MyAirBridge](https://www.myairbridge.com/)
-* [Sprend](https://sprend.com/)
-* [JumboMail](https://www.jumbomail.me/)
-* [PlusTransfer](https://www.plustransfer.com/)
-* [Wing FTP](https://www.wftpserver.com/)
-* [Xlight](https://xlightftpd.com/)
-* [FileZilla](https://filezilla-project.org/)
-* [uschovna](https://www.uschovna.cz/)
-* [posilej](https://posilej.cz/)
-* [filetransfer](https://filetransfer.kpn.com/)
-* [WebWormhole](https://webwormhole.io/)
-* [Destiny](https://github.com/LeastAuthority/destiny)
-* [sharrr](https://www.sharrr.com/)
-* [Photon](https://photondev.netlify.app/)
-* [EchoDuck](https://echoduck.com/)
-* [ffsend](https://github.com/timvisee/ffsend)
-* [File.love](https://file.love/)
-* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
-* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 

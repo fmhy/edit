@@ -1027,14 +1027,12 @@
 
 * [Gemini](https://gemini.google.com/)
 * [Solidpoint](https://solidpoint.ai/)
-* [Glasp](https://glasp.co/youtube-summary)
-* [Glarity](https://glarity.app/)
 * [Quickvid](https://quickvid.vercel.app/)
-* [Eightify](https://eightify.app/)
 * [VideoGist](https://www.videogist.co/)
 * [VideoHighlight](https://videohighlight.com/)
-* [Clipnote](https://clipnote.ai/)
 * [Summarize](https://summarize.tech/)
+* [Glarity](https://glarity.app/) - Browser Extension
+* [Glasp](https://glasp.co/youtube-summary) or [Eightify](https://eightify.app/) - Chrome Extensions
 * [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial
 
 ***

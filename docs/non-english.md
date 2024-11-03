@@ -276,6 +276,7 @@
 * [Seznam](https://www.seznam.cz/) - Web Search Engine
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
+* [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
 
 ## ▷ Downloading
 
