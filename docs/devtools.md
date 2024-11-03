@@ -179,6 +179,7 @@
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * ⭐ **[DB Browser](https://sqlitebrowser.org/)** or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
+* [Sqlable](https://sqlable.com/) - SQL Tools
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
@@ -192,7 +193,6 @@
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
-* [Sqlable](https://sqlable.com/) - SQL tools: Validator, Formatter, Generator, SQL Regex Tester, SQLite/MySQL/PostgreSQL Playgrounds
 
 ***
 
