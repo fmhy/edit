@@ -251,6 +251,7 @@
 * [KissKH](https://kisskh.co/) - TV
 * [onedrama](https://onedrama.me/) - TV / Movies
 * [DramaFull](https://dramafull.net/) - TV / Movies
+* [RiveStream](https://rivestream.live/kdrama) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
 * [MyAsianTV](https://myasiantv.ac/) - TV / Movies
@@ -432,6 +433,7 @@
 * [MutStreams](https://mutstreams.com) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
 * [AllReplays](https://allreplays.com/) - Sports
+* [RiveStream](https://rivestream.live/livesports) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
