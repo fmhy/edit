@@ -39,6 +39,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
+* ⭐ **[Fr0stB1rd uBlock Filter List](https://gitlab.com/fr0stb1rd/ublock_filters/)** - Auto Bypass for publicearn, gplinks, offerlinks and admaven links. Use with **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
 * ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [Bypass.vip](https://bypass.vip/) / [API](https://api.bypass.vip/)
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt) / [Note](https://pastebin.com/Gr2AhsE8)
