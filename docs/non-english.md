@@ -1571,6 +1571,7 @@
 
 # ► Turkish / Türkçe
 
+* ⭐ **[TemizAramaMotorum](https://gitlab.com/fr0stb1rd/temizaramamotorum)** - Get rid of fake Turkish results
 * ⭐ **[caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** - Get rid of low-quality Turkish results
 * [Türkçe Mahremiyet Rehberi](https://github.com/1Xnes/turkish-privacy-guide) -  Turkish Privacy Guide
 
