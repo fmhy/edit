@@ -192,6 +192,7 @@
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
+* [Sqlable](https://sqlable.com/) - SQL tools: Validator, Formatter, Generator, SQL Regex Tester, SQLite/MySQL/PostgreSQL Playgrounds.
 
 ***
 
