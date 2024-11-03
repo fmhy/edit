@@ -9,11 +9,11 @@
 * ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
+* ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photo / Video Files by Date
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
-* [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
@@ -188,7 +188,7 @@
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
-* [Windows  File Recovery](https://apps.microsoft.com/detail/9n26s50ln705) - File Recovery
+* [Windows File Recovery](https://apps.microsoft.com/detail/9n26s50ln705) - File Recovery
 * [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 
