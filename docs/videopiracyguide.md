@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://cineby.ru/)** - Movies / TV / Anime / 4K / 1080p / Auto-Play / [Discord](https://discord.com/invite/dexBcDVdEk)
+* ⭐ **[Cineby](https://cineby.ru/)** - Movies / TV / Anime / 4K / 1080p / Auto-Play
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Auto-Play / [Docs](https://docs.undi.rest/)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
