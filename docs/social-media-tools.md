@@ -356,45 +356,19 @@
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
-* [TubeArchivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
 * [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
-* [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
-* [Custom Usernames](https://greasyfork.org/en/scripts/468740) - Restore Custom Usernames
-* [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
-* [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
-* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Video Subtitles / [Telegram Bot](https://t.me/youtube_subtitle_downloader_bot)
 * [Amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Import Local Subtitles to YouTube / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
 * [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-Style Theater Mode for YouTube Live
-
-***
-
-## ▷ YouTube Downloaders
-
-* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
-* ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Instances](https://instances.hyper.lol/)
-* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [Stacher](https://stacher.io/), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui), [Vividl](https://github.com/Bluegrams/Vividl), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - YT-DLP GUIs
-* [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-platform YT-DLP GUIs
-* [Videomass](https://jeanslack.github.io/Videomass/) - Cross-platform YT-DL / FFmpeg GUI
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
-* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
-* [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader
-* [Poke](https://poketube.fun/download) / [Discord](https://discord.gg/Kqdn8CHacP) or [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloaders
-* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YouTube Downloader
-* [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
-* [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
 
 ***
 
@@ -410,6 +384,7 @@
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
+* [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Discord](https://vorapis.pages.dev/#/join_community) / [Features](https://greasyfork.org/en/scripts/485622) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
 * [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
@@ -419,6 +394,7 @@
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
 
 ***
+
 
 ## ▷ Players / Frontends
 
@@ -441,7 +417,7 @@
 
 ***
 
-## ▷ Video Tools (needs checking)
+## ▷ Video Tools
 
 * ↪️ **[Summarize YT Videos]()**
 * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitles)**
@@ -452,7 +428,7 @@
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Hide Watched Videos
-* [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
+* [Annotations Restored](https://github.com/isaackd/AnnotationsRestored) or [Annotations Data Archive](https://archive.org/details/youtubeannotations) - Restore Video Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [AppsGolem](https://appsgolem.com/en/cut-youtube-video), [YT Cutter](https://ytcutter.link/) or [yt_clipper](https://github.com/exwm/yt_clipper) - Crop YouTube Videos / Create Clips
 * [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
@@ -476,12 +452,24 @@
 
 ***
 
-## ▷ YouTube Archiving (needs checking)
+## ▷ YouTube Downloaders (needs checking)
 
-* [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
-* [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
-* [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
-* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [quite a playlist](https://quiteaplaylist.com/) or [RecoverMy.Video](https://www.recovermy.video/) - Restore Titles of Deleted / Private Videos
+* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
+* ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Instances](https://instances.hyper.lol/)
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [Stacher](https://stacher.io/), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui), [Vividl](https://github.com/Bluegrams/Vividl), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - YT-DLP GUIs
+* [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-platform YT-DLP GUIs
+* [Videomass](https://jeanslack.github.io/Videomass/) - Cross-platform YT-DL / FFmpeg GUI
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
+* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
+* [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader
+* [Poke](https://poketube.fun/download) / [Discord](https://discord.gg/Kqdn8CHacP) or [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloaders
+* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YouTube Downloader
+* [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes
+* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
+* [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Video Subtitles / [Telegram Bot](https://t.me/youtube_subtitle_downloader_bot)
 
 ***
 
@@ -499,6 +487,7 @@
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCF](https://ytcomment.kmcat.uk/) or [YouTube Comment Finder](https://www.youtubecommentfinder.com) - YouTube Comment Search
 * [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
+* [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
 
 ***
 
