@@ -833,7 +833,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 
 ## ▷ Terraria Tools
 
-* ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
+* ⭐ [Terraria Wiki](https://terraria.wiki.gg/) or [Terranion](https://yal.cc/r/terranion/) - Terraria Wikis
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
