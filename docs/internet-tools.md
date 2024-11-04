@@ -181,12 +181,12 @@
 
 ## ▷ RSS Tools
 
+* ↪️ **[RSS Feed Generators](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_generators)**
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Extensions
-* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)**, **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [RSS Please](https://rsspls.7bit.org/), [FetchRSS](https://fetchrss.com/), [RSS Diffbot](https://rss.diffbot.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers

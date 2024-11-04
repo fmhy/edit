@@ -270,7 +270,6 @@
 * ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
 * [online-courses](https://online-courses.club/) - Art / Design Courses
 * [Curriculum for the Solo Artists](https://alexhuneycutt.gumroad.com/l/free_curriculum) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://i.redd.it/7ns7su264gp31.png), [2](https://imgur.com/a/EZPc28m)
-* [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
 * [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
 * [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
@@ -1121,7 +1120,7 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [x86re](https://x86re.com/) - Reverse Engineering Guide
-* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevel-tv/) - Cybersecurity YouTube Tutorials
+* [John Hammond](https://www.youtube.com/@_JohnHammond) / [Discord](https://j-h.io/discord) or [LowLevelLearning](https://www.youtube.com/@LowLevel-tv/) - Cybersecurity YouTube Tutorials
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC

@@ -109,6 +109,7 @@
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
 * ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
+* ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Check Trusted Sites Easily
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * [Dangerzone](https://dangerzone.rocks/) - Convert potentially malicious files to safe PDFs / [GitHub](https://github.com/freedomofpress/dangerzone)
@@ -431,7 +432,6 @@
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://croxyproxy.best/)
 * [ProxySite](https://www.proxysite.cc/)
-* [KProxy](https://www.kproxy.com/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [Sitenable](https://freeproxy.io/)

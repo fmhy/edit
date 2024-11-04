@@ -71,7 +71,6 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[Modded Central](https://t.me/moddedcentralbackup)**
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)

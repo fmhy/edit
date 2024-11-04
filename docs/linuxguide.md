@@ -10,9 +10,8 @@
 
 ***
 
-* ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
 * ⭐ **[DistroChooser](https://distrochooser.de/)**
-* ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
+* [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [DotShare](http://dotshare.it/) - Distro Config Index

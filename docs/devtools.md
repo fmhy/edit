@@ -613,6 +613,7 @@
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/deadlyjack/Acode)
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
+* [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Editor
 * [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
