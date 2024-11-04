@@ -355,6 +355,7 @@
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
+* [PaperNodes](https://papernodes.com/) - Game Server Hosting / [Discord](https://discord.gg/cAeJdskBkk)
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Servers / [Discord](https://discord.gg/MEwBW9U)
 * [SiMPLE](https://team-simple.org/forum/) - Battlefield 1942 Servers / [Discord](https://discord.team-simple.org/)
