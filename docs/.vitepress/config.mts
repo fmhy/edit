@@ -140,7 +140,7 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, Estd 2018>`
+      copyright: `© ${new Date().getFullYear()}, Estd 2018`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',
