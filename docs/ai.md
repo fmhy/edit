@@ -16,7 +16,7 @@
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / No Signup / [Discord](https://discord.com/invite/q55gsH8z5F)
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
@@ -131,6 +131,7 @@
 * [Codacy](https://www.codacy.com/) - Code Fixing AI
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Signup
 * [v0](https://v0.dev/) - Text to Site Code
+* [Bolt](https://bolt.new/) - Web App Builder
 * [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code / No Signup
 
