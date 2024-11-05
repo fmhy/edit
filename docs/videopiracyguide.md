@@ -8,9 +8,8 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://cineby.ru/)** - Movies / TV / Anime / 4K / 1080p / Auto-Play
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Auto-Play / [Docs](https://docs.undi.rest/)
-* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
+* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p / Auto-Play
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[kipstream](https://kipstream.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
@@ -29,6 +28,7 @@
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV / 1080p
+* [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://l.cinemadeck.com/discord)
 * [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / 1080p / [API](https://moviee.tv/api)
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / 1080p / Use Adblock
@@ -76,7 +76,6 @@
 * [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime / 1080p
 * [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
-* [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://l.cinemadeck.com/discord)
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [321Movies](https://321movies.co.uk/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
@@ -384,7 +383,6 @@
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports / 1080p
-* [Cineby](https://cineby.ru/) - TV / Sports
 * [Heartive](https://heartive.pages.dev/live/) - Live TV / Sports
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
@@ -592,7 +590,6 @@
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)** - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
-* ⭐ **[Cineby](https://cineby.ru/)** - Movies / TV / Anime / 4K / 1080p / Account Required
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
@@ -602,6 +599,7 @@
 * [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
+* [YassFlix](https://yassflix.live/) - TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p

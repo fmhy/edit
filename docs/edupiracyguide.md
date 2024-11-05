@@ -975,8 +975,8 @@
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
 * ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course
-* ⭐ **[LandChad](https://landchad.net/)** or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
-* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
+* ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
+⁠* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
@@ -999,6 +999,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/), [Flexbox Zombies](https://mastery.games/flexboxzombies), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) or [GridByExample](https://gridbyexample.com/) - CSS Grid Guides
+* [ReactStudyKit](https://reactstudykit.com/) - React Study Tools / Flashcards
 * [Leaflet](https://leafletjs.com/) - JavaScript Library for Interactive Maps
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavaScript](https://eloquentjavascript.net/) - JavaScript Learning Books
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Questions for Practice

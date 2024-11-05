@@ -17,7 +17,6 @@
 * ⭐ **uBO Resources** - [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [AdGuardFilters](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
@@ -28,8 +27,8 @@
 
 ## ▷ Adblock Filters
 
-* ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
+* [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
 * [FilterLists](https://filterlists.com/) - Filter and host lists directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
@@ -68,17 +67,12 @@
 * [NextDNS](https://nextdns.io) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I), [Adguard DNS](https://adguard-dns.io/) or [ControlD](https://controld.com/free-dns) - Customizable DNS Adblocking Services
 * [NxFilter](https://nxfilter.org/) - Customizable DNS Adblocking / Self-Hosted
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [Filters](https://codeberg.org/tblock/filters)
-* [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking Client
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Filtering Proxy / Self-Hosted
-* [dog](https://dns.lookup.dog/) - DNS Lookup CLI
-* [Stubby](https://dnsprivacy.org/dns_privacy_daemon_-_stubby/) - DNS Privacy Stub Resolver
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles for Apple Devices
-* [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
-* [Technitium](https://technitium.com/dns) or [Hickory DNS](https://github.com/hickory-dns/hickory-dns) - Self-Hosted DNS Server
+* [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
 ***
@@ -105,12 +99,13 @@
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
-* ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)** / [Guide](https://rentry.co/sandboxie-guide) or [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Sandbox Environments
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
 * ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Check Trusted Sites Easily
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
+* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment  / [Guide](https://rentry.co/sandboxie-guide)
+* [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * [Dangerzone](https://dangerzone.rocks/) - Convert potentially malicious files to safe PDFs / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
@@ -160,9 +155,7 @@
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US Only
-* [image-scrubber](https://everestpipkin.github.io/image-scrubber) - Anonymize Protest Photos / [GitHub](https://github.com/everestpipkin/image-scrubber)
 * [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
-* [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 
