@@ -246,7 +246,7 @@
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
 * [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
-* [Brave](https://brave.com/) - Privacy-Focused Browser
+* [Brave](https://brave.com/) - Privacy Chromium Browser
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/), [2](https://pq.cloudflareresearch.com/) - Cloudflare Browser Check
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 

@@ -930,6 +930,7 @@
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [Open RSS](https://openrss.org/)
 * [RSS Please](https://rsspls.7bit.org/)
+* [RSS Finder](https://rss-finder.rook1e.com/))
 * [FetchRSS](https://fetchrss.com/)
 * [RSS Diffbot](https://rss.diffbot.com/)
 * [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
