@@ -246,10 +246,14 @@
 # ► File Transfer
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
+* [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
+* [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
+* [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/) - FTP Client
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
 * [Wing FTP](https://www.wftpserver.com/) - FTP Client
@@ -263,39 +267,29 @@
 
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
-* ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[spacedrop](https://spacedrop.app/)**
-* [wormhole](https://wormhole.app/)
-* [KDEConnect](https://kdeconnect.kde.org/)
-* [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* ⭐ **[JustBeamIt](https://justbeamit.com/)**
+* ⭐ **[SpaceDrop](https://spacedrop.app/)**
+* [Surge](https://getsurge.io/) - P2P App
+* [Wormhole](https://wormhole.app/)
+* [PairDrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
-* [sharedrop](https://www.sharedrop.io/)
+* [ShareDrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
-* [file.pizza](https://file.pizza/)
-* [Transfernow](https://www.transfernow.net/en)
-* [onionshare](https://onionshare.org/)
+* [FilePizza](https://file.pizza/)
+* [TransferNow](https://www.transfernow.net/en)
 * [Horizon Send](https://send.hrzn.cool/)
-* [landrop](https://landrop.app/)
-* [Surge](https://getsurge.io/)
-* [saladroom](https://saladroom.net/)
+* [Salad Room](https://saladroom.net/)
 * [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
-* [sendfiles](https://sendfiles.online/)
-* [lightning](https://lightning-share.vercel.app/)
-* [RDrop](https://rdrop.link/)
-* [webdrop](https://webdrop.space/)
-* [MyAirBridge](https://www.myairbridge.com/)
+* [sendfilesencrypted.com](https://sendfilesencrypted.com/)
+* [LIGHTNING SHARE](https://lightning-share.vercel.app/)
+* [rDrop](https://rdrop.link/)
+* [WebDrop](https://webdrop.space/)
+* [MyAirBridge.com](https://www.myairbridge.com/)
 * [Sprend](https://sprend.com/)
-* [JumboMail](https://www.jumbomail.me/)
-* [PlusTransfer](https://www.plustransfer.com/)
-* [filetransfer](https://filetransfer.kpn.com/)
 * [WebWormhole](https://webwormhole.io/)
-* [Destiny](https://github.com/LeastAuthority/destiny)
-* [sharrr](https://www.sharrr.com/)
-* [Photon](https://photondev.netlify.app/)
 * [EchoDuck](https://echoduck.com/)
-* [ffsend](https://github.com/timvisee/ffsend)
-* [File.love](https://file.love/)
+* [FileLove](https://file.love/)
 
 ***
 
@@ -321,9 +315,9 @@
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
+* [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
-* [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
@@ -331,7 +325,7 @@
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
 * [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
 * [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days with Account)
-* [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
+* [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
@@ -343,8 +337,8 @@
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
-* [FilePost](https://file-post.net/) - 3GB / 7 Days / Email Required
-* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [Instances](https://gitlab.com/timvisee/send-instances)
+* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
+* [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
