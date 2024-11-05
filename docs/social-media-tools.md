@@ -395,7 +395,6 @@
 
 ***
 
-
 ## ▷ Players / Frontends
 
 * ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
@@ -422,7 +421,7 @@
 * ↪️ **[Summarize YT Videos]()**
 * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitles)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored Video Segments / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[DocXPDF Checker](https://docxpdf.com/youtube-region-restriction-checker)** or [polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi) - Video Region Restriction Checker
+* ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
 * ⭐ **[PKGA](https://greasyfork.org/en/scripts/442089)** or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
@@ -452,24 +451,24 @@
 
 ***
 
-## ▷ YouTube Downloaders (needs checking)
+## ▷ YouTube Downloaders
 
-* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
+* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Instances](https://instances.hyper.lol/)
-* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [Stacher](https://stacher.io/), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui), [Vividl](https://github.com/Bluegrams/Vividl), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - YT-DLP GUIs
-* [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-platform YT-DLP GUIs
-* [Videomass](https://jeanslack.github.io/Videomass/) - Cross-platform YT-DL / FFmpeg GUI
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
-* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
-* [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader
-* [Poke](https://poketube.fun/download) / [Discord](https://discord.gg/Kqdn8CHacP) or [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloaders
-* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YouTube Downloader
-* [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
-* [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
-* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Video Subtitles / [Telegram Bot](https://t.me/youtube_subtitle_downloader_bot)
+* [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / yt-dlp fork
+* [Videomass](https://jeanslack.github.io/Videomass/) / [GitHub](https://github.com/jeanslack/Videomass) or [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - Cross-platform YT-DLP GUIs
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
+* [MeTube](https://github.com/alexta69/metube) or [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DLP WebUIs
+* [Stacher](https://stacher.io/) or [oleksis youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [StefanLobbenmeier youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross Platform youtube-dl GUIs
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - youtube-dl GUI
+* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted youtube-dl WebUI
+* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader GUI
+* [Poke](https://poketube.fun/download) - Online Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
+* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download Video Thumbnails
+* [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
+* [YT Subtitle Downloader](https://greasyfork.org/en/scripts/5368) - Download Video Subtitles / [Telegram Bot](https://t.me/youtube_subtitle_downloader_bot)
 
 ***
 
