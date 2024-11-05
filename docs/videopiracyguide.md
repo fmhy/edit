@@ -544,18 +544,17 @@
 
 * ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://rentry.co/LGTVHomebrewGuide)
 * [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
 * [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
 * [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
-* [Dev Manager Desktop](https://github.com/webosbrew/dev-manager-desktop) - Webos Desktop Dev Mode Manager / Homebrew Installer
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
 * [Tizentube](https://tizentube.vercel.app/) - Block Samsung Smart TV YouTube Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad-Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
-* [WebOS YouTube](https://github.com/webosbrew/youtube-webos) - Ad-Free YouTube for LG TVs / [Guide](https://rentry.co/LGTVHomebrewGuide)
 * [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
 * [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
