@@ -3,7 +3,14 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 ***
-
+## Hackintosh
+* ⭐ **Hackntosh [Reddit](https://www.reddit.com/r/hackintosh/)/[Discord](https://discord.gg/u8V7N5C)** - Provides support for Hackintosh building/troubleshooting.
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Detailed guide to build Hackintosh System.
+* **[VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide)** - Install macOS in Vmware Workstation.
+* **[Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)** - Download VMware workstation directly from vmware/[Notes](https://rentry.org/VMware-guide).
+* **[VMware Unlocker](https://github.com/paolo-projects/unlocker)** - Patch VMware workstation/Player to run macOS.
+* **[Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/)** - VMware Tools ISO for macOS VM.
+* **[Hackintosh Guides](https://rentry.org/Hackintosh-guides)** - Some useful Guides for Hackintosh.
 ## 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)**
