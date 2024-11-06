@@ -343,61 +343,44 @@
 
 ***
 
-## Free DNS Servers
+## Free DNS Resolvers
 
+* 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
+* 🌐 **[Wikileaks Public DNS index](https://wikileaks.org/wiki/Alternative_DNS)** / [2](https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html)
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
-* [NextDNS](https://pastebin.com/vTxFat5r)
+* [NextDNS](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* https://developers.cloudflare.com/1.1.1.1/ip-addresses/
-* https://adguard-dns.io/en/public-dns.html
-* https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
-* https://dnsforfamily.com/
-* https://www.publicdns.xyz/
-* https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html
-* https://wikileaks.org/wiki/Alternative_DNS
-* https://www.cloudns.net/
-* https://dns.he.net/
-* https://www.dnspod.com/
-* https://acavalin.com/p/free_dns
-* https://www.luadns.com/
-* https://www.dns0.eu/
-* https://dynu.com/
-* https://blog.uncensoreddns.org/dns-servers/
-* https://publicdnsserver.com/
-* https://1984.is/product/freedns/
-* https://www.namecheap.com/domains/freedns/
-* https://zilore.com/en/dns
-* https://docs.glauca.digital/hexdns/
-* https://www.zoneedit.com/free-dns/
-* https://dns.sb/
-* https://www.bestdns.org/
-* https://public-dns.info/
+* [Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)
+* [Adguard](https://adguard-dns.io/en/public-dns.html)
+* [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+* [DNS for Family](https://dnsforfamily.com/) 
+* [ClouDNS](https://www.cloudns.net/)
+* [Hurricane Electric](https://dns.he.net/)
+* [dns0.eu](https://www.dns0.eu/)
+* [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
+* [dns.sb](https://dns.sb/)
 
 ***
 
 ## Free VPN Configs
 
-* https://www.racevpn.com/
-* https://www.greenssh.com/
-* https://cyberssh.com/vpn/config
-* https://vpn.fail/
-* https://www.vpnjantit.com/
-* https://pisovpn.com
-* https://www.lionssh.com/
-* https://www.sshocean.com/
-* https://www.freevpn.us/
-* https://www.sshocean.net/
-* https://www.cloudssh.us/
-* https://starssh.com/
-* https://www.goodssh.com/
-* https://sshkit.com/
-* https://www.jagoanssh.com/
-* https://dewassh.net/
-* https://www.fastssh.com/
-* https://www.mytunneling.com/
-* https://createssh.net/
-* https://opentunnel.net/
-* https://howdy.id/
+* [RaceVPN](https://www.racevpn.com/)
+* [GreenSSH](https://www.greenssh.com/)
+* [CyberSSH](https://cyberssh.com/vpn/config)
+* [vpn.fail](https://vpn.fail/)
+* [VPN Jantit](https://www.vpnjantit.com/)
+* [PisoVPN](https://pisovpn.com)
+* [sshOcean](https://sshocean.com/) / [2](https://sshocean.net/)
+* [FreeVPN](https://www.freevpn.us/)
+* [StarSSH](https://starssh.com/)
+* [Goodssh](https://www.goodssh.com/)
+* [SSHKit](https://sshkit.com/)
+* [JagoanSSH](https://www.jagoanssh.com/)
+* [fastssh](https://www.fastssh.com/)
+* [Mytunneling](https://www.mytunneling.com/)
+* [CreateSSH](https://createssh.net/)
+* [OpenTunnel](https://opentunnel.net/)
+* [Howdy](https://howdy.id/)
 
 ***
 
