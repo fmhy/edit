@@ -968,7 +968,6 @@
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/) - Lego Set Guide
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
-* [Brickset](https://brickset.com/) - Lego Set Guide
 
 ***
 
