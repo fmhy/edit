@@ -730,7 +730,7 @@
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance] (https://www.reddit.com/r/freelance/) - Freelance Subreddit
-* [/r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit (Check "Job Posts" flag for job opp)
+* [/r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit (Check "Job Posts" flag)
 * [MTurk](https://www.mturk.com/) - Online Task Work
 * [NoCummute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
