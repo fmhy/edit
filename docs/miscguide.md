@@ -1413,6 +1413,7 @@
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer
+* [Decopy AI](https://decopy.ai/) - Decopy AI is a tool that identifies if text is written by a human or AI
 
 ***
 
