@@ -156,7 +156,7 @@
 
 # ► Tracker Invites
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** or [InstallGentoo](https://igwiki.lyci.de/wiki/Private_trackers) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[/r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Recruitment Guides
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
