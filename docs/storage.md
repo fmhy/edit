@@ -517,13 +517,19 @@
 ***
 
 ## Hackintosh
+* ⭐ **[Hackintosh](https://hackintosh.com/)** - Guides for building Hackintosh Systems
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Detailed guide to build Hackintosh System
+* ⭐ **Hackintosh Guides** [Fix Graphics](https://rentry.org/Hackintosh-guides) - Some useful Guides for Hackintosh
+* ⭐ **Hackintosh Tools** - [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos)
 * ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Provides support for Hackintosh building/troubleshooting / [Discord](https://discord.gg/u8V7N5C)
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Detailed guide to build Hackintosh System.
-* **[VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide)** - Install macOS in Vmware Workstation.
-* **[Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)** - Download VMware workstation directly from vmware / [Notes](https://rentry.org/VMware-guide).
-* **[VMware Unlocker](https://github.com/paolo-projects/unlocker)** - Patch VMware workstation/Player to run macOS.
-* **[Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/)** - VMware Tools ISO for macOS VM.
-* **[Hackintosh Guides](https://rentry.org/Hackintosh-guides)** - Some useful Guides for Hackintosh.
+* **[OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM)** - macOS Virtual Machines using QEMU
+* **[VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide)** - Install macOS in Vmware Workstation
+* **[Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)** - Download VMware workstation directly from vmware / [Notes](https://rentry.org/VMware-guide)
+* **[VMware Unlocker](https://github.com/paolo-projects/unlocker)** - Patch VMware workstation/Player to run macOS
+* **[Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/)** - VMware Tools ISO for macOS VM
+* **[Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/)** - Virtual macOS
+* **[macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers)** - Contains prebuilt EFI for many systems
+* **[Tonymacx86](https://www.tonymacx86.com/)** / **[Olarilla](https://olarila.com/)**- Customized macOS for intel/AMD systems / [Notes](https://rentry.org/what-to-choose)
 
 ***
 
