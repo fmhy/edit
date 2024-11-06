@@ -4,7 +4,7 @@
 ***
 ***
 ## Hackintosh
-* ⭐ **Hackntosh [Reddit](https://www.reddit.com/r/hackintosh/)/[Discord](https://discord.gg/u8V7N5C)** - Provides support for Hackintosh building/troubleshooting.
+* ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Provides support for Hackintosh building/troubleshooting / [Discord](https://discord.gg/u8V7N5C)
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Detailed guide to build Hackintosh System.
 * **[VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide)** - Install macOS in Vmware Workstation.
 * **[Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)** - Download VMware workstation directly from vmware/[Notes](https://rentry.org/VMware-guide).
