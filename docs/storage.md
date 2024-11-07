@@ -670,7 +670,6 @@
 
 * ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [Markd.it](https://markd.it/) -
 * [zettlr](https://www.zettlr.com/)
 * [Dillinger](https://dillinger.io/)
 * [Notable](https://notable.app/)
