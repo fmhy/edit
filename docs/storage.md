@@ -666,27 +666,6 @@
 
 ***
 
-## Markdown Editors
-
-* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
-* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [zettlr](https://www.zettlr.com/)
-* [Dillinger](https://dillinger.io/)
-* [Notable](https://notable.app/)
-* [vnote](https://github.com/vnotex/vnote)
-* [MarkdownTools](https://www.markdowntools.com/)
-* [StackEdit](https://stackedit.io/)
-* [Markdownify](https://markdownify.js.org/)
-* [Glow](https://github.com/charmbracelet/glow)
-* [MarkdownLivePreview](https://markdownlivepreview.com/)
-* [Vrite](https://editor.vrite.io/)
-* [Markflowy](https://markflowy.vercel.app/)
-* [MindForger](https://www.mindforger.com/)
-* [PanWriter](https://panwriter.com/)
-* [MarkText](https://www.marktext.cc/)
-
-***
-
 ## Media Database Site Tools
 
 ### Trakt Tools
