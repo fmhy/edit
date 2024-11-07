@@ -1143,7 +1143,6 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Privacy
 
-* 🌐 **[Julioverne](https://julio.hackyouriphone.org/)** - Privacy Tools
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser for iOS
 * ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)**, 

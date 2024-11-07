@@ -818,34 +818,34 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
-* ⭐ **[TasteDive](https://tastedive.com/)** - Books
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations / [Downloader](https://greasyfork.org/en/scripts/514877)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/)
+* ⭐ **[TasteDive](https://tastedive.com/)** - Discovery and Recommendations 
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations 
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
+* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
+* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book / Comic Recommendations
-* [BookHype](https://bookhype.com/) - Books
-* [Oku](https://oku.club/) - Books
-* [Literal](https://literal.club/) - Books
-* [BookWyrm](https://bookwyrm.social/) - Books
-* [LibraryThings](https://www.librarything.com/) - Books
-* [CandlApp](https://www.candlapp.com/) - Books
-* [Anobii](https://www.anobii.com/) - Books
-* [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [Gnooks](https://www.gnooks.com/) - Book Recommendations
-* [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
-* [WhichBook](https://www.whichbook.net/) - Book Recommendations
-* [Five Books](https://fivebooks.com/) - Book Recommendations
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit 
+* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
+* [Oku](https://oku.club/) - Book Tracking Platform
+* [Literal](https://literal.club/) - Social Book Tracking Platform
+* [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform
+* [LibraryThings](https://www.librarything.com/) - Book Cataloguing Community
+* [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
+* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
+* [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
+* [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
+* [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
+* [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
+* [Five Books](https://fivebooks.com/) - Curated Book List
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
-* [Newvella](https://newvella.com/) - Book Recommendations
-* [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
-* [Literature-Map](https://www.literature-map.com/) - Book Recommendations
-* [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
+* [Newvella](https://newvella.com/) - Book Discovery / Recommendations
+* [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
+* [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
+* [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations

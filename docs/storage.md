@@ -3,6 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 ***
+
 ## 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)**
@@ -54,7 +55,7 @@
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [Brave](https://brave.com/)
+* [Brave](https://brave.com/) - Chromium Based Browser
 * [Browser Tuning](https://divestos.org/pages/browsers#tuning) - Browser Privacy Settings Guide
 
 ***
@@ -146,7 +147,7 @@
 
 * ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**
 
-[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://fyrean.itch.io/bgbye-background-remover), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg)
+[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg)
 
 ### Object Removers
 
@@ -505,6 +506,24 @@
 
 ***
 
+## Hackintosh
+
+* ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
+* ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/Hackintosh-guides)
+* ⭐ **Hackintosh Tools** - [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos)
+* ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
+* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
+* [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
+* [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware  / [Notes](https://rentry.org/VMware-guide)
+* [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run MacOS
+* [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for MacOS VM
+* [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS
+* [macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers) - Contains Prebuilt EFI for Systems
+* [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized MacOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
+
+***
+
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
@@ -513,23 +532,6 @@
 * https://groups.google.com/g/rdrivelinks
 * https://groups.google.com/g/torrentleech-gdrive
 * https://groups.google.com/g/monarch-cloud
-
-***
-
-## Hackintosh
-* ⭐ **[Hackintosh](https://hackintosh.com/)** - Guides for building Hackintosh Systems
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Detailed guide to build Hackintosh System
-* ⭐ **Hackintosh Guides** [Fix Graphics](https://rentry.org/Hackintosh-guides) - Some useful Guides for Hackintosh
-* ⭐ **Hackintosh Tools** - [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos)
-* ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Provides support for Hackintosh building/troubleshooting / [Discord](https://discord.gg/u8V7N5C)
-* **[OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM)** - macOS Virtual Machines using QEMU
-* **[VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide)** - Install macOS in Vmware Workstation
-* **[Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)** - Download VMware workstation directly from vmware / [Notes](https://rentry.org/VMware-guide)
-* **[VMware Unlocker](https://github.com/paolo-projects/unlocker)** - Patch VMware workstation/Player to run macOS
-* **[Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/)** - VMware Tools ISO for macOS VM
-* **[Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/)** - Virtual macOS
-* **[macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers)** - Contains prebuilt EFI for many systems
-* **[Tonymacx86](https://www.tonymacx86.com/)** / **[Olarilla](https://olarila.com/)**- Customized macOS for intel/AMD systems / [Notes](https://rentry.org/what-to-choose)
 
 ***
 
@@ -666,7 +668,9 @@
 
 ## Markdown Editors
 
+* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
+* [Markd.it](https://markd.it/) -
 * [zettlr](https://www.zettlr.com/)
 * [Dillinger](https://dillinger.io/)
 * [Notable](https://notable.app/)
@@ -1009,7 +1013,6 @@
 * [speedcheck](https://www.speedcheck.org/) - Speed Test
 * [Meter](https://www.meter.net/) - Speed Test
 * [Speedsmart](https://speedsmart.net/) - Speed Test
-* [OONI](https://ooni.org/) - Speed Test
 
 ***
 
