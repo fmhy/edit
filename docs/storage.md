@@ -511,7 +511,7 @@
 * ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
 * ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/fix-graphics)
-* ⭐ **Hackintosh Tools** - [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos)
+* ⭐ **Hackintosh Tools** - [r/hackintosh](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/), [2](https://rentry.org/hackintosh-tools) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos) / [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI app to mount efi partitions
 * ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
