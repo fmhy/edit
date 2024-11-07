@@ -63,7 +63,7 @@
 ## Android Text Editors
 
 * ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
-* [Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Text Editor
+* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor
 * [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Office Suite
 
@@ -396,7 +396,7 @@
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[sourcehut pages](https://srht.site/)**
 
-[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
+[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
 
 ***
 
@@ -494,11 +494,15 @@
 * ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
 * ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/fix-graphics)
-* ⭐ **Hackintosh Tools** - [r/hackintosh](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/), [2](https://rentry.org/hackintosh-tools) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) / [Unplugged](https://rentry.org/unplugged-macos) / [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI app to mount efi partitions
-* ⭐ **[r/hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
+* ⭐ **[r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
+* [r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools)](https://rentry.org/hackintosh-tools)  - Hackintosh Tools
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware  / [Notes](https://rentry.org/VMware-guide)
+* [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
+* [XiaoMi-Pro-Hackintosh)](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for XiaoMi
+* [unplugged-macos](https://rentry.org/unplugged-macos) - Unplugged Hackintosh 
+* [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI App to Mount EFI Partitions
 * [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run MacOS
 * [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for MacOS VM
 * [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS

@@ -387,7 +387,7 @@
 * [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
 * [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
 * [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
-* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+* [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [WiGLE](https://wigle.net/) - Wireless Networks Map
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
@@ -621,7 +621,7 @@
 ## ▷ Porn Quitting
 
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography / [Audiobook](https://youtu.be/ZktxO6adTnI)
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
@@ -665,7 +665,7 @@
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
 * [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - Preview Linkedin Posts
-* [Airtable](https://www.airtable.com/) or [Teatable](https://teable.io/) - Build Collaborative Apps
+* [Airtable](https://www.airtable.com/) or [Teatable](https://fteable.io/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps

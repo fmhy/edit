@@ -800,7 +800,7 @@
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
-* ⭐ **[FotoForensics](https://www.fotoforensics.com/)** or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tool
+* ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
 * ⭐ **[GeoSpy](https://geospy.web.app/)**, [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools

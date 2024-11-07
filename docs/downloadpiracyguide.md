@@ -134,7 +134,7 @@
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/14480#issuecomment-1907310059)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Signup Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations

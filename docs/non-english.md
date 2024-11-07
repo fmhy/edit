@@ -456,7 +456,7 @@
 * [S.TO](https://s.to/) - TV / Anime / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
-* [dokustreams](https://dokustreams.de/), [dctp.tv](https://www.dctp.tv/) or [dokuh.de](https://www.dokuh.de/) - Documentaries
+* [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/)- Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
 * [Edels Gute Stube](https://edels-stube.eu/) - Live TV / Sports / Movies / TV / Documentaries / Dub / 720p
 * [Bundesliga Streams](https://bundesliga-streams.net/) - Sports
@@ -871,7 +871,7 @@
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [soft98](https://soft98.ir/) - Courses / Software / Games
+* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/14480#issuecomment-1907310059)
 * [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
