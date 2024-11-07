@@ -803,6 +803,7 @@
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) or [Haystack](https://thehaystackapp.com/) - Business Cards
 * [AvaDocs](https://www.avodocs.com/) - Generate Legal Documents for Startups
+* [Launching Today](https://www.launching.today/) - A place to launch your next project
 
 ***
 
