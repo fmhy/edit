@@ -1039,7 +1039,7 @@
 
 ***
 
-## Summarize YT Videos
+## Summarize YouTube Videos
 
 * [Gemini](https://gemini.google.com/)
 * [Solidpoint](https://solidpoint.ai/)

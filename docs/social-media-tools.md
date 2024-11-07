@@ -490,6 +490,18 @@
 
 ***
 
+## ▷ YouTube Archiving
+
+* ⭐ **[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)** - Multi-Site Archive Search
+* [Filmot](https://filmot.com/unlistedSearch) - Search Unlisted Videos
+---
+* [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
+* [Hobune](https://hobune.stream/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
+* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [quite a playlist](https://quiteaplaylist.com/) or [RecoverMy.Video](https://www.recovermy.video/) - Restore Titles of Deleted / Private Videos
+* [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
+
+***
+
 # ► Twitch Tools
 
 * 🌐 **[Twitch Database](https://twitchdatabase.com/)** or [SullyGnome](https://sullygnome.com/) - Twitch Tool Indexes
