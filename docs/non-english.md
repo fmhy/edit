@@ -342,6 +342,7 @@
 
 ## ▷ Downloading
 
+* ⭐ **[DarkiWorld](https://darkiworld.me/)** - Movies / TV / Anime / Docs / Games / Apps / Music / Ebooks / Trainings / [Telegram](https://t.me/tirexo_officiel)
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
