@@ -47,7 +47,7 @@
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o / No Signup
 * [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder / No Signup
-
+* [DeepSeek Chat](https://chat.deepseek.com/) - DeepSeek's Chatbot / Account Required
 ***
 
 ## ▷ AI Search Engines
