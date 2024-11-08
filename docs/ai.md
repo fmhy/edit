@@ -16,7 +16,7 @@
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / No Signup / [Discord](https://discord.com/invite/q55gsH8z5F)
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://happyapi.me/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
@@ -29,7 +29,7 @@
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
-* [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
+* [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP) 
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
 * [NextChat](https://free.xiercloud.top/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
@@ -113,7 +113,7 @@
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
 * ⭐ **[Codeium](https://codeium.com/)** - Coding AI / No Signup / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 for Free / No Signup / [Docs](https://docs.pieces.app)
+* ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Signup / [Docs](https://docs.pieces.app)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Signup
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
 * [Devv](https://devv.ai/) - Coding Search Engine / No Signup
@@ -132,6 +132,7 @@
 * [Codacy](https://www.codacy.com/) - Code Fixing AI
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Signup
 * [v0](https://v0.dev/) - Text to Site Code
+* [Bolt](https://bolt.new/) - Web App Builder
 * [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code / No Signup
 
@@ -217,6 +218,7 @@
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** or [rytr](https://rytr.me/) - AI Creative Writing Tools / No Signup
 * [Scrip AI](https://scripai.com/) (no signup), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / No Signup / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
+* [Burgs](https://perchance.org/burgs-take-ai-story-generator-experimental) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AIs
 * [edyt.ai](https://app.edyt.ai/) - Content Writing
 
@@ -278,6 +280,7 @@
 * [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [NexusAI Image](https://image.nexusapi.tech/) - Unlimited / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [Piclumen](https://piclumen.com/) / Unlimited
 * [Pixvify](https://pixvify.com/) / Unlimited
 * [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited

@@ -599,6 +599,7 @@
 ## ▷ Technical Tools
 
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
+* 🌐 **[Minecraft Speedrunning](https://www.minecraftspeedrunning.com/)** - Minecraft Speedrunning Resources
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * ⭐ **[Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks)** - Java Minecraft Benchmarks
@@ -834,7 +835,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 
 ## ▷ Terraria Tools
 
-* ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
+* ⭐ [Terraria Wiki](https://terraria.wiki.gg/) or [Terranion](https://yal.cc/r/terranion/) - Terraria Wikis
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor

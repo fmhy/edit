@@ -7,7 +7,7 @@
 # ► Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below
-* ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client with Adblock Plugins
+* ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client with Adblock Plugins / [Use Pre-1.2.48 Clients](https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
 * [MooSync](https://moosync.app/) - Feature-Rich Client / [GitHub](https://github.com/Moosync/Moosync)
 * [Spotify Web Client](https://open.spotify.com/)
@@ -200,20 +200,32 @@
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
 
-
-
-
 ***
 
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Ambient Sound Mixers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_sound_mixers)**
-* ⭐ **[Rainy Mood](https://www.rainymood.com/)**, [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/), [Raining.fm](https://raining.fm/) or [Rainyscope](https://rainyscope.com/) - Ambient Rain
-* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Moon Phase Radio](https://www.moonphaseradio.com/), [Ambient Sleeping Pill](https://ambientsleepingpill.com/), [Ambicular](https://ambicular.com/), [Lofi Music](https://lofimusic.app/), [Loofi](https://loofi.netlify.app/ ), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/), [DevTunes FM](https://radio.madza.dev/) or [Moss Garden](https://moss.garden/) - Lofi Radio
-* ⭐ **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
+* ⭐ **[DroneZone](https://somafm.com/player/#/now-playing/dronezone)**  or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
+* ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
+* ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
+* [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
+* [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/) - Ambient Rain
+* [Raining.fm](https://raining.fm/) - Ambient Rain
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain
+* [Moon Phase Radio](https://www.moonphaseradio.com/) - Lofi Radio
+* [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Lofi Radio
+* [Ambicular](https://ambicular.com/) - Lofi Radio
+* [Lofi Music](https://lofimusic.app/) - Lofi Radio
+* [Loofi](https://loofi.netlify.app/) - Lofi Radio
+* [lofi](https://lofi.co/) - Lofi Radio
+* [lofi.cafe](https://www.lofi.cafe/) - Lofi Radio
+* [Lofi Club](https://loficlub.vercel.app/) - Lofi Radio
+* [Lofi Limo](https://lofi.limo/) - Lofi Radio
+* [DevTunes FM](https://radio.madza.dev/) - Lofi Radio
+* [Moss Garden](https://moss.garden/) - Lofi Radio
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Moszen](https://www.moszen.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
@@ -241,8 +253,6 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://qobuz.vercel.app/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC
-* [EzMP3](https://ezmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free / [Subreddit](https://www.reddit.com/r/EzMP3/)
-* [AZMP3](https://azmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
