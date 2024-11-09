@@ -31,7 +31,7 @@
 ## ▷ Pastebins
 
 * 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
-* ⭐ **[Rentry](https://rentry.co/)** - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry)
+* ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry)
 * ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
 * ⭐ **[Stellular](https://stellular.net/)**, [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) - Markdown Support
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)

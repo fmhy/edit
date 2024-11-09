@@ -828,8 +828,8 @@
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit 
-* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations / [Downloader](https://greasyfork.org/en/scripts/514877)
-* [Five Books](https://fivebooks.com/) - Curated Book List
+* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
+* [Five Books](https://fivebooks.com/) - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform

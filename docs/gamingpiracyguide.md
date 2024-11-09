@@ -4,754 +4,984 @@
 ***
 ***
 
-**Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass) to skip link shorteners**
+# ► Streaming Sites
+
+## ▷ Multi Server
+
+* ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / 1080p / Auto-Next / [Docs](https://docs.undi.rest/)
+* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p / Auto-Next
+* ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
+* ⭐ **[kipstream](https://kipstream.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
+* ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.com/), [3](https://nunflix-firebase.web.app/), [4](https://nunflix-ey9.pages.dev/), [5](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
+* ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
+* ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / 1080p
+* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime / 1080p
+* ⭐ **[456movie](https://456movie.com/)** - Movies / TV / 4K / 1080p
+* ⭐ **[CorsFlix](https://corsflix.us.kg/)** - Movies / TV / Anime / 1080p
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / 1080p
+* ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 1080p
+* ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
+* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
+* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) - Movies / TV / Anime / 1080p
+* ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
+* ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
+* [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV / 1080p
+* [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://l.cinemadeck.com/discord)
+* [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / 1080p / [API](https://moviee.tv/api)
+* [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
+* [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / 1080p / Use Adblock
+* [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / 1080p / [Clones](https://rentry.co/sflix)
+* [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / [Note](https://pastebin.com/kXrVBceh)
+* [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
+* [BFlix](https://nitestv.co/) - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
+* [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / 4K
+* [Free Cinema](https://freecinema.live/) - Movies / TV / Anime / 1080p
+* [Watchug](https://watchug.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/watchugofficial)
+* [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / 1080p / [Discord](https://discord.com/invite/3B3X6JEB7P)
+* [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
+* [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / 4K / 1080p / [Note](https://pastebin.com/T9kHqc0v)
+* [Nova](https://novastream.top/) - Movies / TV / 1080p / [GitHub](https://github.com/ambr0sial/nova/)
+* [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K / 1080p
+* [Movierr](https://movierr.online/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/sxKN424ZYK)
+* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / 1080p / [GitHub](https://github.com/coen-h/zmov)
+* [Cataz](https://cataz.ru/) - Movies / TV / Anime / 1080p
+* [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime / 1080p
+* [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / 1080p
+* [FlixHQ.click](https://flixhq.click/) - Movies / TV / 1080p
+* [Filmex](https://filmex.to/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/6r5KTZgqXV)
+* [ViewVault](https://viewvault.org/) - Movies / TV / Anime / 1080p
+* [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
+* [FilmHaven](https://film-haven.vercel.app/?p=1/) - Movies / TV / Anime / 4K / 1080p / [Git](https://git.snipcola.com/snipcola/FilmHaven)
+* [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime / 1080p
+* [NetMovies](https://web.netmovies.to/home/) - Movies / TV / 1080p
+* [Movietly](https://movietly.com/home/) - Movies / TV / Anime / 1080p 
+* [FMoviesHD](https://fmovies-hd.to/) - Movies / TV / Anime / 1080p
+* [Soap2DayHD](https://ww12.soap2dayhd.co/) - Movies / TV / Anime / 1080p
+* [FlixHQ.lol](https://flixhq.lol/) - Movies / TV Anime / 1080p
+* [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / 1080p / [Mirrors](https://mp4hydra.info/)
+* [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime / 1080p
+* [AZMovies](https://azm.to/) - Movies / 1080p
+* [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/bqXhREHEDt)
+* [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime / 1080p
+* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
+* [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime / 1080p
+* [Watch2Day](https://watch2day.online/) - Movies / TV / Anime / 1080p
+* [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
+* [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
+* [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime / 1080p
+* [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
+* [6Movies](https://6movies.stream/) - Movies / TV / Anime / 1080p 
+* [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
+* [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
+* [321Movies](https://321movies.co.uk/) - Movies / TV / Anime / 1080p
+* [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
+* [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Clones](https://hollymoviehd-official.com/)
+* [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / 1080p
+* [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
+* [EMovies](https://emovies.si/), [2](https://xtv.to/) - Movies / TV / Anime / 1080p
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
+* [WatchHQ](https://watchhq.site/) - Movies / TV / Anime / 1080p
+* [YesMovies](https://yesmovies.ag/), [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 720p
+* [MoviesLair](https://movielair.cc/) - Movies / TV / 720p / [Discord](https://discord.gg/ZvRTYqTWtZ)
+* [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
+* [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
+* [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI / [Plugins](https://github.com/topics/mov-cli-plugin) /  [GitHub](https://github.com/mov-cli/mov-cli)
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 
 ***
 
-# ► Download Games
+## ▷ Single Server
 
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index 
-* 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* 🌐 **[Wotaku](https://wotaku.wiki/games)** - Otaku Games Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-game)** - Otaku Games Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
-* ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Divolt](https://gamesdrive.divolt.xyz/) / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
-* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
-* ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9) / pw: 1234 or steamrip.com
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
-* ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
-* ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Bypass All Shortlinks Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
-* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE) 
-* ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
-* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
-* [g4u](https://g4u.to/) - Download / pw: 404
-* [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
-* [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
-* [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installs / [Discord](https://discord.gg/XqMpBdVWvK)
-* [Games4U](https://games4u.org/) - Download
-* [Rexa Games](https://rexagames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/6KWStFYSTj)
-* [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
-* [GLoad](https://gload.to/) - Download
-* [UndergroundGames](https://undergroundgames.net/) - Download / Torrent / Pre-Installs
-* [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / [Site Info](https://rentry.org/ikc3x8bt) / Use Adblocker
-* [Leeching Hell](http://www.leechinghell.pw/) - Download
-* [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
-* [CG Games](https://www.cg-gamespc.com/) - Download
-* [GamePCFull](https://gamepcfull.com/) - Download
-* [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
-* [Vran's Piracy](https://rentry.co/vranpirated) - Download / [Discord](https://discord.gg/bnHNVgTCkb)
-* [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-
-***
-
-## ▷ Game Repacks
-
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
+* ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/nepu)
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
+* ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / 1080p
+* ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
+* ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
+* [Soaper.TV](https://soaper.tv/), [2](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
+* [9PM](https://9pm.to/) - Movies / TV / 720p
+* [OnionPlay](https://onionplay.se/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
+* [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / 720p
+* [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
+* [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
+* [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
+* [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
+* [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
+* [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
+* [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup / US Only
+* [Crackle](https://www.crackle.com/) - Movies / TV / 1080p / US Only
+* [Freevee](https://www.amazon.com/gp/video/storefront/subscription/freewithads) - Movies / TV / 1080p / US Only
+* [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p / US Only
+* [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p / US Only
+* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US + CA Only / Auto-Next / Use Adblocker
+* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / US Only / Library Card Required
+* [7+](https://7plus.com.au/) - Movies / TV / 1080p / US + AU Only
+* [Playary](https://www.playary.com/) - Movies / TV / 1080p
+* [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
+* [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p / Auto-Next
+* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
+* [Pluto](https://pluto.tv/) - Movies / TV / 720p
+* [MovieXFilm](https://moviexfilm.com/) - Movies / 720p
+* [Plex](https://watch.plex.tv/) - Movies / TV / 720p
+* [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
+* [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
+* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
 
 ***
 
-* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Desktop Launcher](https://github.com/CarrotRub/Fit-Launcher/) / [Unofficial Discord](https://discord.gg/Up3YARe4RW)
-* ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download /[Telegram](https://t.me/ARMGDDNGames) 
-* ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download / Password: gnarly
-* [Xatab Repacks](https://byxatab.com/) - Torrent
-* [ScOOt3r Repacks (Discord)](https://discord.gg/xe3Fys8Upy) - Download / Torrent
-* [DigitalZone](https://digitalzone.vercel.app/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/ja3v2z26Sj)
-* [Elamigos](https://elamigos.site/) - Download
-* [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [DODI Repacks](https://dodi-repacks.download/), [2](https://dodi-repacks.site/) - Torrent / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k) / [Discord](https://discord.gg/D9WU7C9FSE)
-* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
-* [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
-* [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
+## ▷ Anime Streaming
+
+* 🌐 **[Wotaku](https://wotaku.wiki/websites)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Streaming Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Streaming Index / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[Miruro](https://www.miruro.tv/)**, [2](https://www.miruro.online/) - Sub / Dub / 1080p / Auto-Next / [Mirrors](https://www.miruro.com/) / [Discord](https://discord.gg/miruro) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
+* ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.mn/), [4](https://hianime.sx/) - Sub / Dub / 1080p / Auto-Next / [Discord](https://discord.gg/hianime)
+* ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Unofficial Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hianime_clones) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891) / [Aniwave-Style Subs](https://rentry.org/mmsot3n2)
+* ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.pe/), [3](https://daftanime.com/), [4](https://gogoanime2.org/) - Sub / Dub / 1080p / [Discord](https://discord.gg/kyVfcGuCCQ)
+* ⭐ **GoGoAnime Resources** - [Clones](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [Download Guide](https://rentry.org/gogodlscript)
+* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [Discord](https://discord.gg/YbuYYUwhpP)
+* ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
+* ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub / 1080p
+* ⭐ **[Akuse](https://github.com/akuse-app/Akuse)**, [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
+* ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
+* ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
+* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Multi-Site Anime Search
+* [Anify](https://anify.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/79GgUXYwey) 
+* [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / 1080p / [Discord](https://discord.gg/6xJmJja8fV)
+* [123Anime](https://123animes.ru/) - Sub / Dub / 1080p / Auto-Next
+* [Hikari](https://hikaritv.xyz/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/UAPNesVmQ3) 
+* [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
+* [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
+* [1Anime](https://1anime.co/), [2](https://1anime.one/) - Sub / Dub / 1080p / Auto-Next / [Discord](https://dsc.gg/1Anime)
+* [Shiroko](https://shiroko.co/) - Sub / Dub / 1080p / Auto-Next
+* [Anidey](https://anidey.fun/) - Sub / Dub / 1080p / [Discord](https://discord.gg/rT5AQkys2v)
+* [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / 1080p / Auto-Next
+* [Animixplay.name](https://animixplay.name/), [2](https://animixplay.st/) - Sub / Dub / 1080p
+* [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / Auto-Next
+* [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p / Auto-Next
+* [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
+* [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p / [Discord](https://discord.com/invite/QmgSMYD)
+* [AnimeNana](https://animenana.com/) - Sub / 1080p
+* [Enimoe](https://enimoe.live/) - Sub / 1080p
+* [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
+* [ToonBaba](https://toonbaba.site/) - Sub / Dub / 1080p
+* [⁠Anime Realms](https://www.animerealms.org/) - Sub / Dub / 1080p / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
+* [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
+* [AniPlay](https://aniplaynow.live/) - Sub / Dub / 1080 / Auto-Nextp / [Discord](https://discord.gg/Zws2rAGSN6)
+* [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
+* [Animetake](https://animetake.tv/) - Sub / 1080p
+* [YukiWatch](https://yukiwatch.fr/) - Sub / Dub / 1080p / [Discord](https://discord.gg/mnZsm6mFAm)
+* [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
+* [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p / Auto-Next
+* [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
+* [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
+* [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
+* [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
+* [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
+* [MyAnime](https://myanime.live/) - Chinese Anime / Sub / 1080p
+* [Animekhor](https://animekhor.org/) - Chinese Anime / Sub / 1080p / [Telegram](https://t.me/AnimeKhorOfficial)
+* [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
+* [AnimeZ](https://animez.org/) - Dub / 720p
+* [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
+* [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime / Sub / Dub / 1080p / Asian VPN Needed
+* [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
+* [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / Auto-Next / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
+* [Miu](https://discord.gg/pwkuanXBJh) or [AnimeThemes](https://animethemes.moe/) / [Discord](https://discord.com/invite/m9zbVyQ) - Anime Themes
+* [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
+* [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
 
 ***
 
-## ▷ Virtual Reality
+## ▷ Cartoon Streaming
 
-* ⭐ **[VRPirates](https://vrpirates.wiki/)** - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.com/invite/DcfEpwVa4a)
-* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames)
-* [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
-* [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
-* [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
-* [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games
-* [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
-* [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
-* [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
-
-***
-
-## ▷ Abandonware
-
-* ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
-* ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
-* [Flashtro](https://flashtro.com/) - Abandonware
-* [Zombs-Lair](https://www.zombs-lair.com/) - Abandonware
-* [Old-Games.com](https://www.old-games.com/) - Abandonware
-* [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
-* [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
-* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum
-* [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
-* [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](https://www.exotica.org.uk/) or [hol abime](https://amiga.abime.net/) - Amiga
-* [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
-* [Win7Games](https://win7games.com/) - Classic Windows Games
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/)
+* [Kimcartoon.si](https://kimcartoon.si/)
+* [KissCartoon](https://kisscartoon.nz/) / [Discord](https://discord.gg/YwpgPrWVSH)
+* [TopCartoons](https://www.topcartoons.tv/)
+* [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
+* [Supercartoons](https://www.supercartoons.net/)
+* [FunnierMoments](https://www.funniermoments.net/)
+* [b98](https://www.b98.tv/)
+* [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
 
-## ▷ Remakes / Ports
+## ▷ TV Streaming
 
-* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
-* 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
-* 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
-* ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
-* [Luanti](https://www.luanti.org/) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
-* [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
-* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
-* [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
-* [OpenRA](https://openra.net/) - Command & Conquer Recreation
-* [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
-* [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
-* [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
-* [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
-* [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
-* [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS
-* [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [GitLab](https://git.do.srb2.org/STJr/SRB2)
-* [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
-* [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
-* [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
-* [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
-* [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
-* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
-* [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
-* [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Duke Nukem Ports
-* [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
-* [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story
-* [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
-* [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
-* [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
-* [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
-* [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake / [Video](https://youtu.be/t-93kDC8Vac)
-* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
-* [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame
-* [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
-* [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project Discord
-* [Infinity Blade PC](https://archive.org/details/infinity-blade-pc) - Infinity Blade PC Port
-* [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
-* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
-* [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases)
-* [ITGmania](https://www.itgmania.com/) - DDR Clone
-* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
-* [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
-* [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/)
-* [Etterna](https://etternaonline.com/) or [Quaver](https://quavergame.com/) - O2Jam Clones
-* [osu!](https://osu.ppy.sh/home), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
-* [PPD](https://projectdxxx.me/) - Project Diva Clone
-* [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
-* [Cytoid](https://cytoid.io/) - Cytus Clone
-* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
+* ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
+* ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime / 720p / [Telegram](https://t.me/+tPEqeXLobAo4YTZh)
+* ⭐ **[Best Series](https://bstsrs.in/)**, [2](https://topsrs.day/), [3](https://srstop.link/) - TV / Anime / 1080p
+* ⭐ **[NOXX](https://noxx.to/)** - TV / 1080p
+* ⭐ **[Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&amp;sort=dd&amp;shelf_id=1)** - Taskmaster Episodes / [International](https://www.reddit.com/r/panelshow/wiki/index/), [2](https://www.youtube.com/@Taskmaster/playlists?view=50&amp;shelf_id=6) / [Full Series List](https://trakt.tv/users/nbatman/lists/taskmaster-shows)
+* [Teleisodes](https://telepisodes.org/) - TV / 1080p
+* [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
+* [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
+* [AZSeries](https://azseries.org/) - TV / 1080p
+* [play.history](https://play.history.com/) - Full History / A+E Episodes
+* [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
+* [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
+* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
+* [HDClump](https://hdclump.com/) - Documentaries / Cooking / Gardening
+* [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
+* [/r/PanelShow](https://www.reddit.com/r/panelshow/) - Panel Shows / International Taskmaster Subs
+* [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
+* [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
+* [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
+* [TW Classics](https://twcclassics.com/) - Weather Channel Replays
 
 ***
 
-## ▷ Special Interest
+## ▷ Drama Streaming
 
-* ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)**, [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
-* ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
-* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
-* [RPG Maker Games](https://rpgmaker.net/games/) - Games made via RPG Maker
-* [Locomalito](https://locomalito.com/) - Classic Game Remakes
-* [Pygame](https://www.pygame.org/tags/all) - Python Games ⁠
-* [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
-* [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
-* [vgperson](https://vgperson.com/games/) - Simple Japanese Games
-* [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive
-* [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
-* [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
-* [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
-* [Planet Casio](https://www.planet-casio.com/Fr/programmes/jeux-casio.php) or [Cemetech](https://cemetech.net/) - Calculator Games
-* [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
-* [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
-* [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
-
-***
-
-## ▷ [Linux Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)
-
-***
-
-## ▷ [Mac Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_gaming)
-
-***
-
-# ► Emulation / ROMs
-
-## ▷ Emulators
-
-* 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](https://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/) or [EmuCR](https://www.emucr.com/) - Download Emulators
-* 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators with Multiple Consoles
-* 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
-* 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
-* ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
-* ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)** / **[Firmware Files](https://rentry.co/FMHYBase64#console-firmware)** / [2](https://rentry.co/FMHYBase64#sigmapatches)
-* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators
-* ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
-* ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
-* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
-* ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
-* [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
-* [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
-* [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
-* [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods
-* [Green Leaf](https://discord.gg/m6z3ra8ssh) - Switch Saves Discord
-* [TOTK Optimization](https://rentry.co/FMHYBase64#totk-optimization) - TOTK Optimization / Fixes
-* [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
-* [Prime Hack](https://github.com/Kekun/primehack) or [Prime Hunter Hack](https://github.com/IBreakGames/PrimeHunterHack) - Add Mouse Support to Metroid Games
-* [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
-* [PCSX-Redux](https://pcsx-redux.consoledev.net) - PSCX Development Emulator
-* [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
-* [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
-* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
-* [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
+* 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[DramaCool](https://asianc.sh/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / 1080p / [Clones List](https://asianwiki.co/)
+* ⭐ **[KissAsian](https://kissasian.video/)**, [2](https://kissasian.si) - TV / Movies
+* ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
+* [Einthusan](https://einthusan.tv/) - Movies
+* [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
+* [AsianCrush](https://www.asiancrush.com/) - TV / Movies
+* [LokLok](https://loklok.com/) - TV / Movies
+* [KissKH](https://kisskh.co/) - TV
+* [onedrama](https://onedrama.me/) - TV / Movies
+* [DramaFull](https://dramafull.net/) - TV / Movies / Auto-Next
+* [RiveStream](https://rivestream.live/kdrama) - TV / Movies
+* [Viki](https://www.viki.com/) - TV / Movies / Auto-Next
+* [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
+* [MyAsianTV](https://myasiantv.ac/) - TV / Movies
+* [OneTouchTV](https://onetouchtv.co/) - TV / Movies
+* [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
+* [ViewAsian](https://www.viewasian.org/) - TV / Movies
+* [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
+* [bagikuy](https://bagikuy.com/) - TV / Movies
+* [iFlix](https://www.iflix.com/) - TV / Movies / Auto-Next
+* [WeTV](https://wetv.vip/) - TV / Movies / Auto-Next
+* [Viu](https://www.viu.com/) - TV / Movies
+* [IQ](https://www.iq.com/) - TV / Movies / Auto-Next
+* [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
 
 ***
 
-## ▷ ROM Sites
+## ▷ Specialty Streaming
 
-* 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
-* 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
-* ↪️ **[Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms)**
-* ⭐ **[/r/ROMs Mega](https://r-roms.github.io/)** - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
-* ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs
-* ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
-* ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
-* ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
-* ⭐ **[CDRomance](https://cdromance.org/)** - ROMs / [Discord](https://cdromance.org/discord)
-* ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
-* ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
-* [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
-* [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
-* [Vimms Lair](https://vimm.net/) - Emulators / ROMs
-* [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
-* [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
-* [WowROMs](https://wowroms.com/en) - ROMs
-* [Edge Emulation](https://edgeemu.net/) - ROMs
-* [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
-* [TheRomDepot](https://theromdepot.com/) - ROMs
-* [BlueRoms](https://www.blueroms.ws/) - Emulators / ROMs / Torrents
-* [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
-* [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip 
-* [Romsie](https://roms2000.com/) - Emulators / ROMs
-* [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [Romsever](https://romsever.com) - Emulators / ROMs
-* [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs
-* [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
-* [Emu-Land](https://www.emu-land.net/en) - Emulators / ROMs
-* [HexRom](https://hexrom.com/) - Emulators / ROMs
-* [GameGinie](https://gameginie.com/) - Emulators / ROMs
-* [Technosagar](https://roms.technosagar.com/) - ROMs
-* [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://myretro.games/) - Emulators / ROMs
-* [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
-* [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
-* [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
-* [ROMs DL](https://romsdl.com/) - Emulators / ROMs
-* [HappyROMs](https://happyroms.com/) - Emulators / ROMs
-* [TechToROMs](https://techtoroms.com/) - Emulators / ROMs
-* [RPGOnly](https://rpgonly.com) - ROMs
-* [GLoad](https://gload.to/) - ROMs
-* [AllMyROMs](https://www.allmyroms.net/) - ROMs
-* [ROMsFun](https://ROMsfun.com/) - ROMs
-* [FreeROMs](https://www.freeROMs.com/) - ROMs
-* [RetroZone](https://retrozone.co/) - ROMs
-* [NGR](https://www.nextgenroms.com/) - ROMs
-* [FantasyAnime](https://fantasyanime.com/) - ROMs
-* [OldGamesDownload](https://oldgamesdownload.com/) - ROMs
-* [Ziperto](https://ziperto.com/) - ROMs / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons
-* [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
-* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
-* [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
-* [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
-* [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
-* [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
-* [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
-* [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
-* [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
-* [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
-* [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
-* [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
-* [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
-* [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
-* [NesFiles](https://www.nesfiles.com/) or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
-* [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-* [Kuribo64](https://kuribo64.net/) - ROM Modding Community
-* [MFGG](https://mfgg.net/) - Super Mario Mods / [Discord](https://discord.gg/jchgfw5)
-* [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) - Super Mario Bros. DS / Wii Mods
-* [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
-* [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Mods
-* [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
-* [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
-* [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
-* [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
-* [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
-* [perfect_dark](https://github.com/fgsfdsfgs/perfect_dark), [2](https://github.com/n64decomp/perfect_dark) - Perfect Dark Decompilation
-* [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [GUI](https://sm64pc.info/sm64pcbuilder2/) / [Discord](https://discord.gg/DuYH3Fh)
-* [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/danspalace)
-* [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
-* [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
-* [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
-* [NSWDB](https://www.nswdb.com) - Switch Release Tracker
-* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
-* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
+* ↪️ **[How To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
+* ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
+* ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
+* ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
+* ⭐ **[Tokuzilla](https://tokuzilla.net/)** - Tokuzilla Movies / Shows
+* ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
+* ⭐ **[RiffTrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
+* ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
+* [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [WikiFlix](https://wikiflix.toolforge.org/), [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
+* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
+* [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
+* [LIMA](https://www.li-ma.nl/) - Short / Experimental Films
+* [LightCone](https://lightcone.org/en) - Short / Experimental Films
+* [Rohesia Hamilton Metcalfe](https://www.panix.com/~hamiltro/links/) - Experimental Films
+* [Zero1Cine](https://zero1cine.com/) - AI Generated Films
+* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
+* [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
+* [Viddsee](https://www.viddsee.com/), [Shortverse](https://www.shortverse.com/explore), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
+* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
+* [0xDB](https://0xdb.org/) - Rare Movies / [How-To](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
+* [FootageFarm](https://footagefarm.com/) - Public Domain Films
+* [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
+* [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
+* [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
+* [IndianCine](https://indiancine.ma/) - Indian Film Archive
+* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
+* [TexasArchive](https://texasarchive.org/) - Texas Film Archive
+* [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
+* [MrWorldPremiere](https://mrworldpremiere.wf/) - Black Media Archive
+* [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
+* [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
+* [British Pathé](https://www.britishpathe.com/) - British Video Archive
+* [yfanefa](https://www.yfanefa.com/) - Yorkshire Film Archive
+* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
+* [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
+* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
+* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
+* [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
+* [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
+* [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
+* [35mm](https://35mm.online/en) - Polish Film Archive
+* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
+* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
+* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
+* [Animatsiya](https://animatsiya.net/) - Russian Animation Archive
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
+* [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
+* [3DS Movies](https://rentry.co/FMHYBase64#3d-3ds-movies) - 3D Movies for 3DS
+* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
+* [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
+* [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks) 
+* [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
+* [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
+* [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
+* [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
+* [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
+* [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
 
 ***
 
-## ▷ Browser Emulators
-
-* 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
-* ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
-* ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
-* ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
-* [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
-* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
-* [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
-* [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
-* [SSega](https://www.ssega.com/) - Sega Browser Emulator
-* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
-* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
-* [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
-* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
-* [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
-* [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
-* [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
-* [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
-* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
-* [SMWGames](https://www.smwgames.com/) - Modded Super Mario World Browser Emulators
-* [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
-* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
-* [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
-* [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
-* [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
-* [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
-* [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
-* [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
-* [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
-* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
-* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
-* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tetrio.team2xh.net/)
-* [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
-* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person
-* [Sandtris](https://sandtris.com/) - Falling Sand Style Tetris
-* [Play Snake](https://playsnake.org/) - Retro Snake 
-* [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
-* [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
-* [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
-* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
+## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)
 
 ***
 
-# ► Browser Games
+## ▷ Video Streaming
 
-* ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives
-* ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** - Marble Blast Gold in Browser
-* ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
-* ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
-* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
-* [Minecraft Classic](https://classic.minecraft.net/) - Browser Minecraft
-* [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
-* [Slither.io](http://slither.io/) - Grow the Longest Worm
-* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
-* [agar.io](https://agar.io/) - Become the Biggest Circle
-* [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
-* [Deeeep](https://beta.deeeep.io/) - Multiplayer Feeding Frenzy Games
-* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [The Circle](https://the-circle.app/) - Dodge Circles
-* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
-* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
-* [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
-* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
-* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
-* [Bemuse](https://bemuse.ninja/) - Rhythm Game
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
-* [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
-* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
-* [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
-* [Starship](https://starshipthegame.spacex.com/) - SpaceX Rocket Game
-* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
-* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [fsh.zone](https://fsh.zone/) - Fishing Games / [Discord](https://discord.com/invite/FKEzJSf)
-* [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
-* [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
-* [slow roads](https://slowroads.io/) - Driving Game
-* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
-* [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
-* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
-* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
-* [Edu-Games](https://www.edu-games.org/) - Educational Games
+* **Note** - These are good for finding classic, obscure, and short films.
 
 ***
 
-## ▷ Multi-Game Sites
-
-* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
-* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
-* ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
-* [Addicting Games](https://www.addictinggames.com/) - Browser Games
-* [RG Games](https://www.rgshows.me/games/) - Browser Games / [Discord](https://discord.gg/e34HMTgyEy)
-* [Kongregate](https://www.kongregate.com/) - Browser Games
-* [Y8](https://www.y8.com/) - Browser Games
-* [Poki](https://poki.com/) - Browser Games
-* [Crazy Games](https://www.crazygames.com/) - Browser Games
-* [GamezHero](https://www.gamezhero.com/) - Browser Games
-* [Deepnight](https://deepnight.net/) - Browser Games
-* [Nicky Case](https://ncase.me/) - Browser Games
-* [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
-* [watabou](https://watabou.itch.io/) - Browser Games
-* [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
-* [Miniplay](https://www.miniplay.com/) - Browser Games
-* [Yandex Games](https://yandex.com/games/) - Browser Games
-* [Poki](https://poki.com/) - Browser Games
-* [Arkadium](https://www.arkadium.com/) - Browser Games
-* [classroom-6x](https://www.classroom-6-x.games/) - Browser Games
-* [GamePix](https://www.gamepix.com/) - Browser Games
-* [RoundGames](https://www.roundgames.com/) - Browser Games
-* [Snokido](https://www.snokido.com/) - Browser Games
-* [Game-Game](https://game-game.com/) - Browser Games
-* [ArcadeSpot](https://arcadespot.com/) - Browser Games
-* [Gaming Wonderland](https://www.gamingwonderland.com/) - Browser Games
-* [Alfy](https://www.alfy.com/) - Browser Games
-* [Andkon](https://andkon.com/arcade/) - Browser Games
-* [FreeGames](https://freegames.org/) - Browser Games
-* [Friv](https://www.friv.com/) - Browser Games
-* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
-* [Spatial](https://www.spatial.io/) - 3D Browser Games
-* [Rosebud AI](https://www.rosebud.ai/) - AI Made Browser Games
-* [Unblock KISD](https://sites.google.com/view/unblockkisd/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
-* [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
-* [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
-* [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
-* [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
+* ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
+* ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
+* ⭐ **[OK](https://ok.ru/video)**
+* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
+* ⭐ **[Archive](https://archive.org/)** - Movies & TV Categories
+* ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
+* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
+* ⭐ **[Niconico](https://www.nicovideo.jp/)**
+* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
+* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
+* [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
+* [Vimeo](https://vimeo.com/)
+* [rutube](https://rutube.ru)
+* [cda.pl](https://www.cda.pl/)
+* [tilvids](https://tilvids.com/)
+* [bitchute](https://www.bitchute.com/)
+* [V-S Mobi](https://v-s.mobi/)
+* [Videa](https://videa.hu/)
+* [Aparat](https://www.aparat.com/)
+* [NewTube](https://newtube.app/)
+* [tudou](https://www.tudou.com/)
+* [BitView](https://www.bitview.net/)
+* [Tape](https://tape.xyz/)
+* [Naver](https://tv.naver.com/)
+* [ultimedia](https://www.ultimedia.com/)
+* [odysee](https://odysee.com/)
+* [Playeur](https://playeur.com/)
+* [Rumble](https://rumble.com/)
 
 ***
 
-## ▷ Party / Multiplayer
+# ► Live TV / Sports
 
-* ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
-* ⭐ **[Codenames](https://codenames.game/)** - Party Card Games
-* ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
-* ⭐ **[skribbl](https://skribbl.io/)**, [DrawBattle](https://drawbattle.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
-* ⭐ **[Eaglercraft](https://eaglercraftx1-8.github.io/eagler-files/1.8/resent4.0/index.html)**, [2](https://eaglercraft.com/) - Online Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft)
-* ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
-* [MiniBlox](https://miniblox.io/) - Online Minecraft Alternative
-* [Bloob.io](https://bloob.io/) - Multiple Games
-* [Gidd.io](https://gidd.io/) - Multiple Games
-* [Yucata](https://www.yucata.de/en/) - Multiple Games
-* [Foony](https://foony.com/) - Multiple Games
-* [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images
-* [Gpop.io](https://gpop.io/) - Rhythm Game
-* [Spyfall](https://www.spyfall.app/) - Spy Party Game
-* [Betrayal](https://betrayal.io/) - Among Us Clone
-* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
-* [Smash Karts](https://smashkarts.io/) - Kart Battles
-* [Make It Meme](https://makeitmeme.com/) - Meme Party Game
-* [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+## ▷ Live TV
 
-***
-
-## ▷ Shooter
-
-* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
-* ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
-* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
-* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
-* [Venge](https://venge.io/) - PvP FPS
-* [kour.io](https://kour.io/) - PvP FPS
-* [LolShot](https://lolshot.io/) - PvP FPS
-* [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Simulator
-* [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
-* [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
-* [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
-* [Operius](https://mors-games.itch.io/operius) - Space Shooter
-* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
-* [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
-* [webXash](https://x8bitrain.github.io/webXash/) - Half Life Demo
+* ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://rentry.co/FMHYBase64#iptv-playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [Generate Playlists](https://github.com/gogetta69/TMDB-To-VOD-Playlist)
+* ⭐ **[TheTVApp](https://thetvapp.to/)** - TV / Sports
+* ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
+* ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
+* ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports / 1080p
+* [Heartive](https://heartive.pages.dev/live/) - Live TV / Sports
+* [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
+* [Xumo Play](https://play.xumo.com/networks) - TV / US Only
+* [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
+* [SportsLive](https://sportslive.me/) - Sport / [Discord](https://discord.gg/22BUXzus2h) / [Telegram](https://t.me/+TQLKRehSyuszOWRi)
+* [Time4TV](https://time4tv.online/) - TV / Sports
+* [time4tv.top](https://time4tv.top/) - TV / Sports
+* [RgShows](https://www.rgshows.me/) - TV / [Discord](https://discord.com/invite/bosskingdom-comeback-1090560322760347649)
+* [LiveHDTV](https://www.livehdtv.com/) - TV
+* [CXtv](https://www.cxtvlive.com/) - TV / Sports
+* [TV247](https://tv247.us/) - TV / Sports
+* [TvFlix](https://tvflix.netlify.app/) - TV / Sports
+* [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
+* [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
+* [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports
+* [vipotv](https://vipotv.com/) - TV / Sports
+* [Stream4Free Live](https://www.infinite-streaming.live/) - TV / Sports
+* [WwiTv](https://wwitv.com/) - TV
+* [SquidTV](https://www.squidtv.net/) - TV
+* [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
+* [PhotoCall](https://photocall.xyz/) - TV
+* [Puffer](https://puffer.stanford.edu/) - San Fran TV
+* [cytube](https://cytu.be/) - Random Streams
+* [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
+* [Baked](https://baked.live/) - Random Streams
+* [Channel 99](http://www.pracdev.org/channel99/) - Random Streams
+* [YTCH](https://ytch.xyz/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube
+* [TV.Jest](https://tv.jest.one/) - News
+* [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
+* [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
+* [TitanTV](https://titantv.com/) - Live TV Listings
 
 ***
 
-## ▷ Platformer
+## ▷ Live Sports
 
-* ⭐ **[Bonk](https://bonk.io/)** - Multiplayer Physics Game
-* ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
-* ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
-* [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
-* [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
-* [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
-* [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
-* [PrinceJS](https://princejs.com/) - Prince of Persia
-
-***
-
-## ▷ Simulation
-
-* [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
-* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Simulators
-* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
-* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Simulator
-* [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
-* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
-* [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
-* [NationStates](https://www.nationstates.net/) - Nation Simulation Game / [Scripts](https://hare.kractero.com/)
-* [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
-* [Money Simulator](https://simulator.money) - Money Simulator
-* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
-
-***
-
-## ▷ RPG
-
-* [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
-* [Bit Heroes Arena](https://bitheroesarena.io/) - 8-bit RPG
-* [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
-* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
-* [Dynast](https://dynast.io/) - Survival Browser Game
-* [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG
-* [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
-* [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
-* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
-* [Miniconomy](https://www.miniconomy.com/) - Economy Game
-* [Forumwarz](https://www.forumwarz.com/) - Browser RPG
-* [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
-* [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
-
-***
-
-## ▷ Board / Card / Dice
-
-* 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
-* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)** - Board Game Index
-* 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
-* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
-* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
-* [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
-* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games
-* [Tabletopia](https://tabletopia.com/) - Online Board Games
-* [FunNode](https://www.funnode.com/) - Online Board Games
-* [Screentop](https://screentop.gg/) - Online Board Games / [Discord](https://discord.gg/wva8ebh)
-* [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
-* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
-* [Playok](https://www.playok.com/) - Multiplayer Card Games
-* [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
-* [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
-* [AllBad.Cards](https://bad.cards/) - Cards Against Humanity Online 
-* [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
-* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
-* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
-* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
-* [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
-
-***
-
-## ▷ Strategy
-
-* ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
-* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
-* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
-* ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
-* ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
-* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
-* [lishogi](https://lishogi.org/) - Shogi
-* [Online GO](https://online-go.com/) - Multiplayer GO
-* [Warzone](https://www.warzone.com/) - RISK Clone
-* [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy game
-* [generals.io](https://generals.io/) - War Strategy Game
-* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
-* [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* ⭐ **[Streamed](https://streamed.su/)** - Sports / [Discord](https://discord.gg/streamed)
+* ⭐ **[Sportsurge](https://v2.sportsurge.net/home4/)** - Sports / Stream Aggregator
+* ⭐ **[PPV.land](https://ppv.land/)**, [2](https://ppv.zone/) - Sports / Live Events
+* ⭐ **[WatchSports](https://watchsports.to/)** - Sports / Stream Aggregator
+* ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
+* ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
+* ⭐ **[RBTV77](https://www.rbtv77.store/)** - Sports
+* ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
+* ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
+* ⭐ **[Strims](https://strims.in/)** - Sports
+* ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
+* [MutStreams](https://mutstreams.com) - Sports
+* [Streameast](https://www.streameast.co/v8/) - Sports
+* [AllReplays](https://allreplays.com/) - Sports
+* [RiveStream](https://rivestream.live/livesports) - Sports
+* [Sportsurge.club](https://sportsurge.club/) - Sports
+* [Sportea](https://s1.sportea.link/) - Sports
+* [1Stream](https://1stream.eu/) - Sports
+* [WeakSpell](https://weakspell.to/) - Sports
+* [AJ Sports](https://ajsportstv.ch/) - Sports
+* [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
+* [First Row Sports](https://firstsrowsports.tv/) - Sports
+* [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
+* [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
+* [720pStream](https://720pstream.nu/) - Sports
+* [BuffStream](https://bestmlb.buffstream.io/) - Sports
+* [LiveTV](https://livetv780.me/enx/) - Sports
+* [Sport365](https://live.sport365.stream/) - Sports
+* [RedditSport](https://redditsport.cc/) - Sports
+* [Raket TV](https://rakettvv.blogspot.com/) - Sports
+* [rakettv.win](https://www.rakettv.win/) - Sports
+* [SportHD](https://sporthd.live/) - Sports
+* [MethStreams](https://methstreams.com/) - Sports
+* [CrackStreams](https://crack-streams.com/) - Sports
+* [FootyBite](https://www1.footybite.cc/) - Sports
+* [SportsOnline](https://sportsonline.gl/) - Sports
+* [AntenaSports](https://antenasports.ru/) - Sports
+* [WorldStreams](https://worldstreams.net/) - Sports
+* [PlentyPass](http://plentypass.com/) - Sports
+* [p2pstreams](https://p2pstreams.live/) - Sports
+* [StrikeOut](https://strikeout.im/) - Sports
+* [uSport](https://usport.pro/) - Sports
+* [HesGoal](https://www.hesgoal.watch/) - Sports
+* [Sport-TV](https://sport-tv.live/) - Sports
+* [DudeStream](https://www.dudestream.com/) - Sports
+* [BuffSports](https://buffsports.me/) - Sports
+* [CricHD](https://crichdplayer.com/) - Sports
+* [CricHD.stream](https://www.crichd.stream/) - Sports
+* [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [NFLHunter](https://nflhunter.com/) - American Football
+* [NFLBite](https://nflbite.tv/) - American Football
+* [MLB66](https://mlb66.ir/) - Baseball
+* [MLBshows](https://mlbshow.com/) - Baseball
+* [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
+* [Boxing Stream](https://boxingstream.ai/) - Boxing
+* [BoxingStreamLinks](https://boxingstreamlinks.com/) - Boxing
+* [MMA Streams](https://tonight.mmastreams.cc/) - MMA
+* [MMAStreamLinks](https://red3.mmastreamlinks.com/) - MMA
+* [SoccerOnline](https://socceronline.me/) - Soccer
+* [55Goal](https://55goal.com/) - Soccer
+* [Streamtonfoot](https://streamtonfoot.vercel.app/) - Soccer
+* [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
+* [TIZ Cycling](https://tiz-cycling.io/) - Cycling
+* [Mazespin](https://mazespin.live/) - Motorsports / Soccer / Cycling
+* [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
+* [MotoGP](https://motogpstream.me/) - Motorsports
+* [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
+* [F1Box](https://f1box.me/) - Motorsports
+* [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
+* [NHLStreams](https://nhlstreams.io/) - Hockey
+* [NHLstream](https://nhlstream.net/) - Hockey
+* [NHL66](https://nhl66.ir/) - Hockey
+* [OnHockey](http://onhockey.tv/) - Hockey
+* [NHLbite](https://nhlbite.com/) - Hockey
+* [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
+* [F1 Dashcam](https://f1-dash.com/) - F1 Live Stats
+* [TheHighLow](https://thehighlow.io/) - NBA Highlights Database
 
 ***
 
-## ▷ Puzzle Games
+## ▷ Sports Replays
 
-* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
-* ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
-* [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
-* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
-* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
-* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
-* [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
-* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
-* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinte Minesweeper
-* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
-* [PROXX](https://proxx.app/) - Space Minesweeper
-* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
-* [Orion](https://orion.lukasbach.com/) - Puzzle Game
-* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
-* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
-* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
-* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
-* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
+* ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents / 1080p
+* ⭐ **[FullReplays](https://www.fullreplays.com/)** - Soccer Replays
+* ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays / 1080p
+* ⭐ **[Fishker NFL](https://fishkernfl.com/)** - American Football Replays / 720p
+* ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays / 1080p
+* ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
+* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
+* ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays / 1080p
+* ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays / 1080p
+* [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
+* [Classic Sports Fanatic](https://www.youtube.com/@classicsportsfanatic7183/playlists) - Full Classic Sports Replays
+* [NFL Video](https://nfl-video.com/), [2](https://nfl-replays.com/) - American Football / 1080p
+* [MLBLive](https://mlblive.net/) - Baseball Replays
+* [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
+* [FootballOrigin](https://www.footballorgin.com/) - Football Replays
+* [123footy](https://123footy.com/) - Football Replays
+* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Football Replays
+* [Soccer Full Match](https://soccerfullmatch.com/ ) - Football Replays
+* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
+* [Full Match](https://fullmatch.info/) - Football Replays
+* [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
+* [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
+* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
+* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
+* [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
+* [Hula8](https://www.hula8.net/) - MMA Replays
+* [Bellator](https://bellator.com/) - MMA Replays
+* [MMACore](https://www.mma-core.com) - MMA Replays
+* [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
+* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights Discord / [Telegram](https://t.me/NattoSumo)
+* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
+* [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
+* [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
+* [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
+* [Rugby24](https://rugby24.net/) - Rugby Replays
+
+***
+***
+
+# ► Smart TV / Firestick
+
+* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://rentry.co/LGTVHomebrewGuide)
+* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
+* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
+* [KPFire](https://linktr.ee/kpfire) - Firestick Apps
+* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
+* [Tizentube](https://tizentube.vercel.app/) - Block Samsung Smart TV YouTube Ads
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad-Free Android TV Browsers
+* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
+* [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
+* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
+* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
+* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
+* [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
+* [StreamFire](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
+* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
+* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher), [FLauncher](https://gitlab.com/flauncher/flauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
+* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
+* [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
 
 ***
 
-## ▷ Incremental / Idle
-
-* 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
-* ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
-* ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
-* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
-* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
-* [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
-* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
-* [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
-* [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
-* [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
-* [A Dark Room](https://adarkroom.doublespeakgames.com/) - Dark Room Survival Game
-* [The Fed](https://thefed.app/) - Incremental Banking Game
-* [WarClicks](https://warclicks.com/) - Incremental War Game
-* [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
-* [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
-* [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
-* [ProgressQuest](http://progressquest.com/) - Idle RPG
-* [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
-* [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
-* [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
-* [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game
+# ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
 
 ***
 
-## ▷ Trivia Games
-
-* ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme / Trivia
-* [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
-* [Akinator](https://en.akinator.com/) - 20 Questions
-* [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Kino.wtf](https://www.kino.wtf/) or [Framed](https://framed.wtf/) - Movie Guessing Games
-* [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
-* [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
-* [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
-* [GuessAnimeQuiz](https://guessanimequiz.com/) - Anime Guessing
-* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/) - Music Guessing Games
-* [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
-* [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
-* [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
-* [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
-* [Graphs](https://www.graphs.world/) - Graph Guessing Game
-* [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
-* [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
-* [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
-* [Metazooa](https://metazooa.com/) - Animal Guessing Game
-* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
-* [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
-* [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
-* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
-* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Game
-* [LoLdle](https://loldle.net/) - League of Legends Guessing Games
-* [Worldle](https://worldle.teuteuf.fr/) - Country Guessing Game
-* [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
-* [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
-* [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
+# ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
 
 ***
 
-## ▷ GeoGuessr Games
+# ► Download Sites
 
-* ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
-* [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
-* [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
-* [Geohub](https://www.geohub.gg/) - Free GeoGuessr Alt / Requires Google API
-* [GuessWhereYouAre](https://guesswhereyouare.com/) - Free GeoGuessr Alt w/ Multiplayer
-* [OpenGuessr](https://openguessr.com/) - Free GeoGuessr Alt w/ Multiplayer
-* [Geotastic](https://geotastic.net/) - Multiplayer GeoGuessr / Account Required
-* [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alt
-* [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
-* [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
-* [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
-* [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
-* [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr
-* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
-* [travle](https://travle.earth/) - Guess Countries Between Two Locations
-* [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
 
 ***
 
-## ▷ Word Games
-
-* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)**, [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) or [Wordleverse](https://wordleverse.net/games) - Wordle Game Index
-* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
-* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
-* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
-* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Word Golf](https://www.word.golf/) - Word Relation Game
-* [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
-* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
-* [Squaredle](https://squaredle.app/) - Daily Word Puzzle
-* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
-* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
-* [Wordly](https://wordly.org/) - Wordle Clone
-* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
-* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
-* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
-* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
-* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
-* [Wourdle](https://wourdle.com/) - British English Wordle
-* [Ridella](https://ridella.xyz/) - Riddle Wordle
+* ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
+* ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
+* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
+* ⭐ **[LightDLMovies](https://lightdl.xyz/)** - Movies / TV / 1080p
+* ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
+* ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
+* ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama / 1080p
+* ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
+* [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
+* [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
+* [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
+* [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p
+* [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
+* [YassFlix](https://yassflix.live/) - TV / Anime / 1080p
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
+* [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
+* [UHDMovies](https://uhdmovies.dad/) - Movies / 4K
+* [Piracy App](https://www.piracy.su/) - Movies / TV / Anime / 4K
+* [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
+* [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
+* [MoviPlus](https://moviplus.net/) - Movies / TV / 1080p
+* [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
+* [Full4Movies](https://www.full4movies.help/) - Movies / TV / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [Free Movies](https://free-movies.to/) - Movies / TV / 1080p
+* [SomosMovies](https://somosmovies.com/) - Movies / 1080p
+* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
+* [SeriesVault](https://seriesvault.win/) - TV / Anime / 1080p
+* [StarK ClouD](https://scloud.starkflix.cloud/) - Movies / 4K / 1080p
+* [FilmFans](https://filmfans.org/) - Movies / 4K
+* [WorldFree4u](https://worldfree4u.pm/) - Movies / 1080p
+* [SSR Movies](https://ssrmovies.meme/) - Movies / TV / 1080p
+* [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
+* [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
+* [ShareMania](https://sharemania.us/) - Movies / TV / 4K
+* [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
+* [ShareBB](https://sharebb.me/) - Movies / TV / 1080p
+* [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
+* [SD Toons](https://sdtoons.in) - Movies / TV / Anime / 1080p
+* [PrivateMovieZ](https://privatemoviez.mom/) - Movies / TV / 1080p
+* [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
+* [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
+* [FZMovies](https://fzmovies.host/), [2](https://fzmovies.net/) - Movies / 720p
+* [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
+* [TV Shows](https://tvshows.me/) - TV / 720p
+* [TVSBoy](https://tvsboy.com/) - TV / 720p
+* [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 720p
+* [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
+* [NetNaija](https://netnaija.xyz/) - Movies / 480p
+* [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
+* [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
+* [/r/DownUnderTV](https://www.reddit.com/r/DownUnderTV/) - AU / NZ TV / 1080p
+* [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama / 1080p
+* [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama / 1080p
+* [nKiri](https://nkiri.com/) - Asian Drama / 720p
+* [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
+* [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
+* [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
+* [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
 
 ***
 
-# ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
+## ▷ Drives / Directories
+
+* ⭐ **[datadiff](https://rentry.co/FMHYBase64#datadiff)** - Movies / TV / [Request](https://www.reddit.com/r/reqworkers101/)
+* [188.165.227.112](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
+* [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
+* [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
+* [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
+
+***
+
+## ▷ Anime Downloading
+
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
+
+***
+
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)**, [2](https://everythingmoe.org/#section-download) - Anime DDL Index / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
+* ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
+* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.gg/uZ85cbAg4T)
+* ⭐ **[Flugel Anime](https://rentry.co/FMHYBase64#flugel-anime)** - Sub
+* ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
+* ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
+* ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
+* [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
+* [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
+* [AnimeSuge](https://animesugetv.to/) - Sub / Dub
+* [AnimeLand](https://w4.animeland.tv/) - Dub
+* [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
+* [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
+* [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
+* [anime7.download](https://anime7.download/) - Sub
+* [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
+* [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
+* [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
+* [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
+
+
+***
+
+## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+
+***
+
+# ► Torrent Apps
+
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+
+***
+
+* 🌐 **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools / [Multi Installer](https://github.com/LordZeuss/arr-installer) / [Automation Scripts](https://github.com/RandomNinjaAtk/arr-scripts/)
+* ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
+* ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [/r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
+* ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [Auto-Subtitles](https://www.bazarr.media/) / [GitHub](https://github.com/Radarr/Radarr)
+* ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/) / [Auto-Subtitles](https://www.bazarr.media/)
+* ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [Doplarr](https://github.com/kiranshila/Doplarr) - Discord Torrent Bots
+* [Powder](https://powder.media/) - Torrent Streaming App
+* [Popcorn Time](https://popcorn-time.site/) - Torrent Streaming App / [GitHub](https://github.com/popcorn-official/popcorn-desktop/)
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/) / [Modded APK](https://rentry.co/FMHYBase64#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
+* [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
+* [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
+* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
+* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
+* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
+* [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
+* [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
+* [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
+* [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
+* [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
+* [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming
+
+***
+
+## ▷ Stremio Tools
+
+* 🌐 **[Stremio Addons](https://stremio-addons.netlify.app/)** - Stremio Addons
+* ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
+* [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) - Addons Manager
+* [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - ffmpeg Wrapper
+* [Stremio Simkl](https://simkl.com/apps/stremio/) - Stremio Simkl Addon
+* [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) - Stremio Trakt Addon
+* [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
+* [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
+
+***
+
+# ► Torrent Sites
+
+* ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime
+* ⭐ **[TorrentGalaxy Movies](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)** - Movies / TV / Anime
+* ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / 1080p / Signup Required
+* ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
+* ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
+* [RGShows](https://www.rgshows.me/torrent/) - Multi-Site Search
+* [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / 1080p / **Avoid Software / Games**
+* [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K / 1080p
+* [MSearch](https://msearch.vercel.app/) - Movies / TV
+* [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
+* [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
+* [Vuze](https://www.vuze.com/content/) - Movies / TV
+* [YAPs](https://yaps.therarbg.to/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
+* [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
+* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Clones](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/)
+* [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
+* [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
+* [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
+* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all) or [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Torrent Site Results on IMDb
+* [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
+
+***
+
+## ▷ Anime Torrenting
+
+* ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/) [3](https://nyaa.iss.ink/) - Sub / Dub
+* ⭐ **Nyaa Tools** - [TUI](https://github.com/Beastwick18/nyaa) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot), [2](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag), [2](https://nyaaapi.onrender.com/docs) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Guide](https://greasyfork.org/en/scripts/441017-nyaablue)
+* ⭐ **[Miru](https://miru.watch/)** or [Migu](https://miguapp.pages.dev/ ) - Stream Anime Torrents
+* ⭐ **[AnimeTosho](https://animetosho.org/)** - Sub / Dub
+* ⭐ **[TokyoTosho](https://www.tokyotosho.info/)** - Sub
+* ⭐ **[ShanaProject](https://www.shanaproject.com/)** - Sub
+* ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
+* ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
+* ⭐ **[bakabt](https://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
+* [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)
+* [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Anime Video Quality Guides
+* [Fansub Cartel](https://index.fansubcar.tel/) - Fansubbers Index
+* [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
+
+***
+
+## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_torrenting)
+
+***
+
+# ► Tracking / Discovery
+
+## ▷ Database / Tracking
+
+* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
+* ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
+* ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
+* ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
+* ⭐ **[FlickMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
+* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+* ⭐ **[AniList](https://anilist.co/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
+* ⭐ **[serializd](https://www.serializd.com/)** - TV / Anime
+* [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/) / [Frontend](https://libremdb.iket.me)
+* [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)
+* [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
+* [TVDb](https://www.thetvdb.com/) - TV / Anime
+* [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
+* [rate.house](https://rate.house/) - Media Tracker
+* [Movieo](https://movieo.me/) - Movies / TV / Anime
+* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
+* [Anime-Planet](https://www.anime-planet.com/) - Anime
+* [Kitsu](https://kitsu.io/) - Anime
+* [Anisearch](https://www.anisearch.com/) - Anime
+* [AniDB](https://anidb.net/) - Anime
+* [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
+* [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
+* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
+* [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
+* [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
+* [FFCritic](https://foundfootagecritic.com/) - Found Footage
+* [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
+* [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
+* [IGMDB](https://igmdb.com/) - LGBT Movies
+* [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
+* [Taiga](https://taiga.moe/) - Anime Tracking Program
+* [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
+
+***
+
+## ▷ Recommendations
+
+* 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
+* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
+* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
+* [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
+* [listal](https://www.listal.com/) - Movies / TV
+* [RelatedAnime](https://relatedanime.com/) - Related Anime Index
+* [AnimeStats](https://anime-stats.net/), [AnimeKarmaList](https://animekarmalist.com/), [Sprout](https://anime.ameo.dev/) or [AniBrain](https://anibrain.ai/) - Anime Recommendations
+* [Autum](https://autum.com/) - Movie / TV Recommendations
+* [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
+* [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
+* [Taste.io](https://www.taste.io/) - Movie Recommendations
+* [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
+* [MoodieMoovy](https://moodiemoovy.netlify.app/) - Movie Recommendations
+* [GNOD](https://www.gnod.com/) - Movie Recommendations
+* [MovieLens](https://movielens.org/) - Movie Recommendations
+* [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
+* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
+* [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations
+* [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt
+* [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
+* [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
+* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies with Friends
+* [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
+* [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
+* [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
+* [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
+* [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
+* [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
+* [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
+* [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
+* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+
+***
+
+## ▷ Calendar / Upcoming
+
+* ⭐ **[Your Countdown To](https://yourcountdown.to/)** - Countdown for Movies / TV / Anime / Video Games
+* ⭐ **[Movie Countdown](https://moviescountdown.com/)** - Countdown for Upcoming Movies / [TV](https://countdown.tv/) / [Drama](https://dramacountdown.com/)
+* [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
+* [TVMaze](https://www.tvmaze.com/) - TV / Anime
+* [My Episodes](https://www.myepisodes.com/) - TV
+* [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
+* [AniChart](https://anichart.net), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
+* [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
+* [showRSS](https://showrss.info/) - RSS / TV
+
+***
+
+# ► Subtitles
+
+* 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
+* ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
+* [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [Tero Subtitler](https://www.uruworks.net/), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
+* [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
+* [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
+* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
+* [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
+* [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator), [Vibe](https://thewh1teagle.github.io/vibe/) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers
+* [TranslatesSubtitles](https://translatesubtitles.com/) - Translate Subtitles
+* [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
+* [SoniTranslate](https://github.com/R3gm/SoniTranslate) - Video Translator
+* [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
+* [Sushi.net](https://github.com/maxpiva/Sushi.Net) - Automatic Subtitle Shifter Based on Audio
+* [mkv-extract](https://qgustavor.github.io/mkv-extract/), [gmkvextractgui](https://sourceforge.net/projects/gmkvextractgui/) or [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) - Extract Subtitles from MKV Files
+* [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
+* [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
+* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/), [Fansub Guide](https://unanimated.github.io/guides.htm) or [Fansubbing Guide](https://guide.encode.moe/) - Fansubbing Encoding Guides
+* [Wyzie Subs](https://subs.wyzie.ru/) - Subtitle Scraping API
+
+***
+
+## ▷ Download Subtitles
+
+* ⭐ **[Open Subtitles](https://opensubtitles.org/)** - Subtitles
+* ⭐ **[SubDL](https://subdl.com/)** - Subtitles
+* ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
+*  [Subsearch](https://github.com/vagabondHustler/subsearch), [SubDownloader](https://subdownloader.net/), [Subliminal](https://subliminal.readthedocs.io/) or [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - Python Download Scripts
+* [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
+* [SubSource](https://subsource.net/) - Subtitles
+* [Podnapisi](https://www.podnapisi.net/) - Subtitles
+* [Subscene](https://subscene.best/) - Subtitles
+* [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
+* [Closed Caption Browser](https://cc.edatribe.com/ ) - Subtitles
+* [Subs4Free](https://www.subs4free.info/) - Subtitles
+* [English-Subtitles](https://english-subtitles.org/) - Subtitles
+* [My Subs](https://my-subs.co/) - Subtitles
+* [YTS Subs](https://yts-subs.com/) - Subtitles
+* [SubtitleSeeker](https://www.subtitleseeker.in/) - Subtitles
+* [Subtitlist](https://subtitlist.com/) - Subtitles
+* [TVSubs](https://www.tvsubs.net/) - TV Subtitles
+* [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
+* [DownSub](https://downsub.com/) - Download Subs from Video Sites
+* [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
+
+***
+
+# ► Helpful Sites / Tools
+
+* 🌐 **[/r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
+* ↪️ **[Video Players / Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)**
+* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
+* ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
+* ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
+* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
+* ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
+* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
+* ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
+* ⭐ **[BingeClock](https://www.bingeclock.com/)**, [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
+* ⭐ **[Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/)** - Keyword / Spoiler Blocker
+* ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Streaming Site Guide](https://redd.it/yykvnv)
+* ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
+* ⭐ **[AnimeFillerList](https://www.animefillerlist.com/)** or [AnimeFillerGuide](https://www.animefillerguide.com/) - Anime Filler Guides
+* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
+* [FlickChart](https://www.flickchart.com/) - Rank Your Movies
+* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
+* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
+* [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
+* [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
+* [RunPee](https://runpee.com/) - Best Movie Break Times
+* [IMissedTheStart](https://imissedthestart.com/) - Summarize Missed Movie Parts
+* [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
+* [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - Voice Actors Database
+* [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media
+* [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
+* [Starring the Computer](https://www.starringthecomputer.com/) - Movie Computer Database / [Discord](https://discord.com/invite/6NbTfHEtgQ)
+* [IMFDB](https://www.imfdb.org/) - Movie Firearms Database / [Discord](https://discord.com/invite/FDHEkQ6szt)
+* [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
+* [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
+* [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
+* [Anime Skip](https://anime-skip.com/) - Auto Skip Anime Intros
+* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search
+* [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
+* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
+* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
+* [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
+* [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
+* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
+* [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
+
+***
+
+## ▷ Streaming APIs
+
+* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama  / 1080p / API / [Discord](https://discord.com/invite/streamflix)
+* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama  / 1080p / API / [Telegram](https://t.me/auto_embed)
+* [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K / 1080p
+* [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
+* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
+* [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
+* [VidLink](https://vidlink.pro/) - Movies / TV / API / 1080p
+* [CineScrape](https://cinescrape.com/) - Movies / TV / Anime / API / 4K / 1080p / [Discord](https://discord.gg/XbDBBmh5FY)
+* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.to/) - Movies / TV / Anime / API / 1080p
+* [moviee](https://moviee.tv/api) - Movies / TV / 1080p
+* [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K / 1080p
+* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 
+* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API / 1080p
+* [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 1080p / 4K 
+* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API / 1080p
+* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / 1080p  / [Telegram](https://t.me/moviesapi_club)
