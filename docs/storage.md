@@ -385,17 +385,68 @@
 
 ## Free Webhosting Sites
 
+* ⭐ **[surge](https://surge.sh/)**
+* [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+* [glitch](https://glitch.com/)
+* [biz.nf](https://www.biz.nf/)
+* [coolify](https://coolify.io/)
+* [awardspace](https://www.awardspace.com/)
+* [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html) / [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/)
+* [ibm cloud](https://www.ibm.com/cloud/free)
+* [hostbreak](https://hostbreak.com/web-hosting/free)
+* [Fleek](https://fleek.co/)
+* [stormkit](https://www.stormkit.io/)
+* [freewebhostingarea](https://www.freewebhostingarea.com/)
+* [milkshake](https://milkshake.app/)
+* [ikoula](https://www.ikoula.com/)
+* [fanspace](http://www.fanspace.com/)
+* [fc2](https://web.fc2.com/en/)
+* [yunohost](https://yunohost.org/)
+* [atspace](https://www.atspace.com/)
+* [aava](https://aava.dy.fi/)
+* [unison](https://www.unison.cloud/)
+
+### Static Page
+
 * ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
-* ⭐ **[surge](https://surge.sh/)**
 * ⭐ **[firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[infinityfree](https://infinityfree.com/)**
 * ⭐ **[workers.dev](https://workers.cloudflare.com/)**
-* ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[sourcehut pages](https://srht.site/)**
+* [0hosting](https://web1.0hosting.net/)
+* [codeberg](https://codeberg.page/)
+* [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [droppages](https://droppages.com/)
+* [w3schools](https://www.w3schools.com/spaces/)
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
+* [render](https://render.com/)
 
-[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
+### Dynamic Page
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer)
+* [leprd.space](https://leprd.space/)
+* [pythonanywhere](https://www.pythonanywhere.com/)
+
+### Website Builders
+
+* **Note** - These are generally made for businesses only.
+* [wix](https://www.wix.com/)
+* [site123](https://www.site123.com/)
+* [WordPress](https://wordpress.com/) / [2](https://wordpress.org/)
+* [jimdo](https://www.jimdo.com/)
+* [tilda](https://tilda.cc/)
+* [x10hosting](https://x10hosting.com/)
+* [olitt](https://www.olitt.com/)
+* [yola](https://www.yola.com/)
+* [bravenet](https://www.bravenet.com/)
+
+### Resellers 
+
+* ⭐ **[infinityfree](https://infinityfree.com/)**
+* [uhostfull](https://www.uhostfull.com/)
+* [byet.host](https://byet.host/free-hosting)
 
 ***
 
