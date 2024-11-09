@@ -97,7 +97,7 @@
 ## ▷ Single Server
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/nepu)
-* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / 1080p
 * ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
