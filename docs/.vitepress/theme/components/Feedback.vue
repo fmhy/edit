@@ -268,7 +268,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             in the message or join our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://rentry.co/FMHY-Invite/edit"
+              href="https://rentry.co/FMHY-Invite/"
             >
               Discord.
             </a>
