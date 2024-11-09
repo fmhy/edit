@@ -513,54 +513,54 @@
 
 ## ▷ Physical Health
 
-* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
-* ⭐ **[/u/KNightNox Diagram](https://imgur.com/gEfyf0q)**, [2](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg) - Zoomable Exercise Diagram
 * ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
-* [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
-* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
-* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
-* [ACTIVE](https://www.active.com/) - Find Local Races & Events
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [Calistree](https://calistree.app/) - Exercise Search
-* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
-* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
-* [ExRx.net](https://exrx.net/) - Exercise Resources
-* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [Fitness](https://github.com/wger-project/flutter) / [GitHub](https://github.com/wger-project/wger)
-* [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack), [HealthMode](https://www.healthmode.app/), [Flexify](https://github.com/brandonp2412/Flexify), [My Pacer](https://www.mypacer.com/) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
+* [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
-* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
-* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
 * [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
 * [/r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
-* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
-* [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack), [HealthMode](https://www.healthmode.app/) or [Flexify](https://github.com/brandonp2412/Flexify) - Fitness Trackers
+* [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
+* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
+
+***
+
+## ▷ Workout / Exercise 
+
+* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
+* 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
+* ⭐ **[/u/KNightNox Diagram](https://imgur.com/gEfyf0q)**, [2](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg) - Zoomable Exercise Diagram
+* [Muscleandstrength](https://muscleandstrength.com/), [Workout.lol](https://workout.lol/), [DAREBEE](https://darebee.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
+* [Hevy](https://www.hevyapp.com/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/), [Kenko](https://github.com/Iamlooker/Kenko) or [FitHero](https://fithero.app/) - Workout Trackers
+* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
+* [Calistree](https://calistree.app/) - Exercise Search
+* [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
 * [Liftosaur](https://www.liftosaur.com/) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets 
-* [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
-* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Workout.lol](https://workout.lol/) - Create Workout Plans
-* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
-* [Hevy](https://www.hevyapp.com/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/), [Kenko](https://github.com/Iamlooker/Kenko) or [FitHero](https://fithero.app/) - Workout Trackers
+* [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
+* [ACTIVE](https://www.active.com/) - Find Local Races & Events
+* [Runlytics](https://www.runlytics.app/) - Running Analytics
+* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
+* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) - Cycling / Biking Trackers
 * [AllTrails](https://www.alltrails.com/) or [TrailRouter](https://trailrouter.com/) - Hiking / Trail Routes
 * [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Database
-* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
-* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
-* [Runlytics](https://www.runlytics.app/) - Running Analytics
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Trackers
+* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [Fitness](https://github.com/wger-project/flutter) / [GitHub](https://github.com/wger-project/wger)
+* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
+* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
 
 ***
 
