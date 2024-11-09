@@ -1438,7 +1438,8 @@
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
 * [Sharkle!](https://sharkle.com/) - Find Random Sites 
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites 
-* [JumpStick](https://jumpstick.app/) - Find Random Sites 
+* [JumpStick](https://jumpstick.app/) - Find Random Sites
+* [Trilzo](https://www.trilzo.com/) - Find Random Sites
 * [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites 
 * [The Forest](https://theforest.link/) - Find Random Sites 
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites 
