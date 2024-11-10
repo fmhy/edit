@@ -30,6 +30,7 @@
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV / 1080p
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://l.cinemadeck.com/discord)
+* [Stigstream](https://stigstream.com/), [2](https://stigstream.xyz/) - Movies / TV / 1080p / [Discord](https://discord.gg/THNWWQ73a7) / [Telegram](https://t.me/stigstreamcom)
 * [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / 1080p / [API](https://moviee.tv/api)
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / 1080p / Use Adblock
