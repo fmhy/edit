@@ -943,7 +943,7 @@
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
-[GG.deals Steam](https://gg.deals/deals/steam-deals/) - Steam Sales
+* [GG.deals](https://gg.deals/deals/)
 * [SteamBase](https://steambase.io/sales) - Steam Sales
 * [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales

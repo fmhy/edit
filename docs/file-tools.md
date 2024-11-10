@@ -9,11 +9,11 @@
 * ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
+* ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photo / Video Files by Date
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
-* [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
@@ -154,17 +154,23 @@
 
 ***
 
-## ▷ File Backup / Sync
+## ▷ File Sync
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
-* ⭐ **[freefilesync](https://freefilesync.org/)** - Open-Source File Backup
-* ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
+* ⭐ **[FreeFileSync](https://freefilesync.org/)** - Open-Source File Sync
 * [MyPhoneExplorer](https://www.fjsoft.at/),[SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
 * [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/WayneD/rsync)
 * [Unison](https://github.com/bcpierce00/unison) - Bidirectional File Sync
+
+***
+
+## ▷ File Backup
+
+* ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
+* ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
 * [FolderClone](https://www.folderclone.com/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
@@ -182,7 +188,7 @@
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
-* [Windows  File Recovery](https://apps.microsoft.com/detail/9n26s50ln705) - File Recovery
+* [Windows File Recovery](https://apps.microsoft.com/detail/9n26s50ln705) - File Recovery
 * [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 
@@ -237,9 +243,59 @@
 
 ***
 
+# ► File Transfer
+
+* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
+* [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
+* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
+* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
+* [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
+* [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
+* [FileZilla](https://filezilla-project.org/) - FTP Client
+* [WinSCP](https://winscp.net/eng/index.php) - FTP Client
+* [Wing FTP](https://www.wftpserver.com/) - FTP Client
+* [Xlight](https://xlightftpd.com/) - FTP Client
+* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
+* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
+
+***
+
+## ▷ P2P Transfer
+
+* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
+* ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
+* ⭐ **[JustBeamIt](https://justbeamit.com/)**
+* ⭐ **[SpaceDrop](https://spacedrop.app/)**
+* [Surge](https://getsurge.io/) - P2P App
+* [Wormhole](https://wormhole.app/)
+* [PairDrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
+* [ShareDrop](https://www.sharedrop.io/)
+* [new.space](https://new.space/)
+* [FilePizza](https://file.pizza/)
+* [TransferNow](https://www.transfernow.net/en)
+* [Horizon Send](https://send.hrzn.cool/)
+* [Salad Room](https://saladroom.net/)
+* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
+* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
+* [sendfilesencrypted.com](https://sendfilesencrypted.com/)
+* [LIGHTNING SHARE](https://lightning-share.vercel.app/)
+* [rDrop](https://rdrop.link/)
+* [WebDrop](https://webdrop.space/)
+* [MyAirBridge.com](https://www.myairbridge.com/)
+* [Sprend](https://sprend.com/)
+* [WebWormhole](https://webwormhole.io/)
+* [EchoDuck](https://echoduck.com/)
+* [FileLove](https://file.love/)
+
+***
+
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
 
 ***
 
@@ -259,9 +315,9 @@
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
+* [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
-* [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
@@ -269,7 +325,7 @@
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
 * [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
 * [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days with Account)
-* [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
+* [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
@@ -281,8 +337,8 @@
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
-* [FilePost](https://file-post.net/) - 3GB / 7 Days / Email Required
-* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [Instances](https://gitlab.com/timvisee/send-instances)
+* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
+* [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
@@ -291,60 +347,6 @@
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
-
-***
-
-## ▷ P2P File Transfer
-
-* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
-* ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
-* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[spacedrop](https://spacedrop.app/)**
-* [wormhole](https://wormhole.app/)
-* [KDEConnect](https://kdeconnect.kde.org/)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
-* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
-* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
-* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
-* [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
-* [sharedrop](https://www.sharedrop.io/)
-* [new.space](https://new.space/)
-* [file.pizza](https://file.pizza/)
-* [Transfernow](https://www.transfernow.net/en)
-* [onionshare](https://onionshare.org/)
-* [Horizon Send](https://send.hrzn.cool/)
-* [WinSCP](https://winscp.net/eng/index.php)
-* [landrop](https://landrop.app/)
-* [Surge](https://getsurge.io/)
-* [saladroom](https://saladroom.net/)
-* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
-* [sendfiles](https://sendfiles.online/)
-* [XD-Torrent](https://xd-torrent.github.io/)
-* [lightning](https://lightning-share.vercel.app/)
-* [RDrop](https://rdrop.link/)
-* [webdrop](https://webdrop.space/)
-* [MyAirBridge](https://www.myairbridge.com/)
-* [Sprend](https://sprend.com/)
-* [JumboMail](https://www.jumbomail.me/)
-* [PlusTransfer](https://www.plustransfer.com/)
-* [Wing FTP](https://www.wftpserver.com/)
-* [Xlight](https://xlightftpd.com/)
-* [FileZilla](https://filezilla-project.org/)
-* [uschovna](https://www.uschovna.cz/)
-* [posilej](https://posilej.cz/)
-* [filetransfer](https://filetransfer.kpn.com/)
-* [WebWormhole](https://webwormhole.io/)
-* [Destiny](https://github.com/LeastAuthority/destiny)
-* [sharrr](https://www.sharrr.com/)
-* [Photon](https://photondev.netlify.app/)
-* [EchoDuck](https://echoduck.com/)
-* [ffsend](https://github.com/timvisee/ffsend)
-* [File.love](https://file.love/)
-* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
-* IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 

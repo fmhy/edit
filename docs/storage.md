@@ -1034,6 +1034,20 @@
 
 ***
 
+## Summarize YouTube Videos
+
+* [Gemini](https://gemini.google.com/)
+* [Solidpoint](https://solidpoint.ai/)
+* [Quickvid](https://quickvid.vercel.app/)
+* [VideoGist](https://www.videogist.co/)
+* [VideoHighlight](https://videohighlight.com/)
+* [Summarize](https://summarize.tech/)
+* [Glarity](https://glarity.app/) - Browser Extension
+* [Glasp](https://glasp.co/youtube-summary) or [Eightify](https://eightify.app/) - Chrome Extensions
+* [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial
+
+***
+
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
