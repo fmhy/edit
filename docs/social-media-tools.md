@@ -357,7 +357,7 @@
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
-* [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
+* [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
