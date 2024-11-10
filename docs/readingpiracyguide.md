@@ -46,14 +46,14 @@
 
 * ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
 * [FullLengthAudiobooks](https://fulllengthaudiobook.com/)
-* [HDAudiobooks](https://hdaudiobooks.com/)
-* [BigAudiobooks](https://bigaudiobooks.com/)
+* [HDAudiobooks](https://hdaudiobooks.net/)
+* [BigAudiobooks](https://bigaudiobooks.club/)
 * [HotAudioBooks](https://hotaudiobooks.com/)
-* [BookAudiobook](https://bookaudiobooks.com/)
+* [BookAudiobook](https://bookaudiobook.net/)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
-* [Audiobooks Lab](https://audiobooklabs.com/)
+* [CD Audiobook](https://cdaudiobook.com/)
 * [zAudiobooks](https://zaudiobooks.com/)
-* [Find Audiobook](https://findaudiobook.com/)
+* [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
@@ -828,8 +828,8 @@
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit 
-* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations / [Downloader](https://greasyfork.org/en/scripts/514877)
-* [Five Books](https://fivebooks.com/) - Curated Book List
+* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
+* [Five Books](https://fivebooks.com/) - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform

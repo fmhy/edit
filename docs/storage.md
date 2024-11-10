@@ -346,7 +346,6 @@
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
-* 🌐 **[Wikileaks Public DNS index](https://wikileaks.org/wiki/Alternative_DNS)** / [2](https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html)
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
 * [NextDNS](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
@@ -386,17 +385,64 @@
 
 ## Free Webhosting Sites
 
-* ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
-* ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[infinityfree](https://infinityfree.com/)**
-* ⭐ **[workers.dev](https://workers.cloudflare.com/)**
-* ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[netlify](https://www.netlify.com/)**
-* ⭐ **[sourcehut pages](https://srht.site/)**
+* [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+* [glitch](https://glitch.com/)
+* [biz.nf](https://www.biz.nf/)
+* [coolify](https://coolify.io/)
+* [awardspace](https://www.awardspace.com/)
+* [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html) / [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/)
+* [ibm cloud](https://www.ibm.com/cloud/free)
+* [hostbreak](https://hostbreak.com/web-hosting/free)
+* [Fleek](https://fleek.co/)
+* [stormkit](https://www.stormkit.io/)
+* [freewebhostingarea](https://www.freewebhostingarea.com/)
+* [milkshake](https://milkshake.app/)
+* [ikoula](https://www.ikoula.com/)
+* [fanspace](http://www.fanspace.com/)
+* [fc2](https://web.fc2.com/en/)
+* [yunohost](https://yunohost.org/)
+* [atspace](https://www.atspace.com/)
+* [aava](https://aava.dy.fi/)
+* [unison](https://www.unison.cloud/)
 
-[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
+### Static Page Hosting
+
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)**
+* ⭐ **[GitHub Pages](https://pages.github.com/)**
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
+* ⭐ **[Sourcehut Pages](https://srht.site/)**
+* [Web 1.0 Hosting](https://web1.0hosting.net/)
+* [Codeberg Pages](https://codeberg.page/)
+* [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [DropPages](https://droppages.com/)
+* [W3Schools Spaces](https://www.w3schools.com/spaces/)
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
+* [render](https://render.com/)
+
+### Dynamic Page Hosting
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* ⭐ **[infinityfree](https://infinityfree.com/)** - 5GB space / 400 MySQL Databases / Free SSL / iFN/ByetNet Reseller
+* [byet.host](https://byet.host/free-hosting) - 5GB space / 400 MySQL Databases / Free SSL
+* [Serv00](https://serv00.com/) - Unlimited Monthly Transfer / 3GB space / 512MB RAM / 10 MySQL Databases / 3 PostgreSQL Databases / 3 MongoDB Databases / Free SSL (Let's Encrypt)
+* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space / Unlimited Databases / Free SSL 
+* [pythonanywhere](https://www.pythonanywhere.com/)
+
+### Website Builders
+
+* **Note** - These are generally made for businesses only.
+* [wix](https://www.wix.com/)
+* [site123](https://www.site123.com/)
+* [WordPress](https://wordpress.com/) / [2](https://wordpress.org/)
+* [jimdo](https://www.jimdo.com/)
+* [tilda](https://tilda.cc/)
+* [x10hosting](https://x10hosting.com/)
+* [olitt](https://www.olitt.com/)
+* [yola](https://www.yola.com/)
+* [bravenet](https://www.bravenet.com/)
 
 ***
 
@@ -522,12 +568,6 @@
 
 ***
 
-## Image Download Extensions
-
-[Download all Images](https://webextension.org/listing/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
-
-***
-
 ## Image Compressors
 
 * ⭐ **[Squoosh](https://squoosh.app/)**
@@ -537,27 +577,6 @@
 ### PNG Compressors
 
 [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng), [PNGQuant](https://pngquant.org/)
-
-***
-
-## Image Converters
-
-[Bulk Image Convert](https://bulkimageconvert.com), [Convertmyimage](https://convert-my-image.com/), [ImageConvert](https://imageconvert.org/), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [minipic](https://minipic.app/)
-
-***
-
-## Image Resizing
-
-* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
-
-[Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/), [Bulk Image Resize](https://bulkimageresize.com/), [ResizeNow](https://www.resizenow.com/en),[BulkResizePhotos](https://bulkresizephotos.com/)
-
-***
-
-## IPTV Tools
-
-[Search](https://www.foodieguide.com/iptvsearch/), [2](https://searchtv.net/) / [Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [Playlists](https://rentry.co/fmhybase64#iptv-playlists) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE) / [CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) / [List Checker](https://github.com/peterpt/IPTV-CHECK)
 
 ***
 
@@ -607,16 +626,6 @@
 * [The Fish Doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Help Fish Migrate
 
 [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
-
-***
-
-## M3U Players
-
-* ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
-
-[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
 
 ***
 

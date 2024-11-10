@@ -87,6 +87,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * PolyMC (minecraft launcher) - Owner [kicked](https://twitter.com/WelsknightPlays/status/1582103229462028289) all members from repo / discord. Keep in mind PollyMC (two L's) is safe.
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
+* Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid.
 
 ***
 

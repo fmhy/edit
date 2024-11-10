@@ -495,7 +495,7 @@
 
 ***
 
-* ⭐ **[Smailpro](https://smailpro.com/)** - Gmail & Outlook / Forever / N/A / 20+ Domains
+* ⭐ **[MailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / Forever / N/A / 20+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
@@ -607,7 +607,7 @@
 * ↪️ **[Translation Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
+* ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_download_extensions)**
 * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_reverse_image_search)**
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
@@ -692,9 +692,9 @@
 ## ▷ Firefox Extensions
 
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)** - Firefox Addon Store
-* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)**, [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
+* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks
