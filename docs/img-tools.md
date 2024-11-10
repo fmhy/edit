@@ -96,8 +96,6 @@
 ## ▷ Image Optimization
 
 * ↪️ **[Image Compressors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_compressors)**
-* ↪️ **[Image Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_converters)**
-* ↪️ **[Image Resizing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_resizing)**
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [RIOT](https://riot-optimizer.com/) - Image Optimization
@@ -456,7 +454,6 @@
 # ► Download Images
 
 * 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexes
-* ↪️ **[Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
@@ -573,6 +570,19 @@
 
 ***
 
+## ▷ Download Extensions
+
+* [Download all Images](https://webextension.org/listing/save-images.html)
+* [Cute Save Button](https://github.com/Dezaimasu/cute-button)
+* [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken)
+* [Save Images](https://github.com/belaviyo/save-images/)
+* [svgexport](https://svgexport.io/)
+* [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg)
+* [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
+* [Image Picka](https://github.com/eight04/image-picka)
+
+***
+
 ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)
 
 ***
@@ -626,6 +636,32 @@
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
+
+***
+
+## ▷ Image Converters
+
+* [Bulk Image Convert](https://bulkimageconvert.com)
+* [Convertmyimage](https://convert-my-image.com/)
+* [ImageConvert](https://imageconvert.org/)
+* [imverter](https://www.imverter.com/)
+* [Raw Pics](https://raw.pics.io/)
+* [Converseen](https://converseen.fasterland.net/)
+* [minipic](https://minipic.app/)
+
+***
+
+## ▷ Image Resizing
+
+* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
+* [Simple Image Resizer](https://www.simpleimageresizer.com/)
+* [ImageResizer](https://imageresizer.com/)
+* [PicResize](https://picresize.com/)
+* [Birme](https://www.birme.net/)
+* [Bulk Image Resize](https://bulkimageresize.com/)
+* [ResizeNow](https://www.resizenow.com/en)
+* [BulkResizePhotos](https://bulkresizephotos.com/)
 
 ***
 
