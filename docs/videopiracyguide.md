@@ -128,7 +128,6 @@
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
-* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
 
 ***
 
