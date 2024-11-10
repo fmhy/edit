@@ -478,7 +478,7 @@
 * 🌐 **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Index
 * ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
-* ⭐ **[PlayPhrase](https://playphrase.me/)**, [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Clip / Phrase Search Engines
+* ⭐ **[PlayPhrase](https://playphrase.me/)**, [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Clip / Phrase Search Engines
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
