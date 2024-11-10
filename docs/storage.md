@@ -406,27 +406,29 @@
 * [aava](https://aava.dy.fi/)
 * [unison](https://www.unison.cloud/)
 
-### Static Page
+### Static Page Hosting
 
-* ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)**
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
-* ⭐ **[firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[workers.dev](https://workers.cloudflare.com/)**
-* ⭐ **[sourcehut pages](https://srht.site/)**
-* [0hosting](https://web1.0hosting.net/)
-* [codeberg](https://codeberg.page/)
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
+* ⭐ **[Sourcehut Pages](https://srht.site/)**
+* [Web 1.0 Hosting](https://web1.0hosting.net/)
+* [Codeberg Pages](https://codeberg.page/)
 * [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
-* [droppages](https://droppages.com/)
-* [w3schools](https://www.w3schools.com/spaces/)
+* [DropPages](https://droppages.com/)
+* [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
 * [render](https://render.com/)
 
-### Dynamic Page
+### Dynamic Page Hosting
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**
-* [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer)
-* [leprd.space](https://leprd.space/)
+* ⭐ **[infinityfree](https://infinityfree.com/)** - 5GB space / 400 MySQL Databases / Free SSL / iFN/ByetNet Reseller
+* [byet.host](https://byet.host/free-hosting) - 5GB space / 400 MySQL Databases / Free SSL
+* [Serv00](https://serv00.com/) - Unlimited Monthly Transfer / 3GB space / 512MB RAM / 10 MySQL Databases / 3 PostgreSQL Databases / 3 MongoDB Databases / Free SSL (Let's Encrypt)
+* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space / Unlimited Databases / Free SSL 
 * [pythonanywhere](https://www.pythonanywhere.com/)
 
 ### Website Builders
@@ -441,12 +443,6 @@
 * [olitt](https://www.olitt.com/)
 * [yola](https://www.yola.com/)
 * [bravenet](https://www.bravenet.com/)
-
-### Resellers 
-
-* ⭐ **[infinityfree](https://infinityfree.com/)**
-* [uhostfull](https://www.uhostfull.com/)
-* [byet.host](https://byet.host/free-hosting)
 
 ***
 
