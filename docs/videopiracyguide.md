@@ -39,7 +39,6 @@
 * [BFlix](https://nitestv.co/) - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / 4K
 * [Free Cinema](https://freecinema.live/) - Movies / TV / Anime / 1080p
-* [Watchug](https://watchug.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/watchugofficial)
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / 1080p / [Discord](https://discord.com/invite/3B3X6JEB7P)
 * [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
 * [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / 4K / 1080p / [Note](https://pastebin.com/T9kHqc0v)
@@ -376,7 +375,6 @@
 
 ## ▷ Live TV
 
-* ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://rentry.co/FMHYBase64#iptv-playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [Generate Playlists](https://github.com/gogetta69/TMDB-To-VOD-Playlist)
 * ⭐ **[TheTVApp](https://thetvapp.to/)** - TV / Sports
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
@@ -536,6 +534,27 @@
 * [Rugby24](https://rugby24.net/) - Rugby Replays
 
 ***
+
+## ▷ IPTV Tools
+
+* 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
+* ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
+* ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** - IPTV Player / [Unlock](https://rentry.co/FMHYBase64#best-player)
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player 
+* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player 
+* [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - IPTV Player 
+* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player 
+* [IPTV Playlists](https://rentry.co/fmhybase64#iptv-playlists) - List of Playlists
+* [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
+* [IPTVSearch](https://www.foodieguide.com/iptvsearch/) or [SearchTV](https://searchtv.net/) - IPTV Search Engines
+* [IPTV Community](https://iptv.community/) - IPTV Forum
+* [CaberNetwork](https://cabernetwork.github.io/) - IPTV Manager
+* [SipTV Converter](https://siptv.eu/converter/) - M3U to TXT
+* [M3U4U](https://m3u4u.com/) - M3U Editor
+* [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - M3U Downloader
+* [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - M3U CLI
+* [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
+
 ***
 
 # ► Smart TV / Firestick
@@ -591,7 +610,6 @@
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
-* [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p
