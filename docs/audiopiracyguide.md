@@ -220,7 +220,6 @@
 * [Ambicular](https://ambicular.com/) - Lofi Radio
 * [Lofi Music](https://lofimusic.app/) - Lofi Radio
 * [Loofi](https://loofi.netlify.app/) - Lofi Radio
-* [lofi](https://lofi.co/) - Lofi Radio
 * [lofi.cafe](https://www.lofi.cafe/) - Lofi Radio
 * [Lofi Club](https://loficlub.vercel.app/) - Lofi Radio
 * [Lofi Limo](https://lofi.limo/) - Lofi Radio
