@@ -91,7 +91,7 @@
 
 ## ▷ Single Server
 
-* **Note** - In some cases these can be just as fast, if not faster than some of the multi-hosts.
+* **Note** - In some cases these can be just as fast, if not faster than multi-hosts.
 
 ***
 
