@@ -725,7 +725,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
-* ⭐ **[HLTV](https://www.hltv.org/)** - Counter-Strike News
+* ⭐ **[HLTV](https://www.hltv.org/)**or [Dust2](https://www.dust2.us/) - Counter-Strike News
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config

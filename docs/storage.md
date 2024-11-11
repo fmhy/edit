@@ -389,22 +389,12 @@
 * [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [glitch](https://glitch.com/)
 * [biz.nf](https://www.biz.nf/)
-* [coolify](https://coolify.io/)
 * [awardspace](https://www.awardspace.com/)
-* [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html) / [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/)
 * [ibm cloud](https://www.ibm.com/cloud/free)
-* [hostbreak](https://hostbreak.com/web-hosting/free)
 * [Fleek](https://fleek.co/)
 * [stormkit](https://www.stormkit.io/)
-* [freewebhostingarea](https://www.freewebhostingarea.com/)
 * [milkshake](https://milkshake.app/)
-* [ikoula](https://www.ikoula.com/)
-* [fanspace](http://www.fanspace.com/)
-* [fc2](https://web.fc2.com/en/)
-* [yunohost](https://yunohost.org/)
 * [atspace](https://www.atspace.com/)
-* [aava](https://aava.dy.fi/)
-* [unison](https://www.unison.cloud/)
 
 ### Static Page Hosting
 

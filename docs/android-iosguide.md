@@ -834,7 +834,7 @@ https://github.com/Akylas/alpimaps
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
-* [Gyawun](https://jhelumcorp.github.io/) - YouTube Music Player
+* [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio Downloader
 * [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio Downloader
 * [Seal](https://github.com/JunkFood02/Seal) - YouTube Audio Downloader
