@@ -23,10 +23,10 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/GbW6gzAKgc)
-* [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
