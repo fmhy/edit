@@ -58,7 +58,6 @@
 * [Movietly](https://movietly.com/home/) - Movies / TV / Anime
 * [FMoviesHD](https://fmovies-hd.to/) - Movies / TV / Anime
 * [Soap2DayHD](https://ww12.soap2dayhd.co/) - Movies / TV / Anime
-* [FlixHQ.lol](https://flixhq.lol/) - Movies / TV Anime
 * [VidCloud](https://vidcloud1.com/) - Movies
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime
@@ -97,10 +96,9 @@
 
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://hbosus.com) - Movies / TV / Anime / 4K / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
-* ⭐ **[FshareTV](https://fsharetv.co/)** - Movies
-* [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
+* [SusFlix](https://susflix.tv/), [2](https://hbosus.com) - Movies / TV / Anime / 4K / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
+* [FshareTV](https://fsharetv.co/) - Movies
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
 * [Soaper.TV](https://soaper.tv/), [2](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
 * [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
@@ -108,6 +106,15 @@
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p only / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup / US Only
+* [English Movies](https://m.vk.com/english_movies) - Movies
+* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
+
+***
+
+## ▷ Free w/ Ads
+
+* ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
+* ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
 * [Freevee](https://www.amazon.com/gp/video/storefront/subscription/freewithads) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
@@ -122,8 +129,6 @@
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / 720p
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
-* [English Movies](https://m.vk.com/english_movies) - Movies
-* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
 
 ***
 
@@ -320,7 +325,6 @@
 
 ***
 
-* ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
 * ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
 * ⭐ **[OK](https://ok.ru/video)**
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
@@ -549,7 +553,6 @@
 * [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
 * [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
-* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
 * [Tizentube](https://tizentube.vercel.app/) - Block Samsung Smart TV YouTube Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad-Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
