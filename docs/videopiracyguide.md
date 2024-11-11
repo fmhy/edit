@@ -16,6 +16,7 @@
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.com/), [3](https://nunflix-firebase.web.app/), [4](https://nunflix-ey9.pages.dev/), [5](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://docs.undi.rest/instances) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://docs.undi.rest/)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
@@ -23,7 +24,6 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/GbW6gzAKgc)
