@@ -91,6 +91,10 @@
 
 ## ▷ Single Server
 
+* **Note** - In some cases these can be just as fast, if not faster than some of the multi-hosts.
+
+***
+
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://hbosus.com) - Movies / TV / Anime / 4K / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
