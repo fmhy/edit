@@ -39,8 +39,8 @@
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [FatmanTutorial](https://archive.org/details/fatmantutorial) - How to Repack Games
-* [How Denuvo Works](https://rentry.co/denuvo)
+* [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
+* [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
 ***
 

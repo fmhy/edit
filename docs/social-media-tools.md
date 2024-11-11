@@ -350,7 +350,6 @@
 * 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools Index
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
-* [YT CPU Tamer](https://greasyfork.org/en/scripts/431573), [YT JS Engine Tamer](https://greasyfork.org/en/scripts/473972), [Unhold YT Resource Locks](https://greasyfork.org/en/scripts/457205), [YT Super Fast Chat](https://greasyfork.org/en/scripts/469878) or [YT Web Tweaks](https://greasyfork.org/en/scripts/447802) - YouTube Optimization Userscripts
 * [YouTube Wrapped](https://videorecap.viewodyssey.com/) - Personal YouTube Rewind
 * [YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
@@ -439,9 +438,8 @@
 
 ## ▷ Playlist Tools
 
-* ⭐ **[Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/)** - Create Anon Playlists
+* ⭐ **[Playlists at YouTube](https://playlists.at/youtube/)** or [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) - Playlists Creators
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
 * [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
 * [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sort Your Playlists
 * [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser

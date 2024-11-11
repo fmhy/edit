@@ -109,7 +109,7 @@
 ## ▷ File Explorers
 
 * ⭐ **[Files](https://files.community/)** - Customizable Windows File Manager
-* [Directory Opus](https://rentry.co/FMHYBase64#directory-opus) - Windows File Manager
+* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
 * [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager

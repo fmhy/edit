@@ -64,6 +64,7 @@
 
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
 * ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - YouTube Music Client / [GitHub](https://github.com/KRTirtho/spotube)
+* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [MooSync](https://moosync.app/) - YouTube Music Client / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
@@ -74,7 +75,6 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [Mixtape Garden](https://mixtapegarden.com/) - Create / Share Mixtapes
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties

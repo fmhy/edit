@@ -327,7 +327,6 @@
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
 * [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators

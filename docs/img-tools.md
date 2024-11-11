@@ -379,7 +379,7 @@
 * [AvaxGFX](https://avxgfx.com/)
 * [Freeject](https://www.freeject.net/)
 * [Cg_peers](https://t.me/Cg_peers)
-* [PDFTree](https://pngtree.com/)
+* [PNGTree](https://pngtree.com/)
 * [NitroGFX](https://nitrogfx.pro/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
@@ -595,7 +595,7 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
-* [PicSynth](https://www.picsynth.me/), [WebOasis Editors](https://weboasis.app/editors/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
+* [PicSynth](https://www.picsynth.me/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Librerest](https://librerest.bunk.lol/) / [GitHub](https://github.com/emppu-dev/librerest) or [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends

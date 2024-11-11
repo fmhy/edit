@@ -961,7 +961,7 @@ https://github.com/Akylas/alpimaps
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
 * [Tunity](https://tunity.com/) - Hear Muted TVs
-* [Showly OSS](https://github.com/1RandomDev/showly-oss) or [DroidShows](https://github.com/ltguillaume/droidshows) - TV Trackers
+* [Showly](https://github.com/michaldrabik/showly) or [DroidShows](https://github.com/ltguillaume/droidshows) - TV Trackers
 * [BoxBox](https://github.com/BrightDV/BoxBox) - Formula 1 News / Rankings
 
 ***
