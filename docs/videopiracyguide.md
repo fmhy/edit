@@ -19,17 +19,17 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime
-* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[CorsFlix](https://corsflix.us.kg/)** - Movies / TV / Anime
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
-* ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
-* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/GbW6gzAKgc)
+* [KipFlix](https://kipflix.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
+* [Broflix](https://broflix.cc/) - Movies / TV / Anime
+* [PressPlay](https://www.pressplay.top/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
+* [StreamFlix](https://watch.streamflix.one/), [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
+* [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / 1080 / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / [Discord](https://l.cinemadeck.com/discord)
 * [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / [API](https://moviee.tv/api)
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
