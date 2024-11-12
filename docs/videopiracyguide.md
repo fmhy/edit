@@ -8,6 +8,7 @@
 
 ## ▷ Multi Server
 
+* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / 4K
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
@@ -91,7 +92,6 @@
 
 ***
 
-* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
 * [SusFlix](https://susflix.tv/), [2](https://hbosus.com) - Movies / TV / Anime / 4K / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
