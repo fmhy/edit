@@ -169,6 +169,7 @@
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
+*  [Kaido](https://kaido.cc/) - Sub / Dub 
 * [LMAnime](https://lmanime.com/) - Chinese Anime / Sub
 * [MyAnime](https://myanime.live/) - Chinese Anime / Sub
 * [Animekhor](https://animekhor.org/) - Chinese Anime / Sub / [Telegram](https://t.me/AnimeKhorOfficial)
