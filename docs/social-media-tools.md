@@ -281,7 +281,6 @@
 * [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
-* [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
 * [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis

@@ -89,14 +89,12 @@
 * [AllBooksWorld](https://allbooksworld.com/) - Books
 * [Only Books](https://onlybooks.org/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [Read Novels](https://en.novelonlineread.com/) - Books
 * [TPB Books](https://thepiratebay.org/search.php?q=top100:601) - Books / Torrents / **Avoid Software / Games**
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
 * [DigiLibraries](https://digilibraries.com/) - Books
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
-* [ebooksz](https://ebooksz.net/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
@@ -373,7 +371,7 @@
 * [MangaKatana](https://mangakatana.com/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.wiki/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
+* [Madokami](https://wotaku.wiki/guides/manga/madokami) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
@@ -566,7 +564,6 @@
 * [SuperKuh](http://erewhon.superkuh.com/library/)
 * [Non_Fic](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
-* [FreeBookCentre](https://www.freebookcentre.net/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Books / Journals
 * [JSTor](https://www.jstor.org/) - Books / Journals

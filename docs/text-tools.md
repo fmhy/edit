@@ -49,7 +49,6 @@
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy)
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
-* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
 * [paste.fo](https://paste.fo/) - Multi-Syntax
 * [BitBin](https://bitbin.it/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
@@ -72,8 +71,8 @@
 
 ***
 
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)**, [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) /  [API](https://github.com/vitalets/google-translate-api)
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
-* ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend

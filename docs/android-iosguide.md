@@ -575,6 +575,7 @@
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
 * [TheFor](https://thefor.xyz/) - Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Productivity Tracker / App Blocker
+* [StayFree](https://stayfreeapps.com/⁠) - Productivity Tracker / App Blocker
 * [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker

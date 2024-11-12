@@ -98,6 +98,7 @@
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
+* [zvu4no](https://zvu4no.org/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
@@ -182,6 +183,7 @@
 * [PodParadise](https://www.podparadise.com/) - Podcasts
 * [Podbean](https://www.podbean.com/) - Podcasts
 * [Podbay](https://podbay.fm/) - Podcasts
+* [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) - Podcasts / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [podcastindex](https://podcastindex.org/) - Podcasts
 * [player.fm](https://player.fm/) - Podcasts
 * [Podcast Republic](https://www.podcastrepublic.net/) - Podcasts
@@ -346,6 +348,7 @@
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
+* [zvu4no](https://zvu4no.org/) - MP3
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC

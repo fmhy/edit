@@ -361,7 +361,6 @@
 * ⭐ **[Hotstream](https://hotstream.at/)** - Movies / TV / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
-* [Atstream](https://atstream.xyz/) - Movies / TV / Anime / Dub / 1080p
 * [Wiflix](https://wiflix-catalogue.pro/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Coflix](https://coflix.plus/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/Coflix1)
@@ -378,7 +377,6 @@
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
 * [VostFree](https://vostfree.ws/) - Anime / Sub / 1080p
-* [animevostfr](https://animevostfr.tv/) - Anime / Sub / 1080p
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p / [Discord](https://discord.gg/Pjs5p5TrEW)
@@ -396,7 +394,6 @@
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planet-DB](https://planete-bd.org/) - Manga / Comics
-* [mangascan](https://scanmanga-vf.me/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
 * [oraedes](https://oraedes.fr/) - Occult / Esoteric

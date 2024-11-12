@@ -946,7 +946,7 @@
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
-* [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
+* [LearnYouHaskell](https://learnyouahaskell.github.io/) - Haskell Guide
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips

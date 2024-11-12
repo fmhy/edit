@@ -300,12 +300,13 @@
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker
-* [mediaelch](https://github.com/komet/mediaelch) - Media Manager
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 
 ***
 
