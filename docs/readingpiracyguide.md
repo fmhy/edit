@@ -451,7 +451,6 @@
 * [NovelNext](https://novelnext.com/)
 * [NovelBuddy](https://novelbuddy.io/)
 * [Wuxia Blog](https://www.wuxia.blog)
-* [WuxiaSpot](https://www.wuxiaspot.com/)
 * [Readwn](https://www.readwn.com/)
 * [NovelCool](https://www.novelcool.com/)
 * [Novels.pl](https://www.novels.pl/)
