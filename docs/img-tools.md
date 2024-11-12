@@ -175,7 +175,6 @@
 * [PaintOnline](https://paintonline.com.br/paint.html) - Browser Painting
 * [jspaint](https://jspaint.app/) - Browser Painting
 * [PinTor](https://pintor.app/) - Browser Painting
-* [miniPaint](https://viliusle.github.io/miniPaint/) - Browser Painting
 * [Tegaki](https://desuwa.github.io/tegaki.html) - Browser Painting
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
