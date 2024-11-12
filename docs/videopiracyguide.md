@@ -994,3 +994,4 @@
 * [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
+* [FlixScrape](https://flixscrape.whvx.net) - Movies / TV / API
