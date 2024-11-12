@@ -111,10 +111,6 @@
 
 ## ▷ Free w/ Ads
 
-* **Note** - An adblocker like uBO should always be used when accessing these sites.
-
-***
-
 * ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
 * ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
