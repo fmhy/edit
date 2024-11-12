@@ -26,10 +26,10 @@
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
-* [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
+* [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
-* [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP) 
+* [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
 * [NextChat](https://free.xiercloud.top/), [THZStudent](https://chatgpt.thzstudent.top/), [TypeGPT](https://chat.typegpt.net/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
@@ -65,7 +65,7 @@
 * [uncovr](https://uncovr.app/) - AI Search Engine / No Signup / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / No Signup / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine / No Signup
-* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine / Self-Hosted 
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine / Self-Hosted
 
 ***
 
@@ -115,7 +115,7 @@
 * ⭐ **[Codeium](https://codeium.com/)** - Coding AI / No Signup / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Signup / [Docs](https://docs.pieces.app)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Signup
-* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
+* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews
 * [Devv](https://devv.ai/) - Coding Search Engine / No Signup
 * [Telosys](https://www.telosys.org/) - Lightweight Code Generator / No Signup
 * [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
@@ -196,6 +196,7 @@
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 * [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/) - LLM Pricing Index
+* [AI Submit](https://ai-submit.com/) - AI Directory
 
 ***
 
@@ -286,7 +287,7 @@
 * [Pixvify](https://pixvify.com/) / Unlimited
 * [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
-* [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup 
+* [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Signup
@@ -298,8 +299,8 @@
 * [Moescape](https://moescape.ai/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [PixAI](https://pixai.art/) / 10 Daily
-* [HotPot](https://hotpot.ai/) / No Signup 
-* [Glif](https://glif.app/) / No Signup 
+* [HotPot](https://hotpot.ai/) / No Signup
+* [Glif](https://glif.app/) / No Signup
 * [AlpacaML](https://www.alpacaml.com/) - AI Powered Canvas
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Mobians](https://mobians.ai/) - Sonic Image Generator
@@ -417,7 +418,7 @@
 ## ▷ Voice Change / Clone
 
 * ⭐ **[Applio](https://github.com/IAHispano/Applio)** - Voice Cloning  / No Signup / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/products/playground)
-* ⭐ **[weights.gg](https://www.weights.gg/)** / [Discord](https://discord.gg/aihub) or [Voice Models](https://voice-models.com/) - AI Voice Models and Guides  
+* ⭐ **[weights.gg](https://www.weights.gg/)** / [Discord](https://discord.gg/aihub) or [Voice Models](https://voice-models.com/) - AI Voice Models and Guides
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Real-Time Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) / No Signup
