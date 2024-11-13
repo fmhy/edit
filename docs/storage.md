@@ -389,7 +389,6 @@
 * [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [glitch](https://glitch.com/)
 * [biz.nf](https://www.biz.nf/)
-* [awardspace](https://www.awardspace.com/)
 * [ibm cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.co/)
 * [stormkit](https://www.stormkit.io/)

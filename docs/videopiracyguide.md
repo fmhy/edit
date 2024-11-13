@@ -82,7 +82,6 @@
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime
-* [EMovies](https://emovies.si/), [2](https://xtv.to/) - Movies / TV / Anime
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 
