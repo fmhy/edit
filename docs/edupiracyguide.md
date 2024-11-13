@@ -258,6 +258,7 @@
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 * [MIMO](https://mimo-international.com/MIMO/) - Musical Instrument Database
+* [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free
 
 ***
 
