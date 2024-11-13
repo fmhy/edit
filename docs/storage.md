@@ -414,10 +414,10 @@
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[infinityfree](https://infinityfree.com/)** - 5GB space / 400 MySQL Databases / Free SSL / iFN/ByetNet Reseller
-* [byet.host](https://byet.host/free-hosting) - 5GB space / 400 MySQL Databases / Free SSL
-* [Serv00](https://serv00.com/) - Unlimited Monthly Transfer / 3GB space / 512MB RAM / 10 MySQL Databases / 3 PostgreSQL Databases / 3 MongoDB Databases / Free SSL (Let's Encrypt)
-* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space / Unlimited Databases / Free SSL 
+* ⭐ **[Serv00](https://serv00.com/)** - Unlimited Monthly Transfer / 3GB space
+* [infinityfree](https://infinityfree.com/) - 5GB space
+* [byet.host](https://byet.host/free-hosting) - 5GB Space
+* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space
 * [pythonanywhere](https://www.pythonanywhere.com/)
 
 ### Website Builders
