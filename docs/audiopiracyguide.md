@@ -250,7 +250,6 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Important Note](https://rentry.co/LucidaDoubleDouble)
 * ⭐ **[cobalt](https://cobalt.tools/)** - [Multi-Site](https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services) / 320kb / MP3 / Ad-Free
 * ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://qobuz.vercel.app/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC

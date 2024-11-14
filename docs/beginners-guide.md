@@ -34,7 +34,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [Nunflix](https://nunflix.org/)** 
+* **Streaming: **[Freek](https://freek.to/) / [Cineby](https://www.cineby.ru/) / [NEPU](https://nepu.to/)**
 * **Downloading:  [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**

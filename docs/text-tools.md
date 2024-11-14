@@ -136,14 +136,18 @@
 
 ## ▷ Grammar Check
 
-* ⭐ **[DeepL Write](https://www.deepl.com/write)**
-* [LanguageTool](https://languagetool.org/)
-* [EditGPT](https://www.editgpt.app/)
-* [Grammarly](https://www.grammarly.com/grammar-check)
-* [ProWritingAid](https://prowritingaid.com/grammar-checker)
-* [Outwrite](https://www.outwrite.com/)
+* **Notes** - Most chatbots in the AI section can also check grammar. 
+
+***
+
+* ⭐ **[LanguageTool](https://languagetool.org/)**
+* [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
+* [EditGPT](https://www.editgpt.app/) -  Signup Required
+* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
+* [Outwrite](https://www.outwrite.com/) -  Signup Required
 
 ***
 

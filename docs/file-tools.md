@@ -358,7 +358,7 @@
 
 * ⭐ **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Policies
 * ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3 for 1TB
-* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
+* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [Retention Note](https://pastebin.com/SZ82FEL9) / [GitHub](https://github.com/meganz)
 * ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2 for 1TB
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites

@@ -260,7 +260,7 @@
 
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
-* [Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)
+* 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
 * [Usenet Providers Map](https://mediavoid.io/map.svg)
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)

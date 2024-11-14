@@ -63,6 +63,7 @@
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
 * [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
+* [Start.me](https://about.start.me/) - Web-Based Manager
 * [Bort](https://bort.io/) - Web-Based Manager / Dropbox Sync
 * [WebCull](https://webcull.com/) - Web-Based Manager
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
@@ -371,6 +372,7 @@
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
+* [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)

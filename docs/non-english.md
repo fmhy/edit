@@ -220,6 +220,7 @@
 * [ixdzs](https://ixdzs8.tw/) - Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
+* [hallowlib](https://bk.hallowlib.org/) - Fiction / Non-fiction
 * [haodoo](https://haodoo.net/) - Fiction
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction / [Telegram](https://t.me/hi24hbook)
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Fiction
@@ -435,6 +436,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[HDFilme](https://hdfilme.plus/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
@@ -591,6 +593,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
@@ -1013,6 +1016,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
@@ -1428,6 +1432,7 @@
 
 ## ▷ Streaming / Streamear
 
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[Cuevana](https://cuevana.si/)** - Movies / TV / Anime / 1080p / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)

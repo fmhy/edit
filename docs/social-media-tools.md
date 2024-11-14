@@ -113,6 +113,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [Music Presence](https://github.com/ungive/discord-music-presence) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
 * [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence
@@ -631,7 +632,6 @@
 * [Caprine](https://github.com/sindresorhus/caprine) - Facebook Desktop Messenger
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
-* [FDown](https://fdown.net/) or [GetFVid](https://www.getfvid.com/) - Facebook Video Downloaders
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search

@@ -354,6 +354,7 @@
 ## ▷ Historic Maps
 
 * ⭐ **[David Rumsey Map Collection](https://www.davidrumsey.com/)** - Historical Map Collection
+* ⭐ **[Running Reality](https://www.runningreality.org/)** or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
 * [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
 * [Cronobook](https://cronobook.com/) - Historic Street View
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
@@ -361,7 +362,6 @@
 * [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
 * [NYPL Digital Collections](https://digitalcollections.nypl.org/collections/lane/maps-atlases) - Historic Maps & Atlases
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
-* [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Map
 * [Historic Borders](https://historicborders.app/) - Borders History Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire

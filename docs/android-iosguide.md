@@ -484,6 +484,7 @@
 * [Blabber.im](https://blabber.im/) or [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Apps
 * [IRCCloud](https://github.com/irccloud/android) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
 * [Bridgefy](https://bridgefy.me/) - Offline Messaging App
+* [Boorusama](https://github.com/khoadng/Boorusama) - Booru Client / [Discord](https://discord.gg/tvyYVxjfBr)
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [GMS-Flags](https://github.com/polodarb/GMS-Flags) - Turn Google Flags On/Off / Root
@@ -830,7 +831,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune), [3](https://github.com/DD3Boh/OuterTune) - YouTube Music Player
 * ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
-* [RiMusic](https://rimusic.xyz) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
+* [RiMusic](https://github.com/fast4x/RiMusic) - YouTube Music Player
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
@@ -1170,9 +1171,9 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)** or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
 * ⭐ **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://sidestore.io/) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
-* ⭐ **PDALife - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/)** / [Telegram](https://t.me/pdalife_official)
+* ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram
