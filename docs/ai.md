@@ -29,6 +29,7 @@
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
+* [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
 * [NextChat](https://free.xiercloud.top/), [THZStudent](https://chatgpt.thzstudent.top/), [TypeGPT](https://chat.typegpt.net/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
@@ -260,10 +261,8 @@
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
-* ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators / No Signup
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
-* [flux/dev](https://fal.ai/models/fal-ai/flux/dev) or [flux/schnell](https://fal.ai/models/fal-ai/flux/schnell) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / Unlimited / No Signup / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
