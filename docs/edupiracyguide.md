@@ -511,8 +511,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
 * ⭐ **[Desmos](https://www.desmos.com/)** or [GeoGebra](https://www.geogebra.org/) - Graphing Calculators
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)** or [CEmu](https://github.com/CE-Programming/CEmu) or **[ti84calc](https://ti84calc.com/)** - TI-84 Calculators
-* ⭐ **[ti30calc](https://ti84calc.com/ti30)** - TI-30XS Calculator
+* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu) or [ti84calc](https://ti84calc.com/)** - TI-84 Calculators
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
@@ -522,6 +521,7 @@
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
+* [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
 * [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
@@ -1354,7 +1354,6 @@
 ## ▷ Wikipedia Tools
  
 * [HatNote](https://top.hatnote.com/) - Top Pages
-* [Deletionpedia](https://deletionpedia.org/en/Main_Page) - Deleted Pages
 * [HyperLeak](https://hyperleap.com/), [2](https://reversepedia.org/) - Page Connections
 * [Wiki Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) - Dark Mode
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
