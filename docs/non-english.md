@@ -1675,10 +1675,8 @@
 
 ## ▷ Downloading / Tải xuống
 
+* ⭐ **[HDVietnam](https://www.hdvietnam.xyz/)** - Video / Audio
 * [Fshare](https://timfshare.com/) - Video / Audio
-* [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
-* [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
-* [HDVietnam](https://www.hdvietnam.xyz/) - Video / Audio
 * [NhacHay360](https://nhachayvn.net/) - Music
 
 ## ▷ Torrenting / Tải tệp bằng torrent
