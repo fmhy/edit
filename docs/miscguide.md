@@ -1136,7 +1136,6 @@
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [Pithee](https://pithee.com/) - Rank Shitposting
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
-* [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
@@ -1349,6 +1348,7 @@
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [elgooG](https://elgoog.im/) - Google Easter Eggs
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
+* * [Neal.Fun](https://neal.fun) - Explore Interesting Pages
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
