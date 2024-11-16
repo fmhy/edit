@@ -770,6 +770,8 @@
 * [FastPic](https://fastpic.org/)
 * [dutov](https://dutov.org/)
 * [Piczel](https://piczel.tv/) - Online Art Gallery
+* [Take-me-to-space](https://take-me-to.space/)
+* [Beeimg](https://beeimg.com/)
 
 ***
 
