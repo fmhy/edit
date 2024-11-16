@@ -306,12 +306,12 @@
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / **[Use Adblocker](https://rentry.org/zo2dcbkp)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[file.haus](https://filehaus.top/)** - 300GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
+* [Buzzheavier](https://buzzheavier.com/) - Unlimited / 30 Days+ / **[Use Adblocker](https://rentry.org/zo2dcbkp)** / [Discord](https://discord.gg/ttQjgC28WP)
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)

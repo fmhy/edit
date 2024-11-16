@@ -86,7 +86,7 @@
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic) / [Better Lyrics](https://chromewebstore.google.com/detail/better-lyrics-lyrics-for/effdbpeggelllpfkjppbokhmmiinhlmg)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
-* ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
+* ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/16767/) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [Spotify Web Client](https://open.spotify.com/)
 * [Groovesharks](https://groovesharks.org/) - Browser Music
@@ -426,7 +426,7 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[Redacted](https://redacted.ch/)** - MP3 / FLAC [Interviews](https://interviewfor.red/)
+* ⭐ **[Redacted](https://redacted.ch/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC
@@ -442,7 +442,7 @@
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
-* [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [TheTradersDen](http://www.thetradersden.org/), [etreedb](https://etreedb.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
+* [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [TheTradersDen](http://www.thetradersden.org/), [etreedb](https://etreedb.org/) or [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***

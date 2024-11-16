@@ -39,7 +39,7 @@
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
 * [Toolscord](https://toolscord.com/) or [Discord Avatar](https://discord-avatar.com/) - Download Discord Avatars
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
-* [Discrub](https://github.com/prathercc/discrub-ext) - Message manipulation and Export tool  / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
+* [Discrub](https://github.com/prathercc/discrub-ext) - Message Manipulation / Export Tool
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
 * [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
@@ -324,7 +324,6 @@
 ## ▷ Telegram Bots
 
 * 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) or [borodutch.eth](https://borodutch.com/)- Telegram Bots Indexes
-* [TG Bot](https://t.me/drlinkbot) - Ad Link Bypass Bot / [GitHub](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
 * [ongaku](https://github.com/likeadragonmaid/Ongaku) - Display Playing Android Audio in Status
 * [Searchee Bot](https://t.me/SearcheeBot) - Telegram Channel Search Bot

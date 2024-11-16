@@ -10,16 +10,16 @@
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone No. Required
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
+* [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat), [AIAssistantBot](https://aiassistantbot.netlify.app/) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / No Signup / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
+* [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
@@ -99,7 +99,6 @@
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / No Signup / [Web App](https://lite.koboldai.net/)
-* [Moescape](https://moescape.ai/) - Roleplaying Chatbot
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot / No Signup

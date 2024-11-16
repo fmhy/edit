@@ -262,7 +262,7 @@
 ## ▷ Password Privacy / 2FA
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - Windows / Linux / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA
 * ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
