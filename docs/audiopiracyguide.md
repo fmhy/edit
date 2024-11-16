@@ -43,17 +43,17 @@
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
-* [Spotalike](https://spotalike.com/) - Spotify Playlist Generator
-* [playlist-generator](https://www.playlist-generator.com/) - Spotify Playlist Generator
-* [Chat Jams](https://www.chatjams.ai/) - Spotify Playlist Generator
-* [MagicPlaylist](https://magicplaylist.co/) - Spotify Playlist Generator
-* [Vibesition](https://vibesition.jordantwells.com/) - Spotify Playlist Generator
-* [NautrualLanguage](https://www.naturallanguageplaylist.com/) - Spotify Playlist Generator
-* [Groovifi](https://groovifi.com/) - Spotify Playlist Generator
-* [spotgen](https://epsil.github.io/spotgen) - Spotify Playlist Generator
-* [Highlights2SPotify](https://highlights2spotify.com/) - Spotify Playlist Generator
-* [Moodify](https://moodify.app/) - Spotify Playlist Generator
-* [RadioNewify](https://radionewify.com/) - Spotify Playlist Generator
+* [Spotalike](https://spotalike.com/) - Playlist Generator
+* [playlist-generator](https://www.playlist-generator.com/) - Playlist Generator
+* [Chat Jams](https://www.chatjams.ai/) - Playlist Generator
+* [MagicPlaylist](https://magicplaylist.co/) - Playlist Generator
+* [Vibesition](https://vibesition.jordantwells.com/) - Playlist Generator
+* [NautrualLanguage](https://www.naturallanguageplaylist.com/) - Playlist Generator
+* [Groovifi](https://groovifi.com/) - Playlist Generator
+* [spotgen](https://epsil.github.io/spotgen) - Playlist Generator
+* [Highlights2SPotify](https://highlights2spotify.com/) - Playlist Generator
+* [Moodify](https://moodify.app/) - Playlist Generator
+* [RadioNewify](https://radionewify.com/) - Playlist Generator
 
 ***
 
