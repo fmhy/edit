@@ -26,6 +26,7 @@
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/) - Scene / Sub-Scene Database
+* [Download File Hunter](https://download.file-hunter.com/) - Open Directory 
 
 ***
 
