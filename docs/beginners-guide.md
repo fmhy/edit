@@ -85,7 +85,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Antivirus
 
-> How can I safely scan files, and determine if detection's are false positives?
+> How can I safely scan files, and determine if detections are false positives?
 
 Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
 
