@@ -84,7 +84,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy is unrelated
-* PolyMC (minecraft launcher) - Owner [kicked](https://twitter.com/WelsknightPlays/status/1582103229462028289) all members from repo / discord. Keep in mind PollyMC (two L's) is safe.
+* PolyMC (minecraft launcher) - Owner [kicked](https://twitter.com/WelsknightPlays/status/1582103229462028289) all members from repo / discord. Keep in mind PollyMC (double L) is safe.
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid.
