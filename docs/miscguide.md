@@ -12,6 +12,7 @@
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
+* ⭐ **[MediaSavvy](https://mediasavvy.pages.dev/)** - An All Purpose Wiki
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [lists](https://github.com/jnv/lists) - List Index
@@ -34,6 +35,8 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [ImageBoards](https://imageboards.net/) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
+* [BOOKMRKS-MTHRFCKR-II](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II) - Site / Tool Index
+* [Cool Websites](https://rentry.co/cool_websites#megathreadswikislists) - Site / Tool Index
 
 ***
 
