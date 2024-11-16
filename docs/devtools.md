@@ -1266,6 +1266,7 @@
 
 * 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
 * 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
+* 🌐 **[Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)** - Web Pentesting / Security Index
 * [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
@@ -1290,6 +1291,7 @@
 
 ## ▷ Web Security
 
+* ⭐ **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
