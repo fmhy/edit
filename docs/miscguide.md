@@ -1354,7 +1354,7 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
-* [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
+* [VersionMuseum](https://www.versionmuseum.com/) / [Web Design Museum](https://www.webdesignmuseum.org/) - Website History / Info
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.com/invite/XPz5Zm42tR)
