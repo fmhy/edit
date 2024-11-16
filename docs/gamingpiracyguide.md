@@ -180,6 +180,7 @@
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME.
 
 ***
 
