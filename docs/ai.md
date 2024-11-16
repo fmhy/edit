@@ -13,7 +13,8 @@
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
-* [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat), [AIAssistantBot](https://aiassistantbot.netlify.app/) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
+* [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
+* [AIAssistantBot](https://aiassistantbot.netlify.app/) - Multiple Chatbots / No Signup
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / No Signup / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
