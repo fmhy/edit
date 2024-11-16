@@ -366,6 +366,7 @@
 * [ChatReplay](https://chatreplay.stream/) - Livestream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - Livestream Chat Translator
 * [YT LiveChat Flusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Add Bullet Chatting (Danmaku) to Livestreams
+* [Zerodytrash](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - Youtube Age Restriction Bypass
 
 ***
 
