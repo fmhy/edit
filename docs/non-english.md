@@ -982,7 +982,7 @@
 # ► Portuguese / Português
 
 * 🌐 **[PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)** - Beginners Guide to Piracy
-* 🌐 **[Pirataria](https://pirataria.link/)**, [2](https://rentry.co/pirataria-digital) - Portuguese /r/Piracy Mega / [Subreddit](https://www.reddit.com/r/pirataria/)
+* 🌐 **[Pirataria](https://megathread.ahoypirata.lat/)**, [2](https://rentry.co/pirataria-digital) - Portuguese /r/Piracy Mega / [Subreddit](https://www.reddit.com/r/pirataria/)
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
 * [SAPO](https://www.sapo.pt) - Search
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
@@ -1055,6 +1055,7 @@
 * [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 * [Lesics](https://youtube.com/@LesicsPOR) - Sabins Civil Engineering
 * [DIO](https://www.dio.me) - Development Courses
+* [William Azarado](https://www.youtube.com/@williamazarado/videos) - Tech Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
 * [Harpa Cristã](https://harpacrista.org), [2](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
 * [Rádio J-Hero](https://radiojhero.com) - Radio
