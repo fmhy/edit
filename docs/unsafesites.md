@@ -93,7 +93,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ### Miscellaneous
 
-* 4shared - Forgotten for a few years. Redirects to malicious files that ask users to disable the antivirus and open harmful links now.
+* 4Shared - Forgotten for a few years. Redirects to malicious files that ask users to disable the antivirus and open harmful links now.
 
 ***
 
