@@ -29,20 +29,18 @@
 
 * ⭐ **[exportify](https://github.com/watsonbox/exportify)** - Playlist Backup
 * ⭐ **[playlists.cloud](https://playlists.cloud/)** or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
-* [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
-* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
+* [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
+* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Tagify](https://tagify.me/) - Use Playlists as Tags
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs
-* [Skiley](https://skiley.net/) - Playlist Manager
-* [Kotify](https://github.com/dzirbel/kotify) - Organize Spotify Music
 * [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists / [GitHub](https://github.com/okanten/playlistproxy.net)
 * [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
 * [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
-* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
-* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
+* [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
+* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spotalike](https://spotalike.com/) - Playlist Generator
 * [playlist-generator](https://www.playlist-generator.com/) - Playlist Generator
 * [Chat Jams](https://www.chatjams.ai/) - Playlist Generator
@@ -54,6 +52,7 @@
 * [Highlights2SPotify](https://highlights2spotify.com/) - Playlist Generator
 * [Moodify](https://moodify.app/) - Playlist Generator
 * [RadioNewify](https://radionewify.com/) - Playlist Generator
+* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 
 ***
 
