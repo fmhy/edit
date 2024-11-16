@@ -965,6 +965,7 @@
 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
+* [TheyAllSayFlix/TASF](https://theyallsayflix.su/) - Movies / TV / Anime / API
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
