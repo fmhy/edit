@@ -70,6 +70,7 @@
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://tierify.app/) - Tier Lists
+* [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [Kira](https://kira.vercel.app/) - Browse by Country / [GitLab](https://gitlab.com/timrossback/kira)
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
@@ -497,8 +498,6 @@
 * [RPGGamers Radio](http://www.rpgamers.net/radio/) - Game Music Radio
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
 * [VGM](https://vgm.mmosvc.com/) - Game Music Radio
-* [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files
-* [mood.gg](https://mood.gg/) - League of Legends Character-Based Playlists
 * [NSF j](https://nsf.nesbbs.com/) - NES Game Music
 * [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
@@ -752,7 +751,6 @@
 * [Reaper](https://www.reaper.fm/) - Audio Editor / [Note](https://pastebin.com/aP4M6ArY)
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
-* [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - Midi Sequencer / Notation Editors
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
@@ -801,6 +799,7 @@
 ## ▷ Audio Plugins
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
+* ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)**- Download
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)

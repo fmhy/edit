@@ -42,7 +42,7 @@
 * [Bypass.vip](https://bypass.vip/) / [API](https://api.bypass.vip/)
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt) / [Note](https://pastebin.com/Gr2AhsE8)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
-* [TheBypasser](https://thebypasser.com/)
+* [Bypass.lat](https://bypass.lat/)
 * [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
@@ -107,8 +107,8 @@
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment  / [Guide](https://rentry.co/sandboxie-guide)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
-* [Dangerzone](https://dangerzone.rocks/) - Convert potentially malicious files to safe PDFs / [GitHub](https://github.com/freedomofpress/dangerzone)
-* [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
+* [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
+* [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -150,7 +150,6 @@
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
-* [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
@@ -262,7 +261,7 @@
 ## ▷ Password Privacy / 2FA
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - Windows / Linux / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/) / [GitHub](https://github.com/ente-io/ente)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms / 2FA / [Audit](https://ente.io/blog/cryptography-audit/) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA
 * ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
@@ -419,6 +418,7 @@
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
+* [Censorship Bypass Guide](https://2305878273.7844380499.cfd/) 
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/)

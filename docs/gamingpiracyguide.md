@@ -34,6 +34,7 @@
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installs / [Discord](https://discord.gg/XqMpBdVWvK)
 * [Games4U](https://games4u.org/) - Download
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/6KWStFYSTj)
+* [Cr4ckPass](https://cr4ckpass.online/) - Download
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
 * [GLoad](https://gload.to/) - Download
 * [SteamUnderground](https://steamunderground.net/) - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ZjrNBhmhPz)
@@ -418,8 +419,8 @@
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
-* [Addicting Games](https://www.addictinggames.com/) - Browser Games
 * [RG Games](https://www.rgshows.me/games/) - Browser Games / [Discord](https://discord.gg/e34HMTgyEy)
+* [Addicting Games](https://www.addictinggames.com/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
 * [Poki](https://poki.com/) - Browser Games
@@ -492,6 +493,7 @@
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
+* [Gats.io](https://gats.io/) - Top-Down Battle Royale / [Discord](https://discord.gg/8Tspptdupm)
 * [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
@@ -574,7 +576,7 @@
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
+* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
 * [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
 
 ***

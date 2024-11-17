@@ -38,7 +38,6 @@
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / Use Adblock
 * [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
-* [VidPlay](https://vidplay.org/) - Movies / TV / Anime / [Note](https://pastebin.com/kXrVBceh)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 4K
 * [Free Cinema](https://freecinema.live/) - Movies / TV / Anime
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
@@ -49,6 +48,7 @@
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [Cataz](https://cataz.ru/) - Movies / TV / Anime
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
+* [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime
 * [FlixHQ.click](https://flixhq.click/) - Movies / TV 
 * [Filmex](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
@@ -143,7 +143,7 @@
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub
-* ⭐ **[Akuse](https://github.com/akuse-app/Akuse)**, [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
+* ⭐ **[Akuse](https://github.com/akuse-app/Akuse)**, [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Multi-Site Anime Search
@@ -155,6 +155,7 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [1Anime](https://1anime.co/) - Sub / Dub / Auto-Next / [Discord](https://dsc.gg/1Anime)
 * [AnimeZ](https://animez.org/) - Sub / Dub
+* [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / Auto-Next
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / Auto-Next
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
@@ -361,13 +362,13 @@
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
-* [Heartive](https://heartive.pages.dev/live/) - Live TV / Sports
+* ⭐ **[RgShows](https://www.rgshows.me/livetv/)** - TV / Sports / [Discord](https://discord.com/invite/bosskingdom-comeback-1090560322760347649)
+* [Heartive](https://heartive.pages.dev/live/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [SportsLive](https://sportslive.me/) - Sport / [Discord](https://discord.gg/22BUXzus2h) / [Telegram](https://t.me/+TQLKRehSyuszOWRi)
 * [Time4TV](https://time4tv.online/) - TV / Sports
 * [time4tv.top](https://time4tv.top/) - TV / Sports
-* [RgShows](https://www.rgshows.me/) - TV / [Discord](https://discord.com/invite/bosskingdom-comeback-1090560322760347649)
 * [LiveHDTV](https://www.livehdtv.com/) - TV
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
@@ -765,6 +766,7 @@
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
 * ⭐ **[bakabt](https://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
+* [Seanime](https://seanime.rahim.app/) - Anime Torrent App
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)
 * [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Anime Video Quality Guides
 * [Fansub Cartel](https://index.fansubcar.tel/) - Fansubbers Index
@@ -938,6 +940,7 @@
 * [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
+* [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [IMissedTheStart](https://imissedthestart.com/) - Summarize Missed Movie Parts
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
@@ -965,7 +968,6 @@
 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
-* [TheyAllSayFlix/TASF](https://theyallsayflix.su/) - Movies / TV / Anime / API
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
@@ -975,6 +977,7 @@
 * [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.to/) - Movies / TV / Anime / API
 * [moviee](https://moviee.tv/api) - Movies / TV
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K
+* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
 * [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 

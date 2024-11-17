@@ -390,6 +390,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
+* [Seanime](https://seanime.rahim.app/) - Self-Hosted Manga App
 * [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
@@ -576,7 +577,7 @@
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
 * [2012books](https://2012books.lardbucket.org/) - Creative Commons Books
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
-* [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
+* [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / Downloads in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online University Libraries
@@ -618,7 +619,7 @@
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
-* [textfiles.com](http://textfiles.com/) - 1980's Text File Index
+* [textfiles.com](http://textfiles.com/) - 1980s Text File Index
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Documents
 * [Archives.gov](https://archives.gov/) - US Historical Documents
@@ -799,7 +800,7 @@
 * ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
-* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-To's
+* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
 * [C.H.A.R.M](https://charm.li/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals

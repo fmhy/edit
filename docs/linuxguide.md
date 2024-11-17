@@ -278,7 +278,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 Linux Gaming Guide
 * 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility
 * ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility Descriptions / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
+* ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
 * ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
@@ -409,7 +409,7 @@ Linux Gaming Guide
 * [Nextcord](https://docs.nextcord.dev/) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
-* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLI's
+* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLIs
 * [Flash 32 Download](https://pastebin.com/0fNaeceW)
 
 ***

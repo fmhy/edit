@@ -165,11 +165,10 @@
 
 # ► Household
 
+* ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android) 
-* [Home Assistant](https://www.home-assistant.io/) - Home Assistant / IoT / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
 * [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -1267,6 +1266,7 @@
 * [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites / Horror Games
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
+* [Windows93](https://www.windows93.net/) - Windows 93 Emulator
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://doodles.google/) - Interactive Google Doodles
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
@@ -1470,8 +1470,8 @@
 * [HORG](http://www.horg.com/horg/) - Holotypic Occlupanid Research Group
 * [Waifu Labs](https://waifulabs.com/) - Meet Your Waifu
 * [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)
-* [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
-* [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
+* [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90s
+* [CameronsWorld](https://www.cameronsworld.net/) - 90s Themed Website
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator

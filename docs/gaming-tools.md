@@ -35,6 +35,7 @@
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [MORT](https://github.com/killkimno/MORT) - Real-time Game Text Translation
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
@@ -127,7 +128,7 @@
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [/r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)** or **[Magpie](https://github.com/Blinue/Magpie)** - Game Upscaler
+* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling 
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -340,6 +341,7 @@
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)/ [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer
+* [Fika](https://github.com/project-fika/Fika-Documentation) - Play Single Player Tarkov Co-Op / Requires Legit Game / Bypass
 * [OnlineCTR](https://www.online-ctr.com/) - Crash Team Racing Multiplayer
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer / [Discord](https://discord.com/invite/aJRJFe5)
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
@@ -502,6 +504,7 @@
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
+* [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
@@ -690,6 +693,7 @@
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
+* [mood.gg](https://mood.gg/) - LoL Character-Based Audio Playlists
 
 ***
 

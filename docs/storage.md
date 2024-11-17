@@ -176,7 +176,6 @@
 
 ### Customizable New Tab Page
 
-* ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
@@ -598,6 +597,7 @@
 * [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 * [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [SimpleTex](https://simpletex.net/) - Formula Recognition to MathML and LaTeX / [Online](https://simpletex.net/ai/latex_ocr)
 * [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
 
 ***

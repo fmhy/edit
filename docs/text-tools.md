@@ -122,6 +122,7 @@
 
 ## ▷ Encode / Decode
 
+* 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 E/D](https://apps.maximelafarie.com/base64/) - Encode / Decode Base64
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool

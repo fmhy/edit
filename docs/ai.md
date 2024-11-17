@@ -385,8 +385,8 @@
 * [TTSMaker](https://ttsmaker.com/) / No Signup
 * [TextToSpeech](https://texttospeech.io/)
 * [LazyPY](https://lazypy.ro/tts/) / No Signup
+* [Ondoku](https://ondoku3.com/en/) / No Signup
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
-* [CablyAI](https://free.cablyai.com/) / No Signup
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Signup
