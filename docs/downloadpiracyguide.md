@@ -6,7 +6,7 @@
 
 # ► Download Directories
 
-* **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+* **Note** - Some Open Directories grab IPs, so use a VPN or Tor when accessing them.
 
 ***
 
