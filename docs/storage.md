@@ -704,6 +704,7 @@
 * [MC Archive](https://mcarchive.net/)
 * [ModBay](https://modbay.org/)
 * [FiberMC](https://www.fibermc.com/)
+* [ModpackIndex](https://www.modpackindex.com/ )
 
 ### Optimization Mods
 
