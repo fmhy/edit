@@ -223,7 +223,7 @@
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[DramaCool](https://asianc.sh/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / [Clones List](https://asianwiki.co/)
+* ⭐ **[DramaCool](https://asianc.co/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / [Clones List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.video/)** - TV / Movies
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Einthusan](https://einthusan.tv/) - Movies

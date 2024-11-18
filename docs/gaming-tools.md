@@ -290,7 +290,7 @@
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
-* [Low Spec Games](https://pastebin.com/MTCXZxCN) - Low Spec Game Database
+* [Low Spec Games](https://pastebin.com/raw/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [BoardGameGeek](https://boardgamegeek.com/) - Board Game Database
@@ -315,7 +315,7 @@
 
 * ⭐ **[Online Fix](https://online-fix.me/)** - Online / LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
-* ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
+* ⭐ **[ZeroTier](https://www.zerotier.com/)** - LAN Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix

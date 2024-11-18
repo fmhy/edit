@@ -311,7 +311,6 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
-* [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) / [Sober](https://sober.vinegarhq.org/)
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in Your Terminal
