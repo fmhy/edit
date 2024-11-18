@@ -619,7 +619,7 @@
 ## ▷ Customization
 
 * 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
-* ↪️ **[Texture Pack / Shader Indexes]()**
+* ↪️ **[Texture Pack Indexes]()**
 * ⭐ **[NameMC](https://namemc.com/)**, [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [Crafty](https://crafty.gg/) - Minecraft Name & Skin Availability Tracker
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
