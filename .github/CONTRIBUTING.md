@@ -40,13 +40,13 @@ Don't post any hacks/exploits that give unfair advantages in multiplayer games.
 ## Reporting a Site
 
 > [!TIP]
-> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://discord.gg/5W9QJKuPkD)** before making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**.
+> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://rentry.co/fmhy-invite)** before making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**.
 
 You can do one of the following:
 
 - Open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
-- Alternatively, you can reach out to us on **[Discord](https://discord.gg/5W9QJKuPkD)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
+- Alternatively, you can reach out to us on **[Discord](https://rentry.co/fmhy-invite)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
 
 ## Making changes
 
@@ -57,7 +57,7 @@ If you want to make changes with instant site feedback, or are simply going to w
 - [Manually setting up a development environment](#manually-setting-up-a-development-environment)
 
 > [!TIP]
-> You can just use our [💬 Discord](https://redd.it/17f8msf) to send us sites or any changes.
+> You can just use our [💬 Discord](https://rentry.co/fmhy-invite) to send us sites or any changes.
 
 ### Using Gitpod or GitHub Codespaces
 

@@ -337,7 +337,6 @@
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Atuin](https://atuin.sh/) - Sync, search and backup shell history
-* [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
@@ -367,7 +366,6 @@
 * [Mockable](https://www.mockable.io/), [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [jsoning](https://jsoning.com/api/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
-* [Wyzie Subs](https://subs.wyzie.ru/) - Subtitle Scraping API
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
@@ -415,7 +413,6 @@
 * [RunBear](https://runbear.io/) - Connect LLMs to Apps
 * [GPTCache](https://gptcache.readthedocs.io) - LLM Response Cache
 * [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
-* [Dump Dir](https://github.com/fargusplumdoodle/dump_dir) - Provide Context to LLMs via Clipboard Content
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 
@@ -593,6 +590,7 @@
 * [html-css-js](https://html-css-js.com/) - Online Code Editor
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
+* [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
@@ -641,6 +639,7 @@
 * [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
+* [RTutor](https://rtutor.ai/) - Translate Natural Language to R code / No Signup
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [Sourcegraph](https://sourcegraph.com/search) or [SeaGOAT](https://github.com/kantord/SeaGOAT) - Code Searching
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
@@ -688,7 +687,6 @@
 * [code-server](https://coder.com/) - Web Server
 * [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
-* [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
 * [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
 * [oslo](https://oslo-vsc.netlify.app/) - Theme Generator
 
@@ -700,9 +698,10 @@
 
 # ► Programming Languages
 
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/), [Reference](https://cheatsheets.zip/) / [Github](https://github.com/Fechin/reference) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
 * 🌐 **[TheAlgorithms](https://github.com/TheAlgorithms/)** - Coding Algorithms
+* ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_programming_languages)**
 * ⭐ **[Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** - Measure PL Speeds
 * ⭐ **[Language Benchmarks](https://programming-language-benchmarks.vercel.app/)** - Benchmarks for PLs & Compilers
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [FreeFrontend](https://freefrontend.com/) - Find Code Snippets
@@ -710,36 +709,19 @@
 * [Snipit](https://snipit.io/) - Code Snippets Manager / Organizer
 * [Try It Online](https://tio.run/) - Programming Language Interpreters
 * [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
-* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Programming Language Rundowns / [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 * [OneLang](https://ide.onelang.io/) - Convert Code to Multiple Languages
-* [Emojicode](https://www.emojicode.org/) - Emoji-Based Programming Language
-* [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
 * [icr](https://github.com/crystal-community/icr) - REPL for Crystal
-* [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
-* [Learn Perl](https://www.learn-perl.org/) - Learn Perl
 
 ***
 
 ## ▷ Python
 
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Python Resources
-* 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
 * ⭐ **[Ruff](https://docs.astral.sh/ruff/)** - Python Linter / [GitHub](https://github.com/astral-sh/ruff)
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Python Guides
-* [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
-* [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
-* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Python Tutorials
-* [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
-* [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
-* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
-* [Modern Python 3 Bootcamp Courses](https://rentry.co/FMHYBase64#modern-python-3-bootcamp-courses)
-* [Tea Press](https://greenteapress.com/wp) - Python Learning Book
-* [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Python Learning Picture
 * [memlayout](https://memlayout.com/) - Python Code Visualization
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheets
 * [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Python GUI
@@ -756,17 +738,8 @@
 
 ## ▷ C Languages
 
-* [Learn C](https://www.learn-c.org/) - C Tutorial
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [GitHub](https://github.com/isocpp/CppCoreGuidelines)
-* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Course
-* [Learn C++](https://www.learncpp.com/) - Learn C++
-* [CppDeveloperRoadmap](https://salmer.github.io/CppDeveloperRoadmap/) - Learn C++
-* [StudyPlan](https://www.studyplan.dev/) - Learn C++
-* [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
-* [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
-* [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [The Algorithms - C++](https://thealgorithms.github.io/C-Plus-Plus) - C++ Algorithms
 * [cpp.sh](https://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
@@ -777,10 +750,6 @@
 ## ▷ Java / Kotlin
 
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
-* [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
-* [CodingBat](https://codingbat.com/python) - Java Practice
-* [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
@@ -870,7 +839,6 @@
 * [Unibeautify](https://github.com/Unibeautify/unibeautify) - JavaScript Beautifier
 * [Minify JS](https://minify-js.com/) - JavaScript Minifier
 * [Underdash](https://surma.github.io/underdash/) - JavaScript Snippets
-* [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
 
@@ -924,7 +892,7 @@
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
-* ⭐ **[Formulaer](https://formulaer.com/)**, [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
+* ⭐ **[Formulaer](https://formulaer.com/)**, [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS / [GitHub](https://github.com/getgrav/grav)
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
@@ -1050,7 +1018,6 @@
 * [Stylify Me](http://stylifyme.com/) - Extract Webpage Colors
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
 * [uiGradients](https://uigradients.com/) - Hex Gradients
-* [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) or [Colour Contrast](https://colourcontrast.cc/) - Background / Text Contrast Checkers
@@ -1099,7 +1066,7 @@
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
-* [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
+* [Cursor Effects](https://tholman.com/cursor-effects/) - 90s Style Cursors
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
@@ -1117,6 +1084,7 @@
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
+* [Host-Tracker](https://www.host-tracker.com/en/ic/check-http) or [OONI](https://ooni.org/) - Check Site Location Availability / [Bypass Paywall](https://rentry.co/FMHYBase64#host-tracker-bypass) 
 * [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [SegFault](https://shell.segfault.net/) - Disposable Root Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
@@ -1127,9 +1095,8 @@
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [is-a.dev](https://www.is-a.dev/) or [JS.ORG](https://js.org/) - Developer Homepages
-* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
+* [Homepage](https://github.com/benphelps/homepage), [CasaOS](https://casaos.io/), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
 * [redirect.name](https://redirect.name/) - URL Forwarding
-* [PingDom](https://tools.pingdom.com) - Ping Website
 * [Kener](https://kener.ing/) - Self-Hosted Status Page
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
 * [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
@@ -1224,10 +1191,10 @@
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
-* [osquery](https://osquery.io) or [Nmap](https://nmap.org/) - Security Monitors
+* [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
 * [Nuclei](https://docs.projectdiscovery.io/tools/nuclei) / [GitHub](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
-* [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) - Network Monitors
+* [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
@@ -1334,19 +1301,13 @@
 
 ***
 
-# ► Markup Tools
+# ► Markdown Tools
 
+* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [yq](https://mikefarah.gitbook.io/yq/) - Portable YAML Processor / [GitHub](https://github.com/mikefarah/yq)
-
-***
-
-## ▷ Markdown
-
-* ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_markdown_editors)**
-* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * [readme.so](https://readme.so/) - Create README.md Files
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Check Markdown Files for Dead Links
@@ -1356,6 +1317,27 @@
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
 * [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Emoji Markdown Cheatsheet
+
+***
+
+## ▷ Markdown Editors
+
+* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
+* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
+* [zettlr](https://www.zettlr.com/)
+* [Dillinger](https://dillinger.io/)
+* [Notable](https://notable.app/)
+* [vnote](https://github.com/vnotex/vnote)
+* [MarkdownTools](https://www.markdowntools.com/)
+* [StackEdit](https://stackedit.io/)
+* [Markdownify](https://markdownify.js.org/)
+* [Glow](https://github.com/charmbracelet/glow)
+* [MarkdownLivePreview](https://markdownlivepreview.com/)
+* [Vrite](https://editor.vrite.io/)
+* [Markflowy](https://markflowy.vercel.app/)
+* [MindForger](https://www.mindforger.com/)
+* [PanWriter](https://panwriter.com/)
+* [MarkText](https://www.marktext.cc/)
 
 ***
 

@@ -55,7 +55,7 @@
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [Brave](https://brave.com/)
+* [Brave](https://brave.com/) - Chromium Based Browser
 * [Browser Tuning](https://divestos.org/pages/browsers#tuning) - Browser Privacy Settings Guide
 
 ***
@@ -63,7 +63,7 @@
 ## Android Text Editors
 
 * ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
-* [Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Text Editor
+* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor
 * [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Office Suite
 
@@ -147,7 +147,7 @@
 
 * ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**
 
-[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://fyrean.itch.io/bgbye-background-remover), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg)
+[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg)
 
 ### Object Removers
 
@@ -176,7 +176,6 @@
 
 ### Customizable New Tab Page
 
-* ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
@@ -343,77 +342,115 @@
 
 ***
 
-## Free DNS Servers
+## Free DNS Resolvers
 
+* 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
-* [NextDNS](https://pastebin.com/vTxFat5r)
+* [NextDNS](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* https://developers.cloudflare.com/1.1.1.1/ip-addresses/
-* https://adguard-dns.io/en/public-dns.html
-* https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
-* https://dnsforfamily.com/
-* https://www.publicdns.xyz/
-* https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html
-* https://wikileaks.org/wiki/Alternative_DNS
-* https://www.cloudns.net/
-* https://dns.he.net/
-* https://www.dnspod.com/
-* https://acavalin.com/p/free_dns
-* https://www.luadns.com/
-* https://www.dns0.eu/
-* https://dynu.com/
-* https://blog.uncensoreddns.org/dns-servers/
-* https://publicdnsserver.com/
-* https://1984.is/product/freedns/
-* https://www.namecheap.com/domains/freedns/
-* https://zilore.com/en/dns
-* https://docs.glauca.digital/hexdns/
-* https://www.zoneedit.com/free-dns/
-* https://dns.sb/
-* https://www.bestdns.org/
-* https://public-dns.info/
+* [Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)
+* [Adguard](https://adguard-dns.io/en/public-dns.html)
+* [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+* [DNS for Family](https://dnsforfamily.com/) 
+* [ClouDNS](https://www.cloudns.net/)
+* [Hurricane Electric](https://dns.he.net/)
+* [dns0.eu](https://www.dns0.eu/)
+* [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
+* [dns.sb](https://dns.sb/)
 
 ***
 
 ## Free VPN Configs
 
-* https://www.racevpn.com/
-* https://www.greenssh.com/
-* https://cyberssh.com/vpn/config
-* https://vpn.fail/
-* https://www.vpnjantit.com/
-* https://pisovpn.com
-* https://www.lionssh.com/
-* https://www.sshocean.com/
-* https://www.freevpn.us/
-* https://www.sshocean.net/
-* https://www.cloudssh.us/
-* https://starssh.com/
-* https://www.goodssh.com/
-* https://sshkit.com/
-* https://www.jagoanssh.com/
-* https://dewassh.net/
-* https://www.fastssh.com/
-* https://www.mytunneling.com/
-* https://createssh.net/
-* https://opentunnel.net/
-* https://howdy.id/
+* [RaceVPN](https://www.racevpn.com/)
+* [GreenSSH](https://www.greenssh.com/)
+* [CyberSSH](https://cyberssh.com/vpn/config)
+* [vpn.fail](https://vpn.fail/)
+* [VPN Jantit](https://www.vpnjantit.com/)
+* [PisoVPN](https://pisovpn.com)
+* [sshOcean](https://sshocean.com/) / [2](https://sshocean.net/)
+* [FreeVPN](https://www.freevpn.us/)
+* [StarSSH](https://starssh.com/)
+* [Goodssh](https://www.goodssh.com/)
+* [SSHKit](https://sshkit.com/)
+* [JagoanSSH](https://www.jagoanssh.com/)
+* [fastssh](https://www.fastssh.com/)
+* [Mytunneling](https://www.mytunneling.com/)
+* [CreateSSH](https://createssh.net/)
+* [OpenTunnel](https://opentunnel.net/)
+* [Howdy](https://howdy.id/)
 
 ***
 
 ## Free Webhosting Sites
 
-* ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
-* ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[infinityfree](https://infinityfree.com/)**
-* ⭐ **[workers.dev](https://workers.cloudflare.com/)**
-* ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[netlify](https://www.netlify.com/)**
-* ⭐ **[sourcehut pages](https://srht.site/)**
+* [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+* [glitch](https://glitch.com/)
+* [biz.nf](https://www.biz.nf/)
+* [ibm cloud](https://www.ibm.com/cloud/free)
+* [Fleek](https://fleek.co/)
+* [stormkit](https://www.stormkit.io/)
+* [milkshake](https://milkshake.app/)
+* [atspace](https://www.atspace.com/)
 
-[codeberg](https://codeberg.page/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [Serv00](https://serv00.com/) / [Offers](https://www.serv00.com/offer), [0hosting](https://web1.0hosting.net/), [leprd.space](https://leprd.space/)
+### Static Page Hosting
+
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)**
+* ⭐ **[GitHub Pages](https://pages.github.com/)**
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
+* ⭐ **[Sourcehut Pages](https://srht.site/)**
+* ⭐ **[Neocities](https://neocities.org/)**
+* ⭐ **[nekoweb](https://nekoweb.org/)**
+* ⭐ **[Eleventy](https://11ty.dev/)**
+* [Web 1.0 Hosting](https://web1.0hosting.net/)
+* [Codeberg Pages](https://codeberg.page/)
+* [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [DropPages](https://droppages.com/)
+* [W3Schools Spaces](https://www.w3schools.com/spaces/)
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
+* [render](https://render.com/)
+* [Straw.Page](https://straw.page/)
+* [Own Free Website](https://www.own-free-website.com)
+* [itty.bitty](https://itty.bitty.site/)
+* [mmm](https://build.mmm.page/)
+* [cargo](https://cargo.site/)
+* [Jigsy](https://jigsy.com/)
+* [Temper](https://temper.one/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
+* [Publii](https://getpublii.com/)
+* [Kinsta](https://kinsta.com/static-site-hosting/)
+* [Pelican](https://getpelican.com/)
+* [Lexi's Hosting](https://hosting.lexiqqq.com/)
+* [Reocities](https://www.reocities.xyz/)
+* [yay.boo](https://yay.boo/)
+* [Web 1.0 Hosting](http://web1.0hosting.net/) 
+
+
+### Dynamic Page Hosting
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* ⭐ **[Serv00](https://serv00.com/)** - Unlimited Monthly Transfer / 3GB space
+* [infinityfree](https://infinityfree.com/) - 5GB space
+* [byet.host](https://byet.host/free-hosting) - 5GB Space
+* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space
+* [pythonanywhere](https://www.pythonanywhere.com/)
+
+### Website Builders
+
+* **Note** - These are generally made for businesses only.
+* [wix](https://www.wix.com/)
+* [site123](https://www.site123.com/)
+* [WordPress](https://wordpress.com/) / [2](https://wordpress.org/)
+* [jimdo](https://www.jimdo.com/)
+* [tilda](https://tilda.cc/)
+* [x10hosting](https://x10hosting.com/)
+* [olitt](https://www.olitt.com/)
+* [yola](https://www.yola.com/)
+* [bravenet](https://www.bravenet.com/)
 
 ***
 
@@ -506,6 +543,28 @@
 
 ***
 
+## Hackintosh
+
+* ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
+* ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/fix-graphics)
+* ⭐ **[r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
+* [r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools)](https://rentry.org/hackintosh-tools)  - Hackintosh Tools
+* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
+* [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
+* [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware  / [Notes](https://rentry.org/VMware-guide)
+* [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
+* [XiaoMi-Pro-Hackintosh)](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for XiaoMi
+* [unplugged-macos](https://rentry.org/unplugged-macos) - Unplugged Hackintosh 
+* [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI App to Mount EFI Partitions
+* [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run MacOS
+* [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for MacOS VM
+* [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS
+* [macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers) - Contains Prebuilt EFI for Systems
+* [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized MacOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
+
+***
+
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
@@ -514,12 +573,6 @@
 * https://groups.google.com/g/rdrivelinks
 * https://groups.google.com/g/torrentleech-gdrive
 * https://groups.google.com/g/monarch-cloud
-
-***
-
-## Image Download Extensions
-
-[Download all Images](https://webextension.org/listing/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
 
 ***
 
@@ -535,35 +588,16 @@
 
 ***
 
-## Image Converters
-
-[Bulk Image Convert](https://bulkimageconvert.com), [Convertmyimage](https://convert-my-image.com/), [ImageConvert](https://imageconvert.org/), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [minipic](https://minipic.app/)
-
-***
-
-## Image Resizing
-
-* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
-
-[Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/), [Bulk Image Resize](https://bulkimageresize.com/), [ResizeNow](https://www.resizenow.com/en),[BulkResizePhotos](https://bulkresizephotos.com/)
-
-***
-
-## IPTV Tools
-
-[Search](https://www.foodieguide.com/iptvsearch/), [2](https://searchtv.net/) / [Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [Playlists](https://rentry.co/fmhybase64#iptv-playlists) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE) / [CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) / [List Checker](https://github.com/peterpt/IPTV-CHECK)
-
-***
-
 ## LaTeX Tools
 
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
-* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Lyx](https://www.lyx.org/), [Overleaf](https://www.overleaf.com/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Typst](https://typst.app/home) or [R Markdown](https://rmarkdown.rstudio.com/) - LaTeX Alternatives
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 * [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [SimpleTex](https://simpletex.net/) - Formula Recognition to MathML and LaTeX / [Online](https://simpletex.net/ai/latex_ocr)
 * [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
 
 ***
@@ -605,16 +639,6 @@
 
 ***
 
-## M3U Players
-
-* ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
-
-[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
-
-***
-
 ## Magic / Esoteric Telegram Ebooks
 
 * https://t.me/magZtore
@@ -645,26 +669,6 @@
 ### Self-Hosted
 
 [HappyPanda X](https://happypandax.github.io/), [KavitaReader](https://www.kavitareader.com/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
-
-***
-
-## Markdown Editors
-
-* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [zettlr](https://www.zettlr.com/)
-* [Dillinger](https://dillinger.io/)
-* [Notable](https://notable.app/)
-* [vnote](https://github.com/vnotex/vnote)
-* [MarkdownTools](https://www.markdowntools.com/)
-* [StackEdit](https://stackedit.io/)
-* [Markdownify](https://markdownify.js.org/)
-* [Glow](https://github.com/charmbracelet/glow)
-* [MarkdownLivePreview](https://markdownlivepreview.com/)
-* [Vrite](https://editor.vrite.io/)
-* [Markflowy](https://markflowy.vercel.app/)
-* [MindForger](https://www.mindforger.com/)
-* [PanWriter](https://panwriter.com/)
-* [MarkText](https://www.marktext.cc/)
 
 ***
 
@@ -700,6 +704,7 @@
 * [MC Archive](https://mcarchive.net/)
 * [ModBay](https://modbay.org/)
 * [FiberMC](https://www.fibermc.com/)
+* [ModpackIndex](https://www.modpackindex.com/ )
 
 ### Optimization Mods
 
@@ -725,7 +730,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[The Retro Saga](https://theretrosaga.com/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/ROMs), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
+[The Retro Saga](https://theretrosaga.com/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
 
 ***
 
@@ -875,8 +880,9 @@
 * 🌐 **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** - Radio Index
 * 🌐 **[Radio Browser](https://www.radio-browser.info/users)** - Radio Index
 * ⭐ **[Radio Garden](https://radio.garden/)** - Worldwide Radio Globe / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs)
+* ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** / [Downloader](https://github.com/get-iplayer/get_iplayer)
 
-[iHeartRadio](https://www.iheart.com/), [BBC Radio](https://www.bbc.co.uk/sounds), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/)
+[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/)
 
 ### Internet Radio
 
@@ -930,6 +936,7 @@
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [Open RSS](https://openrss.org/)
 * [RSS Please](https://rsspls.7bit.org/)
+* [RSS Finder](https://rss-finder.rook1e.com/))
 * [FetchRSS](https://fetchrss.com/)
 * [RSS Diffbot](https://rss.diffbot.com/)
 * [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
@@ -992,7 +999,6 @@
 * [speedcheck](https://www.speedcheck.org/) - Speed Test
 * [Meter](https://www.meter.net/) - Speed Test
 * [Speedsmart](https://speedsmart.net/) - Speed Test
-* [OONI](https://ooni.org/) - Speed Test
 
 ***
 
@@ -1036,6 +1042,20 @@
 * [9animetv](https://9animetv.to/)
 * [anicrush](https://anicrush.to/)
 * [aniwatchtv](https://aniwatchtv.to/)
+
+***
+
+## Summarize YouTube Videos
+
+* [Gemini](https://gemini.google.com/)
+* [Solidpoint](https://solidpoint.ai/)
+* [Quickvid](https://quickvid.vercel.app/)
+* [VideoGist](https://www.videogist.co/)
+* [VideoHighlight](https://videohighlight.com/)
+* [Summarize](https://summarize.tech/)
+* [Glarity](https://glarity.app/) - Browser Extension
+* [Glasp](https://glasp.co/youtube-summary) or [Eightify](https://eightify.app/) - Chrome Extensions
+* [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial
 
 ***
 
@@ -1193,14 +1213,6 @@
 * ⭐ **[vitepress](https://vitepress.dev/)**
 
 [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus), [Docsify](https://docsify.js.org/)
-
-### Simple Site Creators
-
-* ⭐ **[Neocities](https://neocities.org/)**
-* ⭐ **[nekoweb](https://nekoweb.org/)**
-* ⭐ **[Eleventy](https://11ty.dev/)**
-
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/), [Lexi's Hosting](https://hosting.lexiqqq.com/), [Reocities](https://www.reocities.xyz/), [yay.boo](https://yay.boo/), [Web 1.0 Hosting](http://web1.0hosting.net/) 
 
 ***
 

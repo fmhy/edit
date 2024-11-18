@@ -6,18 +6,17 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users and sites in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) page.
 
 ***
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion)
+* ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion) / [Proxies](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [Search Engine](https://monkrus.dvuzu.com/) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW
 * 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about), [3](https://ibb.co/py0RCz9) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
-* [TheRARBG](https://therarbg.com/), [2](https://therarbg.to/) - Video / Audio / Games / Books / NSFW / Continuation Project / [.onion](http://therarbgscpvql6p2e3upz7xyqb4ornupyznim5rlriycjfvcwnz7ayd.onion)
 * [RARBG Dump](https://rarbgdump.com/ ) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [GloTorrents](https://glodls.to) - Video / Audio / Books / NSFW
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
@@ -34,7 +33,7 @@
 
 ## ▷ Aggregators
 
-**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) page.
 
 ***
 
@@ -140,7 +139,7 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Stream / DDL Sites / [Send Magnets](https://greasyfork.org/en/scripts/481975)
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Stream / DDL Sites
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
@@ -157,9 +156,8 @@
 
 # ► Tracker Invites
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)**, **[/r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/), [Graph](https://inviteroute.github.io/graph/) or [InstallGentoo](https://igwiki.lyci.de/wiki/Private_trackers) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
-* ⭐ **[/r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Recruitment Guides
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
 * [/r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [/r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
@@ -176,8 +174,8 @@
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt) / [3](https://github.com/ngosang/trackerslist), [trackerslist](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [NewTrackOn](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Auto Torrent Tools List](https://redd.it/hbwnb2)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
-* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3), [Scnlog](https://scnlog.me) or [PreDB.me](https://predb.me) - Scene Release Download
-* ⭐ **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [Archiv.pw](https://archiv.pw/), [PreDB.net](https://predb.net/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
+* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
+* ⭐ **[PreDB.net](https://predb.net/),** **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [PreDB.me](https://predb.me), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country

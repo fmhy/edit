@@ -140,7 +140,7 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://tasky.nuxt.dev" class="text-[#ff91af]">taskylizard</a> and contributors. <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>`
+      copyright: `© ${new Date().getFullYear()}, Estd 2018`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',

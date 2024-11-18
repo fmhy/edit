@@ -14,7 +14,6 @@
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
-* [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/), [Rotato](https://tools.rotato.app/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
@@ -36,7 +35,7 @@
 * ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
@@ -50,7 +49,7 @@
 * [Dubz](https://dubz.co/) - 200MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
-* [Videy](https://videy.co/) - MP4 Only
+* [Videy](https://videy.co/) - 100MB / MP4 Only
 
 ***
 
@@ -61,7 +60,7 @@
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
 * [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
-* [FFmpeg](https://ffmpeg.org/)
+* [FFmpeg](https://ffmpeg.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * [Vileo](https://lukasbach.github.io/vileo/)
 * [Shar.ec](https://shar.ec/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
@@ -74,11 +73,10 @@
 
 ***
 
-## ▷ Convert / Encode
+## ▷ Convert / Compress
 
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
-* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Multimedia Processors / Converters
-* ⭐ **FFmpeg Tools** - [Autobuild](https://github.com/BtbN/FFmpeg-Builds), [2](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Commands](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/) / [Info Copy](https://github.com/4ndrs/PureMPV) / [Preview Filters](https://ffmpeg.lav.io/) / [AI Commands](https://github.com/gstrenge/llmpeg), [2](https://github.com/TejasQ/idli) / [Bulk Convert](https://ffmpeg-batch.sourceforge.io/)
+* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Multimedia Processors / Converters  / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
@@ -90,6 +88,14 @@
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
+* [VideoCompress](https://videocompress.prolab.sh/) - Compress / Unlimited
+* [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
+* [8mb.video](https://8mb.video/) - Compress / Unlimited
+* [autocompressor](https://autocompressor.net/) - Compress / 2GB
+* [Rotato](https://tools.rotato.app/) - Compress / 2GB
+* [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
+* [YouCompress](https://www.youcompress.com/) - Compress / 500MB
+* [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
 * [Winnydows](https://winnydows.com/) - Video Conversion Software
@@ -99,6 +105,19 @@
 * [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
+
+***
+
+## ▷ FFmpeg Tools
+
+* [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
+* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - Guides
+* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
+* [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
+* [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
+* [ffmpeg.lav](https://ffmpeg.lav.io/) - Preview Filters
+* [LLmpeg](https://github.com/gstrenge/llmpeg) or [idli](https://github.com/TejasQ/idli) - AI Commands
+* [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
 
 ***
 
@@ -152,7 +171,7 @@
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)**, [MPC-QT](https://mpc-qt.github.io/) or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm)
-* ⭐ **[MPV](https://mpv.io/)** / [GUI](https://mpv-net.github.io/mpv.net-web-site/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
+* ⭐ **[MPV](https://mpv.io/)**, [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/)
@@ -251,7 +270,7 @@
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
-* [SeaAnime](https://seanime.rahim.app/) - Anime Server
+* [Seanime](https://seanime.rahim.app/) - Anime Server
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
@@ -300,12 +319,13 @@
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker
-* [mediaelch](https://github.com/komet/mediaelch) - Media Manager
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 
 ***
 
@@ -313,6 +333,7 @@
 
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
+* ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.hyper.lol/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online

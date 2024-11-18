@@ -31,7 +31,7 @@
 ## ▷ Pastebins
 
 * 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
-* ⭐ **[Rentry](https://rentry.co/)** - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry)
+* ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry)
 * ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
 * ⭐ **[Stellular](https://stellular.net/)**, [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) - Markdown Support
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
@@ -49,7 +49,6 @@
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy)
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
-* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
 * [paste.fo](https://paste.fo/) - Multi-Syntax
 * [BitBin](https://bitbin.it/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
@@ -73,7 +72,7 @@
 ***
 
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
-* ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate)
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)**, [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) /  [API](https://github.com/vitalets/google-translate-api)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
@@ -123,6 +122,7 @@
 
 ## ▷ Encode / Decode
 
+* 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 E/D](https://apps.maximelafarie.com/base64/) - Encode / Decode Base64
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
@@ -137,14 +137,18 @@
 
 ## ▷ Grammar Check
 
-* ⭐ **[DeepL Write](https://www.deepl.com/write)**
-* [LanguageTool](https://languagetool.org/)
-* [EditGPT](https://www.editgpt.app/)
-* [Grammarly](https://www.grammarly.com/grammar-check)
-* [ProWritingAid](https://prowritingaid.com/grammar-checker)
-* [Outwrite](https://www.outwrite.com/)
+* **Notes** - Most chatbots in the AI section can also check grammar. 
+
+***
+
+* ⭐ **[LanguageTool](https://languagetool.org/)**
+* [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
+* [EditGPT](https://www.editgpt.app/) -  Signup Required
+* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
+* [Outwrite](https://www.outwrite.com/) -  Signup Required
 
 ***
 
@@ -160,7 +164,7 @@
 
 ## ▷ Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiDB](https://emojidb.org/) or [EmojiBatch](https://www.emojibatch.com/)
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiDB](https://emojidb.org/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [EmojiBatch](https://www.emojibatch.com/) - Emoji Indexes
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -212,6 +216,7 @@
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
+* ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
@@ -261,7 +266,7 @@
 * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Guide](https://redd.it/1814gmp) / [Custom Install Guide](https://gravesoft.dev/office_c2r_custom)
 * ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - FOSS Office Suite
-* ⭐ **[Microsoft Office](https://gravesoft.dev/office_c2r_links)** - Office Suite / [Removal Tool](https://github.com/abbodi1406/WHD/tree/master/scripts) / [Hot Keys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd), [2](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
+* ⭐ **[Microsoft Office](https://gravesoft.dev/office_c2r_links)** - Office Suite / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_13.zip) / [Hot Keys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd), [2](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
 * [Office365Version](https://www.office365versions.com/) - Office 365 Version History
 
@@ -328,7 +333,6 @@
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)**
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * ⭐ **[Kludd](https://kludd.co/)**
-* [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK) 
 * [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)
@@ -368,11 +372,11 @@
 ## ▷ Writing Tools
 
 * 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
-* ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)**
-* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Write.as](https://write.as/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
+* ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_text_generators)**
+* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [Write.as](https://write.as/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
-* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
+* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
@@ -474,7 +478,6 @@
 * [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
 * [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
 * [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
-* [Picas](https://picas.vercel.app/) - Google Font Logo Generator
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
@@ -489,6 +492,7 @@
 ## ▷ Download Fonts
 
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-site Font Search
+* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * ⭐ **[FontSource](https://fontsource.org/)**
 * ⭐ **[FontPiracy](https://rentry.co/FontPiracy)** - Font Download Guide

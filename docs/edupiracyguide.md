@@ -44,7 +44,7 @@
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl) / [Solver](https://greasyfork.org/en/scripts/427964)
 * ⭐ **[Class Central](https://www.classcentral.com/)** - Search for Courses
-* [CourseBuffet](https://www.coursebuffet.com/) - Multi-Site Course Search
+* [CourseBuffet](https://www.coursebuffet.com/) or [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 * [Git.ir](https://git.ir/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
@@ -74,6 +74,7 @@
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[InfiCourses](https://www.inficourses.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
+* ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
@@ -351,6 +352,7 @@
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
+* [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [List Study](https://listudy.org/en) - Chess Lessons
 * [Chessable](https://www.chessable.com/) - Chess Lessons
@@ -361,6 +363,7 @@
 * [Chessercise](https://www.chessercise.xyz/) - Chess Game / Move Analysis
 * [Game Report](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
+* [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
 * [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis
 * [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
@@ -411,6 +414,7 @@
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/) [PhysicsClassroom](https://www.physicsclassroom.com/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
+* [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
@@ -508,7 +512,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
 * ⭐ **[Desmos](https://www.desmos.com/)** or [GeoGebra](https://www.geogebra.org/) - Graphing Calculators
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)** or [CEmu](https://github.com/CE-Programming/CEmu) - TI-84 Calculators
+* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu) or [ti84calc](https://ti84calc.com/)** - TI-84 Calculators
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
@@ -518,6 +522,7 @@
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
+* [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
 * [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
@@ -537,7 +542,7 @@
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
-* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
+* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations / Problems
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
@@ -897,6 +902,7 @@
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
@@ -943,7 +949,7 @@
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
-* [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
+* [LearnYouHaskell](https://learnyouahaskell.github.io/) - Haskell Guide
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
@@ -970,13 +976,46 @@
 
 ***
 
+## ▷ Programming Languages
+
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Python Guides
+* [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
+* [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
+* [AmigosCode](https://www.youtube.com/@amigoscode) - Python Tutorials
+* [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
+* [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
+* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
+* [Modern Python 3 Bootcamp Courses](https://rentry.co/FMHYBase64#modern-python-3-bootcamp-courses)
+* [Tea Press](https://greenteapress.com/wp) - Python Learning Book
+* [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Python Learning Picture
+* [Learn C](https://www.learn-c.org/) - C Tutorial
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [GitHub](https://github.com/isocpp/CppCoreGuidelines)
+* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Course
+* [Learn C++](https://www.learncpp.com/) - Learn C++
+* [CppDeveloperRoadmap](https://salmer.github.io/CppDeveloperRoadmap/) - Learn C++
+* [StudyPlan](https://www.studyplan.dev/) - Learn C++
+* [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
+* [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
+* [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
+* [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
+* [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
+* [CodingBat](https://codingbat.com/python) - Java Practice
+* [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
+* [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
+* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
+* [Learn Perl](https://www.learn-perl.org/) - Learn Perl
+
+***
+
 ## ▷ Web Development
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
 * ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course
-* ⭐ **[LandChad](https://landchad.net/)** or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
-* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
+* ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
+⁠* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
@@ -999,6 +1038,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/), [Flexbox Zombies](https://mastery.games/flexboxzombies), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) or [GridByExample](https://gridbyexample.com/) - CSS Grid Guides
+* [ReactStudyKit](https://reactstudykit.com/) - React Study Tools / Flashcards
 * [Leaflet](https://leafletjs.com/) - JavaScript Library for Interactive Maps
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavaScript](https://eloquentjavascript.net/) - JavaScript Learning Books
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Questions for Practice
@@ -1131,13 +1171,14 @@
 
 ## ▷ Game Development
 
-* ⭐ **[Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev)** - Resources
-* ⭐ **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
+* 🌐 **[Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev)** - Resources
+* 🌐 **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
+* 🌐 **[Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources)** - Resources
+* 🌐 **[The VG Resource](https://www.vg-resource.com/)** - Resources
 * ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
-* [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - Resources
-* [The VG Resource](https://www.vg-resource.com/) - Resources
+* [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
 * [Web Game Dev](https://www.webgamedev.com/) - Game Dev Guides / [Discord](https://discord.com/invite/5Z28wjTeyh)
@@ -1185,6 +1226,7 @@
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Awesome Anki](https://github.com/tianshanghong/awesome-anki), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
@@ -1201,6 +1243,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
+* [GradesCalculator](https://calculatecgpa.com) - Calculate CGPA & GPA
 * [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Discord Bot
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
@@ -1244,7 +1287,6 @@
 
 ## ▷ JEE / NEET
 
-* 🌐 **[JEE Masterlist](https://rentry.co/FMHYBase64#jee-masterlist)** - JEE Resources
 * 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archive
@@ -1347,7 +1389,6 @@
 ## ▷ Wikipedia Tools
  
 * [HatNote](https://top.hatnote.com/) - Top Pages
-* [Deletionpedia](https://deletionpedia.org/en/Main_Page) - Deleted Pages
 * [HyperLeak](https://hyperleap.com/), [2](https://reversepedia.org/) - Page Connections
 * [Wiki Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) - Dark Mode
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI

@@ -26,13 +26,11 @@
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [RunCat](https://github.com/Kyome22/RunCat_for_windows) - Animated CPU Monitor
 * [7-Max](https://7-max.com/) - Increase App Performance 
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
+* [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
@@ -75,14 +73,13 @@
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 
 ***
 
 ## ▷ Package Managers
 
 * ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager / [Repos](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate)
-* ⭐ **[Scoop](https://scoop.sh/)** - CLI Package Manager
+* ⭐ **[hok](https://github.com/chawyehsu/hok)**, [Scoop](https://scoop.sh/) or [sfsu](https://github.com/winpax/sfsu/) - CLI Package Managers
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
 * [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
@@ -105,7 +102,7 @@
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives) or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
+* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Wives](https://github.com/KRTirtho/wives) or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
@@ -148,8 +145,6 @@
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Manager
 * [CopyQ](https://hluk.github.io/CopyQ/) or [XClipper](https://kaustubhpatange.github.io/XClipper/) - Clipboard Managers with Editing and Scripting Features
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
-* [Xtra Clipboard](https://xtra-clipboard.com/) - Chrome Clipboard Manager
-* [Control V](https://ctrl.vi/) - Share Images in Your Clipboard via Secret URL
 
 ***
 
@@ -167,20 +162,19 @@
 
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators / VMs
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
+* ↪️ **[Hackintosh Resources](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hackintosh)**
 * ⭐ **[VMware Workstation](https://rentry.co/FMHYBase64#vmware) or [VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
-* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://chefkissinc.github.io/guides/hackintosh/), [2](https://www.tonymacx86.com/) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through
 * [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [CollabVM](https://computernewb.com/collab-vm/) or [Terminator](https://terminator.aeza.net/) - Online Virtual Machines
+* [JS Linux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
-* [PCjs Machines](https://www.pcjs.org/) or [Windows93](https://www.windows93.net/) - Classic Computer Emulators
+* [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
-* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
@@ -225,9 +219,7 @@
 * ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) - NVIDIA Driver Packages
 * [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) - NVIDIA Driver Manager
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
-* [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
@@ -243,7 +235,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)**, [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer / Cleanup Tool
 * [TrueNAS](https://www.truenas.com/) - Storage System
@@ -254,7 +246,7 @@
 * [Erdtree](https://github.com/solidiquis/erdtree) - Cross-Platform Disk Usage Analyzer
 * [PC Manager](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
-* [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
+* [SFTPDrive](https://www.callback.com/sftpdrive) - Mount SFTP Servers as Local Disks
 
 ***
 
@@ -450,9 +442,8 @@
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
-* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
+* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [VSThemes Live Walls](https://vsthemes.org/en/wallpapers/), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated / Live Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
-* [VSThemes Live Walls](https://vsthemes.org/en/wallpapers/) -Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
 * [Anime Pictures](https://anime-pictures.net/), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
@@ -460,7 +451,6 @@
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Apple Wallpapers
 * [BasicAppleBlog](https://basicappleguy.com/basicappleblog/category/Wallpaper) - Custom Apple Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Xbox Wallpapers
-* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/) - Curated List of Wallpapers from Different Sources
 * [Wallpaper Tip](https://wallpapertip.com/), [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers
 * [G_Walls](https://t.me/G_Walls) or [pengwyn](https://t.me/pengwyn) - Telegram Wallpaper Channels
 

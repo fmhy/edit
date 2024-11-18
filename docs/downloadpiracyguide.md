@@ -6,7 +6,7 @@
 
 # ► Download Directories
 
-* **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+* **Note** - Some Open Directories grab IPs, so use a VPN or Tor when accessing them.
 
 ***
 
@@ -134,7 +134,7 @@
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/14480#issuecomment-1907310059)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Signup Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
@@ -183,7 +183,7 @@
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
-* ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
+* ⭐ **[store.rg](https://store.rg-adguard.net/)** or [StoreWeb](https://msft-store.tplant.com.au/) - Paid Microsoft Store Link Generators / [Guide](https://rentry.co/paidAppsMsStore)
 * [MajorGeeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) - Freeware Downloads
 * [Softpedia](https://www.softpedia.com/) - Freeware Directory
 * [Realityripple](https://realityripple.com/) - Freeware Directory
@@ -260,6 +260,7 @@
 
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
+* 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
 * [Usenet Providers Map](https://mediavoid.io/map.svg)
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)

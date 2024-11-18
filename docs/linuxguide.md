@@ -60,6 +60,7 @@
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
+* [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin) 
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
@@ -275,15 +276,16 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 Linux Gaming Guide
-* 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility 
+* 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility
 * ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility Descriptions / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
+* ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
 * ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://gitlab.com/jc141x/portal)
+* [linuxgames](https://rentry.co/FMHYBase64#linux-games) - Linux Games
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices
@@ -309,8 +311,6 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
-* [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
-* [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) / [Sober](https://sober.vinegarhq.org/)
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in Your Terminal
@@ -408,7 +408,7 @@ Linux Gaming Guide
 * [Nextcord](https://docs.nextcord.dev/) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
-* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLI's
+* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLIs
 * [Flash 32 Download](https://pastebin.com/0fNaeceW)
 
 ***
@@ -468,7 +468,6 @@ Linux Gaming Guide
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dannyb.co/) - Bash Frameworks
 * [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
 * [Basher](https://www.basher.it/) or [bpkg](https://bpkg.sh/) - Bash Package Manager
-* [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extensions
@@ -501,7 +500,7 @@ Linux Gaming Guide
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
 * [Fondo](https://github.com/calo001/fondo), [varietywalls](https://github.com/varietywalls/variety), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
-* [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use Videos as Animated Wallpaper
+* [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
 * [wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - Wallpaper Engine KDE Plugin
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
@@ -533,7 +532,6 @@ Linux Gaming Guide
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
-* [Whisky](https://getwhisky.app/) - Wine Wrapper
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
 * [Cider](https://cider.sh/) - Audio Players / Free Classic Version / [GitHub](https://github.com/ciderapp/Cider)
@@ -559,7 +557,8 @@ Linux Gaming Guide
 * [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
-* [Adobe Creative Cloud](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - Adobe CC Guides
+* [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader
+* [Adobe Creative Cloud](https://rentry.co/FMHYBase64#mac-adobe-cc) - Adobe CC Guides
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - macOS Bash Commands
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
@@ -621,8 +620,7 @@ Linux Gaming Guide
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
-* [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
-* [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom System Icons
+* [Pictogram](https://pictogramapp.com/), [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
@@ -683,6 +681,7 @@ Linux Gaming Guide
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
+* [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
@@ -699,6 +698,7 @@ Linux Gaming Guide
 ## ▷ Mac Gaming
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
+* ⭐ **[Whisky](https://getwhisky.app/)** - Automated Installer / Wrapper for Game Porting Toolkit + WINE
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/) - Mac Games
@@ -720,12 +720,10 @@ Linux Gaming Guide
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
-* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - DNS Adblocker
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client
-* [Mana](https://github.com/manasecurity/mana-security-app) - App Security Monitor
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
 * [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor
 * [Santa](https://github.com/google/santa) - Binary Authorization System
