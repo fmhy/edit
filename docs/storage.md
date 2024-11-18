@@ -690,7 +690,7 @@
 
 ## Minecraft
 
-### Mod Indexes
+### Mod / Texture Pack / Shader Indexes
 
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
