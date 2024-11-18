@@ -295,22 +295,22 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Storage Size / File Size / Expiry.
 
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / 30 Days+ / **[Use Adblocker](https://rentry.org/zo2dcbkp)** / [Discord](https://discord.gg/ttQjgC28WP)
-* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
-* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
-* ⭐ **[file.haus](https://filehaus.top/)** - 300GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
-* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
-* [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
+* ⭐ **[Gofile](https://gofile.io/)** - Unlimited  / Unlimited / 10 Days
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Unlimited / 30 Days after last download / **[Use Adblocker](https://rentry.org/zo2dcbkp)** / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per file / 120 Days after last pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
+* ⭐ **[file.haus](https://filehaus.top/)** - Unlimited / 300GB per file / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
+* ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Unlimited Audio Files / 200MB (500MB with Account) / Forever
+* [Send.cm](https://send.cm/) - 100GB / 100GB per file / 30 days after last download
+* [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
+* [Fastupload.io](https://fastupload.io/en) - Unlimited / 30 Days (60 Days with Account)
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days with Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
@@ -318,13 +318,11 @@
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
+* [Drop Download](https://drop.download/) - 25GB / 90 Days / Account Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited with Account) / [Note](https://pastebin.com/Rr9ZqD2F)
-* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
-* [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
-* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days with Account)
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
@@ -346,6 +344,8 @@
 * [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days with Account)
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
+* [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
+* [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 
 ***
