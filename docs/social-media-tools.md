@@ -346,21 +346,21 @@
 
 # ► YouTube Tools
 
-* 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools Index
+* 🌐 **[YTLarge](https://ytlarge.com/)** - YouTube Tools Index
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
+---
 * [YouTube Wrapped](https://videorecap.viewodyssey.com/) - Personal YouTube Rewind
 * [YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
-* [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
+* [Playboard](https://playboard.co) or [Viewstats](https://www.viewstats.com/) - YouTube Channel Stats
 * [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
-* [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
-* [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
-* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
+* [Rapidtags](https://www.rapidtags.io/) - YouTube Tag Generator
+* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Convert Audio Files and Upload to YouTube
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Import Local Subtitles to YouTube / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [ChatReplay](https://chatreplay.stream/) - Livestream Chat Replay
@@ -375,23 +375,23 @@
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/), [2](https://jabrek.net/dislike-en) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
+* ⭐ **[PKGA](https://greasyfork.org/en/scripts/442089)** or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
+* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Fast Forward YT Shorts](https://greasyfork.org/en/scripts/466438) - Add Seek Hotkeys to Shorts
-* [BlockTube](https://github.com/amitbl/blocktube) or [YTBlock](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) - YouTube Content Blocker
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
-* [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
+* [YouTube Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Search Results in Grid View
 * [YouTube Search Fixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Declutter Search Results / Homepage
+* [BlockTube](https://github.com/amitbl/blocktube) or [YTBlock](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) - YouTube Content Blocker
+* [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
-* [youtube_livestream_theatre.user.css](https://gitlab.com/-/snippets/2099898) - Twitch-Style Theater Mode for YouTube Livestreams
-* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Discord](https://vorapis.pages.dev/#/join_community) / [Features](https://greasyfork.org/en/scripts/485622) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
-* [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
-* [YouTube Row Fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - Customize Number of Video Rows
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://vorapis.pages.dev/#/join_community) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout / [r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
 * [Non-Rounded Design](https://greasyfork.org/en/scripts/453802) - Revert YouTube's New Rounded Design
 * [Upvote Anywhere](https://github.com/z0ccc/comet) - Replace YouTube Comments with Reddit Comments
 * [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
-* [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
+* [Tabview YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
 
 ***
 
@@ -421,11 +421,11 @@
 * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitles)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored Video Segments / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
-* ⭐ **[PKGA](https://greasyfork.org/en/scripts/442089)** or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
+* [YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass Age Restricted Videos / [GitHub](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [Note]()
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos
-* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Hide Watched Videos
+* [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check Exact Upload Time/Date of Videos
 * [Annotations Restored](https://github.com/isaackd/AnnotationsRestored) or [Annotations Data Archive](https://archive.org/details/youtubeannotations) - Restore Video Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [AppsGolem](https://appsgolem.com/en/cut-youtube-video), [YT Cutter](https://ytcutter.link/) or [yt_clipper](https://github.com/exwm/yt_clipper) - Crop YouTube Videos / Create Clips
@@ -437,15 +437,13 @@
 
 ## ▷ Playlist Tools
 
-* ⭐ **[Playlists at YouTube](https://playlists.at/youtube/)** or [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) - Playlists Creators
+* ⭐ **[playlists.at](https://playlists.at/)** - Playlist Creators / [Chrome Extension](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg)
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
+* [ytcc](https://github.com/woefe/ytcc) - Keep Track of Your Playlists
+* [Multiselect (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) or [Multiselect (Chrome)](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Manager
 * [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sort Your Playlists
-* [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
-* [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
+* [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
-* [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
-* [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 
 ***
 
@@ -481,7 +479,6 @@
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
-* [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [YT Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched YouTube Videos
