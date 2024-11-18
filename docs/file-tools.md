@@ -304,7 +304,6 @@
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / 30 Days+ / **[Use Adblocker](https://rentry.org/zo2dcbkp)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
-* ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days with Account)
 * ⭐ **[file.haus](https://filehaus.top/)** - 300GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
@@ -313,6 +312,7 @@
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
+* [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days with Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
