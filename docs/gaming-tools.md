@@ -559,6 +559,7 @@
 
 ## ▷ Mods / Data Packs
 
+* 🌐 **[Not Essential](https://notessential.blurry.gay/)** - List of Alternatives to Essential
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [quark](https://quarkmod.net/) - Quality of Life Mods
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mod_indexes)**
 * ↪️ **[Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
