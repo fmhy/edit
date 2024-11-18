@@ -151,10 +151,6 @@
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
-* [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
-* [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
-* [Privacy.com](https://privacy.com/) - Make Secure Payments / US Only
-* [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 
