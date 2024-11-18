@@ -178,6 +178,7 @@
 * [Talky](https://talky.io/) - Video Chat
 * [GoTeam](https://goteam.video/) - Video Chat
 * [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics
+* [WADesk](https://wadesk.io/en) - WhatsApp Multi-Account Intelligent Management Tool
 
 ***
 
