@@ -599,6 +599,40 @@
 
 ***
 
+## ▷ Technical Tools
+
+* 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
+* 🌐 **[Minecraft Speedrunning](https://www.minecraftspeedrunning.com/)** - Minecraft Speedrunning Resources
+* ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
+* ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
+* ⭐ **[Minecraft Java Flags](https://github.com/Mukul1127/Minecraft-Java-Flags)** - Java Edition Performance Tweaks
+* [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
+* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator / [GitHub](https://github.com/PrismarineJS/mineflayer)
+* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
+* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
+* [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
+* [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
+* [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
+* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
+
+***
+
+## ▷ Customization
+
+* 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
+* ↪️ **[Texture Pack Indexes]()**
+* ⭐ **[NameMC](https://namemc.com/)**, [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [Crafty](https://crafty.gg/) - Minecraft Name & Skin Availability Trackers
+* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
+* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
+* [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
+* [MSkins](https://mskins.net/en) - Skin Grabber
+* [Ely.by](https://ely.by/) - Skin System / Authorization
+* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/) - Minecraft Skin Editor
+* [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
+* [PVPRP](https://pvprp.com/) - PVP Texture Packs
+
+***
+
 ## ▷ 3D Tools
 
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Blender addon / [GitHub](https://github.com/Moo-Ack-Productions/MCprep) / [Discord](https://discord.com/invite/mb8hBUC)
