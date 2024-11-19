@@ -51,7 +51,6 @@
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
-* [Clipperz](https://clipperz.is/)
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
 * [Spectre](https://spectre.app/)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
