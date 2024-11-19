@@ -561,7 +561,6 @@
 
 * 🌐 **[Not Essential](https://notessential.blurry.gay/)** - List of Alternatives to Essential
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
-* 🌐 **[Modrinth Optimization Mods](https://modrinth.com/mods?f=categories:optimization)** / **[Modpacks](https://modrinth.com/modpacks?f=categories:optimization)** - Optimization Mods Index
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mod_indexes)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * [Builders Refuge](https://modrinth.com/modpack/builders-refuge) - Building Modpack
