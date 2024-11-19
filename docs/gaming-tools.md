@@ -576,9 +576,6 @@
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Automatic Bedrock Miner Mod
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
-* [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
-* [Friends and Foes](https://modrinth.com/mod/friends-and-foes-forge), [2](https://modrinth.com/mod/friends-and-foes) - Outvoted Minecraft Live Mobs
-* [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod & Data Pack
 * [Vanilla Tweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
 
