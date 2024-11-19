@@ -94,6 +94,7 @@
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
+* ⭐ **[Hexa Watch](https://hexa.watch/)** - Movies / TV / 1080p / [API](https://api.hexa.watch)
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
