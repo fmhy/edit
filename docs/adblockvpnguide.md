@@ -179,19 +179,12 @@
 
 ## ▷ Network Security
 
+* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** 
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
-* ⭐ **[Fort](https://github.com/tnodir/fort)** - Firewall
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
-* ⭐ **[nekoray](https://github.com/MatsuriDayo/nekoray)** - DIY Privacy Network
-* V2Ray Tools - [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials), [2](https://rentry.org/bypass-gov-restrictions)
-* [V2Ray](https://v2ray.com/en/) - DIY Privacy Network
-* [V2Fly](https://www.v2fly.org/) - DIY Privacy Network
-* [V2RayN](https://github.com/freefq/free) - DIY Privacy Network
-* [v2rayN](https://github.com/2dust/v2rayN) - DIY Privacy Network
-* [Qv2ray](https://github.com/Qv2ray/Qv2ray) - DIY Privacy Network
-* [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* [edgetunnel](https://github.com/zizifn/edgetunnel) - Run V2ray in Edge / Serverless Runtime
+* ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
+* [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
 ***
@@ -414,8 +407,6 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
-* [Censorship Bypass Guide](https://2305878273.7844380499.cfd/) 
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/)
