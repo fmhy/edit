@@ -359,9 +359,8 @@
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[How to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
+* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy) / [Manager](https://donaldzou.github.io/WGDashboard-Documentation/), [Discord](https://discord.gg/72TwzjeuWm)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
-* [WGDashboard](https://donaldzou.github.io/WGDashboard-Documentation/) - WireGuard Manager / [Discord](https://discord.gg/72TwzjeuWm)
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
 * [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)

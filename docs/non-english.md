@@ -1427,7 +1427,6 @@
 * [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [epublibre](https://www.epublibre.org/) - Books
-* [elcano.top](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 
 ## ▷ Streaming / Streamear
 

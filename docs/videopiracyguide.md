@@ -163,7 +163,6 @@
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
-* [DaftAnime](https://daftanime.com/) - Sub / Dub 
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AniPlay](https://aniplaynow.live/) - Sub / Dub / Auto-Nextp / [Discord](https://discord.gg/Zws2rAGSN6)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)

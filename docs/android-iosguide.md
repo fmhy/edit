@@ -880,7 +880,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[Smart TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Guide](https://guides.viren070.me/stremio), [2](https://rentry.co/bye-sudo) / [/r/StremioAddons](https://reddit.com/r/StremioAddons) / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime
-* ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://github.com/Rowdy-Avocado/Rowdycado-Extensions), [3](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page) / [GitHub](https://github.com/recloudstream/cloudstream)
+* ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page) / [GitHub](https://github.com/recloudstream/cloudstream)
 * ⭐ **[FlixQuest](https://flixquest.beamlak.dev/)** - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * ⭐ **[Miru Project](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/)
 * ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
