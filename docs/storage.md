@@ -694,7 +694,7 @@
 
 ## Minecraft
 
-### Mod / Texture Pack Indexes
+### Mod / Resource Pack Indexes
 
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
