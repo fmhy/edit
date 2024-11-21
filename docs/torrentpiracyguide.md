@@ -43,6 +43,7 @@
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentCORE](https://torrentcore.xyz/)
+* [Bitsearch](https://bitsearch.to/)
 * [DaMag](https://damag.net/)
 * [SolidTorrents](https://solidtorrents.to/), [2](https://solidtorrents.eu/)
 * [Cleanbay](https://cleanbay.netlify.app/)

@@ -73,6 +73,7 @@
 * ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Note-Taking
 * [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Note-Taking
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking
+* [Safe Notes](https://safenotes.dev/) - Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
 * [Quillpad](https://quillpad.github.io/) - Note-Taking
 * [sNotz](https://sunilpaulmathew.github.io/sNotz/) - Note-Taking
 * [Notion](https://www.notion.so/) - Note-Taking
@@ -433,7 +434,6 @@
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[Serv00](https://serv00.com/)** - Unlimited Monthly Transfer / 3GB space
 * [infinityfree](https://infinityfree.com/) - 5GB space
 * [byet.host](https://byet.host/free-hosting) - 5GB Space
 * [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space
@@ -1008,9 +1008,9 @@
 
 * [M4uFree.com](https://ww2.m4ufree.com/)
 * [M4uFree.se](https://m4ufree.se/)
-* [M4uFree.tv](https://ww1.m4ufree.tv/) / [2](https://m4ufree.to/) / [3](https://m4ufree.vip/) / [4](https://m4ufree.pw/)
-* [M4uHD.tv](https://ww1.m4uhd.tv/) / [2](https://ww1.m4uhd.cc/) / [3](https://m4uhd.to/)
-* [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
+* [m4ufree.to](https://ww1.m4ufree.to/) / [2](https://m4ufree.vip/) / [3](https://m4ufree.pw/)
+* [M4uHD.tv](https://ww2.m4uhd.tv/) / [2](https://ww2.m4uhd.cc/) / [3](https://m4uhd.to/)
+* [Streamm4u](https://ww1.streamm4u.tv/) / [2](https://ww1.streamm4u.net/)
 * [M4uMV.org](https://m4umv.org/)
 * [MoviesM4U](https://moviesm4u.net/)
 * [Filmzie](https://filmzie.cc/)
