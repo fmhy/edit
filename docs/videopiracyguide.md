@@ -92,9 +92,9 @@
 ***
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
+* ⭐ **[Catflix](https://catflix.su/** - Movies / TV
+* [Hexa Watch](https://hexa.watch/) - Movies / TV / Anime / AD-FREE / 1080p [Discord](https://discord.gg/fF7TwrjR6T)
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
-* [Hexa Watch](https://hexa.watch/) - Movies / TV / [API](https://api.hexa.watch)
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [Bitsearch](https://bitsearch.to/) - Movies / TV / Anime
@@ -967,6 +967,7 @@
 
 ## ▷ Streaming APIs
 
+* [Hexa Watch API](https://api.hexa.watch/) - Movies / TV / Anime / AD-FREE [Discord](https://discord.gg/fF7TwrjR6T)
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
