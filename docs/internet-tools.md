@@ -558,7 +558,7 @@
 
 ## ▷ Email Aliasing
 
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Reddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
@@ -785,6 +785,7 @@
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me"
 * [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
 * [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
+* [Remove Bing CK](https://greasyfork.org/en/scripts/483444) - Remove Bing CK Redirects
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button

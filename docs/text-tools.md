@@ -217,7 +217,7 @@
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
@@ -373,7 +373,7 @@
 
 * 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_text_generators)**
-* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [Write.as](https://write.as/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
+* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps

@@ -139,7 +139,7 @@
 * [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE5 Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Text Editor / Note Apps
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Text Editor / Note Apps
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations / [GitHub](https://github.com/liferooter/textpieces)
 * [Durdraw](https://durdraw.org/) - ASCII Editor
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI

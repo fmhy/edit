@@ -29,8 +29,9 @@
 ## 3D Models
 
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**
+* ⭐ **[Printables](https://www.printables.com/)**
 
-[Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownload.ru/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [TopGFX](https://topgfx.info/index.php), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/), [thebasemesh](https://www.thebasemesh.com/)
+[Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownload.ru/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [TopGFX](https://topgfx.info/index.php), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/), [thebasemesh](https://www.thebasemesh.com/)
 
 ***
 
@@ -162,7 +163,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 
-[Online Cloud File Viewer](https://www.fviewer.com/), [Ebook Reader for web](https://www.loudreader.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/)
+[Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Ebook Reader for web](https://www.loudreader.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/)
 
 ***
 
@@ -170,7 +171,7 @@
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://behu.io/) / [Source Code](https://pastebin.com/CczqreS4)
+* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://behu.io/) / [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
 [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
@@ -405,6 +406,7 @@
 * ⭐ **[Neocities](https://neocities.org/)**
 * ⭐ **[nekoweb](https://nekoweb.org/)**
 * ⭐ **[Eleventy](https://11ty.dev/)**
+* [Eleventy](https://www.11ty.dev/) / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * [Web 1.0 Hosting](https://web1.0hosting.net/)
 * [Codeberg Pages](https://codeberg.page/)
 * [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
@@ -1071,7 +1073,7 @@
 ## Switch ROMs
 
 * ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
-* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
+* [NXBrew](https://nxbrew.net/) / Scroll past Download Setup buttons
 * [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRom](https://nswrom.com/)

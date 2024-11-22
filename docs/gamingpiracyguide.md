@@ -23,7 +23,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Bypass All Shortlinks Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
 * ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE) 
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
@@ -391,6 +391,7 @@
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
+* [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
@@ -570,7 +571,7 @@
 * [AllBad.Cards](https://bad.cards/) - Cards Against Humanity Online 
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
+* [BlackReds](https://blacksreds.com/patiences), [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
@@ -619,6 +620,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
+* [mmmines!](https://mmmines.fly.dev/) or [MineJD](https://minesjd.com/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinte Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
 * [PROXX](https://proxx.app/) - Space Minesweeper

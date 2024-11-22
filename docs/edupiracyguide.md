@@ -376,7 +376,6 @@
 ## ▷ Quote Indexes
 
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* [QuotationsPage](http://www.quotationspage.com/)
 * [BrainyQuote](https://www.brainyquote.com/)
 * [AZQuotes](https://www.azquotes.com/)
 * [QuoteGarden](https://www.quotegarden.com/)
@@ -909,7 +908,7 @@
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
-* ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorial
+* ⭐ **[OpenVim](https://openvim.com/)** or [⁠Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)** or [Learn SQL](https://sqlbolt.com/) - SQL Lessons
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Contribution Guides for Beginners
 * [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
@@ -1113,7 +1112,7 @@
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) or [Skilled.dev](https://skilled.dev/) - Coding Interview Questions
 * [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges), [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Hackathon / Challenge Communities
-* [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code), [Kattis](https://open.kattis.com/) or [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
+* [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code), [CodeAbbey](https://www.codeabbey.com/), [Kattis](https://open.kattis.com/) or [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
@@ -1398,3 +1397,4 @@
 * [Substance](https://substance.reorx.com/) - Extract Markdown
 * [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
 * [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
+* [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool

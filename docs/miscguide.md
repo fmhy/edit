@@ -284,6 +284,7 @@
 * [GPS Power](https://www.gpspower.net/) - GPS Navigation Forum
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Apple Maps](https://beta.maps.apple.com/) - Online Maps
+* [Mapy](https://en.mapy.cz/) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Routes
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -906,7 +907,7 @@
 * ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
-* ⭐ **[GSMArena](https://www.gsmarena.com/)**, [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
+* ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
@@ -1063,6 +1064,7 @@
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
 * [onlinetools](https://onlinetools.com/) - File Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
+* [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
 * [KodyTools](https://www.kodytools.com/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia

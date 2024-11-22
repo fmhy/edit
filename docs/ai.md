@@ -30,7 +30,6 @@
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
-* [DeepSeek](https://chat.deepseek.com/) - o1 / 50 Daily
 * [NextChat](https://free.xiercloud.top/), [THZStudent](https://chatgpt.thzstudent.top/), [TypeGPT](https://chat.typegpt.net/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
@@ -38,6 +37,7 @@
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
+* [DeepSeek](https://chat.deepseek.com/) - R1-Lite-Preview / 50 Daily
 * [Autonomous](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup

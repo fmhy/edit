@@ -115,9 +115,10 @@
 ## ▷ Remote Desktop
 
 * ⭐ **[Parsec](https://parsec.app/)** - Desktop Client
-* ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client
+* ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [Reddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN)
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -280,7 +281,7 @@
 
 * ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
 * ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)**, [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/cheatSheet) - Keyboard Shortcuts / [Image](https://i.ibb.co/yNHRPfm/2147ec86baff.png), [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/)
-* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/), [Mahou](https://gitea.com/BladeMight/Mahou) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
+* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Ergogen](https://ergogen.xyz/), [Mahou](https://gitea.com/BladeMight/Mahou) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity
@@ -288,6 +289,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
+* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager

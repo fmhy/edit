@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / 4K
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -21,6 +21,7 @@
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / 4K / 1080p / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [kipstream](https://kipstream.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
@@ -98,6 +99,7 @@
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [Bitsearch](https://bitsearch.to/) - Movies / TV / Anime
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
+* [OnionPlay](https://onionplay.asia/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
 * [Soaper.TV](https://soaper.tv/), [2](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
 * [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
@@ -722,8 +724,6 @@
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
 * [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) - Addons Manager
 * [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - ffmpeg Wrapper
-* [Stremio Simkl](https://simkl.com/apps/stremio/) - Stremio Simkl Addon
-* [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) - Stremio Trakt Addon
 * [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
 * [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
 
