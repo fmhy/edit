@@ -531,6 +531,8 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Salwyrr Launcher](https://www.salwyrr.com/) - Launcher / [Use Cracked Accounts](https://pastebin.com/ggcB7RNi)
 * [Ares](https://www.aresclient.com/) - Client
+* [Curseforge](https://www.curseforge.com/download/app) - Modpack Launcher
+* [Modrinth](https://modrinth.com/app) - Modpack Launcher / [Discord](https://discord.modrinth.com/)
 
 ***
 
