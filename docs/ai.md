@@ -146,6 +146,7 @@
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
+* [GPT4Free](https://github.com/xtekky/gpt4free⁠) - Desktop App / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.gg/6yrm7H4B)
 * [Msty](https://msty.app/) - Desktop App
 * [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
 * [Noi](https://noi.nofwl.com/) - Desktop App / [GitHub](https://github.com/lencx/Noi)

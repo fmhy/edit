@@ -1397,4 +1397,4 @@
 * [Substance](https://substance.reorx.com/) - Extract Markdown
 * [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
 * [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
-* [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool
+* [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool / [Telegram](https://t.me/+wB73NTv6QxtjNGUy) / [GitHub](https://github.com/codeledge/entitree)
