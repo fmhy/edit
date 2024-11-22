@@ -141,6 +141,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '🔗 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+      { text: '💡 Site Hunting', link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/' },
       { text: '🏞 Wallpapers', link: '/other/wallpapers' },  
       { text: '💙 Feedback', link: '/feedback' },
       {
