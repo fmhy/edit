@@ -979,7 +979,6 @@
 * [moviee](https://moviee.tv/api) - Movies / TV
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K
 * [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
-* [Hexa API](https://api.hexa.watch) - Movies / TV / Anime / API
 * [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
