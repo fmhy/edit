@@ -563,6 +563,7 @@
 * [FunNode](https://www.funnode.com/) - Online Board Games
 * [Screentop](https://screentop.gg/) - Online Board Games / [Discord](https://discord.gg/wva8ebh)
 * [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
+* [BlackReds](https://blacksreds.com/) - Multiplayer Card Games
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
 * [Playok](https://www.playok.com/) - Multiplayer Card Games
 * [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
@@ -571,7 +572,7 @@
 * [AllBad.Cards](https://bad.cards/) - Cards Against Humanity Online 
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [BlackReds](https://blacksreds.com/patiences), [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
+* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
