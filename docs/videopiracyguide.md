@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / 4K
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)

@@ -598,11 +598,10 @@
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
-* ⭐ **[FireFlix](https://fireflixhd.netlify.app/)** - Movies / TV / Anime
+* ⭐ **[PRMovies](https://prmovies.pw/)**, [HDDMovies](https://hhdmovies.baby/) or [FireFlix](https://fireflixhd.netlify.app/) - Movies / TV / Anime
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
 * [streamblasters](https://streamblasters.pm/) - Movies / TV / Sub / Dub / 1080p
 * [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
