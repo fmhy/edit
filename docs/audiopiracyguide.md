@@ -107,6 +107,7 @@
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/16767/) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[Newgrounds](https://www.newgrounds.com/audio)** - User Made Songs
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [ArtistGrid](https://artistgrid.netlify.app/) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
