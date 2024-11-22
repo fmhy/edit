@@ -49,7 +49,7 @@
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
-* [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/) - Download Manager for HTTP / FTP / SFTP Protocols
+* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
 * [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
