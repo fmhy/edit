@@ -82,7 +82,7 @@
 ## ▷ Streaming Apps
 
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
-* ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - YouTube Music Client / [GitHub](https://github.com/KRTirtho/spotube)
+* ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - Streaming / [GitHub](https://github.com/KRTirtho/spotube)
 * [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [MooSync](https://moosync.app/) - YouTube Music Client / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client

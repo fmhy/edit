@@ -165,7 +165,6 @@
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Root Required
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
-* [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [DJ3D](https://dj3d.io/) - Virtual World Server
 * [Mini Video Me](https://github.com/maykbrito/mini-video-me) - Webcam Managers
@@ -469,7 +468,6 @@
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
-* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 

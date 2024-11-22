@@ -16,22 +16,19 @@
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
-* [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
+* [WhatsLink](https://whatslink.info/) - View File Download Metadata
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
 * [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt Your Files
 * [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
-* [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
-* [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
-* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO Viewers
+
 
 ***
 
@@ -52,7 +49,6 @@
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
 * [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
-* [WhatsLink](https://whatslink.info/) - View File Download Metadata
 
 ***
 
