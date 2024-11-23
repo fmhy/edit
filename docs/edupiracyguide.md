@@ -1228,11 +1228,13 @@
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
+* [Co-STORM](https://storm.genie.stanford.edu/) - Generate Wiki-Style Articles for Anything
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://inciteful.xyz/) - Find Connected Literature via Citations
 * [PLText](https://pltext.com/), [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractors / Managers
+* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX 
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool

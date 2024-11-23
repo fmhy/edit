@@ -722,10 +722,11 @@
 
 * 🌐 **[Stremio Addons](https://stremio-addons.netlify.app/)** - Stremio Addons
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
-* [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) - Addons Manager
-* [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - ffmpeg Wrapper
+* [Stremio Addon Manager](https://addon-manager.viren070.me/), [2](https://stremio-addon-manager.vercel.app/), [3](https://github.com/pancake3000/stremio-addon-manager) - Addons Manager
 * [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
 * [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
+* [Simkl Stremio](https://simkl.com/apps/stremio/) - Simkl for Stremio
+* [Trakt Stremio](https://2ecbbd610840-trakt.baby-beamup.club/) - Trakt for Stremio
 
 ***
 

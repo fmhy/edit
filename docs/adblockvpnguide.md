@@ -14,7 +14,7 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** or [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (mv3 compatible) - Adblocker
-* ⭐ **uBO Resources** - [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **uBO Resources** - [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [AdGuardFilters](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads

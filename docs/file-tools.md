@@ -17,6 +17,7 @@
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
+* [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata

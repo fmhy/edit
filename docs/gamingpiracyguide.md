@@ -61,7 +61,7 @@
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download / Password: gnarly
 * [Xatab Repacks](https://byxatab.com/) - Torrent
 * [ScOOt3r Repacks (Discord)](https://discord.gg/xe3Fys8Upy) - Download / Torrent
-* [DigitalZone](https://digitalzone.vercel.app/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/ja3v2z26Sj)
+* [DigitalZone](https://digital-zone.xyz/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/ja3v2z26Sj)
 * [Elamigos](https://elamigos.site/) - Download
 * [DODI Repacks](https://rentry.co/FMHYBase64#dodi) - Torrent / [Lootlink Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/wMcfnZTm) / [Discord](https://discord.gg/D9WU7C9FSE)
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
