@@ -46,6 +46,7 @@
     "@iconify-json/heroicons-solid": "^1.2.0",
     "@iconify-json/lucide": "^1.2.10",
     "@iconify-json/mdi": "^1.2.1",
+    "@iconify-json/simple-icons": "^1.2.12",
     "@iconify-json/twemoji": "^1.2.1",
     "@taskylizard/biome-config": "^1.0.5",
     "@types/node": "^20.16.12",

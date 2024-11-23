@@ -556,7 +556,7 @@
 
 ## ▷ Email Aliasing
 
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Reddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension

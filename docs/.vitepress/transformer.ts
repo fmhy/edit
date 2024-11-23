@@ -280,13 +280,13 @@ const transformLinks = (text: string): string =>
         name: 'GitHub',
         find: /\[GitHub\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
+          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-0.5" /></a>'
       },
       {
         name: 'GitHub Fallback',
         find: /\[Github\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
+          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-0.5" /></a>'
       },
       {
         name: 'GitLab',
@@ -311,6 +311,18 @@ const transformLinks = (text: string): string =>
         find: /\[Subreddit\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
+      },
+      {
+        name: 'Twitter',
+        find: /\[Twitter\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><div alt="Twitter" class="i-mdi:twitter" /></a>'
+      },
+      {
+        name: 'Tor',
+        find: /\[.onion\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><div alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
       }
     ])
     .getText()
