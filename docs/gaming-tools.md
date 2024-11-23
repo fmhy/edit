@@ -790,7 +790,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
-* [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
+* [SPWN](https://spu7nix.net/spwn/#/) or [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language
 * [GD Docs](https://wyliemaster.github.io/gddocs/) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
