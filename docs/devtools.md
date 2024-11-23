@@ -775,7 +775,7 @@
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI
 * [Markdown to HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - HTML to Markdown Converter
-* [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
+* [AiToHTML](https://github.com/newsdev/ai2html) - Illustrator to HTML Converter
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to HTML
 * [HEAD](https://htmlhead.dev/) - HTML head Element Guide
 * [APlayer](http://aplayer.js.org) - HTML Audio Player
