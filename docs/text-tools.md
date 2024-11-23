@@ -117,6 +117,7 @@
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
+* [Transgate](https://transgate.ai/) - AI Speech to Text
 
 ***
 
