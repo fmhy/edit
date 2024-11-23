@@ -280,13 +280,13 @@ const transformLinks = (text: string): string =>
         name: 'GitHub',
         find: /\[GitHub\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-0.5" /></a>'
+          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github" /></a>'
       },
       {
         name: 'GitHub Fallback',
         find: /\[Github\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-0.5" /></a>'
+          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github" /></a>'
       },
       {
         name: 'GitLab',
