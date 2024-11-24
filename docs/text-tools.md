@@ -254,6 +254,7 @@
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes
+* [StandardNotes](https://standardnotes.com/) - Encrypted Notes
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
@@ -389,7 +390,7 @@
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
-* [STARC](https://starc.app/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
+* [STARC](https://starc.app/), [WriteSolo](https://www.writersolo.com/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
 * [watchout4snakes](http://watchout4snakes.com/) - Generate Random Sentences, Phrases, Words etc.
@@ -504,6 +505,7 @@
 * [FontSpace](https://www.fontspace.com/)
 * [Font Store](https://t.me/fontsstore)
 * [NetFontes](https://www.netfontes.com.br/)
+* [Online Fonts](https://online-fonts.com/)
 * [Windows Fonts](https://wfonts.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [Font Squirrel](https://www.fontsquirrel.com/)

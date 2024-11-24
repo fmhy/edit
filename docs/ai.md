@@ -25,6 +25,7 @@
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
+* [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
@@ -153,6 +154,7 @@
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX 
 * [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen
 * [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
@@ -271,7 +273,7 @@
 * [OpenArt](https://openart.ai/) / 50 Daily / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
 * [AIGallery](https://aigallery.app/) / Unlimited / No Signup
-* [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
+* [RunComfy](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda ⁠ComfyUI-Zluda)  / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
@@ -374,7 +376,6 @@
 ## ▷ Text to Speech
 
 * ⭐ **[Uberduck](https://uberduck.ai/)** / No Signup
-* ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** / No Signup / [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** / No Signup
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)**  / No Signup / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [ElevenLabs](https://beta.elevenlabs.io/) / No Signup / [Discord](https://discord.com/invite/elevenlabs)

@@ -802,6 +802,7 @@ https://github.com/Akylas/alpimaps
 * [Harmonoid](https://harmonoid.com/)
 * [VLC for Android](https://www.videolan.org/vlc/download-android.html)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
+* [Gramophone](https://github.com/AkaneTan/Gramophone)
 * [Foobar2000](https://www.foobar2000.org/apk)
 * [Vanilla Music](https://vanilla-music.github.io/) / [GitHub](https://github.com/vanilla-music/vanilla)
 * [Retro Music Player](https://retromusic.app/)
@@ -826,7 +827,7 @@ https://github.com/Akylas/alpimaps
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [RiMusic](https://rimusic.xyz/) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
-* [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
+* [SimpMusic](https://simpmusic.tech/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
@@ -1243,6 +1244,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Anime
 
 * [NineAnimator](https://nineanimator.marcuszhou.com/) / [Discord](https://discord.gg/dzTVzeW)
+* [Ryu](https://github.com/cranci1/Ryu ) / [Discord](https://discord.com/invite/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
 * [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
