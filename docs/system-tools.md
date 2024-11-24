@@ -352,7 +352,7 @@
 
 ## ▷ Windows Updates
 
-* ⭐ **[Windows 10 EOL](https://massgrave.dev/windows10_eol)** - Receive Win10 Updates After 2025 End-of-Life
+* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10 EOL 
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [stopupdates10](https://greatis.com/stopupdates10/) or [InControl](https://www.grc.com/incontrol.htm) - Enable / Disable Win 10/11 Updates / Can Cause Breakage
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
