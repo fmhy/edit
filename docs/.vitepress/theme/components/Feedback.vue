@@ -23,7 +23,7 @@ const prompts = [
   'So... what do you think?',
   "I guess you don't need to say anything 😉",
   'Spill the beans 💣',
-  "We're always looking for ways to improve!.",
+  "We're always looking for ways to improve!",
   'Your feedback is valuable and helps us make FMHY better.',
   'aliens are watching you 👽',
   'tasky was here 👀',
