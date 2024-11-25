@@ -64,7 +64,7 @@
 ## Android Text Editors
 
 * ⭐ **[Acode](https://acode.app)** - Text Editor / [GitHub](https://github.com/deadlyjack/Acode)
-* [QuickEdit](https://rentry.co/FMHYBase64#quickedit) - Text Editor
+* ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
 * [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor
 

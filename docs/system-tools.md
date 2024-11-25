@@ -322,10 +322,10 @@
 # ► Windows ISOs
 
 * ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://gravesoft.dev/clean_install_windows)
+* [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
-* [MVS dump](https://awuctl.github.io/mvs/) or [files.rg-adguard](https://files.rg-adguard.net/) - Verify ISO Legitimacy
 * [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
