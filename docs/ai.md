@@ -100,6 +100,7 @@
 * ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
+* [FictionLab](https://fictionlab.ai) - Roleplaying Chatbots / No filters / No monthly message limits
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / No Signup / [Web App](https://lite.koboldai.net/)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
