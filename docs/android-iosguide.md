@@ -107,6 +107,8 @@
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher / Root
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
+* [Simple Launcher](https://simplemobiletools.com/) - Customizable Launcher / [GitHub](https://github.com/SimpleMobileTools/Simple-Launcher) / [Telegram](https://t.me/SimpleMobileTools)
+* [Simple App Launcher](https://simplemobiletools.com/) - Customizable App Launcher / [GitHub](https://github.com/SimpleMobileTools/Simple-App-Launcher) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -167,6 +169,7 @@
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
 * [Fire Toolbox](https://xdaforums.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
+* [Simple Flashlgiht](https://simplemobiletools.com/) - Flashlight / [GitHub](https://github.com/SimpleMobileTools/Simple-Flashlight) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -267,6 +270,7 @@
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD), [MetadataRemover](https://github.com/Crazy-Marvin/MetadataRemover) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
+* [Simple Gallery](https://simplemobiletools.com/) - Gallery / [GitHub](https://github.com/SimpleMobileTools/Simple-Gallery) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -291,6 +295,7 @@
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 * [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) or [PocketMark](https://play.google.com/store/apps/details?id=com.ZetaDev.PocketMark) - Markdown Editors
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
+* [Simple Keyboard](https://simplemobiletools.com/) - Keyboard / [GitHub](https://github.com/SimpleMobileTools/Simple-Keyboard) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -322,6 +327,8 @@
 * [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
 * [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
+* [Simple SMS Messenger](https://simplemobiletools.com/) - SMS app / [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) / [Telegram](https://t.me/SimpleMobileTools)
+* [Simple Dialer](https://simplemobiletools.com/) - Dialer / [GitHub](https://github.com/SimpleMobileTools/Simple-Dialer) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -396,6 +403,9 @@
 * [Unified Remote](https://www.unifiedremote.com/) or [Relmtech Remote](https://play.google.com/store/apps/details?id=com.Relmtech.Remote) - Universal Remotes
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
+* [Simple Voice Recorder](https://simplemobiletools.com/) - Voice Recorder / [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) / [Telegram](https://t.me/SimpleMobileTools)
+* [Simple Calculator](https://simplemobiletools.com/) - Calculator / [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator) / [Telegram](https://t.me/SimpleMobileTools)
+* [Simple Notes](https://simplemobiletools.com/) - Notes App / [GitHub](https://github.com/SimpleMobileTools/Simple-Notes) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -554,6 +564,7 @@
 * [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg) - Package Name Viewer
 * [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
+* [Simple FileManager](https://simplemobiletools.com/) - File Manager/ [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -580,6 +591,8 @@
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
 * [timeto](https://github.com/Medvedev91/timeto.me) - Productivity Tracker
+* [Simple Calender](https://simplemobiletools.com/) - Calender / [GitHub](https://github.com/SimpleMobileTools/Simple-Calendar) / [Telegram](https://t.me/SimpleMobileTools)
+* [Simple Clock](https://simplemobiletools.com/) - Clock / [GitHub](https://github.com/SimpleMobileTools/Simple-Clock) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
@@ -819,6 +832,7 @@ https://github.com/Akylas/alpimaps
 * [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 * [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Streaming Server
+* [Simple Music Player](https://simplemobiletools.com/) / [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player) / [Telegram](https://t.me/SimpleMobileTools)
 
 ***
 
