@@ -63,10 +63,10 @@
 
 ## Android Text Editors
 
-* ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
+* ⭐ **[Acode](https://acode.app)** - Text Editor / [GitHub](https://github.com/deadlyjack/Acode)
+* [QuickEdit](https://rentry.co/FMHYBase64#quickedit) - Text Editor
 * [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor
-* [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Office Suite
 
 ### Note-Taking
 
