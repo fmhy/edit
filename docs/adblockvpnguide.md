@@ -179,7 +179,7 @@
 
 ## ▷ Network Security
 
-* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** 
+* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass / V2Ray Guide
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
