@@ -473,6 +473,7 @@
 * [sumi.news](https://sumi.news/)
 * [NewsCord](https://newscord.org/)
 * [AllTop](https://alltop.com/)
+* [Coin Newsify](https://www.coinewsify.ai) - AI-Powered Cryptocurrency news aggregator application
 
 ***
 
