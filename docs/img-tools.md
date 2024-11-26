@@ -209,6 +209,7 @@
 * [Gridzzly](http://gridzzly.com/) - Print Custom Grid Papers
 * [Crayon Town](https://crayon.town/) - Infinite Online Canvas
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
+* [x6ud](https://x6ud.github.io/) - Animal Drawing Reference Tool
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
@@ -347,6 +348,7 @@
 * [Transparent Textures](https://www.transparenttextures.com/) - Textures
 * [Texture Club](https://www.sketchuptextureclub.com/) - Textures
 * [TexturesForFree](https://texturesforfree.com/) - Textures
+* [texture4photoshop](https://t.me/texture4photoshop) - Textures
 * [fatstrawberry](https://www.fatstrawberry.co.uk/) - Textures
 * [MatLib](https://matlib.gpuopen.com/main/materials/all) - Textures
 * [TextureNinja](https://texture.ninja/) - Textures
@@ -640,6 +642,7 @@
 
 ## ▷ Image Converters
 
+* [VERT](https://vert.sh/) / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/not-nullptr/VERT)
 * [Bulk Image Convert](https://bulkimageconvert.com)
 * [Convertmyimage](https://convert-my-image.com/)
 * [ImageConvert](https://imageconvert.org/)
@@ -765,6 +768,7 @@
 * [imgchest](https://imgchest.com/)
 * [upanhtv](https://upanh.tv/)
 * [Lutim](https://lutim.lagout.org/)
+* [BeeIMG](https://beeimg.com/)
 * [anhsieuviet](https://anhsieuviet.com/?lang=en)
 * [Slowpoke Pics](https://slow.pics/)
 * [FastPic](https://fastpic.org/)
