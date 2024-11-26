@@ -748,7 +748,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [Classic DOOM](https://classicdoom.com/) or [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [DoomsHack](https://doomshack.org/), [Doom Pastebin](https://pastebin.com/3DWF3Msq) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+* [DoomsHack](https://doomshack.org/), [Doom WADs](https://rentry.co/FMHYBase64#doom-wads), [Doom Pastebin](https://pastebin.com/3DWF3Msq) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 

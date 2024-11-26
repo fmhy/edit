@@ -148,12 +148,12 @@
 ## ▷ Server / Bot Indexes
 
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
-* [DISBOARD](https://disboard.org/) - Server / Bot Index
+* [DISBOARD](https://disboard.org/) - Server Index
 * [Discord Servers](https://discordservers.com/) - Server / Bot Index
 * [Discadia](https://discadia.com/) - Server / Bot Index
 * [Discords.com](https://discords.com/) - Server / Bot Index
 * [Discord Me](https://discord.me/) - Server / Bot Index
-* [Disforge](https://disforge.com/) - Server / Bot Index
+* [Disforge](https://disforge.com/servers) - Server / Bot Index
 * [Find a Discord](https://findadiscord.com/) - Server / Bot Index
 * [Discord Extreme List](https://discordextremelist.xyz/) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index

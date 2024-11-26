@@ -57,6 +57,7 @@
 * 🌐 **[Awesome Bots](https://doppler.com) / [GitHub](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
+* ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
 * ⭐ **[DevDocs](https://devdocs.io/)** - Dev Documentation
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App
 * [Slidev](https://github.com/slidevjs/slidev) - Developer Presentation Slides
@@ -177,10 +178,11 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
-* ⭐ **[DB Browser](https://sqlitebrowser.org/)** or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
+* ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
 * [Sqlable](https://sqlable.com/) - SQL Tools
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [ChartDB](https://chartdb.io/) - Database Visualization / [GitHub](https://github.com/chartdb/chartdb)
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
@@ -240,7 +242,8 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/),  [awesome-list](https://github.com/topics/awesome-list) or [Awesome GitHub](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
+* 🌐 **[Awesome GitHub](https://github.com/fffaraz/awesome-github)** - GitHub Resources
+* 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Index
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions

@@ -35,7 +35,7 @@
 
 ***
 
-* ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
+* ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader), [2](https://bookripper.neocities.org/), [3](https://redd.it/fm1xpw), [4](https://rentry.org/arch1ve) / [Extension](https://github.com/elementdavv/internet_archive_downloader) / [Script](https://redd.it/ofcqds) / [CLI](https://github.com/jjjake/internetarchive)
 * ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums

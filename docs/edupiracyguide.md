@@ -119,6 +119,7 @@
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
+* [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [Stack Exchange](https://stackexchange.com/) or [Quetre](https://quetre.iket.me) - Q&A Communities
@@ -147,6 +148,7 @@
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
+* [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
 * [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
 * [ActivistHandbook](https://activisthandbook.org/) - Campaigning / Activism Guides
 * [Erowid](https://www.erowid.org/) - Psychoactive Information

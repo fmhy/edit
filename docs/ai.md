@@ -31,7 +31,7 @@
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
-* [NextChat](https://free.xiercloud.top/), [THZStudent](https://chatgpt.thzstudent.top/), [TypeGPT](https://chat.typegpt.net/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
+* [NextChat](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
@@ -139,9 +139,9 @@
 
 ***
 
-# ► ChatGPT Tools
+# ► AI Tools
 
-* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * 🌐 **[cool-ai-stuff](https://cas.zukijourney.com/)** - Comparison Overview of Free(mium) AI API Proxies
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
@@ -163,7 +163,7 @@
 
 ***
 
-## ▷ ChatGPT Prompts
+## ▷ AI Prompts
 
 * 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [GitHub](https://github.com/f/awesome-chatgpt-prompts)
@@ -193,6 +193,7 @@
 * 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory
 * [perchance](https://perchance.org/generators), [GeneratorFun](https://generatorfun.com/) or [WebSim](https://websim.ai/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
+* [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [GPT Demo](https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular) - AI Directory

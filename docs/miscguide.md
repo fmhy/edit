@@ -6,7 +6,7 @@
 
 # ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** or [awesome-list](https://github.com/topics/awesome-list) - All Awesome Lists
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
@@ -52,6 +52,7 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [OSS Insight](https://ossinsight.io/) - GitHub Project Index
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
@@ -138,7 +139,7 @@
 
 ## ▷ Recipes
 
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/), [ManageMeals](https://managemeals.com/) or [Pestle](https://pestlechef.app/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/), [ManageMeals](https://managemeals.com/), [Mela](https://mela.recipes/) or [Pestle](https://pestlechef.app/) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [cookEbooks](https://cookebooks.info/) - Cookbooks
@@ -1006,6 +1007,7 @@
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
+* [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
 * [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements

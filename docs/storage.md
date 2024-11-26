@@ -8,7 +8,7 @@
 
 * ⭐ **[Blender](https://www.blender.org/)**
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
-* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/)
 
@@ -805,6 +805,27 @@
 ## MSX Games
 
 [MSXGamesWorld](https://msxgamesworld.com/index.php), [MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/), [MSXAbandonware](https://msxabandonware.com/en/home)
+
+***
+
+## NextChat Instances
+
+* https://ai.yyr1201.fun/ - gpt-3.5 turbo
+* https://aii.tzwlxh.com/ - gpt-3.5 turbo / gpt-4o
+* https://b.smallmoon.net/ - gpt-3.5 turbo / gemini 1.5 pro / gemini 1.5 flash
+* https://free1.fdmgpt.top/ - gpt-4o-mini
+* https://gpt35.chenjinshui.top/ - deepseek v2.5 / gpt-4o / gpt-4o-mini / claude 3 haiku
+* https://free.xiercloud.top/
+* https://chatgpt.thzstudent.top/
+* https://chat.typegpt.net/
+* https://gpt.dzkj.top/
+* https://gpt.tiptopuni.com/
+* https://gpt.aifree.club/
+* https://chat.pandatalk.fun/
+* https://chat.286726.xyz/
+* https://gpt.xuhao.tech/
+* https://gpt.ultra-x.top/
+
 
 ***
 

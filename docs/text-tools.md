@@ -358,6 +358,7 @@
 * [TinySheet](https://tinysheet.com/), [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / Editors
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
+* [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
 * [ExcelJet](https://exceljet.net/formulas) or [Excel Functions](https://www.excelfunctions.net/) - Excel Formulas
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
@@ -412,6 +413,7 @@
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
 * [SuperList](https://www.superlist.com/)
+* [dooit](https://github.com/dooit-org/dooit) / [Extras](https://github.com/dooit-org/dooit-extras)
 * [ToDo List](https://www.abstractspoon.com/) / [GitHub](https://github.com/abstractspoon)
 * [Diry AI](https://www.diry.ai/)
 * [Fokus](https://fokus-website.netlify.app/)

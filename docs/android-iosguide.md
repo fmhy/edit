@@ -162,7 +162,7 @@
 * [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Usage Guides
 * [ADB101](https://rentry.co/adb101) - Android Debug Bridge Setup Guide
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
-* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena) or [SysLog](https://github.com/Tortel/SysLog) - Device Info 
+* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info 
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness

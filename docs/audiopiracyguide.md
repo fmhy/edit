@@ -287,7 +287,7 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)** - YouTube / Multi-Site Downloaders
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
+* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
 * ⭐ **[Firehawk52](https://rentry.co/FMHYBase64#firehawk)** - Deezer / Qobuz / Tidal / [Discord](https://discord.gg/uqfQbzHj6K) / [Telegram](https://t.me/firehawk52official)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * ⭐ **[OnTheSpot](https://github.com/justin025/onthespot)** - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
