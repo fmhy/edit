@@ -923,6 +923,7 @@
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
+* ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_streaming_apis)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
@@ -960,27 +961,3 @@
 * [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
-
-***
-
-## ▷ Streaming APIs
-
-* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.stream/) - Movies / TV / Anime / API
-* [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
-* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
-* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
-* [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
-* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [2embed](https://www.2embed.cc/) - Movies / TV / API
-* [VidLink](https://vidlink.pro/) - Movies / TV / API
-* [CineScrape](https://cinescrape.com/) - Movies / TV / Anime / API / 4K / [Discord](https://discord.gg/XbDBBmh5FY)
-* [moviee](https://moviee.tv/api) - Movies / TV
-* [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K
-* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
-* [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
-* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
-* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
-* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
-* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
