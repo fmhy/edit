@@ -65,10 +65,12 @@
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
+* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
+* [uFlix](htps://uflix.cc/) - Movies / TV / Anime
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime
 * [AZMovies](https://azm.to/) - Movies
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
@@ -98,6 +100,7 @@
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
 * [OnionPlay](https://onionplay.asia/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
 * [Soaper.TV](https://soaper.tv/), [2](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
+* [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
 * [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
@@ -157,7 +160,7 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [1Anime](https://1anime.online/) - Sub / Dub / Auto-Next / / [Mirrors](https://1anime.co/) / [Discord](https://dsc.gg/1Anime)
 * [AnimeZ](https://animez.org/) - Sub / Dub
-* [GoJo](https://gojo.wtf/) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
+* [GoJo](https://gojo.wtf/) or [Aninow](https://aninow.in/home) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / Auto-Next
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / Auto-Next
@@ -440,6 +443,7 @@
 * [HesGoal](https://www.hesgoal.watch/) - Sports
 * [Sport-TV](https://sport-tv.live/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
+* [Strims](https://strims.in/) - Sports
 * [BuffSports](https://buffsports.me/) - Sports
 * [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
@@ -939,7 +943,8 @@
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
 * [FlickChart](https://www.flickchart.com/) - Rank Your Movies
 * [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
-* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
+* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Media Scripts
+* [Forever Dreaming](https://transcripts.foreverdreaming.org/) - Media Transcripts
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
