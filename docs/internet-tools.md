@@ -285,6 +285,7 @@
 * [eTools.ch](https://www.etools.ch/)
 * [BizNar](https://biznar.com/biznar/desktop/en/search.html)
 * [WorldWideScience](https://worldwidescience.org/)
+* [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 
 ***
 
