@@ -40,7 +40,6 @@
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
 * ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [Bypass.vip](https://bypass.vip/) / [API](https://api.bypass.vip/)
-* [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt) / [Note](https://pastebin.com/Gr2AhsE8)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [Bypass.lat](https://bypass.lat/)
 * [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)

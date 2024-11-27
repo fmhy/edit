@@ -1191,7 +1191,7 @@
 
 ## ▷ Streaming APIs
 
-* [VidSrc.me](https://vidsrc.xyz/), [2](https://vidsrc.stream/), [3](https://vidsrc.me/), [4](https://vidsrc.in/), [5](https://https://vidsrc.pm/), [6](https://vidsrc.net) - Movies / TV / Anime / API
+* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.in/), [5](https://vidsrc.pm/), [6](https://vidsrc.net) - Movies / TV / Anime / API
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)

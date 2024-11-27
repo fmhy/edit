@@ -397,7 +397,7 @@
 * [cdash](https://counterdash.com/) - Turn Old Tablets into Dashboards
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
-* [Unified Remote](https://www.unifiedremote.com/) or [Relmtech Remote](https://play.google.com/store/apps/details?id=com.Relmtech.Remote) - Universal Remotes
+* [Unified Remote](https://www.unifiedremote.com/) - Universal Remotes
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
 
@@ -873,7 +873,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Calm](https://rentry.co/FMHYBase64#calm)** - Relaxation / Sleep App
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
-* [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) / [Telegram](https://t.me/serenityapp) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
+* [HealthyMinds](https://hminnovations.org/meditation-app), [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) / [Telegram](https://t.me/serenityapp) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
 * [Lo-fi Clouds Radio](https://www.lofi-clouds.com/) - Lo-fi Radio
 * [Chroma Doze](https://play.google.com/store/apps/details?id=net.pmarks.chromadoze) - White Noise Generator

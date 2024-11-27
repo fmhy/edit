@@ -1497,4 +1497,4 @@
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More RAM
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors
-* [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
+* [HackTyper](https://hackertyper.net/), [HackerTyper](https://hackertyper.com/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen

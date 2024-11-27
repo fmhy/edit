@@ -28,6 +28,7 @@
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
+* [Watch2Day](https://watch2day.online/) - Movies / TV / Anime
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / Use Adblock
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
@@ -37,7 +38,6 @@
 * [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / [API](https://moviee.tv/api)
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / [Discord](https://l.cinemadeck.com/discord)
-* [Watch2Day](https://watch2day.online/) - Movies
 * [Vidplay](https://vidplay.org/) - Movies / TV / Anime / [Note](https://pastebin.com/GZew6Yqj)
 * [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 4K
@@ -226,7 +226,6 @@
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[DramaCool](https://asianc.co/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / [Clones List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.video/)** - TV / Movies
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Einthusan](https://einthusan.tv/) - Movies
