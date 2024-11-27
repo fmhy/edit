@@ -506,6 +506,7 @@ Linux Gaming Guide
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
+* [Gorgeous GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - GRUB Themes
 * [font-manager](https://github.com/FontManager/font-manager) - Font Manager
 * [Iconic](https://github.com/youpie/Iconic) - Add Folder Icons
 
@@ -686,6 +687,7 @@ Linux Gaming Guide
 * [Pure Mac](https://www.pure-mac.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
+* [Macked](https://macked.app/)
 * [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
