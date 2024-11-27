@@ -91,7 +91,6 @@
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
-* [Hexa Watch](https://hexa.watch/) - Movies / TV / [Discord](https://discord.gg/fF7TwrjR6T)
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
