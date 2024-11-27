@@ -93,7 +93,7 @@
 
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk) / [Telegram](https://t.me/lawnchairci)
 * ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher / [Telegram](https://t.me/niagara_news)
-* ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
+* ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher / [Unlock](https://rentry.co/fmhybase64#smartlauncher) / [Telegram](https://t.me/smartlauncher)
 * [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Desktop App Launcher / [GitHub](https://github.com/axel358/smartdock)
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
