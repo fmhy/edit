@@ -1,6 +1,6 @@
 # FMHY
 
-![FMHY Banner](https://small.fileditchstuff.me/s8/vgvTipkpOUPxFdKyCGuf.png)
+![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
 
 <p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
