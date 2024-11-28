@@ -112,7 +112,7 @@
 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime / Manga Image Colorization
 * [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-* [Petalica Paint](https://petalica.com/), [DeOldify](https://github.com/jantic/DeOldify), [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
+* [Petalica Paint](https://petalica.com/), [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
 * [imagecolorizer](https://imagecolorizer.com/) - Image Colorization / Restoration
 
 ***
