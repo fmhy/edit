@@ -109,7 +109,6 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [ArtistGrid](https://artistgrid.netlify.app/) - Browser Music
-* [Brie's Music UI](https://api.brie.se/musicui) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music

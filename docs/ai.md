@@ -11,7 +11,6 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
@@ -103,8 +102,9 @@
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / No Signup / [Web App](https://lite.koboldai.net/)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
-* [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
-* [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot / No Signup
+* [FictionLab](https://fictionlab.ai/ ) - Roleplaying / Story Chatbot
+* [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot
+* [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Story Chatbot / No Signup
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) (no signup) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
 
 ***
@@ -144,6 +144,7 @@
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * 🌐 **[cool-ai-stuff](https://cas.zukijourney.com/)** - Comparison Overview of Free(mium) AI API Proxies
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
@@ -389,6 +390,7 @@
 * [TTSMaker](https://ttsmaker.com/) / No Signup
 * [TextToSpeech](https://texttospeech.io/)
 * [LazyPY](https://lazypy.ro/tts/) / No Signup
+* [Kokoro-TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS ) / No Signup
 * [Ondoku](https://ondoku3.com/en/) / No Signup
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)

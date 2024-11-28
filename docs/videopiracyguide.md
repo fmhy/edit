@@ -29,6 +29,7 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
 * [Watch2Day](https://watch2day.online/) - Movies / TV / Anime
+* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / Use Adblock
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
@@ -65,7 +66,6 @@
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
-* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
@@ -159,6 +159,7 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [1Anime](https://1anime.online/) - Sub / Dub / Auto-Next / / [Mirrors](https://1anime.co/) / [Discord](https://dsc.gg/1Anime)
 * [AnimeZ](https://animez.org/) - Sub / Dub
+* [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [GoJo](https://gojo.wtf/) or [Aninow](https://aninow.in/home) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / Auto-Next
@@ -970,14 +971,14 @@
 
 ## ▷ Streaming APIs
 
-* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.in/), [5](https://vidsrc.pm/), [6](https://vidsrc.net) - Movies / TV / Anime / API
+* [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [2embed](https://www.2embed.cc/) - Movies / TV / API
+* [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV / API
 * [VidLink](https://vidlink.pro/) - Movies / TV / API
 * [moviee](https://moviee.tv/api) - Movies / TV
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K
@@ -985,6 +986,7 @@
 * [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
+* [VidSrc.vip](https://vidsrc.vip/) - Movies / TV / Anime / API
 * [Flicky](https://www.flicky.host/) - Movies / TV / Anime / API
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
