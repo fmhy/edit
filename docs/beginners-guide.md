@@ -38,7 +38,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 * **Downloading:  [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
-* **Drama Streaming: [DramaCool](https://asianc.to/) / [KissAsian](https://kissasian.video/)**
+* **Drama Streaming: [KissAsian](https://kissasian.video/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
