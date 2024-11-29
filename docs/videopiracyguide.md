@@ -540,28 +540,33 @@
 
 # ► Smart TV / Firestick
 
-* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * ⭐ **[Tizentube](https://tizentube.vercel.app/)** - Ad-Free Samsung Smart TV YouTube
-* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://gist.github.com/VVispy/044cd8005260b270728e1d9aa8f6af51)
-* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
-* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
-* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
-* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
 * [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
-* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
-* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
 * [StreamFire](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
-* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
-* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
+
+***
+
+## ▷ Android TV
+
+* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
+* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
+* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
+* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
+* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
+* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
 
 ***
 
