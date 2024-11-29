@@ -315,7 +315,7 @@
 ## ▷ Telegram Bots
 
 * ⭐ **[BeatSpotBot](https://t.me/BeatSpotBot)** - Deezer / Tidal / Yandex / VK / FLAC
-* ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** and **[Glomatico Apple](https://t.me/GlomaticoAppleMusicBot)** - Amazon / Apple / FLAC / [FAQ](https://rentry.org/glomaticobotfaq)
+* ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** and **[Glomatico Apple](https://t.me/GlomaticoAppleMusicBot)** - Amazon / Apple / FLAC
 * [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
 * [Spotify_download_bot](https://t.me/Spotify_downloa_bot) - YouTube / JioSaavn / 320kb MP3
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Deezer / YouTube / Spotify / 320kb
@@ -575,6 +575,7 @@
 * ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
+* [Hydrogenaudio](https://wiki.hydrogenaud.io/) - Audio Technology Wiki ⁠
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [Tunebat](https://tunebat.com/) - Music Key / BPM Database
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) - Karaoke App

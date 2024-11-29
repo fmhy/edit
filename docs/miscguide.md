@@ -1070,7 +1070,7 @@
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
-* [KodyTools](https://www.kodytools.com/) - Data / Text / Design / Cryptography / Unit Conversion
+* [KodyTools](https://www.kodytools.com/) or [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [Sumo](https://sumo.app/) - Design / Graphic / Music
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database

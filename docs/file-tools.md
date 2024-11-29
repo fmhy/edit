@@ -76,10 +76,10 @@
 * 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
 * [Pandoc](https://pandoc.org/) - Document Converter
-* [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
-* [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
+* [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
+* [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
-* [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
+* [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
 * [CloudConvert](https://cloudconvert.com/) - Convert Files / 1 GB
 * [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB
 * [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
@@ -92,13 +92,13 @@
 * [Converter 365](https://www.converter365.com/) - File Converters / 200 MB
 * [Aconvert](https://www.aconvert.com/) - Various Converters / 40 MB
 * [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250 MB
-* [Online Convert](https://www.online-convert.com/) - File Converter / 7,5 minutes
+* [Online Convert](https://www.online-convert.com/) - Online File Converter
 * [Zamzar](https://www.zamzar.com/) - File Converter / 200 MB
-* [Online Converter](https://www.onlineconverter.com/) - Simple Media/Unit Converter
-* [Convert Town](https://convert.town/) - Text/Image Converter
+* [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
+* [Convert Town](https://convert.town/) - Online Text / Image Converter
 * [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200 MB Video, Archive, Audio
 * [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10 MB
-* [go4convert](https://go4convert.com/) - Document Converter
+* [go4convert](https://go4convert.com/) - Online Document Converter
 
 ***
 

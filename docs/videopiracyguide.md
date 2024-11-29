@@ -909,7 +909,7 @@
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [SubSource](https://subsource.net/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
-* [Subscene](https://subscene.best/) - Subtitles
+* [Subscene](https://subscene.cam/) - Subtitles
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Closed Caption Browser](https://cc.edatribe.com/ ) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles

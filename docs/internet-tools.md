@@ -345,9 +345,10 @@
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
-* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Auto-check the status of File Host links.
+* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
+* [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
