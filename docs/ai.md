@@ -28,6 +28,7 @@
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [Models](https://huggingface.co/chat/models)
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
+* [Electron Hub](https://playground.electronhub.top/) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [NextChat](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) - Multiple Chatbots / No Signup

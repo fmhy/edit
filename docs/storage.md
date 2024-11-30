@@ -1057,16 +1057,6 @@
 
 ***
 
-### HiAnime Clones
-
-* [4anime](https://4anime.gg/)
-* [kaido](https://kaido.to/)
-* [9animetv](https://9animetv.to/)
-* [anicrush](https://anicrush.to/)
-* [aniwatchtv](https://aniwatchtv.to/)
-
-***
-
 ## Summarize YouTube Videos
 
 * [Gemini](https://gemini.google.com/)

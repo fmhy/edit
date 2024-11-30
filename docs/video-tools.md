@@ -248,8 +248,8 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
-* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
+* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides

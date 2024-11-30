@@ -126,6 +126,7 @@
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
 * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
 * [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
+* [⁠Tea General](https://rentry.co/teageneral) - Tea Brewing Info / Guides
 * [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App

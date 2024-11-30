@@ -115,8 +115,6 @@
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
 * [Music Presence](https://github.com/ungive/discord-music-presence) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
-* [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
-* [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
