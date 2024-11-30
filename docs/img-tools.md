@@ -670,7 +670,7 @@
 ## ▷ Image to Text / OCR
 
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots)** - Most Chatbots have Built-in Image to Text
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** - OCR Desktop App
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
