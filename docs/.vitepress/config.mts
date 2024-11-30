@@ -63,6 +63,18 @@ export default defineConfig({
         name: 'google-site-verification',
         content: 'XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E'
       }
+    ],
+    // Redirect to main site if embedded in iframe
+    [
+      'script',
+      {},
+      `
+        (function() {
+          if (window.self !== window.top) {
+              window.top.location = window.location.href;
+          }
+        })();
+        `
     ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
