@@ -11,6 +11,7 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
+* ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots / Account Required
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
@@ -22,7 +23,6 @@
 * [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
-* [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [Models](https://huggingface.co/chat/models)
@@ -37,6 +37,7 @@
 * [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
 * [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
+* [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
 * [DeepSeek](https://chat.deepseek.com/) - R1-Lite-Preview / 50 Daily
 * [Autonomous](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
@@ -161,6 +162,7 @@
 * [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
+* [LLM-Model-VRAM-Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM VRAM Calculator
 
 ***
 

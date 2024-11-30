@@ -454,13 +454,13 @@
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
-* [TheMixingBowl](https://themixingbowl.org/) - MP3 / Signup Required
-* [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3
+* [TheMixingBowl](https://themixingbowl.org/) - Forum / Mixes / MP3 / Signup Required
+* [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3 320kb / FLAC
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
-* [the /kpg/ torrent](https://kpg.neocities.org/) - 800GB+ K-Pop Torrent File
-* [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
-* [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
-* [PandaCD](https://pandacd.io/) - User-Made Music / MP3
+* [the /kpg/ torrent](https://kpg.neocities.org/) - 900GB+ K-Pop Torrent File / MP3 320kb / FLAC
+* [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3 / Various Bitrates
+* [TribalMixed](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
+* [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](https://bt.etree.org/), [DimeADozen](http://www.dimeadozen.org/), [TheTradersDen](http://www.thetradersden.org/), [etreedb](https://etreedb.org/) or [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database

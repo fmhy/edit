@@ -424,14 +424,14 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)**, [2](https://everythingmoe.org/#section-novel) - Light Novel Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
-* ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
-* ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
+* ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/) / Allows Downloads
+* ⭐ **[Just Light Novels](https://www.justlightnovels.com/)** / Allows Downloads
 * [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [All Novel Full](https://allnovelfull.com/)
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
-* [Armaell's Library](https://armaell-library.net/)
+* [Armaell's Library](https://armaell-library.net/) / Allows Downloads
 * [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
 * [WuxiaWorld](https://www.wuxiaworld.com/)
 * [WuxiaSpot](https://www.wuxiaspot.com/)
@@ -441,7 +441,7 @@
 * [Wordrain69](https://wordrain69.com/)
 * [Wuxiabox](https://www.wuxiabox.com/)
 * [Wuxia.click](https://wuxia.click/)
-* [Ocean of EPUB](https://oceanofepub.com/)
+* [Ocean of EPUB](https://oceanofepub.com/) / Allows Downloads
 * [Novel Bin](https://novelbin.com/)
 * [wuxiabee](https://www.wuxiabee.net/)
 * [List Novel](https://listnovel.com/)
@@ -449,13 +449,13 @@
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
 * [FreeWebNovel](https://freewebnovel.com/)
-* [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels)
+* [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels) / Allows Downloads
 * [NovelNext](https://novelnext.com/)
 * [NovelBuddy](https://novelbuddy.io/)
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Readwn](https://www.readwn.com/)
 * [NovelCool](https://www.novelcool.com/)
-* [Novels.pl](https://www.novels.pl/)
+* [Novels.pl](https://www.novels.pl/) / Allows Downloads
 * [Scribblehub](https://www.scribblehub.com/)
 * [Novel Hall](https://www.novelhall.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)

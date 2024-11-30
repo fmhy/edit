@@ -13,8 +13,7 @@
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** or [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (mv3 compatible) - Adblocker
-* ⭐ **uBO Resources** - [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** or [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (mv3 compatible) - Adblocker / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [AdGuardFilters](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
@@ -426,8 +425,8 @@
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy Mobile App
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN
 * [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb
-* [FreeSocks](https://freesocks.org/) - Free Shadowsocks Proxies
-* [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
+* [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies
+* [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server
 * [Xray-Core](https://github.com/XTLS/Xray-core) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)

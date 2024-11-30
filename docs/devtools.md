@@ -383,20 +383,10 @@
 ## ▷ Machine Learning
 
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [Awesome ML](https://github.com/underlines/awesome-marketing-datascience/), [Awesome LLM JSON](https://github.com/imaurer/awesome-llm-json), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
-* 🌐 **[Awesome Google Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Collabs
-* 🌐 **[Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)** - Machine Learning Art Resources
-* 🌐 **[Awesome Instruction Dataset](https://github.com/yaodongC/awesome-instruction-dataset)** or [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) - Language Model Training Datasets
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-marketing-datascience/)** - Machine Learning Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
-* [Caffee](https://caffe.berkeleyvision.org/) - Machine Learning Framework / [GitHub](https://github.com/BVLC/caffe)
-* [SuperAGI](https://superagi.com/) - Machine Learning Framework / [GitHub](https://github.com/TransformerOptimus/SuperAGI)
-* [Rasa](https://rasa.com/docs/rasa/) - Machine Learning Framework
-* [OpenNN](https://www.opennn.net/) - Machine Learning Framework / [GitHub](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
-* [LobeChat](https://chat.luzhenhua.com/) - Machine Learning Framework / [Discord](https://discord.gg/AYFPHvv2jT ) / [GitHub](https://github.com/lobehub/lobe-chat)
-* [OpenCog](https://opencog.org/) - Machine Learning Framework
-* [AForge](https://github.com/andrewkirillov/AForge.NET) - Machine Learning Framework
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
@@ -425,34 +415,16 @@
 # ► Game Dev Tools
 
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
-* 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_game_development)**
 * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
-* [Haxe](https://haxe.org/) - Cross-platform Compiler / [Resources](https://github.com/Dvergar/awesome-haxe-gamedev)
-* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
-* [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
-* [libGDX](https://libgdx.com/) - Java Game Dev Framework / [Resources](https://github.com/rafaskb/awesome-libgdx)
-* [AMD Capsaicin Framework](https://gpuopen.com/capsaicin/) - Direct3D 12 Framework
-* [Serpent.ai](http://serpent.ai/) - Game Agent Framework
-* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
-* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
-* [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
-* [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with JavaScript
-* [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
-* [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
-* [Loot](https://www.lootproject.com/) - Randomized Adventure Game Gear
-* [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
-* [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - Minecraft Mod Code Support
-* [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
-* [N64Recomp](https://github.com/N64Recomp/N64Recomp) - Recompile N64 Games into .exe
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
 
 ***

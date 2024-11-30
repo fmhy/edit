@@ -77,6 +77,7 @@
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
+* [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) - Bangla Typing Tool / Spellcheck
 
 ## ▷ Streaming / স্ট্রিমিং
 
@@ -1728,13 +1729,14 @@
 
 ## ▷ Reading / Đọc
 
-* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
+* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc
 * ⭐ **[Thư  Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/) 
 * ⭐ **[VietJack](https://vietjack.com/)** - Educational Books / Documents
 * ⭐ **[LoiGiaiHay](https://loigiaihay.com/)** - Educational Books / Documents
 * ⭐ **[VNDoc](https://vndoc.com/)** - Educational Books / Documents
 * ⭐ **[Tech12h](https://tech12h.com/)** - Educational Books / Documents
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
+* [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
 * [AnyBooks](https://anybooks.vn/) - Books
