@@ -414,6 +414,8 @@
 
 # ► Game Dev Tools
 
+* 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
+* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_game_development)**
@@ -426,29 +428,6 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
-
-***
-
-## ▷ Game Engines
-
-* 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
-* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
-* ↪️ **[2D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_2d_game_engines)**
-* ↪️ **[3D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_game_engines)**
-* ⭐ **[Godot](https://godotengine.org/)** / [GitHub](https://github.com/godotengine) / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
-* [Unity](https://unity.com/products/unity-personal)
-* Unity Tools - [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode) / [Texture Import](https://github.com/keijiro/Metatex)
-* [GDevelop](https://gdevelop.io/) / [GitHub](https://github.com/4ian/GDevelop)
-* [Defold](https://defold.com/)
-* [Bevy Engine](https://bevyengine.org/) / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html)
-* [ursina engine](https://www.ursinaengine.org/)
-* [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride)
-* [cocos](https://www.cocos.com/en/) / [Resources](https://github.com/cocos/awesome-cocos) / [GitHub](https://github.com/cocos/cocos-engine)
-* [microStudio](https://microstudio.itch.io/microstudio)
-* [AnyRPG](https://www.anyrpg.org/) - RPG Engine
-* [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
-* [Playerio](https://playerio.com/) - Online Game Engine
-* [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 
 ***
 

@@ -488,45 +488,6 @@
 
 ***
 
-## Game Engines
-
-### 2D Game Engines
-
-* [Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4)
-* [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework)
-* [LÖVE](https://love2d.org/) / [Resources](https://github.com/love2d-community/awesome-love2d)
-* [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc)
-* [GameMaker](https://gamemaker.io/) / [Resources](https://github.com/bytecauldron/awesome-gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/)
-* [boardgame.io](https://github.com/boardgameio/boardgame.io), [Vassal](https://vassalengine.org/ ) or [Boardzilla](https://www.boardzilla.io/) - Board Game Engines
-* [Arcade Game Designer](https://jonathan-cauldwell.itch.io/arcade-game-designer) / [Multi-platform](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer)
-* [Scratch](https://scratch.mit.edu/) / [Wiki](https://scratch-wiki.info/) / [Addons](https://scratchaddons.com/)
-* Scratch Forks - [Turbowarp](https://turbowarp.org/), [Penguin Mod](https://penguinmod.com/), [Snail IDE](https://www.snail-ide.com/), [Gandi IDE](https://getgandi.com/) or [Adacraft](https://www.adacraft.org/)
-* [HaxeFlixel](https://haxeflixel.com/)
-* [Flame](https://flame-engine.org/)
-* [Pixelbox](https://pixwlk.itch.io/pixelbox)
-* [PQ93](https://charliezip.itch.io/pq93)
-* [Pyxel](https://github.com/kitao/pyxel)
-* [Bitsy](https://make.bitsy.org/)
-* [Script 8](https://script-8.github.io/)
-* [Tic80](https://tic80.com/)
-* [Byond](https://www.byond.com/)
-* [Rosebud AI](https://www.rosebud.ai/)
-
-### 3D Game Engines
-
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)**
-* ⭐ **Unreal Engine Tools** - [Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587), [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer), [Discord](https://discord.gg/9KPvQ4H)
-* [Spring RTS](https://springrts.com/ ) - 3D RTS Game Engine
-* [Archives Explorer](https://fmodel.app/)
-* [Cave Engine](https://unidaystudio.itch.io/cave-engine)
-* [Panda3D](https://www.panda3d.org/)
-* [OpenXRay](https://github.com/OpenXRay) / [Discord](https://discord.com/invite/sjRMQwv)
-* [cryengine](https://www.cryengine.com/) / [Discord](https://discord.com/invite/cryengine)
-* [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory)
-* [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D) / [Discord](https://discord.com/invite/qdAZxT4)
-
-***
-
 ## GDrive File Sharing
 
 * https://sharer.pw/
