@@ -29,7 +29,7 @@
 * [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
-* [Creative Commons](https://github.com/fmhy/edit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
+* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [ImageBoards](https://imageboards.net/) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
@@ -906,7 +906,7 @@
 
 ## ▷ Electronics
 
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://nzxt.com/category/gaming-pcs/build) - PC Building Sites
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [Build Redux](https://buildredux.com/) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index), [PC Tiers](https://pctiers.com/) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
