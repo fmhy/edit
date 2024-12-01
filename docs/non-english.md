@@ -1214,11 +1214,11 @@
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
 * [NNTT](http://www.nntt.org/) - Video / Audio / Books / Magazines
-* [PB.wtf](https://pb.wtf/) - Video / Audio / Books / Comics / Magazines / NSFW
+* [PiratBit](https://pb.wtf/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [Riper.AM](https://riperam.org/) - Video / Audio / Books / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
-* [nionDHT](https://uniondht.org/) - Video / Audio / Books / NSFW
+* [UnionDHT](https://uniondht.org/) - Video / Audio / Books / NSFW
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
 * [Utor.pp](http://utor.pp.ua/) - Video / Audio / Books / ROMs

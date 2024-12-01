@@ -1,993 +1,496 @@
 ***
 ***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
 ***
 ***
 
-# ► Streaming Sites
+# ► Video Tools
 
-## ▷ Multi Server
-
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
-* ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
-* ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/), [3](https://111movies.com/) - Movies / TV
-* ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
-* ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/)
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
-* ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
-* ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
-* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
-* [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
-* [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
-* [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
-* [kipstream](https://kipstream.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
-* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
-* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
-* [Watch2Day](https://watch2day.online/) - Movies / TV / Anime
-* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
-* [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
-* [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / Use Adblock
-* [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
-* [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
-* [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) - Movies / TV / Anime
-* [FireFlix](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
-* [Fmovies247](https://fmovies247.net/), [2](https://moviee.tv/) - Movies / TV / [API](https://moviee.tv/api)
-* [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime
-* [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
-* [Vidplay](https://vidplay.org/) - Movies / TV / Anime / [Note](https://pastebin.com/GZew6Yqj)
-* [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
-* [YassFlix](https://yassflix.live/) - Movies / TV / Anime
-* [Free Cinema](https://freecinema.live/) - Movies / TV / Anime
-* [Noxe](https://noxe.live/) - Movies / TV / Anime
-* [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
-* [Nova](https://novastream.top/) - Movies / TV / [GitHub](https://github.com/ambr0sial/nova/)
-* [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime
-* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
-* [Cataz](https://cataz.ru/) - Movies / TV / Anime
-* [Filmex](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
-* [ViewVault](https://viewvault.org/) - Movies / TV / Anime
-* [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / [Note](https://pastebin.com/T9kHqc0v)
-* [321Movies](https://321movies.co.uk/) - Movies / TV / Anime
-* [NetMovies](https://web.netmovies.to/home/) - Movies / TV
-* [PressPlay](https://www.pressplay.top/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
-* [Donkey](https://donkey.to/) - Movies / TV / Anime
-* [Movietly](https://movietly.com/home/) - Movies / TV / Anime
-* [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
-* [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
-* [FilmHaven](https://film-haven.vercel.app/?p=1/) - Movies / TV / Anime / [Git](https://git.snipcola.com/snipcola/FilmHaven)
-* [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime
-* [Soap2DayHD](https://ww12.soap2dayhd.co/) - Movies / TV / Anime
-* [VidCloud](https://vidcloud1.com/) - Movies
-* [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
-* [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
-* [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
-* [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
-* [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
-* [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
-* [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
-* [uFlix](htps://uflix.cc/) - Movies / TV / Anime
-* [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime
-* [AZMovies](https://azm.to/) - Movies
-* [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
-* [6Movies](https://6movies.stream/) - Movies / TV / Anime
-* [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime
-* [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime
-* [r123movie](https://r123movie.com/) - Movies / TV / Anime
-* [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / Signup Required
-* [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
+* ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
+* ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** - Use Any Camera as Webcam
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap), [Roop Unleashed](https://github.com/C0untFloyd/roop-unleashed) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
+* [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
+* [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
+* [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
+* [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
+* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
+* [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
+* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-Ray/UHD Disk Demuxer
+* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
+* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
+* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
+* [VidClue](https://vidclue.com/) - Short Form Video Inspiration 
 
 ***
 
-## ▷ Single Server
+## ▷ Video File Hosts
 
-* **Note** - In some cases these can be just as fast, if not faster than multi-hosts.
-
-***
-
-* ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
-* [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
-* [FshareTV](https://fsharetv.co/) - Movies
-* [RidoMovies](https://ridomovies.tv/) - Movies / TV
-* [Bitsearch](https://bitsearch.to/) - Movies / TV / Anime
-* [ArabFlix](https://www.arabiflix.com/) - Movies / TV / Anime
-* [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
-* [OnionPlay](https://onionplay.asia/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
-* [Soaper.TV](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
-* [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
-* [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
-* [StreamLord](http://www.streamlord.com/) - Movies / TV
-* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
-* [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
-* [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
-* [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup / US Only
-* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
-* [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
+* **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
 
 ***
 
-## ▷ Free w/ Ads
-
-* ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
-* ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US + UK Only
-* [Crackle](https://www.crackle.com/) - Movies / TV / US Only
-* [Freevee](https://www.amazon.com/gp/video/storefront/subscription/freewithads) - Movies / TV / US Only
-* [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
-* [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
-* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next
-* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / US Only / Library Card Required
-* [Found TV](https://watch.foundtv.com/) - Found Footage Movies / Requires Signup
-* [7+](https://7plus.com.au/) - Movies / TV / US + AU Only
-* [Playary](https://www.playary.com/) - Movies / TV
-* [Fawesome](https://fawesome.tv/) - Movies / TV
-* [ARTE](https://www.arte.tv/en) - Movies / TV / Auto-Next
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
-* [Pluto](https://pluto.tv/) - Movies / TV / 720p
-* [MovieXFilm](https://moviexfilm.com/) - Movies / 720p
-* [Plex](https://watch.plex.tv/) - Movies / TV / 720p
-
-***
-
-## ▷ Anime Streaming
-
-* 🌐 **[Wotaku](https://wotaku.wiki/websites)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Streaming Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Streaming Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[Miruro](https://www.miruro.tv/)**, [2](https://www.miruro.online/) - Sub / Dub / Auto-Next / [Mirrors](https://www.miruro.com/) / [Discord](https://discord.gg/miruro) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
-* ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.mn/), [4](https://hianime.sx/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/hianime)
-* ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891) / [Aniwave-Style Subs](https://rentry.org/mmsot3n2)
-* ⭐ **[GoGoAnime](https://gogoanime3.cc/)**, [2](https://anitaku.bz/), [4](https://gogoanime2.org/) - Sub / Dub / [Discord](https://discord.gg/kyVfcGuCCQ)
-* ⭐ **GoGoAnime Resources** - [Clones](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [Download Guide](https://rentry.org/gogodlscript)
-* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.gg/YbuYYUwhpP)
-* ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
-* ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub
-* ⭐ **[Akuse](https://github.com/akuse-app/Akuse)**, [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/), [Miru Project](https://miru.js.org/en/) or [Migu](https://github.com/NoCrypt/migu) - Desktop Streaming Apps
-* ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
-* ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Multi-Site Anime Search
-* [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
-* [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / [Discord](https://discord.gg/6xJmJja8fV)
-* [123Anime](https://123animes.ru/) - Sub / Dub / Auto-Next
-* [Hikari](https://hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3) 
-* [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
-* [AnimeZ](https://animez.org/) - Sub / Dub
-* [AnimeNoSub](https://animenosub.to/) - Sub / Dub
-* [GoJo](https://gojo.wtf/) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
-* [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
-* [YugenAnime](https://yugenanime.tv/) - Sub / Dub / Auto-Next
-* [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
-* [AniZone](https://anizone.to/) - Sub
-* [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
-* [AniPlay](https://aniplaynow.live/) - Sub / Dub / Auto-Nextp / [Discord](https://discord.gg/Zws2rAGSN6)
-* [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
-* [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
-* [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub
-* [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
-* [LMAnime](https://lmanime.com/) - Chinese Anime / Sub
-* [MyAnime](https://myanime.live/) - Chinese Anime / Sub
-* [Animekhor](https://animekhor.org/) - Chinese Anime / Sub / [Telegram](https://t.me/AnimeKhorOfficial)
-* [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / Sub / [Discord](https://discord.gg/PmYn97vtue)
-* [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / Auto-Next / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
-* [Miu](https://discord.gg/pwkuanXBJh) or [AnimeThemes](https://animethemes.moe/) / [Discord](https://discord.com/invite/m9zbVyQ) - Anime Themes
-* [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
+* ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
+* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
+* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
+* [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
+* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Dubz](https://dubz.co/) - 200MB / Forever
+* [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
+* [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
+* [Videy](https://videy.co/) - 100MB / MP4 Only
 
 ***
 
-## ▷ Cartoon Streaming
+## ▷ Screen Recording
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/)
-* [Kimcartoon.si](https://kimcartoon.si/)
-* [KissCartoon](https://kisscartoon.nz/) / [Discord](https://discord.gg/YwpgPrWVSH)
-* [TopCartoons](https://www.topcartoons.tv/)
-* [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
-* [Supercartoons](https://www.supercartoons.net/)
-* [FunnierMoments](https://www.funniermoments.net/)
-* [b98](https://www.b98.tv/)
-* [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
-
-***
-
-## ▷ TV Streaming
-
-* ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
-* ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime / 720p / [Telegram](https://t.me/+tPEqeXLobAo4YTZh)
-* ⭐ **[Best Series](https://bstsrs.in/)**, [2](https://topsrs.day/), [3](https://srstop.link/) - TV / Anime
-* ⭐ **[NOXX](https://noxx.to/)** - TV
-* [Teleisodes](https://telepisodes.org/) - TV
-* [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
-* [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
-* [AZSeries](https://azseries.org/) - TV
-* [play.history](https://play.history.com/) - Full History / A+E Episodes
-* [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
-* [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
-* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
-* [HDClump](https://hdclump.com/) - Documentaries / Cooking / Gardening
-* [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
-* [/r/PanelShow](https://www.reddit.com/r/panelshow/) - Panel Shows / International Taskmaster Subs
-* [Taskmaster](https://trakt.tv/users/nbatman/lists/taskmaster-shows) - Full Taskmaster Episodes
-* [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
-* [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
-* [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
-* [TW Classics](https://twcclassics.com/) - Weather Channel Replays
+* ⭐ **[OBS](https://obsproject.com/)**
+* ⭐ **[gifcap](https://gifcap.dev/)** / [GitHub](https://github.com/joaomoreno/gifcap), [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
+* [Shinobi](https://shinobi.video/) - Network Video Recorder
+* [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
+* [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
+* [FFmpeg](https://ffmpeg.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+* [Vileo](https://lukasbach.github.io/vileo/)
+* [Shar.ec](https://shar.ec/)
+* [Screen Recorder](https://github.com/akon47/ScreenRecorder)
+* [ScreenREC](https://screen-rec.vercel.app/)
+* [KazCap](https://recorder.kazcap.com/)
+* [RecordScreen](https://recordscreen.io/)
+* [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+* [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
+* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
 
 ***
 
-## ▷ Drama Streaming
+## ▷ Convert / Compress
 
-* 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[KissAsian](https://kissasian.video/)** - TV / Movies
-* ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
-* [Einthusan](https://einthusan.tv/) - Movies
-* [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
-* [AsianCrush](https://www.asiancrush.com/) - TV / Movies
-* [LokLok](https://loklok.com/) - TV / Movies
-* [KissKH](https://kisskh.co/) - TV
-* [onedrama](https://onedrama.me/) - TV / Movies
-* [DramaFull](https://dramafull.net/) - TV / Movies / Auto-Next
-* [RiveStream](https://rivestream.live/kdrama) - TV / Movies
-* [Viki](https://www.viki.com/) - TV / Movies / Auto-Next
-* [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
-* [MyAsianTV](https://myasiantv.ac/) - TV / Movies
-* [KissAsianTV](https://kissasiantv.cx/) - TV / Movies
-* [OneTouchTV](https://onetouchtv.co/) - TV / Movies
-* [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
-* [ViewAsian](https://www.viewasian.org/) - TV / Movies
-* [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
-* [bagikuy](https://bagikuy.com/) - TV / Movies
-* [iFlix](https://www.iflix.com/) - TV / Movies / Auto-Next
-* [WeTV](https://wetv.vip/) - TV / Movies / Auto-Next
-* [Viu](https://www.viu.com/) - TV / Movies
-* [IQ](https://www.iq.com/) - TV / Movies / Auto-Next
-* [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
-
-***
-
-## ▷ Specialty Streaming
-
-* ↪️ **[How To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
-* ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
-* ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
-* ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
-* ⭐ **[Tokuzilla](https://tokuzilla.net/)** - Tokuzilla Movies / Shows
-* ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
-* ⭐ **[RiffTrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
-* ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
-* [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [WikiFlix](https://wikiflix.toolforge.org/), [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
-* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
-* [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
-* [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
-* [LIMA](https://www.li-ma.nl/) - Short / Experimental Films
-* [LightCone](https://lightcone.org/en) - Short / Experimental Films
-* [Rohesia Hamilton Metcalfe](https://www.panix.com/~hamiltro/links/) - Experimental Films
-* [Zero1Cine](https://zero1cine.com/) - AI Generated Films
-* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
-* [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
-* [Viddsee](https://www.viddsee.com/), [Shortverse](https://www.shortverse.com/explore), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
-* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
-* [0xDB](https://0xdb.org/) - Rare Movies / [How-To](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
-* [FootageFarm](https://footagefarm.com/) - Public Domain Films
-* [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
-* [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
-* [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
-* [IndianCine](https://indiancine.ma/) - Indian Film Archive
-* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
-* [TexasArchive](https://texasarchive.org/) - Texas Film Archive
-* [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
-* [MrWorldPremiere](https://mrworldpremiere.wf/) - Black Media Archive
-* [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
-* [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
-* [British Pathé](https://www.britishpathe.com/) - British Video Archive
-* [yfanefa](https://www.yfanefa.com/) - Yorkshire Film Archive
-* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
-* [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
-* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
-* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
-* [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
-* [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
-* [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
-* [35mm](https://35mm.online/en) - Polish Film Archive
-* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
-* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
-* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
-* [Animatsiya](https://animatsiya.net/) - Russian Animation Archive
-* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
-* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
-* [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
-* [3DS Movies](https://rentry.co/FMHYBase64#3d-3ds-movies) - 3D Movies for 3DS
-* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
-* [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks) 
-* [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
-* [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
-* [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
-* [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
-* [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
-* [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
+* ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
+* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Multimedia Processors / Converters  / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+* ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / [GitHub](https://github.com/paulpacifico/shutter-encoder)
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
+* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
+* ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
+* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
+* [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
+* [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
+* [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
+* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
+* [IFME](https://github.com/Anime4000/IFME) - Video Encoding
+* [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
+* [VideoCompress](https://videocompress.prolab.sh/) - Compress / Unlimited
+* [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
+* [8mb.video](https://8mb.video/) - Compress / Unlimited
+* [autocompressor](https://autocompressor.net/) - Compress / 2GB
+* [Rotato](https://tools.rotato.app/) - Compress / 2GB
+* [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
+* [YouCompress](https://www.youcompress.com/) - Compress / 500MB
+* [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
+* [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
+* [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
+* [Winnydows](https://winnydows.com/) - Video Conversion Software
+* [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
+* [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
+* [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
+* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
+* [selur](https://www.selur.de/) - Video Encoding
+* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 
 ***
 
-## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)
+## ▷ FFmpeg Tools
+
+* [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
+* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - Guides
+* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
+* [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
+* [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
+* [ffmpeg.lav](https://ffmpeg.lav.io/) - Preview Filters
+* [LLmpeg](https://github.com/gstrenge/llmpeg) or [idli](https://github.com/TejasQ/idli) - AI Commands
+* [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
 
 ***
 
-## ▷ Video Streaming
+## ▷ Live Streaming
 
-* **Note** - These are good for finding classic, obscure, and short films.
-
-***
-
-* ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
-* ⭐ **[OK](https://ok.ru/video)**
-* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
-* ⭐ **[Archive](https://archive.org/)** - Movies & TV Categories
-* ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
-* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
-* ⭐ **[Niconico](https://www.nicovideo.jp/)**
-* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
-* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
-* [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Vimeo](https://vimeo.com/)
-* [rutube](https://rutube.ru)
-* [cda.pl](https://www.cda.pl/)
-* [tilvids](https://tilvids.com/)
-* [bitchute](https://www.bitchute.com/)
-* [V-S Mobi](https://v-s.mobi/)
-* [Videa](https://videa.hu/)
-* [Aparat](https://www.aparat.com/)
-* [NewTube](https://newtube.app/)
-* [tudou](https://www.tudou.com/)
-* [BitView](https://www.bitview.net/)
-* [Tape](https://tape.xyz/)
-* [Naver](https://tv.naver.com/)
-* [ultimedia](https://www.ultimedia.com/)
-* [odysee](https://odysee.com/)
-* [Playeur](https://playeur.com/)
-* [Rumble](https://rumble.com/)
+* 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
+* ⭐ **[OBS](https://obsproject.com/)** - Live Stream Manager
+* ⭐ **OBS Tools** - [Virtual Cam](https://github.com/miaulightouch/obs-virtual-cam) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Dock Layouts](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
+* [Stream Elements](https://streamelements.com/) - Streaming Service Manager
+* [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
+* [StreamLabs](https://streamlabs.com/) - Live Stream Manager
+* [Restream](https://restream.io/) - Live Stream Manager
+* [FBX](https://fbx.gg/) - Live Stream Manager
+* [XSplit](https://www.xsplit.com/) - Live Stream Manager
+* [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP)
+* [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat) - Live Stream Recorders
+* [Owncast](https://owncast.online/), [Restreamer](https://github.com/datarhei/restreamer) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming
+* [WDFlat](https://www.wdflat.com/) - Stream Elements
+* [Twelve47Studios](https://twelve47studios.com/) - Stream Overlays
+* [Strem](https://github.com/strem-app/strem) - Stream Automation
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [Songify](https://songify.overcode.tv/) - Current Playing Song App
+* [StreamPi](https://stream-pi.com/) or [ODeck](https://github.com/willianrod/ODeck) - ElGato Streamdeck Alternatives
+* [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
+* [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 
 ***
 
-# ► Live TV / Sports
+## ▷ VTuber Tools
 
-## ▷ Live TV
-
-* ⭐ **[TheTVApp](https://thetvapp.to/)** - TV / Sports
-* ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
-* ⭐ **[DaddyLive](https://dlhd.so/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
-* ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
-* ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
-* [Xumo Play](https://play.xumo.com/networks) - TV / US Only
-* [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
-* [SportsLive](https://sportslive.me/) - Sport / [Discord](https://discord.gg/22BUXzus2h) / [Telegram](https://t.me/+TQLKRehSyuszOWRi)
-* [Time4TV](https://time4tv.online/) - TV / Sports
-* [time4tv.top](https://time4tv.top/) - TV / Sports
-* [LiveHDTV](https://www.livehdtv.com/) - TV
-* [IPTV Play](https://iptvplay.stream/en/live-tv) - TV / Sports
-* [CXtv](https://www.cxtvlive.com/) - TV / Sports
-* [TvFlix](https://tvflix.netlify.app/) - TV / Sports
-* [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
-* [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
-* [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports
-* [vipotv](https://vipotv.com/) - TV / Sports
-* [Stream4Free Live](https://www.infinite-streaming.live/) - TV / Sports
-* [WwiTv](https://wwitv.com/) - TV
-* [SquidTV](https://www.squidtv.net/) - TV
-* [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
-* [PhotoCall](https://photocall.xyz/) - TV
-* [Puffer](https://puffer.stanford.edu/) - San Fran TV
-* [Funcube](https://funcube.space/) - Random Streams
-* [cytube](https://cytu.be/) - Random Streams
-* [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
-* [Baked](https://baked.live/) - Random Streams
-* [Channel 99](http://www.pracdev.org/channel99/) - Random Streams
-* [YTCH](https://ytch.xyz/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube
-* [TV.Jest](https://tv.jest.one/) - News
-* [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
-* [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
-* [TitanTV](https://titantv.com/) - Live TV Listings
+* 🌐 **[Runa's Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources / [Discord](https://discord.com/invite/GdfHVZ6Z33)
+* [Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794) - VTuber Resources
+* [VTResources](https://vtresources.carrd.co/) - VTuber Resources
+* [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
+* [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) - VTuber App
+* [Inochi2D](https://inochi2d.com/) - VTuber App / [Discord](https://discord.com/invite/abnxwN6r9v)
+* [Vtube Studio](https://denchisoft.com/) - VTuber App
+* [Kalidoface 3D](https://3d.kalidoface.com/), [VRoid](https://vroid.com/en/studio), [Animaze](https://www.animaze.us/) or [TransTube](https://girkovarpa.itch.io/transtube) - VTuber Characters
+* [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
+* [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
 
 ***
 
-## ▷ Live Sports
-
-* ⭐ **[Streamed](https://streamed.su/)** - Sports / [Discord](https://discord.gg/streamed)
-* ⭐ **[Sportsurge](https://v2.sportsurge.net/home4/)** - Sports / Stream Aggregator
-* ⭐ **[PPV.land](https://ppv.land/)**, [2](https://ppv.zone/) - Sports / Live Events
-* ⭐ **[WatchSports](https://watchsports.to/)** - Sports / Stream Aggregator
-* ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
-* ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
-* ⭐ **[RBTV77](https://www.rbtv77.store/)** - Sports
-* ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
-* ⭐ **[TotalSportek](https://totalsportek.best/)**, [2](https://www.totalsportek.to/) - Sports
-* ⭐ **[Strims](https://strims.in/)** - Sports
-* ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
-* ⭐ **[Mazespin](https://mazespin.live/)** - Motorsports / Football / Cycling / [Discord](https://discord.com/invite/mazespin)
-* [MutStreams](https://mutstreams.com) - Sports
-* [Streameast](https://www.streameast.co/v8/) - Sports
-* [AllReplays](https://allreplays.com/) - Sports
-* [RiveStream](https://rivestream.live/livesports) - Sports
-* [Sportsurge.club](https://sportsurge.club/) - Sports
-* [Sportea](https://s1.sportea.link/) - Sports
-* [1Stream](https://1stream.eu/) - Sports
-* [First Row Sports](https://firstsrowsports.tv/) - Sports
-* [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
-* [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
-* [720pStream](https://720pstream.nu/) - Sports
-* [BuffStream](https://bestmlb.buffstream.io/) - Sports
-* [LiveTV](https://livetv780.me/enx/) - Sports
-* [Sport365](https://live.sport365.stream/) - Sports
-* [RedditSport](https://redditsport.cc/) - Sports
-* [Raket TV](https://rakettvv.blogspot.com/) - Sports
-* [rakettv.win](https://www.rakettv.win/) - Sports
-* [SportHD](https://sporthd.live/) - Sports
-* [MethStreams](https://methstreams.com/) - Sports
-* [CrackStreams](https://crack-streams.com/) - Sports
-* [FootyBite](https://www1.footybite.cc/) - Sports
-* [SportsOnline](https://sportsonline.gl/) - Sports
-* [WorldStreams](https://worldstreams.net/) - Sports
-* [PlentyPass](http://plentypass.com/) - Sports
-* [p2pstreams](https://p2pstreams.live/) - Sports
-* [StrikeOut](https://strikeout.im/) - Sports
-* [HesGoal](https://www.hesgoal.watch/) - Sports
-* [Sport-TV](https://sport-tv.live/) - Sports
-* [DudeStream](https://www.dudestream.com/) - Sports
-* [Strims](https://strims.in/) - Sports
-* [BuffSports](https://buffsports.me/) - Sports
-* [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
-* [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
-* [CricHDPlayer](https://crichdplayer.com/) - Sports
-* [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
-* [NFLHunter](https://nflhunter.com/) - American Football
-* [NFLBite](https://nflbite.tv/) - American Football
-* [MLB66](https://mlb66.ir/) - Baseball
-* [MLBshows](https://mlbshow.com/) - Baseball
-* [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
-* [Boxing Stream](https://boxingstream.ai/) - Boxing
-* [BoxingStreamLinks](https://boxingstreamlinks.com/) - Boxing
-* [MMA Streams](https://tonight.mmastreams.cc/) - MMA
-* [MMAStreamLinks](https://red3.mmastreamlinks.com/) - MMA
-* [SoccerOnline](https://socceronline.me/) - Football
-* [Streamtonfoot](https://streamtonfoot.vercel.app/) - Football
-* [FlickSoccer](https://flicksoccer.com/) - Football
-* [TIZ Cycling](https://tiz-cycling.io/) - Cycling
-* [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
-* [MotoGP](https://motogpstream.me/) - Motorsports
-* [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
-* [F1Box](https://f1box.me/) - Motorsports
-* [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
-* [NHLStreams](https://nhlstreams.io/) - Hockey
-* [NHLstream](https://nhlstream.net/) - Hockey
-* [NHL66](https://nhl66.ir/) - Hockey
-* [OnHockey](http://onhockey.tv/) - Hockey
-* [NHLbite](https://nhlbite.com/) - Hockey
-* [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
-* [F1 Dash](https://f1-dash.com/) - F1 Live Stats
-* [TheHighLow](https://thehighlow.io/) - NBA Highlights Database
+## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitles)
 
 ***
 
-## ▷ Sports Replays
+# ► Video Players
 
-* ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents
-* ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
-* ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
-* ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays
-* ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
-* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
-* ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays
-* ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays
-* [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
-* [Classic Sports Fanatic](https://www.youtube.com/@classicsportsfanatic7183/playlists) - Full Classic Sports Replays
-* [NFL Video](https://nfl-video.com/), [2](https://nfl-replays.com/) - American Football
-* [MLBLive](https://mlblive.net/) - Baseball Replays
-* [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
-* [FootballOrigin](https://www.footballorgin.com/) - Football Replays
-* [123footy](https://123footy.com/) - Football Replays
-* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Football Replays
-* [Soccer Full Match](https://soccerfullmatch.com/ ) - Football Replays
-* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
-* [Full Match](https://fullmatch.info/) - Football Replays
-* [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
-* [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
-* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
-* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
-* [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
-* [Hula8](https://www.hula8.net/) - MMA Replays
-* [Bellator](https://bellator.com/) - MMA Replays
-* [MMACore](https://www.mma-core.com) - MMA Replays
-* [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
-* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights Discord / [Telegram](https://t.me/NattoSumo)
-* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
-* [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
-* [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
-* [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
-* [Rugby24](https://rugby24.net/) - Rugby Replays
+* 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
+* 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
+* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)**, [MPC-QT](https://mpc-qt.github.io/) or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm)
+* ⭐ **[MPV](https://mpv.io/)**, [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
+* ⭐ **[VLC](https://www.videolan.org/)** - Video Player
+* ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
+* [Video Player Codecs](https://www.codecguide.com/)
+* [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
+* [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
+* [Pot Player](https://potplayer.daum.net/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
+* [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
+* [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/)
+* [uView](https://www.idruf.com/) - Video Player
+* [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - Video Player
+* [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
+* [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
+* [KikoPlay](https://kikoplay.fun/) - Video Player
+* [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
+* [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
+* [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
+* [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
+* [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
+* [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
+* [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 
 ***
 
-## ▷ IPTV Tools
+## ▷ Stream Sync
 
-* 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
-* ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** - IPTV Player / [Unlock](https://rentry.co/FMHYBase64#best-player)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player 
-* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player 
-* [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - IPTV Player 
-* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player 
-* [IPTV Playlists](https://rentry.co/fmhybase64#iptv-playlists) - List of Playlists
-* [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
-* [IPTVSearch](https://www.foodieguide.com/iptvsearch/) or [SearchTV](https://searchtv.net/) - IPTV Search Engines
-* [IPTV Community](https://iptv.community/) - IPTV Forum
-* [CaberNetwork](https://cabernetwork.github.io/) - IPTV Manager
-* [SipTV Converter](https://siptv.eu/converter/) - M3U to TXT
-* [M3U4U](https://m3u4u.com/) - M3U Editor
-* [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - M3U Downloader
-* [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - M3U CLI
-* [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
-
-***
-
-# ► Smart TV / Firestick
-
-* ⭐ **[Tizentube](https://tizentube.vercel.app/)** - Ad-Free Samsung Smart TV YouTube
-* ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://gist.github.com/VVispy/044cd8005260b270728e1d9aa8f6af51)
-* [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
-* [KPFire](https://linktr.ee/kpfire) - Firestick Apps
-* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
-* [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
-* [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
-* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
-* [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
-* [StreamFire](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
-* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
-* [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
+* ⭐ **[SyncPlay](https://syncplay.pl/)** - App
+* ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
+* ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
+* ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
+* ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
+* [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
+* [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
+* [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
+* [Metastream](https://getmetastream.com/) - Online Extension
+* [Caracal Club](https://caracal.club/) - Online Video Player
+* [CyTube](https://cytu.be/) - Online Video Player
+* [VideoTogether](https://2gether.video/en-us/) - App
+* [baked.live](https://baked.live/) - Online Video Player
+* [Rave.io](https://rave.io/) - Online Extension 
+* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
+* [WatchParty](https://www.watchparty.me/) - Online / Virtual Browser
+* [Kast](https://kast.gg/) - Screen Share
+* [Screen Share Party](https://ba.net/screen/) - Online Screen Share
 
 ***
 
-## ▷ Android TV
+## ▷ MPV Tools
 
-* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
-* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
-* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
-* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
-* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
-* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
-* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
-* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
-* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
-* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
-
-***
-
-# ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
-
-***
-
-# ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
+* ↪️ **[MPV Shaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders)**
+* [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+* [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
+* [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
+* [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
+* [MPV Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) - Userscripts
+* [VideoClip](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-cut) - Clip Tool
+* [MPV WebM](https://github.com/ekisu/mpv-webm) - WebM Tool
+* [Play With MPV](https://greasyfork.org/en/scripts/416271) or [ff2mpv](https://github.com/woodruffw/ff2mpv) - Open Videos with MPV
+* [MPV WebTorrent Hook](https://github.com/noctuid/mpv-webtorrent-hook) - Torrent Streamimg
+* [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
+* [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
+* [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
 
 ***
 
-# ► Download Sites
+## ▷ VLC Tools
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
-
-***
-
-* ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
-* ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
-* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[LightDLMovies](https://lightdl.xyz/)** - Movies / TV
-* ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
-* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
-* ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
-* ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
-* ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
-* [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
-* [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / [Telegram](https://t.me/olamovies_officialv6)
-* [StagaTV](https://www5.stagatv.com/) - Movies / TV
-* [StarsDDL](https://starsddl.me/) - Movies / TV
-* [YassFlix](https://yassflix.live/) - TV / Anime
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
-* [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV
-* [UHDMovies](https://uhdmovies.dad/) - Movies / 4K
-* [Piracy App](https://www.piracy.su/) - Movies / TV / Anime / 4K
-* [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
-* [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
-* [MoviPlus](https://moviplus.net/) - Movies / TV
-* [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
-* [Full4Movies](https://www.full4movies.help/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
-* [Free Movies](https://free-movies.to/) - Movies / TV
-* [SomosMovies](https://somosmovies.com/) - Movies
-* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
-* [SeriesVault](https://seriesvault.win/) - TV / Anime
-* [FilmFans](https://filmfans.org/) - Movies / 4K
-* [WorldFree4u](https://worldfree4u.pm/) - Movies
-* [SSR Movies](https://ssrmovies.meme/) - Movies / TV 
-* [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
-* [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV
-* [ShareMania](https://sharemania.us/) - Movies / TV / 4K
-* [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
-* [ShareBB](https://sharebb.me/) - Movies / TV
-* [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
-* [SD Toons](https://sdtoons.in) - Movies / TV / Anime
-* [PrivateMovieZ](https://privatemoviez.mom/) - Movies / TV
-* [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
-* [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
-* [FZMovies](https://fzmovies.host/), [2](https://fzmovies.net/) - Movies / 720p
-* [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
-* [TV Shows](https://tvshows.me/) - TV / 720p
-* [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 720p
-* [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
-* [NetNaija](https://netnaija.xyz/) - Movies / 480p
-* [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
-* [/r/DownUnderTV](https://www.reddit.com/r/DownUnderTV/) - AU / NZ TV
-* [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
-* [nKiri](https://nkiri.com/) - Asian Drama / 720p
-* [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
-* [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
-* [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
-* [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
+* 🌐 **[Awesome VLC](https://github.com/mfkl/awesome-vlc)** - VLC Resources
+* [VLSub](https://github.com/exebetche/vlsub) - Sub Downloader
+* [VLC Skin](https://rentry.co/VLC-skin) - VLC Skins
+* [VLC Slow Seek Fix](https://redd.it/os6f1q)
 
 ***
 
-## ▷ Drives / Directories
+# ► Media Servers
 
-* ⭐ **[StarK ClouD](https://rentry.co/FMHYBase64#stark-cloud)** - Movies / 4K / [Telegram](https://t.me/starkmediahub)
-* ⭐ **[datadiff](https://rentry.co/FMHYBase64#datadiff)** - Movies / TV / [Request](https://www.reddit.com/r/reqworkers101/) / [Discord](https://discord.gg/dMszNcTb)
-* [One Eighty Eight](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
-* [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
-* [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
-* [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
-* [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
-
-***
-
-## ▷ Anime Downloading
-
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
-
-***
-
-* 🌐 **[Wotaku](https://wotaku.wiki/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)**, [2](https://everythingmoe.org/#section-download) - Anime DDL Index / [Discord](https://discord.gg/GuueaDgKdS)
-* 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
-* ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
-* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.gg/uZ85cbAg4T)
-* ⭐ **[Flugel Anime](https://rentry.co/FMHYBase64#flugel-anime)** - Sub
-* ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
-* ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
-* [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
-* [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
-* [AnimeSuge](https://animesugetv.to/) - Sub / Dub
-* [AnimeLand](https://w4.animeland.tv/) - Dub
-* [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
-* [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
-* [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
-* [anime7.download](https://anime7.download/) - Sub
-* [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
-* [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
-* [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
-* [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
-
+* 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
+* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
+* ⭐ **[Kodi](https://kodi.tv/)** - Media Server
+* [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
+* [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
+* [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
+* [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
+* [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
+* [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
+* [Emby](https://emby.media/) - Media Server
+* [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
+* [OSMC](https://osmc.tv/) - Media Server
+* [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
+* [Streama](https://github.com/streamaserver/streama) - Media Server
+* [Gerbera](https://gerbera.io/) - Media Server
+* [Homehost](https://github.com/ridhwaans/homehost) - Media Server
+* [Dim](https://github.com/Dusk-Labs/dim) - Media Server
+* [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
+* [WatchIt](https://github.com/ZorrillosDev/watchit-app) - Media Server
+* [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
+* [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
+* [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
+* [Seanime](https://seanime.rahim.app/) - Anime Server
+* [Frames](https://github.com/Eleven-am/frames) - GDrive Server
+* [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
+* [MSX](https://msx.benzac.de/info/) - Web App
+* [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
+* [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers
+* [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
+* [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
+* [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
 
 ***
 
-## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+## ▷ Plex Tools
+
+* [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
+* [Tautulli](https://tautulli.com/) - Server Monitor
+* [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
+* [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
+* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount GDrive
+* [SyncLounce](https://synclounge.tv/) - Media Sync
+* [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
+* [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
+* [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
+* [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
 
 ***
 
-# ► Torrent Apps
+## ▷ Jellyfin Tools
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
-
-***
-
-* 🌐 **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools / [Multi Installer](https://github.com/LordZeuss/arr-installer) / [Automation Scripts](https://github.com/RandomNinjaAtk/arr-scripts/)
-* ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
-* ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [/r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
-* ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [Auto-Subtitles](https://www.bazarr.media/) / [GitHub](https://github.com/Radarr/Radarr)
-* ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/) / [Auto-Subtitles](https://www.bazarr.media/)
-* ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [Doplarr](https://github.com/kiranshila/Doplarr) - Discord Torrent Bots
-* [Powder](https://powder.media/) - Torrent Streaming App
-* [Popcorn Time](https://popcorn-time.site/) - Torrent Streaming App / [GitHub](https://github.com/popcorn-official/popcorn-desktop/)
-* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/) / [Modded APK](https://rentry.co/FMHYBase64#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
-* [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
-* [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
-* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
-* [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
-* [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
-* [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
-* [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
-* [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming
+* 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
+* ⭐ **[Blink](https://github.com/prayag17/Blink)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
+* [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
+* [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
+* [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
+* [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
+* [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
+* [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
+* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
+* [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
 
 ***
 
-## ▷ Stremio Tools
+## ▷ Kodi Tools
 
-* 🌐 **[Stremio Addons](https://stremio-addons.netlify.app/)** - Stremio Addons
-* ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
-* [Stremio Addon Manager](https://addon-manager.viren070.me/), [2](https://stremio-addon-manager.vercel.app/), [3](https://github.com/pancake3000/stremio-addon-manager) - Addons Manager
-* [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/) - Easy Stremio Setup
-* [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
-* [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
-* [Simkl Stremio](https://simkl.com/apps/stremio/) - Simkl for Stremio
-* [Trakt Stremio](https://2ecbbd610840-trakt.baby-beamup.club/) - Trakt for Stremio
-
-***
-
-# ► Torrent Sites
-
-* ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime
-* ⭐ **[TorrentGalaxy Movies](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)** - Movies / TV / Anime / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion/) / [Proxies](https://proxygalaxy.me/)
-* ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
-* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Signup Required
-* ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
-* ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
-* [RGShows](https://www.rgshows.me/torrent/) - Multi-Site Search
-* [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
-* [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K
-* [MSearch](https://msearch.vercel.app/) - Movies / TV
-* [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
-* [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
-* [Vuze](https://www.vuze.com/content/) - Movies / TV
-* [YAPs](https://yaps.therarbg.to/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
-* [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
-* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Clones](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / [Note](https://pastebin.com/00a1dvAk)
-* [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
-* [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
-* [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
-* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all) or [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Torrent Site Results on IMDb
-* [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
+* ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
+* [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
+* [Kodi Builds Chart](https://kodiapps.com/builds-chart)
+* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
+* [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
+* [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
+* [quasar](https://quasar.surge.sh/) - Torrent Plugin
+* [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
+* [Simkl](https://simkl.com/) - Media Tracker
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 
 ***
 
-## ▷ Anime Torrenting
+# ► Video Download
 
-* ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/) [3](https://nyaa.iss.ink/) - Sub / Dub
-* ⭐ **Nyaa Tools** - [TUI](https://github.com/Beastwick18/nyaa) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot), [2](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag), [2](https://nyaaapi.onrender.com/docs) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Guide](https://greasyfork.org/en/scripts/441017-nyaablue)
-* ⭐ **[Miru](https://miru.watch/)** or [Migu](https://miguapp.pages.dev/ ) - Stream Anime Torrents
-* ⭐ **[AnimeTosho](https://animetosho.org/)** - Sub / Dub
-* ⭐ **[TokyoTosho](https://www.tokyotosho.info/)** - Sub
-* ⭐ **[ShanaProject](https://www.shanaproject.com/)** - Sub
-* ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
-* ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
-* ⭐ **[bakabt](https://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
-* [Seanime](https://seanime.rahim.app/) - Anime Torrent App
-* [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)
-* [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Anime Video Quality Guides
-* [Fansub Cartel](https://index.fansubcar.tel/) - Fansubbers Index
-* [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
-
-***
-
-## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_torrenting)
-
-***
-
-# ► Tracking / Discovery
-
-## ▷ Database / Tracking
-
-* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
-* ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
-* ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
-* ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
-* ⭐ **[FlickMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
-* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[AniList](https://anilist.co/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
-* ⭐ **[serializd](https://www.serializd.com/)** - TV / Anime
-* [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/) / [Frontend](https://libremdb.iket.me)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)
-* [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
-* [TVDb](https://www.thetvdb.com/) - TV / Anime
-* [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
-* [rate.house](https://rate.house/) - Media Tracker
-* [Movieo](https://movieo.me/) - Movies / TV / Anime
-* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
-* [Anime-Planet](https://www.anime-planet.com/) - Anime
-* [Kitsu](https://kitsu.io/) - Anime
-* [Anisearch](https://www.anisearch.com/) - Anime
-* [AniDB](https://anidb.net/) - Anime
-* [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
-* [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
-* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
-* [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
-* [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
-* [FFCritic](https://foundfootagecritic.com/) - Found Footage
-* [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
-* [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
-* [IGMDB](https://igmdb.com/) - LGBT Movies
-* [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
-* [Taiga](https://taiga.moe/) - Anime Tracking Program
-* [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
+* ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+* ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
+* ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Zoom Fix](https://github.com/yt-dlp/yt-dlp/issues/2299) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
+* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
+* ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* [CD(R)M-Project](https://discord.gg/cdrmproject) - StreamFab Downloading Discord
+* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
+* [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [you-get](https://you-get.org/) - Multi-Site / CLI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
+* [Yout](https://yout.com/) - Multi-Site / Online
+* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
+* [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [Threads Downloader](https://threadsdownloader.com/) - Threads
+* [PinCase](https://pincase.xyz/) - Pinterest / Online
+* [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
+* [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 
 ***
 
-## ▷ Recommendations
+# ► Video Editing
 
-* 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
-* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
-* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
-* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
-* [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
-* [listal](https://www.listal.com/) - Movies / TV
-* [RelatedAnime](https://relatedanime.com/) - Related Anime Index
-* [AnimeStats](https://anime-stats.net/), [AnimeKarmaList](https://animekarmalist.com/), [Sprout](https://anime.ameo.dev/) or [AniBrain](https://anibrain.ai/) - Anime Recommendations
-* [Autum](https://autum.com/) - Movie / TV Recommendations
-* [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
-* [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
-* [Taste.io](https://www.taste.io/) - Movie Recommendations
-* [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
-* [MoodieMoovy](https://moodiemoovy.netlify.app/) - Movie Recommendations
-* [GNOD](https://www.gnod.com/) - Movie Recommendations
-* [MovieLens](https://movielens.org/) - Movie Recommendations
-* [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
-* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
-* [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations
-* [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt
-* [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
-* [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
-* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies with Friends
-* [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
-* [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
-* [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
-* [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
-* [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
-* [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
-* [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
-* [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
-* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+* 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
+* 🌐 **[Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers)** or [Free-Codecs](https://www.free-codecs.com/) - Video Editing Codecs
+* ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
+* [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
+* [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 
 ***
 
-## ▷ Calendar / Upcoming
+## ▷ Video Editors
 
-* ⭐ **[Your Countdown To](https://yourcountdown.to/)** - Countdown for Movies / TV / Anime / Video Games
-* ⭐ **[Movie Countdown](https://moviescountdown.com/)** - Countdown for Upcoming Movies / [TV](https://countdown.tv/) / [Drama](https://dramacountdown.com/)
-* [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
-* [TVMaze](https://www.tvmaze.com/) - TV / Anime
-* [My Episodes](https://www.myepisodes.com/) - TV
-* [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
-* [AniChart](https://anichart.net), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
-* [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
-* [showRSS](https://showrss.info/) - RSS / TV
-
-***
-
-# ► Subtitles
-
-* 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
-* ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
-* [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [Tero Subtitler](https://www.uruworks.net/), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Subtitle Workshop](https://sourceforge.net/projects/subtitle-workshop-classic/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editors
-* [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
-* [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
-* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
-* [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
-* [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator), [Vibe](https://thewh1teagle.github.io/vibe/) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers
-* [TranslatesSubtitles](https://translatesubtitles.com/) - Translate Subtitles
-* [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
-* [SoniTranslate](https://github.com/R3gm/SoniTranslate) - Video Translator
-* [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
-* [Sushi.net](https://github.com/maxpiva/Sushi.Net) - Automatic Subtitle Shifter Based on Audio
-* [mkv-extract](https://qgustavor.github.io/mkv-extract/), [gmkvextractgui](https://sourceforge.net/projects/gmkvextractgui/) or [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) - Extract Subtitles from MKV Files
-* [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
-* [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
-* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/), [Fansub Guide](https://unanimated.github.io/guides.htm) or [Fansubbing Guide](https://guide.encode.moe/) - Fansubbing Encoding Guides
-
-***
-
-## ▷ Download Subtitles
-
-* ⭐ **[Open Subtitles](https://opensubtitles.org/)** - Subtitles
-* ⭐ **[SubDL](https://subdl.com/)** - Subtitles
-* ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
-*  [Subsearch](https://github.com/vagabondHustler/subsearch), [SubDownloader](https://subdownloader.net/), [Subliminal](https://subliminal.readthedocs.io/) or [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - Python Download Scripts
-* [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
-* [SubSource](https://subsource.net/) - Subtitles
-* [Podnapisi](https://www.podnapisi.net/) - Subtitles
-* [Subscene](https://subscene.cam/) - Subtitles
-* [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
-* [Closed Caption Browser](https://cc.edatribe.com/ ) - Subtitles
-* [Subs4Free](https://www.subs4free.info/) - Subtitles
-* [Subss](https://subss.vercel.app/) - Subtitles
-* [English-Subtitles](https://english-subtitles.org/) - Subtitles
-* [My Subs](https://my-subs.co/) - Subtitles
-* [YTS Subs](https://yts-subs.com/) - Subtitles
-* [SubtitleSeeker](https://www.subtitleseeker.in/) - Subtitles
-* [Subtitlist](https://subtitlist.com/) - Subtitles
-* [TVSubs](https://www.tvsubs.net/) - TV Subtitles
-* [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
-* [DownSub](https://downsub.com/) - Download Subs from Video Sites
-* [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
+* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
+* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
+* [Auto-Editor](https://auto-editor.com/) - CLI Editor
+* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
+* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
+* [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
+* [Remotion](https://www.remotion.dev/) - Video Editor
+* [Olive](https://www.olivevideoeditor.org/) - Video Editor
+* [LosslessCut](https://github.com/mifi/lossless-cut) - Video Editor
+* [EZVid](https://www.ezvid.com/) - Video Editor
+* [OpenShot](https://www.openshot.org/) - Video Editor
+* [Lightworks](https://lwks.com/) - Video Editor
+* [VSDC](https://www.videosoftdev.com/) - Video Editor
+* [Pitivi](https://www.pitivi.org/) - Video Editor
+* [Visla](https://www.visla.us/) - Video Editor
+* [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [2](https://archive.org/details/mm26enu_202002), [3](https://archive.org/details/MM2.1And2.6_201903) - Video Editor
+* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
+* [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool
+* [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
+* [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
+* [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
+* [OpenColorIO](https://opencolorio.org/) - Video Color Manager
+* [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
+* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
+* [Opus](https://www.opus.pro/) - Clip Creator
+* [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
+* [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
+* [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
+* [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
 
 ***
 
-# ► Helpful Sites / Tools
+## ▷ Online Editors
 
-* 🌐 **[/r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
-* ↪️ **[Video Players / Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)**
-* ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
-* ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
-* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
-* ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
-* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
-* ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
-* ⭐ **[BingeClock](https://www.bingeclock.com/)**, [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
-* ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Streaming Site Guide](https://redd.it/yykvnv)
-* ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
-* ⭐ **[AnimeFillerList](https://www.animefillerlist.com/)** or [AnimeFillerGuide](https://www.animefillerguide.com/) - Anime Filler Guides
-* [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI / [Plugins](https://github.com/topics/mov-cli-plugin) /  [GitHub](https://github.com/mov-cli/mov-cli)
-* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
-* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
-* [FlickChart](https://www.flickchart.com/) - Rank Your Movies
-* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
-* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Media Scripts
-* [Forever Dreaming](https://transcripts.foreverdreaming.org/) - Media Transcripts
-* [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
-* [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
-* [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
-* [RunPee](https://runpee.com/) - Best Movie Break Times
-* [IMissedTheStart](https://imissedthestart.com/) - Summarize Missed Movie Parts
-* [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
-* [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - Voice Actors Database
-* [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media
-* [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
-* [Starring the Computer](https://www.starringthecomputer.com/) - Movie Computer Database / [Discord](https://discord.com/invite/6NbTfHEtgQ)
-* [IMFDB](https://www.imfdb.org/) - Movie Firearms Database / [Discord](https://discord.com/invite/FDHEkQ6szt)
-* [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
-* [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
-* [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
-* [Anime Skip](https://anime-skip.com/) - Auto Skip Anime Intros
-* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search
-* [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
-* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
-* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
-* [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
-* [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
-* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
-* [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
+* ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
+* ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
+* [VideoInu](https://videoinu.com/)
+* [Clideo](https://clideo.com/)
+* [Kapwing](https://www.kapwing.com/)
+* [Panzoid](https://panzoid.com/)
+* [Convert2Video](https://convert2video.com/)
+* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/aegir-assembly/omni-clip)
+* [Video Cutter](https://video-cutter-js.com/)
+* [Vididoo](https://vididoo.vercel.app/)
+* [VideoToolbox](https://www.videotoolbox.com/)
+* [VideoCandy](https://videocandy.com/)
+* [vidmix](https://vidmix.app/)
+* [mebm](https://bwasti.github.io/mebm/)
+* [Video2Edit](https://www.video2edit.com/)
+* [Crop Video](https://crop-video.com/) - Crop Videos
+* [LoopVid](https://loopvid.kastden.org/) - Loop Videos
+* [Crossfade](https://crossfade.io/) - Video and Audio Crossfading
+* [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 
 ***
 
-## ▷ Streaming APIs
+## ▷ VFX Sites
 
-* [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
-* [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API
-* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
-* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
-* [Embed.su](https://embed.su/) - Movies / TV / Anime / API
-* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV / API
-* [VidLink](https://vidlink.pro/) - Movies / TV / API
-* [moviee](https://moviee.tv/api) - Movies / TV
-* [WHVX](https://whvx.net/) - Movies / TV / Anime / API
-* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
-* [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
-* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
-* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
-* [VidSrc.vip](https://vidsrc.vip/) - Movies / TV / Anime / API
-* [Flicky](https://www.flicky.host/) - Movies / TV / Anime / API
-* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
-* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
+* [FootageCrate](https://footagecrate.com/)
+* [FreeVideoEffect](https://freevideoeffect.com/)
+* [VideoCoPilot](https://www.videocopilot.net/)
+* [VFXmed](https://www.vfxmed.com/)
+* [flex_cg_vfx](https://t.me/flex_cg_vfx)
+* [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
+* [ShareAE](https://www.shareae.com/) - After Effects
+* [HunterAE](https://hunterae.com/) - After Effects
+* [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
+* [AERiver](https://aeriver.com/) - After Effects
+* [MSRTC](https://msrtc-maharashtra.in/) - After Effects / [Telegram](https://t.me/aftereffectsplugins01)
+* [AEDownloadPro](https://aedownloadpro.com/) - After Effects
+* [Intro HD](https://intro-hd.net/) - After Effects
+* [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
+
+***
+
+## ▷ Animation Tools
+
+* 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
+* ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
+* [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
+* [Animaker](https://www.animaker.com/) - Animated Video Creator
+* [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
+* [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
+* [Mega Scans](https://quixel.com/megascans) - 3D Scans
+* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
+* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
+* [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
+* [Physically Based](https://physicallybased.info/) - RGB Values of Elements
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
+* [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)
+* [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
+* [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
+* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
+* [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
+* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
+* [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
+* [Viggle](https://viggle.ai/) / [Discord](https://discord.com/invite/viggle) or [Picrew](https://picrew.me/) - Animated Character Creators
+* [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
+* [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
+* [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
+* [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
+
+***
+
+## ▷ Stock Videos
+
+* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
+* [Pexels](https://www.pexels.com/) - Stock Videos
+* [4K Media](https://4kmedia.org/) - 4K Stock Videos
+* [Dareful](https://dareful.com/) - 4K Stock Videos
+* [Monzoom](https://www.monzoom.com/) - 4K Stock Videos
+* [BeachFrontBroll](https://www.beachfrontbroll.com/) - Stock Videos
+* [Videvo](https://www.videvo.net/) - Stock Videos
+* [veed.io](https://www.veed.io/videos) - Stock Videos
+* [VidsPlay](https://www.vidsplay.com/) - Stock Videos
+* [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Stock Videos
+* [MixKit](https://mixkit.co/) - Stock Videos
+* [ineedfx](https://ineedfx.com/) - Stock Videos
+* [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos
+* [DroneStock](https://dronestock.com/) - Drone Video Footage
+* [MovieTools](https://movietools.info/) - Video Loops

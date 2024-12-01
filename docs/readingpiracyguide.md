@@ -106,6 +106,7 @@
 * [BookFrom.net](https://www.bookfrom.net/) - Books
 * [FreeEditorial](https://www.freeditorial.com/) - Books
 * [Zoboko](https://zoboko.com/) - Books
+* [TG Books](https://torrentgalaxy.to/) - Torrents / Books
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [BooksMania](https://t.me/booksmania) - Books / Telegram
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
