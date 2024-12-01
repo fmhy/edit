@@ -451,6 +451,7 @@
 
 # ► Font Tools
 
+* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
 * ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
 * ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer/Terminal Fonts
@@ -493,81 +494,53 @@
 
 ***
 
-## ▷ Download Fonts
+## ▷ Open Source / Commercial
+
+* ⭐ **[FontSource](https://fontsource.org/)** - Open Source
+* ⭐ **[Font Squirrel](https://www.fontsquirrel.com/)** - Commercial Use
+* ⭐ **[DaFont](https://www.dafont.com/)** - Commercial Use
+* ⭐ **[1001 Fonts](https://www.1001fonts.com/)** - Commercial Use
+* [Google Fonts](https://fonts.google.com/), [GooFonts](https://goofonts.com/) or [Coollabs](https://fonts.coollabs.io/)
+* [Velvetyne](https://velvetyne.fr/) - Open Source
+* [uncut.wtf](https://uncut.wtf/) - Open Source
+* [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
+* [FontRepo](https://www.fontrepo.com/) - Open Source
+* [Fontlot](https://fontlot.com/) - Commercial Use
+* [Fontsly](https://fontsly.com/) - Commercial Use
+* [Fonts4Free](https://www.fonts4free.net/) - Commercial Use
+* [FontSpace](https://www.fontspace.com/) - Commercial Use
+* [Online Fonts](https://online-fonts.com/) - Commercial Use
+* [CDNFonts](https://www.cdnfonts.com/) - Commercial Use
+* [Fontesk](https://fontesk.com/) - Commercial Use
+* [iFonts](https://ifonts.xyz/) - Commercial Use
+* [DownloadFonts](https://www.downloadfonts.io/) - Commercial Use
+* [AbstractFonts](https://www.abstractfonts.com/) - Commercial Use
+* [FontGet](https://www.fontget.com/) - Commercial Use
+* [FreeFontsDownload](https://freefontsdownload.net/) - Commercial Use
+* [Fonts2u](https://fonts2u.com/) - Commercial Use
+* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) - Commercial Use
+* [GlukFonts](https://www.glukfonts.pl/fonts.php) - Commercial Use
+* [Iconian](https://www.iconian.com/) - Commercial Use
+
+***
+
+## ▷ Free Fonts
 
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-site Font Search
-* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
-* ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
-* ⭐ **[FontSource](https://fontsource.org/)**
 * ⭐ **[FontPiracy](https://rentry.co/FontPiracy)** - Font Download Guide
-* [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
-* [Google Fonts](https://fonts.google.com/)
-* [GooFonts](https://goofonts.com/)
-* [DaFont](https://www.dafont.com/)
-* [Dafont Free](https://www.dafontfree.net/)
-* [FontSpace](https://www.fontspace.com/)
-* [Font Store](https://t.me/fontsstore)
-* [NetFontes](https://www.netfontes.com.br/)
-* [Online Fonts](https://online-fonts.com/)
+* ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * [Windows Fonts](https://wfonts.com/)
-* [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
-* [Font Squirrel](https://www.fontsquirrel.com/)
-* [Free Fonts Family](https://freefontsfamily.com/)
-* [DFonts](https://www.dfonts.org/)
-* [FontSpark](https://fontspark.com/)
-* [Velvetyne](https://velvetyne.fr/)
-* [Best Free Fonts](https://bestfreefonts.com/)
-* [FontPair](https://www.fontpair.co/fonts)
-* [FontsHub](https://fontshub.pro/)
-* [CDNFonts](https://www.cdnfonts.com/)
-* [Fontesk](https://fontesk.com/)
-* [CandyFonts](https://candyfonts.com/)
-* [uncut.wtf](https://uncut.wtf/)
-* [Lost Type Co-op](https://losttype.com/browse/)
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-* [d_fonts](https://t.me/d_fonts)
-* [iFonts](https://ifonts.xyz/)
-* [Cufon Fonts](https://www.cufonfonts.com/)
-* [Fontsly](https://fontsly.com/)
-* [fonteseletras](https://www.fonteseletras.com/)
-* [BoldFonts](https://boldfonts.com/)
-* [CoFonts](https://cofonts.com/)
-* [FontsFree](https://fontsfree.net)
-* [FontReach](https://www.fontreach.com/)
-* [DownloadFonts](https://www.downloadfonts.io/)
-* [UrbanFonts](https://www.urbanfonts.com/)
-* [AbstractFonts](https://www.abstractfonts.com/)
-* [FontGet](https://www.fontget.com/)
-* [FontSupply](https://www.fontsupply.com/)
-* [BlogFonts](https://blogfonts.com/)
-* [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
-* [Martian Mono](https://github.com/evilmartians/mono)
-* [Dribbble](https://dribbble.com/search/free%20font)
-* [Fonts2u](https://fonts2u.com/)
-* [GlukFonts](https://www.glukfonts.pl/fonts.php)
-* [Iconian](https://www.iconian.com/)
-* [Beautiful Web Type](https://beautifulwebtype.com/)
-* [HighFonts](https://highfonts.com/category/free/)
-* [FontsGeek](https://fontsgeek.com/)
-* [FreeFontsDownload](https://freefontsdownload.net/)
-* [FontPark](https://fontpark.com/)
-* [FFonts](https://www.ffonts.net/)
-* [Fontke](https://eng.fontke.com/font/)
-* [FontRepo](https://www.fontrepo.com/)
-* [Fontlot](https://fontlot.com/)
-* [FreeBestFonts](https://www.freebestfonts.com/)
-* [Fonts4Free](https://www.fonts4free.net/)
-* [paid fonts for free](https://t.me/squaxfonts)
-* [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
-* [TypeType](https://typetype.org/freefonts/)
-* [SimplyTheBest](https://simplythebest.net/fonts/)
 * [BeFonts](https://befonts.com/)
-* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
-* [MaisFontes](https://en.maisfontes.com/)
-* [World of Fonts](https://w.itch.io/world-of-fonts)
-* [BestFonts](https://bestfonts.pro/)
+* [Free Fonts Family](https://freefontsfamily.com/)
+* [Cufon Fonts](https://www.cufonfonts.com/)
+* [FontsFree](https://fontsfree.net)
+* [DFonts](https://www.dfonts.org/)
+* [FFonts](https://www.ffonts.net/)
+* [FontsHub](https://fontshub.pro/)
+* [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
+* [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
+* [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [psd_fonts](https://vk.com/psd_fonts)
-* [1001 Fonts](https://www.1001fonts.com/)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
 
 ***
