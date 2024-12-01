@@ -494,33 +494,33 @@
 
 ***
 
-## ▷ Open Source / Commercial
+## ▷ Open Source / Freeware
 
 * ⭐ **[FontSource](https://fontsource.org/)** - Open Source
 * ⭐ **[Font Squirrel](https://www.fontsquirrel.com/)** - Commercial Use
-* ⭐ **[DaFont](https://www.dafont.com/)** - Commercial Use
-* ⭐ **[1001 Fonts](https://www.1001fonts.com/)** - Commercial Use
+* ⭐ **[DaFont](https://www.dafont.com/)** - Freeware
+* ⭐ **[1001 Fonts](https://www.1001fonts.com/)** - Freeware
 * [Google Fonts](https://fonts.google.com/), [GooFonts](https://goofonts.com/) or [Coollabs](https://fonts.coollabs.io/)
 * [Velvetyne](https://velvetyne.fr/) - Open Source
 * [uncut.wtf](https://uncut.wtf/) - Open Source
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
-* [Fontlot](https://fontlot.com/) - Commercial Use
-* [Fontsly](https://fontsly.com/) - Commercial Use
-* [Fonts4Free](https://www.fonts4free.net/) - Commercial Use
-* [FontSpace](https://www.fontspace.com/) - Commercial Use
-* [Online Fonts](https://online-fonts.com/) - Commercial Use
-* [CDNFonts](https://www.cdnfonts.com/) - Commercial Use
-* [Fontesk](https://fontesk.com/) - Commercial Use
-* [iFonts](https://ifonts.xyz/) - Commercial Use
-* [DownloadFonts](https://www.downloadfonts.io/) - Commercial Use
-* [AbstractFonts](https://www.abstractfonts.com/) - Commercial Use
-* [FontGet](https://www.fontget.com/) - Commercial Use
-* [FreeFontsDownload](https://freefontsdownload.net/) - Commercial Use
-* [Fonts2u](https://fonts2u.com/) - Commercial Use
-* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) - Commercial Use
-* [GlukFonts](https://www.glukfonts.pl/fonts.php) - Commercial Use
-* [Iconian](https://www.iconian.com/) - Commercial Use
+* [Fontlot](https://fontlot.com/) - Freeware
+* [Fontsly](https://fontsly.com/) - Freeware
+* [Fonts4Free](https://www.fonts4free.net/) - Freeware
+* [FontSpace](https://www.fontspace.com/) - Freeware
+* [Online Fonts](https://online-fonts.com/) - Freeware
+* [CDNFonts](https://www.cdnfonts.com/) - Freeware
+* [Fontesk](https://fontesk.com/) - Freeware
+* [iFonts](https://ifonts.xyz/) - Freeware
+* [DownloadFonts](https://www.downloadfonts.io/) - Freeware
+* [AbstractFonts](https://www.abstractfonts.com/) - Freeware
+* [FontGet](https://www.fontget.com/) - Freeware
+* [FreeFontsDownload](https://freefontsdownload.net/) - Freeware
+* [Fonts2u](https://fonts2u.com/) - Freeware
+* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) - Freeware
+* [GlukFonts](https://www.glukfonts.pl/fonts.php) - Freeware
+* [Iconian](https://www.iconian.com/) - Freeware
 
 ***
 
