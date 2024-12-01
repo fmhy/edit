@@ -537,6 +537,7 @@
 * [html-css-js](https://html-css-js.com/) - Cloud IDE
 * [Collabedit](https://collabedit.com/) - Cloud IDE
 * [CoderPad](https://pad.new/) - Cloud IDE
+* [zed](https://zed.dev/) - Cloud IDE
 * [Ideone](https://www.ideone.com/) - Cloud IDE
 * [PlayCode](https://playcode.io/) - Cloud IDE
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
