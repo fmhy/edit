@@ -29,7 +29,7 @@ Search engine hosted on old.fmhy.net
 
 ---
 
-### [GitHub Search](https://github.com/nbats/FMHY/search?q=&type=wikis)
+### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
 
 GitHub page search engine
 
