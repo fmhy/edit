@@ -332,7 +332,6 @@
 
 ## ▷ Text / Code Collaboration
 
-* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)**
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * ⭐ **[Kludd](https://kludd.co/)**
