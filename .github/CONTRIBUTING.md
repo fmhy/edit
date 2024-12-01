@@ -9,7 +9,7 @@ There are multiple ways you can contribute to this repository:
 ## Submitting a Link
 
 > [!NOTE]
-> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or reach out to us on **[Discord](https://rentry.co/fmhy-invite)** rather than making a Pull Request.
+> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/edit/issues)** or reach out to us on **[Discord](https://rentry.co/fmhy-invite)** rather than making a Pull Request.
 
 1. Before submitting a link, please **[search](https://redd.it/105xraz)** to make sure it's not already in the wiki.
 
@@ -18,7 +18,7 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
 
-4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**. 
+4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**. 
 
 #### Don't Submit:
 
@@ -40,11 +40,11 @@ Don't post any hacks/exploits that give unfair advantages in multiplayer games.
 ## Reporting a Site
 
 > [!TIP]
-> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://rentry.co/fmhy-invite)** before making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**.
+> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://rentry.co/fmhy-invite)** before making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
 
 You can do one of the following:
 
-- Open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
 - Alternatively, you can reach out to us on **[Discord](https://rentry.co/fmhy-invite)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
 

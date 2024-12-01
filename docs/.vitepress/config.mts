@@ -22,7 +22,7 @@ import { transforms } from './transformer'
 
 // @unocss-include
 
-const baseUrl = process.env.GITHUB_ACTIONS ? '/FMHYedit' : '/'
+const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
@@ -155,7 +155,7 @@ export default defineConfig({
       copyright: `© ${new Date().getFullYear()}, Estd 2018`
     },
     editLink: {
-      pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',
+      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
       text: '📝 Edit this page'
     },
     outline: 'deep',

@@ -11,7 +11,7 @@ body:
       value: |
         ### Things to note
         * Anyone can suggest [changes or corrections](https://rentry.org/fmhyedit) to the wiki. Please read our [Contribution Guide](https://rentry.co/Contrib-Guide) before trying to add or remove anything.
-        * If you're adding a new site, please [search](https://raw.githubusercontent.com/fmhy/FMHYedit/main/single-page) (control + f) first to make sure we don't already have it.
+        * If you're adding a new site, please [search](https://raw.githubusercontent.com/fmhy/edit/main/single-page) (control + f) first to make sure we don't already have it.
         * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
         * You can send us stuff directly via [💬 Discord](https://rentry.co/fmhy-invite).
         * You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.

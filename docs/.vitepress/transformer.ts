@@ -214,10 +214,6 @@ export function transform(text: string): string {
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/img-tools/g,
       '/img-tools'
     )
-    .replace(
-      /https:\/\/github.com\/nbats\/FMHYedit\/blob\/main\/base64.md#/g,
-      '/base64/#'
-    )
     // Remove extra characters
     .replace(/\/#wiki_/g, '/#')
     .replace(/#wiki_/g, '/#')
@@ -250,7 +246,6 @@ export function transform(text: string): string {
       /\/storage\/#encode--decode_urls/g,
       '/storage/#encode--decode-urls'
     )
-    .replace(/\/base64\/#do-k-ument/g, '/base64/#do_k_ument')
     .replace(/\/devtools\/#machine-learning2/g, '/devtools/#machine-learning-1')
     .replace(/\/linuxguide#software-sites2/g, '/linuxguide#software-sites-1')
     .replace(/\/linuxguide#software_sites/g, '/linuxguide#software-sites')
