@@ -355,7 +355,6 @@
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
-* ↪️ **[Streaming Site APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_streaming_apis)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -377,6 +376,31 @@
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
+
+***
+
+## ▷ Streaming APIs
+
+* [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
+* [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API
+* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
+* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
+* [Embed.su](https://embed.su/) - Movies / TV / Anime / API
+* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
+* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
+* [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV / API
+* [VidLink](https://vidlink.pro/) - Movies / TV / API
+* [moviee](https://moviee.tv/api) - Movies / TV
+* [WHVX](https://whvx.net/) - Movies / TV / Anime / API
+* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
+* [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
+* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
+* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
+* [VidSrc.vip](https://vidsrc.vip/) - Movies / TV / Anime / API
+* [Flicky](https://www.flicky.host/) - Movies / TV / Anime / API
+* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
+* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
+* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 
 ***
 
@@ -491,7 +515,6 @@
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - Code Editor / [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
-* [Sublime Text](https://www.sublimetext.com/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
@@ -822,115 +845,55 @@
 * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
-* ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/) or [Stylr](https://www.stylr.xyz/) - Form Creators
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
-* [Grav](https://getgrav.org/) - Flat-File CMS / [GitHub](https://github.com/getgrav/grav)
-* [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
-* [TerraForm](https://www.terraform.io/) - Cloud Infrastructure Manager
-* [BoostNote](https://boostnote.io/) - Cloud Documentation Management
-* [URLPages](http://jstrieb.github.io/urlpages) - Store Entire Pages in URLs / [GitHub](https://github.com/jstrieb/urlpages)
-*  [shadcn-ui](https://ui.shadcn.com/), [Shoelace](https://shoelace.style/), [Fast](https://www.fast.design/), [shadcn-svelte](https://shadcn-svelte.com), [Indie UI](https://ui.indie-starter.dev/) or [Elix](https://component.kitchen/elix) - Web Component Libraries
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
+*  [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [Prepostseo](https://prepostseo.com/), [SEOMagnifier](https://seomagnifier.com/), [LearningSEO.io](https://learningseo.io/) or [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Tools / Resources
-* [Aptabase](https://aptabase.com/), [GoatCounter](https://www.goatcounter.com/) or [Nibbler](https://nibbler.insites.com/) - Site Analytics
-* [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
+* [GoatCounter](https://www.goatcounter.com/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
-* [Moonbit](https://www.moonbitlang.com/) - Web Assembly 
-* [SerPreview](https://serpreviewtool.com/) - Site Search Results
-* [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
-* [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
-* [Utom Design](https://utom.design/measure) - Sketch Measure
-* [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
-* [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
-* [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll Library
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
-* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
-* [Statically](https://statically.io/) - Load Websites Faster
-* [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
 * [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-dev/dagu)
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Validation Services
-* [RequestBin](https://pipedream.com/requestbin) - Easy Webhook Debugging & Integration
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
-* [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Partytown](https://partytown.builder.io)- Relocate Scripts to Web Worker
-* [Flounder](https://flounder.online/) - Gemini Website Builder
 * [Transform](https://transform.tools/) - Polyglot Web Converter
-* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
-* [Brython](https://brython.info/) - Python 3 Web Scripting Language
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
-* [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Privacy-Based Captcha Systems
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
-* [SCM Music Player](https://www.scmplayer.net/), [WebAMP](https://webamp.org/), [cassette-yt](https://saint-images.github.io/player.html) or [webdeckplayer](https://webdeckplayer.neocities.org/) - Site Audio / Music Players
-* [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
+* [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
-* [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
-* [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
-* [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
-* [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel Client
-* [LightTPD](https://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
-* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
-* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
-* [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
-* [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
-* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
+* [Caddy](https://caddyserver.com/) - Web Server
 * [BawkBox](https://bawkbox.com/) - Website Widgets
-* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous Image Downloader
-* [ApexCharts](https://apexcharts.com/) - Add Charts to Site
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
-* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
-* [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
-* [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
-* [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
-* [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
-* [Curator](https://curator.io/) - Embed Social Media Feeds
-* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
-* [Traefik](https://traefik.io/) - Cloud Native Stack
-* [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
-* [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
-* [Improvemx](https://improvmx.com/) - Domain Email Forwarding
-* [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
+* [Typebot](https://typebot.io/) - Embedded Chat App
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
-* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
-* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
-* [V2Ray](https://www.v2fly.org/) - Proxy Software
-* [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
+* [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
-* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Lowdefy](https://lowdefy.com/), [Capacitor](https://github.com/ionic-team/capacitor) or [Sktch.io](https://sktch.io/) - Web App Creators
-* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
+* [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
+* [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
 * [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
-* [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
-* [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
-* [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
-* [Stackbit](https://www.stackbit.com/) - JamStack Tools
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
 * [Shiki](https://shiki.style/) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
-* [mnm](https://mnmnotmail.org/) - Member Messaging Tools
-* [Website Grader](https://website.grader.com/) - Website Grading Tool
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
-* [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
-* [tengine](https://tengine.taobao.org) - NGINX with Extra Features / [GitHub](https://github.com/alibaba/tengine)
+* [NConfig](https://www.digitalocean.com/community/tools/nginx) -  Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
-* [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
+* [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
 
 ***
 

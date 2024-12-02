@@ -88,7 +88,6 @@
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
-* [VideoCompress](https://videocompress.prolab.sh/) - Compress / Unlimited
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
 * [8mb.video](https://8mb.video/) - Compress / Unlimited
 * [autocompressor](https://autocompressor.net/) - Compress / 2GB

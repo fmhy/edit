@@ -408,10 +408,11 @@
 * [stormkit](https://www.stormkit.io/)
 * [milkshake](https://milkshake.app/)
 * [atspace](https://www.atspace.com/)
+* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
 
 ### Static Page Hosting
 
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)**
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
@@ -456,16 +457,15 @@
 ### Website Builders
 
 * **Note** - These are generally made for businesses only.
-* [wix](https://www.wix.com/)
 * [site123](https://www.site123.com/)
-* [WordPress](https://wordpress.com/) / [2](https://wordpress.org/)
-* [jimdo](https://www.jimdo.com/)
 * [tilda](https://tilda.cc/)
 * [x10hosting](https://x10hosting.com/)
 * [olitt](https://www.olitt.com/)
 * [yola](https://www.yola.com/)
 * [bravenet](https://www.bravenet.com/)
+* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [WebStudio](https://webstudio.is/) - Code Editor
+* [Flounder](https://flounder.online/) - Website Building Discussion
 
 ***
 
@@ -851,7 +851,7 @@
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [freeproxy](https://freeproxy.world/)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/)
 
 ***
 
@@ -1021,11 +1021,7 @@
 ## Summarize YouTube Videos
 
 * [Gemini](https://gemini.google.com/)
-* [Solidpoint](https://solidpoint.ai/)
-* [Quickvid](https://quickvid.vercel.app/)
-* [VideoGist](https://www.videogist.co/)
 * [VideoHighlight](https://videohighlight.com/)
-* [Summarize](https://summarize.tech/)
 * [Glarity](https://glarity.app/) - Browser Extension
 * [Glasp](https://glasp.co/youtube-summary) or [Eightify](https://eightify.app/) - Chrome Extensions
 * [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial

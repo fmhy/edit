@@ -11,7 +11,7 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
-* ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots / Account Required
+* ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots / No Signup
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [Gemini](https://gemini.google.com/), [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [OAICHAT](https://chat.oaichat.cc/) - GPT-4o / Multiple Chatbots
@@ -20,7 +20,7 @@
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
-* [Zhucn](https://zhucn.org/), [Schat.laigc](https://schat.laigc.cloudns.be/), [ChatGPT Plus](https://chatgptplus.cn/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
+* [Zhucn](https://zhucn.org/), [ChatGPT Plus](https://chatgptplus.cn/) or [SharedChat](https://sharedchat.fun/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
