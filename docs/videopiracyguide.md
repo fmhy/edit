@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -415,6 +415,7 @@
 * [RiveStream](https://rivestream.live/livesports) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
+* [Cineby Live](https://www.cineby.ru/livestream) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
@@ -601,7 +602,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV
 * [UHDMovies](https://uhdmovies.dad/) - Movies / 4K
-* [Piracy App](https://www.piracy.su/) - Movies / TV / Anime / 4K
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [MoviPlus](https://moviplus.net/) - Movies / TV
@@ -912,6 +912,7 @@
 * [Subss](https://subss.vercel.app/) - Subtitles
 * [English-Subtitles](https://english-subtitles.org/) - Subtitles
 * [My Subs](https://my-subs.co/) - Subtitles
+* [YifySubtitles](https://yifysubtitles.ch/) - Subtitles
 * [YTS Subs](https://yts-subs.com/) - Subtitles
 * [SubtitleSeeker](https://www.subtitleseeker.in/) - Subtitles
 * [Subtitlist](https://subtitlist.com/) - Subtitles

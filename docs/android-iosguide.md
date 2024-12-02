@@ -804,6 +804,7 @@ https://github.com/Akylas/alpimaps
 * [VLC for Android](https://www.videolan.org/vlc/download-android.html)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
+* [Meloplay](https://github.com/ShokhrukhbekYuldoshev/Meloplay) 
 * [Foobar2000](https://www.foobar2000.org/apk)
 * [Vanilla Music](https://vanilla-music.github.io/) / [GitHub](https://github.com/vanilla-music/vanilla)
 * [Retro Music Player](https://retromusic.app/)
