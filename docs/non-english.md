@@ -1483,7 +1483,6 @@
 * [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
 * [Monoschinos](https://monoschinos2.com/) - Anime / Sub / Dub
 * [JKAnime](https://jkanime.net/) - Anime / Sub
-* [AnimeFénix](https://www.animefenix.tv/) - Anime / Sub
 * [TioAnime](https://tioanime.com/) - Anime / Sub
 * [HenaoJara](https://henaojara.com/) - Anime / Sub
 * [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub
