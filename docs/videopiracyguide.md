@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -415,7 +415,7 @@
 * [RiveStream](https://rivestream.live/livesports) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
-* [Cineby Live](https://www.cineby.ru/livestream) - Sports
+* [Cineby Live](https://www.cineby.ru/livestream) - Sports / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
