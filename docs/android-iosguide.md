@@ -752,6 +752,9 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
+* [ytdlnis](https://github.com/deniscerri/ytdlnis) - Multi-Site Audio Downloader
+* [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
 * [Spowlo](https://spowlo.com/) - Spotify Audio Downloader / [Telegram](https://t.me/spowlo_chatroom) / [GitHub](https://github.com/BobbyESP/Spowlo/)
 * [Fluidac](https://github.com/imjyotiraditya/fluidac-releases) - Tidal Audio Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
@@ -829,9 +832,6 @@ https://github.com/Akylas/alpimaps
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio Downloader
-* [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio Downloader
-* [Seal](https://github.com/JunkFood02/Seal) - YouTube Audio Downloader
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
 
 ***
