@@ -121,7 +121,7 @@
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
-* [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
+* [Coffee Guide](https://rentry.co/zzyigpvu#coffee] or [Coffee Time General](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlists
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
 * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
@@ -132,7 +132,6 @@
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
 * [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
-* [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
 * [Taconomical](https://taconomical.com/) or [ChipotleCost](https://www.chipotlecost.com/) - Restaurant Price Maps
