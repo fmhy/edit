@@ -163,6 +163,7 @@
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [LLM-Model-VRAM-Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM VRAM Calculator
+* [Lisapet.ai](https://www.lisapet.ai/) - AI Prompt Testing Platform
 
 ***
 
