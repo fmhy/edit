@@ -36,6 +36,7 @@
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lenovo Vantage Replacement
+* [Explorer Dialog Path Selector](https://github.com/ThioJoe/ThioJoe-AHK-Scripts) - Easily navigate to path in path dialogs, more information [here](https://www.youtube.com/watch?v=tTo_MSUIHf8)
 
 ***
 
@@ -73,7 +74,6 @@
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
-* [Explorer Dialog Path Selector](https://github.com/ThioJoe/ThioJoe-AHK-Scripts) - Easily navigate to path in path dialogs, more information [here](https://www.youtube.com/watch?v=tTo_MSUIHf8)
 
 ***
 
