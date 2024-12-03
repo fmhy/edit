@@ -1091,6 +1091,7 @@
 * [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Operating Systems Book
 * [Wi is Fi](https://www.wiisfi.com/) - Wi-Fi Educational Guide
 * [CPU Land](https://cpu.land/) - What Happens when you run Programs
+* [Refactoring Guru](https://refactoring.guru) - Design Patterns and Refactoring Strategies
 * [Computer Science Lecture Links](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 
 ***
