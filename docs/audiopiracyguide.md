@@ -720,7 +720,7 @@
 * [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
-* [Cambia](https://logs.musichoarders.xyz/) - Check CD Audio Quality ⁠
+* [Cambia](https://logs.musichoarders.xyz/) - CD Rip Log Checker
 
 ***
 

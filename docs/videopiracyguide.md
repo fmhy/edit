@@ -24,8 +24,9 @@
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Zilla-XR](https://zilla-xr.xyz/) - Movies / TV / Anime
 * [Watch2Day](https://watch2day.online/), [2](https://watch2day.site/) - Movies / TV / Anime
-* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
+* [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
+* [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [kipstream](https://kipstream.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
@@ -95,8 +96,7 @@
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
-* [Bitsearch](https://bitsearch.to/) - Movies / TV / Anime
-* [ArabFlix](https://www.arabiflix.com/) - Movies / TV / Anime
+* [Bitsearch](https://bitsearch.to/) - Movies / TV / Anime /
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
 * [OnionPlay](https://onionplay.asia/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
 * [Soaper.TV](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
