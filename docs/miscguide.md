@@ -121,7 +121,7 @@
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
-* [Coffee Guide](https://rentry.co/zzyigpvu#coffee] or [Coffee Time General](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlists
+* [Coffee Guide](https://rentry.co/zzyigpvu#coffee) or [Coffee Time General](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlists
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
 * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
