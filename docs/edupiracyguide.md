@@ -1234,6 +1234,7 @@ https://wiki.osdev.org/
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
+* [CasperPractice](https://casperpractice.org/) - AI tutor for the CASPer test
 
 ***
 
