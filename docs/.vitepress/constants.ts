@@ -130,6 +130,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: '🔖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
+  { text: 'ℹ️ Guides', link: 'https://guides.fmhy.lol/' },
   {
     text: '💾 Backups',
     link: 'https://github.com/fmhy/FMHY/wiki/Backups'
