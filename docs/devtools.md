@@ -1153,6 +1153,7 @@
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
+* [IDA Pro](https://hex-rays.com/ida-pro) - Reverse Engineering / [Guide](https://pastebin.com/TNTRzTMj)
 * [Radare](https://rada.re/r/) - Reverse Engineering
 * [Rizin](https://rizin.re/) - Reverse Engineering
 * [Frida](https://frida.re/) - Reverse Engineering
