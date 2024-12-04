@@ -333,7 +333,7 @@
 
 ## ▷ Text / Code Collaboration
 
-* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html)
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * ⭐ **[Kludd](https://kludd.co/)**
 * [Mattermost](https://mattermost.com/)
@@ -521,6 +521,7 @@
 * [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) - Freeware
 * [GlukFonts](https://www.glukfonts.pl/fonts.php) - Freeware
 * [Iconian](https://www.iconian.com/) - Freeware
+* [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 
 ***
 

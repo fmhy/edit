@@ -230,6 +230,7 @@
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [LokLok](https://loklok.com/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
+* [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [onedrama](https://onedrama.me/) - TV / Movies
 * [DramaFull](https://dramafull.net/) - TV / Movies / Auto-Next
 * [RiveStream](https://rivestream.live/kdrama) - TV / Movies
@@ -324,7 +325,7 @@
 
 ***
 
-* ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
+* ⭐ **[VK](https://vkvideo.ru/)** / [Enhancement Extension](https://vknext.net/)
 * ⭐ **[OK](https://ok.ru/video)**
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
 * ⭐ **[Archive](https://archive.org/)** - Movies & TV Categories
