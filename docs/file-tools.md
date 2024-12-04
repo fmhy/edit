@@ -371,7 +371,7 @@
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
 * [Akira Box](https://akirabox.com/) - 20GB Free
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / $0.015 per GB per month
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
