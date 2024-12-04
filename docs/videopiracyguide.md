@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -21,6 +21,7 @@
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Zilla-XR](https://zilla-xr.xyz/) - Movies / TV / Anime
 * [Watch2Day](https://watch2day.online/), [2](https://watch2day.site/) - Movies / TV / Anime
@@ -29,7 +30,6 @@
 * [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [kipstream](https://kipstream.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
-* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/), [4](https://streammovies.to/) - Movies / TV
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
@@ -739,6 +739,7 @@
 * ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime
 * ⭐ **[TorrentGalaxy Movies](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)** - Movies / TV / Anime / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion/) / [Proxies](https://proxygalaxy.me/)
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets Links on Files
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Signup Required
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
@@ -833,6 +834,7 @@
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
 * [RelatedAnime](https://relatedanime.com/) - Related Anime Index
+* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 * [AnimeStats](https://anime-stats.net/), [AnimeKarmaList](https://animekarmalist.com/), [Sprout](https://anime.ameo.dev/) or [AniBrain](https://anibrain.ai/) - Anime Recommendations
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
@@ -857,7 +859,6 @@
 * [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
-* [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [SeriesGraph](https://seriesgraph.com), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 
 ***
 

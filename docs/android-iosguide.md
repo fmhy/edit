@@ -520,7 +520,6 @@
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 * [FouadMODS](https://t.me/FouadMODS) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
-* [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
 
 ***
 
@@ -970,7 +969,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-Free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
-* ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [SnapTube](https://rentry.co/FMHYBase64#snaptube) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - YouTube Client
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
@@ -994,7 +993,6 @@ https://github.com/Akylas/alpimaps
 * [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/NSAntoine/Santander) - File Managers
 * [Piracy Shortcuts](https://redd.it/1cjo1k5) - iOS Piracy Shortcuts App
-* [Dropbox](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) or [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
 * [iZip](https://apps.apple.com/us/app/izip-zip-unzip-unrar/id413971331) - File Archiver
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
@@ -1166,7 +1164,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
 * 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
-* ⭐ **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://sidestore.io/) / [Multi-App Guide](https://redd.it/1g0n1z4) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
+* ⭐ **[SideStore](https://sidestore.io/)** / [Multi-App Guide](https://redd.it/1g0n1z4), **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
@@ -1247,7 +1245,6 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Anime
 
-* [NineAnimator](https://nineanimator.marcuszhou.com/) / [Discord](https://discord.gg/dzTVzeW)
 * [Ryu](https://github.com/cranci1/Ryu ) / [Discord](https://discord.com/invite/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
@@ -1268,12 +1265,15 @@ https://github.com/Akylas/alpimaps
 # ► iOS Reading
 
 * ↪️ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - Ebook Reader Index
-* ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.paperback.moe/)
+* ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Extensions](https://discord.gg/rmf6jQpMU9) / [Discord](https://discord.paperback.moe/)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
 * [Suwatte](https://www.suwatte.app/) - Comic Reader ⁠/ [Discord](https://discord.gg/8wmkXsT6h5) / [GitHub](https://github.com/suwatte)
 * [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
-* [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093), [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) or [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
+* [Tachimanga](https://tachimanga.app/) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
+* [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
+* [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
+* [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Digital Library Books / Extend time via Offline or Airplane mode

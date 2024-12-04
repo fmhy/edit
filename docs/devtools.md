@@ -37,7 +37,6 @@
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
-* [BitsOfCode](https://bitsofco.de/) - Frontend Dev Articles
 * [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
 
 ***
@@ -336,7 +335,6 @@
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
-* [WNIX](https://gitlab.com/gokhanettin/wnix) - UNIX-like Windows Development Environment
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
@@ -423,7 +421,6 @@
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Scikit Learn](https://scikit-learn.org/) - Machine Learning Library for Python
 * [PyTorch](https://pytorch.org) - Tensor library for deep learning using GPUs and CPUs
-* [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
 * [MLC LLM](https://llm.mlc.ai/) - Native Language Model Deployment
 * [Langchain](https://python.langchain.com) - Build Apps via LLM / [Extract](https://github.com/langchain-ai/langchain-extract)
@@ -924,7 +921,6 @@
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [BoxCoding](https://www.avabucks.it/), [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
-* [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
@@ -1082,11 +1078,9 @@
 * [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [VirusShare](https://virusshare.com/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
-* [Awesome Security](https://github.com/sbilly/awesome-security) - Cybersecurity Resources
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
-* [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
 
 ***
@@ -1157,7 +1151,6 @@
 * [Rizin](https://rizin.re/) - Reverse Engineering
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Cutter](https://cutter.re/) - Reverse Engineering
-* [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineering
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
@@ -1189,18 +1182,11 @@
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
 * [zettlr](https://www.zettlr.com/)
 * [Dillinger](https://dillinger.io/)
-* [Notable](https://notable.app/)
-* [vnote](https://github.com/vnotex/vnote)
 * [MarkdownTools](https://www.markdowntools.com/)
-* [StackEdit](https://stackedit.io/)
-* [Markdownify](https://markdownify.js.org/)
 * [Glow](https://github.com/charmbracelet/glow)
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
-* [Markflowy](https://markflowy.vercel.app/)
 * [MindForger](https://www.mindforger.com/)
-* [PanWriter](https://panwriter.com/)
-* [MarkText](https://www.marktext.cc/)
 
 ***
 

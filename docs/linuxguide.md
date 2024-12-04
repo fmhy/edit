@@ -573,6 +573,7 @@ Linux Gaming Guide
 * [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
+* [Tachimanga](https://tachimanga.app/) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [Flow](https://www.flowvoice.ai) - Speech to Text

@@ -94,6 +94,7 @@
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarklets
 * [GetBookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
+* [⁠Edge Collections Export](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert Edge Collections to Bookmarks
 
 ***
 

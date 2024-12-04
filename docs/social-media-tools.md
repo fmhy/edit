@@ -33,6 +33,7 @@
 * ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [embedez](https://embedez.com/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
+* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
@@ -72,7 +73,6 @@
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord)
-* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/Vm4CwZx)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * BetterDiscord Tools - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)

@@ -552,7 +552,7 @@
 
 * ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[VegaMovies](https://vegamovies.ps/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
-* ⭐ **[MkvCinemas](https://mkvcinemas.cat/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
+* ⭐ **[MkvCinemas](https://mkvcinemas.fit/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.day/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
