@@ -664,6 +664,7 @@
 * [UseThis](https://usesthis.com/) - Career Interviews
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
+* [Aircraft Mechanic Jobs](https://aircraftmechanicjobs.net/) - Find Aircraft Mechanic Jobs
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [Boilermaker Jobs](https://boilermakerjobs.co/) - Find boilermaker Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
