@@ -991,9 +991,8 @@ https://github.com/Akylas/alpimaps
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [FreshWalls](https://apps.apple.com/in/app/freshwalls-4k-hd-wallpapers/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
-* [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/NSAntoine/Santander) - File Managers
-* [Piracy Shortcuts](https://redd.it/1cjo1k5) - iOS Piracy Shortcuts App
-* [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) or [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
+* [Santander](https://github.com/NSAntoine/Santander) - File Managers
+* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
 * [iZip](https://apps.apple.com/us/app/izip-zip-unzip-unrar/id413971331) - File Archiver
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator
@@ -1009,7 +1008,7 @@ https://github.com/Akylas/alpimaps
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) or [Misaka](https://github.com/straight-tamago/misaka) - iOS Customization Apps
-* [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes
+* [iSkin](https://iskin.tooliphone.net/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Siri Shortcuts
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - iOS Widgets
@@ -1027,14 +1026,8 @@ https://github.com/Akylas/alpimaps
 * [Locket Widget](https://apps.apple.com/us/app/locket-widget/id1600525061) - Real-Time Photo Sharing
 * [ImgPls](https://andadinosaur.com/launch-imgpls) - Image Host / Imgur App
 * [PicsArt++](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
-* [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
-* [ToonMe](https://toonme.com/) - Turn Photos into Cartoons
 * [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Camera App
-* [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
-* [Luma AI](https://lumalabs.ai/) - Capture 3D Images / [Discord](https://discord.gg/lumaai)
-* [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - AI Image Generator
-* [Emojis.sh](https://emojis.sh/) - AI Emoji Generator
 * [MediBang](https://medibangpaint.com/en/) - Paint App
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
