@@ -990,7 +990,7 @@ https://github.com/Akylas/alpimaps
 * [Arc](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080) - Feature-Rich iOS Adblock Browser
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [FreshWalls](https://apps.apple.com/in/app/freshwalls-4k-hd-wallpapers/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
-* [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
+* [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Santander](https://github.com/NSAntoine/Santander) - File Managers
 * [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
 * [iZip](https://apps.apple.com/us/app/izip-zip-unzip-unrar/id413971331) - File Archiver
@@ -1025,34 +1025,25 @@ https://github.com/Akylas/alpimaps
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [Locket Widget](https://apps.apple.com/us/app/locket-widget/id1600525061) - Real-Time Photo Sharing
 * [ImgPls](https://andadinosaur.com/launch-imgpls) - Image Host / Imgur App
-* [PicsArt++](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
+* [PicsArt](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
 * [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Camera App
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
-* [MediBang](https://medibangpaint.com/en/) - Paint App
-* [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
-* [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
-* [Rhino](https://lemamichael.github.io/WhatIsRhino/) - Tweaked Instagram Client
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android), [Buz](https://www.buzmenow.com/ ) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
-* [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/us/app/swiftgram/id6471879502) - Telegram Apps
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [GoodLinks](https://goodlinks.app/), [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
-* [Audoir](https://audoir.com/) - Lyric Text Editor
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - Scan & Digitize Anything
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
 * [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
-* [Mematic](https://apps.apple.com/app/apple-store/id491076730/) - Meme Creator
-* [Typpo](https://apps.apple.com/app/id1667857726) - Create Videos as you Speak
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
-* [1 Second Everyday](https://1se.co/) - 1 Second Video Diary
-* [Microsoft To Do](https://to-do.office.com/), [Twobird](https://apps.apple.com/us/app/twobird/id1455545515), [‎Twodos](https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163) or [beorg](https://beorgapp.com/) - To-Do Apps
+* [Microsoft To Do](https://to-do.office.com/) or [‎Twodos](https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163) - To-Do Apps
 * [Journal it](https://apps.apple.com/US/app/id1501944799) - Planner / Journal App
 * [Success](https://apps.apple.com/us/app/success-weekly-planner/id1544852780), [Stacks](https://apps.apple.com/ca/app/stacks-routine-habits/id6484160851) or [Routine Planner](https://apps.apple.com/ca/app/habit-tracker-routine-planner/id6480042457) - Productivity Booster / Habit Trackers
 * [Body Clock](https://apps.apple.com/ca/app/body-clock-calendar/id869648628) - Plan / Track Circadian Rhythm 
