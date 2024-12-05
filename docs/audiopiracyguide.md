@@ -715,7 +715,6 @@
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
-* [Lossless Audio Checker](https://losslessaudiochecker.com/)
 * [Visual Analyser](https://www.sillanumsoft.org/)
 * [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
