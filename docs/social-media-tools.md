@@ -64,8 +64,13 @@
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter / Telegram Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
+* [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
+
+https://github.com/peterhanania/discord-package
+
 * [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
+
 
 ***
 
@@ -395,7 +400,6 @@
 ## ▷ Players / Frontends
 
 * ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
-* ⭐ **[Poke](https://poketube.fun/)** - YouTube Frontend / [Discord](https://discord.gg/Kqdn8CHacP)
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialio](https://materialio.us/) - YouTube Frontends
 * ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui) /  [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search)
@@ -459,7 +463,6 @@
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted youtube-dl WebUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / yt-dlp fork
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader App
-* ⭐ **[Poke](https://poketube.fun/)** - YouTube Frontend / [Discord](https://discord.gg/Kqdn8CHacP)
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments

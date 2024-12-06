@@ -890,7 +890,7 @@
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook Reader / PDF / PC
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers

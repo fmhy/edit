@@ -68,6 +68,10 @@
 
 # ► Bangla / বাংলা
 
+* ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
+* ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
+* ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
+
 ## ▷ Reading / পড়া
 
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
@@ -78,12 +82,6 @@
 * [BengaliEbook](https://www.worldmets.com/) - Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
 * [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) - Bangla Typing Tool / Spellcheck
-
-## ▷ Streaming / স্ট্রিমিং
-
-* ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
-* ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
-* ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
 
 ## ▷ Downloading / ডাউনলোডিং
 
@@ -344,6 +342,7 @@
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
+* [Deal Labs](https://www.dealabs.com/) - Track Deals
 
 ## ▷ Downloading
 

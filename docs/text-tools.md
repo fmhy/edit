@@ -251,9 +251,11 @@
 * [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [Simplenote](https://simplenote.com/) - Note-Taking
+* [AppFlowy](https://appflowy.io/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [DeepNote](https://deepnote.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
+* [DocMost](https://docmost.com/) - Note-Taking
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes

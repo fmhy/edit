@@ -53,6 +53,7 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* or [Free For Life](https://github.com/wdhdev/free-for-life/) - Tool Index
 * [OSS Insight](https://ossinsight.io/) or [Open Source Heroes](https://opensource-heroes.com/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -995,6 +996,7 @@
 * [Search Ebay Sold](https://chromewebstore.google.com/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
+* [Music Software Deals](https://musicsoftwaredeals.com/) - Track Music Software Prices
 * [Valuta EX](https://valuta.exchange/) or [Currency World](https://currency.world/)- Currency Converters
 
 ***
@@ -1316,6 +1318,7 @@
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
 * [Pixactly](https://pixact.ly/) - Pixel Size Drawing Challenge
+* [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
 * [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement

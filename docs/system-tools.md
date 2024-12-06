@@ -172,7 +172,6 @@
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [CollabVM](https://computernewb.com/collab-vm/) or [Terminator](https://terminator.aeza.net/) - Online Virtual Machines
 * [JS Linux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
-* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators

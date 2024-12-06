@@ -504,6 +504,7 @@
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion ) / [GitHub](https://github.com/viaversion)
 * [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
+* [Minestom](https://minestom.net/ ) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB)
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers

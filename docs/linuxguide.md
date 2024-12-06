@@ -573,7 +573,7 @@ Linux Gaming Guide
 * [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
-* [Tachimanga](https://tachimanga.app/) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
+* [Mangayomi](https://github.com/kodjodevf/mangayomi) or [Tachimanga](https://tachimanga.app/) / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [Flow](https://www.flowvoice.ai) - Speech to Text
@@ -634,6 +634,7 @@ Linux Gaming Guide
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
+* [Yattee](https://github.com/yattee/yattee) - YouTube Player
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
@@ -726,6 +727,7 @@ Linux Gaming Guide
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
+* [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client

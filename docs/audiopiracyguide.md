@@ -726,7 +726,6 @@
 # ► Audio Editing
 
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
-* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
 * ⭐ **[KVR Audio](https://www.kvraudio.com/)** or [VI-CONTROL](https://vi-control.net/community/) - Audio Production News / Forums
@@ -737,7 +736,6 @@
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 * [Jukeblocks](https://jukeblocks.io/) - Generate Audio Project Templates (can lag browser)
-* [Music Software Deals](https://musicsoftwaredeals.com/) - Track Music Software Prices
 * [VSTSkins](https://vstskins.com/category/skins/?fwp_license=free) - VST Skins
 
 ***
@@ -750,7 +748,6 @@
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [Zrythm](https://www.zrythm.org/en/index.html) or [LMMS](https://lmms.io/) - Digital Audio Workstations
-* [Furnace](https://github.com/tildearrow/furnace), [FamiStudio](https://famistudio.org/) or [Pata Tracker](https://pixwlk.itch.io/pata-tracker) - Chiptune Music Trackers
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Mixxx](https://mixxx.org/) or [Serato](https://serato.com/) - DJ Software
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
@@ -759,7 +756,6 @@
 * [WaveTracker](https://wavetracker.org/) - Wavetable Audio Editor / [GitHub](https://github.com/squiggythings/WaveTracker)
 * [ocenaudio](https://www.ocenaudio.com/) - Audio Editor
 * [Reaper](https://www.reaper.fm/) - Audio Editor / [Note](https://pastebin.com/aP4M6ArY)
-* [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
 * [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - Midi Sequencer / Notation Editors
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound

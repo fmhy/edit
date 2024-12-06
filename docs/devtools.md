@@ -47,27 +47,17 @@
 
 # ► Developer Tools
 
-* 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
-* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**, [Tiny Tools](https://tinytools.directory/), [CarlosAG](https://www.carlosag.net/) or [Charm](https://charm.sh/) - Programming Resources
-* 🌐 **[Free For Dev](https://free-for.dev/)** or [Free For Life](https://github.com/wdhdev/free-for-life/) - Developer Resources
+* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** or [Charm](https://charm.sh/) - Programming Resources
+* 🌐 **[Free For Dev](https://free-for.dev/)** - Developer Resources
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
-* 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
-* 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
-* 🌐 **[Awesome Bots](https://doppler.com) / [GitHub](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
-* ⭐ **[DevDocs](https://devdocs.io/)** - Dev Documentation
+* ⭐ **[DevDocs](https://devdocs.io/)** or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App
 * [Slidev](https://github.com/slidevjs/slidev) - Developer Presentation Slides
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
-* [AppFlowy](https://appflowy.io/) - Project Workspace / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
-* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
-* [GitBook](https://www.gitbook.com/) or [DocMost](https://docmost.com/) - Document Collaboration
-* [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
-* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
-* [ZealDocs](https://zealdocs.org/) - Offline Document Viewer
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/) or [ChooseALicense](https://choosealicense.com/) - How to pick a license
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/), [PrivacyBoard](https://www.privacyboard.co/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
 * [Eternal Terminal](https://eternalterminal.dev/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
@@ -78,7 +68,6 @@
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage / [Discord](https://discord.com/invite/HWGZSWJsA8)
-* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
@@ -95,18 +84,13 @@
 * [PKL](https://pkl-lang.org/) - Generate Static Configurations
 * [sed.js](https://sed.js.org/) - GNU sed Live Editor
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
-* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
-* [ChromeXt](https://github.com/JingMatrix/ChromeXt) - Add UserScript / DevTools Support to Chromium Browsers
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
-* [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
-* [trzsz](https://trzsz.github.io/js) - Make trzsz Compatible with tmux in Terminal
-* [Asciidoctor](https://asciidoctor.org/) - Convert AsciiDoc to HTML5, DocBook, PDF etc.
 * [PlantText](https://www.planttext.com/) - UML Editor
-* [glogg](https://glogg.bonnefon.org/) or [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
+* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
 * [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
-* [Dark Hamster](https://www.dark-hamster.com/) - IT Articles and Troubleshooting
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
+* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
 
 ***
 
@@ -545,7 +529,6 @@
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
 * [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
-* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
 * [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
 * [Anywidget](https://anywidget.dev) - Create Jupyter Widgets / [GitHub](https://github.com/manzt/anywidget)
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
@@ -830,6 +813,7 @@
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Privacy-Based Captcha Systems
+* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool

@@ -354,22 +354,22 @@
 ***
 
 * 🌐 **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
-* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3 for 1TB
-* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [Retention Note](https://pastebin.com/SZ82FEL9) / [GitHub](https://github.com/meganz)
-* ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2 for 1TB
-* ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
+* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / 2 Years / ~$3 for 1TB
+* ⭐ **[mega](https://mega.nz/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [Retention Note](https://pastebin.com/SZ82FEL9) / [GitHub](https://github.com/meganz)
+* ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / 2 Years / $2 for 1TB
+* ⭐ **[filen](https://filen.io/)** - 10GB Free / 3 Months / ~$8 for 1TB
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
-* [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
-* [mediafire](https://www.mediafire.com/) - 10GB Free / $5 for 1TB
-* [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
-* [PCloud](https://www.pcloud.com/) - 10GB Free / ~$4 for 1TB
-* [Proton Drive](https://proton.me/drive) - 2GB Free / ~$23 for 3TB
-* [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
+* [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free/ 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
+* [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
+* [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
+* [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
+* [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
+* [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
-* [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
-* [Akira Box](https://akirabox.com/) - 20GB Free
+* [Blomp](https://www.blomp.com/) - 20GB Free / 1 Month / ~$3 for 2TB
+* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Years
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free

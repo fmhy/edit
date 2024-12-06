@@ -434,6 +434,7 @@
 * [cargo](https://cargo.site/)
 * [Jigsy](https://jigsy.com/)
 * [Temper](https://temper.one/)
+* [GitBook](https://www.gitbook.com/)
 * [Mobirise](https://mobirise.com/)
 * [Silex](https://www.silex.me/)
 * [Publii](https://getpublii.com/)
@@ -897,6 +898,8 @@
 
 
 ### Separate Voice / Instrumentals
+
+* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 
 * [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Vocal Remover](https://separatemusic.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/), [melody ml](https://melody.ml/)
 
