@@ -1018,6 +1018,7 @@
 * [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
+* [Exercism](https://exercism.org) - Develop fluency in 76 programming languages 
 
 ***
 
