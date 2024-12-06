@@ -423,7 +423,7 @@
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** / [Warning](https://pastebin.com/WnmaBTgZ) or [Matsuri](https://matsuridayo.github.io/) - Proxy Toolchains
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
-* ⭐**[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
+* ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)** or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)** - Hide Files / Apps
@@ -997,7 +997,7 @@ https://github.com/Akylas/alpimaps
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
-* [Enmity](https://github.com/enmity-mod/enmity) - Discord Client with Addons + Themes / [Discord](https://discord.gg/rMdzhWUaGT)
+* [Enmity](https://github.com/enmity-mod/enmity) / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
@@ -1021,6 +1021,7 @@ https://github.com/Akylas/alpimaps
 * [Locket Widget](https://apps.apple.com/us/app/locket-widget/id1600525061) - Real-Time Photo Sharing
 * [ImgPls](https://andadinosaur.com/launch-imgpls) - Image Host / Imgur App
 * [PicsArt](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
+* [Picsew](https://apps.apple.com/us/app/picsew-scrollshot-collage/id1208145167) - Screenshot Stitching
 * [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Camera App
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
@@ -1120,7 +1121,7 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser for iOS
-* ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)**
+* ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)** - Encrypted Messaging
 * ⭐ **[SimpleX](https://apps.apple.com/us/app/simplex-chat-secure-messenger/id1605771084)** - Encrypted Messaging
 * [Session](https://getsession.org/) - Encrypted Messaging
 * [Olvid](https://olvid.io/en/) - Encrypted Messaging
@@ -1157,6 +1158,7 @@ https://github.com/Akylas/alpimaps
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [IPA Library](https://t.me/iapps_ipa) - Tweaked Apps
+* [App Cake](https://www.iphonecake.com/) - App Library / Do [NOT](https://pastebin.com/v9yyDpdC) Install Official App
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
