@@ -1144,7 +1144,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[SideStore](https://sidestore.io/)** / [Multi-App Guide](https://redd.it/1g0n1z4), **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
-* ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - App Manager / Installer
+* ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - App Manager / Installer / Use Sidestore or Sideloadly
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
