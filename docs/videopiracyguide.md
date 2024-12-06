@@ -60,7 +60,6 @@
 * [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [FilmHaven](https://film-haven.vercel.app/?p=1/) - Movies / TV / Anime / [Git](https://git.snipcola.com/snipcola/FilmHaven)
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime
-* [Soap2DayHD](https://ww12.soap2dayhd.co/) - Movies / TV / Anime
 * [VidCloud](https://vidcloud1.com/) - Movies
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
