@@ -94,7 +94,7 @@
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - Games
-* [GamePower](https://www.gamerpower.com/) - Games
+* [GamerPower](https://www.gamerpower.com/) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
