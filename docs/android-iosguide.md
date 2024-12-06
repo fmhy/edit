@@ -1182,8 +1182,9 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Podcasts / Radio
 
-* ⭐ **[PocketCasts](https://www.pocketcasts.com/)** or [Podbean](https://apps.apple.com/app/apple-store/id973361050) - Podcasts
+* ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
 * ⭐ **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - Podcasts
+* [Podbean](https://apps.apple.com/app/apple-store/id973361050) - Podcasts
 * [IHeartRadio](https://apps.apple.com/us/app/iheartradio/id290638154), [MixCloud](https://apps.apple.com/us/app/mixcloud/id401206431) or [TuneIn](https://apps.apple.com/us/app/tunein-radio/id418987775) - Podcasts / Radio
 * [RadiOMG for SomaFM](https://somafm.com/iphone.app) - Radio
 * [DI.FM](https://apps.apple.com/us/app/di-fm-electronic-music-radio/id375242617) - Electronic Radio
