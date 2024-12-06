@@ -72,7 +72,7 @@
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
-* [uFlix](htps://uflix.cc/) - Movies / TV / Anime
+* [uFlix](https://uflix.cc/) - Movies / TV / Anime
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime
 * [AZMovies](https://azm.to/) - Movies
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
