@@ -980,73 +980,73 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
 * ⭐ **[Orion](https://kagi.com/orion/)** - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
-* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
+* ⭐ **[Bitwarden](https://apps.apple.com/app/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Gear4](https://gear4.app/) - Browser with Userscript Support
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
-* [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [FreshWalls](https://apps.apple.com/in/app/freshwalls-4k-hd-wallpapers/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
-* [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
+* [Das Image](https://apps.apple.com/app/id1464079804), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
+* [wrtn](https://apps.apple.com/app/id6448556170), [ChatGPT](https://apps.apple.com/app/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Santander](https://github.com/NSAntoine/Santander) - File Managers
 * [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
-* [iZip](https://apps.apple.com/us/app/izip-zip-unzip-unrar/id413971331) - File Archiver
+* [iZip](https://apps.apple.com/app/id413971331) - File Archiver
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator
 * [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How to Downgrade Apps
-* [Drafts](https://getdrafts.com/), [Goodnotes](https://www.goodnotes.com/), [Strflow](https://strflow.app/), [FreeNotes](https://apps.apple.com/in/app/freenotes-note-taking/id6464237904) or [Bear](https://bear.app/) - Note-Taking / Text Editors
-* [Noteful](https://apps.apple.com/in/app/noteful-note-taking-on-pdf/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
+* [Drafts](https://getdrafts.com/), [Goodnotes](https://www.goodnotes.com/), [Strflow](https://strflow.app/), [FreeNotes](https://apps.apple.com/app/id6464237904) or [Bear](https://bear.app/) - Note-Taking / Text Editors
+* [Noteful](https://apps.apple.com/app/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
-* [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
+* [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
 * [Enmity](https://github.com/enmity-mod/enmity) / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
 * [Frosty](https://www.frostyapp.io/) - Twitch Frontend
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
-* [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
+* [Scriptable](https://apps.apple.com/app/id1405459188) - Automation Script Tool
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) or [Misaka](https://github.com/straight-tamago/misaka) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Siri Shortcuts
-* [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - iOS Widgets
-* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloaders
-* [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
-* [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
+* [Color Widgets](https://apps.apple.com/app/id1531594277), [WidgetSmith](https://apps.apple.com/app/id1523682319) or [widgetopia](https://apps.apple.com/app/id1536432615) - iOS Widgets
+* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/app/id1487658334) - YouTube Downloaders
+* [Keynote](https://apps.apple.com/app/id361285480) - Make Presentations
+* [GlobeConvert](https://apps.apple.com/app/id334851202) - Currency / Unit Converter
 * [IRuin](https://iriun.com/) or [Reincubate Camo](https://reincubate.com/camo/) - Use iOS Device as Webcam
 * [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation App
-* [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303), [Feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - RSS Reader
+* [Fiery Feeds](https://apps.apple.com/app/id1158763303), [Feeeed](https://apps.apple.com/app/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/app/id1480640210) - RSS Reader
 * [SlimeKT](https://kasem-sm.github.io/SlimeKT) - Article Aggregator / [GitHub](https://github.com/kasem-sm/SlimeKT)
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [Untold](https://apps.apple.com/ca/app/untold-voice-journal/id6451427834) - Voice Journal
-* [Speakeasy](https://apps.apple.com/us/app/speakeasy-ai-dictation/id6474271933) - Text to Speech
+* [Untold](https://apps.apple.com/app/id6451427834) - Voice Journal
+* [Speakeasy](https://apps.apple.com/app/id6474271933) - Text to Speech
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
-* [Locket Widget](https://apps.apple.com/us/app/locket-widget/id1600525061) - Real-Time Photo Sharing
+* [Locket Widget](https://apps.apple.com/app/id1600525061) - Real-Time Photo Sharing
 * [ImgPls](https://andadinosaur.com/launch-imgpls) - Image Host / Imgur App
-* [PicsArt](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
-* [Picsew](https://apps.apple.com/us/app/picsew-scrollshot-collage/id1208145167) - Screenshot Stitching
-* [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Camera App
+* [PicsArt](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/app/id370833324) - Image Editor
+* [Picsew](https://apps.apple.com/app/id1208145167) - Screenshot Stitching
+* [BlackMagic Camera](https://apps.apple.com/app/id6449580241) - Camera App
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android), [Buz](https://www.buzmenow.com/ ) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
-* [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
+* [ZX81](https://apps.apple.com/app/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
-* [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/us/app/swiftgram/id6471879502) - Telegram Apps
+* [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/app/id6471879502) - Telegram Apps
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [GoodLinks](https://goodlinks.app/), [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
-* [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - Scan & Digitize Anything
-* [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
-* [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents
-* [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
+* [Scan Thing](https://apps.apple.com/app/id1542730895) - Scan & Digitize Anything
+* [magicplan](https://apps.apple.com/app/id427424432) - AR & LiDAR Scanning
+* [Microsoft Lens](https://apps.apple.com/app/id975925059) - Scan & Digitize Documents
+* [Ringtones](https://apps.apple.com/app/id1036141497) - Custom Ringtone Creator
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
-* [Microsoft To Do](https://to-do.office.com/) or [‎Twodos](https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163) - To-Do Apps
-* [Journal it](https://apps.apple.com/US/app/id1501944799) - Planner / Journal App
-* [Success](https://apps.apple.com/us/app/success-weekly-planner/id1544852780), [Stacks](https://apps.apple.com/ca/app/stacks-routine-habits/id6484160851) or [Routine Planner](https://apps.apple.com/ca/app/habit-tracker-routine-planner/id6480042457) - Productivity Booster / Habit Trackers
-* [Body Clock](https://apps.apple.com/ca/app/body-clock-calendar/id869648628) - Plan / Track Circadian Rhythm 
-* [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - Plant Identifier
-* [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) or [Aftership](https://apps.apple.com/kg/app/aftership-package-tracker/id507014023) - Delivery Tracker
-* [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
+* [Microsoft To Do](https://to-do.office.com/) or [‎Twodos](https://apps.apple.com/app/id6463499163) - To-Do Apps
+* [Journal it](https://apps.apple.com/app/id1501944799) - Planner / Journal App
+* [Success](https://apps.apple.com/app/id1544852780), [Stacks](https://apps.apple.com/app/id6484160851) or [Routine Planner](https://apps.apple.com/app/id6480042457) - Productivity Booster / Habit Trackers
+* [Body Clock](https://apps.apple.com/app/id869648628) - Plan / Track Circadian Rhythm 
+* [PictureThis](https://apps.apple.com/app/id1252497129) - Plant Identifier
+* [Parcel](https://apps.apple.com/app/id375589283) or [Aftership](https://apps.apple.com/app/id507014023) - Delivery Tracker
+* [KeyPad](https://apps.apple.com/app/id1491684442) - Connect Mac Keyboard to Mobile Devices
 
 ***
 
@@ -1108,10 +1108,10 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** - Adblocker
-* [AdGuard Remote](https://apps.apple.com/app/apple-store/id1543143740)
+* [AdGuard Remote](https://apps.apple.com/app/id1543143740)
 * [1Blocker](https://1blocker.com/) - Adblocker
-* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
-* [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
+* [Video Lite](https://apps.apple.com/app/id1598997500) - Video Browser w/Adblock
+* [Apollo](https://apps.apple.com/app/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music
 
@@ -1121,16 +1121,16 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser for iOS
-* ⭐ **[Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669)** - Encrypted Messaging
-* ⭐ **[SimpleX](https://apps.apple.com/us/app/simplex-chat-secure-messenger/id1605771084)** - Encrypted Messaging
+* ⭐ **[Signal](https://signal.org/)** - Encrypted Messaging / [GitHub](https://github.com/signalapp/Signal-iOS)
+* ⭐ **[SimpleX](https://apps.apple.com/app/id1605771084)** - Encrypted Messaging / [GitHub](https://github.com/simplex-chat/simplex-chat)
 * [Session](https://getsession.org/) - Encrypted Messaging
 * [Olvid](https://olvid.io/en/) - Encrypted Messaging
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
-* [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
-* [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy-Based Browsers
-* [Element](https://apps.apple.com/us/app/element-messenger/id1083446067) or [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) - Matrix Clients
-* [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls
-* [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) or [Tuta](https://tuta.com/) - Encrypted Emailing Service
+* [Private Photo Vault](https://apps.apple.com/app/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
+* [Brave](https://apps.apple.com/app/id1052879175), [Firefox Focus](https://apps.apple.com/app/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy-Based Browsers
+* [Element](https://apps.apple.com/app/id1083446067) or [FluffyChat](https://apps.apple.com/app/id1551469600) - Matrix Clients
+* [Wickr](https://apps.apple.com/app/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls
+* [ProtonMail](https://apps.apple.com/app/id979659905) or [Tuta](https://tuta.com/) - Encrypted Emailing Service
 
 ***
 
@@ -1170,14 +1170,14 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[SpotC++](https://spotcompiled.github.io/)** - Ad-Free Spotify / Sideloaded
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**, [YTMusilife](https://rentry.co/FMHYBase64#ytmusilife), [Trebel](https://home.trebel.io/), [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) or [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**, [YTMusilife](https://rentry.co/FMHYBase64#ytmusilife), [Trebel](https://home.trebel.io/), [Soundcloud](https://apps.apple.com/app/id336353151) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Spotilife](https://rentry.co/FMHYBase64#spotilife) - Ad-Free Spotify / Jailbreak or Sideload
-* [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
+* [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Demus](https://demus.app/) - Streaming
-* [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
-* [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) - Audio Player
+* [Qello](https://apps.apple.com/app/id491069819) - Concerts & Live Music Streaming
+* [VOX](https://apps.apple.com/app/id916215494) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Player
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
-* [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Audio Editor / Creator
+* [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
 * [stats.fm](https://stats.fm/) - Spotify Listening Stats
 
 ***
@@ -1185,19 +1185,19 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Podcasts / Radio
 
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
-* ⭐ **[Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580)** - Podcasts
-* [Podbean](https://apps.apple.com/app/apple-store/id973361050) - Podcasts
+* ⭐ **[Spotify](https://apps.apple.com/app/id324684580)** - Podcasts
+* [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
 * [Outcast](https://outcastapp.com/) - Podcasts
-* [IHeartRadio](https://apps.apple.com/us/app/iheartradio/id290638154), [MixCloud](https://apps.apple.com/us/app/mixcloud/id401206431) or [TuneIn](https://apps.apple.com/us/app/tunein-radio/id418987775) - Podcasts / Radio
+* [IHeartRadio](https://apps.apple.com/app/id290638154), [MixCloud](https://apps.apple.com/app/id401206431) or [TuneIn](https://apps.apple.com/app/id418987775) - Podcasts / Radio
 * [RadiOMG for SomaFM](https://somafm.com/iphone.app) - Radio
-* [DI.FM](https://apps.apple.com/us/app/di-fm-electronic-music-radio/id375242617) - Electronic Radio
+* [DI.FM](https://apps.apple.com/app/id375242617) - Electronic Radio
 
 ***
 
 ## ▷ iOS Relaxation
 
-* [A Soft Murmur](https://apps.apple.com/app/apple-store/id1175522255) - Mix Ambient Sounds
+* [A Soft Murmur](https://apps.apple.com/app/id1175522255) - Mix Ambient Sounds
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
 
 ***
@@ -1208,15 +1208,15 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
-* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser with Adblock
-* [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
+* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse 6](https://apps.apple.com/app/id1136220934) - Video Players
+* [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
+* [Video Lite](https://apps.apple.com/app/id1598997500) - Video Browser with Adblock
+* [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Signup Required
-* [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - Free CW Shows
-* [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama
-* [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
-* [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
+* [The CW](https://apps.apple.com/app/id491730359) - Free CW Shows
+* [Viki](https://apps.apple.com/app/id445553058) - Asian Drama
+* [EncoreTVD](https://apps.apple.com/app/id1191642382) - Chinese Drama
+* [STBEmu](https://apps.apple.com/app/id1567306197) - Emulate an STB and Watch IPTV
 * [Tunity](https://tunity.com/) - Hear Any Muted TV / US Only
 * [ATVLoadly](https://github.com/bitxeno/atvloadly) - Apple TV Sideloading
 
@@ -1227,7 +1227,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Ryu](https://github.com/cranci1/Ryu)** / [Discord](https://discord.com/invite/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi)
-* [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
+* [MyAnimeList Client](https://apps.apple.com/app/id1469330778) - MyAnimeList Client
 * [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
 
 ***
@@ -1236,7 +1236,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)** or [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPAs
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
-* [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Player
+* [Video Lite](https://apps.apple.com/app/id1598997500) - YouTube Player
 * [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - Modded YouTube iPA
 
 ***
@@ -1249,10 +1249,10 @@ https://github.com/Akylas/alpimaps
 * [Suwatte](https://www.suwatte.app/) - Comic Reader ⁠/ [Discord](https://discord.gg/8wmkXsT6h5) / [GitHub](https://github.com/suwatte)
 * [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
-* [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
+* [SideBooks](https://apps.apple.com/app/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player / [Discord](https://discord.gg/MjCUXgU)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
 * [Tachimanga](https://tachimanga.app/) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
-* [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)
+* [ZETSU](https://apps.apple.com/app/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)
 * [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Digital Library Books / Extend time via Offline or Airplane mode
+* [Libby](https://apps.apple.com/app/id1076402606) - Digital Library Books / Extend time via Offline or Airplane mode
