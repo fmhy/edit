@@ -394,6 +394,7 @@
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[Blockaway](https://www.blockaway.net/)**
+* ⭐ **[Alu](https://aluu.xyz/en/)**
 * ⭐ **[Holy Unblocker](https://holyunblocker.org/)**
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)

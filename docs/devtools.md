@@ -1131,7 +1131,7 @@
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
-* [Radare](https://rada.re/r/) - Reverse Engineering
+* [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [GitHub](https://github.com/radareorg/radare2) / [Discord](https://discord.gg/YBey7CR9jf)
 * [Rizin](https://rizin.re/) - Reverse Engineering
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Cutter](https://cutter.re/) - Reverse Engineering

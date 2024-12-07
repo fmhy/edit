@@ -57,6 +57,7 @@
 * [PressPlay](https://www.pressplay.top/) - Movies / TV / [API](https://moviesapi.club/) / [Discord](https://discord.gg/r4QrghF4B9)
 * [Donkey](https://donkey.to/) - Movies / TV / Anime
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
+* [Wovie](https://wovie.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/iswilljr/wovie)
 * [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [FilmHaven](https://film-haven.vercel.app/?p=1/) - Movies / TV / Anime / [Git](https://git.snipcola.com/snipcola/FilmHaven)
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime

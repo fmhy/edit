@@ -329,7 +329,6 @@
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
 * [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kb MP3
-* [JoeyMusicBot](https://t.me/joeymusicbot) - 320 kb MP3
 * [bassmuzic](https://t.me/bassmuzic) - MP3
 * [FLAC Musik](https://t.me/flacmuzik) - Bollywood FLAC
 * [flacmusics](https://t.me/flacmusics/) - FLAC

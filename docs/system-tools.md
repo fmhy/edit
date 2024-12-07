@@ -465,7 +465,7 @@
 ## ▷ Wallpaper Managers
 
 * ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders) - Wallpaper Manager
-* [Lively](https://www.rocksdanister.com/lively/) or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
+* ⭐ **[Lively](https://www.rocksdanister.com/lively/)** or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
 * [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - Multi-Host Wallpaper Switcher

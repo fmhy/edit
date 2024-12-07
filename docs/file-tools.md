@@ -354,11 +354,10 @@
 ***
 
 * 🌐 **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
-* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / 2 Years / ~$3 for 1TB
-* ⭐ **[mega](https://mega.nz/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [Retention Note](https://pastebin.com/SZ82FEL9) / [GitHub](https://github.com/meganz)
+* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years / ~$3 for 1TB
+* ⭐ **[mega](https://mega.nz/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / 3 Months / ~$8 for 1TB
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
-* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
 * [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free/ 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
