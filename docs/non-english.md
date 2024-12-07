@@ -343,6 +343,8 @@
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 * [Deal Labs](https://www.dealabs.com/) - Track Deals
+* [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
+* [Donnons](https://donnons.org/) - Item Donation
 
 ## ▷ Downloading
 
@@ -381,6 +383,7 @@
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
 * [VostFree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
+* [animesz](https://v1.animesz.xyz/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p / [Discord](https://discord.gg/Pjs5p5TrEW)
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
