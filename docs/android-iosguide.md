@@ -1236,7 +1236,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)** or [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPAs
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Video Lite](https://apps.apple.com/app/id1598997500) - YouTube Player
-* [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - Modded YouTube iPA
+* [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) or [YTLite](https://github.com/dayanch96/YTLite) - Modded YouTube iPA
 
 ***
 
