@@ -65,7 +65,6 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 * **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
-* **DLC Unlocker: [Koalageddon](https://github.com/acidicoala/Koalageddon/)** 
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
 * **Track / Discover: [Glitchwave](https://glitchwave.com/)**
 

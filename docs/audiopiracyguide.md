@@ -131,6 +131,8 @@
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [hypem](https://hypem.com/popular) - Rising
 * [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip Hop
+* [DatPiff](https://datpiff.com/) - Hip Hop / Mixtapes
+* [MixtapeMonkey](https://mixtapemonkey.com/) - Hip Hop / Mixtapes / [Discord](https://discord.gg/4Vsb73fQgd)
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
 * [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
@@ -356,6 +358,7 @@
 * [SongsLover](https://songslover.me/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
+* [Archive.org](https://archive.org/details/audio) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [nodata](https://nodata.tv/) - MP3
 * [z1.fm](https://z2.fm/) - MP3
@@ -392,7 +395,6 @@
 * [Music Rider](https://musicrider.org/) - MP3 / FLAC
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4
 * [iPlusFree](https://www7.iplusfree.org/), [iTopMusic](https://itopmusicx.com/), [iTDMusic](https://itdmusic.in/) or [Plus Premieres](http://www129.pluspremieres.biz//) - iTunes M4A
-* [Archive.org](https://archive.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
 * [Take Metal](https://takemetal.org/) - Metal / MP3
@@ -784,7 +786,7 @@
 * [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [Signal](https://signal.vercel.app/) - MIDI Editor
 * [Tonecraft](https://dinahmoelabs.com/tonecraft ) - 3D Song Creator
-* [WebSynths](https://www.websynths.com/) - Browser Synthesizers
+* [WebSynths](https://www.websynths.com/) or [Wavepad](https://alexgibson.github.io/wavepad/) - Browser Synthesizers
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
 * [StarrynetsPiano](https://piano.starrynets.com/) or [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard

@@ -345,6 +345,7 @@
 * [Socket](https://socket.io/)
 * [Whimsical](https://whimsical.com/)
 * [Firepad](https://firepad.io/)
+* [Ellipsus](https://ellipsus.com/)
 * [Etherpad](https://etherpad.org/)
 * [SharePad](https://sharepad.io/)
 * [Pixso](https://pixso.net/)

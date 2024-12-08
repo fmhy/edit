@@ -232,7 +232,6 @@
 * [Libre Camera](https://github.com/iakdis/librecamera), [GrapheneOS Camera](https://github.com/GrapheneOS/Camera), [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [FadCam](https://github.com/anonfaded/FadCam) - Background Video Recorder
-* [Jitsi](https://jitsi.org/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
 * [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
@@ -278,7 +277,7 @@
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Remap Keys / [Docs](https://docs.keymapper.club/) / [Discord](https://discord.com/invite/jutQhBeKpb)
 * [Text Reader](https://elevenlabs.io/text-reader) - Text to Speech
-* [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary), [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484), [Look Up](https://rentry.co/FMHYBase64#look-up) or [AARD2](https://github.com/itkach/aard2-android) - Dictionary Apps
+* [Look Up](https://rentry.co/FMHYBase64#look-up), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary), [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android) - Dictionary Apps
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
@@ -1027,7 +1026,6 @@ https://github.com/Akylas/alpimaps
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
-* [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android), [Buz](https://www.buzmenow.com/ ) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
 * [ZX81](https://apps.apple.com/app/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
@@ -1052,10 +1050,12 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[iOS Jailbreak Guide](https://ios.cfw.guide/)** or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
+* 🌐 **[IPA Apps](https://ipa-apps.me/)** - Jailbreaking Tool Indexes
 * 🌐 **[Types of Jailbreak](https://ios.cfw.guide/types-of-jailbreak/)** - List of Jailbreak Types
+* ⭐ **[iOS Guide](https://ios.cfw.guide/)** - iOS Jailbreaking Guide
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
-* ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)**, [PuReEnVyUs](https://sideloading.vercel.app/), [Free Sideloading](https://docs.google.com/document/d/1QseJR-ZTGJO0q99l9eh1-wsR-tldtbsM6rbsti08EDQ/), [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guides
+* ⭐ **[/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
+* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [PuReEnVyUs](https://sideloading.vercel.app/) - Sideloading Guides
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
 * [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1 Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide]( https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
@@ -1088,7 +1088,6 @@ https://github.com/Akylas/alpimaps
 * [Gala](https://github.com/codyd51/gala) - iOS 4 Interactive Jailbreak
 * [limera1n](https://limera1n.com/) - 3.2.2-4.1 Untethered Jailbreak (A4 & 3GS & iPod Touch 3rd Gen & iPad 1st Generation) / [Guide](https://ios.cfw.guide/installing-limera1n/)
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - Jailbreak iPhone 3GS
-* [/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/) - Jailbreak Old Devices(iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore jailbroken iOS without a computer (without updating)
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Checkra1n & Odysseyra1n Installation Distro / [Guide](https://ios.cfw.guide/using-odysseyn1x/)
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/Legacy-iOS-Kit) - OTA Downgrade iOS
@@ -1098,7 +1097,7 @@ https://github.com/Akylas/alpimaps
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://getsileo.app/) or [Zebra](https://getzbra.com/) - iOS Package Managers
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
-* [Nugget](https://github.com/leminlimez/Nugget) - iOS Device Tweaks
+* [Nugget](https://github.com/leminlimez/Nugget) - iOS Tweaks Tool
 * [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
 * [iDownloadBlog](https://www.idownloadblog.com) - Jailbreak News
 
@@ -1159,7 +1158,7 @@ https://github.com/Akylas/alpimaps
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [IPA Library](https://t.me/iapps_ipa) - Tweaked Apps
 * [App Cake](https://www.iphonecake.com/) - App Library / Do [NOT](https://pastebin.com/v9yyDpdC) Install Official App
-* [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
+* [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
