@@ -362,7 +362,7 @@
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab) / [Discord](https://discord.com/invite/975NdQPsSc)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [Patternizer](https://www.patternizer.com/) or [Haikei](https://app.haikei.app/) - Pattern Generators
-* [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
+* [Noise & Gradient](https://www.noiseandgradient.com/), [PhotoGradient](https://photogradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [Generative Landscapes](https://generativelandscapes.wordpress.com/) - Generative Landscape Blog
@@ -508,7 +508,7 @@
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
-* ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
+* ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
 * [PxHere](https://pxhere.com/) - Stock Photos
 * [Adobe Stock](https://stock.adobe.com/free) - Stock Photos
 * [themeisle](https://mystock.themeisle.com/) - Stock Photos
@@ -804,7 +804,7 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [Super Color Palette](https://supercolorpalette.com/) or [Coolors](https://coolors.co/) - Color Palette Generators
+* ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/) or [Coolors](https://coolors.co/) - Color Palette Generators
 * [Clariss](https://www.clariss.xyz/), [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes

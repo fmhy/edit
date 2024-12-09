@@ -111,7 +111,7 @@
 
 ## ▷ APK Tools
 
-* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)**, [UpdateMe](https://github.com/anfreire/updateMe-Mobile) (modded), [Inure](https://rentry.co/FMHYBase64#inure) or [PackageManager](https://f-droid.org/packages/com.smartpack.packagemanager/) - Package Managers
+* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)**, [UpdateMe](https://github.com/anfreire/updateMe-Mobile) (modded), [Inure](https://rentry.co/FMHYBase64#inure) or [PackageManager](https://smartpack.github.io/PackageManager/) - Package Managers
 * ⭐ **[Lucky Patcher](https://rentry.co/FMHYBase64#lucky-patcher)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/EikpPCAW)
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Obtainium](https://github.com/ImranR98/Obtainium/)** / [Configs](https://apps.obtainium.imranr.dev/), [UpgradeAll](https://up-a.org/en/) / [GitHub](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
@@ -240,7 +240,6 @@
 * [ImageToolbox](https://github.com/T8RIN/ImageToolbox), [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea), [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed), [PhotoLayers](https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers), [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor) or [Pixomatic](https://pixomatic.us/) - Image Editors
 * [ImgurViewer](https://github.com/SpartanJ/ImgurViewer) - Quickly View Imgur (+ other site) Images
 * [Mematic](https://www.mematic.com/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
-* [VES](https://github.com/VincentEngel/VES-Image-Compare) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) - Background Removers / Retouch / Enhance
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam without Google Play
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BarcodeScanner](https://gitlab.com/Atharok/BarcodeScanner) or [BinaryEye](https://github.com/markusfisch/BinaryEye) - QR / Barcode Scanners
@@ -255,7 +254,6 @@
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
 * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
-* [Tidy](https://github.com/slavabarkov/tidy) - Text to Image / Image-to-Image search
 * [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
@@ -464,7 +462,7 @@
 * [Raven](https://github.com/ksh-b/raven) - News Apps
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
-* [Linkora](https://github.com/sakethpathike/Linkora), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
+* [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/yk5RRvkV), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
@@ -861,6 +859,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android Relaxation
 
 * ⭐ **[Calm](https://rentry.co/FMHYBase64#calm)** - Relaxation / Sleep App
+* ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [HealthyMinds](https://hminnovations.org/meditation-app) - Meditation / Sleep Sounds
@@ -1186,11 +1185,11 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
 * ⭐ **[Spotify](https://apps.apple.com/app/id324684580)** - Podcasts
 * ⭐ **[Triode](https://triode.app/)** - Radio
+* ⭐ **[Cuterdio](https://cuterdio.com/en)** - Radio
 * [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
 * [Outcast](https://outcastapp.com/) - Podcasts
 * [IHeartRadio](https://apps.apple.com/app/id290638154), [MixCloud](https://apps.apple.com/app/id401206431) or [TuneIn](https://apps.apple.com/app/id418987775) - Podcasts / Radio
-* [Cuterdio](https://cuterdio.com/en) - Radio
 * [RadiOMG for SomaFM](https://somafm.com/iphone.app) - Radio
 * [DI.FM](https://apps.apple.com/app/id375242617) - Electronic Radio
 

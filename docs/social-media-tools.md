@@ -30,7 +30,7 @@
 ***
 
 * 🌐 **[Awesome Discord](https://github.com/jacc/awesome-discord)** - Discord Tool Index
-* ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [embedez](https://embedez.com/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
+* ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [embedez](https://embedez.com/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
@@ -180,7 +180,7 @@ https://github.com/peterhanania/discord-package
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
-* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Spotlight](https://spotlight.thisux.com/) - Find Random Reddit Content
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool

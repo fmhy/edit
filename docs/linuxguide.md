@@ -42,6 +42,7 @@
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
+* [FUTO](https://wiki.futo.org/) - Self-Hosting Guides
 * [HowtoForge](https://www.howtoforge.com/) - Linux Sever Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
@@ -244,6 +245,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
+* [Shortwave](https://flathub.org/apps/de.haeckerfelix.Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) / [Plugins](https://github.com/wwmm/easyeffects) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
@@ -646,6 +648,7 @@ Linux Gaming Guide
 * [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
+* [Cuterdio](https://cuterdio.com/en) - Radio
 * [Donna](https://www.musicdonna.com/) - AI Music Generator
 * [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
 * [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify

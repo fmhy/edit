@@ -360,10 +360,10 @@
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
+* ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
 * [NextDNS](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* [Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 * [DNS for Family](https://dnsforfamily.com/) 
@@ -864,7 +864,7 @@
 * ⭐ **[Radio Garden](https://radio.garden/)** - Worldwide Radio Globe / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs)
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** / [Downloader](https://github.com/get-iplayer/get_iplayer)
 
-[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/)
+[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2)
 
 ### Internet Radio
 

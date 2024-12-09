@@ -542,7 +542,7 @@
 * [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
-* [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
+* [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
@@ -1211,6 +1211,7 @@ https://wiki.osdev.org/
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
 * [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
+* [8bitWorkshop](https://8bitworkshop.com/) - Retro Game Programming Tutorials
 
 ***
 
@@ -1276,7 +1277,6 @@ https://wiki.osdev.org/
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [BookFlashCard](https://www.bookflashcard.com/) - Turn Books into Flashcards
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)

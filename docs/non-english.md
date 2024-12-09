@@ -152,6 +152,7 @@
 * [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
 * [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
+* [CN GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI) - Offline Steam DRM Bypass / DLC Unlocker 
 
 ## ▷ Torrenting 
 
@@ -552,7 +553,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
+* ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker/ [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[VegaMovies](https://vegamovies.ps/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MkvCinemas](https://mkvcinemas.soy/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.day/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)

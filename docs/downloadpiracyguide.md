@@ -193,7 +193,7 @@
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Directory
 * [Uwe Sieber](https://www.uwe-sieber.de/english.html) - Freeware Directory
 * [Software Informer](https://software.informer.com/) - Freeware Directory
-* [PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
+* [PortableApps.com](https://portableapps.com/), [PortableFreeware](https://www.portablefreeware.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [Suckless](https://suckless.org/) - Simple Software Archive
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
