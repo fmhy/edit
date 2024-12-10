@@ -175,6 +175,7 @@
 * ⭐ **[MPV](https://mpv.io/)**, [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
+* ⭐ **[VidHub](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?mt=8)** - Video Player to build a Media Center with webDAV,Samba. Support Emby/Jellyfin/Plex etc.
 * [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
