@@ -1211,6 +1211,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
+* ⭐ **[VidHub](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?mt=8)** - Video Player support WebDAV, Samba, Emby, Jellyfin, Plex.
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse 6](https://apps.apple.com/app/id1136220934) - Video Players
 * [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Video Lite](https://apps.apple.com/app/id1598997500) - Video Browser with Adblock
