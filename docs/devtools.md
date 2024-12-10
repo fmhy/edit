@@ -342,7 +342,6 @@
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
-* [Siesta](http://siestaframework.com) - Write REST API Clients for iOS / macOS
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [FastAPI](https://fastapi.tiangolo.com/) - API Framework
 * [Insomnia](https://insomnia.rest/) or [Insomnium](https://github.com/ArchGPT/insomnium) (Privacy focused fork) - API Clients
@@ -1152,7 +1151,7 @@
 * [readme.so](https://readme.so/) - Create README.md Files
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Check Markdown Files for Dead Links
-* [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
+* [Table Magic](https://stevecat.net/table-magic/) - Table to Markdown Converters
 * [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
 * [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
