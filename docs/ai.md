@@ -48,6 +48,7 @@
 * [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder / No Signup
 * [Leon](https://getleon.ai/) - AI Assistant
+* [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 
 ***
 
