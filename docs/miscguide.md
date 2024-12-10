@@ -556,7 +556,7 @@
 * [Calistree](https://calistree.app/) - Exercise Search
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
-* [Liftosaur](https://www.liftosaur.com/) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
+* [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets 
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App

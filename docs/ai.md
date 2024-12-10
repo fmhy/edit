@@ -267,7 +267,7 @@
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
-* [ImageFX](https://labs.google/fx/tools/image-fx) - Googles Image Generator
+* [ImageFX](https://labs.google/fx/tools/image-fx) - Googles Image Generator / Region Based
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators / No Signup
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
@@ -361,7 +361,7 @@
 * ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI / No Signup
 * ⭐ **[Riffusion](https://www.riffusion.com/)**
 * ⭐ **[Suno](https://suno.com/)** / [Wiki](https://sunoaiwiki.com/en)
-* [MusicFX](https://labs.google/fx/tools/music-fx-dj)
+* [MusicFX](https://labs.google/fx/tools/music-fx-dj) / Region Based
 * [Wolfram Tones](https://tones.wolfram.com/) / No Signup
 * [StableAudio](https://www.stableaudio.com/)
 * [Udio](https://www.udio.com/)

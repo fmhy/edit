@@ -111,7 +111,7 @@
 * ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
 * ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US + UK Only
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
-* [Freevee](https://www.amazon.com/gp/video/storefront/subscription/freewithads) - Movies / TV / US Only
+* [Freevee](https://www.amazon.com/Prime-Video-Freevee-Movies-TV/s?rh=n%3A2858778011%2Cp_n_subscription_id%3A18734379011) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
 * [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next

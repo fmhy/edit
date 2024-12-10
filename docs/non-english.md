@@ -850,8 +850,6 @@
 
 # ► Norwegian / Norsk
 
-* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
-
 ## ▷ Streaming
 
 * [NRK TV](https://tv.nrk.no/) - Norwegian Movies / TV / Documentaries / Sub / 1080p
@@ -1798,6 +1796,7 @@
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian Streaming / Dubbed Cartoons / Use Adblock
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
+* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Sabins Civil Engineering
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
