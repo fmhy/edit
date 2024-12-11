@@ -443,7 +443,6 @@
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
-* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature](https://www.nature.com/), [Science](https://www.science.org/), [PopSci](https://www.popsci.com/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [Dailynous](https://dailynous.com/) - Philosophy News
 * [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
@@ -485,7 +484,7 @@
 ## ▷ Tech News
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
-* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [Hacker Web App](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
+* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -497,6 +496,21 @@
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
+
+***
+
+## ▷Science News
+
+* [SciURLs](https://sciurls.com/)
+* [NewScientist](https://www.newscientist.com/)
+* [Nature](https://www.nature.com/)
+* [Science](https://www.science.org/)
+* [PopSci](https://www.popsci.com/)
+* [ScienceDaily](https://www.sciencedaily.com/)
+* [EurekAlert](https://www.eurekalert.org/)
+* [LiveScience](https://livescience.com/)
+* [ScienceNews](https://www.sciencenews.org/)
+* [IFLScience](https://www.iflscience.com/)
 
 ***
 

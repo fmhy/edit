@@ -120,7 +120,6 @@
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews
 * [Devv](https://devv.ai/) - Coding Search Engine / No Signup
 * [Telosys](https://www.telosys.org/) - Lightweight Code Generator / No Signup
-* [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
 * [ImageCook](https://imgcook.com) - Coding AI / No Signup / [GitHub](https://github.com/imgcook/imgcook)
 * [SuperMaven](https://supermaven.com/) - Coding AI / No Signup / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI

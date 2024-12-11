@@ -13,7 +13,6 @@
 * [Dawin](https://www.dawin.io/) - Markdown Editor
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
-* [At4RE](https://www.at4re.net/) - Reverse Engineering Forum
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل

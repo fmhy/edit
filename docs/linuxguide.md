@@ -90,6 +90,7 @@
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
+* [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
 * [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
@@ -680,14 +681,12 @@ Linux Gaming Guide
 * [nMac](https://nmac.to/)
 * [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
-* [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [Macked](https://macked.app/)
 * [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
-* [Macupdate](https://www.macupdate.com/) - Freeware
 * [ThriftMac](https://thriftmac.com/) - Freeware
 * [Latest](https://github.com/mangerlahn/latest) - Software Updater
 

@@ -123,9 +123,9 @@
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
+* [365 Radio](https://365.ilysm.nl/) - List of DJ Channels
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
 * [EDMLiveSet](https://www.edmliveset.com/) - DJ Mixes / Livesets
-* [365 Radio](https://rentry.co/0x16d) - List of DJ Channels
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music

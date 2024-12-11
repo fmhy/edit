@@ -833,6 +833,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[RadioDroid](https://github.com/segler-alex/RadioDroid)** - Radio App
 * ⭐ **[AntennaPod](https://antennapod.org/)** - Podcast Player / [GitHub](https://github.com/AntennaPod/AntennaPod)
+* ⭐ **[Pocket Casts](https://www.pocketcasts.com/)** - Podcast Player
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
 * [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player) - Podcast / Radio App
 * [TuneIn](https://play.google.com/store/apps/details?id=tunein.player) - Podcast / Radio App
@@ -840,7 +841,6 @@ https://github.com/Akylas/alpimaps
 * [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Player
 * [Escapepod](https://codeberg.org/y20k/escapepod) - Podcast Player
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcast Player
-* [Pocket Casts](https://www.pocketcasts.com/) - Podcast Player
 * [Podcini](https://github.com/XilinJia/Podcini) - Podcast Player
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio App
 * [RadiOMG for SomaFM](https://play.google.com/store/apps/details?id=com.dgmltn.radiomg.somafm) - Radio App / [Beta](https://somafm.com/aabeta/)
@@ -1149,6 +1149,10 @@ https://github.com/Akylas/alpimaps
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram
 * [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps / Telegram
+* [BabylonIPA](https://t.me/BabylonIPA) - Tweaked Apps / Telegram
+* [SultanModsIPAs](https://t.me/SultanModsIPAs) - Tweaked Apps / Telegram
+* [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps / Telegram
+* [IPA_FREE_RAK](https://t.me/IPA_FREE_RAK) - Tweaked Apps / Telegram
 * [fnd](https://fnd.io/) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library /  [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
@@ -1182,9 +1186,9 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Podcasts / Radio
 
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
-* ⭐ **[Spotify](https://apps.apple.com/app/id324684580)** - Podcasts
 * ⭐ **[Triode](https://triode.app/)** - Radio
 * ⭐ **[Cuterdio](https://cuterdio.com/en)** - Radio
+* [Spotify](https://apps.apple.com/app/id324684580) - Podcasts
 * [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
 * [Outcast](https://outcastapp.com/) - Podcasts
@@ -1210,7 +1214,7 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse 6](https://apps.apple.com/app/id1136220934) - Video Players
+* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://apps.apple.com/app/id1136220934) - Video Players
 * [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Video Lite](https://apps.apple.com/app/id1598997500) - Video Browser with Adblock
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
