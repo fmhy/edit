@@ -14,7 +14,7 @@ Piracy sites usually contain ads, some of which can be harmful, often leading to
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)**, and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
 
-For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
+For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS]([https://rentry.co/FMHYBase64#adguard-pro-ios](https://rentry.co/FMHYBase64#adguard-pro)) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
 !!!note Using several ad blockers, like uBO and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
