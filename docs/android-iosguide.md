@@ -1104,7 +1104,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** - Adblocker
+* ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** or [Adguard](https://adguard.com/en/adguard-ios/overview.html) - Adblocker
 * [AdGuard Remote](https://apps.apple.com/app/id1543143740)
 * [1Blocker](https://1blocker.com/) - Adblocker
 * [Video Lite](https://apps.apple.com/app/id1598997500) - Video Browser w/Adblock
@@ -1191,7 +1191,7 @@ https://github.com/Akylas/alpimaps
 * [Spotify](https://apps.apple.com/app/id324684580) - Podcasts
 * [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
-* [Outcast](https://outcastapp.com/) - Podcasts
+* [Overcast](https://overcast.fm/) - Podcasts
 * [IHeartRadio](https://apps.apple.com/app/id290638154), [MixCloud](https://apps.apple.com/app/id401206431) or [TuneIn](https://apps.apple.com/app/id418987775) - Podcasts / Radio
 * [RadiOMG for SomaFM](https://somafm.com/iphone.app) - Radio
 * [DI.FM](https://apps.apple.com/app/id375242617) - Electronic Radio

@@ -344,7 +344,6 @@
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free / [Note](https://pastebin.com/TrSw7EpF)
 * [PrivadoVPN](https://privadovpn.com/) - Free / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [LEAP](https://leap.se/) - Free VPNs
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts

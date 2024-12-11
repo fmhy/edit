@@ -269,6 +269,7 @@
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
+* [Sefaria](https://www.sefaria.org/) - Sefaria Translation
 * [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
 * [2Muslims](https://www.2muslims.com/) or [IslamHouse](https://islamhouse.com/en) - Muslim Resources
 * [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
