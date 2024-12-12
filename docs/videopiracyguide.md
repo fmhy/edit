@@ -228,6 +228,7 @@
 * [DramaGo](https://dramago.in/) - TV / Movies
 * [onedrama](https://onedrama.me/) - TV / Movies
 * [DramaFull](https://dramafull.net/) - TV / Movies / Auto-Next
+* [Kisassiantv.com.im](https://Kisassiantv.com.im/) - Korean Drama Online
 * [RiveStream](https://rivestream.live/kdrama) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies / Auto-Next
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
