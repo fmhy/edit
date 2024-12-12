@@ -440,7 +440,7 @@
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [Strims](https://strims.in/) - Sports
 * [BuffSports](https://buffsports.me/) - Sports
-* [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
+* [CricHD](https://crichd.li/), [TotalSportek](https://totalsportek.me/) or [StreamEast](https://streameast.bz/) - Sports
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://crichdplayer.com/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
