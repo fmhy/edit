@@ -380,7 +380,6 @@
 * [Freeject](https://www.freeject.net/)
 * [Cg_peers](https://t.me/Cg_peers)
 * [PNGTree](https://pngtree.com/)
-* [NitroGFX](https://nitrogfx.pro/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [GraphixTree](https://graphixtree.com/)
