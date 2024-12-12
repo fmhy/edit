@@ -406,6 +406,7 @@
 * ⭐ **[Strims](https://strims.in/)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Mazespin](https://mazespin.live/)** - Motorsports / Football / Cycling / [Discord](https://discord.com/invite/mazespin)
+* [CricHD](https://crichd.li/), [TotalSportek](https://totalsportek.me/) or [StreamEast](https://streameast.bz/) - Sports
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
@@ -440,7 +441,6 @@
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [Strims](https://strims.in/) - Sports
 * [BuffSports](https://buffsports.me/) - Sports
-* [CricHD](https://crichd.li/), [TotalSportek](https://totalsportek.me/) or [StreamEast](https://streameast.bz/) - Sports
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://crichdplayer.com/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
