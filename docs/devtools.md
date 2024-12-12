@@ -7,7 +7,7 @@
 # ► Dev Communities
 
 * 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
-* ⭐ **[StackOverflow](https://stackoverflow.com/)** - Developer Forum / [Frontend](https://code.whatever.social/)
+* ⭐ **[StackOverflow](https://stackoverflow.com/)** - Developer Forum
 * ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
 * [CodeProject](https://www.codeproject.com/) - Developer Forum
 * [Spiceworks Community](https://community.spiceworks.com/) - Developer Forum
@@ -142,7 +142,6 @@
 * [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
-* [Mantine](https://mantine.dev/) - Components and Templates
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Official Android Courses](https://developer.android.com/courses) - Android Training Courses
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
@@ -174,7 +173,6 @@
 * [EdgeDB](https://www.edgedb.com/) - SQL Alternative
 * [Text-to-SQL](https://datalynx.ai/text-to-sql) - AI Generated SQL Queries
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
-* [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
 
@@ -364,16 +362,13 @@
 
 * [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API
-* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV / API
 * [VidLink](https://vidlink.pro/) - Movies / TV / API
-* [moviee](https://moviee.tv/api) - Movies / TV
 * [WHVX](https://whvx.net/) - Movies / TV / Anime / API
-* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
 * [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
@@ -584,6 +579,7 @@
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [Monaspace](https://monaspace.githubnext.com/), [ProgrammingFonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
+* [CodingFont](https://www.codingfont.com/) - Compare Coding Fonts
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
 
 ***
@@ -750,6 +746,7 @@
 * ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [React Suite](https://rsuitejs.com/) or [Radix UI](https://www.radix-ui.com/) - React Components
+* [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
@@ -958,7 +955,6 @@
 
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
-* [Mantiq](https://wpmantiq.com/) - WordPress Visual Backend
 * [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
 * [faustjs](https://faustjs.org) - WordPress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)

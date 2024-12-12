@@ -65,7 +65,6 @@
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
 * [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
-* [Superheater](https://superheater.fgsfds.link/) - Fix / Patch Steam Games / [Discord](https://discord.gg/mWvKyxR4et)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) or [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Steam API Check Bypass](https://github.com/oureveryday/Steam-API-Check-Bypass) - Steam API Check Bypass
@@ -198,7 +197,6 @@
 * [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
 * [Save Game World](https://www.savegameworld.com/) - PC / PlayStation / Switch / Xbox / Wii
 * [SavegameDownload.com](https://www.savegamedownload.com/) - PC / PlayStation / Switch / Xbox / Android
-* [Save Game Files](https://www.savegamefiles.com/) - PC / PlayStation / Xbox / Wii
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC

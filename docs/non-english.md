@@ -18,8 +18,6 @@
 ## ▷ Downloading / تحميل
 
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
-* [NullNoss](https://www.nullnoss.org/) - Courses
-* [Courses4Arab](https://courses4arab.com/) - Programming Courses
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
@@ -34,15 +32,11 @@
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.ink/), [2](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
-* [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
-* [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
-* [animeblkom](https://animeblkom.net/) - Anime / Sub / 1080p
-* [okanime](https://okanime.tv/) - Anime / Sub / 1080p
+* [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
-* [anime4up](https://anime4up.cam/) - Anime / Sub / 1080p
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
@@ -95,16 +89,12 @@
 
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books / NSFW
 * [ArenaBG](https://arenabg.com/en/) - Registration Required / Movies / TV
 
 ## ▷ Streaming
 
-* [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [NovaPlay](https://play.nova.bg/) - TV / Live / Sub / Dub / 1080p
-* [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmi99](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
-* [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
 * [Filmi24](https://filmi24.com/) - Movies / Sub / Dub / 720p
 * [FilmiPlay](https://filmiplay.com/) - Movies / Sub / Dub / 720p
 * [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
@@ -142,6 +132,7 @@
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
+* [assrt](https://assrt.net/) or [zimuku](https://zimuku.org/) - Subtitles
 * [Baidu](https://www.baidu.com/) / [2](http://hk.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
 * [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
@@ -229,7 +220,6 @@
 * [zhonghuadiancang](https://www.zhonghuadiancang.com/) - Classic Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
-* [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
@@ -258,7 +248,7 @@
 * [kanmanhuala.cc/](https://www.kanmanhuala.cc/) - Danmei / Manhua
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [shuge](https://www.shuge.org/) - Rare / Ancient Books
-* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
+* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
@@ -362,7 +352,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[SeeFrench](https://www.seefrench.xyz/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/5ZYBNAp7tm)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
@@ -593,7 +582,6 @@
 ## ▷ Torrenting
 
 * ⭐ **[TamilBlasters](https://1tamilblasters.skin/)** - Movies
-* ⭐ **[1tamilmv](https://www.1tamilmv.eu/)** - Movies
 
 ## ▷ Streaming
 
@@ -856,7 +844,6 @@
 ## ▷ Reading
 
 * [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Books / Journals / Magazines / Maps / Music Sheets
-* [HF.UIO](https://www2.hf.uio.no/) - Books / Bibliographies
 
 ***
 
@@ -879,7 +866,6 @@
 * [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
-* [AIOFilm](https://aiofilm.ir/) - Movies / TV / Anime / Sub / 1080p
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
@@ -908,7 +894,6 @@
 ## ▷ Streaming / پخش  
 
 * [FarsiLand](https://farsiland.com/) - Persian Movies / TV / 1080p
-* [IMVBox](https://www.imvbox.com/fa/) - Persian Movies / TV / 1080p
 * [RadioVatani](https://www.radiovatani.com/) - Persian Movies / TV / Live / 1080p
 * [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
 * [naabmovie](https://naabmovie.ir/) - Movies / TV / Sub / 1080p
@@ -1146,7 +1131,6 @@
 * [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
 * [FilmePeAlese](https://www.filmepealese.com/) - Movies / TV / Sub / 720p
 * [Filmeonline](https://filmeonline.uno/) - TV / 720p
-* [Clicksud](https://clicksudtv.one/) - Movies / TV / Sub / 720p
 
 ## ▷ Streaming
 
@@ -1278,7 +1262,6 @@
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://oktv.domatv.net/) - Live TV
-* [myzuka](https://myzuka.club/) - Music
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:/Music/](https://vk.com/e_music) - Music
@@ -1377,7 +1360,6 @@
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p
-* [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
@@ -1698,7 +1680,6 @@
 * [FIMMOI](https://vuaphimmoi7.net/) - Movies / TV shows / Anime / Sub / Dub / 720p 
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
-* [Redphim](https://redphim.com/) - Movies / TV / Anime / Sub / Dub / 720p
 * [NguonPhim](http://nguonphimf.com/) - Movies / TV / Anime / Sub / 720p
 * [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation / Sub / 1080p
 * [HHNinja](https://hhninja4.tv/) - Chinese Animation / Sub / 1080p
@@ -1761,7 +1742,6 @@
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [Bao Tung Truyen](https://baotangtruyen20.com/) - Manga
 * [Kyoto Manga](https://kyotomanga.live/) - Manga
-* [blogtruyen](https://blogtruyenvn.com/) - Manga
 * [Dtruyen](https://dtruyen.com/) - Manga / Manhwa / Manhua
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
 * [Goctruyen](https://goctruyentranhvui.com/trang-chu) - Manga / Manhwa/ Manhua

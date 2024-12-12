@@ -263,7 +263,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 ## ▷ Linux Images
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** or [Frog](https://getfrog.app/) / [GitHub](https://github.com/TenderOwl/Frog/) - Image to Text
+* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** - Image to Text / [GitHub](https://github.com/TenderOwl/Frog/)
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App

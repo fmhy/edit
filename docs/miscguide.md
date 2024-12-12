@@ -68,7 +68,6 @@
 * [App Sales](https://www.app-sales.net/) - Free / Cheap APKs
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs
-* [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - iOS Apps
 * [AppRaven](https://appraven.net/) - iOS Apps
 * [FreeCycle](https://www.freecycle.org/) or [Freegle](https://www.ilovefreegle.org/) - People Stuff Exchange
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
@@ -531,7 +530,7 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
-* [Safe Substance](https://safesubstance.com/), [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
 ***
 
@@ -780,7 +779,7 @@
 ## ▷ Tech Jobs
 
 * 🌐 **[Awesome Interview](https://github.com/DopplerHQ/awesome-interview-questions)** or [30-sec](https://30secondsofinterviews.org/) - Tech Interview Questions Indexes
-* 🌐 **[Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships)** - Tech Internships List
+* 🌐 **[Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
 * 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
@@ -856,7 +855,7 @@
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
-* [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
+* [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
   
 
@@ -1108,7 +1107,6 @@
 * ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking
-* [Polyphasic Sleep](https://www.polyphasic.net/) - Polyphasic Sleep Guides / Community
 * [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
@@ -1373,6 +1371,7 @@
 * [elgooG](https://elgoog.im/) - Google Easter Eggs
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
+* [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History

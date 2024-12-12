@@ -80,7 +80,6 @@
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension Manager
 * [Centroly](https://centroly.com/) - Extension Manager
 * [Omni](https://github.com/alyssaxuu/omni) - Extension Manager
-* [Saka](https://saka.io/) - Extension Manager
 * [BetterStacks](https://betterstacks.com/) - Extension Manager
 * [Mission Control](https://mission-control.app/) - Extension Manager
 * [Zulu](https://tryzulu.com/) - Extension Manager
@@ -154,7 +153,7 @@
 * 🌐 **[Digital Communications Protocols](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)** - Chat Service / Protocol Comparisons
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chats
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
@@ -223,7 +222,7 @@
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine
-* [Raw Web](https://rawweb.org/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
+* [Raw Web](https://rawweb.org/) or [BlogErnity](http://www.bloggernity.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - 4chan Search
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
