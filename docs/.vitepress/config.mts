@@ -152,7 +152,7 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, [Estd 2018](https://i.ibb.co/pLVXBSh/image.png)`
+      copyright: `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>
     },
     editLink: {
       pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
