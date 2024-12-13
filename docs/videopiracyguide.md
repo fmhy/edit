@@ -585,7 +585,6 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[LightDLMovies](https://lightdl.xyz/)** - Movies / TV
 * ⭐ **[VegaMovies](https://vegamovies.st/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
