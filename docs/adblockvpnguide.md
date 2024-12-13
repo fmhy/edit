@@ -180,6 +180,7 @@
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
+* [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 

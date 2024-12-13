@@ -46,7 +46,6 @@
 * [Chat Jams](https://www.chatjams.ai/) - Playlist Generator
 * [MagicPlaylist](https://magicplaylist.co/) - Playlist Generator
 * [Vibesition](https://vibesition.jordantwells.com/) - Playlist Generator
-* [NautrualLanguage](https://www.naturallanguageplaylist.com/) - Playlist Generator
 * [Groovifi](https://groovifi.com/) - Playlist Generator
 * [spotgen](https://epsil.github.io/spotgen) - Playlist Generator
 * [Highlights2SPotify](https://highlights2spotify.com/) - Playlist Generator
@@ -67,7 +66,6 @@
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Album Availability
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats), [Your Spotify](https://github.com/Yooooomi/your_spotify) or [NewTunes](https://newtunes.xyz/) - Listening Stats
-* [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://tierify.app/) - Tier Lists
 * [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
