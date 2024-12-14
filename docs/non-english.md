@@ -34,6 +34,7 @@
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
+* [Cimaleek](https://web.cimaleek.to/) - Movies / TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
@@ -52,6 +53,8 @@
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
 * [3asq](https://3asq.org/) - Manga
+* [Azoramoon](https://azoramoon.com/) - Manga
+* [KenManga](https://ar.kenmanga.com/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 * [Almaany](https://www.almaany.com/) - Arabic Multilingual Dictionary
@@ -64,6 +67,9 @@
 * ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
 * ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
 * ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
+* [aapathshala](https://aapathshala.com/library/) - Test Practice
+* [Avro](https://avro.im/) - Bangla Typing Web Tool
+* [Python Maateen](https://python.maateen.me/) - Python Guide
 
 ## ▷ Reading / পড়া
 
@@ -100,6 +106,7 @@
 * [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
+* [Filmi7](https://filmi7.net/) - Movies / Sub / Dub 
 
 ***
 
@@ -120,6 +127,7 @@
 * [Free Chinese Fonts](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [HelloGitHub](https://hellogithub.com/) - GitHub Projects
+* [litt.ly](https://litt.ly/) - Personal Link Homepage
 * [CatoCR](https://catocr.com/) - Image to Text
 * [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
 * [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
@@ -750,6 +758,7 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Movie Archive
 * [kuukunen](https://touhou.kuukunen.net/) - Music
 * [SimulRadio](https://simulradio.info/) - Radio
+* [Kagakueizo](https://www.kagakueizo.org/) - Science Documentaries
 
 ## ▷ Reading / 読書
 
@@ -876,6 +885,7 @@
 * [Musico](https://musico.ir/) - Music / MP3
 * [GolsarMusic](https://golsarmusic.ir/) - Music / MP3
 * [Download1Music](https://download1music.ir/) - Music / MP3
+* [nghmat](https://songs.nghmat.com/) - Music / MP3
 * [Music-fa](https://music-fa.com/) - Music / MP3
 * [UpMusics](https://upmusics.com/) - Music / MP3
 * [SevilMusic](https://sevilmusic.com/) - Music / MP3
@@ -921,6 +931,7 @@
 ## ▷ Downloading / Pobieranie
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
+* [Polish Abandonware](https://polish-abandonware.pl/) - Abandonware / [Discord](https://discord.gg/TuDSpDzDsh)
 
 ## ▷ Torrenting / Torrentowanie
 
@@ -1011,6 +1022,7 @@
 * [SuperTela](https://supertela.top/) - Movies / TV / Anime / Dub / 1080p
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
 * [Topflixbrazil](https://topflixbrasil.net/) - Movies / TV / Dub / 1080p
+* [Mundofut](https://mundofut.co/) - Movies / TV / Dub / 1080p
 * [tugaflix](https://tugaflix.best) Movies / TV / Sub / 1080p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
@@ -1026,6 +1038,7 @@
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [mundofut](https://mundofut.co/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
 * [Prime Cursos](https://www.primecursos.com.br) - Courses
@@ -1134,6 +1147,7 @@
 ## ▷ Streaming
 
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV / Sub / 720p
+* [Deseneledublate](https://deseneledublate.com/) - Movies / TV / Sub / 720p
 * [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime / Sub / 720p
 * [ClickSub](https://clicksud.biz) - Movies / TV / Sub / 720p
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
@@ -1581,7 +1595,15 @@
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
 * [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk) or [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58) or [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
-* [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/) or [Glory Manga](https://glorymanga.com/) - Manga
+* [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
+* [Manga TR](https://manga-tr.com/) - Manga
+* [Mavi Manga](https://mavimanga.com/) - Manga
+* [Trwebtoon](https://trwebtoon.com/) - Manga
+* [Nirvana Manga](https://nirvanamanga.com/) - Manga
+* [Raindrop](https://www.raindropteamfan.com/) - Manga
+* [Seri Manga](https://serimangas.com/) - Manga
+* [Glory Manga](https://glorymanga.com/) - Manga
+* [uzaymanga](https://uzaymanga.com/) - Manga
 
 ***
 

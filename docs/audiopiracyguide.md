@@ -565,7 +565,7 @@
 
 ## ▷ Last.fm Tools
 
-* ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything
+* ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything / [Discord](https://discord.gg/SEDp6Zy)
 * ⭐ **[Last.fm Stats](https://lastfmstats.com/)** - In-Depth Last.fm Stats / [GitHub](https://github.com/felhag/lastfm-stats-web)
 * [Web Scrobbller](https://web-scrobbler.com/) - Scrobble Any Site
 * [ChartMyMusic](https://www.chartmymusic.com/), [TapMusic](https://www.tapmusic.net/) or [MusicCoruMap](https://musicorumapp.com/generate) - Album Collages
