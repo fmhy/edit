@@ -64,7 +64,7 @@
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
-* [Sytaso](https://sytaso.com/) -  Movies / TV / Anime / Signup Required / [Telegram](https://t.me/sytasoofficial)
+* [Sytaso](https://sytaso.com/) -  Movies / TV / Anime / Signup Required / [Discord](https://discord.gg/KYJvJujsKb) / [Telegram](https://t.me/sytasoofficial)
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
