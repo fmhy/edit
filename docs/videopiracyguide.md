@@ -22,10 +22,11 @@
 * ⭐ **[NetPlayz](https://netplayz.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
-* [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
-* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
+* [CucuFlix](https://cucuflix.xyz/), [2](https://cucuflix.pro/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
+* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [Zilla-XR](https://zilla-xr.xyz/) - Movies / TV / Anime
+* [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [Watch2Day](https://watch2day.online/), [2](https://watch2day.site/) - Movies / TV / Anime
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next
@@ -35,7 +36,6 @@
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) - Movies / TV / Anime
-* [CucuFlix](https://cucuflix.xyz/), [2](https://cucuflix.pro/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [FireFlix](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
@@ -64,7 +64,6 @@
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
-* [Sytaso](https://sytaso.com/) -  Movies / TV / Anime / Signup Required / [Discord](https://discord.gg/KYJvJujsKb) / [Telegram](https://t.me/sytasoofficial)
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV
@@ -74,6 +73,7 @@
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
+* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
@@ -591,12 +591,13 @@
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* [LightDLMovies](https://lightdl.xyz/) - Movies / TV / **[Use Adblocker](https://pastebin.com/HQvVeqF9)**
+* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
 * [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV
 * [StarsDDL](https://starsddl.me/) - Movies / TV
+* [LightDLMovies](https://lightdl.xyz/) - Movies / TV / **[Use Adblocker](https://pastebin.com/HQvVeqF9)**
 * [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / Use Adblocker / [Telegram](https://t.me/olamovies_officialv6)
 * [YassFlix](https://yassflix.live/) - TV / Anime
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV

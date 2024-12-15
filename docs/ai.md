@@ -214,6 +214,7 @@
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
 * [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
 * [ZeroEval](https://huggingface.co/spaces/allenai/ZeroEval) - Chatbot Leaderboard
+* [⁠OpenRouter](https://openrouter.ai/) - Chatbot Leaderboard
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds
 

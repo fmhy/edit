@@ -253,7 +253,7 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks

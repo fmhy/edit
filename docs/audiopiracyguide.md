@@ -109,7 +109,7 @@
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [ArtistGrid](https://artistgrid.netlify.app/) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
-* [Last.fm](https://www.last.fm/) - Browser Music
+* [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
@@ -565,7 +565,7 @@
 
 ## ▷ Last.fm Tools
 
-* ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything / [Discord](https://discord.gg/SEDp6Zy)
+* ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything / [Discord](https://discord.gg/SEDp6Zy) / [GitHub](https://github.com/elamperti/openwebscrobbler)
 * ⭐ **[Last.fm Stats](https://lastfmstats.com/)** - In-Depth Last.fm Stats / [GitHub](https://github.com/felhag/lastfm-stats-web)
 * [Web Scrobbller](https://web-scrobbler.com/) - Scrobble Any Site
 * [ChartMyMusic](https://www.chartmymusic.com/), [TapMusic](https://www.tapmusic.net/) or [MusicCoruMap](https://musicorumapp.com/generate) - Album Collages

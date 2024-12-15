@@ -9,7 +9,7 @@
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
-* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** / [Discord](https://discord.gg/KDfrTZ8) - Game Fixes & Workarounds
+* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Fixes & Workarounds / [Discord](https://discord.gg/KDfrTZ8)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)**, [2](https://hl2b.com/) - Find Average Game Lengths
@@ -685,7 +685,7 @@
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
-* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokémon Legends Gods](https://www.pokemongods.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves etc.

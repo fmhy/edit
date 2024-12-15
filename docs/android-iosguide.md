@@ -329,7 +329,6 @@
 * [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [SWAP](https://rentry.co/FMHYBase64#swap) - Create SWAP file without Root
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [ConnectBot](https://connectbot.org/) - SSH Client
 
@@ -366,7 +365,7 @@
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
-* [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) - Gesture Based Search
+* [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) or [MiCTS](https://github.com/parallelcc/MiCTS) - Gesture Based Search
 * [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Offline AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders

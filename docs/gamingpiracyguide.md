@@ -110,6 +110,7 @@
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
 * [Luanti](https://www.luanti.org/) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
+* [Locomalito](https://locomalito.com/) - Classic Game Remakes
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
@@ -146,7 +147,8 @@
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases)
+* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
@@ -166,15 +168,12 @@
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
 * [RPG Maker Games](https://rpgmaker.net/games/) - Games made via RPG Maker
-* [Locomalito](https://locomalito.com/) - Classic Game Remakes
 * [Pygame](https://www.pygame.org/tags/all) - Python Games ⁠
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
-* [YARG](https://github.com/YARC-Official/YARG ) - Rock Band Clone / [Discord](https://discord.gg/sqpu4R552r)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [Planet Casio](https://www.planet-casio.com/Fr/programmes/jeux-casio.php) or [Cemetech](https://cemetech.net/) - Calculator Games
