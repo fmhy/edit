@@ -351,6 +351,7 @@
 * [PinCase](https://pincase.xyz/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
+* [Vimego](https://www.vimego.io/) - Best vimeo video downloader
 
 ***
 
