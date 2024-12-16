@@ -822,7 +822,6 @@
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
-* [VST Torrents](https://vsttorrentz.net/) - Torrent
 * [PluginTorrent](https://plugintorrent.com/) - Torrent
 * [AudioTools](https://audiotools.in/) - Torrent / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index
