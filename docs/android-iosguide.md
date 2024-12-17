@@ -1227,7 +1227,6 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Anime
 
-* [Ryu](https://github.com/cranci1/Ryu) / [Discord](https://discord.com/invite/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) - MyAnimeList Client

@@ -21,7 +21,7 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[Photoshop](https://w14.monkrus.ws/)** - Use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) + [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)
+* ⭐ **[m0nkrus](https://monkrus.dvuzu.com/)** / [2](https://vk.com/m0nkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
 * ⭐ **[GIMP](https://www.gimp.org/)**
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
@@ -753,6 +753,7 @@
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
 * [vgy](https://vgy.me/)
+* [⁠PixVid](https://pixvid.org/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
