@@ -237,6 +237,7 @@
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
+* [Tip Calculator](https://tip-calculator.co/) - Calculate tips while traveling
 
 ***
 
