@@ -119,7 +119,8 @@
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Signup
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews
 * [Devv](https://devv.ai/) - Coding Search Engine / No Signup
-* [Telosys](https://www.telosys.org/) - Lightweight Code Generator / No Signup
+* [Telosys](https://www.telosys.org/) - Code Generator / No Signup
+* [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Signup / [GitHub](https://github.com/Nutlope/llamacoder)
 * [ImageCook](https://imgcook.com) - Coding AI / No Signup / [GitHub](https://github.com/imgcook/imgcook)
 * [SuperMaven](https://supermaven.com/) - Coding AI / No Signup / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI
