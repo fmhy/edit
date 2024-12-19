@@ -264,6 +264,7 @@
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
+* [Scribbl](https://www.scribbl.co) - AI Meeting Notes
 
 ***
 
