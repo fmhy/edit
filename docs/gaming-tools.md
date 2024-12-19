@@ -817,6 +817,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 * [FastFlags Collection](https://github.com/GoingCrazyDude/fastflags-collection/) - Roblox FastFlags Collection
+* [Blox Fruits Calculator](https://bloxfruitscalculator.org/) - The Roblux Game "Blox Fruits" inventory values calculator tool.
 
 ***
 
