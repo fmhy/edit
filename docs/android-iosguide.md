@@ -45,7 +45,7 @@
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKMonk](https://www.apkmonk.com/)
 * [APKToy](https://www.apktoy.com/)
-* [Mix Mods](https://t.me/Mix_Mods) - Telegram
+* [Astro Android](https://t.me/AstroAndroid) - Telegram
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
@@ -72,6 +72,7 @@
 
 ## ▷ Telegram Channels
 
+* [MixRoot Mods](https://t.me/Mixrootmods)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
@@ -82,6 +83,7 @@
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [AyraProject](https://t.me/AyraProject)
 * [MustHave](https://t.me/Alexey070315)
+* [AppKaMods](https://t.me/AppKaMods)
 * [Modules Repository](https://t.me/modulesrepo)
 * [Satriyaid](https://t.me/s/satriyaid) - Modded Editing Apps
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
@@ -663,11 +665,12 @@ https://github.com/Akylas/alpimaps
 
 # ► Android Torrenting
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://redd.it/ssy8vv) if it allows.
 
 ***
 
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client
+* [Tixati](https://tixati.com/android) - Torrent Client
 * [tTorrent](https://ttorrent.org/) - Torrent Client
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Torrent Client
 * [BiglyBT](https://android.biglybt.com/) - Torrent Client
@@ -932,7 +935,6 @@ https://github.com/Akylas/alpimaps
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [AnimeChicken](https://animechicken.app/)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
-* [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Anime Download App
 * [Meoko](https://play.google.com/store/apps/details?id=com.app.meoko) - Anime Torrent Search
 * [AniVu](https://github.com/SkyD666/AniVu) - Anime Torrent Client / Streaming
 * [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers

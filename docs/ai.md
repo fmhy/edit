@@ -21,7 +21,7 @@
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [ChatGPT Plus](https://chatgptplus.cn/) or [SharedChat](https://sharedchat.fun/) / [2](https://sharedchat.cn/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
-* [Kelaode](https://kelaode.ai/) or [Share Claude](https://share.claude.asia/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
+* [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
@@ -38,6 +38,7 @@
 * [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
+* [Grok](https://x.ai/grok) - Twitters Chatbot
 * [DeepSeek](https://chat.deepseek.com/) - R1-Lite-Preview / 50 Daily
 * [Autonomous](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
@@ -216,6 +217,7 @@
 * [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
 * [ZeroEval](https://huggingface.co/spaces/allenai/ZeroEval) - Chatbot Leaderboard
 * [⁠OpenRouter](https://openrouter.ai/) - Chatbot Leaderboard
+* [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds
 
@@ -264,6 +266,7 @@
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
+* ⭐ **[Grok](https://x.ai/grok)** / Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily

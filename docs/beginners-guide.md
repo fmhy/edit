@@ -64,7 +64,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 ### Gaming
 
 * **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
 * **Track / Discover: [Glitchwave](https://glitchwave.com/)**
 
@@ -111,7 +111,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/#Method-1---PowerShell)**.
 
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-* **Adobe Piracy: [M0nkrus](https://monkrus.dvuzu.com/)), [2](https://vk.com/m0nkrus) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/) / [Search Engine](https://monkrus.dvuzu.com/)**
+* **Adobe Piracy: [M0nkrus](https://monkrus.dvuzu.com/), [2](https://vk.com/m0nkrus) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/) / [Search Engine](https://monkrus.dvuzu.com/)**
 
 !!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 

@@ -503,39 +503,43 @@
 
 ## ▷ Stock Images
 
+* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see sites TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+
+***
+
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [PxHere](https://pxhere.com/) - Stock Photos
-* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos
-* [themeisle](https://mystock.themeisle.com/) - Stock Photos
-* [Unsplash](https://unsplash.com/) - Stock Photos
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
+* [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
+* [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
+* [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free
+* [themeisle](https://mystock.themeisle.com/) - Stock Photos / CC0
+* [PxHere](https://pxhere.com/) - Stock Photos / CC0
+* [focastock](https://focastock.com/) - Stock Photos / CC0
+* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos / CC0
+* [freenaturestock](https://freenaturestock.com/) - Nature Photos / CC0
 * [burst](https://burst.shopify.com/) - Stock Photos
 * [Hippopx](https://www.hippopx.com/) - Stock Photos
 * [BarnImages](https://barnimages.com/) - Stock Photos
-* [Pixnio](https://pixnio.com/) - Stock Photos
 * [Pixabay](https://pixabay.com/) - Stock Photos
-* [focastock](https://focastock.com/) - Stock Photos
-* [Pikwizard](https://pikwizard.com/) - Stock Photos
 * [Lummi](https://www.lummi.ai/) - AI Generated Stock Photos
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
-* [freenaturestock](https://freenaturestock.com/) - Nature Photos
 * [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
 * [PhyloPic](https://www.phylopic.org/) - Animal Silhouettes
-* [diverseui](https://diverseui.com/) - Human Face Photos
-* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
 * [iwaria](https://iwaria.com/) - African Photos
-* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
-* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
+* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos / Public Domain
+* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos / Noncommercial License
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
 * [FreePik Downloader](https://freepik-downloader.beatsnoop.com/) or [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloaders
 * [Flickr Commons](https://www.flickr.com/commons) - Public Photo Archives / [Downloader](https://github.com/beaufour/flickr-download) 
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
 * [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
 * [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
-* [VectorPortal](https://www.vectorportal.com/) - Vector Collections
+* [VectorPortal](https://www.vectorportal.com/) - Vector Collections / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
 
 ***

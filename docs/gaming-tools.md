@@ -388,6 +388,7 @@
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://flagbrew.org/) - Switch Homebrew / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
+* [Switch Army Knife](https://www.gamebrew.org/wiki/Switch_Army_Knife) - Switch File Converter
 * [SysDVR](https://github.com/exelix11/SysDVR) - Switch Game Capture
 * [sys-con](https://github.com/cathery/sys-con) - Use Any USB Controller on Switch
 * [MissionControl](https://github.com/ndeadly/MissionControl) - Use Any Bluetooth Controller on Switch
@@ -481,7 +482,7 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [Github](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [Github](https://github.com/SkyblockClient)
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
-* [MC Icons](https://mcicons.pages.dev/) - Minecraft Icon Search / [GitHub](https://github.com/kuronekony4n/mcicons)
+* [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive

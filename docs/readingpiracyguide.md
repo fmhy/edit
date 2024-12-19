@@ -103,6 +103,7 @@
 * [Avalon Library](https://avalonlibrary.net/) - Books
 * [Gray City](https://graycity.net/) - Books
 * [Litgu.ru](https://litgu.ru/) - Books
+* [Elegant Solutions](http://esspc-ebooks.com/ ) - Books
 * [BookFrom.net](https://www.bookfrom.net/) - Books
 * [FreeEditorial](https://www.freeditorial.com/) - Books
 * [Zoboko](https://zoboko.com/) - Books
@@ -388,6 +389,15 @@
 * [MangaBat](https://m.mangabat.com/)
 * [Mangahasu](https://mangahasu.se/)
 * [mangapill](https://mangapill.com/)
+* [Webtoon](https://www.webtoons.com/)
+* [Toonily](https://toonily.com/)
+* [Like Manga](https://likemanga.io/)
+* [Wuxia World](https://wuxiaworld.site/)
+* [Zero Scans](https://zscans.com/)
+* [Manhuafast](https://manhuafast.com/)
+* [MangaFlame](https://mangaflame.org/) / [Discord](https://discord.gg/jrsuS34YXF)
+* [Kaliscan](https://kaliscan.io/)
+* [Manhwatop](https://manhwatop.com/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
@@ -397,25 +407,6 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
-
-***
-
-## ▷ Manhua / Manhwa
-
-* **Note** - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
-
-***
-
-* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) / [Discord](https://discord.gg/comick)
-* ⭐ **[BATO.TO](https://bato.to/)** / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
-* ⭐ **[Webtoon](https://www.webtoons.com/)**
-* ⭐ **[Toonily](https://toonily.com/)**
-* [Like Manga](https://likemanga.io/)
-* [Wuxia World](https://wuxiaworld.site/)
-* [Zero Scans](https://zscans.com/)
-* [Manhuafast](https://manhuafast.com/)
-* [Kaliscan](https://kaliscan.io/)
-* [Manhwatop](https://manhwatop.com/)
 
 ***
 
@@ -452,7 +443,7 @@
 * [FreeWebNovel](https://freewebnovel.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels) / Allows Downloads
 * [NovelNext](https://novelnext.com/)
-* [NovelBuddy](https://novelbuddy.io/)
+* [NovelBuddy](https://novelbuddy.io/), [2](https://novelbuddy.com/)
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Readwn](https://www.readwn.com/)
 * [NovelCool](https://www.novelcool.com/)
@@ -651,7 +642,7 @@
 
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making a new account
 * ⭐ **[Best-Books.dev](https://www.best-books.dev/)** - Developer Book Recommendations
-* ⭐ **[ScanLibs](https://scanlibs.com/)** or [CoderProg](https://coderprog.com/)
+* ⭐ **[ScanLibs](https://scanlibs.com/)**, [2](https://forcoder.net/), [3](https://coderprog.com/)
 * ⭐ **[EbookFoundation Programming Books](https://ebookfoundation.github.io/free-programming-books/)**
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
@@ -805,6 +796,7 @@
 * ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
+* [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki

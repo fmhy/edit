@@ -66,7 +66,7 @@
 * [Shar.ec](https://shar.ec/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
 * [ScreenREC](https://screen-rec.vercel.app/)
-* [KazCap](https://recorder.kazcap.com/)
+* [KazCap](https://recorder.kuan.sh/)
 * [RecordScreen](https://recordscreen.io/)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
 * [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
@@ -206,7 +206,7 @@
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
 * [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
-* [Metastream](https://getmetastream.com/) - Online Extension
+* [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://twitter.com/getmetastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player
 * [VideoTogether](https://2gether.video/en-us/) - App
