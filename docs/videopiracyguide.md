@@ -571,7 +571,8 @@
 
 # ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
 
-***
+* ⭐ **[CineHD]([https://www.cine](https://cinehd.xyz/download/index.html))** - Movies / TV / Anime
+
 
 # ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
 
