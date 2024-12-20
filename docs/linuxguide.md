@@ -483,7 +483,7 @@ Linux Gaming Guide
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
 * [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [eza](https://eza.rocks/) - Modern ls replacement
-* [explainshell.com](https://explainshell.com/) or [shell.how](https://www.shell.how/) - Match Command-Line Arguments to Help Text
+* [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
 * [Zellij](https://zellij.dev/) - Terminal Workspace

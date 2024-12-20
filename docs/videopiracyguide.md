@@ -25,11 +25,12 @@
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) - Movies / TV / Anime
 * [CucuFlix](https://cucuflix.xyz/), [2](https://cucuflix.pro/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
+* [Hexa](https://hexa.watch/) - Movies / TV / Anime / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [Zilla-XR](https://zilla-xr.xyz/) - Movies / TV / Anime
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
+* [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
-* [Hexa](https://hexa.watch/) - Movies / TV / Anime / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * [Watch2Day](https://watch2day.online/), [2](https://watch2day.site/) - Movies / TV / Anime
 * [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
@@ -62,7 +63,6 @@
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime
 * [VidCloud](https://vidcloud1.com/) - Movies
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
-* [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
@@ -74,7 +74,7 @@
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
-* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime
+* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
@@ -495,7 +495,6 @@
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
-* [WatchWrestling24](https://watchwrestling24.net/) - MMA / Wrestling Replays / 720p / Use Adblock
 * [Hula8](https://www.hula8.net/) - MMA Replays
 * [Bellator](https://bellator.com/) - MMA Replays
 * [MMACore](https://www.mma-core.com) - MMA Replays
@@ -587,7 +586,7 @@
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime
+* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
 * [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
