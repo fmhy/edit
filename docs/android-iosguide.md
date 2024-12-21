@@ -824,7 +824,7 @@ https://github.com/Akylas/alpimaps
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
-* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player=
+* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
 
