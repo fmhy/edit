@@ -16,7 +16,7 @@ For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
-!!!note Using several ad blockers, like uBO and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
@@ -26,7 +26,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 We recommend  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium-based. 
 
-For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** or **[Mull](https://gitlab.com/divested-mobile/mull-fenix)** for privacy.
+For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Mull](https://gitlab.com/divested-mobile/mull-fenix)** or **[Cromite](https://github.com/uazo/cromite)** for privacy.
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
@@ -111,7 +111,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/#Method-1---PowerShell)**.
 
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-* **Adobe Piracy: [M0nkrus](https://monkrus.dvuzu.com/), [2](https://vk.com/m0nkrus) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/) / [Search Engine](https://monkrus.dvuzu.com/)**
+* **Adobe Piracy: [M0nkrus](https://monkrus.dvuzu.com/), [2](https://vk.com/m0nkrus) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
 
 !!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 
@@ -125,7 +125,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
 * **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
-* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://guides.viren070.me/stremio), [2](https://rentry.co/bye-sudo)**
+* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://www.stremio-addons.com/) / [Guide](https://guides.viren070.me/stremio), [2](https://rentry.co/bye-sudo)**
 
 ***
 
@@ -142,7 +142,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ### Useful Links
 
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
+* **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode base64 links
 * **[FMHY Website](https://fmhy.net/)** - Our website with many more sites / tools
 

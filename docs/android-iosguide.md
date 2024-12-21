@@ -824,7 +824,7 @@ https://github.com/Akylas/alpimaps
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
-* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
+* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player=
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
 
@@ -1128,6 +1128,7 @@ https://github.com/Akylas/alpimaps
 * [Element](https://apps.apple.com/app/id1083446067) or [FluffyChat](https://apps.apple.com/app/id1551469600) - Matrix Clients
 * [Wickr](https://apps.apple.com/app/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls
 * [ProtonMail](https://apps.apple.com/app/id979659905) or [Tuta](https://tuta.com/) - Encrypted Emailing Service
+* [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) - Proxy App
 
 ***
 

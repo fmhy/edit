@@ -793,6 +793,7 @@
 
 ## NextChat Instances
 
+* https://restless-dew-17e3.safineymah.workers.dev/ - o1-preview/4o/gemini 1.5
 * https://ai.yyr1201.fun/ - gpt-3.5 turbo
 * https://aii.tzwlxh.com/ - gpt-3.5 turbo / gpt-4o
 * https://b.smallmoon.net/ - gpt-3.5 turbo / gemini 1.5 pro / gemini 1.5 flash
@@ -1006,7 +1007,7 @@
 * ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
 * [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 
-[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
+[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [WallpaperEngineWorkshopDownloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
 
 ***
 
