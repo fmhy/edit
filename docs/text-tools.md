@@ -407,6 +407,7 @@
 * [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
 * [rNote](https://rnote.flxzt.net/) - Annotation Tool / [GitHub](https://github.com/flxzt/rnote)
 * [MonsterWriter](https://www.monsterwriter.app/) - Thesis Writing / Note-Taking
+* [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Writing AI Tools Suite
 
 ***
 
