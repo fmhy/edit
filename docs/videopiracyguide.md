@@ -496,7 +496,6 @@
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
-* [Hula8](https://www.hula8.net/) - MMA Replays
 * [Bellator](https://bellator.com/) - MMA Replays
 * [MMACore](https://www.mma-core.com) - MMA Replays
 * [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
@@ -755,7 +754,6 @@
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Clones](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / [Note](https://pastebin.com/00a1dvAk)
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
-* [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
 * [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all) or [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Torrent Site Results on IMDb
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb

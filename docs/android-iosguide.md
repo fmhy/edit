@@ -94,7 +94,7 @@
 
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk) / [Telegram](https://t.me/lawnchairci)
 * ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher / [Telegram](https://t.me/niagara_news)
-* ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher / [Unlock](https://rentry.co/fmhybase64#smartlauncher) / [Telegram](https://t.me/smartlauncher)
+* ⭐ **[SmartLauncher](https://rentry.co/fmhybase64#smartlauncher)**, [2](https://www.smartlauncher.net/) - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
 * [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Desktop App Launcher / [GitHub](https://github.com/axel358/smartdock)
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
@@ -981,10 +981,11 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Orion](https://kagi.com/orion/)** - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * ⭐ **[Bitwarden](https://apps.apple.com/app/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
+* ⭐ **[IRuin](https://iriun.com/)** or [Reincubate Camo](https://reincubate.com/camo/) - Use iOS Device as Webcam
 * [Gear4](https://gear4.app/) - Browser with Userscript Support
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Das Image](https://apps.apple.com/app/id1464079804), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
-* [wrtn](https://apps.apple.com/app/id6448556170), [ChatGPT](https://apps.apple.com/app/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
+* [wrtn](https://apps.apple.com/app/id6448556170), [ChatGPT](https://apps.apple.com/app/id6448311069) or [KAI.](https://apps.apple.com/app/id6448476817) - ChatGPT Apps
 * [Santander](https://github.com/NSAntoine/Santander) - File Managers
 * [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
 * [iZip](https://apps.apple.com/app/id413971331) - File Archiver
@@ -1010,7 +1011,6 @@ https://github.com/Akylas/alpimaps
 * [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/app/id1487658334) - YouTube Downloaders
 * [Keynote](https://apps.apple.com/app/id361285480) - Make Presentations
 * [GlobeConvert](https://apps.apple.com/app/id334851202) - Currency / Unit Converter
-* [IRuin](https://iriun.com/) or [Reincubate Camo](https://reincubate.com/camo/) - Use iOS Device as Webcam
 * [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation App
 * [Fiery Feeds](https://apps.apple.com/app/id1158763303), [Feeeed](https://apps.apple.com/app/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/app/id1480640210) - RSS Reader
 * [SlimeKT](https://kasem-sm.github.io/SlimeKT) - Article Aggregator / [GitHub](https://github.com/kasem-sm/SlimeKT)

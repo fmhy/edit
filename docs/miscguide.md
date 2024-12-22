@@ -564,7 +564,7 @@
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[/u/KNightNox Diagram](https://imgur.com/gEfyf0q)**, [2](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg) - Zoomable Exercise Diagram
 * [Muscleandstrength](https://muscleandstrength.com/), [Workout.lol](https://workout.lol/), [DAREBEE](https://darebee.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
-* [Hevy](https://www.hevyapp.com/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
+* [Hevy](https://www.hevyapp.com/), [Boostcamp](https://www.boostcamp.app/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
@@ -1105,7 +1105,7 @@
 
 * 🌐 **[ProductivePrivacy](https://productiveprivacy.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-* ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
+* ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tracker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking
 * [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community

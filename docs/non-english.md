@@ -1559,7 +1559,6 @@
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
 * [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
-* [Monoschinos](https://monoschinos2.com/) - Anime / Sub / Dub
 * [JKAnime](https://jkanime.net/) - Anime / Sub
 * [TioAnime](https://tioanime.com/) - Anime / Sub
 * [HenaoJara](https://henaojara.com/) - Anime / Sub
