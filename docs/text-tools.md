@@ -118,6 +118,7 @@
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
+* [Voice Command](https://myextension.store/voice-command/) - VOICE COMMANDS and VOICE TYPING anywhere on the web
 
 ***
 
