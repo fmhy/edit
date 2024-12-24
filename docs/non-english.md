@@ -97,6 +97,12 @@
 
 ***
 
+## ▷ Streaming
+
+* [BanglaFlix](https://banglaflix.com.bd/ ) - Movies / TV
+
+***
+
 # ► Bulgarian / Български
 
 * [Subsunacs](https://subsunacs.net/), [YavkA](https://yavka.net/) or [subs.sab.bz](http://subs.sab.bz/) - Subtitles
@@ -265,6 +271,7 @@
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
+* [kanunu8](https://www.kanunu8.com/) - Light-Novels 
 * [hetushu](https://hetushu.com/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
@@ -337,6 +344,7 @@
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
+* [Ceskatelevize]( https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 
 ***
 
@@ -703,7 +711,6 @@
 # ► Indonesian / Bahasa Indonesia
 
 * [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
-* [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
 
 ## ▷ Downloading / Mengunduh
 
@@ -722,6 +729,9 @@
 * [Kuramanime](https://kuramanime.boo/) - Anime / Sub / 720p
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
 * [Lesics](https://youtube.com/@LesicsIndo) - Sabins Civil Engineering
+* [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
+* [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
+
 
 ## ▷ Reading / Membaca
 
@@ -841,8 +851,10 @@
 * [Rawkuma](https://rawkuma.com/) - Manga
 * [KL](https://klz9.com/idx) - Manga
 * [A-zmanga](https://www.a-zmanga.net/) - Manga
+* [FireManga](https://www.firemanga.com/) - Manga
 * [AsianMediaBlog Manga](https://asiamediablog.com/media/comic/manga/) - Manga
 * [Comic77.com](https://comic77.com/) - Manga
+* [MangaSuika](https://www.mangasuika.com/ ) - Manga
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [spoilerplus](https://spoilerplus.tv>) - Manga

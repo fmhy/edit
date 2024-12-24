@@ -497,6 +497,7 @@
 * [WatchProWrestling](https://watchprowrestlings.org/) - MMA / Wrestling Replays
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
+* [123Wrestling](https://123wrestling.com/) - Wrestling Replays
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
 * [Bellator](https://bellator.com/) - MMA Replays
 * [MMACore](https://www.mma-core.com) - MMA Replays
@@ -593,7 +594,6 @@
 * [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV
-* [StarsDDL](https://starsddl.me/) - Movies / TV
 * [LightDLMovies](https://lightdl.xyz/) - Movies / TV / **[Use Adblocker](https://pastebin.com/HQvVeqF9)**
 * [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / Use Adblocker / [Telegram](https://t.me/olamovies_officialv6)
 * [YassFlix](https://yassflix.live/) - TV / Anime
@@ -601,7 +601,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV
 * [UHDMovies](https://uhdmovies.dad/) - Movies / 4K
-* [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [MoviPlus](https://moviplus.net/) - Movies / TV
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
