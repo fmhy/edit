@@ -76,7 +76,7 @@
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
-* [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
+* [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
 * [Photo Magic AI](http://photomagicai.com/) - Image Upscaling

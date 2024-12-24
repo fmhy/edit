@@ -555,7 +555,7 @@ Linux Gaming Guide
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
 * [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
-* [Hot](https://github.com/macmade/) - CPU Monitor
+* [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers

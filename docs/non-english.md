@@ -103,6 +103,7 @@
 
 ## ▷ Torrenting
 
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books
 * [ArenaBG](https://arenabg.com/en/) - Registration Required / Movies / TV
 
 ## ▷ Streaming
@@ -756,7 +757,8 @@
 * [Altadefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [StreamingCommunity](https://streamingcommunity.computer/ ) - Movies / TV / Dub / 720p
+* [StreamingCommunity](https://streamingcommunity.computer/) - Movies / TV / Dub / 720p
+* [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
@@ -1657,8 +1659,8 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.sh/)**, [2](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [FilmperDesi](https://filmperdesi.net/) - Movies / TV / Sub / Dub / 1080p

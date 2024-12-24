@@ -155,7 +155,7 @@
 * [based.cooking](https://based.cooking/) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
-* [Yummly](https://www.yummly.com/) - Recipe Search
+* [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
 * [MyFridgeHome](https://myfridgefood.com/) - Home Ingredient Recipe Search
 * [Recipe Site List](https://pastebin.com/f1wAjWEB) - List of Recipe Sites
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
@@ -782,8 +782,8 @@
 * 🌐 **[Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
 * 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
-* ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
-* ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)**
+* ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
+* ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
@@ -1187,7 +1187,7 @@
 
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
-* ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7__meme_tools)**
+* ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_meme_tools))**
 * ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
@@ -1337,6 +1337,7 @@
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
 * [Fractal Sound Explorer](https://codeparade.itch.io/fractal-sound-explorer) - Create Sounds via Fractals
 * [Corruption Loops](https://corruptionloops.alexbainter.com/) - Generative Unique Ambient Music
+* [Abundant Music](https://pernyblom.github.io/abundant-music/) - Procedural Music Editor
 * [typedrummer](http://typedrummer.com/) - Drum by Typing
 * [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics

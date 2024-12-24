@@ -367,6 +367,7 @@
 * [LiveHDTV](https://www.livehdtv.com/) - TV
 * [IPTV Play](https://iptvplay.stream/en/live-tv) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
+* [Cubik TV](https://cubiktv.com/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
@@ -443,8 +444,10 @@
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://crichdplayer.com/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [NBABite](https://index.nbabite.com/) - Basketball
 * [NFLHunter](https://nflhunter.com/) - American Football
 * [NFLMonster](https://nflmonster.com/) - American Football
+* [NFLBite](https://reddit1.nflbite.com/) - American Football
 * [MLB66](https://mlb66.ir/) - Baseball
 * [MLBshows](https://mlbshow.com/) - Baseball
 * [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
@@ -493,6 +496,7 @@
 * [Full Match](https://fullmatch.info/) - Football Replays
 * [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
+* [WatchProWrestling](https://watchprowrestlings.org/) - MMA / Wrestling Replays
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays

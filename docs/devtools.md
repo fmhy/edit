@@ -1075,7 +1075,7 @@
 
 ## ▷ DNS Tools
 
-* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
+* ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_dns_resolvers)**
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
@@ -1109,7 +1109,8 @@
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
 * [Tailscale](https://tailscale.com/) - Secure Network VPN
-* [BadSSL](https://badssl.com/) - Test cClients Against Bad SSL Configs
+* [SSLLabs](https://www.ssllabs.com/) - SSL Testing
+* [BadSSL](https://badssl.com/) - Test Clients Against Bad SSL Configs
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
 * [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates

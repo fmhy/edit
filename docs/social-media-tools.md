@@ -41,6 +41,7 @@
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
 * [Toolscord](https://toolscord.com/) or [Discord Avatar](https://discord-avatar.com/) - Download Discord Avatars
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
+* [Restorio](https://restorio.net/), [Xenon](https://xenon.bot/) or [Restorecord](https://restorecord.com/) - Backup Discord Servers
 * [Discrub](https://github.com/prathercc/discrub-ext) - Message Manipulation / Export Tool
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub

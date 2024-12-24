@@ -377,7 +377,7 @@
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [BATO.TO](https://bato.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
+* [BATO.TO](https://fto.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * [MangaReader](https://mangareader.to/) / [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)

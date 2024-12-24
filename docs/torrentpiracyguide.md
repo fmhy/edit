@@ -39,7 +39,6 @@
 
 * ⭐ **[BTDigg](https://btdig.com/)** / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[Knaben](https://knaben.eu/)**
-* [Torrent Finder](https://torrent-finder.com/)
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentCORE](https://torrentcore.xyz/)
@@ -118,6 +117,7 @@
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [/r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
+* [Seedbox Guide](https://seedboxgui.de/seedbox/) - Seedbox Comparisons
 
 ***
 

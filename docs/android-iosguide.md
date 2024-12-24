@@ -72,7 +72,6 @@
 
 ## ▷ Telegram Channels
 
-* [MixRoot Mods](https://t.me/Mixrootmods)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
@@ -136,6 +135,7 @@
 
 ## ▷ ReVanced Tools
 
+* [ReVanced Mega](https://xdaforums.com/t/app-guides-unofficial-revanced-megathread.4523967/) - ReVanced Resources / Megathread
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * ⭐ **[ReVanced Auto-Update](https://rentry.co/revanced-auto-update)** - Update ReVanced Apps Automatically
@@ -548,7 +548,7 @@
 
 ## ▷ Productivity / Calendars
 
-* ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
+* ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
 * ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)**, [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle), [Clock](https://github.com/BlackyHawky/Clock), [Clockology](https://rentry.co/FMHYBase64#clockology), [Chrono](https://github.com/vicolo-dev/chrono), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
@@ -826,7 +826,7 @@ https://github.com/Akylas/alpimaps
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
-* [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
+* [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Music Player
 
 ***
 
@@ -999,6 +999,7 @@ https://github.com/Akylas/alpimaps
 * [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
 * [Enmity](https://github.com/enmity-mod/enmity) / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
 * [Frosty](https://www.frostyapp.io/) - Twitch Frontend / [GitHub](https://github.com/tommyxchow/frosty)
+* [⁠Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
