@@ -54,7 +54,7 @@
 * [iDope](https://idope.se/)
 * [BT4G](https://bt4gprx.com/)
 * [snowfl](https://snowfl.com/)
-* [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
+* [Torlock](https://www.torlock.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
