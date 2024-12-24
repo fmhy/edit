@@ -23,7 +23,8 @@
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
-* [VidClue](https://vidclue.com/) - Short Form Video Inspiration 
+* [VidClue](https://vidclue.com/) - Short Form Video Inspiration
+* [Make It Quick](https://makeitquick.ai/) - Create instant AI videos from just a few sentences
 
 ***
 
