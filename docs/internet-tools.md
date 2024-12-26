@@ -84,7 +84,7 @@
 * [Mission Control](https://mission-control.app/) - Extension Manager
 * [Zulu](https://tryzulu.com/) - Extension Manager
 * [GGather](https://web.ggather.com/) - Extension Manager
-* [linkwarden](https://github.com/linkwarden/linkwarden), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://hoarder.app/), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
 * [SuperMemory](https://supermemory.ai/) - AI Bookmark App
 * [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
