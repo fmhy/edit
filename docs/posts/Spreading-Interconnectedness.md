@@ -39,4 +39,4 @@ Further quotes on this subject can be found [here](https://rentry.org/oneness).
 
 ***
 
-**TLDR** - I love you guys. I hope this project has had a positive effect in your lives.
+**TLDR** - I love you guys. I hope this project has had a positive affect on your lives.
