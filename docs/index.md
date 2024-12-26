@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: December Updates ❄️
-    link: /posts/dec-2024
+    title: Interconnectedness 🤍
+    link: /posts/Spreading Interconnectedness 🤍
   image:
     src: /test.png
     alt: FMHY Icon
