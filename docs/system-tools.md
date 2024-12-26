@@ -440,6 +440,7 @@
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[Windows Wall Packs](https://rentry.co/fmhybase64#windows-wallpapers)**, [WallpaperHub](https://www.wallpaperhub.app/) or [WindowsWallpaper](https://windowswallpaper.miraheze.org/wiki/Main_Page) - Windows Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
+* ⭐ **[Wallpaper.gg](https://wallpaper.gg)** - Mobile Wallpapers with QR code
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers 
 * [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers 
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
