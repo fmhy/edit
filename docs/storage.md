@@ -1201,7 +1201,8 @@
 
 ## WordPress Themes
 
-[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [Mega Drive](https://rentry.co/FMHYBase64#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
+
+[gpldl](https://gpldl.com/),(https://a2znsc.com/) [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [Mega Drive](https://rentry.co/FMHYBase64#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
 
 ***
 
