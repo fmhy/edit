@@ -30,8 +30,9 @@
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
-* [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt)
+* [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Docs](https://streamfr-bbjy.onrender.com/docs) / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
+* [VidBox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next
 * [Watch2Day](https://watch2day.online/), [2](https://watch2day.site/) - Movies / TV / Anime
 * [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/F9pAkJGNHQ)
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
