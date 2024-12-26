@@ -381,6 +381,7 @@
 * [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Signup
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
+* [MMAudio](https://hkchengrex.com/MMAudio/) / [GitHub](https://github.com/hkchengrex/MMAudio) / [HFDemo](https://huggingface.co/spaces/hkchengrex/MMAudio) - Generates synchronized audio given video and/or text inputs
 
 ***
 
