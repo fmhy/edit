@@ -1,5 +1,5 @@
 ---
-title: Spreading Interconnectedness 🤍.md
+title: Spreading Interconnectedness 🤍
 description: Interconnectedness
 date: 2024-12-25
 next: false
