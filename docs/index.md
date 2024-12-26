@@ -8,7 +8,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: Interconnectedness 🤍
-    link: /posts/Spreading Interconnectedness 🤍
+    link: /posts/Spreading-Interconnectedness
   image:
     src: /test.png
     alt: FMHY Icon
