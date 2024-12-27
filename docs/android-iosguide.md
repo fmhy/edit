@@ -1107,7 +1107,7 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** or [Adguard](https://adguard.com/en/adguard-ios/overview.html) - Adblocker
-* [AdGuard Remote](https://apps.apple.com/app/id1543143740)
+* [AdGuard Home Remote](https://apps.apple.com/app/id1543143740)
 * [1Blocker](https://1blocker.com/) - Adblocker
 * [Apollo](https://apps.apple.com/app/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
