@@ -585,34 +585,36 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[VegaMovies](https://vegamovies.st/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[VegaMovies](https://vegamovies.is/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
+* [SkyMovies](https://skymovieshd.toys/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
-* [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovie4k](https://katworld.net/?type=Katmovie4k) - Movies / TV / 4K
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
-* [StagaTV](https://www5.stagatv.com/) - Movies / TV
+* [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [LightDLMovies](https://lightdl.xyz/) - Movies / TV / **[Use Adblocker](https://pastebin.com/HQvVeqF9)**
-* [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / Use Adblocker / [Telegram](https://t.me/olamovies_officialv6)
-* [YassFlix](https://yassflix.live/) - TV / Anime
+* [OlaMovies](https://main.ol-am.top/) - Movies / TV / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
+* [YassFlix](https://yassflix.net/) - TV / Anime
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV
-* [UHDMovies](https://uhdmovies.dad/) - Movies / 4K
+* [UHDMovies](https://modlist.in/?type=uhdmovies) - Movies / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [MoviPlus](https://moviplus.net/) - Movies / TV
+* [HDHub4u](https://hdhublist.com/?re=hollywood) - Movies / TV / 4k / [Telegram](https://hdhublist.com/?re=telegram)
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
-* [Full4Movies](https://www.full4movies.help/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [Full4Movies](https://www.full4movies.cool/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [Free Movies](https://free-movies.to/) - Movies / TV
 * [SomosMovies](https://somosmovies.com/) - Movies
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
 * [SeriesVault](https://seriesvault.win/) - TV / Anime
 * [FilmFans](https://filmfans.org/) - Movies / 4K
-* [WorldFree4u](https://worldfree4u.pm/) - Movies
-* [SSR Movies](https://ssrmovies.meme/) - Movies / TV 
+* [WorldFree4u](https://worldfree4u.pet/) - Movies
+* [SSR Movies](https://ssrmovies.com/) - Movies / TV / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
@@ -620,13 +622,13 @@
 * [ShareBB](https://sharebb.me/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [SD Toons](https://sdtoons.in) - Movies / TV / Anime
-* [PrivateMovieZ](https://privatemoviez.mom/) - Movies / TV
+* [PrivateMovieZ](https://privatemoviez.cam/) - Movies / TV
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
 * [⁠Bollywood.eu](https://bollywood.eu.org/) - Movies / Telegram Required
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/), [2](https://fzmovies.net/) - Movies / 720p
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
-* [TV Shows](https://tvshows.me/) - TV / 720p
+* [TV Shows](https://tvshows.ac/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
 * [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 720p
 * [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
