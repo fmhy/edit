@@ -27,7 +27,7 @@
 
 ## ▷ Spotify Playlists
 
-* ⭐ **[exportify](https://github.com/watsonbox/exportify)** - Playlist Backup
+* ⭐ **[exportify](https://github.com/watsonbox/exportify)** or **[spotmybackup (unmaintained)](https://www.spotmybackup.com/)**- Playlist Backup
 * ⭐ **[playlists.cloud](https://playlists.cloud/)** or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
