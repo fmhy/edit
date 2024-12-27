@@ -728,6 +728,7 @@ https://www.ostmusic.org/
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
 * [Cambia](https://logs.musichoarders.xyz/) - CD Rip Log Checker
+* [OpenSoundMeter](https://opensoundmeter.com/) - Live sound PA tuning; SMAART alternative
 
 ***
 
