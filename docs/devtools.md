@@ -367,7 +367,8 @@
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [111movies](https://111movies.com/) - Movies / TV / Anime
-* [Embed.su](https://embed.su/) - Movies / TV / Anime 
+* [Embed.su](https://embed.su/) - Movies / TV / Anime
+* [Embed RGShows](https://embed.rgshows.me/) - Movies / TV / Anime
 * [GoMo](https://gomo.to/) - Movies / TV / Anime
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV
 * [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV

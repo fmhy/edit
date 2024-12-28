@@ -43,6 +43,7 @@
 * [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
+* [Lootlabs Bypass](https://greasyfork.org/en/scripts/487969) - Loot-Link  / LootDest Bypass
 * [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
 
 ***
@@ -310,23 +311,24 @@
 ## ▷ Search Engines
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
-* 🌐 **[nixnet](https://searx.nixnet.services/)**, [searx.space](https://searx.space/) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[Fuck Off Google](https://search.fuckoffgoogle.net/)**, [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/) or [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
+* 🌐 **[nixnet](https://searx.nixnet.services/)**, [Instance Scores](https://searx.neocities.org/instancescores) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
+* ⭐ **[Fuck Off Google](https://search.fuckoffgoogle.net/)**, [searx.space](https://searx.space/) or [monocles](https://monocles.de/) - Searx Instance
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
 * [whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance  / Uses Google
-* [DuckDuckGo](https://start.duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
+* [DuckDuckGo](https://start.duckduckgo.com/) - Uses Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
 * [LibreY](https://github.com/Ahwxorg/librey)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
-* [Qwant](https://www.qwant.com/)
+* [searx.be](https://searx.be/) or [tiekoetter](https://searx.tiekoetter.com/) - SearXNG Instances / [GitHub](https://github.com/searxng/searxng)
+* [Qwant](https://www.qwant.com/) - Uses Bing (partially)
 * [Swisscows](https://swisscows.com/) - Uses Bing
-* [YaCy](https://yacy.net/)
+* [YaCy](https://yacy.net/) - Decentralized / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Uses Google
 * [Brave Search](https://search.brave.com/)
 * [ekoru](https://ekoru.org/) - Uses Bing
 * [Gibiru](https://gibiru.com/) - Uses Google
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
-* [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted / [Frontend](https://benbusby.com/projects/whoogle-search/)
+* [Whoogle](https://pypi.org/project/whoogle-search/) - Uses Google / Self-Hosted / [Frontend](https://benbusby.com/projects/whoogle-search/)
 
 ***
 
@@ -357,7 +359,7 @@
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[How to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy) / [Manager](https://donaldzou.github.io/WGDashboard-Documentation/), [Discord](https://discord.gg/72TwzjeuWm)
+* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [WebUI](https://github.com/wg-easy/wg-easy) / [Manager](https://donaldzou.github.io/WGDashboard-Documentation/), [Discord](https://discord.gg/72TwzjeuWm)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
 * [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
