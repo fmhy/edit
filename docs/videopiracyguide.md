@@ -420,7 +420,7 @@
 * [720pStream](https://720pstream.nu/) - Sports
 * [BuffStream](https://bestmlb.buffstream.io/) - Sports
 * [LiveTV](https://livetv780.me/enx/) - Sports
-* [Strims](https://strims.in/) - Sports
+* [Strims](https://strimsy.top) - Sports 
 * [Sport365](https://live.sport365.stream/) - Sports
 * [RedditSport](https://redditsport.cc/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
