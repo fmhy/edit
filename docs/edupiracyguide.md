@@ -1170,6 +1170,7 @@
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
 * [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
+* [UX Planet](https://uxplanet.org/) - One-stop for everything related to user experience
 
 ***
 
