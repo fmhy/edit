@@ -13,8 +13,8 @@
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
 * ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots
+* ⭐ **[Shivaay](https://shivaay.futurixai.com/)** - Chatbot by FuturixAI / Signup Required / Free API / Unlimited
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
-* [Shivaay](https://shivaay.futurixai.com/) - Chatbot by FuturixAI / Signup Required / Free API / Unlimited
 * [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [AIAssistantBot](https://aiassistantbot.netlify.app/) - Multiple Chatbots / No Signup
