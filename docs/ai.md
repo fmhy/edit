@@ -14,7 +14,7 @@
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
 * ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
-* [Shivaay](https://shivaay.futurixai.com/) - Chatbot by FuturixAI / Free / Signup Required
+* [Shivaay](https://shivaay.futurixai.com/) - Chatbot by FuturixAI / Signup Required / Free API / Unlimited
 * [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [AIAssistantBot](https://aiassistantbot.netlify.app/) - Multiple Chatbots / No Signup
