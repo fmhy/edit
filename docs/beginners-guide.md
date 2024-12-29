@@ -34,7 +34,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.ru/ / [Freek](https://freek.to/) / [NEPU](https://nepu.to/)**
+* **Streaming: [Cineby](https://www.cineby.ru/) / [Freek](https://freek.to/) / [NEPU](https://nepu.to/)**
 * **Downloading:  [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -110,7 +110,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/#Method-1---PowerShell)**.
 
-* **Software Piracy:[CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
+* **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [m0nkrus](https://w16.monkrus.ws/) / [2](https://vk.com/monkrus) / [3](https://monkrus.dvuzu.com/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
 
 !!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
