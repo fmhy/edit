@@ -20,7 +20,6 @@
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
-* [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [Models](https://huggingface.co/chat/models)
@@ -43,7 +42,7 @@
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot / No Signup
-* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
+* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
 * [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder / No Signup
 * [Leon](https://getleon.ai/) - AI Assistant
@@ -86,6 +85,7 @@
 * [Petals](https://petals.dev/) - Self-Hosted
 * [Ollama](https://ollama.com/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
+* [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.librechat.ai/)
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [GitHub](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
@@ -98,9 +98,9 @@
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://character.ai/)** - Roleplaying Chatbots / [Extract](https://rentry.co/reverse-cAI)
-* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
+* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
-* ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
+* ⭐ **[Chub](https://www.chub.ai/)** - Character Cards / Some NSFW
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / No Signup / [Web App](https://lite.koboldai.net/)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
@@ -265,7 +265,7 @@
 * ⭐ **[Image FX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Region Based
 * ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
+* ⭐ **[Poe](https://poe.com/)** / 100 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
 * ⭐ **[Grok](https://x.ai/grok)** / 25 Per 2 Hours

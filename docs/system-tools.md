@@ -61,7 +61,7 @@
 * [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
-* [Kando](https://github.com/kando-menu/kando) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy)
+* [Kando](https://kando.menu/) - App Launcher / Pie Menu / [GitHub](https://github.com/kando-menu/kando) / [Discord](https://discord.gg/hZwbVSDkhy)
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Tweaked Context Menus
@@ -366,7 +366,7 @@
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
-* [Hardforum](https://hardforum.com/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/)
+* [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
 * [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment

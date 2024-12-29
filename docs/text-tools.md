@@ -37,7 +37,6 @@
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)** - Markdown Support / Syntax Highlighting / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
-* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
@@ -49,12 +48,9 @@
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy)
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
-* [paste.fo](https://paste.fo/) - Multi-Syntax
-* [BitBin](https://bitbin.it/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
-* [MicroBin](https://pub.microbin.eu/) - Multi-Syntax / [GitHub](https://github.com/szabodanika/microbin)
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin

@@ -381,6 +381,7 @@
 * [Flicky](https://www.flicky.host/) - Movies / TV / Anime
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / [Telegram](https://t.me/moviesapi_club)
+* [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use Popup Blocker
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 
 ***
@@ -779,7 +780,7 @@
 # ► Web Dev Tools
 
 * 🌐 **[Website Creation Resources](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)** - Web Dev Resources
-* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** - Static Site Resources
+* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** - Static Site Resources / [GitHub](https://github.com/myles/awesome-static-generators)
 * 🌐 **[Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev YouTube Channel Indexes
@@ -1059,6 +1060,7 @@
 * [VirusShare](https://virusshare.com/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources
+* [Awesome List](https://github.com/0xor0ne/awesome-list) - Cybersecurity Resources
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
@@ -1127,6 +1129,7 @@
 ## ▷ Reverse Engineering
 
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
+* 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
 * [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [GitHub](https://github.com/radareorg/radare2) / [Discord](https://discord.gg/YBey7CR9jf)
@@ -1152,7 +1155,7 @@
 * [Table Magic](https://stevecat.net/table-magic/) - Table to Markdown Converters
 * [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
-* [MarkItDown](https://github.com/microsoft/markitdown) - File to Markdown Converter
+* [MarkItDown](https://github.com/microsoft/markitdown) or [GetMarkdown](https://www.getmarkdown.com/) - File to Markdown Converter
 * [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
 * [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Emoji Markdown Cheatsheet

@@ -620,7 +620,8 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* [SkyMovies](https://skybap.com/) - Movies / TV / Anime / 1080p
+* [SkyMovies](https://skymovieshd.toys/) - Movies / TV / Anime / Some NSFW
+* [OOMoye](https://www.oomoye.life/) - Movies / TV / Anime / Some NSFW
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
@@ -767,6 +768,7 @@
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [StreamingCommunity](https://streamingcommunity.prof/) - Movies / TV / Dub / 720p
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
+* [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
@@ -774,6 +776,7 @@
 * [AnimeUnity](https://www.animeunity.to/) - Anime / Sub / 1080p
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
+* [⁠Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
 ## ▷ Reading / Leggere
 
@@ -1022,6 +1025,7 @@
 
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
+* [Strims](https://strimsy.top/) - Live Sports
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Virpe](https://virpe.cc/) - Movies / TV
 * [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
@@ -1668,7 +1672,7 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.sh/)**, [2](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries

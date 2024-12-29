@@ -26,7 +26,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 We recommend  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium-based. 
 
-For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** or **[Cromite](https://github.com/uazo/cromite)** for privacy.
+For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** for privacy or **[Orion](https://kagi.com/orion/)** for iOS.
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
@@ -34,7 +34,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 ### Movies / Shows
 
-* **Streaming: [Freek](https://freek.to/) / [Cineby](https://www.cineby.ru/) / [NEPU](https://nepu.to/)**
+* **Streaming: [Cineby](https://www.cineby.ru/ / [Freek](https://freek.to/) / [NEPU](https://nepu.to/)**
 * **Downloading:  [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -56,7 +56,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [SpotC++](https://spotcompiled.github.io/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -136,6 +136,16 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 * **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS Android Apps
 * **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
+
+***
+
+### iOS Sideloading
+
+* **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sidloading Guide
+* **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
+* **[SideStore](https://sidestore.io/)** - Sideload Apps [iOS 14.0 & Above]
+* **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
+* **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
 
 ***
 

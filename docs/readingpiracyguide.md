@@ -9,7 +9,7 @@
 * ⭐ **[Text Reader](https://elevenlabs.io/text-reader)** or [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
-* [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
+* [AudiobookShelf](https://www.audiobookshelf.org/) / [2](https://github.com/Vito0912/abs_flutter) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
 
@@ -45,6 +45,7 @@
 ## ▷ Streaming
 
 * ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
+* ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
 * [FullLengthAudiobooks](https://fulllengthaudiobook.com/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.club/)
@@ -397,7 +398,7 @@
 * [Zero Scans](https://zscans.com/)
 * [Manhuafast](https://manhuafast.com/)
 * [MangaFlame](https://mangaflame.org/) / [Discord](https://discord.gg/jrsuS34YXF)
-* [Kaliscan](https://kaliscan.io/)
+* [Kaliscan](https://kaliscan.io/home)
 * [Manhwatop](https://manhwatop.com/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
@@ -611,6 +612,7 @@
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
+* [ Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
@@ -837,6 +839,7 @@
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
+* [En](https://en.app/) - Vibe Based Book Search
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Discovery / Recommendations

@@ -43,6 +43,7 @@
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
+* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required

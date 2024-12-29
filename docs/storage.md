@@ -81,6 +81,7 @@
 * [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android) - Note-Taking
 * [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688) - Note-Taking
 * [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking
+* [ColorNote](https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note) - Note-Taking
 * [Notally](https://github.com/OmGodse/Notally) - Note-Taking
 * [Omni Notes](https://omninotes.app/) - Note-Taking
 * [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid) - Note-Taking

@@ -123,7 +123,7 @@
 * [PhotoFunia](https://photofunia.com/), [Pixelizer](https://www.igorski.nl/application/pixelizer/), [Image Mage](https://imagemageage.github.io/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid-Based Image Distortion
 * [Change Image Hue](https://www.imageonlinetools.com/change-image-hue) or [Tinter](https://tinter.uxie.io/) - Hue Editor
-* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
+* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker) [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime

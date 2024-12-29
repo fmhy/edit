@@ -22,7 +22,6 @@
 * [dedigger](https://www.dedigger.com/) - GDrive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
-* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/) - Scene / Sub-Scene Database
 

@@ -71,6 +71,7 @@
 * [Kira](https://kira.vercel.app/) - Browse by Country / [GitLab](https://gitlab.com/timrossback/kira)
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
+* [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create Artist RSS Feeds
 
 ***
 
@@ -164,7 +165,6 @@
 * ↪️ **[Radio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
-* ⭐ **[Daft Punk Cafe](https://daftpunk.cafe/)** - Daft Punk Radio
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/), [TuneIn](https://tunein.com/) or [Zeno](https://zeno.fm/) - Podcasts / Radio
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
 * [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/), [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
@@ -185,6 +185,7 @@
 * [LISTEN.moe](https://listen.moe/) - K-Pop Radio
 * [420.moe](https://420.moe/) - 420 Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
+* [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio
 * [Listen To The Clouds](https://listentothe.cloud/), [LoFiATC](https://www.lofiatc.com/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
@@ -777,6 +778,7 @@
 
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
+* ⭐ **[BandLab](https://www.bandlab.com/)** - Digtal Audio Workstation
 * ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Sequencer
@@ -851,6 +853,7 @@
 ## ▷ SFX / Loops
 
 * ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)**
+* ⭐ **[BandLab SFX](https://www.bandlab.com/sounds/packs)** - Account Required
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [Thirtydollar](https://thirtydollar.website/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
@@ -863,6 +866,7 @@
 * [SoundGator](https://www.soundgator.com/)
 * [FindSounds](https://www.findsounds.com/)
 * [PacDV](https://www.pacdv.com/sounds/index.html)
+* [SoundBible](https://soundbible.com/)
 * [looperman](https://www.looperman.com/loops)
 * [Noizable](https://noizable.media/)
 * [sampleswap](https://sampleswap.org/)

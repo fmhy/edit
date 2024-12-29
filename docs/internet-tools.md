@@ -313,7 +313,7 @@
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - Search Audio Torrent Sites
 * [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [Rave Search](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
-* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
+* [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
 * [Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b) - Search Linux Software Sites
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
@@ -633,7 +633,7 @@
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
-* [Dictionaries](https://github.com/pnlpal/dictionariez) or [phlinx](https://phlinx.com/) - Popup Dictionaries
+* [Dictionaries](https://github.com/pnlpal/dictionariez), [Definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - Popup Dictionaries
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
@@ -892,4 +892,5 @@
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
 * [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries) / [V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0 ) - Indexes Organized by Country
+* [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) - Discord OSINT Index
 * [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) or [The OSINT Toolbox](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - Telegram OSINT Indexes

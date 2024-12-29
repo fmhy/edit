@@ -480,7 +480,7 @@
 * ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png) or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
-* [MCPEDL](https://mcpedl.com/) - Resources for Bedrock & PE
+* [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [Github](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [Github](https://github.com/SkyblockClient)
@@ -492,7 +492,6 @@
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
-* [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phases](https://modrinth.com/mod/phases-discord-rich-presence ) - Discord RPCs for Java Edition
 
 ***
 
@@ -502,7 +501,7 @@
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
-* [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) or [World Host](https://modrinth.com/mod/world-host) - Local Server Multiplayer Mods
+* [World Host](https://modrinth.com/mod/world-host) or [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) - Local Server Multiplayer Mods
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/), [Lodestone](https://lodestone.cc/) / [GitHub](https://github.com/Lodestone-Team/lodestone) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
@@ -553,16 +552,20 @@
 * [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [quark](https://quarkmod.net/) - Add Vanilla-like / QoL Features
-* [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
+* [Voxy](https://modrinth.com/mod/voxy). [DistantHorizons](https://modrinth.com/mod/distanthorizons) or [Bobby](https://modrinth.com/mod/bobby) - Lightweight Distance Rendering Mods
+* [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Renderer Mod / [Discord](https://discord.gg/FVXg7AYR2Q)
 * [Forge](https://files.minecraftforge.net/), [NeoForged](https://neoforged.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
-* [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [Pax](https://github.com/froehlichA/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
-* [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Automatic Bedrock Miner Mod
+* [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
+* [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX)
 * [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
+* [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music
 * [Vanilla Tweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
+* [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) - Discord RPCs for Java Edition
 
 ***
 

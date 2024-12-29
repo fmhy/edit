@@ -201,6 +201,7 @@
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
+* [WallpaperSelection](https://t.me/wallpaperselection) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
@@ -330,7 +331,7 @@
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [TWRP Root](https://twrp.me/) / [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
-* [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
+* [⁠Orangefox](https://orangefox.download/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [SWAP](https://rentry.co/FMHYBase64#swap) - Create SWAP file without Root
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
@@ -560,6 +561,7 @@
 * [Folksable](https://folksable.com/) - Habit Tracker
 * [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
+* [⁠Not Boring Habits](https://apps.apple.com/app/id1593891243) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
 * [TheFor](https://thefor.xyz/) - Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Productivity Tracker / App Blocker
@@ -699,6 +701,7 @@ https://github.com/Akylas/alpimaps
 * [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Audiobook Player
 * [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Player
 * [Text Reader](https://elevenlabs.io/text-reader) - Create Audiobooks
+* [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
@@ -978,7 +981,6 @@ https://github.com/Akylas/alpimaps
 # ► iOS Tools
 
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
-* ⭐ **[Orion](https://kagi.com/orion/)** - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * ⭐ **[Bitwarden](https://apps.apple.com/app/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * ⭐ **[IRuin](https://iriun.com/)** or [Reincubate Camo](https://reincubate.com/camo/) - Use iOS Device as Webcam
@@ -987,7 +989,7 @@ https://github.com/Akylas/alpimaps
 * [Das Image](https://apps.apple.com/app/id1464079804), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [wrtn](https://apps.apple.com/app/id6448556170), [ChatGPT](https://apps.apple.com/app/id6448311069) or [KAI.](https://apps.apple.com/app/id6448476817) - ChatGPT Apps
 * [Santander](https://github.com/NSAntoine/Santander) - File Managers
-* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients
+* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients / [AltStore](https://xitrix.github.io/iTorrent/AltStore.json)
 * [iZip](https://apps.apple.com/app/id413971331) - File Archiver
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator
@@ -998,7 +1000,9 @@ https://github.com/Akylas/alpimaps
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
 * [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
 * [Enmity](https://github.com/enmity-mod/enmity) / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
-* [Apollo](https://apps.apple.com/app/id979274575) / Use [Artemis](https://chariz.com/get/artemis) / [Tweak](https://redd.it/14osa6i) or [⁠Winston](https://winston.cafe/) - Reddit Clients
+* [Apollo](https://apps.apple.com/app/id979274575) / Use [Artemis](https://chariz.com/get/artemis) / [Tweak](https://redd.it/14osa6i), [OpenArtemis](https://apps.apple.com/app/id6473462587) or [⁠Winston](https://winston.cafe/) - Reddit Clients
+* [BHTwitter](https://github.com/BandarHL/BHTwitter), [2](https://github.com/ghl3m0n/FuckElon) or [TikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - Tweaked Twitter Clients
+* [⁠SCInsta](https://github.com/SoCuul/SCInsta) - Tweaked Instagram Client
 * [Frosty](https://www.frostyapp.io/) - Twitch Frontend / [GitHub](https://github.com/tommyxchow/frosty)
 * [⁠Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
@@ -1099,6 +1103,7 @@ https://github.com/Akylas/alpimaps
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [Nugget](https://github.com/leminlimez/Nugget) - iOS Tweaks Tool
 * [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
+* [OneJailbreak](https://onejailbreak.com/) or [iDownload](https://www.idownloadblog.com/tag/jailbreak/) - Jailbreak News
 
 ***
 
@@ -1106,10 +1111,13 @@ https://github.com/Akylas/alpimaps
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** or [Adguard](https://adguard.com/en/adguard-ios/overview.html) - Adblocker
+* ⭐ **[Orion](https://kagi.com/orion/)** - Adblock Browser w/ Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
+* [Brave](https://apps.apple.com/us/app/brave-browser-search-engine/id1052879175) - Adblock Browser
 * [AdGuard Home Remote](https://apps.apple.com/app/id1543143740)
 * [1Blocker](https://1blocker.com/) - Adblocker
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music
+* [⁠SLC-DNS](https://github.com/Realmzer/SLC-DNS) - Anti-Revoke & AdBlock DNS
 
 ***
 
@@ -1133,17 +1141,18 @@ https://github.com/Akylas/alpimaps
 
 # ► iOS Apps
 
-* 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [Discord](https://discord.gg/cypwn)
+* 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [AltStore](https://ipa.cypwn.xyz/cypwn.json) / [Discord](https://discord.gg/cypwn)
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
 * 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
 * ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [PuReEnVyUs](https://sideloading.vercel.app/) - Sideloading Guides
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
-* ⭐ **[SideStore](https://sidestore.io/)** / [Multi-App Guide](https://redd.it/1g0n1z4), **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
+* ⭐ **[SideStore](https://sidestore.io/)** / [App Limit Bypass](https://rentry.co/FMHYBase64#sparsebox) / [Guide](https://redd.it/1g0n1z4), **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/, [2](https://therealfoxster.github.io/altsource-viewer/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
 * ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - App Manager / Installer / Use SideStore or Sideloadly for free accounts
+* [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager ⁠IPA Bot
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
@@ -1153,6 +1162,7 @@ https://github.com/Akylas/alpimaps
 * [SultanModsIPAs](https://t.me/SultanModsIPAs) - Tweaked Apps / Telegram
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps / Telegram
 * [IPA_FREE_RAK](https://t.me/IPA_FREE_RAK) - Tweaked Apps / Telegram
+* [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [fnd](https://fnd.io/) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library /  [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
@@ -1160,19 +1170,20 @@ https://github.com/Akylas/alpimaps
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [App Cake](https://www.iphonecake.com/) - App Library / Do [NOT](https://pastebin.com/v9yyDpdC) Install Official App
+* [AppTesters](https://repository.apptesters.org/) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
-* [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+* [DecryptedAppStore](https://armconverter.com/decryptedappstore), [Eevee IPA Decrypter](https://t.me/eeveedecrypterbot) or [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
 * [⁠LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing
 
 ***
 
 # ► iOS Audio
 
-* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[SpotC++](https://spotcompiled.github.io/)** - Ad-Free Spotify / Sideloaded
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**, [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
+* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories)
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Spotilife](https://rentry.co/FMHYBase64#spotilife) - Ad-Free Spotify / Jailbreak or Sideload
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Demus](https://demus.app/) - Streaming
@@ -1181,6 +1192,7 @@ https://github.com/Akylas/alpimaps
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
 * [stats.fm](https://stats.fm/) - Spotify Listening Stats
+* [OpenSpotifySafariExtension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) - Open Modded Spotify via Spotify Webpages
 
 ***
 
@@ -1212,10 +1224,10 @@ https://github.com/Akylas/alpimaps
 # ► iOS Streaming
 
 * ⭐ **[Stremio](https://web.stremio.com/)** - Movies / TV / Anime / [Guide](https://guides.viren070.me/stremio/setup?platform=ios)
-* ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://apps.apple.com/app/id1136220934) - Video Players
+* [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
+* [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
 * [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Signup Required
@@ -1241,7 +1253,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)** or [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPAs
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
-* [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Disocrd](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
+* [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Discord](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
 * [YTLitePlus](https://ytliteplus.github.io/) / [GitHub](https://github.com/YTLitePlus/YTLitePlus) or [YTLite](https://github.com/dayanch96/YTLite) - Modded YouTube iPA
 
 ***
@@ -1256,6 +1268,7 @@ https://github.com/Akylas/alpimaps
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [SideBooks](https://apps.apple.com/app/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player / [Discord](https://discord.gg/MjCUXgU)
+* [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
 * [Tachimanga](https://tachimanga.app/) - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
 * [ZETSU](https://apps.apple.com/app/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)

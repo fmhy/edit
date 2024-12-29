@@ -1228,8 +1228,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/), [PixelPaper](<https://pixelpaper.io/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
-* ⭐ **[Scholar Unlock](https://rentry.co/FMHYBase64#scholarunlock)** - Free Account for Edu Sites / [Note](https://rentry.org/scholarunlocknotice)
+* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/), [PixelPaper](https://pixelpaper.io/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence
@@ -1327,6 +1326,7 @@
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
 * [Adv Study Material](https://rentry.co/FMHYBase64#jee-study) - Guides / Study Material
+* [Novatra's Topicwise](https://quiz.novatra.in/) - JEE Practice Questions / [Chatbot](https://novatra.in/) / [Discord](https://discord.com/invite/bgVVDA7n3h)
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
 

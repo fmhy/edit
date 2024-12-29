@@ -267,6 +267,7 @@
 * [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
+* [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
 * [aprs.fi](https://aprs.fi/) - Live APRS Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
@@ -284,7 +285,7 @@
 ## ▷ Navigation / Transport
 
 * ⭐ **[Organic Maps](https://organicmaps.app/)**, **[OsmAnd](https://osmand.net/)** or [Magic Earth](https://www.magicearth.com/) - Mobile Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://gitlab.com/divested-mobile/maps) - Restricted Google Maps WebView Wrapper
 * [GPS Power](https://www.gpspower.net/) - GPS Navigation Forum
@@ -520,7 +521,7 @@
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Health Assessment Tools](https://www.nhs.uk/health-assessment-tools/) - General Health Tools
-* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
+* [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384) [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App

@@ -17,7 +17,7 @@
 * ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [AdGuardFilters](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
-* [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
+* [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
@@ -57,7 +57,7 @@
 * 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
-* ⭐ **[Pi-Hole](https://pi-hole.net/)** - DNS Adblocking / Self-Hosted
+* ⭐ **[Pi-Hole](https://pi-hole.net/)** - DNS Adblocking / Self-Hosted / [Subreddit](http://reddit.com/r/pihole/) / [Twitter](https://twitter.com/The_Pi_Hole)
 * ⭐ **Pi-Hole Tools** - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension)
@@ -94,7 +94,6 @@
 # ► Antivirus / Malware
 
 * 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
-* 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
@@ -106,7 +105,7 @@
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
-* [Triage](https://tria.ge/) - Online Sandboxes
+* [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -283,6 +282,7 @@
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [GitHub](https://github.com/ProtonMail/WebClients)
 * [Tuta](https://tuta.com/) - Encrypted Email
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
+* [DNMX](https://dnmx.su/) - .Onion Based Email
 * [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
@@ -312,14 +312,14 @@
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
 * 🌐 **[nixnet](https://searx.nixnet.services/)**, [Instance Scores](https://searx.neocities.org/instancescores) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[Fuck Off Google](https://search.fuckoffgoogle.net/)**, [searx.space](https://searx.space/) or [monocles](https://monocles.de/) - Searx Instance
+* ⭐ **[searx.space](https://searx.space/)**, [searx.be](https://searx.be/) or [tiekoetter](https://searx.tiekoetter.com/) - SearXNG Instances / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
+* [Fuck Off Google](https://search.fuckoffgoogle.net/) or [monocles](https://monocles.de/) - Searx Instance
 * [whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance  / Uses Google
 * [DuckDuckGo](https://start.duckduckgo.com/) - Uses Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
 * [LibreY](https://github.com/Ahwxorg/librey)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
-* [searx.be](https://searx.be/) or [tiekoetter](https://searx.tiekoetter.com/) - SearXNG Instances / [GitHub](https://github.com/searxng/searxng)
 * [Qwant](https://www.qwant.com/) - Uses Bing (partially)
 * [Swisscows](https://swisscows.com/) - Uses Bing
 * [YaCy](https://yacy.net/) - Decentralized / [GitHub](https://github.com/yacy/yacy_search_server)

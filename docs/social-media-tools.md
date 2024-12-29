@@ -364,6 +364,7 @@
 * [Amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Import Local Subtitles to YouTube / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [ChatReplay](https://chatreplay.stream/) - Livestream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - Livestream Chat Translator
+* [YT Boost Chat](https://greasyfork.org/en/scripts/520755) or [YT RM3](https://greasyfork.org/en/scripts/521342) - Reduce YouTube Chat Memory Usage
 * [YT LiveChat Flusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Add Bullet Chatting (Danmaku) to Livestreams
 
 ***

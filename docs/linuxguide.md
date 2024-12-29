@@ -44,7 +44,7 @@
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
-* [HowtoForge](https://www.howtoforge.com/) - Linux Server Software Guides
+* [HowtoForge](https://www.howtoforge.com/) or [⁠Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
 * [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
@@ -89,7 +89,7 @@
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa)
-* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
@@ -167,6 +167,7 @@
 * [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
 * [Wike](https://github.com/hugolabe/Wike) - Wikipedia App
 * [Komikku](https://valos.gitlab.io/Komikku/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Tachidesk-VaadinUI) or [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Readers
+* [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
 * [Mako](https://github.com/emersion/mako), [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
@@ -638,7 +639,7 @@ Linux Gaming Guide
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
-* [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
+* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
@@ -664,7 +665,7 @@ Linux Gaming Guide
 * [Does It Arm?](https://doesitarm.com/) - M2 / M3 App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Client
+* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [MacOSIcons](https://macosicons.com/) - Icons
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix

@@ -15,6 +15,7 @@
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / [API](https://111movies.com/)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
+* ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / Auto-Next
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
@@ -51,6 +52,7 @@
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [Cataz](https://cataz.ru/) - Movies / TV / Anime
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
 * [Filmex](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / [Note](https://pastebin.com/T9kHqc0v)
@@ -73,6 +75,7 @@
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime
 * [AZMovies](https://azm.to/) - Movies
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
+* [Soapy](https://soapy.to/) - Movies / TV / Anime
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [MultiMovies](https://multimovies.lat/) - Movies / TV
 * [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
@@ -87,7 +90,6 @@
 ***
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 * [FshareTV](https://fsharetv.co/) - Movies
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 720p
@@ -112,6 +114,7 @@
 
 * ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
 * ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US + UK Only
+* ⭐ **[Pluto](https://pluto.tv/)** - Movies / TV / 720p
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
 * [Freevee](https://www.amazon.com/Prime-Video-Freevee-Movies-TV/s?rh=n%3A2858778011%2Cp_n_subscription_id%3A18734379011) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
@@ -124,7 +127,6 @@
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [ARTE](https://www.arte.tv/en) - Movies / TV / Auto-Next
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
-* [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / 720p
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
 
@@ -439,7 +441,6 @@
 * [HesGoal](https://www.hesgoal.watch/) - Sports
 * [Sport-TV](https://sport-tv.live/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
-* [Strims](https://strims.in/) - Sports
 * [BuffSports](https://buffsports.me/) - Sports
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://crichdplayer.com/) - Sports
@@ -592,6 +593,7 @@
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [SkyMovies](https://skymovieshd.toys/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
+* [OOMoye](https://www.oomoye.life/category/Hollywood-english-movies.html) - Movies / TV / Anime / Some NSFW
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [KatMovie4k](https://katworld.net/?type=Katmovie4k) - Movies / TV / 4K
@@ -632,6 +634,7 @@
 * [TV Shows](https://tvshows.ac/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
 * [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 720p
+* [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use Popup Blocker
 * [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
 * [NetNaija](https://netnaija.xyz/) - Movies / 480p
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p

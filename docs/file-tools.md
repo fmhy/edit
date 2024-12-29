@@ -339,7 +339,7 @@
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
-* [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days with Account)
+* [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days with Accoun)
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
@@ -364,6 +364,7 @@
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
+* [⁠FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
