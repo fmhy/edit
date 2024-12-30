@@ -30,11 +30,11 @@
     "feed": "^4.2.2",
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.1",
-    "nitropack": "^2.9.7",
+    "nitropack": "^2.10.4",
     "nprogress": "^0.2.0",
     "pathe": "^1.1.2",
     "unocss": "^0.63.4",
-    "vitepress": "^1.4.1",
+    "vitepress": "^1.5.0",
     "vue": "^3.5.12",
     "x-satori": "^0.2.0",
     "zod": "^3.23.8"
@@ -61,7 +61,7 @@
     "unplugin-auto-import": "^0.18.3",
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-terminal": "^1.2.0",
-    "wrangler": "^3.80.5"
+    "wrangler": "^3.99.0"
   },
   "pnpm": {
     "peerDependencyRules": {

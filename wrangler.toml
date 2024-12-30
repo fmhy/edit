@@ -2,11 +2,16 @@ name = "api"
 main = ".output/server/index.mjs"
 workers_dev = false
 account_id = "02f3b11d8d1017a20f95de4ba88fb5d6"
-compatibility_date = "2022-09-10"
+compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2024-11-01"
 
 routes = [
   { pattern = "api.fmhy.net", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
 ]
+
+[[kv_namespaces]]
+binding = "STORAGE"
+id = "6f18adea26a64d6b8858ffbdfd3f4cf2"
 
 [[unsafe.bindings]]
 name = "RATE_LIMITER"

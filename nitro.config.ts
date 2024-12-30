@@ -15,6 +15,8 @@
  */
 //https://nitro.unjs.io/config
 export default defineNitroConfig({
+  preset: 'cloudflare_module',
+  compatibilityDate: '2024-11-01',
   runtimeConfig: {
     WEBHOOK_URL: process.env.WEBHOOK_URL
   },
