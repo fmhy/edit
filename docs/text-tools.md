@@ -139,6 +139,7 @@
 ***
 
 * ⭐ **[LanguageTool](https://languagetool.org/)**
+* [⁠Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)

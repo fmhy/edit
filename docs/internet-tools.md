@@ -11,6 +11,7 @@
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+* [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages
 
@@ -531,6 +532,7 @@
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
+* [BottleMail](https://bottlemail.org/)) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
@@ -540,11 +542,12 @@
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
+* [Linshi Email](https://www.linshi-email.com/en) - Custom Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
 * [tMail](https://tmailweb.com/) / [App](https://play.google.com/store/apps/details?id=com.clagt.tmail)
 * [Rainmail](https://rainmail.xyz/)
 * [Tmailor.com](https://tmailor.com/)
-* [More Sites](https://rentry.org/i3ozxg6f) - List of sites that didn't make it
+* [More Sites](https://rentry.org/i3ozxg6f) - More Temp Mail Sites
 
 ***
 
@@ -866,7 +869,7 @@
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
-* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
+* [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web's Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
 * [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
