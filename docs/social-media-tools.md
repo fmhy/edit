@@ -372,7 +372,7 @@
 
 ## ▷ YouTube Customization
 
-* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
+* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)** / [Note](https://rentry.co/buauo8ce), [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/), [2](https://jabrek.net/dislike-en) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
@@ -565,8 +565,8 @@
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
-* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) - Ad-Free Twitch APK
-
+* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad-Free Twitch APKs
+ 
 ***
 
 ## ▷ Twitch Downloaders

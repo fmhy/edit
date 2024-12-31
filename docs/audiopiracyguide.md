@@ -232,7 +232,7 @@
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Ambient Sound Mixers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_sound_mixers)**
-* ⭐ **[DroneZone](https://somafm.com/player/#/now-playing/dronezone)**  or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
+* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**  or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
@@ -753,7 +753,7 @@
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p) / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editors
-* ⭐ **[AudioZ](https://audioz.download/)** or **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)** - Audio Editors, Adobe Software, Plugins etc.
+* ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)** or [AudioZ](https://audioz.download/) - Audio Editors, Adobe Software, Plugins etc.
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [Zrythm](https://www.zrythm.org/en/index.html) or [LMMS](https://lmms.io/) - Digital Audio Workstations

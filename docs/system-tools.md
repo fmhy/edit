@@ -95,7 +95,7 @@
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminals
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminals
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell

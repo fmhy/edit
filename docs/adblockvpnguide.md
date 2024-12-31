@@ -18,7 +18,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320) / [Discord](https://discord.gg/SponsorBlock) / [Twitter](https://twitter.com/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
-* [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension)) - Adblocker
+* [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblocker
 * [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests / [GitHub](https://github.com/d3ward/toolz)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 
@@ -26,12 +26,10 @@
 
 ## ▷ Adblock Filters
 
-* ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)** - URL Shorteners
+* ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules
 * [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) - Blocklist Collection
 * [FilterLists](https://filterlists.com/) - Filter and host lists directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
-* [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt) - Query Parameter Cleaning Rules
-
 ***
 
 ## ▷ Redirect Bypass

@@ -307,7 +307,7 @@
 * [Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_video_streaming) - Search YouTube-Like Video Sites
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
-* [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
+* [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites

@@ -204,7 +204,7 @@
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
-* ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)** / **[Firmware Files](https://rentry.co/FMHYBase64#console-firmware)** / [2](https://rentry.co/FMHYBase64#sigmapatches)
+* ⭐ **[Emulator BIOS Files](https://rentry.co/FMHYBase64#emulator-files)** / **[Firmware Files](https://rentry.co/FMHYBase64#console-firmware)** / [2](https://rentry.co/FMHYBase64#sigmapatches)
 * ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides

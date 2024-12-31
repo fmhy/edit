@@ -39,6 +39,7 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/), [4](https://streammovies.to/) - Movies / TV
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
+* [7XStream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/) - Movies / TV / Anime [Discord](https://discord.gg/TXqWTKeAAu)
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
 * [FireFlix](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
@@ -60,6 +61,7 @@
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [API](https://moviesapi.club/) / [Discord](https://discord.gg/r4QrghF4B9)
 * [Donkey](https://donkey.to/) - Movies / TV / Anime
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
+* [xPrime](https://xprime.tv/) - Movies / TV / Anime
 * [SFlix](https://sflix2.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
 * [Wovie](https://wovie.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/iswilljr/wovie)
 * [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
@@ -142,13 +144,10 @@
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891) / [Aniwave-Style Subs](https://rentry.org/mmsot3n2)
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[GoGoAnime](https://gogoanime3.cc/)**, [2](https://anitaku.bz/) - Sub / Dub / [Discord](https://discord.gg/kyVfcGuCCQ)
-* ⭐ **GoGoAnime Resources** - [Clones](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [Download Guide](https://rentry.org/gogodlscript)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub
-* ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Multi-Site Anime Search
+* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** - Multi-Site Anime Search
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/), [Miru Project](https://miru.js.org/en/) or [Migu](https://github.com/NoCrypt/migu) - Desktop Streaming Apps
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
 * [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / [Discord](https://discord.gg/6xJmJja8fV)
@@ -156,7 +155,10 @@
 * [Hikari](https://hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3) 
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [AnimeZ](https://animez.org/) - Sub / Dub
+* [Granime](https://grani.me/) - Sub / Dub / [Discord](https://discord.gg/7C4zh7NS3p)
 * [AnimeCity](https://animecity.cc/) - Sub / Dub
+* [GoGoAnime](https://gogoanime3.cc/), [2](https://anitaku.bz/) - Sub / Dub / [Discord](https://discord.gg/kyVfcGuCCQ)
+* GoGoAnime Resources - [Clones](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [Download Guide](https://rentry.org/gogodlscript)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [GoJo](https://gojo.wtf/) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
@@ -298,6 +300,7 @@
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
 * [Animatsiya](https://animatsiya.net/) - Russian Animation Archive
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
@@ -428,7 +431,6 @@
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
 * [rakettv.win](https://www.rakettv.win/) - Sports
 * [SportHD](https://sporthd.live/) - Sports
-* [MethStreams](https://methstreams.com/) - Sports
 * [FootyBite](https://www1.footybite.cc/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
@@ -677,6 +679,7 @@
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [AnimeSuge](https://animesugetv.to/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
+* [Granime](https://grani.me/) - Sub / Dub / [Discord](https://discord.gg/7C4zh7NS3p)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)

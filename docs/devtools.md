@@ -133,7 +133,6 @@
 * 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Heroku Alternatives
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
-* [SupaBase](https://supabase.com/), [Plasmic](https://www.plasmic.app/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators / Builders
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
 * [namae](https://namae.dev/) - App Name Availability Check
@@ -511,6 +510,7 @@
 * ⭐ **[Google Colaboratory](https://colab.research.google.com/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
+* ⭐ **[Android Studio](https://developer.android.com/studio)** / [Guide](https://developer.android.com/studio/intro), [SupaBase](https://supabase.com/) or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
 * [Atheos](https://www.atheos.io/) - Server Required / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
@@ -540,7 +540,6 @@
 
 ## ▷ Android Code Editors
 
-* ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)** - Android Code Editor
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/deadlyjack/Acode)
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
@@ -679,6 +678,7 @@
 ## ▷ Java / Kotlin
 
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
+* 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
@@ -728,7 +728,6 @@
 ## ▷ JavaScript
 
 * 🌐 **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - JavaScript Resources
-* 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
 * ↪️ **[Vue Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_vue_tools)**
 * [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
@@ -1056,9 +1055,9 @@
 * 🌐 **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * 🌐 **[Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents)** - Cybersecurity GPT Agent Index
-* [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
-* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
+* [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/), [Exploit DB](https://www.exploit-db.com/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [VirusShare](https://virusshare.com/), [MalShare](https://malshare.com/), [URLhaus](https://urlhaus.abuse.ch/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search / Indexes
+* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources
 * [Awesome List](https://github.com/0xor0ne/awesome-list) - Cybersecurity Resources
