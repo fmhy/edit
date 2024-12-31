@@ -539,6 +539,7 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Salwyrr Launcher](https://www.salwyrr.com/) - Launcher / [Use Cracked Accounts](https://pastebin.com/ggcB7RNi)
 * [Ares](https://www.aresclient.com/) - Client
+* [⁠Codex-Ipsa Launcher](https://codex-ipsa.cz/) - Launcher for Older Versions
 * [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***

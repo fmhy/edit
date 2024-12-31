@@ -246,6 +246,7 @@
 * ⭐ **[Visa Guide](https://visaguide.world/)** or [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Travel Safe Abroad](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
+* [⁠seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner

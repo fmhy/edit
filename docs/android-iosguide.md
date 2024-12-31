@@ -1030,7 +1030,7 @@ https://github.com/Akylas/alpimaps
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Meshenger](https://github.com/meshenger-app/meshenger-android), [Buz](https://www.buzmenow.com/ ) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
-* [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/app/id6471879502) - Telegram Apps
+* [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/app/id6471879502) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [GoodLinks](https://goodlinks.app/), [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
@@ -1114,6 +1114,7 @@ https://github.com/Akylas/alpimaps
 * [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager Bot
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
 * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing
+* [⁠Cyan](https://github.com/asdfzxcvbn/pyzule-rw) - Modify IPAs / Inject Tweaks
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
 
@@ -1152,7 +1153,7 @@ https://github.com/Akylas/alpimaps
 
 ***
 
-# ► iOS Apps
+# ► iOS iPAs
 
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [AltStore](https://ipa.cypwn.xyz/cypwn.json) / [Discord](https://discord.gg/cypwn)
@@ -1165,14 +1166,7 @@ https://github.com/Akylas/alpimaps
 * [AppDB](https://appdb.to) - App Library 
 * [App Cake](https://www.iphonecake.com/) - App Library / Do [NOT](https://pastebin.com/v9yyDpdC) Install Official App
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
-* [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram
-* [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps / Telegram
 * [⁠iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
-* [BabylonIPA](https://t.me/BabylonIPA) - Tweaked Apps / Telegram
-* [SultanModsIPAs](https://t.me/SultanModsIPAs) - Tweaked Apps / Telegram
-* [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps / Telegram
-* [GLESign](https://t.me/glesign) - Tweaked Apps / Telegram
-* [IPA_FREE_RAK](https://t.me/IPA_FREE_RAK) - Tweaked Apps / Telegram
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [UsearcticSigner](https://usearcticsigner.github.io/) - AltStore App Source
 * [fnd](https://fnd.io/) - App Store Search
@@ -1180,18 +1174,34 @@ https://github.com/Akylas/alpimaps
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
-* [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
-* [DecryptedAppStore](https://armconverter.com/decryptedappstore), [Eevee IPA Decrypter](https://t.me/eeveedecrypterbot) or [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+* [DecryptedAppStore](https://armconverter.com/decryptedappstore) - Decrypted iOS Apps
+* [AnyIPA](https://anyipa.me/) - Decrypted iOS Apps / [Discord](https://discord.gg/c233DYUzsw)
+* [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
+
+***
+
+## ▷ Telegram Channels
+
+* ⭐ **[SultanModsIPAs](https://t.me/SultanModsIPAs)** - Tweaked Apps
+* ⭐ **[BabylonIPA](https://t.me/BabylonIPA)** - Tweaked Games / Telegram
+* ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
+* [IPA Free](https://t.me/IPA_FREE_RAK) - Tweaked Apps
+* [DPixel](https://t.me/dpixel) - Tweaked Apps
+* [Blatant's IPA Library](https://t.me/blatants) - Tweaked Apps
+* [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
+* [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
+* [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps
+* [GLESign](https://t.me/glesign) - Tweaked Apps
 
 ***
 
 ## ▷ Social Media Apps
 
 * ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
-* ⭐ **[Winston](https://winston.cafe/)** or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* ⭐ **[Winston](https://winston.cafe/)**, [Apollo Improved](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[tooot](https://tooot.app/)** or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients / [Improved Notifications](https://lucasggamerm.github.io/moshidon/) / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
@@ -1282,11 +1292,11 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS YouTube Apps
 
-* ⭐ **[uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)** or [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPAs
+* ⭐ **[uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)** - Modded YouTube iPAs
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Discord](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
-* [YTLite](https://github.com/dayanch96/YTLite) - Modded YouTube iPA
-* [YTLitePlus](https://ytliteplus.github.io/) - Tweaks for YTLite / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
+* [YouTube Plus](https://github.com/dayanch96/YTLite) - Modded YouTube iPA
+* [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 
 ***

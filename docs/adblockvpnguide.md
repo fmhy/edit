@@ -35,7 +35,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass link Shorteners
-* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [API (Premium)](https://api.bypass.vip/) / [Discord](https://bypass.vip/discord)
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Discord](https://bypass.vip/discord)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ad Counters / [GitHub](https://github.com/adsbypasser/adsbypasser) 
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
@@ -99,14 +99,14 @@
 * 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
-* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
-* ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus
+* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [Twitter](https://twitter.com/malwarebytes)
+* ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus / [Twitter](https://twitter.com/malwarebytes)
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Check Trusted Sites Easily
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
-* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment  / [Guide](https://rentry.co/sandboxie-guide)
+* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment  / [Guide](https://rentry.co/sandboxie-guide) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
-* [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
+* [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus / [Twitter](https://twitter.com/esetglobal)
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
@@ -118,17 +118,17 @@
 
 ## ▷ File Scanners
 
-* 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - Portable Malware Scanners / Removal Tools
+* 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - Portable Malware Scanners / Removal Tools / [GitHub](https://github.com/jijirae/thesecondopinion/)
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
 * ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
-* [Manalyzer](https://manalyzer.org/) - PE File Scanner
-* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
+* [Manalyzer](https://manalyzer.org/) - PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze) 
+* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool / [GitHub](https://github.com/virustotal/yara) 
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
-* [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
+* [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
-* [FileScan](https://www.filescan.io/) - Online File Scanner
+* [FileScan](https://www.filescan.io/) - Online File Scanner / [GitHub](https://github.com/filescanio)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
 
 ***
@@ -139,16 +139,16 @@
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[/r/Privacy](https://reddit.com/r/privacy)**, [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
-* ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
+* ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix) or [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - Privacy-Based Operating Systems
 * [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) or [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
+* [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
-* [Surfer](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Multi-platform User Data Exporter
+* [Surfer Protocol]((https://surferprotocol.org/) - Multi-platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol) 
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
-* [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
-* [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
+* [chausies encrypt](https://chausies.xyz/encrypt) / [GitHub](https://github.com/chausies/chausies.github.io), [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
@@ -157,33 +157,32 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
-* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide / [GitHub](https://github.com/privacyguides/privacyguides.org)
+* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
-* ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
+* ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity / [GitHub](https://github.com/Anon-Planet/thgtoa)
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
-* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
-* [PrivSec](https://privsec.dev/) - Educational Guide
-* [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
-* [Hostux](https://hostux.network/) - Privacy Tools
+* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide / [Discord](https://discord.gg/25zRy7E4Uw)
+* [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
+* [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
+* [Hostux](https://hostux.network/) - Privacy Tools / [Git](https://git.hostux.net/valere/hostux.network) 
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
-* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
-* [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps
+* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps / [GitHub](https://github.com/oneminch/encrypted-list)
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources
 
 ***
 
 ## ▷ Network Security
 
-* ⭐ **[nekoray](https://github.com/MatsuriDayo/nekoray)** - DIY Privacy Network
-* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
-* [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network
+* ⭐ **[nekoray](https://matsuridayo.github.io/)** - DIY Privacy Network / [Telegram](https://t.me/Matsuridayo) / [GitHub](https://github.com/MatsuriDayo/nekoray)
+* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor / [Telegram](https://t.me/+6ElWHdZK8d5iMGEy) 
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
+* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
+* [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -207,30 +206,29 @@
 
 # ► Web Privacy
 
-* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/DeGoogle](https://www.reddit.com/r/degoogle), [Degoogle](https://tycrek.github.io/degoogle/) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
+* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/degoogle](https://www.reddit.com/r/degoogle), [degoogle](https://tycrek.github.io/degoogle/) / [GitHub](https://github.com/tycrek/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies
-* ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
-* ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
-* [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
-* [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
-* [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [DNS Jumper](https://www.majorgeeks.com/files/details/dns_jumper.html) - DNS Switcher
-* [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/) or [Tox](https://tox.chat/)  - Encrypted Messaging / Video Calls
+* ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
+* ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites / [GitHub](https://github.com/justgetmydata/jgmd)
+* ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
+* [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check / [GitHub](https://github.com/mozilla/blurts-server) 
+* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
+* [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
+* [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
+* [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
+* [Element](https://element.io/ / [GitHub](https://github.com/element-hq), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux) or [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore)  - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
-* [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
-* [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Redact](https://redact.dev/) - Delete Twitter / Reddit Data
-* [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
-* [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
-* [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites
-* [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web) or [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
+* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
+* [GPG Suite](https://gpgtools.org/) - Encrypt & Sign Data / Communications
+* [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools) / [GitHub](https://github.com/Chocobozzz/PeerTube)
+* [Redact](https://redact.dev/) - Delete Twitter / Reddit Data / [Discord](https://discord.com/invite/PbyTFBEhtV)
+* [delete-likes-from-twitter.md](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
+* [Power Delete Suite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
+* [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites / [GitHub](https://github.com/hyphanet)
+* [mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web) or [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - Remove Metadata from Files / [GitLab](https://gitlab.com/rmnvgr/metadata-cleaner)
 
 ***
 
@@ -314,12 +312,12 @@
 ## ▷ Search Engines
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
-* 🌐 **[nixnet](https://searx.nixnet.services/)**, [Instance Scores](https://searx.neocities.org/instancescores) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
+* 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
 * ⭐ **[searx.space](https://searx.space/)**, [searx.be](https://searx.be/) or [tiekoetter](https://searx.tiekoetter.com/) - SearXNG Instances / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Uses Google / DDG / Qwant
-* [Fuck Off Google](https://search.fuckoffgoogle.net/) or [monocles](https://monocles.de/) - Searx Instance
+* ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Uses Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
+* [Fuck Off Google](https://search.fuckoffgoogle.net/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances 
 * [whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance  / Uses Google
-* [DuckDuckGo](https://start.duckduckgo.com/) - Uses Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
 * [LibreY](https://github.com/Ahwxorg/librey)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
@@ -402,7 +400,7 @@
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[Blockaway](https://www.blockaway.net/)**
 * ⭐ **[Alu](https://aluu.xyz/en/)**
-* ⭐ **[Holy Unblocker](https://holyunblocker.org/)**
+* [Holy Unblocker](https://holyunblocker.org/)
 * [ProxySite](https://www.proxysite.com/)
 * [Hide.me](https://hide.me/en/proxy)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/)
