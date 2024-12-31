@@ -33,8 +33,8 @@ People always ask how they can give back to this project, and my answer is very 
 
 * *"The wise man beholds all beings in the Self, and the Self in all beings; for that reason, he does not hate anyone."* - Isa Upanishad
 
-* *"I honor the place in you where the entire Universe resides. I honor the place in you of love, of light, of peace and of truth. I honor the place in you, that is the same in me. There is but one."* - Namaste, ​Ancient Sanskrit
-
+* *“I honor the place in you where the entire Universe resides. I honor the place in you of Light, Love, Truth, Peace and Wisdom. I honor the place where, when you are in that place and I am in that place, there is only one of us.”* - Mahatma Gandhi
+* 
 Further quotes on this subject can be found [here](https://rentry.org/oneness).
 
 ***
