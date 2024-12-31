@@ -766,6 +766,7 @@
 * [ocenaudio](https://www.ocenaudio.com/) - Audio Editor
 * [Reaper](https://www.reaper.fm/) - Audio Editor / [Note](https://pastebin.com/aP4M6ArY)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
+* [FamiStudio](https://famistudio.org/) - Famicom/NES Audio Editor / [GitHub](https://github.com/BleuBleu/FamiStudio) / [Discord](https://discord.gg/QRCMe595Pv)
 * [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - Midi Sequencer / Notation Editors
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
