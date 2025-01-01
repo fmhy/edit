@@ -162,16 +162,16 @@
 ## ▷ Drinks
 
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
-* [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
+* ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
+* ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guide
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
-* [/coffee/](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
-* [/tea/](https://rentry.co/teageneral) - Tea Brewing Masterlist / Guide
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Drinknation](https://www.drinknation.com/bar) or [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
+* [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 
 ***
 
