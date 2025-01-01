@@ -11,6 +11,7 @@
     "api:dev": "nitropack dev",
     "api:prepare": "nitropack prepare",
     "api:preview": "node .output/server/index.mjs",
+    "api:typegen": "wrangler types api/worker-configuration.d.ts",
     "docs:build": "vitepress build docs/",
     "docs:dev": "vitepress dev docs/",
     "docs:preview": "vitepress preview docs/",
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.3",
+    "@cloudflare/workers-types": "^4.20241230.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
     "@iconify-json/carbon": "^1.2.3",
     "@iconify-json/heroicons-solid": "^1.2.0",
@@ -51,6 +53,7 @@
     "@taskylizard/biome-config": "^1.0.5",
     "@types/node": "^20.16.12",
     "@types/nprogress": "^0.2.3",
+    "nitro-cloudflare-dev": "^0.2.1",
     "prettier": "^3.3.3",
     "prettier-plugin-pkgsort": "^0.2.1",
     "prettier-plugin-tailwindcss": "^0.6.8",

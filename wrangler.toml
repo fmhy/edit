@@ -2,7 +2,7 @@ name = "api"
 main = ".output/server/index.mjs"
 workers_dev = false
 account_id = "02f3b11d8d1017a20f95de4ba88fb5d6"
-compatibility_flags = [ "nodejs_compat" ]
+compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-01"
 
 routes = [
@@ -16,5 +16,11 @@ id = "6f18adea26a64d6b8858ffbdfd3f4cf2"
 [[unsafe.bindings]]
 name = "RATE_LIMITER"
 type = "ratelimit"
-namespace_id = "69420"
+# An identifier you define, that is unique to your Cloudflare account.
+# Must be an integer.
+namespace_id = "1001"
+
+# Limit: the number of tokens allowed within a given period in a single
+# Cloudflare location
+# Period: the duration of the period, in seconds. Must be either 10 or 60
 simple = { limit = 100, period = 60 }

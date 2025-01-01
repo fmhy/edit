@@ -1,6 +1,9 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
-  "extends": ["@taskylizard/biome-config", "./.cache/imports.json"],
+  "extends": [
+    "@taskylizard/biome-config",
+    "./.cache/imports.json"
+  ],
   "files": {
     "ignore": [
       "docs/.vitepress/**/*.vue",
@@ -42,6 +45,9 @@
   },
   "linter": {
     "rules": {
+      "correctness": {
+        "noUndeclaredVariables": "off"
+      },
       "style": {
         "useFilenamingConvention": "off",
         "noDefaultExport": "off"

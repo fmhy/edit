@@ -13,8 +13,12 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-//https://nitro.unjs.io/config
+
+import nitroCloudflareBindings from 'nitro-cloudflare-dev'
+import { defineNitroConfig } from 'nitropack/config'
+
 export default defineNitroConfig({
+  modules: [nitroCloudflareBindings],
   preset: 'cloudflare_module',
   compatibilityDate: '2024-11-01',
   runtimeConfig: {
