@@ -121,15 +121,6 @@
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
-* [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
-* [Coffee Guide](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlists
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
-* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
-* [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
-* [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
-* [⁠Tea General](https://rentry.co/teageneral) - Tea Brewing Info / Guides
-* [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
-* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
 * [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
@@ -165,6 +156,20 @@
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
+
+***
+
+## ▷ Drinks
+
+* [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
+* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
+* [/coffee/](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
+* [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
+* [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
+* [/tea/](https://rentry.co/teageneral) - Tea Brewing Masterlist / Guide
+* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
+* [Drinknation](https://www.drinknation.com/bar) or [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
 
 ***
 
