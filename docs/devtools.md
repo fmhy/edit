@@ -47,7 +47,7 @@
 
 # ► Developer Tools
 
-* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** or [Charm](https://charm.sh/) - Programming Resources
+* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Programming Resources
 * 🌐 **[Free For Dev](https://free-for.dev/)** - Developer Resources
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
@@ -316,7 +316,8 @@
 
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
-* [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
+* [Charm](https://charm.sh/) - Add Backend to Terminal Based Apps
+* [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives

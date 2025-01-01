@@ -56,7 +56,7 @@
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [Twitter](https://twitter.com/The_Pi_Hole)
-* ⭐ **Pi-Hole Tools** - [WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filters](https://firebog.net/) / [Docker / Extensions](https://github.com/Kulda22/alanine) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry)
+* ⭐ **Pi-Hole Tools** - [WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [Twitter](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking / [GitHub](https://github.com/zoonderkins/blahdns)
@@ -219,7 +219,6 @@
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
-* [Element](https://element.io/ / [GitHub](https://github.com/element-hq), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux) or [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore)  - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 * [GPG Suite](https://gpgtools.org/) - Encrypt & Sign Data / Communications
@@ -257,16 +256,14 @@
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
 * [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) - Windows 2FA / [GitHub](https://github.com/FireCubeStudios/Protecc)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
 * [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-Hosted
 * [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
 * [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
 * [Tofu](https://www.tofuauth.com/) - iOS 2FA
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
-* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
+* [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
 * [Intelligence X](https://intelx.io/) - Password Breach Check
@@ -363,7 +360,7 @@
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [WebUI](https://github.com/wg-easy/wg-easy) / [Manager](https://donaldzou.github.io/WGDashboard-Documentation/), [Discord](https://discord.gg/72TwzjeuWm)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
-* [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
+* [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) - Tunnel Your Docker containers through a VPN / [GitHub](https://github.com/qdm12/gluetun)
 * [Pritunl](https://pritunl.com/) - VPN Server

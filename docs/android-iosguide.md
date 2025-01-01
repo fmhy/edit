@@ -1163,7 +1163,6 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
-* [App Cake](https://www.iphonecake.com/) - App Library / Do [NOT](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-cake-warning) Install Official App
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [⁠iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source

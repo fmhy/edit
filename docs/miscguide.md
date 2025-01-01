@@ -161,9 +161,9 @@
 
 ## ▷ Drinks
 
-* ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
 * ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guide
+* ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
@@ -1016,7 +1016,6 @@
 * ⭐ **[Dupe](https://dupe.com/)** - Dupe Product Search
 * ⭐ **[Keepa](https://keepa.com/)**, [PriceHistory](https://pricehistoryapp.com/) or [CamelCamelCamel](https://camelcamelcamel.com/) / [Charts](https://greasyfork.org/en/scripts/416590) - Amazon Price Trackers / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [Vetted](https://vetted.ai/), [Real Price Tracker](https://www.realpricetracker.com/) or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
-* [MonkeyAlert](https://monkeyalert.com/) - Monitor Online Shops
 * [PriceSlash Bot](https://t.me/PriceSlash_Bot) - Price Tracking Telegram Bot
 * [Search Ebay Sold](https://chromewebstore.google.com/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals

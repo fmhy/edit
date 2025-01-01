@@ -341,7 +341,8 @@
 * ⭐ **[Matrix](https://matrix.org/)**, [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/) or [Fluffy](https://fluffychat.im) - Matrix Clients / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
 
-[Cwtch](https://docs.cwtch.im/), [Bitmessage](https://wiki.bitmessage.org/Main_Page), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Mesh](https://mesh.im/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/)
+[Element](https://element.io/) / [GitHub](https://github.com/element-hq), [Cwtch](https://docs.cwtch.im/), [Bitmessage](https://wiki.bitmessage.org/Main_Page), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Mesh](https://mesh.im/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore)
+
 
 ### Matrix Home Servers
 
