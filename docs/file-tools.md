@@ -39,7 +39,7 @@
 * ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
 * [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#fdm-note)
 * [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
@@ -312,7 +312,7 @@
 * [Qiwi](https://qiwi.gg) - Account Required
 * [Fastupload.io](https://fastupload.io/en) - Unlimited / 30 Days (60 Days with Account)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days with Account)
-* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
+* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
@@ -321,7 +321,7 @@
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited with Account) / [Note](https://pastebin.com/Rr9ZqD2F)
+* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited with Account) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filelu-warning)
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
@@ -420,7 +420,7 @@
 
 ## ▷ Mega Tools
 
-* ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://pastebin.com/BpS2mwKX)
+* ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#megabasterd-note)
 * ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
 * ⭐ **[MegaDoctor](https://github.com/tonikelope/megadoctor)** - Mega Upload Manager
 * [MEGASync](https://mega.io/desktop) or [MegaCMD](https://mega.io/cmd) - Mega Apps
