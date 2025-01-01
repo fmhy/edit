@@ -710,7 +710,7 @@
 
 ## Multi Dev Tool Sites
 
-* ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide) / [Trial Reset](https://rentry.co/FMHYBase64#jetbrains-reset)
+* ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Trial Reset](https://rentry.co/FMHYBase64#jetbrains-reset)
 * ⭐ **[Free for Developers](https://free-for.dev/)**
 
 [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Omatsuri](https://omatsuri.app/), [devina](https://devina.io/), [wangchujiang](https://wangchujiang.com/tools/), [Addy](https://toolkit.addy.codes/)
@@ -970,12 +970,9 @@
 * ⭐ **[onlinesim](https://onlinesim.io/)**
 * ⭐ **[sms-activate](https://sms-activate.org/en/freeNumbers)**
 * ⭐ **[proovl](https://proovl.com/numbers)**
+* [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
 
 [yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](http://receivesmsonline.in/), [freereceivesmsonline](http://freereceivesmsonline.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.pro/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
-
-### No CC Required Trial Sites
-
-[directsms](https://www.directsms.com.au/), [vumber](https://www.vumber.com/)
 
 ***
 

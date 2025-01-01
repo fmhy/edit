@@ -173,7 +173,7 @@
 * [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
 * [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup 
 * [UrBackup](https://www.urbackup.org/) - Client / Server File Backup
-* [Aomei](https://www.ubackup.com/) - Windows File Backup
+* [AOMEI Backupper](https://www.ubackup.com/) - Windows File Backup
 * [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
 * [Toucan](https://github.com/PortableApps/Toucan) - Portable File Backup

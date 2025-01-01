@@ -276,7 +276,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
-* ⭐ **[cobalt](https://cobalt.tools/)** - [Multi-Site](https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services) / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/) / 320kb / MP3 / Ad-Free 
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://qobuz.vercel.app/) - Deezer / Qobuz / FLAC
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC / [Discord](https://discord.com/invite/yjkdAc53rj)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -630,7 +630,7 @@
 
 ## ▷ Audio Servers
 
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
+* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
 * ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**

@@ -419,7 +419,7 @@
 ## ▷ Video Tools
 
 * ↪️ **[Summarize YT Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summarize_youtube_videos)**
-* ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitles)**
+* ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored Video Segments / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
@@ -784,7 +784,7 @@
 * [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive
 * [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
 * [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
-* [Sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k](https://arch.b4k.co/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/) or [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/) - Misc 4chan Archives
+* [sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k.co](https://arch.b4k.co/), [Palanq.win](https://archive.palanq.win/), [Desuarchive](https://desuarchive.org/), [Archived.Moe](https://archived.moe/) or [The /b/ Archive](https://thebarchive.com/) - Misc 4chan Archives
 
 ***
 

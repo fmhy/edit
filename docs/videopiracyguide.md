@@ -880,7 +880,7 @@
 
 ***
 
-# ► Subtitles
+# ► Subtitle Tools
 
 * 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
