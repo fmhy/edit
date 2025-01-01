@@ -485,6 +485,7 @@
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
+* ⭐ **[Android Studio](https://developer.android.com/studio)** / [Guide](https://developer.android.com/studio/intro), [SupaBase](https://supabase.com/) or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-up / Online Workspace 
@@ -510,7 +511,6 @@
 * ⭐ **[Google Colaboratory](https://colab.research.google.com/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
-* ⭐ **[Android Studio](https://developer.android.com/studio)** / [Guide](https://developer.android.com/studio/intro), [SupaBase](https://supabase.com/) or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
 * [Atheos](https://www.atheos.io/) - Server Required / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)

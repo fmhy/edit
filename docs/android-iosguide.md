@@ -8,8 +8,8 @@
 
 ## ▷ Modded APKs
 
-* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Free Books / Signup Required / [App](https://forum.mobilism.org/app/) / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
-* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Free Books / Signup Required / [App](https://forum.mobilism.org/app/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/FMHY-Notes.md#mobilism-ranks)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/FMHY-Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://pastebin.com/3ebTvx0b)
@@ -1195,6 +1195,7 @@ https://github.com/Akylas/alpimaps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps
+* [⁠TDMBest](https://t.me/tdmbest_ipas) - Game Ports
 
 ***
 
@@ -1214,7 +1215,7 @@ https://github.com/Akylas/alpimaps
 * [Chan](https://github.com/moffatman/chan) - 4Chan App
 * [SCInsta](https://github.com/SoCuul/SCInsta) or [Nyx](https://t.me/sezoapp) - Instagram Tweaks / [Extension](https://github.com/BillyCurtis/OpenInstagramSafariExtension)
 * [BHTikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - TikTok Tweaks / [Extension](https://github.com/BillyCurtis/OpenTikTokSafariExtension) / [Telegram](https://t.me/BHTikTokPlusPlus)
-* [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
+* [Watusi](https://github.com/FouadRaheb/Watusi-for-WhatsApp) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 * [OpenInYT](https://apps.apple.com/app/id1591585819) - Adds "Open In"  Popup to iOS Social Media Apps 

@@ -23,13 +23,13 @@
 * ⭐ **[NetPlayz](https://netplayz.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) - Movies / TV / Anime
 * [Hexa](https://hexa.watch/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * [Zilla](https://zilla-xr.xyz/) - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb)
 * [CucuFlix](https://cucuflix.xyz/), [2](https://cucuflix.pro/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [VidBox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next
-* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Docs](https://streamfr-bbjy.onrender.com/docs) / [Discord](https://discord.com/invite/bqXhREHEDt)
@@ -91,7 +91,7 @@
 
 ***
 
-* ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
+* ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/nepu)
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 * [FshareTV](https://fsharetv.co/) - Movies
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 720p
@@ -761,7 +761,6 @@
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Clones](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / [Note](https://pastebin.com/00a1dvAk)
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
-* [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all) or [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Torrent Site Results on IMDb
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
 

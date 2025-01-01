@@ -497,7 +497,7 @@
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
-* [Image_Max_URL)](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Browser Userscript
+* [Image_Max_URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Browser Userscript
 
 ***
 

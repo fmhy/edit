@@ -328,9 +328,6 @@
 
 * [Seznam](https://www.seznam.cz/) - Web Search Engine
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
-* [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
-* [prirucka](https://prirucka.ujc.cas.cz) - Dictionary
-* [WebArchive](https://webarchiv.cz/) - Documents
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
 
 ## ▷ Downloading
@@ -345,6 +342,13 @@
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize]( https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
+
+## ▷ Reading
+
+* [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
+* [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
+* [prirucka](https://prirucka.ujc.cas.cz) - Dictionary
+* [WebArchive](https://webarchiv.cz/) - Documents
 
 ***
 
@@ -419,6 +423,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[SeeFrench](https://seefrench.xyz/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
@@ -435,6 +440,7 @@
 * [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
 * [Frembed](https://frembed.lol/) - Movies / TV / Anime / API
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
+* [FRAnime.to](https://franime.to/) - Anime / Sub / 1080p
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
@@ -454,6 +460,7 @@
 * [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
+* [PDF Prof](https://pdfprof.com/ ) - Educational Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
@@ -731,13 +738,12 @@
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
 * [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
 
-
 ## ▷ Reading / Membaca
 
 * [YuuManga](https://yuumanga.blogspot.com/) - Manga
 * [ManhwaIndo](https://manhwaindo.net/) - Manga
 * [Komiku](https://komiku.id/) - Manga
-* [Komikcast](https://komikcast.lol/) - Manga
+* [Komikcast](https://komikcast.bz/) - Manga
 * [Mangaku](https://mangaku.lat/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Novelgo](https://novelgo.id/) - Light Novels
@@ -1286,6 +1292,7 @@
 * [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [z3.fm](https://z3.fm/) - Music / MP3
+* [mp3-gorilla](https://mp3-gorilla.ru/) - Music / MP3
 * [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
@@ -1373,6 +1380,7 @@
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:/Music/](https://vk.com/e_music) - Music
+* [mp3-gorilla](https://mp3-gorilla.ru/) - Music
 * [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
