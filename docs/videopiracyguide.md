@@ -555,7 +555,7 @@
 ## ▷ Android TV
 
 * 🌐 **[Awesome Android TV](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)** - Android TV App Index
-* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTube)
 * ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
 * [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
@@ -563,7 +563,7 @@
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
 * [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
-* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
+* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
 
 ***
 
