@@ -472,7 +472,7 @@
 ***
 
 ## ▷ Sports Replays
-
+* ⭐ **[watchwrestling.pro](https://watchwrestlings.pro/)** - wrestling / Wrestling Replays
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
