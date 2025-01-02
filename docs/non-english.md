@@ -690,7 +690,7 @@
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p
-* [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
+* [cinemakick](https://www.cinemakick.pk/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
