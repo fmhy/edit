@@ -145,7 +145,7 @@
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
-* ⭐ **[AniMag](https://animag.to/)** or [Freek Anime](https://freek.to/explore/anime) - Sub / Dub
+* ⭐ **[AniMag](https://animag.to/)** - Sub / Dub
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/), [Miru Project](https://miru.js.org/en/) or [Migu](https://github.com/NoCrypt/migu) - Desktop Streaming Apps
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
