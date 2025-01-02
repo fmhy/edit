@@ -235,10 +235,10 @@
 
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
 * ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/), [3](https://tor.calyxinstitute.org/) - Onion-Routed Browser
-* ⭐ **Tor Browser Resources** - [Telegram](https://t.me/torproject) / [TG Downloads](https://t.me/gettor_bot) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
+* ⭐ **Tor Resources** - [TG Downloads](https://t.me/gettor_bot) / [Telegram](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad) 
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
-* [LibreWolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [Subreddit](https://www.reddit.com/r/LibreWolf) / [CodeBerg](https://codeberg.org/librewolf)
+* [LibreWolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [CodeBerg](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 
