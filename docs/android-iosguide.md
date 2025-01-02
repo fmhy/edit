@@ -157,7 +157,7 @@
 * ⭐ **[Bunny](https://github.com/pyoncord/Bunny)** / [Plugins](https://bn-plugins.github.io/vd-web/) / [Discord](https://discord.gg/XjYgWXHb9Q), **[Revenge](https://github.com/revenge-mod/revenge-bundle)** or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
 * ⭐ **[Reddit Client Patch](https://rentry.co/FMHYBase64#patch-clients)**, [Stealth](https://gitlab.com/cosmosapps/stealth) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Patch Guide
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
-* ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://lucasggamerm.github.io/moshidon//) / [GitHub](https://github.com/LucasGGamerM/moshidon)
+* ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[piko](https://t.me/pikopatches)** / [Builds](http://github.com/crimera/twitter-apk) / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
@@ -756,7 +756,6 @@ https://github.com/Akylas/alpimaps
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
-* [GrayJay](https://grayjay.app/) - Streaming
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
 * [Soundbound App](https://soundbound.app/) - Steaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
@@ -963,7 +962,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [YT Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/step-by-step/00-preface/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
-* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc. / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
+* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc / [Guide](https://youtu.be/EnZrv37u66c) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins) 
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-Free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
@@ -1157,16 +1156,16 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [AltStore](https://ipa.cypwn.xyz/cypwn.json) / [Discord](https://discord.gg/cypwn)
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
-* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
+* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TestFlight App Indexes
 * 🌐 **[iOS Console Emulators](https://redd.it/1c5kxyo)** - Gaming Emulator Index
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
-* ⭐ **[IPALibrary](https://ipalibrary.me/)** - Tweaked Apps
-* [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* ⭐ **[CodeVN](https://ios.codevn.net/)** / [Telegram](https://t.me/+1qK9KUZlfGs3ZDg1) or [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Orion to Translate
+* [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Orion to Translate / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
 * [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [⁠iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
-* [UsearcticSigner](https://usearcticsigner.github.io/) - AltStore App Source
+* [UsearcticSigner](https://usearcticsigner.github.io/) - Artic's Repo
 * [fnd](https://fnd.io/) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Signup Required /  [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
@@ -1222,9 +1221,9 @@ https://github.com/Akylas/alpimaps
 
 # ► iOS Audio
 
-* ⭐ **[SpotC++](https://spotcompiled.github.io/)** - Ad-Free Spotify / Sideloaded
-* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension)
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
+* ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded
+* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)**, [2](https://t.me/SpotilifeIPAs) - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension)
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) / [Tweak](https://github.com/Rov3r/scmusicplus) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Demus](https://demus.app/) - Streaming
 * [Qello](https://apps.apple.com/app/id491069819) - Concerts & Live Music Streaming

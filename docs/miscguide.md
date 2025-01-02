@@ -1047,6 +1047,7 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
+* [wttr](https://wttr.in/) - Simple Weather Site / [GitHub](https://github.com/chubin/wttr.in)
 * [Free-lookup](https://free-lookup.net/) - Phone Number Lookup
 * [KittySplit](https://www.kittysplit.com/en/), [LiveOnSplit](https://liveonsplit.com/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculators
 * [StageTimer](https://stagetimer.io/) - Event Timer
@@ -1378,6 +1379,7 @@
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Discord](https://discord.gg/NFsM8YbBYH)
 * ⭐ **[Goody2](https://www.goody2.ai/chat)** - Worlds Most Ethical AI
+* [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [elgooG](https://elgoog.im/) - Google Easter Eggs

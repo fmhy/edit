@@ -711,6 +711,7 @@
 
 * [SuccessCDs](https://www.successcds.net/) - CBSE Study Guides
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
+* [NDLI](https://ndl.iitkgp.ac.in/) - Educational Resources / Documents
 * [Sanskrit Documents](https://sanskritdocuments.org) or [gitasupersite](https://www.gitasupersite.iitk.ac.in/) - Esoteric Texts
 
 ***
@@ -831,6 +832,7 @@
 
 * [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Lesics](https://youtube.com/@LesicsJPN) - Sabins Civil Engineering
@@ -1056,6 +1058,7 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
+* [CDA](https://www.cda.pl/video) - User Videos
 
 ## ▷ Reading / Czytanie 
 
@@ -1436,6 +1439,7 @@
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
+* [MojeVideo](https://www.mojevideo.sk/) - User Videos
 
 ***
 

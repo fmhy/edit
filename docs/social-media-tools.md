@@ -8,9 +8,9 @@
 
 * 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/), [2](https://cf.farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
 * ↪️ **[Android Social Media Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)**
-* ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble etc.
+* ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble etc / [Guide](https://youtu.be/EnZrv37u66c)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
-* ⭐ **[LiveCounts](https://livecounts.io/)** - Live Social Media Stats
+* ⭐ **[LiveCounts](https://livecounts.io/)** or [Axern](https://axern.space/) / [Discord](https://discord.gg/88jfGZ6A53) - Live Social Media Stats
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Proxitok](https://github.com/pablouser1/ProxiTok), [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends
@@ -213,7 +213,7 @@
 ***
 
 * [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RapidSave](https://rapidsave.com/) or [Reddit.tube](https://www.redd.tube/) - Reddit Video Downloaders
-* [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
+* [gallery-dl](https://github.com/mikf/gallery-dl) or [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloaders
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) or [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
 * [Reddit Downloader](https://redditdownloader.github.io/), [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) or [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download Media from Subreddits / Users
 * [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) - Python Script for Downloading Reddit Media
@@ -372,10 +372,10 @@
 
 ## ▷ YouTube Customization
 
-* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)** / [Note](https://rentry.co/buauo8ce), [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/), [2](https://jabrek.net/dislike-en) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
+* [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/) or  [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#enhancer-for-yt-note) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Fast Forward YT Shorts](https://greasyfork.org/en/scripts/466438) - Add Seek Hotkeys to Shorts
@@ -401,7 +401,7 @@
 * ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialio](https://materialio.us/) - YouTube Frontends / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
-* [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble etc.
+* ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble etc / [Guide](https://youtu.be/EnZrv37u66c)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
@@ -685,7 +685,7 @@
 * 🌐 **[Awesome Bluesky](https://github.com/notjuliet/awesome-bluesky)** or [BlueskyDirectory](https://blueskydirectory.com/) - Bluesky Resources
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky)
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Post Sync](https://github.com/louisgrasset/touitomamout)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search

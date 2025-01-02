@@ -698,12 +698,14 @@
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
+* [Pufferdle](https://pufferdle.com/) - Fish Guessing Game
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
 * [PkmnQuiz](https://pkmnquiz.com/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
+* [Owdle](https://owdle.guessing.day/) - Overwatch Guess Games
 * [Teuteuf](https://teuteuf.fr/) - Geography Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First

@@ -16,7 +16,7 @@
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
-* [AIAssistantBot](https://aiassistantbot.netlify.app/) - Multiple Chatbots / No Signup
+* [AIAssistantBot](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots

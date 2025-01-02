@@ -389,7 +389,7 @@
 ## ▷ Machine Learning
 
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-marketing-datascience/)** - Machine Learning Resources
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-marketing-datascience/)** or [ML Resources](https://ml-resources.vercel.app/ ) - Machine Learning Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
@@ -835,7 +835,7 @@
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
-* [Shiki](https://shiki.style/) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
+* [Shiki](https://shiki.style/), [tailspin](https://github.com/bensadeh/tailspin) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) -  Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance

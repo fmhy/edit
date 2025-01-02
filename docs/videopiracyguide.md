@@ -146,8 +146,7 @@
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[Freek Anime](https://freek.to/explore/anime)** - Sub / Dub
-* ⭐ **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** - Multi-Site Anime Search
+* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/), [Miru Project](https://miru.js.org/en/) or [Migu](https://github.com/NoCrypt/migu) - Desktop Streaming Apps
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
 * [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / [Discord](https://discord.gg/6xJmJja8fV)
@@ -253,7 +252,6 @@
 
 ## ▷ Specialty Streaming
 
-* ↪️ **[How To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
 * ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
 * ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
 * ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
@@ -822,6 +820,7 @@
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
 * [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
+* [namuwiki](https://en.namu.wiki/) - Korean Media
 * [IGMDB](https://igmdb.com/) - LGBT Movies
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
 * [Taiga](https://taiga.moe/) - Anime Tracking Program
