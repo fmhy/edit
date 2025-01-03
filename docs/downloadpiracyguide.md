@@ -137,7 +137,6 @@
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
-* [TheMicroTech](https://programs.themicrotech.net/)
 * [DownloadHa](https://www.downloadha.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Patoghu](https://patoghu.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Heidoc](https://www.heidoc.net/joomla/)

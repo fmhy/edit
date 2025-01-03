@@ -16,7 +16,7 @@
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
-* [AIAssistantBot](https://aiassistantbot.netlify.app/) - Multiple Chatbots / No Signup
+* [AIAssistantBot](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
@@ -107,6 +107,7 @@
 * [FictionLab](https://fictionlab.ai/ ) - Roleplaying / Story Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot
 * [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Story Chatbot / No Signup
+* [Spellbound](https://www.tryspellbound.com/) - Roleplaying / Story Chatbot / No Signup
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) (no signup) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
 
 ***
@@ -127,6 +128,7 @@
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
+* [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI
 * [CodiumAI](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Signup
@@ -138,6 +140,7 @@
 * [Bolt](https://bolt.new/) - Web App Builder
 * [Fragments](https://fragments.e2b.dev/) - App Builder
 * [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
+* [AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)
 
 ***
 
@@ -145,7 +148,6 @@
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* 🌐 **[cool-ai-stuff](https://cas.zukijourney.com/)** - Comparison Overview of Free(mium) AI API Proxies
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * [⁠tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG)
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
@@ -249,6 +251,7 @@
 * ⭐ **[PixVerse](https://pixverse.ai/)** - Video Generator / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator
 * [StableVideo](https://www.stablevideo.com/) - Video Generator
+* [Vidu](https://www.vidu.studio/) - Video Generator
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator / No Signup
 * [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator
 * [text-to-video](https://text-to-video.vercel.app) - Video Generator

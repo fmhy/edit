@@ -81,6 +81,7 @@
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
+* [SteamHunters](https://steamhunters.com/) - Steam Achievement Leaderboards / Profiles / [Discord](https://discord.com/invite/SeJ25Xv)
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
@@ -196,7 +197,7 @@
 ## ▷ Game Saves
 
 * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
+* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)** or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Managers / Backup
 * [Save Game World](https://www.savegameworld.com/) - PC / PlayStation / Switch / Xbox / Wii
 * [SavegameDownload.com](https://www.savegamedownload.com/) - PC / PlayStation / Switch / Xbox / Android
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
@@ -653,6 +654,7 @@
 * [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
+* [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
 * [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
 * [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups

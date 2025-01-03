@@ -16,7 +16,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** - Otaku Games Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-game)** - Otaku Games Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
-* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / Account Required / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9) / pw: 1234 or steamrip.com
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
@@ -24,7 +24,7 @@
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [SteamGG](https://steamgg.net/) - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE) 
@@ -698,12 +698,14 @@
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
+* [Pufferdle](https://pufferdle.com/) - Fish Guessing Game
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
 * [PkmnQuiz](https://pkmnquiz.com/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
+* [Owdle](https://owdle.guessing.day/) - Overwatch Guess Games
 * [Teuteuf](https://teuteuf.fr/) - Geography Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First

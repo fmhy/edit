@@ -251,6 +251,7 @@
 
 * 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
+* ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / [GitHub](https://github.com/ImageOptim/gifski)
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
@@ -261,7 +262,6 @@
 * [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
 * [TokkingHeads](https://app.tokkingheads.com/) - Face Movement GIFs
 * [petpet](https://benisland.neocities.org/petpet/) - Headpatting GIF Maker
-* [Gifski](https://gif.ski/) - GIF Encoder
 
 ***
 
@@ -480,17 +480,17 @@
 
 ***
 
-## ▷ Reverse Image Search
+## ▷ Image Search Engines
 
-* ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
+* ⭐ **[Yandex Images](https://yandex.com/images/)** or [Mavink](https://mavink.com/) - Image Search
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
-* ⭐ **[SauceNao](https://saucenao.com/)** - Multi Site Search / [Extension](https://saucenao.com/tools/)
-* ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Site Search App
-* ⭐ **[Google Lens](https://www.google.com/?olud)** - Image Search
-* ⭐ **[TinEye](https://tineye.com/)** - Image Search / [Extension](https://tineye.com/extensions)
-* [Visual Search](https://www.bing.com/visualsearch) - Image Search
-* [IQDB](https://iqdb.org/) - Multi Site Search
-* [CopySeeker](https://copyseeker.net/) - Image Search
+* ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / [Extension](https://saucenao.com/tools/)
+* ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
+* ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
+* ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
+* [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
+* [IQDB](https://iqdb.org/) - Reverse Image Search
+* [CopySeeker](https://copyseeker.net/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search

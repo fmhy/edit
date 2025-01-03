@@ -64,9 +64,8 @@
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [GitHub](https://github.com/kando-menu/kando) / [Discord](https://discord.gg/hZwbVSDkhy)
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Tweaked Context Menus
-* [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
-* [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/), [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) or
+* [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
@@ -123,6 +122,7 @@
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) - Desktop Client
 * [Remotly](https://remotly.com/) - Desktop Client
+* [Bananas](https://getbananas.net/) - Desktop Client / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Web-Based
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer Client
@@ -447,7 +447,7 @@
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
-* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
+* [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [VSThemes Live Walls](https://vsthemes.org/en/wallpapers/), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated / Live Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers

@@ -145,6 +145,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '💡 Site Hunting', link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/' },
       { text: '🏞 Wallpapers', link: '/other/wallpapers' },  
       { text: '💙 Feedback', link: '/feedback' },
+      { text: '❓ FAQs', link: 'https://redd.it/xrxen7' },
       {
         text: '😇 SFW FMHY',
         link: 'https://fmhy.xyz/'

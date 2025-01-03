@@ -12,6 +12,7 @@
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
+* [Textise](https://www.textise.net/) - Convert Webpages to Text
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages
 
@@ -189,7 +190,7 @@
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Extensions
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
-* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
+* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [Tiny Tiny RSS](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 * [NewsBlur](http://www.newsblur.com) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
@@ -259,6 +260,7 @@
 * 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_ai_search_engines)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_image_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
@@ -612,7 +614,6 @@
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_download_extensions)**
 * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_reverse_image_search)**
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**

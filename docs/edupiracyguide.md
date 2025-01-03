@@ -1192,7 +1192,7 @@
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
-* [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+* [sha256_project](https://github.com/oconnor663/sha256_project, [CryptoPals](https://cryptopals.com/) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
 
@@ -1283,7 +1283,7 @@
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
-* [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
+* [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
 * [DLStudocu](https://dlstudocu.com/), [StuHack](https://github.com/isanchop/stuhack) or [DownStudocu](https://downstudocu.com/) - Studocu Downloaders
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
