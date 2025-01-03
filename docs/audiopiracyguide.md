@@ -630,8 +630,7 @@
 
 ## ▷ Audio Servers
 
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices
-* ⭐ **[iBroadcast](https://ibroadcast.com)**
+* ⭐ **[Navidrome](https://navidrome.org)**
 * ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**
 * [Gelli](https://github.com/dkanada/gelli), [Feishin](https://github.com/jeffvli/feishin) or [Sonixd](https://github.com/jeffvli/sonixd) - Jellyfin Music Players
