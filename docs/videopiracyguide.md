@@ -515,6 +515,7 @@
 ## ▷ IPTV Tools
 
 * 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
+* ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
 * ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
 * ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** - IPTV Player / [Unlock](https://rentry.co/FMHYBase64#best-player)
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player 
@@ -802,6 +803,7 @@
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[AniList](https://anilist.co/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
 * ⭐ **[serializd](https://www.serializd.com/)** - TV / Anime
+* [Blu-ray.com](https://www.blu-ray.com/) or [High Def Digest](https://www.highdefdigest.com/) - DVD / Blu-ray Databases
 * [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/) / [Frontend](https://libremdb.iket.me)
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)
 * [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
@@ -875,7 +877,7 @@
 * [My Episodes](https://www.myepisodes.com/) - TV
 * [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
 * [AniChart](https://anichart.net), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
-* [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
+* [Releases.com](https://www.releases.com/) or [DVDs Release Dates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
 * [showRSS](https://showrss.info/) - RSS / TV
 
 ***

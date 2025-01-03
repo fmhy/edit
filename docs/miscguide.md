@@ -966,7 +966,6 @@
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
 * [Dumbphone Finder](https://dumbphones.pory.app/) - Dumbphone Comparisons
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
-* [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
 
 ***
 

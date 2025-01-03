@@ -956,7 +956,7 @@ https://github.com/Akylas/alpimaps
 * [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
 * [M3U8 Downloader](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader) - M3U8 Download App
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
-* [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
+* [FreeTV](https://phstudio2.github.io/FreeTV/) - Live TV App / [GitHub](https://github.com/phstudio2/FreeTV)
 
 ***
 

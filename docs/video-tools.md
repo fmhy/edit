@@ -361,8 +361,7 @@
 * 🌐 **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/wiki/index/)** - Video Editing Wiki/Subreddit
 * ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
-* [Codec Guide](https://www.codecguide.com/) - 
-* [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
+* [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 
