@@ -73,7 +73,7 @@
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
-* [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
+* [Linear](https://linear.app/), [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
 * [Wasmer](https://wasmer.io/) - WebAssembly Runtime
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
@@ -365,6 +365,8 @@
 
 * [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime
+* [Rive API](https://rivestream.live/embed/docs) - Movies / TV / Anime
+* [sudo-flix](https://docs.undi.rest/) - Movies / TV / Anime
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [111movies](https://111movies.com/) - Movies / TV / Anime
 * [Embed.su](https://embed.su/) - Movies / TV / Anime
@@ -374,6 +376,7 @@
 * [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV
 * [VidLink](https://vidlink.pro/) - Movies / TV
 * [WHVX](https://whvx.net/) - Movies / TV / Anime
+* [SpenEmbed](https://embed.spencerdevs.xyz/) - Movies / TV
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime
 * [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime
@@ -617,6 +620,7 @@
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
 * [snippet-generator](https://snippet-generator.app/) - Snippet Generator
+* [Dendron](https://www.dendron.so/) - Knowledge Managment
 * [Discord Tools](https://github.com/Darkempire78/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server
@@ -711,6 +715,7 @@
 * [Easings](https://easings.net/) - CSS Animation Cheat Sheet
 * [CSSLayout](https://phuoc.ng/collection/css-layout/) or [CSS Layout Generator](https://layout.bradwoods.io/) - CSS Layout / Grid Generators
 * [CSSPeeper](https://csspeeper.com/) - Smart CSS Viewer
+* [⁠Project Wallace](https://www.projectwallace.com/) - CSS Analyzer
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips), [Modern CSS](https://moderncss.dev/) or [CSS Reference](https://cssreference.io/) - CSS Guides
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
@@ -1138,6 +1143,7 @@
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Cutter](https://cutter.re/) - Reverse Engineering
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
+* [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 

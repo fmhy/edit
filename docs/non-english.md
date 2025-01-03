@@ -218,11 +218,12 @@
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
 * [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
 * [DramaSQ](https://dramasq.com/) - Movies / TV / Sub
-* [Drama Wall](https://www.dramawall.net/) - Chinese / Movies / TV / Sub / Dub / 720p
+* [IYF](https://www.iyf.tv/) - Movies / TV / Sub / Dub / 720p
+* [Drama Wall](https://www.dramawall.net/) - Movies / TV / Sub / Dub / 720p
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [HKanime](https://www.hkanime.com/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+mQ5fWi_trVY2MmQ9) / VPN Required
-* [暮薇影视](https://muweimv.com/) - Chinese / Movies / NSFW / TV / Anime / Sub / 1080p
+* [暮薇影视](https://muweimv.com/) -  Movies / NSFW / TV / Anime / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
 * [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
@@ -769,8 +770,8 @@
 
 ## ▷ Streaming
 
-* ⭐ **[CB01](https://cb01.forsale/)** - Movies / TV / Sub / Dub / 1080p / 4K
-* [Altadefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
+* ⭐ **[CB01](https://cb01new.pics/)** - Movies / TV / Sub / Dub / 1080p / 4K
+* [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [StreamingCommunity](https://streamingcommunity.prof/) - Movies / TV / Dub / 720p
@@ -1802,8 +1803,6 @@
 
 * [NetHD](https://nethd.org/) - Video / Audio
 * [3ChangTrai](https://3changtrai.com/) - Video / Audio
-* [HQMusic](http://hqmusic.info/index.php) - Audio / [Facebook](https://www.facebook.com/page.hqmusic.info/)
-
 ## ▷ Streaming / Phát trực tuyến
 
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV

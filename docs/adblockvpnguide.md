@@ -224,6 +224,7 @@
 * [GPG Suite](https://gpgtools.org/) - Encrypt & Sign Data / Communications
 * [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools) / [GitHub](https://github.com/Chocobozzz/PeerTube)
 * [Redact](https://redact.dev/) - Delete Twitter / Reddit Data / [Discord](https://discord.com/invite/PbyTFBEhtV)
+* [tweetXer](https://github.com/lucahammer/tweetXer) - Delete Twitter Posts
 * [delete-likes-from-twitter.md](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
 * [Power Delete Suite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites / [GitHub](https://github.com/hyphanet)
@@ -349,7 +350,7 @@
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [PrivadoVPN](https://privadovpn.com/) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [LEAP](https://leap.se/) - Free VPNs / [GitHub](https://github.com/leapcode) / [GitLab](https://0xacab.org/leap)
-* [Bitmask](https://bitmask.net/) - Free VPN / [GitLab](https://0xacab.org/leap/bitmask-vpn), [2](https://0xacab.org/leap/bitmask_android
+* [Bitmask](https://bitmask.net/) - Free VPN / [GitLab](https://0xacab.org/leap/bitmask-vpn), [2](https://0xacab.org/leap/bitmask_android)
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 
 ***
@@ -368,7 +369,7 @@
 * [Gluetun](https://github.com/qdm12/gluetun) - Docker through VPN
 * [Pritunl](https://pritunl.com/) - VPN Server / [GitHub](https://github.com/pritunl/pritunl)
 * [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) - Cloud VPN / [GitHub](https://github.com/trailofbits/algo)
-* [Amnezia](https://amnezia.org/) - Self-Hosted VPN / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Telegram](https://t.me/amnezia_vpn_en)/ [GitHub](https://github.com/amnezia-vpn)
+* [Amnezia](https://amnezia.org/) - Self-Hosted VPN / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [VPN Hotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 
 ***
@@ -382,7 +383,7 @@
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [CensorTracker](https://censortracker.org/), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://www.dnscrypt.org/) - Local DNS Encryption Proxy
+* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://dnscrypt.info/) - Local DNS Encryption Proxy
 * [Blocky](https://github.com/0xERR0R/blocky) - DNS Proxy
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies

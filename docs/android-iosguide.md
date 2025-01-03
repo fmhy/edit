@@ -726,7 +726,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android Manga
 
 * ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://github.com/komikku-app/komikku)
-* ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
+* ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
 * ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
 * [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader / [Discord](https://discord.gg/4vmK42QuKG)
@@ -1121,7 +1121,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro)** or [Adguard](https://adguard.com/en/adguard-ios/overview.html) - Adblocker
+* ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** or [Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro) - Adblocker
 * ⭐ **[Orion](https://kagi.com/orion/)** - Adblock Browser w/ Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Brave](https://apps.apple.com/us/app/brave-browser-search-engine/id1052879175) - Adblock Browser
 * [AdGuard Home Remote](https://apps.apple.com/app/id1543143740)
@@ -1162,11 +1162,10 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[CodeVN](https://ios.codevn.net/)** / [Telegram](https://t.me/+1qK9KUZlfGs3ZDg1) or [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Orion to Translate
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Orion to Translate / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library 
-* [AppSnake](https://appsnake.cypwn.xyz/) - IPA Database
 * [⁠iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [UsearcticSigner](https://usearcticsigner.github.io/) - Artic's Repo
-* [fnd](https://fnd.io/) - App Store Search
+* [fnd](https://fnd.io/) or [IPATool](https://github.com/majd/ipatool) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Signup Required /  [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
@@ -1175,6 +1174,7 @@ https://github.com/Akylas/alpimaps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [DecryptedAppStore](https://armconverter.com/decryptedappstore) - Decrypted iOS Apps
+* [AppSnake](https://appsnake.cypwn.xyz/) - Check if Unlockers Work on App
 * [AnyIPA](https://anyipa.me/) - Decrypted iOS Apps / [Discord](https://discord.gg/c233DYUzsw)
 * [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
 
@@ -1183,11 +1183,12 @@ https://github.com/Akylas/alpimaps
 ## ▷ Telegram Channels
 
 * ⭐ **[SultanModsIPAs](https://t.me/SultanModsIPAs)** - Tweaked Apps
-* ⭐ **[BabylonIPA](https://t.me/BabylonIPA)** - Tweaked Games / Telegram
+* ⭐ **[Blatant's IPA Library](https://t.me/blatants)** - Tweaked Apps
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
+* [BabylonIPA](https://t.me/BabylonIPA) - Games
+* [⁠IPA Dark](https://t.me/ipa_dark) - Games
 * [IPA Free](https://t.me/IPA_FREE_RAK) - Tweaked Apps
 * [DPixel](https://t.me/dpixel) - Tweaked Apps
-* [Blatant's IPA Library](https://t.me/blatants) - Tweaked Apps
 * [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps
@@ -1199,10 +1200,11 @@ https://github.com/Akylas/alpimaps
 ## ▷ Social Media Apps
 
 * ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
-* ⭐ **[Winston](https://winston.cafe/)**, [Apollo Improved](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* ⭐ **[Winston](https://winston.cafe/)**, [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)** or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
+* ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In"  Popup to iOS Social Media Apps 
 * [Openvibe](https://openvibe.social/) or [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty) 
@@ -1215,7 +1217,6 @@ https://github.com/Akylas/alpimaps
 * [Watusi](https://github.com/FouadRaheb/Watusi-for-WhatsApp) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
-* [OpenInYT](https://apps.apple.com/app/id1591585819) - Adds "Open In"  Popup to iOS Social Media Apps 
 
 ***
 
@@ -1223,7 +1224,7 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)**, [2](https://t.me/SpotilifeIPAs) - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension)
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) / [Tweak](https://github.com/Rov3r/scmusicplus) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/ / [Discord](https://discord.gg/BhdUyCbgkZ), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) / [Tweak](https://github.com/Rov3r/scmusicplus) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Demus](https://demus.app/) - Streaming
 * [Qello](https://apps.apple.com/app/id491069819) - Concerts & Live Music Streaming
@@ -1281,6 +1282,7 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ iOS Anime
 
+* [Sora](https://github.com/cranci1/Sora/) - Extension-Based / [AltStore Source](https://cranci.tech/repo.json) / [Discord](https://discord.gg/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) - MyAnimeList Client

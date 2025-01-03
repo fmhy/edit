@@ -217,7 +217,8 @@
 
 # ► Travel
 
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
+* ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)**, [TravelPlan](https://www.travelplan-ai.com/#get-trip), [Holiwise](https://www.holiwise.com) or [Eddy](https://chat.eddytravels.com/) - Trip Planning
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
@@ -228,8 +229,6 @@
 * [Roadside America](https://www.roadsideamerica.com/) or [RoadTrippers](https://roadtrippers.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [Kyoto Guide](https://scrapbox.io/kyotoguide/) - Kyoto Travel Guide
-* [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
-* [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [DemoParty](https://www.demoparty.net/) - Find Demoscene Events
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [IOEA](https://ioea.info/) - Find Otaku Expos
@@ -481,6 +480,7 @@
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
 * [NewsNow](https://www.newsnow.co.uk/)
+* [SkimFeed](https://skimfeed.com/)
 * [Google News](https://news.google.com/) / [HTML](http://68k.news/)
 * [Readspike](https://readspike.com/)
 * [sumi.news](https://sumi.news/)
@@ -493,7 +493,7 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
-* ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/)
+* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -579,8 +579,9 @@
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
-* [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets 
+* [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
+* [⁠Impakt](https://www.impakt.com/) - AI Fitness Coach / Social Platform
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [ACTIVE](https://www.active.com/) - Find Local Races & Events
 * [Runlytics](https://www.runlytics.app/) - Running Analytics
@@ -670,7 +671,6 @@
 # ► Career
 
 * 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
-* ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)** or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[4-day week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
 * ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
@@ -699,7 +699,6 @@
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
 * [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - Preview Linkedin Posts
-* [Airtable](https://www.airtable.com/) or [Teatable](https://fteable.io/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
@@ -838,6 +837,28 @@
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) or [Haystack](https://thehaystackapp.com/) - Business Cards
 * [AvaDocs](https://www.avodocs.com/) - Generate Legal Documents for Startups
+
+***
+
+## ▷ Collaboration Platforms
+
+* ⭐ **[NextCloud](https://nextcloud.com/)** - Collaboration Platform / File Sharing / [GitHub](https://github.com/nextcloud)
+* [Atlassian](https://www.atlassian.com/) - Collaboration Platform
+* [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive) 
+* [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform
+* [LucidSpark](https://lucidspark.com/), [Creately](https://creately.com/) or [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
+* [ScreenRec](https://screenrec.com/) - Screen Recording for Collaboration
+* [Zulip](https://zulip.com/) - Team Chat / [GitHub](https://github.com/zulip/zulip/)
+* [Freedcamp](https://freedcamp.com/) - Project / Task Organization
+* [Asana](https://asana.com/) - Project / Task Organization
+* [Focalboard](https://www.focalboard.com/) - Project Manager / [GitHub](https://github.com/mattermost-community/focalboard)
+* [Factsplat](https://factsplat.com/) - Project Manager 
+* [Mural](https://www.mural.co/) - Project Manager
+* [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
+* [Nino](https://nino.app/) - Task Manager
+* [Trello](https://trello.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
+* [Airtable](https://www.airtable.com/) - Spreadsheet-Database Hybrid for Team Workflows
+* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform / Linux
 
 ***
 
@@ -1029,7 +1050,6 @@
 
 * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
-* ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
