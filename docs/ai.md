@@ -128,7 +128,7 @@
 * [Cody](https://sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
-* [GitHub Copolot](https://github.com/features/copilot) - Coding AI
+* [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI
 * [CodiumAI](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Signup
