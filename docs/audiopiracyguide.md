@@ -643,18 +643,17 @@
 
 ## ▷ Audio Servers
 
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
-* ⭐ **[iBroadcast](https://ibroadcast.com)**
+* ⭐ **[Navidrome](https://navidrome.org)**
 * ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**
-* [Gelli](https://github.com/dkanada/gelli), [Feishin](https://github.com/jeffvli/feishin) or [Sonixd](https://github.com/jeffvli/sonixd) - Jellyfin Music Players
-* [SoundSync](https://soundsync.app/), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
+* ⭐ **[iBroadcast](https://ibroadcast.com)**
+* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
+* [Audioling](https://github.com/audioling/audioling) or [Gelli](https://github.com/dkanada/gelli) (Android) - Jellyfin Music Players
+* [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
 * [Mopidy](https://mopidy.com/)
-* [Auddly](https://auddly.app/)
 * [Black Candy](https://github.com/blackcandy-org/blackcandy)
 * [Music Player Daemon](https://www.musicpd.org/)
-* [Navidrome](https://www.navidrome.org/)
 * [Polaris](https://github.com/agersant/polaris)
 * [Gonic](https://github.com/sentriz/gonic)
 * [SynchronousAudioRouter](https://github.com/eiz/SynchronousAudioRouter)
