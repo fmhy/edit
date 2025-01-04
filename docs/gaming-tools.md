@@ -23,7 +23,7 @@
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
-* [Challonge](https://challonge.com/) - Tournament Creator / Manager
+* [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournament Creators / Managers
 * [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Manager
@@ -581,6 +581,7 @@
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/) - Mapart Schematic / map.dat Generator
 * [BlueMap](https://bluemap.bluecolored.de/) - Create 3D Map Models / [GitHub](https://github.com/BlueMap-Minecraft/BlueMap)
+* [⁠Arnis](https://github.com/louis-e/arnis) - Generate Minecraft Versions of any Locations
 * [Chunker](https://oss.chunker.app/) - Java / Bedrock Format Converter
 * [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
@@ -704,7 +705,7 @@
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokémon Coders](https://www.pokemoncoders.com/) - Hacked Pokémon ROMs
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
-* [PokéRogue](https://pokerogue.net/) - Pokémon Dungeon Crawler / [Discord](https://discord.com/invite/uWpTfdKG49)
+* [PokéRogue](https://pokerogue.net/) - Pokémon Dungeon Crawler / [Wiki](https://wiki.pokerogue.net/start) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49)
 * [Gearoid Pokémon](https://gearoid.me/pokemon/) - Pokémon Guessing Game
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [PMD Generators](https://syphist.com/pmd/) - Pokémon Mystery Dungeon Generators 
@@ -879,6 +880,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
+* [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Untap.in](https://untap.in/) - Test Card Game Decks

@@ -38,7 +38,7 @@
 
 ## Ambient Sound Mixers
 
-[myNoise](https://mynoise.net/), [ambiphone](https://ambiph.one/), [Moodist](https://moodist.app/), [Moodli](https://www.moodil.com/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [CalmyLeon](https://calmyleon.com/), [Noises Online](https://noises.online/), [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/), [A Soft Murmur](https://asoftmurmur.com/), [EcoSounds](https://en.ecosounds.net/), [VirtOcean](https://virtocean.com/), [ASMRion](https://asmrion.com/), [Defonic](https://defonic.com), [Sound Of Colleagues](https://soundofcolleagues.com/), [IMissTheOffice](https://imisstheoffice.eu/), [I Miss My Bar](http://imissmybar.com/), [Homesick](https://scoreascore.com/homesick)
+[myNoise](https://mynoise.net/), [ambiphone](https://ambiph.one/), [Moodist](https://moodist.app/), [Moodli](https://www.moodil.com/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [CalmyLeon](https://calmyleon.com/), [Noises Online](https://noises.online/), [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/), [A Soft Murmur](https://asoftmurmur.com/), [EcoSounds](https://en.ecosounds.net/), [VirtOcean](https://virtocean.com/), [ASMRion](https://asmrion.com/), [Defonic](https://defonic.com), [Sound Of Colleagues](https://soundofcolleagues.com/), [IMissTheOffice](https://imisstheoffice.eu/), [I Miss My Bar](http://imissmybar.com/), [Homesick](https://scoreascore.com/homesick), [Click Bath](https://hamishlang.github.io/clickbath/)
 
 ***
 
@@ -356,7 +356,7 @@
 
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
-[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/)
+[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/), [ToyBox](https://toybox.toms.toys/)
 
 ***
 
@@ -705,7 +705,6 @@
 
 ## Multi Dev Tool Sites
 
-* ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide)
 * ⭐ **[Free for Developers](https://free-for.dev/)**
 
 [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Omatsuri](https://omatsuri.app/), [devina](https://devina.io/), [wangchujiang](https://wangchujiang.com/tools/), [Addy](https://toolkit.addy.codes/)

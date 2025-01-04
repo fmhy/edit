@@ -353,7 +353,6 @@
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
 * [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
-* [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
 * [scrt.link](https://scrt.link/) - Single Use Links
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links / [JS Library](https://github.com/eight04/linkify-plus-plus-core)

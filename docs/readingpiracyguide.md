@@ -920,7 +920,7 @@
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
-* [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
+* [Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle) - Jailbreak Kindle
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 

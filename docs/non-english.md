@@ -42,6 +42,7 @@
 * [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
+* [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
@@ -403,6 +404,7 @@
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 * [Deal Labs](https://www.dealabs.com/) - Track Deals
+* [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) - Item Donation
 
@@ -466,7 +468,8 @@
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
-* [Planet-DB](https://planete-bd.org/) - Manga / Comics
+* [Planete-BD](https://planete-bd.org/) - Manga / Comics
+* [Scan Manga](https://www.scan-manga.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
 * [oraedes](https://oraedes.fr/) - Occult / Esoteric
@@ -867,6 +870,7 @@
 * [MangaSuika](https://www.mangasuika.com/ ) - Manga
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
+* [LManga](https://www.lmanga.com/) - Manga
 * [spoilerplus](https://spoilerplus.tv>) - Manga
 * [Nikaraw](https://nikaraw.com/) - Manga
 * [mangajikan](https://www.mangajikan.com/) - Manga
@@ -1122,6 +1126,7 @@
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeKage](https://ak631.animekage.com/) - Anime / Sub / 1080p
+* [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
 * [NewZect](https://newzect.com) - Asian Drama / Sub / 720p
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
@@ -1238,7 +1243,7 @@
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV / Sub / 720p
 * [Deseneledublate](https://deseneledublate.com/) - Movies / TV / Sub / 720p
 * [portalultautv](https://portalultautv.biz/) - Movies / TV / Sub
-* [fsonline]https://www3.fsonline.app/) - Movies / TV / Sub
+* [fsonline](https://www3.fsonline.app/) - Movies / TV / Sub
 * [xfilme](https://xfilme.ro/) - Movies
 * [filmflix](https://filmflix.ro/) - Movies
 * [Meoo.ro](https://meoo.ro/) - Movies

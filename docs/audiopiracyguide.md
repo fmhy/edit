@@ -168,12 +168,13 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Concert Recordings / Torrents
 * [Guitars101](https://www.guitars101.com/) - Live Guitar Songs
-* [EDMLiveSet](https://www.edmliveset.com/) - DJ Mixes / Livesets
+* [EDMLiveSet](https://www.edmliveset.com/) or [⁠TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
+* [Phish.in](https://phish.in/) - Phish Audience Recording / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
 * [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
 ***
@@ -281,6 +282,7 @@
 * [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [You are Listening To LA](http://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
+* [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
 ***
@@ -452,7 +454,7 @@
 * [SongStems](https://songstems.net/) - STEM Files
 * [BitMidi](https://bitmidi.com/), [Geocities Midis](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
-* [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community / [Wiki](https://wiki.musichoarders.xyz/)
+* [Music Hoarders](https://discord.gg/kQUQkuwSaT) - Music Hoarding Community / [Wiki](https://wiki.musichoarders.xyz/)
 
 ***
 
@@ -563,6 +565,7 @@
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
 * [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
+* [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
@@ -751,7 +754,7 @@
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
-* ⭐ **[KVR Audio](https://www.kvraudio.com/)** or [VI-CONTROL](https://vi-control.net/community/) - Audio Production News / Forums
+* ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials / [Discord](https://discord.gg/KfyHfUTjsK)
 * [We Suck At Producing](https://discord.gg/wsap) - Audio Production Discord
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
@@ -768,7 +771,7 @@
 * ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p) / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editors
 * ⭐ **[Reaper](https://www.reaper.fm/)** - Digital Audio Workstation / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)
-* ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)** or [AudioZ](https://audioz.download/) - Audio Editors, Adobe Software, Plugins etc.
+* ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)** or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editors, Adobe Software, Plugins etc.
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [Zrythm](https://www.zrythm.org/en/index.html) - Digital Audio Workstation
@@ -796,15 +799,13 @@
 * ⭐ **[BandLab](https://www.bandlab.com/)** - Digtal Audio Workstation
 * ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Sequencer
 * [Pro-54](https://cmajor.dev/docs/Examples/Pro54/) - Pro-53 Browser Port
 * [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
+* [Efflux](https://www.igorski.nl/application/efflux/), [OnlineSequencer](https://onlinesequencer.net/) or [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Online Sequencers
 * [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
-* [OnlineSequencer](https://onlinesequencer.net/) - Music Sequencer
 * [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
 * [AudioMass](https://audiomass.co/) - Online Editor
 * [editor.audio](https://editor.audio/) - Online Editor
-* [Efflux](https://www.igorski.nl/application/efflux/) - Music Sequencer
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
 * [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [Signal](https://signal.vercel.app/) - MIDI Editor
@@ -830,7 +831,7 @@
 ## ▷ Audio Plugins
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
-* ⭐ **[AudioZ](https://audioz.download/)** - Download
+* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/
 * ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)**- Download
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools

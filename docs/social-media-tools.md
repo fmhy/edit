@@ -691,6 +691,9 @@
 * [FediSearch](https://fedi-search.com/) - Fediverse Search
 * [Fedi.Garden](https://fedi.garden/) - Curated User Directory
 * [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
+* [Hubzilla Public Sites](https://hubzilla.org/pubsites) - Hubzilla Instances
+* [Friendica Directory](https://dir.friendica.social/servers) - Friendica Instances
+* [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Netoworks
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
 * [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
