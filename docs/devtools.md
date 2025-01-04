@@ -210,6 +210,7 @@
 * [Ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/) - Undo Git Commands
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor
+* [⁠commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
 * [Serie](https://github.com/lusingander/serie) - Commit Graph
@@ -951,7 +952,7 @@
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
-* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
 ***
@@ -1095,7 +1096,7 @@
 * [MXToolBox](https://mxtoolbox.com/) - MX Record Lookup Tool
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tools
-* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/) or [Desec](https://desec.io/) - Dynamic DNS Services
+* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info) or [Desec](https://desec.io/) - Dynamic DNS Services
 
 ***
 

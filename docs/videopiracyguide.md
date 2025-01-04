@@ -8,8 +8,8 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -38,6 +38,7 @@
 * [ArabiFlix](https://www.arabiflix.com/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/F9pAkJGNHQ)
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/), [4](https://streammovies.to/) - Movies / TV
+* [xPrime](https://xprime.tv/) - Movies / TV / Anime
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/) - Movies / TV / Anime [Discord](https://discord.gg/TXqWTKeAAu)
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
@@ -61,7 +62,6 @@
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [Donkey](https://donkey.to/) - Movies / TV / Anime
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
-* [xPrime](https://xprime.tv/) - Movies / TV / Anime
 * [SFlix](https://sflix2.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
 * [Wovie](https://wovie.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/iswilljr/wovie)
 * [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
@@ -478,7 +478,7 @@
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays
-* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
+* ⭐ **[1Max](https://1max.top/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays
 * ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays
 * [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
@@ -495,6 +495,7 @@
 * [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 * [WatchProWrestling](https://watchprowrestlings.org/) - MMA / Wrestling Replays
+* [WatchWrestlings](https://watchwrestlings.pro/) - MMA / Wrestling Replays
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
 * [123Wrestling](https://123wrestling.com/) - Wrestling Replays

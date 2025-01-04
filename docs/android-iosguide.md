@@ -235,6 +235,7 @@
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
 * [WallpaperSelection](https://t.me/wallpaperselection) - Wallpapers
+* [PeakPX](https://www.peakpx.com/) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
@@ -456,7 +457,7 @@
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)** or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
-* ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)** - Hide Files / Apps
+* ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
 * [ceno-browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
 * [WG Tunnel](https://zaneschepke.com/wgtunnel-docs/overview.html) - WireGuard VPN App / [Discord](https://discord.gg/rbRRNh6H7V) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/zaneschepke/wgtunnel)
@@ -494,6 +495,7 @@
 * ⭐ **[Wolfram Alpha](https://rentry.co/FMHYBase64#wolfram-mobile)** - Searchable Knowledge Base
 * [Pluma RSS](https://rentry.co/FMHYBase64#pluma-rss), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://f-droid.org/packages/co.appreactor.news/) / [GitHub](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti), [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news), [CapyReader](https://github.com/jocmp/capyreader) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Raven](https://github.com/ksh-b/raven) - News Apps
+* [Hacker News](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) - Tech News App
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/yk5RRvkV), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
@@ -989,7 +991,7 @@ https://github.com/Akylas/alpimaps
 * [Das Image](https://apps.apple.com/app/id1464079804), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [wrtn](https://apps.apple.com/app/id6448556170), [ChatGPT](https://apps.apple.com/app/id6448311069) or [KAI.](https://apps.apple.com/app/id6448476817) - ChatGPT Apps
 * [Santander](https://github.com/NSAntoine/Santander) - File Managers
-* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Clients / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json)
+* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Client / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json)
 * [iZip](https://apps.apple.com/app/id413971331) - File Archiver
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator
@@ -1012,6 +1014,7 @@ https://github.com/Akylas/alpimaps
 * [Keynote](https://apps.apple.com/app/id361285480) - Make Presentations
 * [GlobeConvert](https://apps.apple.com/app/id334851202) - Currency / Unit Converter
 * [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation App
+* [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491) or [Hacki](https://apps.apple.com/app/id1602043763) - Tech News / HN Apps
 * [Fiery Feeds](https://apps.apple.com/app/id1158763303), [Feeeed](https://apps.apple.com/app/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/app/id1480640210) - RSS Reader
 * [SlimeKT](https://kasem-sm.github.io/SlimeKT) - Article Aggregator / [GitHub](https://github.com/kasem-sm/SlimeKT)
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -1165,7 +1168,7 @@ https://github.com/Akylas/alpimaps
 * [⁠iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [UsearcticSigner](https://usearcticsigner.github.io/) - Artic's Repo
-* [fnd](https://fnd.io/) or [IPATool](https://github.com/majd/ipatool) - App Store Search
+* [fnd](https://fnd.io/) - App Store Search
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Signup Required /  [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
@@ -1173,6 +1176,7 @@ https://github.com/Akylas/alpimaps
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
+* [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
 * [DecryptedAppStore](https://armconverter.com/decryptedappstore) - Decrypted iOS Apps
 * [AppSnake](https://appsnake.cypwn.xyz/) - Check if Unlockers Work on App
 * [AnyIPA](https://anyipa.me/) - Decrypted iOS Apps / [Discord](https://discord.gg/c233DYUzsw)
@@ -1199,10 +1203,10 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ Social Media Apps
 
-* ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
+* ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT), [Rosecord](https://github.com/Skawtnyc/rosiecord) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
 * ⭐ **[Winston](https://winston.cafe/)**, [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
-* ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)** or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
+* ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta ](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In"  Popup to iOS Social Media Apps 
 * [Openvibe](https://openvibe.social/) or [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
@@ -1224,7 +1228,10 @@ https://github.com/Akylas/alpimaps
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)**, [2](https://t.me/SpotilifeIPAs) - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension)
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/ / [Discord](https://discord.gg/BhdUyCbgkZ), [Trebel](https://home.trebel.io/), [Soundcloud](https://soundcloud.com/download) / [Tweak](https://github.com/Rov3r/scmusicplus) or [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/) - Streaming / [Discord](https://discord.gg/BhdUyCbgkZ)
+* [Trebel](https://home.trebel.io/) - Streaming
+* [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
+* [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Demus](https://demus.app/) - Streaming
 * [Qello](https://apps.apple.com/app/id491069819) - Concerts & Live Music Streaming
@@ -1297,6 +1304,7 @@ https://github.com/Akylas/alpimaps
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Discord](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
 * [YouTube Plus](https://github.com/dayanch96/YTLite) - Modded YouTube iPA
 * [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
+* [YT Safari Extensions](https://t.me/SultanModsIPAs) - Clean Player Extensions (Try Vinegar or Baking Soda)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 
 ***

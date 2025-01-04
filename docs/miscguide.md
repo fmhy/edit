@@ -493,7 +493,7 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
-* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/)
+* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -537,6 +537,7 @@
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [HG Search](https://hgsearch.ridhom.dev/) - HealthyGamerGG Keyword Search
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* [Meditation Infographic](https://i.ibb.co/BNWDCbS/2552-IIB-Meditation.png) / [2](blob:https://imgur.com/29868741-76fe-4b98-bb42-2bf947201ae3) - Meditation Techniques
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
@@ -681,6 +682,7 @@
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
+* [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs 
 * [⁠Job Shell](https://github.com/angelplusultra/job-shell) - Scrape Job Postings
 * [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Job Application Autofill Tools
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
@@ -765,7 +767,7 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit (Check "Job Posts" flag)
 * [MTurk](https://www.mturk.com/) - Online Task Work
-* [NoCummute](https://www.nocommutejob.com/) - Remote Job Notifications
+* [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
@@ -794,6 +796,7 @@
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
+* [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs

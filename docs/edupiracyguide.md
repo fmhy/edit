@@ -234,7 +234,7 @@
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music)**
-* ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)**, [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
+* ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner
@@ -254,7 +254,7 @@
 * [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
 * [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
 * [Chorder](https://www.chorder.com/guitar-chords/) - C Major Guitar Chord
-* [Guitar Fretboard](https://muted.io/guitar-fretboard/) or [Fretboard Fly](https://www.fretboardfly.com/) - Virtual Fretboards
+* [Guitar Fretboard](https://muted.io/guitar-fretboard/), [Fretastic](https://fretastic.com/guitar) or [Fretboard Fly](https://www.fretboardfly.com/) - Virtual Fretboards / Guitar Lessons
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) or [FreeDrumLessons](https://www.youtube.com/c/freedrumlessons) - Drum Lessons
 * [911tabs](https://www.911tabs.com/) or [Finger Tabs](https://fingertabs.com/) - Tabs
 * [Jazz Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Improvised Jazz
@@ -867,6 +867,7 @@
 
 * ⭐ **[StudySpanish](https://studyspanish.com/)** or [LibreLingo](https://librelingo.app/) - Learn Spanish
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
+* [SpanishChecker](https://spanishchecker.com/) - Spanish Grammar Check
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
@@ -1136,6 +1137,7 @@
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [ProjectLearn](https://projectlearn.io/) - Coding Practice
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
+* [CyberType](https://cybertype.app/) - Increase Coding Speed
 * [Coding Questions](https://platform.stratascratch.com/coding) or [Skilled.dev](https://skilled.dev/) - Coding Interview Questions
 * [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges), [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Hackathon / Challenge Communities
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code), [CodeAbbey](https://www.codeabbey.com/), [Kattis](https://open.kattis.com/) or [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
@@ -1192,7 +1194,7 @@
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
-* [sha256_project](https://github.com/oconnor663/sha256_project, [CryptoPals](https://cryptopals.com/) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+* [sha256_project](https://github.com/oconnor663/sha256_project), [CryptoPals](https://cryptopals.com/) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
 

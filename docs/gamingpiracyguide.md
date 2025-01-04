@@ -347,7 +347,7 @@
 * [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
 * [SMWGames](https://www.smwgames.com/) - Modded Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
-* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
+* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
 * [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
@@ -686,9 +686,11 @@
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
 * [Actorle TV](https://actorle.tv/) - TV Show Guessing
 * [GuessAnimeQuiz](https://guessanimequiz.com/) - Anime Guessing
+* [AMQ](https://animemusicquiz.com/) - Anime Theme Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
+* [The Wiki Game](https://www.thewikigame.com/), [Pedantle](https://cemantle.certitudes.org/pedantle), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/) - Music Guessing Games
+* [More or Less](https://moreorless.io/) - More or Less Guessing
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
@@ -703,7 +705,7 @@
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
-* [PkmnQuiz](https://pkmnquiz.com/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
+* [PkmnQuiz](https://pkmnquiz.com/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Owdle](https://owdle.guessing.day/) - Overwatch Guess Games
 * [Teuteuf](https://teuteuf.fr/) - Geography Guessing Games
@@ -725,6 +727,7 @@
 * [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alt
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
+* [Back Of Your Hand](https://backofyourhand.com/) - Local GeoGuessr
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr

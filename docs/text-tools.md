@@ -196,6 +196,7 @@
 * ⭐ **[Smassh](https://github.com/kraanzu/smassh)** or [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
 * [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-up Required
 * [keybr](https://www.keybr.com/) - Typing Practice
+* [CyberType](https://cybertype.app/) - Typing Practice
 * [Typing.com](https://www.typing.com/) - Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires Javascript Enabled
@@ -358,7 +359,7 @@
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
 * [TinySheet](https://tinysheet.com/), [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / Editors
-* [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
+* [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
