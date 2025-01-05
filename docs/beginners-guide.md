@@ -125,7 +125,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 > What is Port Forwarding? Do I need it?
 
-[Port forwarding](https://rentry.org/the-piracy-glossary#torrenting-terms) (having an open port) is an essential part of torrenting and it's recommended to set it up. Generally it's not strictly needed, but it benefits the swarm, can sometimes boost download speeds, and improve connectability on torrents with fewer seeds.
+[Port forwarding](https://rentry.org/the-piracy-glossary#torrenting-terms) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectability for torrents with fewer seeds.
 
 * **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
 * **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
