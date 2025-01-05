@@ -342,6 +342,7 @@
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
+* 🌐 **[Streaming Site APIs](https://rentry.co/onbksdgu)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -362,34 +363,6 @@
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
-
-***
-
-## ▷ Streaming APIs
-
-* [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime
-* [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime
-* [Rive API](https://rivestream.live/embed/docs) - Movies / TV / Anime
-* [sudo-flix](https://docs.undi.rest/) - Movies / TV / Anime
-* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
-* [111movies](https://111movies.com/) - Movies / TV / Anime
-* [Embed.su](https://embed.su/) - Movies / TV / Anime
-* [Embed RGShows](https://embed.rgshows.me/) - Movies / TV / Anime
-* [GoMo](https://gomo.to/) - Movies / TV / Anime
-* [SuperEmbed](https://www.superembed.stream/) - Movies / TV
-* [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV
-* [VidLink](https://vidlink.pro/) - Movies / TV
-* [WHVX](https://whvx.net/) - Movies / TV / Anime
-* [SpenEmbed](https://embed.spencerdevs.xyz/) - Movies / TV
-* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime
-* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime
-* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime
-* [VidSrc.vip](https://vidsrc.vip/) - Movies / TV / Anime
-* [Flicky](https://www.flicky.host/) - Movies / TV / Anime
-* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime
-* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / [Telegram](https://t.me/moviesapi_club)
-* [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use Popup Blocker
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 
 ***
 
