@@ -181,6 +181,7 @@
 * ⭐ **[nekoray](https://matsuridayo.github.io/)** - DIY Privacy Network / [Telegram](https://t.me/Matsuridayo) / [GitHub](https://github.com/MatsuriDayo/nekoray)
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor / [Telegram](https://t.me/+6ElWHdZK8d5iMGEy) 
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
+* ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.co/SecureDNSClient) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
 * [Fort](https://github.com/tnodir/fort) - Firewall
@@ -376,20 +377,19 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[DNSveil](https://github.com/msasanmh/DNSveil)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [CensorTracker](https://censortracker.org/), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
-* [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://dnscrypt.info/) - Local DNS Encryption Proxy
-* [Blocky](https://github.com/0xERR0R/blocky) - DNS Proxy
+* [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
+* [Acrylic](https://mayakron.altervista.org/) - Local DNS Proxy
+* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://dnscrypt.info/) / [GitHub](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS Encryption Proxy
+* [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Proxy / [GitHub](https://github.com/0xERR0R/blocky)
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
-* [Hiddify](https://hiddify.com/) - Auto-Proxy Client
-* [NginxProxyManager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
-* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
+* [wireproxy](https://github.com/pufferffish/wireproxy) - WireGuard as proxy
+* [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
-* [TitaniumNetwork](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock)
+* [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
 ***
 
@@ -399,43 +399,38 @@
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[Incognito](https://incog.works/)**
 * ⭐ **[Blockaway](https://www.blockaway.net/)**
-* ⭐ **[Alu](https://aluu.xyz/en/)**
-* [Holy Unblocker](https://holyunblocker.org/)
-* [ProxySite](https://www.proxysite.com/)
-* [Hide.me](https://hide.me/en/proxy)
+* ⭐ **[Alu](https://aluu.xyz/en/)** / [Discord](https://discord.gg/unblock)
+* [Holy Unblocker](https://holyunblocker.org/) / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+* [ProxySite](https://www.proxysite.com/) / [Discord](https://discord.gg/79Usg5X)
+* [hide.me](https://hide.me/en/proxy) / [Discord](https://discord.com/invite/JaCtD7Vdpq)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/)
 * [HideIP](https://www.hideip.co/)
-* [4EverProxy](https://www.4everproxy.com/)
+* [4everproxy](https://www.4everproxy.com/)
 * [Free Proxy](https://freeproxy.win/)
 * [Free Proxy Servers](https://www.free-proxy-servers.com/)
-* [VPN Book](https://www.vpnbook.com/webproxy)
-* [CroxyProxy](https://www.croxyproxy.com/)
-* [ProxyPx](https://croxyproxy.best/)
-* [ProxySite](https://www.proxysite.cc/)
+* [CroxyProxy](https://www.croxyproxy.com/), [2](https://croxyproxy.best/)
+* [Proxy Site](https://www.proxysite.cc/), [2](https://unblocksites.online/)
 * [ProxyOf2](https://proxyof2.com/)
-* [Proxy-URLs](https://www.proxy-urls.com/)
+* [Proxy URLs](https://www.proxy-urls.com/)
 * [Sitenable](https://freeproxy.io/)
-* [PlainProxies](https://plainproxies.com/resources/free-web-proxy)
-* [UnblockSites](https://unblocksites.online/)
+* [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies
 * [Proxyium](https://proxyium.com/)
-* [Google Translate](https://translate.google.com/) / [Proxy Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
-* [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
-* [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
-* [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
+* [Google Translate](https://translate.google.com/) / [Google Translate / Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
+* [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [WhatIsMyProxy](http://www.whatismyproxy.com/) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
+* [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
 
 ***
 
 ## ▷ Anti-Censorship
 
-* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass / V2Ray Guide
+* ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass Guide
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
-* ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy Mobile App
-* [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN
-* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb
-* [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies
+* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) / [Mobile](https://github.com/shadowsocks/shadowsocks-android)
+* [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [GitHub](https://github.com/Psiphon-Inc/psiphon)
+* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb / [GitHub](https://github.com/getlantern/lantern)
+* [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
-* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
-* [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server
-* [Xray-Core](https://github.com/XTLS/Xray-core) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
-* [SingBox](https://sing-box.sagernet.org/) - Anti-Censorship Client ⁠/ [GitHub](https://github.com/SagerNet/sing-box)
+* [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria) 
+* [Project X](https://github.com/XTLS/Xray-core) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
+* [sing-box](https://sing-box.sagernet.org/) - Anti-Censorship Client / [Telegram](https://t.me/yapug) ⁠/ [GitHub](https://github.com/SagerNet/sing-box)
