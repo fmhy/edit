@@ -13,7 +13,7 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / Auto-Next
 * ⭐ **[PrimeWire](https://www.primewire.tf/)**, [2](https://www.primewire.li/) - Movies / TV / Anime
-* [SFlix](https://sflix2.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
+* ⭐ **[SFlix](https://sflix2.to/)**, [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV - Movies / TV / Anime
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 4K / Auto-Next / **Use Adblock** / [Discord](https://discord.gg/nepu)
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
