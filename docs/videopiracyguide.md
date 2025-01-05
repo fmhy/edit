@@ -38,7 +38,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [MultiMovies](https://multimovies.lat/) - Movies / TV
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
-* [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
@@ -58,13 +57,13 @@
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[NetPlayz](https://netplayz.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[Zilla](https://zilla-xr.xyz/)** - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb)
 * ⭐ **[Mapple.tv](https://mapple.tv/)** - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
+* [StreamFlix](https://watch.streamflix.one/), [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime  / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
@@ -216,7 +215,7 @@
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / [Discord](https://discord.com/invite/yY2P3DQR8S) 
-* ⭐ **[KissAsian](https://kissasian.video/)** - TV / Movies
+* [KissAsian](https://kissasian.video/) - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies

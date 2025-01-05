@@ -55,8 +55,8 @@
 
 ## ▷ FOSS APKs
 
-* [Awesome Android Root](https://awesome-android-root.link/) - Rooted App Index / [GitHub](https://github.com/fynks/awesome-android-root)
 * 🌐 **[OS Apps](https://github.com/pcqpcq/open-source-android-apps)**, [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[Awesome Android Root](https://awesome-android-root.link/)** - Rooted App Index / [GitHub](https://github.com/fynks/awesome-android-root)
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index / [Tools](https://github.com/legendsayantan/ShizuTools)
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** - Simple FOSS Apps 
 * ⭐ **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS App Installer

@@ -1059,8 +1059,8 @@
 ## Switch ROMs
 
 * ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
-* [NXBrew](https://nxbrew.net/) / Scroll past Download Setup buttons
-* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
+* [NXBrew](https://nxbrew.net/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
+* [Ziperto](https://ziperto.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ziperto-warning) / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRom](https://nswrom.com/)
 * [taodung](https://taodung.com/)
