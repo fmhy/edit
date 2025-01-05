@@ -304,7 +304,7 @@
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
-* [Brie's Music UI](https://api.brie.se/musicui) - Tidal / 320kb / FLAC
+* [Brie's Music UI](f) - Tidal / 320kb / FLAC
 
 ***
 
@@ -831,12 +831,13 @@
 ## ▷ Audio Plugins
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
-* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/
+* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://codec.kyiv.ua/Audi0.htm)**- Download
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
+* [⁠AirWindows](https://www.airwindows.com/) - Download / [Consolidated](https://www.airwindows.com/consolidated/)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [PluginTorrent](https://plugintorrent.com/) - Torrent

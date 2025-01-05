@@ -698,17 +698,17 @@
 * 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
-* ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokédexes
+* ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
 * ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[PokéRogue](https://pokerogue.net/)** - Pokémon Dungeon Crawler / [Wiki](https://wiki.pokerogue.net/start) / [Subreddit](https://reddit.com/r/pokerogue/) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Discord](https://discord.com/invite/uWpTfdKG49)
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves etc.
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokémon Coders](https://www.pokemoncoders.com/) - Hacked Pokémon ROMs
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
-* [PokéRogue](https://pokerogue.net/) - Pokémon Dungeon Crawler / [Wiki](https://wiki.pokerogue.net/start) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49)
-* [Gearoid Pokémon](https://gearoid.me/pokemon/) - Pokémon Guessing Game
+* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [PMD Generators](https://syphist.com/pmd/) - Pokémon Mystery Dungeon Generators 
 generate various codes codes for the Pokémon Mystery Dungeon series 

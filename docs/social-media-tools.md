@@ -636,7 +636,7 @@
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
-* [Color Themes](https://chromewebstore.google.com/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [FB.Zone](https://fb.zone/) or [Color Changer](https://chromewebstore.google.com/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
+* [FB.Zone](https://fb.zone/) - Color Themes for Facebook
 * [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID

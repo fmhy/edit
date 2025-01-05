@@ -142,7 +142,6 @@
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake / [Video](https://youtu.be/t-93kDC8Vac)
-* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project Discord
@@ -524,6 +523,7 @@
 
 ## ▷ Simulation
 
+* [HatTrick](https://www.hattrick.org/) - Multiplayer Football Manager
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
 * [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Simulators
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
@@ -705,9 +705,9 @@
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
-* [PkmnQuiz](https://pkmnquiz.com/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
+* [PkmnQuiz](https://pkmnquiz.com/), [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
-* [Owdle](https://owdle.guessing.day/) - Overwatch Guess Games
+* [Owdle](https://owdle.guessing.day/) - Overwatch Guessing Games
 * [Teuteuf](https://teuteuf.fr/) - Geography Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First

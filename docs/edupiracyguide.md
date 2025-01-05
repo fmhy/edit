@@ -947,7 +947,7 @@
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
-* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials) or [Code Basics](https://code-basics.com/) - Interactive Programming Courses
+* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials), [ZedLX](https://zedlx.com/) or [Code Basics](https://code-basics.com/) - Interactive Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
@@ -1125,6 +1125,7 @@
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
+* [⁠Zasper](https://github.com/zasper-io/zasper) - Data Science IDE
 
 ***
 
@@ -1323,13 +1324,13 @@
 
 * 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
+* ⭐ **[JEE Hub](https://jeehub.vercel.app/)** - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archive
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
 * [Adv Study Material](https://rentry.co/FMHYBase64#jee-study) - Guides / Study Material
 * [Novatra's Topicwise](https://quiz.novatra.in/) - JEE Practice Questions / [Chatbot](https://novatra.in/) / [Discord](https://discord.com/invite/bgVVDA7n3h)
-* [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
 
 ***

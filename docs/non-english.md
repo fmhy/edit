@@ -457,6 +457,7 @@
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
+* [Grafikart](https://grafikart.fr/) - Programming Courses
 
 ## ▷ Reading / Lecture 
 
@@ -1064,6 +1065,7 @@
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
 * [CDA](https://www.cda.pl/video) - User Videos
+* [Naikamu](https://naikamu.com/) - Anime Streaming / Android
 
 ## ▷ Reading / Czytanie 
 
