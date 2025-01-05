@@ -56,6 +56,7 @@
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
+* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[NetPlayz](https://netplayz.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[Zilla](https://zilla-xr.xyz/)** - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb)
 * ⭐ **[Mapple.tv](https://mapple.tv/)** - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
@@ -63,7 +64,6 @@
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
-* [StreamFlix](https://watch.streamflix.one/), [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime  / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
