@@ -1413,6 +1413,7 @@
 * [Filibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
+* [⁠Maxima Library](https://maxima-library.com/) - Books
 * [rulit](https://www.rulit.me/) - Books
 * [bookscafe](https://bookscafe.net/) - Books / NSFW
 * [MirKnig.sur](https://mirknig.su/) - Books / Fiction / Nonfiction
