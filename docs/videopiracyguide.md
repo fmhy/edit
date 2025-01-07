@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check our [Site Grading System](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and  their respective pros & cons.
+* **Note** - Check our [site grading system](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and  their respective pros & cons.
 
 ***
 
