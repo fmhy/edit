@@ -62,7 +62,7 @@
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
-* [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
+* [Hopcorn](https://c.hopmarks.com/), [2](https://p.hopmarks.com/) - Movies / TV / Anime
 * [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime /[Discord](https://discord.gg/mh2Bte8Kfj)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
