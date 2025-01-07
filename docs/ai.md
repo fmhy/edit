@@ -9,85 +9,85 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
-* ⭐ **[Gemini](https://aistudio.google.com/app/prompts/new_chat)**, [2](https://gemini.google.com/) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot / Use 2.0 Flash
+* ⭐ **[Gemini](https://gemini.google.com/)**, [2](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot / Use 2.0 Flash
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup
-* ⭐ **[Mistral](https://chat.mistral.ai/chat)** - Multiple Chatbots
+* ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[Mistral](https://mistral.ai/)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai) 
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
-* [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://chat.sorapi.dev/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
-* [AIAssistantBot](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
-* [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
+* [AI Assistant](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
+* [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
-* [TypeSet](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) - Research Paper Chatbots
+* [SciSpace](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
-* [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [Models](https://huggingface.co/chat/models)
-* [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
-* [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
-* [Electron Hub](https://playground.electronhub.top/) - Multiple Chatbots
-* [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
-* [NexusAI Chat](https://chat.nexusmind.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
-* [NextChat](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) - Multiple Chatbots / No Signup
-* [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
+* [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
+* [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
+* [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots / [Discord](https://discord.gg/4rR282WJb6)
+* [Electron Hub](https://www.electronhub.top/) - Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
+* [feynChat](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
+* [NexusAI](https://chat.nexusmind.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
+* [NextChat](https://nextchat.dev/) - Multiple Chatbots / No Signup / [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+* [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
-* [groq](https://groq.com/) - Llama 3 and Mixtral Chatbots
-* [SambaNova](https://cloud.sambanova.ai/) - Llama 3.1 405B / Enter Fake Info
+* [Groq](https://groq.com/) - Llama 3 and Mixtral Chatbots / [Discord](https://discord.gg/invite/groq)
+* [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
-* [Grok](https://x.ai/grok) - Twitters Chatbot
-* [DeepSeek](https://chat.deepseek.com/) - R1-Lite-Preview / 50 Daily
-* [Autonomous](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
+* [Grok](https://x.ai/grok) - Twitter's Chatbot
+* [DeepSeek](https://www.deepseek.com/) - R1-Lite-Preview / 50 Daily / [GitHub](https://github.com/deepseek-ai)
+* [Anon](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
-* [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
-* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot / No Signup
+* [Pi](https://pi.ai/) - Inflection AI's Chatbot
+* [Reka](https://www.reka.ai/) - Reka's Chatbot / No Signup / [Discord](https://discord.gg/jtjNSD52mf)
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
-* [PrivateGPT](https://docs.privategpt.dev/), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://app.docsgpt.cloud/) - Document Chatbots / Note-Taking
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI Screen Recorder / No Signup
-* [Leon](https://getleon.ai/) - AI Assistant
+* [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Raven](https://www.ravenotes.com/), [Onyx](https://www.onyx.app/) / [Discord](https://discord.gg/VKwU6Wr2) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.gg/VKwU6Wr2) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
+* [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Signup / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)
+* [Leon](https://getleon.ai/) - AI Assistant / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
 
 ***
 
 ## ▷ AI Search Engines
 
-* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English / No Signup
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt) / [GitHub](https://github.com/copilot)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/) / [Enhancements](https://cplx.vercel.app/)
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
+* ⭐ **[Lutton](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English / No Signup
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Enhancments](https://cplx.vercel.app/) / [Open Source Models](https://labs.perplexity.ai/) /  / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[MiniPerplx](https://mplx.run/)** - AI Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/miniperplx/)
-* ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required
-* [Hyper](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/)
+* ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
+* [Hyperspace](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai) 
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Signup / [Discord](https://discord.gg/S25yW8TebZ)
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / No Signup / [Discord](https://discord.gg/zRxaseCuGq)
 * [Komo](https://komo.ai/) - AI Search Engine / No Signup
-* [⁠Hika](https://hika.fyi/) - AI Search Engine / No Signup
-* [Khoj](https://app.khoj.dev/) - Signup Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
+* [⁠Hika](https://hika.fyi/) - AI Search Engine / No Signup / [Discord](https://discord.gg/tUATkScUue)
+* [Khoj](https://khoj.dev/) - Signup Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine / No Signup
 * [⁠Venice](https://venice.ai/) - AI Search Engine / No Signup
 * [uncovr](https://uncovr.app/) - AI Search Engine / No Signup / [Discord](https://discord.gg/a4gDaVWceP)
-* [Exa](https://exa.ai/) - AI Search Engine / No Signup / [Discord](https://discord.com/invite/jvz7GS9W8Y)
-* [Lepton Search](https://search.lepton.run/) - AI Search Engine / No Signup
-* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine / Self-Hosted
+* [Exa](https://exa.ai/) - AI Search Engine / No Signup / [Discord](https://discord.gg/HCShtBqbfV)
+* [Lepton Search](https://search.lepton.run/) - AI Search Engine / No Signup / [GitHub](https://github.com/leptonai/search_with_lepton)
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
 
 ***
 
 ## ▷ Self-Hosting Tools
 
-* ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted / [GitHub](https://github.com/janhq/jan)
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface
-* ⭐ **[Open-WebUI](https://openwebui.com/)** - Self-Hosted Interface / [GitHub](https://github.com/open-webui/open-webui)
+* ⭐ **[Jan](https://jan.ai/)** - Self-Hosted / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/janhq/jan)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface / [Discord](https://discord.gg/sillytavern) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [GitHub](https://github.com/SillyTavern/SillyTavern)
+* ⭐ **[Open WebUI](https://openwebui.com/)** - Self-Hosted Interface / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
-* ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
-* ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
-* ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
-* [Petals](https://petals.dev/) - Self-Hosted
-* [Ollama](https://ollama.com/) - Self-Hosted
-* [LMStudio](https://lmstudio.ai/) - Self-Hosted
-* [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.librechat.ai/)
-* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [GitHub](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
-* [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
+* ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
+* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4) / [GitHub](https://github.com/pinokiocomputer/pinokio)
+* ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN) 
+* ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
+* [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals) 
+* [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama) 
+* [LM Studio](https://lmstudio.ai/) - Self-Hosted / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
+* [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
+* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [GitHub](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/myY5YDR8z8) 
+* [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
 
 ***
@@ -155,7 +155,7 @@
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Telegram](https://telegram.me/g4f_channel)
 * [Msty](https://msty.app/) - Desktop App
-* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [Noi](https://noi.nofwl.com/) - Desktop App / [GitHub](https://github.com/lencx/Noi)
 * [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
@@ -213,7 +213,7 @@
 
 ## ▷ AI Benchmarks
 
-* ⭐ **[Chatbot Arena](https://lmarena.ai/?leaderboard)** - Chatbot Leaderboards / Benchmarks
+* ⭐ **[Chatbot Arena](https://lmarena.ai/?leaderboard)** - Chatbot Leaderboards / Benchmarks / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[LiveBench](https://livebench.ai/)** - Chatbot Leaderboards / Benchmarks
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
@@ -296,7 +296,7 @@
 * [Pixvify](https://pixvify.com/) / Unlimited
 * [⁠FusionBrain](https://fusionbrain.ai/en/)
 * [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited
-* [ChatK](https://chat.oaichat.cc/) / Unlimited
+* [ChatK](https://chat3.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited

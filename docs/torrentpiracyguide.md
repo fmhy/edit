@@ -43,7 +43,6 @@
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentCORE](https://torrentcore.xyz/)
 * [DaMag](https://damag.net/)
-* [SolidTorrents](https://solidtorrents.to/), [2](https://solidtorrents.eu/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)

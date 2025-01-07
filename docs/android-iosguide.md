@@ -361,7 +361,7 @@
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Kitsune Magisk](https://huskydg.github.io/magisk-files), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
-* [Rooting Guides(https://awesome-android-root.link/rooting-guides/) - Android Root Guides
+* [Rooting Guides](https://awesome-android-root.link/rooting-guides/) - Android Root Guides
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot) - LogCat / Dmesg Boot Animation
@@ -1188,6 +1188,7 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ Telegram Channels
 
+* ⭐ **[binnichtaktivsipas](https://t.me/binnichtaktivsipas)** - Tweaked Apps
 * ⭐ **[SultanModsIPAs](https://t.me/SultanModsIPAs)** - Tweaked Apps
 * ⭐ **[Blatant's IPA Library](https://t.me/blatants)** - Tweaked Apps
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
@@ -1196,7 +1197,6 @@ https://github.com/Akylas/alpimaps
 * [IPA Free](https://t.me/IPA_FREE_RAK) - Tweaked Apps
 * [DPixel](https://t.me/dpixel) - Tweaked Apps
 * [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
-* [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps
 * [⁠TDMBest](https://t.me/tdmbest_ipas) - Game Ports

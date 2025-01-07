@@ -119,7 +119,6 @@
 * [Filmi99](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmi24](https://filmi24.com/) - Movies / Sub / Dub / 720p
 * [FilmiPlay](https://filmiplay.com/) - Movies / Sub / Dub / 720p
-* [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
 * [Filmifen](https://filmifen.com/) - Movies / Sub / Dub
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
@@ -1064,7 +1063,6 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
-* [CDA](https://www.cda.pl/video) - User Videos
 * [Naikamu](https://naikamu.com/) - Anime Streaming / Android
 
 ## ▷ Reading / Czytanie 

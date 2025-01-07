@@ -426,7 +426,9 @@
 * ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass Guide
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** - Internet Censorship Discussion
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
-* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) / [Mobile](https://github.com/shadowsocks/shadowsocks-android)
+
+* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/)
+
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [GitHub](https://github.com/Psiphon-Inc/psiphon)
 * [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
