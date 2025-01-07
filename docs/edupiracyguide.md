@@ -387,7 +387,7 @@
 * [QuoteGarden](https://www.quotegarden.com/)
 * [QuoteMaster](https://www.quotemaster.org/)
 * [TheOtherPages](https://theotherpages.org/quote.html)
-* [Quote Collections](https://redd.it/dlao3b)
+* [Quote Collections](https://pastebin.com/raw/baWT50HK)
 
 ***
 
