@@ -26,7 +26,9 @@
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime [Discord](https://discord.gg/TXqWTKeAAu)
 * [StreamFlix](https://watch.streamflix.one/), [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
 * [catflix](https://catflix.su/) - Movies / TV
+* [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
+* [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [Smashystream](https://smashystream.xyz/), [2](https://smashy.stream/), [3](https://flix.smashystream.xyz/), [4](https://smashystream.com/)- Movies / TV / Anime
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: fmhy / Sign-Up Required
@@ -36,6 +38,7 @@
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
+* [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://ww1.goojara.to/) - Movies / TV / Anime
 * [FireFlix](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
 * [SFlix](https://sflix2.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
@@ -44,13 +47,13 @@
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV - Movies / TV / Anime
+* [BitSearch](https://bitsearch.to/) - Movies / TV / Anime
+* [Soaper.TV](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [AZMovies](https://azm.to/) - Movies
+* [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies
 * [SkyMovies](https://skymovieshd.toys/) - Movies / TV / Anime / Some NSFW
-* [6Movies](https://6movies.stream/) - Movies / TV / Anime
-* [UniqueStream](https://uniquestream.net/) - Movies / TV / 720p
-* [Soaper.TV](https://soaper.live/) - Movies / TV / Anime / 720p / Auto-Next
-* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
-* [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
+* [VidBox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next
+* [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime
@@ -69,9 +72,7 @@
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
 * [Filmex](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
-* [VidBox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
-* [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [CucuFlix](https://cucuflix.xyz/), [2](https://cucuflix.pro/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
@@ -86,7 +87,6 @@
 * [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [321Movies](https://321movies.co.uk/) - Movies / TV / Anime
 * [MultiMovies](https://multimovies.lat/) - Movies / TV
-* [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
