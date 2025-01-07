@@ -6,6 +6,10 @@
 
 # ► Streaming Sites
 
+* **Note** - Check our [Site Grading System](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and  their respective pros & cons.
+
+***
+
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) or [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Cineby](https://www.cineby.app/)**, [2](https://www.bitcine.app/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
@@ -45,6 +49,7 @@
 * [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
+* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [Nova](https://novastream.top/) - Movies / TV / [GitHub](https://github.com/ambr0sial/nova/)
 * [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt)
@@ -61,7 +66,6 @@
 * [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime /[Discord](https://discord.gg/mh2Bte8Kfj)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
-* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 4K
 * [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
 * [MultiMovies](https://multimovies.lat/) - Movies / TV
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
