@@ -132,6 +132,7 @@
 * [Fanfiction.net](https://fanfiction.net/) - Fanfiction
 * [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
 * [FanMTL](https://www.fanmtl.com/) - Fanfiction
+* [ReadNovelMTL](https://readnovelmtl.com/) - Fanfiction
 * [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
 * [Wattpad](https://wattpad.com/) - Fanfiction
 * [Royal Road](https://royalroad.com/) - Fanfiction
