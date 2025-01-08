@@ -26,8 +26,8 @@
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Zilla](https://zilla-xr.xyz/)** - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb) / [Telegram](https://t.me/+MQUUqEx2WXA0ZmZk)
 * ⭐ **[Mapple.tv](https://mapple.tv/)** - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
-* ⭐ **[VidBox](https://vidbox.to/)** - Movies / TV / Anime
 * ⭐ **[xPrime](https://xprime.tv/)** - Movies / TV / Anime
+* ⭐ **[VidBox](https://vidbox.to/)** - Movies / TV / Anime
 * [Novafork](https://novafork.com/) - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [Noxe](https://noxe.live/) - Movies / TV / Anime
