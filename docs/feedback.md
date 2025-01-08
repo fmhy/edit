@@ -21,7 +21,7 @@ These are all anonymous comments taken from Reddit, Discord, Twitter and our fee
 
 * *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
 
-* *"No bullshit, and has all the info I need to gain free access to media."*
+* *"No bs, and has all the info I need to gain free access to media."*
 
 * *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
 
@@ -38,6 +38,8 @@ These are all anonymous comments taken from Reddit, Discord, Twitter and our fee
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
+
+* *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 

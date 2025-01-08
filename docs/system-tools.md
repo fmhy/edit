@@ -77,8 +77,8 @@
 ## ▷ Package Managers
 
 * ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager / [Repos](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate)
-* ⭐ [hok](https://github.com/chawyehsu/hok) or [Scoop](https://scoop.sh/) / [Faster Commands](https://github.com/winpax/sfsu/) - CLI Package Managers
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
+* ⭐ [hok](https://github.com/chawyehsu/hok) or [Scoop](https://scoop.sh/) / [Faster Commands](https://github.com/winpax/sfsu/) - CLI Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
 * [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
@@ -164,7 +164,7 @@
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ↪️ **[Hackintosh Resources](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hackintosh)**
 * ⭐ **[VMware Workstation](https://rentry.co/FMHYBase64#vmware), [2](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/), [3](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vmware-workstation-note) or [VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
-* ⭐ **[Virt-Manager](https://virt-manager.org/)**, [MultiPass](https://multipass.run/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
+* ⭐ **[Virt-Manager](https://virt-manager.org/)**, [MultiPass](https://canonical.com/multipass) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through
 * [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
@@ -283,8 +283,8 @@
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity
-* [Raw Accel](https://github.com/a1xd/rawaccel) - Mouse Acceleration Tool
-* [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
+* [Raw Accel](https://github.com/RawAccelOfficial/rawaccel) - Mouse Acceleration Tool
+* [StrokeIt](https://www.tcbmi.com/strokeit/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
 * [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
@@ -412,7 +412,6 @@
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
-* [Blackbox 4 Windows](https://blackbox4windows.com/) - Custom Windows Shells / Widgets
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/), [Vin Star Theme](https://www.vinstartheme.com/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Dynamic Desktop Themes
@@ -448,6 +447,7 @@
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
+* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [VSThemes Live Walls](https://vsthemes.org/en/wallpapers/), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated / Live Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers

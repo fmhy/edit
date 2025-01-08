@@ -146,7 +146,7 @@
 * [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Build APKs with Python / [Config Gen](https://j-hc.github.io/rvmm-config-gen/)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Automated](https://github.com/taku-nm/auto-cli/) / [Guide](https://rentry.org/Revanced_Guide)
-* [Revancify](https://github.com/decipher3114/Revancify) - Termux-compatible CLI Patcher
+* [Revancify](https://github.com/decipher3114/Revancify) - Termux-Compatible CLI Patcher
 
 ***
 
@@ -157,7 +157,7 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Bunny](https://github.com/pyoncord/Bunny)** / [Plugins](https://bn-plugins.github.io/vd-web/) / [Discord](https://discord.gg/XjYgWXHb9Q), **[Revenge](https://github.com/revenge-mod/revenge-bundle)** or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
 * ⭐ **[Reddit Client Patch](https://rentry.co/FMHYBase64#patch-clients)**, [Stealth](https://gitlab.com/cosmosapps/stealth) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Patch Guide
-* ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
+* ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[piko](https://t.me/pikopatches)** / [Builds](http://github.com/crimera/twitter-apk) / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
@@ -241,7 +241,7 @@
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
 * [Diffuse](https://diffuse.app/) - Live Audio Wallpapers
-* [Pix](https://rentry.co/FMHYBase64#pix), [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Iconeration](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
+* [Pix](https://rentry.co/FMHYBase64#pix), [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Alembicons](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
 
 ***
 
@@ -823,13 +823,13 @@ https://github.com/Akylas/alpimaps
 ## ▷ YouTube Music
 
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/mostafaalagamy/metrolist), [3](https://github.com/Malopieds/InnerTune), [4](https://github.com/DD3Boh/OuterTune) - YouTube Music Player
-* ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [RiMusic](https://rimusic.xyz/) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
+* [Namida](https://github.com/namidaco/namida) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Music Player
 
@@ -1126,7 +1126,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** or [Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro) - Adblocker
+* ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** or [Adguard Pro](https://rentry.co/FMHYBase64#adguard-pro) - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/)
 * ⭐ **[Orion](https://kagi.com/orion/)** - Adblock Browser w/ Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Brave](https://apps.apple.com/us/app/brave-browser-search-engine/id1052879175) - Adblock Browser
 * [AdGuard Home Remote](https://apps.apple.com/app/id1543143740)
@@ -1206,7 +1206,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Social Media Apps
 
 * ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT), [Rosiecord](https://github.com/Skawtnyc/rosiecord) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
-* ⭐ **[Winston](https://winston.cafe/)**, [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* ⭐ **[Winston](https://winston.cafe/)**, [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Reddit Deluxe](https://t.me/SultanModsIPAs/) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta ](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
