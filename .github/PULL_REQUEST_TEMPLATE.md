@@ -13,6 +13,7 @@
 - [ ] Grammar / Markdown fixes 
 - [ ] Content addition (sites, projects, tools, etc.)
 - [ ] New Wiki section
+- [ ] Section Improvement
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply to this Pull Request. -->
