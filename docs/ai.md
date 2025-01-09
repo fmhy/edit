@@ -27,7 +27,7 @@
 * [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots / [Discord](https://discord.gg/4rR282WJb6)
 * [Electron Hub](https://www.electronhub.top/) - Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
 * [feynChat](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
-* [NexusAI](https://chat.nexusmind.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
+* [NexusAI](https://www.nexusmind.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [NextChat](https://nextchat.dev/) - Multiple Chatbots / No Signup / [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 * [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
@@ -100,7 +100,7 @@
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards / Some NSFW / [Discord](https://discord.gg/chubai) / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [GitHub](https://github.com/CharHubAI) 
-* [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
+* [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - Llama + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Signup / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/4wallai) / [Subreddit](https://www.reddit.com/r/4WallAI/)
 * [FictionLab](https://fictionlab.ai/ ) - Roleplaying / Story Chatbot / [Discord](https://discord.com/invite/SKcb2C7HjH)
@@ -113,32 +113,32 @@
 
 ## ▷ Coding AIs
 
-* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** [⁠WebDev Arena](https://web.lmarena.ai/), [Aider Leaderboards](https://aider.chat/docs/leaderboards/) or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
-* 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
-* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / No Signup / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Signup / [Docs](https://docs.pieces.app)
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [⁠WebDev Arena](https://web.lmarena.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
+* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / No Signup / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
+* ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Signup / [Discord](https://discord.gg/getpieces)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Signup
-* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews
-* [Devv](https://devv.ai/) - Coding Search Engine / No Signup
-* [Telosys](https://www.telosys.org/) - Code Generator / No Signup
+* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
+* [Devv](https://devv.ai/) - Coding Search Engine / No Signup / [GitHub](https://github.com/devv-ai/devv)
+* [Telosys](https://www.telosys.org/) - Code Generator / No Signup / [Source Code](https://www.telosys.org/sources.html)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Signup / [GitHub](https://github.com/Nutlope/llamacoder)
-* [ImageCook](https://imgcook.com) - Coding AI / No Signup / [GitHub](https://github.com/imgcook/imgcook)
-* [SuperMaven](https://supermaven.com/) - Coding AI / No Signup / [Discord](https://discord.com/invite/QQpqBmQH3w)
-* [Cody](https://sourcegraph.com/cody) - Coding AI
-* [OpenDevin](https://github.com/All-Hands-AI/OpenHands) - Coding AI
-* [continue](https://continue.dev/) - Coding AI
+* [imgcook](https://imgcook.com) - Coding AI / No Signup / [GitHub](https://github.com/imgcook/imgcook)
+* [Supermaven](https://supermaven.com/) - Coding AI / No Signup / [Discord](https://discord.com/invite/QQpqBmQH3w)
+* [Cody](https://sourcegraph.com/cody) - Coding AI / [Discord](https://discord.gg/s2qDtYGnAE) / [GitHub](https://github.com/sourcegraph/cody) 
+* [OpenHands](https://www.all-hands.dev/) - Coding AI / [Discord](https://discord.gg/ESHStjSjD4) / [GitHub](https://github.com/All-Hands-AI/OpenHands)
+* [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
-* [Cline](https://github.com/cline/cline) - Coding AI
-* [CodiumAI](https://www.qodo.ai/) - Coding AI
+* [Cline](https://github.com/cline/cline) - Coding AI / [Discord](https://discord.gg/cline)
+* [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Signup
-* [Denigma](https://denigma.app/#demo) - Coding AI / No Signup
-* [Aider](https://aider.chat/) - Terminal Coding AI
-* [Codacy](https://www.codacy.com/) - Code Fixing AI
-* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Signup
-* [v0](https://v0.dev/) - Text to Site Code
-* [Bolt](https://bolt.new/) - Web App Builder
-* [Fragments](https://fragments.e2b.dev/) - App Builder
-* [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
+* [Denigma](https://denigma.app/) - Coding AI / No Signup / [Discord](https://discord.gg/mZx4REBvKm)
+* [Aider](https://aider.chat/) - Terminal Coding AI / [Discord](https://discord.gg/Tv2uQnR88V) / [GitHub](https://github.com/Aider-AI/aider)
+* [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Signup / [Discord](https://discord.gg/Hvz9Axh84z)
+* [v0](https://v0.dev/) - Text to Site Code / [Discord](https://discord.gg/4ECCp2V5y9)
+* [Bolt.new](https://bolt.new/) - Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
+* [Fragments](https://fragments.e2b.dev/) - App Builder / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev)
+* [Composio](https://composio.dev/) - Add Tools to Coding AI / [Discord](https://discord.com/invite/cNruWaAhQk) / [GitHub](https://github.com/ComposioHQ/composio)
 * [AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)
 
 ***
