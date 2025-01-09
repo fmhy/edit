@@ -613,11 +613,11 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ Weather Apps
 
+* ⭐ **[WeatherMaster](https://github.com/PranshulGG/WeatherMaster)**
 * ⭐ **[Breezy Weather](https://github.com/breezy-weather/breezy-weather)**
-* ⭐ **[AccuWeather](https://app.accuweather.com/app-download)** / [Extra Features](https://rentry.co/FMHYBase64#accuweather)
 * ⭐ **[OpenWeather](https://play.google.com/store/apps/details?id=uk.co.openweather)**
 * [OSS Weather](https://github.com/Akylas/oss-weather)
-* [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
+* [AccuWeather](https://app.accuweather.com/app-download) / [Extra Features](https://rentry.co/FMHYBase64#accuweather)
 * [Clima](https://codeberg.org/Lacerte/clima)
 * [Rain](https://github.com/DarkMooNight/Rain)
 * [Weawow](https://play.google.com/store/apps/details?id=com.weawow)
