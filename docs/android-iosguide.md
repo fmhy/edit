@@ -230,7 +230,7 @@
 * [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
 * [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
 * [AI Wallpapers](https://rentry.co/FMHYBase64#ai-wallpapers-14) - Google AI Wallpapers / Uploading to Playstore Required
-* [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
+* [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
 * [WallFlow](https://github.com/ammargitham/WallFlow) - Wallpapers
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
@@ -960,6 +960,7 @@ https://github.com/Akylas/alpimaps
 * [M3U8 Downloader](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader) - M3U8 Download App
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [FreeTV](https://phstudio2.github.io/FreeTV/) - Live TV App / [GitHub](https://github.com/phstudio2/FreeTV)
+
 ***
 
 ## ▷ Android YouTube Apps
