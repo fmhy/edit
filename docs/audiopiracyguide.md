@@ -433,8 +433,18 @@
 * [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
-* [1Gabba](https://1gabba.pw/), [Gabber](https://gabber.od.ua/), [EDM Lake](https://edmlake.com/), [EDMBoost](https://edmboost.org/), [EDMWaves](https://edmwaves.org/), [MusicFans](https://musicfans.space/), [PSYFP](https://psyfp.ucoz.ru/), [DMO](https://dance-music.org/), [MyPromoSound](https://mypromosound.com/), [ElectronicFresh](https://electronicfresh.com/) - Electronic / MP3
-* [Ektoplazm](https://ektoplazm.com/) or [KTI Music](https://ktimusic.blogspot.com/) - Electronic / MP3 / FLAC
+* [1Gabba](https://1gabba.pw/) - Electronic / MP3
+* [Gabber](https://gabber.od.ua/) - Electronic / MP3
+* [EDM Lake](https://edmlake.com/) - Electronic / MP3
+* [EDMBoost](https://edmboost.org/) - Electronic / MP3
+* [EDMWaves](https://edmwaves.org/) - Electronic / MP3
+* [MusicFans](https://musicfans.space/) - Electronic / MP3
+* [PSYFP](https://psyfp.ucoz.ru/) - Electronic / MP3
+* [DMO](https://dance-music.org/) - Electronic / MP3
+* [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
+* [ElectronicFresh](https://electronicfresh.com/) - Electronic / MP3
+* [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
+* [KTI Music](https://ktimusic.blogspot.com/) - Electronic / MP3 / FLAC
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
