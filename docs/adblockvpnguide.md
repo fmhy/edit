@@ -30,6 +30,7 @@
 * [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) - Blocklist Collection
 * [FilterLists](https://filterlists.com/) - Filter and host lists directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
+
 ***
 
 ## ▷ Redirect Bypass
@@ -411,6 +412,7 @@
 * [Free Proxy Servers](https://www.free-proxy-servers.com/)
 * [CroxyProxy](https://www.croxyproxy.com/), [2](https://croxyproxy.best/)
 * [Proxy Site](https://www.proxysite.cc/), [2](https://unblocksites.online/)
+* [proxysite.one](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy URLs](https://www.proxy-urls.com/)
 * [Sitenable](https://freeproxy.io/)

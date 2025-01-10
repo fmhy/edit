@@ -38,6 +38,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
+* [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -471,6 +472,7 @@
 * [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
+* [Steam Deck Repo](https://steamdeckrepo.com/) - Steam Deck Boot Videos
 
 ***
 
@@ -716,7 +718,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [pkNX](https://github.com/kwsch/pkNX) - Switch Pokémon ROM Editor / Randomizer
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA to 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-Time Pokémon GO Map for NYC
-* [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
+* [PkmnCards](https://pkmncards.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
 * [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 * [unite-db](https://unite-db.com/) - Pokémon Unite Database
 * [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
@@ -878,6 +880,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
 * [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - Dungeons & Dragons Rules
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
@@ -885,4 +888,5 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
+* [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
 * [Untap.in](https://untap.in/) - Test Card Game Decks

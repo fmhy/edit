@@ -145,27 +145,27 @@
 
 # ► AI Tools
 
-* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - AI Resources
+* 🌐 **[sindresorhus's Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* [⁠tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG)
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
-* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
-* [LLM](https://github.com/simonw/llm) - ChatGPT CLI
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** (no signup) or [AskYourPDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* [⁠tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
+* [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
+* [tgpt](https://github.com/aandrew-me/tgpt) - AI Terminal Chatbot
+* [LLM](https://llm.datasette.io/)) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Telegram](https://telegram.me/g4f_channel)
-* [Msty](https://msty.app/) - Desktop App
-* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
-* [Noi](https://noi.nofwl.com/) - Desktop App / [GitHub](https://github.com/lencx/Noi)
-* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
+* [LobeChat](https://lobechat.com/chat) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [Noi](https://noi.nofwl.com/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
+* [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
-* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX 
-* [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI / [Discord](https://discord.com/invite/fjBugmvzZP) 
+* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
+* [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen / [GitHub](https://github.com/adamlui/chatgpt-widescreen) 
 * [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
-* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter) 
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-* [LLM-Model-VRAM-Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM VRAM Calculator
+* [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM VRAM Calculator
 
 ***
 
@@ -175,19 +175,19 @@
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [GitHub](https://github.com/f/awesome-chatgpt-prompts)
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) - Prompting Guides
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) / [GitHub](https://github.com/thinkingjimmy/Learning-Prompt) - Prompting Guides
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) - AI Jailbreak Community
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
-* [TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
-* [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory
+* [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
+* [ChatGPT & Bing AI Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory
 * [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts/) - Prompt Directory
 * [L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - Jailbreak Prompts / [Discord](https://discord.gg/basi) / [Twitter](https://x.com/elder_plinius)
-* [promptfoo](https://github.com/promptfoo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
+* [promptfoo](https://www.promptfoo.dev/) / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo) or [Knit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
-* [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
+* [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games
 * [RedTeam Arena](https://redarena.ai/) - AI Jailbreak Game
-* [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games
+* [ChatGPT Games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games / [Subreddit](https://www.reddit.com/r/ChatGPTGaming/) 
 * [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
 
 ***

@@ -91,6 +91,7 @@
 
 ## ▷ Terminal / CLI
 
+* 🌐 **[The Terminal Directory](https://termui.sh/)** - List of Terminal Emulators
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
@@ -100,7 +101,6 @@
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Wives](https://github.com/KRTirtho/wives) or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
