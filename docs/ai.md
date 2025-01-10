@@ -232,6 +232,7 @@
 * [Scrip AI](https://scripai.com/) (no signup), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / No Signup / [Limit Bypass](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#novelai-bypass), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) - Story Writing AIs
+* [Vesta](https://www.vesta-app.com/) - AI Content Generator that learns your style
 
 ***
 
