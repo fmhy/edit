@@ -14,9 +14,9 @@
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next / [Add Sources](https://pstream.org/onboarding/extension) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/fF7TwrjR6T)
-* [Broflix](https://broflix.cc/) - Movies / TV / Anime
 * [HydraHD](https://hydrahd.me/) - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * [456movie](https://456movie.com/), [2](https://www.345movies.com/) - Movies / TV / Anime / Auto-Next
 * [xPrime](https://xprime.tv/) - Movies / TV / Anime / Auto-Next
