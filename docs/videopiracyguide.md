@@ -714,7 +714,7 @@
 
 ## ▷ Stremio Tools
 
-* 🌐 **[Stremio Addons](https://www.stremio-addons.com/)** - Stremio Addons
+* 🌐 **[Stremio Addons](https://www.stremio-addons.com/)** - Stremio Addons / [Subreddit](https://www.reddit.com/r/StremioAddons/)
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
 * [Stremio Addon Manager](https://addon-manager.viren070.me/), [2](https://stremio-addon-manager.vercel.app/), [3](https://github.com/pancake3000/stremio-addon-manager) - Addons Manager
 * [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/) - Easy Stremio Setup
