@@ -36,7 +36,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass link Shorteners
-* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Discord](https://bypass.vip/discord)
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
 * [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ad Counters / [GitHub](https://github.com/adsbypasser/adsbypasser) 
@@ -341,7 +341,7 @@
 
 ***
 
-* 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
+* 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
 * ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)

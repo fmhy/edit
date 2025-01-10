@@ -979,7 +979,6 @@
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
 * [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
-* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide

@@ -81,9 +81,8 @@
 * [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
 * [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
+* [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsecodetranslator.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
-* [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser Extension
 * [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
@@ -259,7 +258,7 @@
 * [Google Keep](https://keep.google.com/) - Simple Notes
 * [StandardNotes](https://standardnotes.com/) - Encrypted Notes
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
-* [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
+* [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 
@@ -342,7 +341,6 @@
 * [Taskade](https://www.taskade.com/)
 * [Socket](https://socket.io/)
 * [Whimsical](https://whimsical.com/)
-* [Firepad](https://firepad.io/)
 * [Ellipsus](https://ellipsus.com/)
 * [Etherpad](https://etherpad.org/)
 * [SharePad](https://sharepad.io/)
@@ -395,7 +393,6 @@
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [STARC](https://starc.app/), [WriteSolo](https://www.writersolo.com/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
-* [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
 * [watchout4snakes](http://watchout4snakes.com/) - Generate Random Sentences, Phrases, Words etc.
 * [Glossary Generator](https://www.jamesmurdo.com/glossary_generator.html) - Generate Glossaries
@@ -423,11 +420,9 @@
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://to-do.office.com/)
 * [⁠NullBoard](https://github.com/apankrat/nullboard)
-* [ToDo R](https://todo-r.com/)
 * [LunaTask](https://lunatask.app/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)
-* [DoNotes](https://donotes.co.uk/)
 * [Super Productivity](https://super-productivity.com/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
@@ -439,7 +434,6 @@
 
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
-* [Kakikun](https://github.com/file-acomplaint/kakikun) - ASCII Terminal Editor 
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
@@ -464,7 +458,7 @@
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
-* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
+* [TypeTerms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [TheGoodLineHeight](https://thegoodlineheight.com/) - Typography Scaling
 * [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
 * [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
