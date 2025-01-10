@@ -1001,7 +1001,7 @@
 
 ## ▷ Games
 
-* ⭐ **GG.deals](https://gg.deals/deals/)**
+* ⭐ **[GG.deals](https://gg.deals/deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
 * [SteamBase](https://steambase.io/sales) - Steam Sales
