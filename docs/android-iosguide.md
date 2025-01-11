@@ -1208,8 +1208,8 @@ https://github.com/Akylas/alpimaps
 ## ▷ Social Media Apps
 
 * ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT), [Rosiecord](https://github.com/Skawtnyc/rosiecord) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
-* ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Reddit Deluxe](https://t.me/SultanModsIPAs/) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
-* ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem), [Arctic](https://getarctic.app/) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
+* ⭐ **[RedditFilter](https://github.com/level3tjg/RedditFilter)** / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#redditfilter-note), [Acorn](https://acorn.blue/) / [Discord](https://discord.gg/sWzw5GU5RV), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Reddit Deluxe](https://t.me/SultanModsIPAs/) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* ⭐ **[Arctic](https://getarctic.app/)**, [Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta ](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In"  Popup to iOS Social Media Apps 
@@ -1230,8 +1230,8 @@ https://github.com/Akylas/alpimaps
 
 # ► iOS Audio
 
-* ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)**, [2](https://t.me/SpotilifeIPAs) - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension)
+* ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/) - Streaming / [Discord](https://discord.gg/BhdUyCbgkZ)
 * [Trebel](https://home.trebel.io/) - Streaming
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)

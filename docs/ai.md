@@ -283,16 +283,14 @@
 * [Prodia](https://app.prodia.com/) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
-* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily / No Signup
+* [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Signup
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
-* [OpenArt](https://openart.ai/) / 50 Daily / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
 * [AIGallery](https://aigallery.app/) / Unlimited / No Signup
 * [RunComfy](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)  / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
-* [Pixvify](https://pixvify.com/) / Unlimited
 * [⁠FusionBrain](https://fusionbrain.ai/en/)
 * [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
@@ -300,16 +298,14 @@
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Signup
-* [PixArt-alpha](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha) / Unlimited / No Signup
 * [GetIMG.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* [FLUXPro](https://fluxpro.art/) / 50 Weekly / [Discord](https://discord.gg/YMmUAvtRva)
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
-* [PixAI](https://pixai.art/) / 10 Daily
-* [HotPot](https://hotpot.ai/) / No Signup
+* [PixAI](https://pixai.art/) / 5 Daily
+* [FLUXPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
+* [HotPot](https://hotpot.ai/) / 75 Daily / No Signup
 * [Glif](https://glif.app/) / No Signup
-* [AlpacaML](https://www.alpacaml.com/) - AI Powered Canvas
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator
 * [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
