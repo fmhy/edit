@@ -33,7 +33,6 @@
 
 ***
 
-* ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
