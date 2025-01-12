@@ -20,7 +20,6 @@ title: Monthly Updates [Month]
 description: Month 20YY updates
 date: 20YY-MM-DD
 next: false
-aside: left
 prev: false
 sidebar: false
 footer: true

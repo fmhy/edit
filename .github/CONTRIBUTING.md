@@ -100,7 +100,7 @@ Select edit button and make your changes.
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
+2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed. Alternatively, `pnpm` has `pnpm env` you can use to manage Node.
 
 3. Clone your forked repository to your local machine.
 

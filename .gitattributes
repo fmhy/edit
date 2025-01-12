@@ -198,7 +198,7 @@ TODO              text
 *.tmpl            text
 *.tpl             text
 *.twig            text
-*.vue             text
+*.vue             text diff=vue
 
 # Configs
 *.cnf             text
