@@ -265,7 +265,7 @@
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
 * [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web Based 2FA / [GitHub](https://github.com/Bubka/2FAuth) 
 * [Sentinel](https://getsentinel.io/) - Android / iOS / Mac 2FA
-* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
+* [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - iOS 2FA
 * [Tofu](https://www.tofuauth.com/) - iOS 2FA / [GitHub](https://github.com/iKenndac/Tofu)
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
@@ -402,24 +402,15 @@
 * ⭐ **[Incognito](https://incog.works/)**
 * ⭐ **[Blockaway](https://www.blockaway.net/)**
 * ⭐ **[Alu](https://aluu.xyz/en/)** / [Discord](https://discord.gg/unblock)
+* ⭐ **[CroxyProxy](https://www.croxyproxy.com/)**, [2](https://croxyproxy.best/)
 * [Holy Unblocker](https://holyunblocker.org/) / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-* [ProxySite](https://www.proxysite.com/) / [Discord](https://discord.gg/79Usg5X)
-* [hide.me](https://hide.me/en/proxy) / [Discord](https://discord.com/invite/JaCtD7Vdpq)
-* [SSLSecureProxy](https://www.sslsecureproxy.com/)
-* [HideIP](https://www.hideip.co/)
-* [4everproxy](https://www.4everproxy.com/)
-* [Free Proxy](https://freeproxy.win/)
-* [Free Proxy Servers](https://www.free-proxy-servers.com/)
-* [CroxyProxy](https://www.croxyproxy.com/), [2](https://croxyproxy.best/)
-* [Proxy Site](https://www.proxysite.cc/), [2](https://unblocksites.online/)
-* [proxysite.one](https://proxysite.one/)
+* [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
+* [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
-* [Proxy URLs](https://www.proxy-urls.com/)
-* [Sitenable](https://freeproxy.io/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
-* [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [WhatIsMyProxy](http://www.whatismyproxy.com/) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
+* [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
 
 ***

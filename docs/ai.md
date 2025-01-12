@@ -246,18 +246,18 @@
 
 # ► Video Generation
 
-* ⭐ **[Video FX](https://labs.google/fx/tools/video-fx)** - Googles Video Generator / US Only
+* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - Googles Video Generator / US Only
 * ⭐ **[PixVerse](https://pixverse.ai/)** - Video Generator / [Discord](https://discord.com/invite/MXHErdJHMg)
-* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator
-* [StableVideo](https://www.stablevideo.com/) - Video Generator
-* [Vidu](https://www.vidu.studio/) - Video Generator
-* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator / No Signup
-* [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator
-* [text-to-video](https://text-to-video.vercel.app) - Video Generator
-* [LensGo](https://lensgo.ai/) - Video Generator
-* [Kling AI](https://klingai.com/) - Video Generator
-* [Pika Labs](https://www.pika.art/) - Video Generator
-* [⁠FusionBrain](https://fusionbrain.ai/en/) - Video Generator
+* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator / [Discord](https://discord.gg/k5BwmmvJJU)
+* [Stable Video](https://www.stablevideo.com/) - Video Generator
+* [Vidu](https://www.vidu.studio/) - Video Generator / [Discord](https://discord.gg/3pDU8fmQ8Y)
+* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator / No Signup / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb) 
+* [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator / [Discord](https://discord.gg/lumaai) 
+* [TextToVideo](https://text-to-video.vercel.app) - Video Generator
+* [LensGo](https://lensgo.ai/) - Video Generator / [Discord](https://discord.com/invite/CHMhrByFJS)
+* [Kling AI](https://klingai.com/) - Video Generator / [Discord](https://discord.com/invite/8tj8YjSzKr) 
+* [Pika](https://www.pika.art/) - Video Generator / [Discord](https://discord.com/invite/pika)
+* [⁠Fusion Brain](https://fusionbrain.ai/en/) - Video Generator
 * [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video / No Signup
 

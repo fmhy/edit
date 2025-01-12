@@ -545,7 +545,7 @@
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
 * [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
-* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
+* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
 
 ***
 

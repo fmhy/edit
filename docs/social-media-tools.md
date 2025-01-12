@@ -198,6 +198,7 @@
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
+* [Newsit](https://github.com/benwinding/newsit) - Find Reddit Comments for any Webpage
 * [Pholder](https://pholder.com/) - Article Style Viewer
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
 * [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
