@@ -13,9 +13,11 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import type { MarkdownRenderer } from 'vitepress'
 
-const excluded = ['Credits']
+import type { MarkdownRenderer } from 'vitepress'
+import { headers } from '../transformer/constants'
+
+const titles = Object.keys(headers).map((key) => headers[key].title)
 
 export const headersPlugin = (md: MarkdownRenderer) => {
   // Add the Feedback component in the heading, before the link.
@@ -32,7 +34,7 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     if (idxClose <= idx) return result
 
     const level = tokens[idx].tag.slice(1)
-    if (excluded.includes(env.frontmatter.title) || level !== '2') return result
+    if (!titles.includes(env.frontmatter.title) || level !== '2') return result
 
     // Find the token for the link.
     //
