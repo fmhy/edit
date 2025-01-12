@@ -34,7 +34,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 ### Movies / Shows
 
-* **Streaming: [movie-web Instances](https://erynith.github.io/movie-web-instances/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [Rive](https://rivestream.live/) / [Cineby](https://www.cineby.app/) / [Freek](https://freek.to/)**
+* **Streaming: [Cineby](https://www.cineby.app/) / [Freek](https://freek.to/) / [Rive](https://rivestream.live/) / [movie-web Instances](https://erynith.github.io/movie-web-instances/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)**
 * **Downloading:  [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**

@@ -195,6 +195,7 @@
 * [RedditManager](https://redditmanager.com/) or [Saved for Reddit](https://pvik.github.io/saved-for-reddit/) - Reddit Content Managers
 * [⁠SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
+* [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
@@ -214,7 +215,7 @@
 
 * [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RapidSave](https://rapidsave.com/) or [Reddit.tube](https://www.redd.tube/) - Reddit Video Downloaders
 * [gallery-dl](https://github.com/mikf/gallery-dl) or [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloaders
-* [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) or [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
+* [Bulk Downloader for Reddit](https://github.com/Serene-Arc/bulk-downloader-for-redditt) or [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
 * [Reddit Downloader](https://redditdownloader.github.io/), [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) or [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download Media from Subreddits / Users
 * [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) - Python Script for Downloading Reddit Media
 

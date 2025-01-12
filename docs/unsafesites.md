@@ -92,6 +92,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/) / [2](https://i.imgur.com/lSMHLlL.png) / [3](https://i.ibb.co/KGDLZRp/image.png)
 
-### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
+### [Fake Windows Activators](https://pastebin.com/gCmWs2GR)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)

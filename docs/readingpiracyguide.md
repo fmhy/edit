@@ -372,6 +372,7 @@
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomic.com/)
+* [GallaTube Comics](https://galla.tube/comics/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
@@ -448,6 +449,7 @@
 * [Kaliscan](https://kaliscan.io/home)
 * [Manhwatop](https://manhwatop.com/)
 * [ManhwaClan](https://manhwaclan.com/)
+* [KaiScans](https://kaiscans.org/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum

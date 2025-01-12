@@ -30,7 +30,7 @@
 * ⭐ **[exportify](https://github.com/watsonbox/exportify)** - Playlist Backup
 * ⭐ **[playlists.cloud](https://playlists.cloud/)** or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
-* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
+* [Playlist Sorter](https://www.playlistsorter.com/) or [SortYourMusic](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Tagify](https://tagify.me/) - Use Playlists as Tags
@@ -298,7 +298,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Youtube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
-* ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://qobuz.vercel.app/) - Deezer / Qobuz / FLAC
+* ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://www.qobuz-dl.com/) - Deezer / Qobuz / FLAC
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / FLAC / [Discord](https://discord.com/invite/yjkdAc53rj)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/ ) - YouTube / 320kb

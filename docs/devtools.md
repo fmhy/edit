@@ -301,7 +301,7 @@
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
-* [LazyDocker](https://github.com/jesseduffield/lazydocker) or [Isaiah](https://github.com/will-moss/isaiah) - Docker TUIs
+* [LazyDocker](https://github.com/jesseduffield/lazydocker), [⁠oxker](https://github.com/mrjackwills/oxker) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
 * [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
 * [Docker Disk Space](https://docker-disk.space/) - Disk Usage Manager
 * [Dockle](https://github.com/goodwithtech/dockle) - Image Linter
@@ -930,7 +930,7 @@
 * [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [WikiDocs](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
@@ -1060,6 +1060,7 @@
 * [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [OSCP-Exam-Report-Template-Markdown](https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/) - Offensive Security Exam Report Markdown / [GitHub](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 * [Kali NetHunter](https://store.nethunter.com/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
 ***
@@ -1114,7 +1115,7 @@
 
 ## ▷ Reverse Engineering
 
-* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
+* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [Github](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering

@@ -132,7 +132,7 @@
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [Memory Toys](https://memory.toys/), [Dual N-Back](https://dualn-back.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
-* [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
+* [Information Is Beautiful](https://informationisbeautiful.net/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions) - Common Misconception Index
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Quizzes / Guides / Games
@@ -521,7 +521,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
 * ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
+* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
@@ -742,6 +742,7 @@
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Yomitan](https://yomitan.wiki/) - Popup Dictionary / [Discord](https://discord.gg/3v22CATnyr)
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
+* [Comprehensible Input Wiki](https://comprehensibleinputwiki.org/) - Learn Languages via Comprehensible Input
 * [HelloTalk](https://www.hellotalk.com/) - Learn Languages via AI Conversation
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [refold.la](https://refold.la/) - Language Learning Roadmap

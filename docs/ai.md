@@ -37,6 +37,7 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
 * [Grok](https://x.ai/grok) - Twitter's Chatbot
+* [⁠Qwen](https://chat.qwenlm.ai/) - Alibaba's Chatbots
 * [Anon](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
@@ -289,6 +290,7 @@
 * [AIGallery](https://aigallery.app/) / Unlimited / No Signup
 * [RunComfy](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)  / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
+* [ArtGenie](https://artgenie.surge.sh/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [Piclumen](https://piclumen.com/) / Unlimited
 * [⁠FusionBrain](https://fusionbrain.ai/en/)

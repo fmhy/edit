@@ -29,6 +29,7 @@
 * [href.cool](https://href.cool/) - List of Old / Weird Sites
 * [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
+* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
@@ -297,6 +298,7 @@
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://gitlab.com/divested-mobile/maps) - Restricted Google Maps WebView Wrapper
 * [GPS Power](https://www.gpspower.net/) - GPS Navigation Forum
+* [CubeTrek](https://cubetrek.com/) - GPS Track Manager
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Apple Maps](https://beta.maps.apple.com/) - Online Maps
 * [Mapy](https://en.mapy.cz/) - Online Maps / [Mobile](https://en.mapy.cz/mobilepromo)
@@ -882,6 +884,7 @@
 * [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
+* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Investment Tracker / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
@@ -988,7 +991,7 @@
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [sven dpi](https://www.sven.de/dpi/) or [Screensiz.es](https://screensiz.es/) - Screen / Monitor Size Comparisons
-* [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/)
+* [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)

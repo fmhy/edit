@@ -275,7 +275,7 @@
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
-* [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers
+* [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
 * [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management

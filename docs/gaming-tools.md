@@ -182,6 +182,7 @@
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
 * [GameBanana](https://gamebanana.com/) - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * [mod.io](https://mod.io/g) - Game Mods
+* [⁠SMods](https://catalogue.smods.ru/) - Game Mods
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers for Single Player Games
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods

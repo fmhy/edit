@@ -434,15 +434,18 @@
 * [Coflix](https://coflix.plus/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/Coflix1)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
+* [streammovix](https://streammovix.vercel.app/) - Movies / TV / Anime
+* [mymovix](https://mymovix.org/) - Movies
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account 
 * [Télé-Québec](https://www.telequebec.tv/) -  Québec Public Broadcaster / Movies / TV / Docs / Requires Account
 * [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Account Required
 * [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Account Required 
-* [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
 * [Frembed](https://frembed.lol/) - Movies / TV / Anime / API
+* [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [FRAnime.to](https://franime.to/) - Anime / Sub / 1080p
+* [toonanime](https://fr.toonanime.biz/), [2](https://v6.animesultra.net/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
@@ -687,6 +690,7 @@
 * [WatchoFree](https://watchofree.online/) - Movies / TV / Dub / 1080p
 * [Moviefuze](https://www.moviefuze.com/) - Movies / TV / Dub / 1080p
 * [HDMovie2](https://hdmovie2.love/) - Movies / TV / Dub / 1080p
+* [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Mp4Moviez](https://www.mp4moviez.bingo/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
@@ -1119,18 +1123,20 @@
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
+* [Redecanais](https://redecanais.fi/) - Movies / TV / Anime / Dub / 1080p
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
 * [Vizer](https://vizertv.in/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [SuperTela](https://supertela.top/) - Movies / TV / Anime / Dub / 1080p
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
 * [Topflixbrazil](https://topflixbrasil.net/) - Movies / TV / Dub / 1080p
 * [Mundofut](https://mundofut.co/) - Movies / TV / Dub / 1080p
-* [tugaflix](https://tugaflix.best) Movies / TV / Sub / 1080p
+* [tugaflix](https://tugaflix.best) - Movies / TV / Sub / 1080p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeKage](https://ak631.animekage.com/) - Anime / Sub / 1080p
 * [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
+* [anroll](https://anroll.net/) - Anime / Sub / 1080p
 * [NewZect](https://newzect.com) - Asian Drama / Sub / 720p
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
@@ -1360,6 +1366,7 @@
 * [gidonline](https://gidonline.eu/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [reyohoho](https://reyohoho.github.io/reyohoho/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [zetflix](https://zetflix.zone/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [lordfilmsx](https://rezka40.lordfilmsx.com/) - Movies / TV / Anime / Dub / 1080p
 * [filmix](https://filmix.biz/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub 
@@ -1435,6 +1442,7 @@
 * [Samlib](http://samlib.ru/) - Document Search
 * [militera](http://militera.org/) - Military History
 * [Arzamas](https://arzamas.academy/) - Cultural History
+* [Sagen](https://www.sagen.at/) - European Ethnology / Folklore
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
 * [Baza Knig](https://baza-knig.ink/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аkniga](https://akniga.org/), [Bibl](https://m.biblus.in/), [Knizhkin](https://knizhkin.net/) or [Bibl.us](https://bibl.us/) - Audiobooks
 * [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
@@ -1776,7 +1784,6 @@
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [Phudeviet](http://phudeviet.org/) - Subtitles
 * [Zalo](https://id.zalo.me/), [2](https://chat.zalo.me/) - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc) / [Android](https://play.google.com/store/apps/details?id=com.zing.zalo&hl=en) / [iOS](https://apps.apple.com/us/app/zalo/id579523206)
-* [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/) or [LichAmHomNay](https://licham.com.vn/) - Lunar Calendar

@@ -407,8 +407,13 @@
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
+* [UltraTabs](https://ultra.simplyrohan.xyz/)
+* [Phantom](https://phantom.lol/)
+* [Delusionz](https://delusionz.xyz/)
+* [Moonlight](https://math.isoluxltda.cl/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
+* [Glacier](https://glacier.fly.dev/) - Web OS that works as Proxy
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker

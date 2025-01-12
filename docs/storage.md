@@ -283,7 +283,7 @@
 * ⭐ **[vads](https://vads.ac.uk/digital/)**
 * ⭐ **[Arts and Culture](https://artsandculture.google.com/)**
 
-[Painting Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/)
+[Painting Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/), [Public Domain Image Archive](https://pdimagearchive.org/)
 
 ***
 
@@ -584,7 +584,6 @@
 
 ## LibGen Mirrors
 
-* https://libgen.is/ - main
 * https://libgen.st/ - main
 * https://libgen.li/ - clone
 * https://libgen.gs/ - clone
@@ -851,7 +850,7 @@
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist)
 
 ***
 
@@ -867,7 +866,7 @@
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [StreamURL](https://streamurl.link/) - Radio URL Search
 
-[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2)
+[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2), [UKRadioLive](https://ukradiolive.com/)
 
 ### Internet Radio
 
