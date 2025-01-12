@@ -1,5 +1,5 @@
 > [!NOTE]
-> The website is no longer getting new features. It is now in maintenance mode. Please do not open issues or PRs.
+> The website is no longer receiving new features and is now in maintenance mode. Please refrain from opening issues or pull requests.
 
 This is the website source code to be used with [VitePress](https://vitepress.dev/).
 
