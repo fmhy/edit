@@ -127,6 +127,7 @@
 
 # ► Linux Apps
 
+* ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
@@ -523,6 +524,7 @@ Linux Gaming Guide
 
 # ► Mac Apps
 
+* ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [Mist](https://github.com/ninxsoft/Mist) - Download macOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers

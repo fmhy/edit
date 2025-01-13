@@ -1020,6 +1020,7 @@ https://github.com/Akylas/alpimaps
 * [Fiery Feeds](https://apps.apple.com/app/id1158763303), [Feeeed](https://apps.apple.com/app/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/app/id1480640210) - RSS Reader
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Untold](https://apps.apple.com/app/id6451427834) - Voice Journal
+* [⁠TrollRecorder](https://github.com/Lessica/TrollRecorder) - Call Recorder
 * [PicsArt](https://picsart.com/apps) - Image Editor
 * [AnimeGen](https://github.com/cranci1/AnimeGen) - Anime Image Generator / [AltStore](https://cranci.tech/repo.json) / [Discord](https://discord.gg/XR3SrmUbpd)
 * [Picsew](https://apps.apple.com/app/id1208145167) - Screenshot Stitching
@@ -1258,7 +1259,6 @@ https://github.com/Akylas/alpimaps
 * [A Soft Murmur](https://apps.apple.com/app/id1175522255) - Mix Ambient Sounds
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
 * [Insight Timer](https://apps.apple.com/app/id337472899) - Meditaton / Sleep Sounds
-
 
 ***
 

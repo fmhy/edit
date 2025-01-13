@@ -281,6 +281,7 @@
 * [mupdf](https://mupdf.com/) - PDF / PC / Linux / Android
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [Sioyek](https://sioyek.info/) - PDF / PC / Mac / Linux
+* [⁠Yomu](https://www.yomu-reader.com/) - Ebook Reader / iOS / Mac
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
