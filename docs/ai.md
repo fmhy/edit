@@ -281,7 +281,7 @@
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [NexusAI Image](https://image.nexusmind.tech/) - Unlimited / [Discord](https://discord.com/invite/sk8eddGwmP)
-* [Prodia](https://app.prodia.com/) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
+* [Prodia](https://app.prodia.com/playground) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
 * [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Signup
