@@ -958,7 +958,7 @@
 * [Buycott](https://www.buycott.com/campaign/browse) - See How Manufacturers Match Your Principles
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
-
+* [Geizhals](https://geizhals.eu/) - Aggregator for Amazon EU shopping. Finds the best price for a product on Amazon's different european domains.
 ***
 
 ## ▷ Electronics
