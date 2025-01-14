@@ -588,6 +588,8 @@
 * https://libgen.li/ - clone
 * https://libgen.gs/ - clone
 * https://libgen.vg/ - clone
+* https://libgen.la/ - clone
+* https://libgen.bz/ - clone
 * https://rentry.co/fmhy-libgen - Differences between the mirrors
 
 ***

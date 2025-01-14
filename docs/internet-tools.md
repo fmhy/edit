@@ -758,7 +758,7 @@
 
 ## ▷ Safari Extensions
 
-* [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Safari Userscript Manager
+* [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Safari Userscript Manager / [GitHub](https://github.com/quoid/userscripts/)
 * [Night Eye](https://apps.apple.com/app/dark-mode-for-safari-nighteye/id1450504903) or [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari

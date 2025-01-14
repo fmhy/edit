@@ -55,7 +55,7 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Enhancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) /  / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
-* ⭐ **[MiniPerplx](https://mplx.run/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/miniperplx/)
+* ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/miniperplx/)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
 * [Hyperspace](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai) 
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Signup / [Discord](https://discord.gg/S25yW8TebZ)
@@ -266,53 +266,51 @@
 
 # ► Image Generation
 
-* ⭐ **[Image FX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Region Based
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
 * ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited
-* ⭐ **[Mage](https://www.mage.space/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[Poe](https://poe.com/)** / 100 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
+* ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
 * ⭐ **[Grok](https://x.ai/grok)** / 25 Per 2 Hours
-* ⭐ **[Playground](https://playground.com/)** / 100 Daily
-* ⭐ **[Ideogram](https://ideogram.ai/)** / 20-40 Daily
-* ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
+* ⭐ **[Playground](https://playground.com/)** / 15 Per 3 Hours
+* ⭐ **[TensorArt](https://tensor.art/)** / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
-* [imgsys](https://imgsys.org/) - Compare AI Image Generators / No Signup
+* [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Signup
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* [NexusAI Image](https://image.nexusmind.tech/) - Unlimited / [Discord](https://discord.com/invite/sk8eddGwmP)
+* [NexusAI Image](https://image.nexusmind.tech/) - 300 Daily / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
-* [Kling AI](https://klingai.com/) / 75+ Daily
-* [Unstability.ai](https://www.unstability.ai/) / 52 Daily
+* [Kling AI](https://klingai.com/) / 366 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
+* [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
 * [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Signup
-* [SeaArt](https://www.seaart.ai/) / 40 Daily
-* [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
-* [AIGallery](https://aigallery.app/) / Unlimited / No Signup
-* [RunComfy](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)  / Unlimited
-* [Recraft](https://www.recraft.ai/) / Unlimited
-* [ArtGenie](https://artgenie.surge.sh/) / Unlimited
+* [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
+* [AI Gallery](https://aigallery.app/) / Unlimited / No Signup
+* [ComfyUI Online](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)  / Unlimited
+* [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
+* [Art Genie](https://artgenie.surge.sh/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
-* [Piclumen](https://piclumen.com/) / Unlimited
-* [⁠FusionBrain](https://fusionbrain.ai/en/)
-* [PixNova](https://pixnova.ai/ai-body-generator/) / Unlimited
+* [PicLumen](https://piclumen.com/) / Unlimited / [Discord](https://discord.gg/bAycHJgbD8)
+* [⁠Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
+* [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup
-* [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.com/invite/8HqSRhJVxn)
+* [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations) 
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Signup
-* [GetIMG.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
+* [getimg.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
-* [Maze.guru](https://maze.guru/gallery) / 12 Daily
-* [PixAI](https://pixai.art/) / 5 Daily
-* [FLUXPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
-* [HotPot](https://hotpot.ai/) / 75 Daily / No Signup
-* [Glif](https://glif.app/) / No Signup
+* [Aitubo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
+* [Poe](https://poe.com/) / 2-15 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
+* [Maze Guru](https://maze.guru/gallery) / 12 Daily / [Discord](https://discord.com/invite/maze-guru-ai-art-anime-social-1007166914801434634) 
+* [PixAI](https://pixai.art/) / 5 Daily / [Discord](https://discord.com/invite/pixai) 
+* [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
+* [Hotpot](https://hotpot.ai/) / 75 Daily / No Signup
+* [Glif](https://glif.app/) / 20 Daily / No Signup / [Discord](https://discord.gg/nuR9zZ2nsh) 
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator
-* [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-* [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes
-* [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
+* [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
+* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
+* [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
+* [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
 
 ***
 
