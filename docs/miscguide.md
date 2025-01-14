@@ -544,6 +544,7 @@
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* [ClearerThinking](https://www.clearerthinking.org/tools) - A list of free research based tools to help you understand yourself, improve your mood, accomplish your goals, make better decisions, recognize faulty logic, understand the world, and improve relationships.
 
 ***
 
