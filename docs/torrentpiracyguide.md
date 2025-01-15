@@ -102,7 +102,6 @@
 * [Motrix](https://motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
 * [Tixati](https://tixati.com/)
 * [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare
-* [Picotorrent](https://picotorrent.org/)
 * [BiglyBT](https://www.biglybt.com/)
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
 * [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent)

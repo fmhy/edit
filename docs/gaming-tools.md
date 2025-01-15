@@ -489,6 +489,7 @@
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
+* [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
 
 ***
 
