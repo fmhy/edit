@@ -55,6 +55,7 @@
 * [Nova](https://novastream.top/) - Movies / TV / [GitHub](https://github.com/ambr0sial/nova/)
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: fmhy / Sign-Up Required
+* [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
 * [Vidplay](https://vidplay.tv/) - Movies / TV / Anime / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vidplay-note)
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
@@ -72,7 +73,6 @@
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
-* [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
 * [Soapy](https://soapy.to/) - Movies / TV / Anime
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [FireFlix](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
