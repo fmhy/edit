@@ -980,6 +980,7 @@
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player
 * [LastPipeBender](https://github.com/MaintainTeam/LastPipeBender) - Merges NewPipe + Tubular Features
+* [NewPipe Fork](https://github.com/bravenewpipe/NewPipe/) - Fork with YT, Rumble, Bitchute, ReturnYTDislike and SponsorBlock
 * [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) - YouTube Player
 
 ***
@@ -1124,6 +1125,7 @@
 * [Brave](https://apps.apple.com/app/id1052879175) - Adblock Browser
 * [AdGuard Home Remote](https://apps.apple.com/app/id1543143740)
 * [1Blocker](https://1blocker.com/) - Adblocker
+* [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblocker / Userscript Manager
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music
 * [⁠TwitterNoAds](https://github.com/Netskao/TwitterNoAds) - iOS Twitter AdBlock / Download DEB then add to decrypted IPA

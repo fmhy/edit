@@ -579,6 +579,7 @@
 * [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
 * [SimpleTex](https://simpletex.net/) - Formula Recognition to MathML and LaTeX / [Online](https://simpletex.net/ai/latex_ocr)
 * [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
 
 ***
 

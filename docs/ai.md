@@ -353,25 +353,25 @@
 
 # ► Audio Generation
 
-* ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI / No Signup
-* ⭐ **[Riffusion](https://www.riffusion.com/)**
-* ⭐ **[Suno](https://suno.com/)** / [Wiki](https://sunoaiwiki.com/en)
-* [MusicFX](https://labs.google/fx/tools/music-fx-dj) / Region Based
-* [Wolfram Tones](https://tones.wolfram.com/) / No Signup
-* [StableAudio](https://www.stableaudio.com/)
-* [Udio](https://www.udio.com/)
+* ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI / No Signup / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [GitHub](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md)
+* ⭐ **[Riffusion](https://www.riffusion.com/)** / [Discord](https://discord.gg/riffusion-1053034685590143047)
+* ⭐ **[Suno](https://suno.com/)** / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
+* [MusicFX](https://labs.google/fx/tools/music-fx) / Region Based
+* [WolframTones](https://tones.wolfram.com/) / No Signup
+* [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)
+* [Udio](https://www.udio.com/) / [Discord](https://discord.gg/udio)
 * [audio visual generator](https://fredericbriolet.com/avg/) / No Signup
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) / No Signup
 * [Sonauto](https://sonauto.ai/) / [Discord](https://discord.gg/pfXar3ChH8)
-* [BeatOven](https://www.beatoven.ai/)
-* [Waveformer](https://waveformer.replicate.dev/)
-* [SoundDraw](https://soundraw.io/) / No Signup
-* [Aiva](https://aiva.ai/)
-* [Boomy](https://boomy.com/)
+* [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM)
+* [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
+* [SOUNDRAW](https://soundraw.io/) / No Signup
+* [AIVA](https://aiva.ai/) / [Discord](https://discordapp.com/invite/ypDnFXN)
+* [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [Melobytes](https://melobytes.com/en)
 * [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Signup
-* [MMAudio](https://hkchengrex.com/MMAudio/) - Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [GitHub](https://github.com/hkchengrex/MMAudio)
-* [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
+* [MMAudio](https://hkchengrex.com/MMAudio/) - Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)
+* [Drumloop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
 ***
@@ -388,6 +388,7 @@
 * [FakeYou](https://fakeyou.com/) / No Signup
 * [LuvVoice](https://luvvoice.com/) / No Signup
 * [TTSMaker](https://ttsmaker.com/) / No Signup
+* [Voices](https://www.hailuo.ai/audio/voices)
 * [TextToSpeech](https://texttospeech.io/)
 * [LazyPY](https://lazypy.ro/tts/) / No Signup
 * [Kokoro-TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS ) / No Signup
