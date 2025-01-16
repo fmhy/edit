@@ -496,7 +496,7 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
-* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
+* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News

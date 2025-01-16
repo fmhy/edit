@@ -182,18 +182,11 @@
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
-* [Spotlight](https://spotlight.thisux.com/) - Find Random Reddit Content
 * [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
-* [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
-* [Reddit Shadow Ban Info](https://redd.it/1btuwel) - Check if You've been Shadowbanned
-* [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
-* [Redbar](https://chromewebstore.google.com/detail/redbar-sidebar-for-reddit/gkclfabkdcgimggblodknofgkigbfcid) - Sidebar for Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
-* [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
-* [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
+* [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
-* [RedditManager](https://redditmanager.com/) or [Saved for Reddit](https://pvik.github.io/saved-for-reddit/) - Reddit Content Managers
 * [⁠SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
@@ -214,11 +207,9 @@
 
 ***
 
-* [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RapidSave](https://rapidsave.com/) or [Reddit.tube](https://www.redd.tube/) - Reddit Video Downloaders
-* [gallery-dl](https://github.com/mikf/gallery-dl) or [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloaders
-* [Bulk Downloader for Reddit](https://github.com/Serene-Arc/bulk-downloader-for-reddit) or [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
-* [Reddit Downloader](https://redditdownloader.github.io/), [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) or [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download Media from Subreddits / Users
-* [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) - Python Script for Downloading Reddit Media
+* [Viddit](https://viddit.red/) - Reddit Video Downloaders
+* [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
+* [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
 
 ***
 
@@ -228,7 +219,6 @@
 * ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Minimalist / Privacy-Focused
 * ⭐ **[Saidit](https://saidit.net/)** - Free-Speech / Dual Upvote System
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
-* [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
 * [TheMotte](https://www.themotte.org/) - User-Driven Discussion
 * [tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Scored](https://communities.win/) - User-Driven Discussion
@@ -240,16 +230,14 @@
 
 ## ▷ Reddit Search
 
-* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** or [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) - Reddit Search Engines
+* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search Engines
 * ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
 * ⭐ **[Undelete](https://undelete.pullpush.io/)** or [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts
-* [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
 * [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
-* [RedditCommentSearch](https://redditcommentsearch.com/) - Reddit Comment Search
-* [ReSavr](https://www.resavr.com/) or [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
-* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/), [Rareddit](https://www.rareddit.com/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
+* [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
+* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Rareddit](https://www.rareddit.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler

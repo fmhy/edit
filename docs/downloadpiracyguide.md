@@ -137,7 +137,6 @@
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
 * [DownloadHa](https://www.downloadha.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Patoghu](https://patoghu.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [Softlay](https://www.softlay.com/downloads/)
 * [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)

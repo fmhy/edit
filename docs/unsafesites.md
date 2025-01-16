@@ -41,6 +41,10 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
+* 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw) 
+* MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl) 
+* Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr) 
+* Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware

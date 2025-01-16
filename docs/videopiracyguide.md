@@ -44,16 +44,17 @@
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) -  Movies / TV / Anime
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime
+* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 4K / Auto-Next / **Use Adblock** / [Discord](https://discord.gg/nepu)
 * [Wovie](https://wovie.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/iswilljr/wovie)
 * [GallaTube](https://galla.tube/) - Movies / TV / Anime
 * [EnjoyTown](https://enjoytown.pro/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [YoYoMovies](https://yoyomovies.net/), [2](https://fmovies-hd.to/) - Movies / TV / Anime
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime /[Discord](https://discord.gg/mh2Bte8Kfj)
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [uFlix](https://uflix.cc/), [2](https://uflix.to/) - Movies / TV / Anime
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [Nova](https://novastream.top/) - Movies / TV / [GitHub](https://github.com/ambr0sial/nova/)
-* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: fmhy / Sign-Up Required
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
 * [Vidplay](https://vidplay.tv/) - Movies / TV / Anime / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vidplay-note)
@@ -61,7 +62,6 @@
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [Hopcorn](https://c.hopmarks.com/), [2](https://p.hopmarks.com/) - Movies / TV / Anime
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime /[Discord](https://discord.gg/mh2Bte8Kfj)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [SpenEmbed](https://watch.spencerdevs.xyz/) - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
 * [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
