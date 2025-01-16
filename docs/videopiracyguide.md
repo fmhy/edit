@@ -27,6 +27,7 @@
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
 * [VidBox](https://vidbox.to/) - Movies / TV / Anime
 * [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
+* [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [Novafork](https://novafork.com/) - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
 * [Noxe](https://noxe.live/) - Movies / TV / Anime / Auto-Next
@@ -59,7 +60,6 @@
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / [Discord](https://discord.com/invite/3B3X6JEB7P)
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [Hopcorn](https://c.hopmarks.com/), [2](https://p.hopmarks.com/) - Movies / TV / Anime
-* [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime /[Discord](https://discord.gg/mh2Bte8Kfj)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [SpenEmbed](https://watch.spencerdevs.xyz/) - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
