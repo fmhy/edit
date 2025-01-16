@@ -47,7 +47,7 @@
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 4K / Auto-Next / **Use Adblock** / [Discord](https://discord.gg/nepu)
 * [Wovie](https://wovie.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/iswilljr/wovie)
 * [GallaTube](https://galla.tube/) - Movies / TV / Anime
-* [EnjoyTown](https://enjoytown.netlify.app/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
+* [EnjoyTown](https://enjoytown.pro/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [YoYoMovies](https://yoyomovies.net/), [2](https://fmovies-hd.to/) - Movies / TV / Anime
 * [stream fr](https://streamfr-bbjy.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt)
 * [uFlix](https://uflix.cc/), [2](https://uflix.to/) - Movies / TV / Anime
