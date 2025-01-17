@@ -491,7 +491,7 @@
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [BottleMail](https://bottlemail.org/)) - 14 Days / 1 Domain
+* [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
