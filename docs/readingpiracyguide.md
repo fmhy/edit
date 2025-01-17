@@ -435,7 +435,6 @@
 * [MangaTown](https://www.mangatown.com/)
 * [MangaBerri](https://mangaberri.com/)
 * [OniManga](https://onimanga.com)
-* [Mangauwu](https://mangauwu.top) / Some NSFW
 * [Shiroko](https://shiroko.co/)
 * [MangaBat](https://m.mangabat.com/)
 * [Mangahasu](https://mangahasu.se/)
