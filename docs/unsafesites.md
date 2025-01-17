@@ -45,6 +45,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl) 
 * Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr) 
 * Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
+* AsanDL - Caught with [malware](https://tria.ge/250117-gac5havkaj/)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware

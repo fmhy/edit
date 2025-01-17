@@ -22,6 +22,7 @@
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [SciSpace](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
+* [⁠Qwen](https://chat.qwenlm.ai/) - Alibaba's Chatbots
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
@@ -37,7 +38,6 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
 * [Grok](https://x.ai/grok) - Twitter's Chatbot
-* [⁠Qwen](https://chat.qwenlm.ai/) - Alibaba's Chatbots
 * [Anon](https://www.autonomous.ai/anon) - No Signup Llama / Hermes / FLUX / No Signup
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
@@ -378,49 +378,49 @@
 
 ## ▷ Text to Speech
 
-* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** / No Signup
-* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)**  / No Signup / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
-* [Uberduck](https://uberduck.ai/) / Signup Required
+* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** / [Demo](https://huggingface.co/spaces/Manmay/tortoise-tts) / No Signup
+* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)**  / No Signup/ [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+* [Uberduck](https://uberduck.ai/) / Signup Required / [Discord](https://discord.gg/uberduck-768215836665446480)
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
-* [ElevenLabs](https://elevenlabs.io/) / No Signup / [Discord](https://discord.com/invite/elevenlabs)
+* [ElevenLabs](https://elevenlabs.io/) / No Signup / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm) / No Signup
 * [ttsMP3](https://ttsmp3.com/) / No Signup
-* [FakeYou](https://fakeyou.com/) / No Signup
-* [LuvVoice](https://luvvoice.com/) / No Signup
+* [FakeYou](https://fakeyou.com/) / No Signup / [Discord](https://discord.gg/fakeyou)
+* [Luvvoice](https://luvvoice.com/) / No Signup
 * [TTSMaker](https://ttsmaker.com/) / No Signup
 * [Voices](https://www.hailuo.ai/audio/voices)
-* [TextToSpeech](https://texttospeech.io/)
-* [LazyPY](https://lazypy.ro/tts/) / No Signup
-* [Kokoro-TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS ) / No Signup
+* [TextToSpeech.io](https://texttospeech.io/)
+* [LazyPy](https://lazypy.ro/tts/) / No Signup / [GitHub](https://github.com/chrisjp/tts)
+* [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS ) / No Signup / [Source code](https://huggingface.co/hexgrad/Kokoro-82M) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro) 
 * [Ondoku](https://ondoku3.com/en/) / No Signup
-* [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+* [VoiceCraft](https://github.com/jasonppy/VoiceCraft) / [Demo](https://huggingface.co/spaces/pyp1/VoiceCraft_gradio) / [Colab](https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing) 
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
-* [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
-* [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Signup
-* [Vanilla Voice](https://www.vanillavoice.com/) / No Signup
+* [Fish Audio](https://fish.audio/) / [Discord](https://discord.gg/6t7dUSPV) / [GitHub](https://github.com/fishaudio)
+* [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Signup / [Colab](https://colab.research.google.com/github/gitmylo/audio-webui/blob/master/audio_webui_colab.ipynb) / [Discord](https://discord.gg/NB86C3Szkg)
+* [VanillaVoice](https://www.vanillavoice.com/) / No Signup
 * [TTSFree](https://ttsfree.com/) / No Signup
 * [Wideo](https://wideo.co/text-to-speech/)
-* [Lovo ai](https://lovo.ai/)
+* [LOVO](https://lovo.ai/) / [Discord](https://discord.gg/vWHw5ZKEmk) 
 * [SoundofText](https://soundoftext.com/) / No Signup
 * [FreeTTS](https://freetts.com/)
-* [VoiceMaker](https://voicemaker.in/) / No Signup
+* [Voicemaker](https://voicemaker.in/) / No Signup
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Signup
-* [TTS](https://github.com/coqui-ai/tts)
+* [TTS](https://github.com/coqui-ai/tts) / [Discord](https://discord.gg/5eXr5seRrv)
 * [Clash](https://clash.me/)
-* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Signup
+* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Signup / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing) 
 
 ***
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[Applio](https://github.com/IAHispano/Applio)** - Voice Cloning  / No Signup / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/playground/)
-* ⭐ **[weights.gg](https://www.weights.gg/)** / [Discord](https://discord.gg/aihub) or [Voice Models](https://voice-models.com/) - AI Voice Models and Guides
-* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
-* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Real-Time Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
+* ⭐ **[Applio](https://applio.org/)** - Voice Cloning  / No Signup / [Discord](https://discord.gg/urxFjYmYYh) / [GitHub](https://github.com/IAHispano/Applio)
+* ⭐ **[Weights](https://www.weights.gg/)** / [Subeddit](https://www.reddit.com/r/weights/) / [Discord](https://discord.gg/weights) or [Voice Models](https://voice-models.com/) / [Discord](https://discord.gg/3WJ8r6Bf5A) - AI Voice Models and Guides
+* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally) / [Colab](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/Retrieval_based_Voice_Conversion_WebUI_v2.ipynb) / [Discord](https://discord.gg/HcsmBBGyVk)
+* ⭐ **[Voice Changer](https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md))** - Real-Time Voice Changer (W-Okada) / [Guide](https://rentry.co/VoiceChangerGuide) / [Colab](https://colab.research.google.com/github/w-okada/voice-changer/blob/master/Realtime_Voice_Changer_on_Colab.ipynb)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) / No Signup
-* [Replay](https://www.tryreplay.io/) - RVC Desktop App
-* [Bark with Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning / No Signup
-* [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning / No Signup
+* [Replay](https://www.tryreplay.io/) - RVC Desktop App / [Discord](https://discord.gg/A5rgNwDRd4)
+* [Bark Voice Cloning](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning / No Signup / [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning.ipynb) / [GitHub](https://github.com/KevinWang676/Bark-Voice-Cloning)
+* [RVC Inference HF](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning / No Signup
 
 ***
 
