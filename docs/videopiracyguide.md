@@ -20,10 +20,10 @@
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
+* [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Discord](https://discord.gg/TXqWTKeAAu)
 * [NetPlayz](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
-* [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [Zilla](https://zilla-xr.xyz/) - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb) / [Telegram](https://t.me/+MQUUqEx2WXA0ZmZk)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/K5tQTjGjkt)
 * [VidBox](https://vidbox.to/) - Movies / TV / Anime
@@ -123,8 +123,8 @@
 * 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Streaming Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Streaming Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Miruro](https://www.miruro.tv/)**, [2](https://www.miruro.online/) - Sub / Dub / Auto-Next / [Mirrors](https://www.miruro.com/) / [Discord](https://discord.gg/miruro) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
-* ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.mn/), [4](https://hianime.sx/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/hianime)
-* ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891) / [Aniwave-Style Subs](https://rentry.org/mmsot3n2)
+* ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.mn/), [4](https://hianime.sx/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Discord](https://discord.gg/hianime)
+* ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
