@@ -185,7 +185,7 @@
 * [FancySymbol](https://fancysymbol.com/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
-* [FastEmoji](https://www.fastemoji.com/), [CuteSymbols](https://www.cutesymbols.net/), [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/), [Text Smileys](https://lenny-face-generator.textsmilies.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
+* [FastEmoji](https://www.fastemoji.com/), [CuteSymbols](https://www.cutesymbols.net/), [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/), [EmoticonHub](https://emoticonhub.com/), [Text Smileys](https://lenny-face-generator.textsmilies.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
 
 ***
 

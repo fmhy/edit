@@ -869,6 +869,7 @@
 
 * ⭐ **[Calm](https://rentry.co/FMHYBase64#calm)** - Relaxation / Sleep App
 * ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
+* [⁠Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [HealthyMinds](https://hminnovations.org/meditation-app) - Meditation / Sleep Sounds
@@ -1257,6 +1258,7 @@
 ## ▷ iOS Relaxation
 
 * ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
+* [⁠Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [A Soft Murmur](https://apps.apple.com/app/id1175522255) - Mix Ambient Sounds
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
 * [Insight Timer](https://apps.apple.com/app/id337472899) - Meditaton / Sleep Sounds

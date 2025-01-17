@@ -41,9 +41,9 @@
 
 ## ▷ Site / Tool Indexes
 
-* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [GitHub](https://github.com/Shakil-Shahadat/awesome-piracy)
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * ⭐ **[r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
+* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [GitHub](https://github.com/Shakil-Shahadat/awesome-piracy)
 * ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
@@ -496,7 +496,7 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
-* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Random Posts](https://spotlight.thisux.com/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
+* ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -832,7 +832,7 @@
 
 ## ▷ Startup
 
-* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
+* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launch](https://github.com/KingMenes/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [NewIdeas](https://indieideas.io/) or [Business Generator](https://business-generator.vercel.app/) - Generate Business Ideas
 * [BetaList](https://betalist.com/) - Get Startup Ideas

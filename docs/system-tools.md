@@ -296,6 +296,7 @@
 * [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
+* [⁠Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards 
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
 
