@@ -626,6 +626,7 @@
 * [Weawow](https://play.google.com/store/apps/details?id=com.weawow)
 * [KWeather](https://invent.kde.org/utilities/kweather)
 * [Meteored](https://rentry.co/FMHYBase64#meteored)
+* [Overmorrow](https://play.google.com/store/apps/details?id=com.marotidev.Overmorrow)
 * [Bura](https://github.com/davidtakac/bura)
 * [omWeather](https://github.com/woheller69/omweather)
 * [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App

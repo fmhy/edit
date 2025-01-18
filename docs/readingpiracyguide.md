@@ -425,7 +425,7 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
+* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) / [Frontend](https://akari-psi.vercel.app/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://fto.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * [Freek](https://freek.to/explore/manga)

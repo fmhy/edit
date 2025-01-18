@@ -344,13 +344,14 @@
 * 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
-* ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
+* ⭐ **[Warp](https://one.one.one.one/)** - Free / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
 * ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe) 
 * ⭐ **[Proton VPN](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [.onion](https://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion) / [GitHub](https://github.com/riseupnet) / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN) 
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
+* [NYM](https://nym.com/) - Free / Make New Accounts for Access Codes / [GitHub](https://github.com/nymtech/nym)
 * [PrivadoVPN](https://privadovpn.com/) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [Bitmask](https://bitmask.net/) - Free VPN / [GitLab](https://0xacab.org/leap/bitmask-vpn), [2](https://0xacab.org/leap/bitmask_android)
 

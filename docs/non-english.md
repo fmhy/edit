@@ -1124,7 +1124,6 @@
 ## ▷ Streaming
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [Redecanais](https://redecanais.fi/) - Movies / TV / Anime / Dub / 1080p
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
