@@ -429,6 +429,7 @@
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
 * [GeoHack](https://geohack.toolforge.org/) - Uncensored Google Satellite View
+* [Zoom Earth](https://zoom.earth/) - Live Satellite Images & Weather
 
 ***
 
