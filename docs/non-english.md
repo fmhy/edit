@@ -420,7 +420,7 @@
 
 ## ▷ Torrenting / Télecharger
 
-* [YGGTorrent](https://www.yggtorrent.in/) - Video / Audio / ROMs / Books
+* [YGGTorrent](https://www.ygg.re/) - Video / Audio / ROMs / Books
 * [Torrent9](https://www.torrent9.site/), [2](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://feminalpes.fr/), [2](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
