@@ -221,6 +221,7 @@
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
+* [⁠R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off

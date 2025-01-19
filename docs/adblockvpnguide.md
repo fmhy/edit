@@ -19,7 +19,6 @@
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblocker
-* [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests / [GitHub](https://github.com/d3ward/toolz)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 
 ***
@@ -61,6 +60,7 @@
 * ⭐ **Pi-Hole Tools** - [WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [Twitter](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
+* ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking / [GitHub](https://github.com/zoonderkins/blahdns)
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
@@ -70,7 +70,6 @@
 * [Control D](https://controld.com/free-dns) - Customizable DNS Adblocking Service / [Twitter](https://twitter.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [NxFilter](https://nxfilter.org/) - Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [CodeBerg](https://codeberg.org/tblock/tblock)
-* [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [Twitter](https://twitter.com/PhishingArmy)
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles for Apple Devices

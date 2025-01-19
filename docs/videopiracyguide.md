@@ -66,7 +66,7 @@
 * [SpenEmbed](https://watch.spencerdevs.xyz/) - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
 * [PrimeFlix](https://primeflix-web.vercel.app/), [2](https://www.primeflix.lol/) - Movies / TV / Anime / [Discord](https://discord.gg/GbW6gzAKgc)
 * [FshareTV](https://fsharetv.co/) - Movies
-* [MultiMovies](https://multimovies.lat/) - Movies / TV
+* [MultiMovies](https://multimovies.today) - Movies / TV
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
@@ -103,6 +103,7 @@
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
 * [Freevee](https://www.amazon.com/Prime-Video-Freevee-Movies-TV/s?rh=n%3A2858778011%2Cp_n_subscription_id%3A18734379011) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
+* [⁠DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Requires Signup
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
 * [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / US Only / Library Card Required
@@ -146,6 +147,7 @@
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
+* [⁠ShowAnime](https://showanime.in/) - Sub / Dub
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AniPlay](https://aniplaynow.live/) - Sub / Dub / Auto-Nextp / [Discord](https://discord.gg/Zws2rAGSN6)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
@@ -390,35 +392,30 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
 * ⭐ **[RBTV77](https://www.rbtv77.store/)** - Sports
 * ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
-* ⭐ **[TotalSportek](https://totalsportek.best/)**, [2](https://www.totalsportek.to/) - Sports
+* ⭐ **[TotalSportek](https://totalsportek.best/)**, [2](https://www.totalsportek.to/), [3](https://totalsportek.me/) - Sports / Stream Aggregator
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Sports / Stream Aggregator
-* ⭐ **[Mazespin](https://mazespin.live/)** - Motorsports / Football / Cycling / [Discord](https://discord.com/invite/mazespin)
 * [⁠SportyHunter](https://sportyhunter.com/) - Sports
-* [CricHD](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
-* [AllReplays](https://allreplays.com/) - Sports
 * [RiveStream](https://rivestream.live/livesports) - Sports
-* [Sportsurge.club](https://sportsurge.club/) - Sports
+* [Sportsurge.club](https://sportsurge.club/) - Sports / Stream Aggregator
 * [GallaTube Sports](https://galla.tube/sports) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
 * [Cineby Live](https://www.cineby.app/livestream) - Sports / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * [1Stream](https://1stream.eu/) - Sports
-* [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
 * [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
 * [720pStream](https://720pstream.nu/) - Sports
 * [BuffStream](https://bestmlb.buffstream.io/) - Sports
 * [LiveTV](https://livetv780.me/enx/) - Sports
 * [Strims](https://strimsy.top/) - Sports
-* [Sport365](https://live.sport365.stream/) - Sports
+* [Sport365](https://live.sport365.stream/) - Sports / Stream Aggregator
 * [RedditSport](https://redditsport.cc/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
 * [rakettv.win](https://www.rakettv.win/) - Sports
 * [SportHD](https://sporthd.live/) - Sports
-* [FootyBite](https://www1.footybite.cc/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
 * [StreamLiveTV](https://streamlivetv.site/) - Sports
@@ -428,9 +425,10 @@
 * [Sport-TV](https://sport-tv.live/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [BuffSports](https://buffsports.me/) - Sports
+* [CricHD](https://crichd.li/), [2](https://streameast.bz/) - Cricket
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://new.crichd.tv/) - Sports
-* [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [Rojadirecta](http://www.rojadirecta.eu/) - Sports / Stream Aggregator / [Forum](http://forum.rojadirecta.es/)
 * [NBAMonster](https://nbamonster.com/) - Basketball
 * [NBABite](https://index.nbabite.com/) - Basketball
 * [NFLHunter](https://nflhunter.com/) - American Football
@@ -440,7 +438,8 @@
 * [MLBshows](https://mlbshow.com/) - Baseball
 * [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
 * [Boxing Stream](https://boxingstream.ai/) - Boxing
-* [MMA Streams](https://tonight.mmastreams.cc/) - MMA
+* [MMA Streams](https://tonight.mmastreams.cc/) - MMA / Stream Aggregator
+* [FootyBite](https://www1.footybite.cc/) - Football
 * [SoccerOnline](https://socceronline.me/) - Football
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Football
 * [FlickSoccer](https://flicksoccer.com/) - Football
@@ -470,6 +469,7 @@
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays
 * ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays
 * [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
+* [AllReplays](https://allreplays.com/) - Sports Replays
 * [Classic Sports Fanatic](https://www.youtube.com/@classicsportsfanatic7183/playlists) - Full Classic Sports Replays
 * [NFL Video](https://nfl-video.com/), [2](https://nfl-replays.com/) - American Football
 * [MLBLive](https://mlblive.net/) - Baseball Replays

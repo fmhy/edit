@@ -457,6 +457,7 @@
 * [animesz](https://v1.animesz.xyz/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p / [Discord](https://discord.gg/Pjs5p5TrEW)
+* [LeFoot](https://lefoot.ru/) - Live Sports
 * [Doc4U](https://doc4u.top/) - Documentaries
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
@@ -683,6 +684,7 @@
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[FireFlix](https://fireflixhd1.netlify.app/)** - Movies / TV / Anime
 * ⭐ **[HDDMovies](https://hhdmovies.baby/)** - Movies / TV / Anime
+* ⭐ **[MultiMovies](https://multimovies.today)** - Movies / TV
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K

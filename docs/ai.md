@@ -259,6 +259,7 @@
 * [Kling AI](https://klingai.com/) - Video Generator / [Discord](https://discord.com/invite/8tj8YjSzKr) 
 * [Pika](https://www.pika.art/) - Video Generator / [Discord](https://discord.com/invite/pika)
 * [⁠Fusion Brain](https://fusionbrain.ai/en/) - Video Generator
+* [Krea](https://www.krea.ai/) - 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video / No Signup
 
@@ -306,7 +307,8 @@
 * [PixAI](https://pixai.art/) / 5 Daily / [Discord](https://discord.com/invite/pixai) 
 * [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
 * [Hotpot](https://hotpot.ai/) / 75 Daily / No Signup
-* [Glif](https://glif.app/) / 20 Daily / No Signup / [Discord](https://discord.gg/nuR9zZ2nsh) 
+* [Glif](https://glif.app/) / 20 Daily / No Signup / [Discord](https://discord.gg/nuR9zZ2nsh)
+* [Krea](https://www.krea.ai/) - 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
@@ -371,6 +373,7 @@
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [Melobytes](https://melobytes.com/en)
 * [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Signup
+* [Pack Generator](https://output.com/products/pack-generator) - Sample Pack Generator
 * [MMAudio](https://hkchengrex.com/MMAudio/) - Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)
 * [Drumloop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync

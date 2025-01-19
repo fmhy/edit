@@ -854,7 +854,7 @@
 * [TheExifer](https://www.thexifer.net/index.php), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html)- Image EXIF Data Editors
 * [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images
 * [BetaFace](https://www.betaface.com/demo.html) - Facial Recognition
-* [FaceCheck](https://facecheck.id/) or [Faceagle](https://faceagle.com/) - Face Recognition Search Engines
+* [Faceagle](https://faceagle.com/) - Face Recognition Search Engines
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
 
 ***

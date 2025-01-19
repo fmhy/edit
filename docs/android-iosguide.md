@@ -146,7 +146,7 @@
 * [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/) / [Discord](https://discord.gg/yMnc3EywRZ)
 * [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Build APKs with Python / [Config Gen](https://j-hc.github.io/rvmm-config-gen/)
-* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Automated](https://github.com/taku-nm/auto-cli/) / [Guide](https://rentry.org/Revanced_Guide)
+* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
 * [Revancify](https://github.com/decipher3114/Revancify) - Termux-Compatible CLI Patcher
 
 ***
@@ -1032,7 +1032,6 @@
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Buz](https://www.buzmenow.com/) - Voice Chat
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
-* [Swiftgram](https://apps.apple.com/app/id6471879502) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
 * [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Scan Thing](https://apps.apple.com/app/id1542730895) - Scan & Digitize Anything
@@ -1205,7 +1204,7 @@
 * ⭐ **[Arctic](https://getarctic.app/)**, [Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta ](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps / [Extension](https://github.com/BandarHL/OpenTwitterSafariExtension)
-* ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In"  Popup to iOS Social Media Apps 
+* ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps 
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty) 
@@ -1214,6 +1213,7 @@
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [Chan](https://github.com/moffatman/chan) - 4Chan App
 * [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks / [Extension](https://github.com/BillyCurtis/OpenInstagramSafariExtension)
+* [Swiftgram](https://swiftgram.app/) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
 * [BHTikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - TikTok Tweaks / [Extension](https://github.com/BillyCurtis/OpenTikTokSafariExtension) / [Telegram](https://t.me/BHTikTokPlusPlus)
 * [Watusi](https://watusi.fouadraheb.com/) / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
