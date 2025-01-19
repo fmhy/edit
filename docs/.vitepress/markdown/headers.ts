@@ -64,8 +64,6 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     const heading = meta.feedback.heading || ''
     if (!heading) return result
 
-    if (meta.feedback.heading.match(/Machine Learning|Audio Generation/gi)) console.log(result, tokens[idx])
-
     return `<Feedback heading="${heading}" />${result}`
   }
 }
