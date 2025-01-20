@@ -409,7 +409,7 @@
 * [Phantom](https://phantom.lol/)
 * [Velocity](https://velocity.radon.games/) / [GitHub](https://github.com/cohenerickson/Velocity)
 * [Delusionz](https://delusionz.xyz/)
-* [Moonlight](https://math.isoluxltda.cl/)
+* [Moonlight] (sent an invalid response.)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Glacier](https://glacier.fly.dev/) - Web OS that works as Proxy
