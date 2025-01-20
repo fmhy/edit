@@ -133,7 +133,7 @@
 
 ## ▷ Grammar Check
 
-* **Notes** - Most chatbots in the AI section can also check grammar. 
+* **Note** - Most chatbots in the AI section can also check grammar.
 
 ***
 
@@ -143,7 +143,7 @@
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
 * [EditGPT](https://www.editgpt.app/) -  Signup Required
-* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required
+* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required / [Extension](https://www.grammarly.com/browser)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
 * [Outwrite](https://www.outwrite.com/) -  Signup Required
 
