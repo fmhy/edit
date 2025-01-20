@@ -90,6 +90,7 @@
 * [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan) - Image Upscaling
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
 * [resdet](https://github.com/0x09/resdet) - Detect Upscaled Images
+* [ImgUpscaler AI](https://imgupscaler.ai/) - Free image & video upscaler
 
 ***
 
