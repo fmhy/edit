@@ -405,7 +405,7 @@
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
-* [UltraTabs](https://ultra.simplyrohan.xyz/)
+* [UltraTabs]
 * [Phantom](https://phantom.lol/)
 * [Velocity](https://velocity.radon.games/) / [GitHub](https://github.com/cohenerickson/Velocity)
 * [Delusionz](https://delusionz.xyz/)
