@@ -44,7 +44,6 @@
 * [TorrentCORE](https://torrentcore.xyz/)
 * [DaMag](https://damag.net/)
 * [Cleanbay](https://cleanbay.netlify.app/)
-* [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [BTMET](https://btmet.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
@@ -59,9 +58,6 @@
 * [concen](https://www.concen.org/torrents)
 * [BTSearch](https://www.btsearch.love/en)
 * [EXT Torrents](https://extranet.torrentbay.st/)
-* [TorrentSeeker](https://torrentseeker.com)
-* [Torrentzeta](https://www.torrentzeta.com/)
-* [Veoble](https://veoble.com/torrent/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines

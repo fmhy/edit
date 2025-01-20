@@ -344,7 +344,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services

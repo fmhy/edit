@@ -18,11 +18,11 @@
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[xPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/s2G5HxqA)
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)** - Movies / TV / Anime / 4K Guide on [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[StreamFlix](https://watch.streamflix.one/)** - Movies / TV / Anime / [4K Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png) / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
-* [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [Watch2Day](https://watch2day.site/), [2](https://watch2day.online/) - Movies / TV / Anime
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Discord](https://discord.gg/TXqWTKeAAu)
@@ -579,6 +579,7 @@
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[OOMoye](https://www.oomoye.life/)** - Movies / TV / Anime / Some NSFW
 * ⭐ **[VegaMovies](https://vegamovies.is/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
@@ -596,7 +597,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV
-* [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://ww1.goojara.to/) - Movies / TV / Anime / Right Click to Save
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV - Movies / TV / Anime / Right Click to Save
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies / Right Click to Save
