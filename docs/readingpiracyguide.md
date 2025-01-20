@@ -28,25 +28,15 @@
 * [Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines
 * [eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/) - Books
-* [2020ok](http://2020ok.com/) - Books / Comics
 * [AllBooksWorld](https://allbooksworld.com/) - Books
-* [Only Books](https://onlybooks.org/) - Books
-* [BooksToLearn](https://www.booktolearn.com) - Books
-* [TPB Books](https://thepiratebay.org/search.php?q=top100:601) - Books / Torrents / **Avoid Software / Games**
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
-* [DigiLibraries](https://digilibraries.com/) - Books
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
-* [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
-* [E-Books Directory](https://www.e-booksdirectory.com/) - Books
-* [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
-* [eBookHunter.net](https://www.ebookhunter.net/) - Books
-* [obooko](https://www.obooko.com/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
 * [Gray City](https://graycity.net/) - Books
 * [Litgu.ru](https://litgu.ru/) - Books
-* [Elegant Solutions](http://esspc-ebooks.com/ ) - Books
+* [Elegant Solutions](http://esspc-ebooks.com/) - Books
 * [BookFrom.net](https://www.bookfrom.net/) - Books
 * [FreeEditorial](https://www.freeditorial.com/) - Books
 * [Zoboko](https://zoboko.com/) - Books
@@ -73,7 +63,6 @@
 * [Standard EBooks](https://standardebooks.org/)
 * [Manybooks](https://manybooks.net/)
 * [JustFreeBooks](https://www.justfreebooks.info/)
-* [Classic Literature](https://classic-literature.co.uk/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
 * [DPLA](https://dp.la/)
 * [e-Book Mecca](https://ebook-mecca.com/)
@@ -83,6 +72,8 @@
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012)
+* [Classic Literature](https://classic-literature.co.uk/) - Classics
+* [DigiLibraries](https://digilibraries.com/) - Classics
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
 * [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
@@ -229,7 +220,7 @@
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
-* [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
+* [eBookHunter.net](https://www.ebookhunter.net/), [EpubPuB](https://www.epub.pub/) or [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Romance / Fantasy
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
 * [Daryl-Dixon](https://daryldixon.gala100.net/) or [Artbooks Archive](https://t.me/archive_artbooks) - Artbooks
@@ -425,7 +416,7 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) / [Frontend](https://akari-psi.vercel.app/) or [Mangakakalot](https://mangakakalot.com/)
+* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/) / [Frontend](https://akari-psi.vercel.app/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://fto.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * [Freek](https://freek.to/explore/manga)
@@ -613,6 +604,7 @@
 * [SuperKuh](http://erewhon.superkuh.com/library/)
 * [Non_Fic](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
+* [E-Books Directory](https://www.e-booksdirectory.com/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Books / Journals
 * [JSTor](https://www.jstor.org/) - Books / Journals

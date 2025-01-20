@@ -48,6 +48,7 @@
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
+* [Bein4kora](https://bein4kora.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
 * [nghmat](https://songs.nghmat.com/) - Music / MP3
 
@@ -90,6 +91,7 @@
 * [Boimate](https://boimate.com/) - Books
 * [ebanglalibrary](https://www.ebanglalibrary.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
+* [boierpathshala](https://boierpathshala.com/pdf/) - Educational Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
 * [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) - Bangla Typing Tool / Spellcheck
 
@@ -399,7 +401,6 @@
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Movie to Review](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
-* [Warning Zone](https://stalkerjany.blogspot.com/) - Movies
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -542,7 +543,7 @@
 * [Edels Gute Stube](https://edels-stube.eu/) - Live TV / Sports / Movies / TV / Documentaries / Dub / 720p
 * [Bundesliga Streams](https://bundesliga-streams.net/) - Sports
 * [LiveTV](https://livetv.sx/dex/) - Sports
-* [SRF.CH](https://www.srf.ch/) - Live TV / Sports
+* [SRF.CH](https://www.srf.ch/) - Live TV / Sports / Swiss VPN Required
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
@@ -697,6 +698,8 @@
 * [Moviefuze](https://www.moviefuze.com/) - Movies / TV / Dub / 1080p
 * [HDMovie2](https://hdmovie2.love/) - Movies / TV / Dub / 1080p
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
+* [jattfilms](https://jattfilms.cfd/) - Movies / TV / Dub / 1080p
+* [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Mp4Moviez](https://www.mp4moviez.bingo/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
@@ -739,13 +742,16 @@
 
 ## ▷ Downloading / Mengunduh
 
+* [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
+* [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Music
 
 ## ▷ Streaming / Menyiarkan
 
+* [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
@@ -755,6 +761,7 @@
 * [Lesics](https://youtube.com/@LesicsIndo) - Sabins Civil Engineering
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
 * [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
+* [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
 ## ▷ Reading / Membaca
 
@@ -783,6 +790,8 @@
 ## ▷ Torrenting
 
 * [MIRCrew](https://mircrew-releases.org/) - Movies / TV / Anime
+* [ICV Crew](https://www.icv-crew.com/forum/) - Torrent Forum
+* [TNT Village](https://tntvillage-db.programmiedovetrovarli.it/) - Torrent Aggregator
 
 ## ▷ Streaming
 
@@ -916,7 +925,6 @@
 
 * [CinEast](https://cineaste.co.kr/) - Movies / TV / Sub / 1080p
 * [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
-* [4Sashi](https://4sashi.com/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
 * [ilKPOP](https://ilkpop.in/) - Music / MP3
 
@@ -1213,6 +1221,7 @@
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
 * [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
+* [HunterComics](https://hunterscomics.com/) - Manga
 * [Novel Mania](https://novelmania.com.br) - Light Novels
 * [Central Novel](https://centralnovel.com) - Light Novels
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
@@ -1655,6 +1664,7 @@
 * [lexmangas](https://www.lexmangas.com/) - Manga
 * [Ikigai Mangas](https://visorikigai.nipase.com/) - Manga
 * [miauscan](https://lectormiau.com/) - Manga
+* [zonatmo](https://zonatmo.com/) - Manga
 * [Mangaesp](https://mangaesp.net/) - Manga
 * [anzmangashd](https://www.anzmangashd.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga

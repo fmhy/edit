@@ -681,10 +681,10 @@
 ***
 
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client
-* [Tixati](https://tixati.com/android) - Torrent Client
+* [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding
+* [BiglyBT](https://android.biglybt.com/) - Torrent Client / Allows Binding
 * [tTorrent](https://ttorrent.org/) - Torrent Client
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Torrent Client
-* [BiglyBT](https://android.biglybt.com/) - Torrent Client
 * [TorrServe](https://github.com/YouROK/TorrServe) - Torrent Client
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Torrent Client
 * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Extra Features](https://rentry.co/FMHYBase64#1dm)
@@ -964,7 +964,7 @@
 * [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
 * [M3U8 Downloader](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader) - M3U8 Download App
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
-* [FreeTV](https://phstudio2.github.io/FreeTV/) - Live TV App / [GitHub](https://github.com/phstudio2/FreeTV)
+* [FreeTV](https://github.com/phstudio2/FreeTV) - Live TV App / [GitHub](https://github.com/phstudio2/FreeTV)
 
 ***
 
@@ -995,7 +995,8 @@
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** or [IRuin](https://iriun.com/) - Use iOS Device as Webcam
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
-* [ChatGPT](https://apps.apple.com/app/id6448311069) - ChatGPT Apps
+* [ChatGPT](https://apps.apple.com/app/id6448311069) - ChatGPT App
+* [⁠Fullmoon](https://fullmoon.app/) - Local LLM App
 * [Santander](https://github.com/NSAntoine/Santander) or [⁠Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [ZArchiver](https://apps.apple.com/app/id6504976055) or [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [⁠fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager 
@@ -1185,7 +1186,7 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[SultanMods](https://t.me/SultanModsiOS)** - Tweaked Apps
+* ⭐ **[SultanMods](https://sultanmods.fyi/)** - Tweaked Apps / [Telegram](https://t.me/SultanModsiOS)
 * ⭐ **[Blatant's IPA Library](https://t.me/blatants)** - Tweaked Apps
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
