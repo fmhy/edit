@@ -743,6 +743,7 @@
 ## ▷ Downloading / Mengunduh
 
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
+* [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime / Use "Mirror"
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
@@ -752,6 +753,7 @@
 ## ▷ Streaming / Menyiarkan
 
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
+* [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
