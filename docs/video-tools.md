@@ -201,6 +201,7 @@
 * ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
+* ⭐ **[WatchParty](https://www.watchparty.me/)** - Online / Virtual Browser
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
@@ -212,7 +213,6 @@
 * [baked.live](https://baked.live/) - Online Video Player
 * [Rave.io](https://rave.io/) - Online Extension 
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
-* [WatchParty](https://www.watchparty.me/) - Online / Virtual Browser
 * [Kast](https://kast.gg/) - Screen Share
 * [Screen Share Party](https://ba.net/screen/) - Online Screen Share
 
