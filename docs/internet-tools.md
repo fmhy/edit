@@ -142,6 +142,17 @@
 
 # ► RSS Tools
 
+* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools Indexes
+* [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
+* [rssmail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
+* [siftrss](https://siftrss.com/) - RSS Feed Filters
+* [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
+* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
+* [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
+* [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
+
+***
+
 ## ▷ RSS Readers
 
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
@@ -166,17 +177,21 @@
 
 ***
 
-## ▷ RSS Feeds
+## ▷ RSS Feed Generators
 
-* ↪️ **[RSS Feed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_generators)**
-* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
-* [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
-* [rssmail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
-* [siftrss](https://siftrss.com/) - RSS Feed Filters
-* [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
-* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
-* [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
+* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
+* ⭐ **[Feedless](https://feedless.org/)**
+* [MoRSS](https://morss.it/)
+* [RSSHub](https://github.com/DIYgod/RSSHub)
+* [Open RSS](https://openrss.org/)
+* [RSS Please](https://rsspls.7bit.org/)
+* [RSS Finder](https://rss-finder.rook1e.com/)
+* [FetchRSS](https://fetchrss.com/)
+* [RSS Diffbot](https://rss.diffbot.com/)
+* [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
+* [Politepol](https://politepol.com/en/)
+* [Janicek](https://feed.janicek.co/)
+* [FiveFilters](https://createfeed.fivefilters.org/)
 
 ***
 
@@ -527,48 +542,6 @@
 
 ***
 
-# ► Bookmark Tools
-
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
-* [linkhut](https://ln.ht/), [Linkhorse](https://link.horse/) or [TinyGem](https://tinygem.org/) - Social Bookmarking
-* [SuperMemory](https://supermemory.ai/) - AI Bookmark App / [GitHub](https://github.com/supermemoryai/supermemory)
-* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
-* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
-* [Bookmarkify](https://bookmarkify.it/) - Create JS Bookmarklets
-* [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarklets
-* [Get Bookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
-* [export-edge-collections](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert MS Edge Collections to Bookmarks
-
-***
-
-## ▷ Bookmark Managers
-
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
-* ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
-* [Start.me](https://about.start.me/) - Web-Based Manager
-* [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
-* [wallabag](https://wallabag.org/) - Web-Based Manager
-* [yabs.io](https://www.yabs.io/) - Web-Based Manager
-* [Dropmark](https://www.dropmark.com/) - Web-Based Manager
-* [KeepThisSite](https://keepthis.site/) - Web-Based Manager
-* [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
-* [Instapaper](https://www.instapaper.com/) - Desktop Manager
-* [booky](https://booky.io/) - Desktop Manager
-* [linksort](https://linksort.com/) - Desktop Manager
-* [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
----
-* [Centroly](https://centroly.com/) - Extension Manager
-* [Omni](https://github.com/alyssaxuu/omni) - Extension Manager
-* [BetterStacks](https://betterstacks.com/) - Extension Manager
-* [Mission Control](https://mission-control.app/) - Extension Manager
-* [Zulu](https://tryzulu.com/) - Extension Manager
-* [GGather](https://web.ggather.com/) - Extension Manager
-* [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
-
-***
-
 # ► Browser Tools
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://avoidthehack.com/util/browser-comparison) - Compare Popular Browsers
@@ -597,7 +570,154 @@
 
 ***
 
-## ▷ Browser Extensions
+## ▷ Bookmark Tools
+
+* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
+* [linkhut](https://ln.ht/), [Linkhorse](https://link.horse/) or [TinyGem](https://tinygem.org/) - Social Bookmarking
+* [SuperMemory](https://supermemory.ai/) - AI Bookmark App / [GitHub](https://github.com/supermemoryai/supermemory)
+* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
+* [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Duplicate Bookmarks (Chrome)
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
+* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
+* [Bookmarkify](https://bookmarkify.it/) - Create JS Bookmarklets
+* [Get Bookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
+* [export-edge-collections](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert MS Edge Collections to Bookmarks
+* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
+* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
+
+***
+
+## ▷ Bookmark Managers
+
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
+* ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
+* [Start.me](https://about.start.me/) - Web-Based Manager
+* [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
+* [wallabag](https://wallabag.org/) - Web-Based Manager
+* [Dropmark](https://www.dropmark.com/) - Web-Based Manager
+* [KeepThisSite](https://keepthis.site/) - Web-Based Manager
+* [yabs.io](https://www.yabs.io/) - Web-Based Manager
+* [Centroly](https://centroly.com/) - Web-Based Manager
+* [Stacks](https://betterstacks.com/) - Web-Based Manager
+* [Zulu](https://tryzulu.com/) - Web-Based Manager
+* [GGather](https://web.ggather.com/) - Web-Based Manager
+* [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
+* [Instapaper](https://www.instapaper.com/) - Desktop Manager
+* [booky](https://booky.io/) - Desktop Manager
+* [linksort](https://linksort.com/) - Desktop Manager
+* [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
+* [Mission Control](https://mission-control.app/) - Chrome Extension
+* [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+
+***
+
+## ▷ Tab Tools
+
+* [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
+* [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
+* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
+* [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
+* [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
+* [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - Copy Title / URL of a Tab
+
+***
+
+## ▷ Tab / Session Managers
+
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
+* ⭐ **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)**
+* [OneTab](https://www.one-tab.com/)
+* [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn)
+* [Tab Stash](https://josh-berry.github.io/tab-stash/)
+* [Tab Butler](https://tabbutler.netlify.app/)
+* [One Tab Group](https://www.onetab.group/)
+* [TreeStyleTabs](https://github.com/piroor/treestyletab)
+* [Supatabs](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Chrome Tab Managers
+* [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
+* [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
+* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+
+***
+
+## ▷ Browser Startpages
+
+* 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
+* 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
+* ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
+* ⭐ **[MONKNOW](https://www.monknow.com/)**
+* [8bitdash](https://www.8bitdash.com/)
+* [8 Bit Dashboard](https://8bitdashboard.com/)
+* [Clippingmini](https://www.clippingmini.com/)
+* [Draggo](https://draggo.com/)
+* [Pearltrees](https://www.pearltrees.com/)
+* [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
+* [Cling](https://cling.com/)
+* [Symbaloo](https://www.symbaloo.com/)
+* [Tixio](https://tixio.io/)
+* [Bento](https://github.com/migueravila/Bento)
+* [ez.lol](https://ez.lol/)
+* [nightly](https://github.com/damnitharshit/nightly)
+* [Protopage](https://www.protopage.com/)
+* [tilde](https://github.com/xvvvyz/tilde)
+* [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity)
+* [AllMyFaves](https://allmyfaves.com/)
+* [start.me](https://start.me/start/int/startpage)
+
+***
+
+### ▷ Custom New Tab Page
+
+* ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
+* ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
+* [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
+* [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) - Pick a Site that Opens in New Tabs (Firefox)
+* [Tabiverse](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tabiverse-extensions) / [Discord](https://discord.gg/MUgRGwE)
+* [mtab](https://github.com/maxhu08/mtab)
+* [Minimal Startpage](https://github.com/deepjyoti30/startpage)
+* [hexagonTab](https://github.com/zombieFox/hexagonTab)
+* [Bonjourr](https://bonjourr.fr/)
+* [Perfect Home](https://github.com/perfect-things/perfect-home)
+* [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
+* [Tabliss](https://tabliss.io/)
+* [Infinity New Tab](https://en.infinitynewtab.com/)
+* [b2ntp](https://d3ward.github.io/b2ntp/)
+* [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page)
+* [Renewed Tab](https://renewedtab.com/)
+* [Momentum](https://momentumdash.com/)
+* [NightTab](https://github.com/zombieFox/nightTab)
+* [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+* [Mue](https://github.com/mue/mue)
+
+***
+
+## ▷ Userscripts
+
+* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
+* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)** or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
+* ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
+* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
+* ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
+* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube Videos by Pressing "CTRL+SHIFT+D"
+* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit Videos by Pressing "CTRL+SHIFT+D"
+* [Remove Web Limits](https://greasyfork.org/en/scripts/28497) / [Mod](https://greasyfork.org/en/scripts/386908) - Force Enable Right Click
+* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
+* [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
+* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me"
+* [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
+* [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
+* [Remove Bing CK](https://greasyfork.org/en/scripts/483444) - Remove Bing CK Redirects
+* [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
+* [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
+* [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
+* [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
+* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
+* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
+
+***
+
+# ► Browser Extensions
 
 * 🌐 **[WebExtension.org](https://webextension.org/)** or [MyBrowserAddon](https://mybrowseraddon.com/) - Open-Source Extension Indexes
 * ↪️ **[Adblocking Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
@@ -606,9 +726,6 @@
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_download_extensions)**
 * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
-* ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
-* ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [Oldschool Styles](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#zoom-page-addons)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
@@ -617,17 +734,13 @@
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Browserboost](https://browserboost.org/) - Add Features to Browsers
+* [Omni](https://github.com/alyssaxuu/omni) - Browser Quick Launcher
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - Adds Actions on Dragging
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
-* [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://add0n.com/useragent-switcher.html) - Switch Your User-Agent
-* [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
-* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
-* [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
-* [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
 * [Dictionaries](https://github.com/pnlpal/dictionariez), [Definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - Popup Dictionaries
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
@@ -658,7 +771,6 @@
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
-* [CopyTabTitleURL](https://github.com/k08045kk/CopyTabTitleUrl) - Link Auto-Markdown Formatting
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - Turn Webpages into Editable Documents
@@ -671,14 +783,12 @@
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
-* [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
 * [Caffeine](https://add0n.com/caffeine.html) - Prevent OS From Sleeping
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [XKit](https://github.com/new-xkit/XKit) - Tumblr Enhancement Extension
-* [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
 * [Edge Stats](https://edge-stats.com/) - Compare / Analyze Edge Extensions
 
@@ -689,16 +799,12 @@
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)** - Firefox Addon Store
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
-* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
-* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
-* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
-* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) - Grammar Check
@@ -727,20 +833,18 @@
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
+* [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
+* [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
+* [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
+* [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
-* [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [CrxMouse](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
-* [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Dupe Bookmarks
-* [Supatabs](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Tab Managers
-* [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
-* [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
-* [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [Resizing](https://resizing.app/) - Resize Images
@@ -756,32 +860,6 @@
 * [Night Eye](https://apps.apple.com/app/dark-mode-for-safari-nighteye/id1450504903) or [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
-
-***
-
-## ▷ Userscripts
-
-* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
-* ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
-* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)** or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
-* ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
-* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
-* ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
-* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube Videos by Pressing "CTRL+SHIFT+D"
-* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit Videos by Pressing "CTRL+SHIFT+D"
-* [Remove Web Limits](https://greasyfork.org/en/scripts/28497) / [Mod](https://greasyfork.org/en/scripts/386908) - Force Enable Right Click
-* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
-* [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
-* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me"
-* [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
-* [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
-* [Remove Bing CK](https://greasyfork.org/en/scripts/483444) - Remove Bing CK Redirects
-* [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
-* [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
-* [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
-* [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
-* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
-* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 
 ***
 
@@ -807,6 +885,7 @@
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
 * 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-Source Archiving Tools
 * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitter_archiving)**
+* ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader

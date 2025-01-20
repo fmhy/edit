@@ -176,26 +176,6 @@
 
 ***
 
-## Browser Startpages
-
-* 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
-* 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
-* ⭐ **[MONKNOW](https://www.monknow.com/)**
-
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
-
-### Customizable New Tab Page
-
-* ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
-* ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
-* [Tabiverse](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tabiverse-extensions) / [Discord](https://discord.gg/MUgRGwE)
-
-[mtab](https://github.com/maxhu08/mtab), [Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [materialYouNewTab](https://github.com/XengShi/materialYouNewTab), [Mue](https://github.com/mue/mue)
-
-***
-
 ## Chemistry Lessons
 
 * [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor)
@@ -925,24 +905,6 @@
 
 ***
 
-## RSS Feed Generators
-
-* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
-* ⭐ **[Feedless](https://feedless.org/)**
-* [MoRSS](https://morss.it/)
-* [RSSHub](https://github.com/DIYgod/RSSHub)
-* [Open RSS](https://openrss.org/)
-* [RSS Please](https://rsspls.7bit.org/)
-* [RSS Finder](https://rss-finder.rook1e.com/)
-* [FetchRSS](https://fetchrss.com/)
-* [RSS Diffbot](https://rss.diffbot.com/)
-* [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
-* [Politepol](https://politepol.com/en/)
-* [Janicek](https://feed.janicek.co/)
-* [FiveFilters](https://createfeed.fivefilters.org/)
-
-***
-
 ## Scene Release Trackers
 
 * [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
@@ -1073,15 +1035,6 @@
 * [taodung](https://taodung.com/)
 * [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/)
-
-***
-
-## Tab Managers
-
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
-* ⭐ **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)**
-
-[OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
 ***
 
