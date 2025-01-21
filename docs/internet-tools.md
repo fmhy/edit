@@ -332,7 +332,6 @@
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
 * [scrt.link](https://scrt.link/) - Single Use Links
@@ -348,67 +347,57 @@
 
 ***
 
-## ▷ URL Shorteners
+## ▷ Short Link Tools
 
-* ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
-* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
-* ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
-* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
-* [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
-* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
-* [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
-* [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
-* [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
-* [id](https://home.s.id/) - `s.id/EQBsg`
-* [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
-* [1kb](https://1kb.link/) - `1kb.link/acc0a`
-* [x.gd](https://x.gd/) `x.gd/rcg0Z`
-* [bom.so](https://bom.so/) - `bom.so/VevMJv`
-* [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
-* [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
-* [picsee](https://picsee.io/) - `psee.io/5pye68`
-* [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [u.nu](https://u.nu/) - `u.nu/5nhzi`
-* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
-* [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
-* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
-* [upto](https://upto.site/) - `upto.site/3e04d1`
-* [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
-* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
-* [wr.do](https://wr.do/) - Account Required
-* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
-* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
-* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
-* [Thinfi](https://thinfi.com/) - Password Protect a Short URL / `thinfi.com/q8aw`
-* [Emojied](https://emojied.net/) - Emoji URL Shorteners
-* [ShortShare](https://shortshare.app/) - Short Link App
-* [BR3F](https://www.br3f.com/) - Single-Click Short Links
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
+* ⭐ **[WhereGoes](https://wheregoes.com/)**, [URL Expander](https://t.ly/tools/link-expander/) or [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects / Short Links
+* [CheckShortURL](https://checkshorturl.com/) - URL Unshortener
+* [ExpandURL](https://www.expandurl.net/) - URL Unshortener
+* [Unshorten.me](https://unshorten.me/) - URL Unshortener
+* [Shortshare](https://shortshare.app/) - URL Short Link App
 
 ***
 
-## ▷ URL Unshorteners
+## ▷ URL Shorteners
 
-* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
-* ⭐ **[urlex](https://urlex.org/)**
-* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
-* [Unshorten.it](https://unshorten.it/)
-* [ExpandURL](https://www.expandurl.net/)
-* [WhereGoes](https://wheregoes.com/)
-* [unshorten](https://unshorten.me/)
-* [linkunshorten](https://linkunshorten.com/)
+* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
+* ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
+* ⭐ **[Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Shorten Wikimedia Domain Links
+* [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
+* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
+* [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
+* [s.id](https://home.s.id/) - `s.id/EQBsg`
+* [1kb.link](https://1kb.link/) - `1kb.link/acc0a`
+* [X.gd](https://x.gd/) `x.gd/rcg0Z`
+* [Reduced.to](https://reduced.to/) - `reduced.to/nuwad`
+* [Bom.so](https://bom.so/) - `bom.so/VevMJv`
+* [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [PicSee](https://picsee.io/) - `psee.io/5pye68`
+* [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
+* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
+* [Walee](https://wal.ee/) - `wal.ee/zluqo`
+* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
+* [Bly.to](https://bly.to/) - `bly.to/3e04d1`
+* [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
+* [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
+* [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
+* [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
+* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
+* [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
+* [Emojied](https://emojied.net/) - Emoji URL Shortener
+* [Br3f](https://www.br3f.com/) - Temp One-Time Short Link
+* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 
 ***
 
 ## ▷ Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
+* ⭐ **[Downdetector](https://downdetector.com/)**
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
 * [Down.com](https://down.com/)
@@ -712,7 +701,6 @@
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
-* [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 
