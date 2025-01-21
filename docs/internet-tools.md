@@ -407,6 +407,7 @@
 * [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
 * [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [Campaign Link](https://www.campaignware.com/campaignlink) - The easiest to use short link, QR code and UTM maker
 
 ***
 
