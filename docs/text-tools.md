@@ -128,6 +128,7 @@
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
 * Base64  Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
+* [Letters to Numbers](https://lettertonumber.com) - Letters-Numbers Encoding / Decoding
 
 ***
 
