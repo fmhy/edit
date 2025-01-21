@@ -20,7 +20,7 @@
 * [RARBG Dump](https://rarbgdump.com/ ) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [IsoHunt](https://isohunts.to/) - Video / Audio / Books
-* [ExT](https://ext.to/), [2](https://search.extto.com/) - Video / Audio / Books
+* [ExT](https://ext.to/), [2](https://search.extto.com/) - Video / Audio / Books / [Proxy](https://extranet.torrentbay.st/)
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
@@ -57,7 +57,6 @@
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
 * [BTSearch](https://www.btsearch.love/en)
-* [EXT Torrents](https://extranet.torrentbay.st/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines

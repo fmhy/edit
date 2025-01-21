@@ -397,7 +397,7 @@
 * ⭐ **[TotalSportek](https://www.totalsportek.to/)**, [2](https://totalsportek.me/) - Sports / Stream Aggregator
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Sports / Stream Aggregator
-* [⁠SportyHunter](https://sportyhunter.com/) - Sports
+* [⁠SportyHunter](https://sportyhunter.com/) - Sports / Stream Aggregator
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
