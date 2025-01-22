@@ -57,6 +57,7 @@
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App
 * [Slidev](https://github.com/slidevjs/slidev) - Developer Presentation Slides
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
+* [Dev Emoji List](https://gist.github.com/oliveratgithub/0bf11a9aff0d6da7b46f1490f86a71eb) - Emoji-List with Names, Shortcodes, Unicode & HTML Entities
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/) or [ChooseALicense](https://choosealicense.com/) - How to pick a license
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/), [PrivacyBoard](https://www.privacyboard.co/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
@@ -67,6 +68,8 @@
 * [HexEd.it](https://hexed.it/) or [ImHex](https://imhex.werwolv.net) / [Web Version](https://web.imhex.werwolv.net/) - Hex Editors
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
+* [Bardeen](https://www.bardeen.ai/) or [N8N](https://n8n.io/) - Workflow Automation
+* [UI.Vision RPA](https://ui.vision/) - Workflow Automation Extension
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage / [Discord](https://discord.com/invite/HWGZSWJsA8)
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
@@ -267,7 +270,7 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
-* [ActionFlow](https://actionsflow.github.io/), [Bardeen](https://www.bardeen.ai/) or [N8N](https://n8n.io/) - Workflow Automation
+* [ActionFlow](https://actionsflow.github.io/) - Action Workflow Automation
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
@@ -344,7 +347,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
@@ -823,6 +826,7 @@
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
 * [Shiki](https://shiki.style/), [tailspin](https://github.com/bensadeh/tailspin) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
+* [Bore](https://github.com/ekzhang/bore) - TCP Tunnel to Expose Servers Local Ports
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) -  Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
 * [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
@@ -973,7 +977,7 @@
 * ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [Geofetcher](https://geofetcher.appsinprogress.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
 * ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
-* [Accessibility Guide](https://accessibility.18f.gov/checklist/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
+* [Accessibility Guide](https://accessibility.18f.gov/checklist/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests

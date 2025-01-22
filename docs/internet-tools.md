@@ -786,7 +786,6 @@
 * [Betterviewer](https://github.com/Ademking/Betterviewer) - Image View Mode
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
-* [UI.Vision RPA](https://ui.vision/) - Workflow Automation
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Caffeine](https://add0n.com/caffeine.html) - Prevent OS From Sleeping

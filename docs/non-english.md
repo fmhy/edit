@@ -476,6 +476,7 @@
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
+* [SushiScans](https://sushiscan.net/) - Manga
 * [Scan Manga](https://www.scan-manga.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
@@ -632,7 +633,7 @@
 
 * ⭐ **[MkvCinemas](https://mkvcinemas.how/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker/ [Telegram](https://telegram.me/olamovies_officialv69)
-* ⭐ **[VegaMovies](https://vegamovies.is/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.ms/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://modlist.in/?type=telegram) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
@@ -743,6 +744,7 @@
 ## ▷ Downloading / Mengunduh
 
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
+* [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime / Use "Mirror"
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
@@ -752,6 +754,7 @@
 ## ▷ Streaming / Menyiarkan
 
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
+* [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
@@ -1427,6 +1430,7 @@
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
 * ⭐ **[Flibusta](https://flibusta.is/)** / [.i2p](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / [.onion](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/) - Books
+* [Knowledge Base](https://dontaz.github.io/), [2](https://dontaz.pages.dev/), [3](https://dontaz.vercel.app/) - Educational Recommendations
 * [VK Book DL Pages](https://redd.it/kne0ba)
 * [Twirpx](https://www.twirpx.com/) - Books / Educational
 * [studmed](https://www.studmed.ru/) - Books / Educational
@@ -1571,6 +1575,7 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* ⭐ **[Playdede](https://playdede.in/)** -  Movies / TV / Anime / 1080p / Signup Required
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * ⭐ **[Flipax](https://flipax.es/)** - Live Sports
@@ -1730,7 +1735,7 @@
 * [Dizilab](https://dizilab.com/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizilla](https://dizilla.club) - Movies / TV
-* [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/), [Film İzlesene](https://www.filmizlesene.pro), [Film Mom](https://www.filmmom.de/) or [filmmax](https://filmmax.org/) - Movies
+* [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/) or [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com) or [TR Anime İzle](https://www.tranimeizle.co) - Anime
 

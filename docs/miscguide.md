@@ -320,6 +320,7 @@
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
+* [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
 * [SignalBox](https://www.map.signalbox.io/) - UK Live Train Map
 * [Train positions](https://treinposities.nl/) - Netherlands Train Info Map
 * [Chronotrains](https://www.chronotrains.com/) - European Train Distances
@@ -931,6 +932,7 @@
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
 * ⭐ **[BuyReddit](https://www.buyreddit.com/)** or [RedditFavorites](https://redditfavorites.com/) - Reddit Recommended Products
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
+* [⁠Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepper.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings

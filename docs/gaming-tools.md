@@ -119,7 +119,6 @@
 ## ▷ Optimization Tools
 
 * 🌐 **[Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md)** - Nvidia Overclocking Resources
-* ↪️ **[System Optimization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_hardware_tools)**
 * ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk)
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)**, [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) / [Warning](https://ibb.co/VSYtdTW) - GPU Overclocking / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/)
 * ⭐ **[SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests

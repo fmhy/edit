@@ -13,7 +13,7 @@
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://mistral.ai/)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai) 
-* ⭐ **[DeepSeek](https://www.deepseek.com/)** - R1-Lite-Preview / 50 Daily / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://www.deepseek.com/)** - R1 + Deepseek V3 / 50 Daily / [GitHub](https://github.com/deepseek-ai)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -31,6 +31,7 @@
 * [Electron Hub](https://www.electronhub.top/) - Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
 * [feynChat](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [NexusAI](https://www.nexusmind.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP)
+* [Lutton](https://wrtn.ai/) - GPT-4 / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lutton-note) / No Signup / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170)
 * [NextChat](https://nextchat.dev/) - Multiple Chatbots / No Signup / [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 * [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
@@ -269,7 +270,7 @@
 # ► Image Generation
 
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
-* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited
+* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / 12 Monthly
 * ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
@@ -280,7 +281,7 @@
 * [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Signup
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* [NexusAI Image](https://image.nexusmind.tech/) - 300 Daily / [Discord](https://discord.com/invite/sk8eddGwmP)
+* [NexusAI Image](https://image.nexusmind.tech/) - 300 Daily Per Model / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
