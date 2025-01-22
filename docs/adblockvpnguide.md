@@ -262,6 +262,21 @@
 
 ***
 
+## ▷ Password Managers
+
+* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
+* ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
+* ⭐ **[Bitwarden](https://bitwarden.com/)**
+* ⭐ **[Proton Pass](https://proton.me/pass)**
+* [Pashword](https://pashword.app/)
+* [LessPass](https://lesspass.com/)
+* [Buttercup](https://buttercup.pw/)
+* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
+* [Spectre](https://spectre.app/)
+* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
+
+***
+
 ## ▷ Email Privacy
 
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
