@@ -399,6 +399,19 @@
 
 ***
 
+## ▷ URL Unshorteners
+
+* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
+* ⭐ **[urlex](https://urlex.org/)**
+* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
+* [Unshorten.it](https://unshorten.it/)
+* [ExpandURL](https://www.expandurl.net/)
+* [WhereGoes](https://wheregoes.com/)
+* [unshorten](https://unshorten.me/)
+* [linkunshorten](https://linkunshorten.com/)
+
+***
+
 ## ▷ Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
