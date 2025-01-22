@@ -23,9 +23,11 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
     const contentToken = tokens[index + 2]
     if (
       !excluded.includes(env.frontmatter.title) &&
-      contentToken &&
-      contentToken.content.includes(':star:') ||  // Check if it contains ⭐
-      contentToken.content.includes(':star2:')    // Check if it contains 🌟
+      contentToken && 
+      (
+        contentToken.content.includes(':star:') ||  // Check if it contains ⭐
+        contentToken.content.includes(':star2:')    // Check if it contains 🌟
+      )
     ) {
       return `<li class="starred">`
     }
