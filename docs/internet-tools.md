@@ -347,14 +347,17 @@
 
 ***
 
-## ▷ Short Link Tools
+## ▷ Redirect Bypass
 
-* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
-* ⭐ **[WhereGoes](https://wheregoes.com/)**, [URL Expander](https://t.ly/tools/link-expander/) or [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects / Short Links
-* [CheckShortURL](https://checkshorturl.com/) - URL Unshortener
-* [ExpandURL](https://www.expandurl.net/) - URL Unshortener
-* [Unshorten.me](https://unshorten.me/) - URL Unshortener
-* [Shortshare](https://shortshare.app/) - URL Short Link App
+* ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass link Shorteners
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
+* [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
+* [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
+* [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
+* [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
+* [Lootlabs Bypass](https://greasyfork.org/en/scripts/487969) - Loot-Link  / LootDest Bypass
+* [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
 
 ***
 
