@@ -13,7 +13,6 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-
 import type { MarkdownRenderer } from 'vitepress'
 
 const excluded = ['Beginners Guide']
@@ -23,14 +22,19 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
     const contentToken = tokens[index + 2]
     if (
       !excluded.includes(env.frontmatter.title) &&
-      contentToken && 
+      contentToken &&
       (
-        contentToken.content.includes(':star:') ||  // Check if it contains ⭐
-        contentToken.content.includes(':star2:')    // Check if it contains 🌟
+        contentToken.content.includes(':star:') ||
+        contentToken.content.includes(':star2:')
       )
     ) {
-      return `<li class="starred">`
+      // Replace the placeholders with HTML
+      contentToken.content = contentToken.content
+        .replace(':star:', '<span class="star">⭐</span>') // Use HTML for star
+        .replace(':star2:', '<span class="star2">🌟</span>'); // Use HTML for star2
+
+      return `<li class="starred">`;
     }
-    return self.renderToken(tokens, index, options)
-  }
+    return self.renderToken(tokens, index, options);
+  };
 }
