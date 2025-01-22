@@ -25,6 +25,7 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
       !excluded.includes(env.frontmatter.title) &&
       contentToken &&
       contentToken.content.startsWith(':star:')
+      contentToken.content.startsWith('🌟')
     ) {
       return `<li class="starred">`
     }
