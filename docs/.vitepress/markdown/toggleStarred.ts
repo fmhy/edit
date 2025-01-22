@@ -30,7 +30,7 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
 
       if (
         !excluded.includes(env.frontmatter.title) &&
-        (content.includes(':star:') || content.includes('🌟'))  // Directly check for emojis
+        (content.includes(':star:') || content.includes(':glowing-star:'))  // Directly check for emojis
       ) {
         return `<li class="starred">`
       }
