@@ -390,10 +390,12 @@
 * [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
 * [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
-* [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
-* [emojied](https://emojied.net/) - Emoji URL Shortener
-* [Br3f](https://www.br3f.com/) - Temp One-Time Short Link
-* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [Thinfi](https://thinfi.com/) - Password Protect a Short URL / `thinfi.com/q8aw`
+* [Emojied](https://emojied.net/) - Emoji URL Shorteners
+* [ShortShare](https://shortshare.app/) - Short Link App
+* [BR3F](https://www.br3f.com/) - Single-Click Short Links
+* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
+* [suri](https://github.com/jstayton/suri), [Snapp]https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 
 ***
 
