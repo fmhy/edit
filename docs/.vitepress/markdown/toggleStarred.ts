@@ -19,7 +19,8 @@ const excluded = ['Beginners Guide']
 
 export function toggleStarredPlugin(md: MarkdownRenderer) {
   md.renderer.rules.list_item_open = (tokens, index, options, env, self) => {
-    const contentToken = tokens[index + 2]
+    const contentToken = tokens[index + 2];
+
     if (
       !excluded.includes(env.frontmatter.title) &&
       contentToken &&
@@ -28,10 +29,15 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
         contentToken.content.includes(':star2:')
       )
     ) {
-      // Replace the placeholders with HTML
-      contentToken.content = contentToken.content
-        .replace(':star:', '<span class="star">⭐</span>') // Use HTML for star
-        .replace(':star2:', '<span class="star2">🌟</span>'); // Use HTML for star2
+      // Create a copy to avoid modifying the original token directly, which can cause issues.
+      let content = contentToken.content;
+
+      // Replace :star2: FIRST to avoid conflicts
+      content = content.replace(/:star2:/g, '<span class="star2">🌟</span>');
+      content = content.replace(/:star:/g, '<span class="star">⭐</span>');
+
+      // Update the token's content
+      contentToken.content = content;
 
       return `<li class="starred">`;
     }
