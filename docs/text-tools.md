@@ -348,7 +348,7 @@
 * [FidusWriter](https://www.fiduswriter.org/)
 * [overleaf](https://www.overleaf.com/)
 * [Rustpad](https://rustpad.io) / [GitHub](https://github.com/ekzhang/rustpad)
-* [AFFiNE](https://affine.pro/)
+* [AFFiNE](https://affine.pro/) / [GitHub](https://github.com/toeverything/AFFiNE)
 * [OnlineInterview.io](https://onlineinterview.io/)
 
 ***
