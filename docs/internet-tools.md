@@ -388,7 +388,7 @@
 * [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
-* [Emojied](https://emojied.net/) - Emoji URL Shortener
+* [emojied](https://emojied.net/) - Emoji URL Shortener
 * [Br3f](https://www.br3f.com/) - Temp One-Time Short Link
 * [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 
