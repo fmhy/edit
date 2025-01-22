@@ -19,28 +19,23 @@ const excluded = ['Beginners Guide']
 
 export function toggleStarredPlugin(md: MarkdownRenderer) {
   md.renderer.rules.list_item_open = (tokens, index, options, env, self) => {
-    const contentToken = tokens[index + 2];
+    const contentToken = tokens[index + 2]
 
-    if (
-      !excluded.includes(env.frontmatter.title) &&
-      contentToken &&
-      (
-        contentToken.content.includes(':star:') ||
-        contentToken.content.includes(':star2:')
-      )
-    ) {
-      // Create a copy to avoid modifying the original token directly, which can cause issues.
-      let content = contentToken.content;
+    // Ensure the token exists
+    if (contentToken) {
+      const content = contentToken.content
 
-      // Replace :star2: FIRST to avoid conflicts
-      content = content.replace(/:star2:/g, '<span class="star2">🌟</span>');
-      content = content.replace(/:star:/g, '<span class="star">⭐</span>');
+      // Log the content for debugging purposes
+      console.log('Content Token:', content)
 
-      // Update the token's content
-      contentToken.content = content;
-
-      return `<li class="starred">`;
+      if (
+        !excluded.includes(env.frontmatter.title) &&
+        (content.includes('⭐') || content.includes('🌟'))  // Directly check for emojis
+      ) {
+        return `<li class="starred">`
+      }
     }
-    return self.renderToken(tokens, index, options);
-  };
+
+    return self.renderToken(tokens, index, options)
+  }
 }
