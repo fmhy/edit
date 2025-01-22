@@ -431,10 +431,10 @@
 * ⭐ **[SeeFrench](https://seefrench.xyz/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
-* [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
-* [Wiflix](https://wiflix-catalogue.pro/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
+* [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
+* [Wiflix](https://wiflix-hd.day/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
-* [Coflix](https://coflix.plus/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/Coflix1)
+* [Coflix](https://coflix.app/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/Coflix1)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
 * [streammovix](https://streammovix.vercel.app/) - Movies / TV / Anime
@@ -444,13 +444,13 @@
 * [Télé-Québec](https://www.telequebec.tv/) -  Québec Public Broadcaster / Movies / TV / Docs / Requires Account
 * [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Account Required
 * [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Account Required 
-* [Frembed](https://frembed.lol/) - Movies / TV / Anime / API
+* [Frembed](https://frembed.live/) - Movies / TV / Anime / API
 * [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [FRAnime.to](https://franime.to/) - Anime / Sub / 1080p
 * [toonanime](https://fr.toonanime.biz/), [2](https://v6.animesultra.net/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
-* [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
+* [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
 * [VostFree](https://vostfree.ws/) - Anime / Sub / 1080p
