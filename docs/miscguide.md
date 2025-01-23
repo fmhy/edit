@@ -933,6 +933,7 @@
 * ⭐ **[BuyReddit](https://www.buyreddit.com/)** or [RedditFavorites](https://redditfavorites.com/) - Reddit Recommended Products
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
 * [⁠Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
+* [⁠Consumer Action Taskforce](https://wiki.rossmanngroup.com/) - Documents Practices That Impact Consumer Rights
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepper.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
