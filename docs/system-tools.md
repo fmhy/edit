@@ -357,7 +357,7 @@
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
-* [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
+* [UUP Dump](https://uupdump.net/) or [⁠Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
 * [FlashMyBoard](https://flashmyboard.com/) - Receive Motherboard Update Notifications
 

@@ -49,7 +49,6 @@
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index
-* [r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread) - Piracy Index / [Mirror](https://rentry.co/megathread)
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
@@ -72,6 +71,7 @@
 * [AppRaven](https://appraven.net/) - iOS Apps
 * [FreeCycle](https://www.freecycle.org/) or [Freegle](https://www.ilovefreegle.org/) - People Stuff Exchange
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
+* [⁠FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
