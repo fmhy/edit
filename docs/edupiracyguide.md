@@ -388,7 +388,7 @@
 * [QuoteGarden](https://www.quotegarden.com/)
 * [QuoteMaster](https://www.quotemaster.org/)
 * [TheOtherPages](https://theotherpages.org/quote.html)
-* [Quote Collections](https://pastebin.com/raw/baWT50HK)
+* [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
 
 ***
 
@@ -526,6 +526,7 @@
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
+* [Omnimaga](https://www.omnimaga.org/index.php) - Calculator Community / Forums
 * [Wolfram MathWorld](https://mathworld.wolfram.com/), [Encyclopedia Of Math](https://encyclopediaofmath.org/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematic Encyclopedias
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [OmniCalculator](https://www.omnicalculator.com/) - Calculators
@@ -955,7 +956,7 @@
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
-* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials), [ZedLX](https://zedlx.com/), [⁠Scrimba](https://scrimba.com/) or [Code Basics](https://code-basics.com/) - Interactive Programming Courses
+* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials), [ZedLX](https://zedlx.com/), [AstralCode](https://astralcode.net/), [⁠Scrimba](https://scrimba.com/) or [Code Basics](https://code-basics.com/) - Interactive Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
@@ -1214,10 +1215,7 @@
 
 ## ▷ Game Development
 
-* 🌐 **[Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev)** - Resources
-* 🌐 **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
-* 🌐 **[Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources)** - Resources
-* 🌐 **[The VG Resource](https://www.vg-resource.com/)** - Resources
+* 🌐 **[⁠Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
 * ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
@@ -1300,7 +1298,7 @@
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
-* [DLStudocu](https://dlstudocu.com/), [StuHack](https://github.com/isanchop/stuhack) or [DownStudocu](https://downstudocu.com/) - Studocu Downloaders
+* [Studocuhack](https://github.com/danieltyukov/studocuhack) - Studocu Downloader
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search

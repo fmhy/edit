@@ -75,6 +75,7 @@
 * [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling
+* [⁠IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
 * [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
@@ -412,7 +413,7 @@
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cad_engineering)**
 * ↪️ **[3D Model Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models)**
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/), [MakerWorld](https://makerworld.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
-* [ModelViewer](https://modelviewer.dev/) or [F3D](https://f3d.app/) - 3D Model Viewers
+* [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [3DThis](https://3dthis.com/) - 3D Animation Tools

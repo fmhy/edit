@@ -366,6 +366,21 @@
 
 ***
 
+## ▷ Redirect Bypass
+
+* ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass Link Shorteners
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
+* [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners
+* [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
+* [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
+* [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
+* [Lootlabs Bypass](https://greasyfork.org/en/scripts/487969) - Loot-Link  / LootDest Bypass
+* [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
+
+***
+
 ## ▷ URL Shorteners
 
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
@@ -406,7 +421,7 @@
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [suri](https://github.com/jstayton/suri), [Snapp]https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 
 ***
 
@@ -669,7 +684,6 @@
 * [Betterviewer](https://github.com/Ademking/Betterviewer) - Image View Mode
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
-* [UI.Vision RPA](https://ui.vision/) - Workflow Automation
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
