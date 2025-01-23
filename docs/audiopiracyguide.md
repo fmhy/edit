@@ -72,6 +72,7 @@
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 * [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create Artist RSS Feeds
+* [Podcast MP3 Downloader](https://podcastmp3.com/) - Download MP3s from Spotify Podcasts
 
 ***
 
