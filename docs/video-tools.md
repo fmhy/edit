@@ -187,7 +187,7 @@
 * [KikoPlay](https://kikoplay.fun/) - Video Player
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
-* [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
+* [PlayVideo](https://playvideos.pages.dev/) - Google Drive Video Players
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
@@ -271,7 +271,7 @@
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Seanime](https://seanime.rahim.app/) - Anime Server
-* [Frames](https://github.com/Eleven-am/frames) - GDrive Server
+* [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
@@ -288,7 +288,7 @@
 * [Tautulli](https://tautulli.com/) - Server Monitor
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
-* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount GDrive
+* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
 * [SyncLounce](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)

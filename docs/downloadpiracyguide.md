@@ -19,7 +19,7 @@
 * [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
-* [dedigger](https://www.dedigger.com/) - GDrive File Search
+* [dedigger](https://www.dedigger.com/) - Google Drive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive

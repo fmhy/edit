@@ -298,9 +298,9 @@
 
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
-* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - GDrive Upload Bots
-* [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
-* [SearchX](https://github.com/iamLiquidX/SearchX) - GDrive Search Bot
+* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - Google Drive Upload Bots
+* [DrClonerBot](https://t.me/DrClonerBot) - Google Drive Clone Bot
+* [SearchX](https://github.com/iamLiquidX/SearchX) - Google Drive Search Bot
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot

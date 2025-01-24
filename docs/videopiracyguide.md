@@ -214,7 +214,7 @@
 * [AsiaFlix](https://asiaflix.net/) - TV / Movies
 * [Asianload](https://embasic.pro/) - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
-* [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
+* [Google Drive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
 * [DramaCool.bg](https://dramacool.bg/) - TV / Movies

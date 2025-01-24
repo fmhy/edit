@@ -220,7 +220,7 @@
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
-* [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
+* [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
 * [Rare2PDF](https://rare2pdf.com/) , [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
@@ -235,7 +235,7 @@
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
 * [OpenSign](https://github.com/OpenSignLabs/OpenSign), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
-* [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
+* [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 
@@ -395,25 +395,25 @@
 
 ***
 
-## ▷ GDrive Tools
+## ▷ Google Drive Tools
 
-* ↪️ **[GDrive File Sharing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gdrive_file_sharing)**
 * ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
-* [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
-* [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
-* [GDrive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
+* [Any File to Google Drive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to Google Drive Tool
+* [DriveUploader](https://driveuploader.com/) - Receive Files via Google Drive
+* [Google Drive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
-* [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
+* [Google Drive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on GDrive
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on Google Drive
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
-* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
-* [DriveRename](https://driverename.iblogbox.com/) - Bulk GDrive File Rename
+* [Google drive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - Google Drive Guide
+* [DriveRename](https://driverename.iblogbox.com/) - Bulk Google Drive File Rename
+* [Sharer](https://sharer.pw), [YuShare](https://yushare.my.id) or [GDToT](https://new10.gdtot.dad) - Google Drive File Sharing
 
 ***
 
