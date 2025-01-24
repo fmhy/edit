@@ -101,6 +101,7 @@
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [AnyImage](https://anyimage.io/) - Create Social Card Links
 
 ***
 
@@ -333,20 +334,17 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
-* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
+* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
-* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
-* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
+* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
+* [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
-* [HoverCode](https://hovercode.com/), [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
-* [AnyImage](https://anyimage.io/) - Create Social Card Links
-* [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
+* [Hovercode](https://hovercode.com/), [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2QR](https://2qr.info/) or [Link to QR](https://link-to-qr.com/) - QR Code Generator For URLs / Text
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
-* [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
-* [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
+* [pyFuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
+* [Backlink Tool](https://backlinktool.io/) or [IndexKings](http://www.indexkings.com/) - URL Indexer
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
 
 ***
@@ -371,7 +369,7 @@
 * [CheckShortURL](https://checkshorturl.com/) - URL Unshortener
 * [ExpandURL](https://www.expandurl.net/) - URL Unshortener
 * [Unshorten.me](https://unshorten.me/) - URL Unshortener
-* [Shortshare](https://shortshare.app/) - URL Short Link App
+* [Shortshare](https://shortshare.app/) - URL Shortener App
 
 ***
 
@@ -416,8 +414,7 @@
 * ⭐ **[Downdetector](https://downdetector.com/)**
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
-* [Down.com](https://down.com/)
-* [websitedown](http://www.websitedown.info/)
+* [websitedown.info](http://www.websitedown.info/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
 * [Dr. Link Check](https://www.drlinkcheck.com/)
@@ -672,7 +669,7 @@
 
 ***
 
-### ▷ Custom New Tab Page
+## ▷ Custom New Tab Page
 
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
