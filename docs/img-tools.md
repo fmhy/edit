@@ -797,6 +797,7 @@
 * [Screenstab](https://screenstab.com/editor/) - Create Graphics from Screenshots
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi-Platform Screenshot Guides
+* [Savvyshot](https://savvyshot.app/) - Screenshot beautifier for Windows and Mac
 
 ***
 
