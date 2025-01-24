@@ -420,7 +420,7 @@
 ## ▷ MEGA Tools
 
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - Download Quota Bypass / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#megabasterd-note)
-* ⭐ **[py_Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
+* ⭐ **[Mega Account Generators](https://rentry.co/fmhybase64#mega-gen)** - Account Gen / Unlimited Upload Size
 * [Mega-Account-Generator](https://github.com/f-o/MEGA-Account-Generator) / [Note](https://github.com/qtchaos/py_mega_account_generator/issues/16#issuecomment-2579635374) - Unlimited Upload Size
 * [MEGA Desktop](https://mega.io/desktop) / [GitHub](https://github.com/meganz/MEGAsync) - Official GUI App
 * [MEGA CMD](https://mega.io/cmd) / [GitHub](https://github.com/meganz/MEGAcmd) - Official CLI App
