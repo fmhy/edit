@@ -43,7 +43,7 @@
     "@biomejs/biome": "^1.9.4",
     "@cloudflare/workers-types": "^4.20241230.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
-    "@iconify-json/carbon": "^1.2.3",
+    "@iconify-json/carbon": "^1.2.5",
     "@iconify-json/heroicons-solid": "^1.2.0",
     "@iconify-json/lucide": "^1.2.10",
     "@iconify-json/mdi": "^1.2.1",
