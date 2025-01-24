@@ -16,6 +16,7 @@ import ToggleStarred from './ToggleStarred.vue'
     <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
     <Field icon="i-twemoji-repeat-button">Storage Links</Field>
     <Field icon="i-twemoji-star">Recommendations</Field>
+    <Field icon="i-twemoji-glowing-star">Most Recommended</Field>
     <div class="align-center mb-4 flex justify-between">
       <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Options</div>
     </div>
