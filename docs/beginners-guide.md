@@ -12,7 +12,7 @@
 
 Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
 
-For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/internet-tools#redirect-bypass)** to skip annoying countdowns. 
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
@@ -66,7 +66,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 * **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
-* **Track / Discover: [Glitchwave](https://glitchwave.com/)**
+* **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
 ***
 

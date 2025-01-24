@@ -22,19 +22,19 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 #### Don't Submit:
 
-**🕹️ Emulators**
+**🕹️ Emulators**:
 They're already on the **[Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)**.
 
-**🔻 Leeches**
+**🔻 Leeches**:
 They're already on the **[File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)**.
 
-**🐧 Distros**
+**🐧 Distros**:
 They're already on **[DistroWatch](https://distrowatch.com/)**.
 
-**🎲 Mining / Betting Sites**
+**🎲 Mining / Betting Sites**:
 Don't post anything related to betting, mining, BINs, CCs, etc.
 
-**🎮 Multiplayer Game Hacks**
+**🎮 Multiplayer Game Hacks**:
 Don't post any hacks/exploits that give unfair advantages in multiplayer games.
 
 ## Reporting a Site

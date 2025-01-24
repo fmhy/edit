@@ -262,6 +262,7 @@
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
 * [Jane Reader](https://janereader.com/) - Ebook Reader / PC / Mac
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
+* [⁠Alexandria](https://github.com/btpf/Alexandria) - PC / Linux / Mac
 * [Librum](https://librumreader.com) - Ebook Reader / PC / Linux / Mac / [GitHub](https://github.com/Librum-Reader/Librum)
 * [Thorium](https://thorium.edrlab.org/) - Ebook Reader / PC / Mac / Linux
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
