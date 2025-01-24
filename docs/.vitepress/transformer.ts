@@ -300,7 +300,7 @@ const transformLinks = (text: string): string =>
         name: 'X',
         find: /\[X\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="X" class="i-cabon:logo-x" /></a>'
+          '<a target="_blank" href="$1"><div alt="X" class="i-carbon:logo-x" /></a>'
       },
       {
         name: 'Tor',

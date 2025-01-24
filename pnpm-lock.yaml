@@ -67,8 +67,8 @@ importers:
         specifier: ^4.3.1
         version: 4.3.1(@vue/compiler-sfc@3.5.12)(prettier@3.3.3)
       '@iconify-json/carbon':
-        specifier: ^1.2.3
-        version: 1.2.3
+        specifier: ^1.2.5
+        version: 1.2.5
       '@iconify-json/heroicons-solid':
         specifier: ^1.2.0
         version: 1.2.0
@@ -1126,8 +1126,8 @@ packages:
       '@vue/compiler-sfc':
         optional: true
 
-  '@iconify-json/carbon@1.2.3':
-    resolution: {integrity: sha512-smQ1nMHZn1BcTBqr13SP/7z3F1mbGCjUT1PdcpmbRoBrB4nAA9ErkTvUp49zxCQ/6VHcJsVzLV2zVXY3jJ4Bnw==}
+  '@iconify-json/carbon@1.2.5':
+    resolution: {integrity: sha512-aI3TEzOrUDGhs74zIT3ym/ZQBUEziyu8JifntX2Hb4siVzsP5sQ/QEfVdmcCUj37kQUYT3TYBSeAw2vTfCJx9w==}
 
   '@iconify-json/heroicons-solid@1.2.0':
     resolution: {integrity: sha512-o+PjtMXPr4wk0veDS7Eh6H1BnTJT1vD7HcKl+I7ixdYQC8i1P2zdtk0C2v7C9OjJBMsiwJSCxT4qQ3OzONgyjw==}
@@ -5072,7 +5072,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@iconify-json/carbon@1.2.3':
+  '@iconify-json/carbon@1.2.5':
     dependencies:
       '@iconify/types': 2.0.0
 
