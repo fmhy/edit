@@ -38,7 +38,7 @@
 * [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [Novafork](https://novafork.com/) - Movies / TV / [Telegram](https://t.me/novafork) / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * [Soaper.TV](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
-* [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
+* [CorsFlix](https://corsflix.us.kg/), [2](https://weprogramstuff.cc/) - Movies / TV / Anime
 * [Noxe](https://noxe.live/) - Movies / TV / Anime / Auto-Next
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [Nkiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/), [4](https://streammovies.to/) - Movies / TV
@@ -137,6 +137,7 @@
 * ⭐ **[AniMag](https://animag.to/)** - Sub / Dub
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/), [Miru Project](https://miru.js.org/en/) or [Migu](https://github.com/NoCrypt/migu) - Desktop Streaming Apps
+* [⁠AnimeKai](https://animekai.to/home) - Sub / Dub
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
 * [123Anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [Hikari](https://hikari.gg/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3) 
@@ -728,7 +729,7 @@
 
 ## ▷ Stremio Tools
 
-* 🌐 **[Stremio Addons](https://www.stremio-addons.com/)** - Stremio Addons / [Subreddit](https://www.reddit.com/r/StremioAddons/)
+* 🌐 **[Stremio Addons](https://www.stremio-addons.com/)** - Stremio Addons / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF)
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** or [Bye Sudo](https://rentry.co/bye-sudo) - Stremio Guides
 * [Stremio Addon Manager](https://addon-manager.viren070.me/), [2](https://stremio-addon-manager.vercel.app/), [3](https://github.com/pancake3000/stremio-addon-manager) - Addons Manager
 * [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/) - Easy Stremio Setup
