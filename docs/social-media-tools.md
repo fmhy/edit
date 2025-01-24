@@ -64,7 +64,7 @@
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
 * [Webhooker](https://xdfnleaks.github.io/webhooker/) - Simple Webhooks App
 * [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
-* [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter / Telegram Embeds
+* [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
@@ -223,7 +223,7 @@
 * [tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Scored](https://communities.win/) - User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
-* [Squabblr](https://squabblr.co/) - Twitter / Reddit Style Alt
+* [Squabblr](https://squabblr.co/) - X.com / Reddit Style Alt
 * [Discuit](https://discuit.net/) - Centralized Reddit Alt with User Control
 
 ***
@@ -301,7 +301,7 @@
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - GDrive Upload Bots
 * [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [SearchX](https://github.com/iamLiquidX/SearchX) - GDrive Search Bot
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
@@ -572,18 +572,18 @@
 # ► Twitter Tools
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
-* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
+* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
-* [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
+* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - X.com Frontends
+* [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
-* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
-* [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - Twitter Community Notes Leaderboard
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search X.com Use Lists
+* [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - X.com Community Notes Leaderboard
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
-* [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - Twitter Unfollow Tool
-* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
+* [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
+* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
 
 ***
 

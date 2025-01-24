@@ -279,20 +279,8 @@ const transformLinks = (text: string): string =>
           '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github" /></a>'
       },
       {
-        name: 'GitHub Fallback',
-        find: /\[Github\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github" /></a>'
-      },
-      {
         name: 'GitLab',
         find: /\[GitLab\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
-      },
-      {
-        name: 'GitLab Fallback',
-        find: /\[Gitlab\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
@@ -309,10 +297,10 @@ const transformLinks = (text: string): string =>
           '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
       },
       {
-        name: 'Twitter',
-        find: /\[Twitter\]\(([^\)]*?)\)/gm,
+        name: 'X',
+        find: /\[X\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="Twitter" class="i-mdi:twitter" /></a>'
+          '<a target="_blank" href="$1"><div alt="X" class="i-cabon:logo-x" /></a>'
       },
       {
         name: 'Tor',

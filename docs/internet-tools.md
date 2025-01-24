@@ -101,7 +101,7 @@
 ## ▷ Paywall Bypass
 
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
-* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [Twitter](https://twitter.com/Magnolia1234B)
+* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
@@ -135,7 +135,7 @@
 * [LinkMix](https://linkmix.co/) / 20 Limit
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
-* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
 
 ***
 
@@ -570,7 +570,7 @@
 
 ## ▷ Email Aliasing
 
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailgw](https://mailgw.com/) - Email Aliasing
