@@ -394,14 +394,14 @@
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
-* [upto](https://upto.site/) - `upto.site/3e04d1`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
-* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
-* [wr.do](https://wr.do/) - Account Required
-* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
-* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
+* [Bly.to](https://bly.to/) - `bly.to/3e04d1`
+* [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
+* [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
+* [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
+* [Zero Width Shortener](https://zws.im/) - Shorten URLs with Zero Width Characters / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [emojied](https://emojied.net/) - Emoji URL Shortener
