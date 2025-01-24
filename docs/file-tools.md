@@ -417,10 +417,8 @@
 
 ***
 
-## ▷ Mega Tools
+## ▷ MEGA Tools
 
-* ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#megabasterd-note)
-* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
-* [MEGASync](https://mega.io/desktop) or [MegaCMD](https://mega.io/cmd) - Mega Apps
-* [Mega Gen](https://rentry.co/FMHYBase64#mega-gen) - Mega Account Generator
-* [Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - Transfer Files from Mega to GDrive
+* ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - Download Quota Bypass / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#megabasterd-note)
+* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)**  or [Mega Gen](https://github.com/f-o/MEGA-Account-Generator) /  [Note](https://github.com/qtchaos/py_mega_account_generator/issues/16#issuecomment-2579635374) - Account Generators / Unlimited Upload Size
+* [MEGA Desktop](https://mega.io/desktop) / [GitHub](https://github.com/meganz/MEGAsync) or [MEGA CMD](https://mega.io/cmd) / [GitHub](https://github.com/meganz/MEGAcmd) - Official Apps

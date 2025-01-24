@@ -1,6 +1,6 @@
 ---
 title: Feedback
-description: Anonymous comments taken from Reddit, Discord, Twitter and our feedback system.
+description: Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 next: false
 prev: false
 lastUpdated: false
@@ -10,7 +10,7 @@ outline: false
 ### Feedback
 
 :::tip What is this?
-These are all anonymous comments taken from Reddit, Discord, Twitter and our feedback system. This is why we do it. People are the motivation, equality is the goal.
+These are all anonymous comments taken from Reddit, Discord, X.com and our feedback system. This is why we do it. People are the motivation, equality is the goal.
 :::
 
 ***
