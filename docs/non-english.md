@@ -349,6 +349,11 @@
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize]( https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 
+## ▷ Sport
+
+* [Starlive](https://starlive.click/) - MMA (use adblock)
+* [StarGoal](https://goal.starsites.fun) - Soccer, Hockey, etc. (use adblock)
+
 ## ▷ Reading
 
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
