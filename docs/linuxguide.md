@@ -78,7 +78,7 @@
 * [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
 * [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
-* [NetBoot](https://netboot.xyz/) - Distro Installer
+* [NetBoot](https://netboot.xyz/) - Boot Linux Distros
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
@@ -270,7 +270,6 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 ## ▷ Linux Images
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** - Image to Text / [GitHub](https://github.com/TenderOwl/Frog/)
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -541,6 +540,7 @@ Linux Gaming Guide
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
+* [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)

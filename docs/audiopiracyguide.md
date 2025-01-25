@@ -27,6 +27,7 @@
 
 ## ▷ Spotify Playlists
 
+* ↪️ **[Spotify Playlist Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_playlist_generators)**
 * ⭐ **[exportify](https://github.com/watsonbox/exportify)** or [⁠spotify-backup](https://github.com/caseychu/spotify-backup) - Playlist Backup
 * ⭐ **[playlists.cloud](https://playlists.cloud/)** or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
@@ -41,16 +42,6 @@
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
-* [Spotalike](https://spotalike.com/) - Playlist Generator
-* [playlist-generator](https://www.playlist-generator.com/) - Playlist Generator
-* [Chat Jams](https://www.chatjams.ai/) - Playlist Generator
-* [MagicPlaylist](https://magicplaylist.co/) - Playlist Generator
-* [Vibesition](https://vibesition.jordantwells.com/) - Playlist Generator
-* [Groovifi](https://groovifi.com/) - Playlist Generator
-* [spotgen](https://epsil.github.io/spotgen) - Playlist Generator
-* [Highlights2SPotify](https://highlights2spotify.com/) - Playlist Generator
-* [Moodify](https://moodify.app/) - Playlist Generator
-* [RadioNewify](https://radionewify.com/) - Playlist Generator
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 
 ***
@@ -534,8 +525,9 @@
 * [RPGGamers Radio](http://www.rpgamers.net/radio/) - Game Music Radio
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
 * [VGM](https://vgm.mmosvc.com/) - Game Music Radio
-* [NSF j](https://nsf.nesbbs.com/) - NES Game Music
-* [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Game Music
+* [NSF j](https://nsf.nesbbs.com/) - NES Music
+* [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
+* [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Music
 * [GTA Radio Stations Music](https://rentry.co/FMHYBase64#gta-radio-stations) - GTA Radio Stations
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database

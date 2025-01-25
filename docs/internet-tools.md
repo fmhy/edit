@@ -266,7 +266,7 @@
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
-* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
+* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
 * [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
@@ -407,6 +407,7 @@
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [upto](https://upto.site/) - `upto.site/3e04d1`
+* [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
@@ -598,7 +599,6 @@
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
-* [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources

@@ -697,7 +697,7 @@
 * ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
-* [nomacs](https://github.com/nomacs/nomacs)
+* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
 * [PhotoQt](https://github.com/luspi/photoqt)

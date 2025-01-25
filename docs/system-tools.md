@@ -326,6 +326,7 @@
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [NetBoot](https://netboot.xyz/) - Boot Operating Systems without ISOs
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***

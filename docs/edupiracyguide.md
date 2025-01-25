@@ -1059,7 +1059,7 @@
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [Local-First Web](https://localfirstweb.dev/) - Local-First Web Development Guide
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
-* [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
+* [backendlore](https://github.com/fpereiro/backendlore) or [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Backend Coding Guides
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [⁠Backend Cheats](https://github.com/cheatsnake/backend-cheats) - ⁠Backend Cheatsheet / Guide
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
@@ -1081,7 +1081,7 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide
-* [Untrusted](https://alexnisnevich.github.io/untrusted/) - JavaScript Learning Game
+* [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
 * [HTML DOM](https://phuoc.ng/collection/html-dom/) - Learn DOM Manipulation
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 
@@ -1185,7 +1185,6 @@
 * [FrontEndMentor](https://www.frontendmentor.io/), [Phuoc](https://phuoc.ng/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
-* [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
 
 ***
 
@@ -1301,7 +1300,7 @@
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
-* [Studocuhack](https://github.com/danieltyukov/studocuhack) - Studocu Downloader
+* [Studocuhack](https://github.com/danieltyukov/studocuhack), [DLStuDoc](https://dlstudocu.com/) or [DownStuDoc](https://downstudocu.com/) - Studocu Downloaders
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
