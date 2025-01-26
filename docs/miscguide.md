@@ -183,7 +183,7 @@
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android) 
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
-* [ioBroker ](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
+* [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -898,7 +898,6 @@
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
   
-
 ***
 
 ## ▷ Crypto / Bitcoin

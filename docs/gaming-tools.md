@@ -675,7 +675,7 @@
 * [LoL Math](https://lolmath.net/) - LoL Item Optimizer / [Discord](https://discord.com/invite/BpGpdzw)
 * [iTero](https://www.itero.gg/) - LoL AI Coach
 * [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tools
-* [Mobalytics](https://mobalytics.gg/ or [DeepLoL](https://www.deeplol.gg/) - Game Performance & Stats Analyzer
+* [Mobalytics](https://mobalytics.gg/) or [DeepLoL](https://www.deeplol.gg/) - Game Performance & Stats Analyzer
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
@@ -706,7 +706,7 @@
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [PMD Generators](https://syphist.com/pmd/) - Pokémon Mystery Dungeon Generators 
-generate various codes codes for the Pokémon Mystery Dungeon series 
+
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
 * [pkNX](https://github.com/kwsch/pkNX) - Switch Pokémon ROM Editor / Randomizer
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA to 3DS)
