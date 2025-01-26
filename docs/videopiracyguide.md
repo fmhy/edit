@@ -692,7 +692,6 @@
 * [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
 * [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
 
-
 ***
 
 ## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
@@ -914,7 +913,7 @@
 * ⭐ **[SubDL](https://subdl.com/)** - Subtitles
 * ⭐ **[Subscene](https://subscene.cam/)** - Subtitles
 * ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
-*  [Subsearch](https://github.com/vagabondHustler/subsearch), [SubDownloader](https://subdownloader.net/), [Subliminal](https://subliminal.readthedocs.io/) or [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - Python Download Scripts
+* [Subsearch](https://github.com/vagabondHustler/subsearch), [SubDownloader](https://subdownloader.net/), [Subliminal](https://subliminal.readthedocs.io/) or [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - Python Download Scripts
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [SubSource](https://subsource.net/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles

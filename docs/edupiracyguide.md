@@ -377,7 +377,7 @@
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
-* [⁠ChessVariants(https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides 
+* [⁠ChessVariants](https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides 
 
 ***
 
@@ -1112,7 +1112,7 @@
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
 * [Web Browser Engineering](https://browser.engineering/) - Learn about Browser Engineering
-* [ OSDev Wiki](https://wiki.osdev.org/) - Operating System Dev Wiki
+* [OSDev Wiki](https://wiki.osdev.org/) - Operating System Dev Wiki
 * [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Operating Systems Book
 * [Wi is Fi](https://www.wiisfi.com/) - Wi-Fi Educational Guide
 * [CPU Land](https://cpu.land/) - What Happens when you run Programs
@@ -1269,7 +1269,7 @@
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Gizmo](https://gizmo.ai/), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
- * ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
+* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
@@ -1436,7 +1436,7 @@
 ***
 
 ## ▷ Wikipedia Tools
- 
+
 * 🌐 **[Wiki Portals](https://rentry.co/wikiportals)** - Wiki Portals Navigation
 * [HatNote](https://top.hatnote.com/) - Top Pages
 * [HyperLeak](https://hyperleap.com/), [2](https://reversepedia.org/) - Page Connections

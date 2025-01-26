@@ -587,7 +587,7 @@
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
-* [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/, [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
+* [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/), [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.info/) - Movies / TV
@@ -1860,6 +1860,7 @@
 
 * [NetHD](https://nethd.org/) - Video / Audio
 * [3ChangTrai](https://3changtrai.com/) - Video / Audio
+
 ## ▷ Streaming / Phát trực tuyến
 
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV

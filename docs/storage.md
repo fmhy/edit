@@ -127,7 +127,7 @@
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
-[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/), [minimalmockups](https://www.minimalmockups.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [ Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
+[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/), [minimalmockups](https://www.minimalmockups.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
 
 ***
 
@@ -313,7 +313,6 @@
 
 [DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](https://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/), [Online DOS games](https://dos.zczc.cz/), [Classic Games](https://classicdosgames.com/), [DOS games in browser](https://weplaydos.games/)
 
-
 ***
 
 ## Encrypted Android Messengers
@@ -336,7 +335,6 @@
 * ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
 
 [Element](https://element.io/) / [GitHub](https://github.com/element-hq), [Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [Teleguard](https://teleguard.com/en)
-
 
 ### Matrix Home Servers
 
@@ -895,7 +893,6 @@
 * ⭐ **[MVSEP](https://mvsep.com/)** / [Decrease Queue Time](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mvsep-note)
 
 [MDX23](https://github.com/jarredou/MVSEP-MDX23-Colab_v2), [Music-Source-Separation](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference), [VocalRemover](https://vocalremover.org/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://uvronline.app/ai) / [2](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/) / [2](https://www.acapella-extractor.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [Ilaria_UVR](https://huggingface.co/spaces/TheStinger/Ilaria_UVR)
-
 
 ### Separate Voice / Instrumentals
 

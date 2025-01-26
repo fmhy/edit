@@ -421,7 +421,7 @@
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri), [Snapp]https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [suri](https://github.com/jstayton/suri), [Snapp](https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 
 ***
 

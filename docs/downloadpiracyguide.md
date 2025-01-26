@@ -147,7 +147,6 @@
 * [GenP](https://www.reddit.com/r/GenP/wiki/index), [2](https://genpguides.github.io/) - Adobe Software Patcher / [Discord](https://discord.gg/BVBh2XVn9s)
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
-
 ***
 
 ## ▷ FOSS Sites
