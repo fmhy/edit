@@ -475,7 +475,7 @@
 * [PDF Prof](https://pdfprof.com/ ) - Educational Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
+* [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW / [Discord](https://discord.com/invite/origines)
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
 * [SushiScans](https://sushiscan.net/) - Manga
