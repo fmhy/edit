@@ -24,6 +24,7 @@
 
 ## ▷ Torrenting / التورنت
 
+* [Arab Torrents](ttps://arab-torrents.com/) - Video / Audio / Books
 * [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
 
 ## ▷ Streaming / البث
@@ -38,6 +39,7 @@
 * [WeCima](https://wecima.xyz/) - Movies / TV / Cartoons
 * [mycinma](https://mycinma.com/) - Movies / TV
 * [Cimaleek](https://web.cimaleek.to/) - Movies / TV
+* [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
@@ -348,6 +350,7 @@
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize]( https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
+* [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
 
 ## ▷ Reading
 
@@ -581,13 +584,24 @@
 
 # ► Greek / ελληνικά
 
-* [Subs4series](https://www.subs4series.com/) - Greek Subtitles
-
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
+* [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/, [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
+* [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
+* [filmatic](https://filmatic.online/) - Movies / TV
+* [gamatotv](https://gamatotv.info/) - Movies / TV
+* [movio](https://movio.club/) - Movies / TV
+* [greek-flix](https://greek-flix.com/) - Movies / TV
+* [gamatomovies1](https://gamatomovies1.gr/) - Movies / TV
+* [gamatomovies](https://gamatomovies.info/) - Movies / TV
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p
 * [GreekTV](https://greektv.app/) - IPTV
+* [Subs4series](https://www.subs4series.com/), [xsubs](http://xsubs.tv), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles
+
+## ▷ Torrenting 
+
+* [AnimEclipse](http://www.animeclipse.com/) - Anime Torrents
 
 ***
 
@@ -991,7 +1005,6 @@
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
 * [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/14480#issuecomment-1907310059)
-* [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1757,6 +1770,7 @@
 * [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga
 * [Nirvana Manga](https://nirvanamanga.com/) - Manga
+* [SadScans](http://sadscans.com) - Manga / [Discord](https://discord.gg/sQ5M2fFQ45)
 * [Raindrop](https://www.raindropteamfan.com/) - Manga
 * [Seri Manga](https://serimangas.com/) - Manga
 * [Glory Manga](https://glorymanga.com/) - Manga

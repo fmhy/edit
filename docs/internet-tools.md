@@ -844,7 +844,7 @@
 
 ## ▷ Web Scraping / Crawling
 
-* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[⁠Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
 * 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
 * ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
 * [SpiderSuite](https://spidersuite.github.io/SSuite/) - Advanced Web Crawler / [GitHub](https://github.com/3nock/SpiderSuite)
