@@ -370,7 +370,6 @@
 * [GallaTube Comics](https://galla.tube/comics/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
 * [Read Comics Online](https://readcomicsonline.ru/)
-* [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads

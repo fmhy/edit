@@ -1032,7 +1032,7 @@
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
 * [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
-* [CodingBat](https://codingbat.com/python) - Java Practice
+* [CodingBat](https://codingbat.com/java) - Java Practice
 * [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming

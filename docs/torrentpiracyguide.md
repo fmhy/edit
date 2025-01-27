@@ -134,8 +134,8 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Stream / DDL Sites
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* [webtor](https://webtor.io/) - Torrent to Stream / DDL Sites
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream

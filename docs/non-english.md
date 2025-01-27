@@ -595,6 +595,7 @@
 * [greek-flix](https://greek-flix.com/) - Movies / TV
 * [gamatomovies1](https://gamatomovies1.gr/) - Movies / TV
 * [gamatomovies](https://gamatomovies.info/) - Movies / TV
+* [ertflix](https://www.ertflix.gr/en/) - Movies / TV
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p
 * [GreekTV](https://greektv.app/) - IPTV
 * [Subs4series](https://www.subs4series.com/), [xsubs](http://xsubs.tv), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles

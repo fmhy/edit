@@ -409,7 +409,6 @@
 * [stormkit](https://www.stormkit.io/)
 * [milkshake](https://milkshake.app/)
 * [atspace](https://www.atspace.com/)
-* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
 
 ### Static Page Hosting
 
