@@ -56,7 +56,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [SpotC++](https://spotcompiled.github.io/) (iOS)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [OuterTune](https://github.com/DD3Boh/OuterTune) / [SpotC++](https://spotcompiled.github.io/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
