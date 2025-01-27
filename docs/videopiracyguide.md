@@ -237,6 +237,7 @@
 * [Viu](https://www.viu.com/) - TV / Movies
 * [IQ](https://www.iq.com/) - TV / Movies / Auto-Next
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
+* [FastdRama](https://FastdRama.cam/)
 
 ***
 
