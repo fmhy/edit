@@ -9,11 +9,11 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
+* ⭐ **[DeepSeek](https://www.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot / Use 2.0 Flash
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://mistral.ai/)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai) 
-* ⭐ **[DeepSeek](https://www.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [GitHub](https://github.com/deepseek-ai)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -99,7 +99,7 @@
 ## ▷ Roleplaying Chatbots
 
 * 🌐 **[BestERP](https://besterp.ai/)** - Roleplaying LLM Lists
-* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Telegram](https://t.me/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
+* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Telegram](https://t.me/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character.AI](https://character.ai/)** - Roleplaying Chatbots / [Extract](https://rentry.co/reverse-cAI) / [Discord](https://discord.com/invite/characterai) / [Subreddit](https://www.reddit.com/r/CharacterAI/)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)

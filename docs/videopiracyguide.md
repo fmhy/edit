@@ -399,7 +399,7 @@
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Sports / Stream Aggregator
 * ⭐ **[WeAreChecking](https://wearechecking.live/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
 * [StreamEast](https://www.streameast.co/v8/) - Sports / [Mirrors](https://gostreameast.link/)
-* [CricHD](https://crichd.at/), [2](https://streameast.cz/) - Cricket
+* [Totalsportek.at](https://totalsportek.at/), [2](https://streameast.cz/) - Sports
 * [⁠SportyHunter](https://sportyhunter.com/) - Sports / Stream Aggregator
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
@@ -449,6 +449,7 @@
 * [SoccerOnline](https://socceronline.me/) - Football
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Football
 * [FlickSoccer](https://flicksoccer.com/) - Football
+* [CricHD](https://crichd.at/) - Cricket
 * [TIZ Cycling](https://tiz-cycling.io/) - Cycling
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [MotoGP](https://motogpstream.me/) - Motorsports
