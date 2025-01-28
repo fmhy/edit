@@ -33,12 +33,12 @@
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime
+* [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / 4K
 * [Let's Stream](https://www.letstream.site/) - Movies / TV / Anime / [Discord](https://discord.gg/SdVZGGEw)
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [Smashy](https://smashy.stream/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [MyFlixed](https://www.myflixed.fun/) - Movies / TV / Anime
 * [Novafork](https://novafork.com/) - Movies / TV / [Telegram](https://t.me/novafork) / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * [StigStream](https://stigstream.com/), [2](https://stigstream.xyz), [3](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
-* [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / 4K
 * [Soaper.TV](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [CorsFlix](https://corsflix.us.kg/), [2](https://weprogramstuff.cc/) - Movies / TV / Anime
 * [Noxe](https://noxe.live/) - Movies / TV / Anime / Auto-Next
