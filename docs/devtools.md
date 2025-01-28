@@ -1038,6 +1038,7 @@
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
+* [GoSearch](https://github.com/ibnaleem/gosearch) - Hunt digital footprints and leaked passwords of anyone
 
 ***
 
