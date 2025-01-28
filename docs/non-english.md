@@ -100,7 +100,7 @@
 
 ## ▷ Downloading / ডাউনলোডিং
 
-* [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recomended / 1080p
+* [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recommended / 1080p
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
 ***

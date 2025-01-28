@@ -134,7 +134,7 @@
 * [LinkSpace.Bio](https://linkspace.bio/) / 250 Limit / Custom URLs
 * [LinkMix](https://linkmix.co/) / 20 Limit
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
-* [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
+* [seemless](https://www.linkinbio.website/) - Link in Bio for TikTok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
 
 ***
