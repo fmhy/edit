@@ -100,6 +100,7 @@
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
 * [translatedict](https://www.translatedict.com/)
 * [Translator.eu](https://www.translator.eu/)
+* [AI-Translate.online](https://ai-translate.online/) - AI-Powered Document and File Translator
 
 ***
 
