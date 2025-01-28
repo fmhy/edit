@@ -414,6 +414,7 @@
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cad_engineering)**
 * ↪️ **[3D Model Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models)**
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/), [MakerWorld](https://makerworld.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
+* [GraphicsCodex](https://graphicscodex.com/) - 3D Computer Graphic Guides
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter

@@ -56,6 +56,7 @@
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
+* [YourBitTorrent](https://yourbittorrent.com/)
 * [BTSearch](https://www.btsearch.love/en)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
