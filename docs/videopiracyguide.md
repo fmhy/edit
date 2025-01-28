@@ -11,13 +11,13 @@
 ***
 
 * 🌟 **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* 🌟 **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / Auto-Next / 4K / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * 🌟 **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/BsgPypzN)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
 * 🌟 **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/q8Y9FmYFPR)
 * ⭐ **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [GitHub](https://github.com/erynith/movie-web-instances)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime Auto-Next / [Telegram](https://t.me/watch2dayonline) 
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)** - Movies / TV / Anime / [4K Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png) / [Discord](https://discord.gg/streamflix)
