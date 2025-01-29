@@ -1758,6 +1758,7 @@ Italian
 * [FilmperDesi](https://filmperdesi.net/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
+* [Dizipal](https://dizipal872.com/) - TV / Sub / Dub / 1080p / [Twitter](https://x.com/5dizipal5) / [Source](https://raw.githubusercontent.com/dizipaltv/api/main/dizipal.json)
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Dizilab](https://dizilab.com/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
