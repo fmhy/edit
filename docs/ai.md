@@ -9,7 +9,7 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
-* ⭐ **[DeepSeek](https://www.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot / Use 2.0 Flash
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
@@ -242,7 +242,8 @@
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Signup
 * [Scrip AI](https://scripai.com/) (no signup), [INK](https://app.inkforall.com/tools), [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / No Signup / [Limit Bypass](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#novelai-bypass), [2](https://greasyfork.org/en/scripts/448926) / [Discord](https://discord.com/invite/novelai)
-* [Dreamily](https://dreamily.ai/) - Story Writing AIs
+* [Dreamily](https://dreamily.ai/) - Story Writing AI
+* [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 
 ***
 

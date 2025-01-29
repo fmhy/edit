@@ -225,7 +225,7 @@
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * [Piskel](https://www.piskelapp.com/) - Pixel Art Editor
-* [rx](https://rx.cloudhead.io/) - Pixel Art Editor
+* ⭐ **[rx](https://rx.cloudhead.io/)** - Pixel Art Editor
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor
 * [PyDPainter](https://github.com/mriale/PyDPainter) - Bitmap Graphics Editor
 * [PaintWith](https://paintwith.webflow.io/) - Pixel Art Editor
@@ -302,8 +302,8 @@
 
 ## ▷ Design Apps
 
-* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
 * [VistaCreate](https://create.vista.com/) - Design App
@@ -315,11 +315,9 @@
 * [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
 * [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
 * [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Design
-* [Quote Maker](https://quotescover.com/) - Quote Picture Design
 * [Pixelied](https://pixelied.com/) - Online Design Tool
 * [Evernote.Design](https://www.evernote.design/) - Online Design Tools
 * [Graphite](https://graphite.rs/) or [Recraft](https://app.recraft.ai/) - Vector Editors
-* [Glaxnimate](https://glaxnimate.mattbas.org/) - Vector Animation Tool
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
 

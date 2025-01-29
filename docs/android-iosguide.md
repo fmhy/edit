@@ -274,28 +274,19 @@
 * [Libre Camera](https://github.com/iakdis/librecamera), [GrapheneOS Camera](https://github.com/GrapheneOS/Camera), [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [FadCam](https://github.com/anonfaded/FadCam) - Background Video Recorder
-* [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
-* [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
-* [Locket Widget](https://play.google.com/store/apps/details?id=com.locket.Locket) - Real-Time Photo Sharing
 * [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
 * [ImageToolbox](https://github.com/T8RIN/ImageToolbox), [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea), [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed), [PhotoLayers](https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers), [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor) or [Pixomatic](https://pixomatic.us/) - Image Editors
-* [ImgurViewer](https://github.com/SpartanJ/ImgurViewer) - Quickly View Imgur (+ other site) Images
-* [Mematic](https://www.mematic.com/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
-* [PhotoRoom](https://www.photoroom.com/) - Background Removers / Retouch / Enhance
+* [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam without Google Play
 * [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
-* [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BarcodeScanner](https://gitlab.com/Atharok/BarcodeScanner) or [BinaryEye](https://github.com/markusfisch/BinaryEye) - QR / Barcode Scanners
+* [BarcodeScanner](https://gitlab.com/Atharok/BarcodeScanner) or [BinaryEye](https://github.com/markusfisch/BinaryEye) - QR / Barcode Scanners
 * [TimeLapseCam](https://github.com/woheller69/TimeLapseCamera) - Timelapse Camera
-* [Colorize Images](https://rentry.co/FMHYBase64#colorize-images), [Phototune](https://rentry.co/FMHYBase64#phototune) or [Remini](https://rentry.co/FMHYBase64#remini) - Colorize Images
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
-* [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
-* [starryai](https://starryai.com/) - Generate Art from Text Prompt
 * [Inspiral](https://inspiral.nathanfriend.io/) - Create Spirograph Art
-* [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer) - Image Resizers
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
-* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
+* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
 * [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
@@ -409,7 +400,7 @@
 * [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) or [MiCTS](https://github.com/parallelcc/MiCTS) - Gesture Based Search
-* [DeepSeek](https://download.deepseek.com/app/), [⁠ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [DeepSeek](https://download.deepseek.com/app/), [⁠ChatBox](https://github.com/Bin-Huang/chatbox), [⁠ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
@@ -986,7 +977,7 @@
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** or [IRuin](https://iriun.com/) - Use iOS Device as Webcam
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
-* [ChatGPT](https://apps.apple.com/app/id6448311069), [DeepSeek](https://download.deepseek.com/app/), [⁠Mollama](https://apps.apple.com/app/mollama/id6736948278) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [DeepSeek](https://download.deepseek.com/app/), [⁠Mollama](https://apps.apple.com/app/mollama/id6736948278), [⁠ChatBox](https://github.com/Bin-Huang/chatbox) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Santander](https://github.com/NSAntoine/Santander) or [⁠Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [ZArchiver](https://apps.apple.com/app/id6504976055) or [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [⁠fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager 

@@ -724,7 +724,7 @@
 * [Minify JS](https://minify-js.com/) - JavaScript Minifier
 * [1loc](https://phuoc.ng/collection/1-loc/) or [Underdash](https://surma.github.io/underdash/) - JavaScript Snippets
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) or [⁠StandardJS](https://standardjs.com/) - JavaScript Style Guides
 * [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
 
 ***
@@ -782,7 +782,7 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [GoatCounter](https://www.goatcounter.com/) - Site Analytics
+* [GoatCounter](https://www.goatcounter.com/) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool

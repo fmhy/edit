@@ -118,7 +118,7 @@
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Cognito](https://www.cognitoedu.org/), [Academo](https://academo.org/) - Interactive Lessons
-* ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
+* ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide

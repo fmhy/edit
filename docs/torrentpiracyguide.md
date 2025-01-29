@@ -6,7 +6,7 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) page.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page.
 
 ***
 

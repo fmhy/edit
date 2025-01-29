@@ -66,7 +66,7 @@
 * [Start.me](https://about.start.me/) - Web-Based Manager
 * [Bort](https://bort.io/) - Web-Based Manager / Dropbox Sync
 * [WebCull](https://webcull.com/) - Web-Based Manager
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
+* [Floccus](https://floccus.org/) / [GitHub](https://github.com/floccusaddon/floccus) or [BookmarkHub](https://github.com/dudor/BookmarkHub) - Browser Bookmark Sync
 * [buku](https://github.com/jarun/buku) - Terminal Manager
 * [wallabag](https://wallabag.org/) - Web-Based Manager
 * [Unmark](https://unmark.it/) - Web-Based Manager
@@ -275,8 +275,10 @@
 * [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch)
 * [Whoogle Search](https://github.com/benbusby/whoogle-search)
 * [Bing](https://www.bing.com/)
+* [Google](https://google.com/)
 * [Lycos](https://www.lycos.com/)
 * [WebCrawler](https://www.webcrawler.com/)
+* [Marginalia Search](https://marginalia-search.com/)
 * [Million Short](https://millionshort.com/)
 * [Andi](https://andisearch.com/)
 * [Carrot2](https://search.carrot2.org/#/web)
