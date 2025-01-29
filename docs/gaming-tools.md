@@ -169,7 +169,7 @@
 * ↪️ **[Game Mods](https://rentry.co/FMHYBase64#game-mods)** - Mods for Individual Games
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Side Scrolling Modding Forum / [Games List](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.co/FMHYBase64#nexus-hidden) / [Discord](https://discord.com/invite/nexusmods)
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
@@ -822,6 +822,7 @@
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://x.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing

@@ -920,7 +920,7 @@
 * [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
 * [Audiofy](https://play.google.com/store/apps/details?id=com.prime.player)
-* [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) or [⁠Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Clients
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
@@ -1266,7 +1266,7 @@
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
 * [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
-* [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
+* [⁠Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Signup Required
 * [Viki](https://apps.apple.com/app/id445553058) - Asian Drama
@@ -1313,6 +1313,7 @@
 * [SideBooks](https://apps.apple.com/app/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player / [Discord](https://discord.gg/MjCUXgU)
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
+* [Panels](https://apps.apple.com/app/id1236567663) - Comic Reader
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
 * [Tachimanga](https://tachimanga.app/) - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
 * [ZETSU](https://apps.apple.com/app/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)

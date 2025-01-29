@@ -920,7 +920,7 @@ Italian
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [LManga](https://www.lmanga.com/) - Manga
-* [spoilerplus](https://spoilerplus.tv>) - Manga
+* [spoilerplus](https://spoilerplus.tv) - Manga
 * [Nikaraw](https://nikaraw.com/) - Manga
 * [mangajikan](https://www.mangajikan.com/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
@@ -1847,7 +1847,7 @@ Italian
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) - Vietnamese Typing
-* [diendan](https://diendan.hocmai.vn/>) - Study Forum
+* [diendan](https://diendan.hocmai.vn/) - Study Forum
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
 * [J2TEAM](https://home.j2team.dev/) - Browser Extensions & Web Applications / [Facebook](https://www.facebook.com/groups/364997627165697)

@@ -1201,7 +1201,7 @@
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
-* [x86re](https://x86re.com/) - Reverse Engineering Guide
+* [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
 * [CrackMyApp](https://crackmy.app/) - Reverse Engineering Challenges
 * [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity YouTube Tutorials / [Discord](https://j-h.io/discord)
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
