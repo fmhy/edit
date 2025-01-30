@@ -126,6 +126,7 @@
 * [⁠minisign](https://jedisct1.github.io/minisign/) - Sign Files / Verify Digital Signatures / [GitHub](https://github.com/jedisct1/minisign)
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 * [Pencil](https://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
+* [Swapcode AI](https://swapcode.ai/) - AI that helps write, convert, and debug code 10x faster
 
 ***
 
