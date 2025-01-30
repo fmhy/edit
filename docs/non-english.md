@@ -600,6 +600,8 @@
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p
 * [GRecoTM Builds](https://grecotm.club/) - Kodi Builds / [Guide](<https://web.archive.org/web/20210925022803/https://en.iguru.gr/odigos-egkatastasis-ellinikou-build-sto-kodi/>) / [Discord](https://discord.com/invite/zVVfbDY)
 * [GreekTV](https://greektv.app/) - IPTV
+* [Foothubhd](https://foothubhd.org/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
+* [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
 * [Subs4series](https://www.subs4series.com/), [xsubs](http://xsubs.tv), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles
 
 ## ▷ Torrenting 
@@ -1549,7 +1551,7 @@ Italian
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484943)
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
-* [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
+* [granpirata](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
@@ -1611,7 +1613,7 @@ Italian
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [futbollibrehd](https://futbol-libre.org/) / [2](https://futbollibrehd.cl/) - Live Sports
 * [la12hd](https://la12hd.com/) - Live Sports
-* [Xupimarc2](https://www.socialcreator.com/xupimarc2/?s=256326) - Live Sports Acestream IDs
+* [AceStream Links](https://rentry.co/FMHYBase64#acestream) - Live Sports Acestream IDs
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
@@ -1765,6 +1767,7 @@ Italian
 * [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/) or [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com) or [TR Anime İzle](https://www.tranimeizle.co) - Anime
+* [Videoseyred](https://videoseyred.in/) - Videos
 
 ## ▷ Reading / Okuma
 

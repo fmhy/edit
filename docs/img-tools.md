@@ -341,7 +341,6 @@
 
 * [AmbientCG](https://ambientcg.com/) - Textures
 * [TextureTown](https://textures.neocities.org/) - Textures
-* [Lost and Taken](https://lostandtaken.com/) - Textures
 * [3D textures](https://icons8.com/l/3d-textures/) - Textures
 * [Textureking](https://www.textureking.com/) - Textures
 * [Texture Labs](https://texturelabs.org/) - Textures

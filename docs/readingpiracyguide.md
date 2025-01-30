@@ -49,7 +49,7 @@
 * [Hoopla](https://www.hoopladigital.com/) - Books / Library Card Required
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
 * [Find Books](https://www.findbooks.info/) - Books / IPFS Required
-* [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
+* [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/), [2](https://proxy.zeronet.dev/Antilibrary.bit/) - ZeroNet Required
 * [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
@@ -421,6 +421,7 @@
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/) / [Frontend](https://akari-psi.vercel.app/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/), [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
+* [Rive Manga](https://rivestream.live/manga)
 * [Freek](https://freek.to/explore/manga)
 * [MangaReader](https://mangareader.to/) / [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)

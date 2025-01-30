@@ -832,6 +832,7 @@
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
 * [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player) - Podcast / Radio App
 * [TuneIn](https://play.google.com/store/apps/details?id=tunein.player) - Podcast / Radio App
+* [PodAura](https://github.com/SkyD666/PodAura) - Podcast Player
 * [Snipd](https://www.snipd.com/) - Podcast Player
 * [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Player
 * [Escapepod](https://codeberg.org/y20k/escapepod) - Podcast Player

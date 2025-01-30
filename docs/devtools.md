@@ -815,7 +815,7 @@
 * [Typebot](https://typebot.io/) - Embedded Chat App
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
-* [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
+* [frp](https://github.com/fatedier/frp), [Go Proxy](https://github.com/yusing/go-proxy) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
 * [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators

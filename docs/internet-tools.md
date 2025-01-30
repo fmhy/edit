@@ -261,7 +261,7 @@
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_image_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
-* ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
@@ -446,7 +446,6 @@
 * ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
-* [Down.com](https://down.com/)
 * [websitedown](http://www.websitedown.info/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)

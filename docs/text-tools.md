@@ -535,6 +535,8 @@
 * [DFonts](https://www.dfonts.org/)
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
+* [Font Meme](https://fontmeme.com/)
+* [Font-Generator](https://www.font-generator.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
@@ -545,19 +547,14 @@
 
 ## ▷ Unicode Fonts
 
+* ⭐ **[YayText](https://yaytext.com/)**
+* ⭐ **[MessLetters](https://www.messletters.com/)**
+* ⭐ **[fSymbols](https://fsymbols.com/generators/)**
+* ⭐ **[Fancy Text](https://fancy-text.net/)**
 * [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) or [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
 * [coolfont](https://coolfont.org/)
-* [Font Meme](https://fontmeme.com/)
 * [FontMaker](https://fontmaker.io/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
-* [DiscordFonts](https://lingojam.com/DiscordFonts)
-* [MessLetters](https://www.messletters.com/)
-* [Fancy Text](https://fancy-text.net/)
 * [FontGenerator](https://fontgenerator.cc/)
-* [YayText](https://yaytext.com/)
-* [Font-Generator](https://www.font-generator.com/)
-* [LingoJam](https://lingojam.com/WeirdTextGenerator)
-* [fSymbols](https://fsymbols.com/generators/)
 * [fontchangerguru](https://fontchangerguru.com/)
-* [tell.wtf](https://tell.wtf/)
 * [fancytextdecorator](https://fancytextdecorator.com/)
