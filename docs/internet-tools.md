@@ -797,6 +797,7 @@
 * [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
+* [Compiled Userscripts](https://github.com/FiorenMas/Userscripts) – Collection of compiled userscripts designed to run faster and save resources
 
 ***
 
