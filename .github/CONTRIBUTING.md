@@ -9,7 +9,7 @@ There are multiple ways you can contribute to this repository:
 ## Submitting a Link
 
 > [!NOTE]
-> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or reach out to us on **[Discord](https://discord.gg/5W9QJKuPkD)** rather than making a Pull Request.
+> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/edit/issues)** or reach out to us on **[Discord](https://rentry.co/fmhy-invite)** rather than making a Pull Request.
 
 1. Before submitting a link, please **[search](https://redd.it/105xraz)** to make sure it's not already in the wiki.
 
@@ -18,35 +18,38 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
 
-4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**. 
+4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**. 
 
 #### Don't Submit:
 
-**🕹️ Emulators**
+**🕹️ Emulators**:
 They're already on the **[Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)**.
 
-**🔻 Leeches**
+**🔻 Leeches**:
 They're already on the **[File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)**.
 
-**🐧 Distros**
+**🐧 Distros**:
 They're already on **[DistroWatch](https://distrowatch.com/)**.
 
-**🎲 Mining / Betting Sites**
+**🎲 Mining / Betting Sites**:
 Don't post anything related to betting, mining, BINs, CCs, etc.
 
-**🎮 Multiplayer Game Hacks**
+**🎮 Multiplayer Game Hacks**:
 Don't post any hacks/exploits that give unfair advantages in multiplayer games.
+
+**🖥️ Custom Operating Systems**
+We don't recommend  people use these.
 
 ## Reporting a Site
 
 > [!TIP]
-> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://discord.gg/5W9QJKuPkD)** before making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**.
+> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://rentry.co/fmhy-invite)** before making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
 
 You can do one of the following:
 
-- Open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
-- Alternatively, you can reach out to us on **[Discord](https://discord.gg/5W9QJKuPkD)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
+- Alternatively, you can reach out to us on **[Discord](https://rentry.co/fmhy-invite)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
 
 ## Making changes
 
@@ -57,7 +60,7 @@ If you want to make changes with instant site feedback, or are simply going to w
 - [Manually setting up a development environment](#manually-setting-up-a-development-environment)
 
 > [!TIP]
-> You can just use our [💬 Discord](https://redd.it/17f8msf) to send us sites or any changes.
+> You can just use our [💬 Discord](https://rentry.co/fmhy-invite) to send us sites or any changes.
 
 ### Using Gitpod or GitHub Codespaces
 
@@ -100,7 +103,7 @@ Select edit button and make your changes.
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
+2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed. Alternatively, `pnpm` has `pnpm env` you can use to manage Node.
 
 3. Clone your forked repository to your local machine.
 

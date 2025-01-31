@@ -22,7 +22,7 @@ import { transforms } from './transformer'
 
 // @unocss-include
 
-const baseUrl = process.env.GITHUB_ACTIONS ? '/FMHYedit' : '/'
+const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
@@ -30,7 +30,7 @@ export default defineConfig({
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
-  appearance: 'dark',
+  appearance: true,
   base: baseUrl,
   srcExclude: ['README.md', 'single-page'],
   ignoreDeadLinks: true,
@@ -63,6 +63,18 @@ export default defineConfig({
         name: 'google-site-verification',
         content: 'XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E'
       }
+    ],
+    // Redirect to main site if embedded in iframe
+    [
+      'script',
+      {},
+      `
+        (function() {
+          if (window.self !== window.top) {
+              window.top.location = window.location.href;
+          }
+        })();
+        `
     ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
@@ -140,10 +152,10 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://tasky.nuxt.dev" class="text-[#ff91af]">taskylizard</a> and contributors. <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>`
+      copyright: `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>`
     },
     editLink: {
-      pattern: 'https://github.com/fmhy/FMHYEdit/edit/main/docs/:path',
+      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
       text: '📝 Edit this page'
     },
     outline: 'deep',

@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2024 taskylizard
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -20,13 +20,50 @@ import { headers } from '../transformer/constants'
 const titles = Object.keys(headers).map((key) => headers[key].title)
 
 export const headersPlugin = (md: MarkdownRenderer) => {
-  // Add the Feedback component after the heading and close the container
-  md.renderer.rules.heading_close = (tokens, idx, options, env, self) => {
+  // Add the Feedback component in the heading, before the link.
+  //
+  // Adding it after the link is closed prevents vitepress from properly
+  // indexing the file's content.
+
+  md.renderer.rules.heading_open = (tokens, idx, options, env, self) => {
     const result = self.renderToken(tokens, idx, options)
-    const heading = tokens[idx - 1]
+
+    const idxClose =
+      idx +
+      tokens.slice(idx).findIndex((token) => token.type === 'heading_close')
+    if (idxClose <= idx) return result
+
     const level = tokens[idx].tag.slice(1)
     if (!titles.includes(env.frontmatter.title) || level !== '2') return result
 
-    return `<Feedback heading="${heading.content}" />${result}`
+    // Find the token for the link.
+    //
+    // The token after `heading_open` contains the link as a child token.
+    const children = tokens[idx + 1].children || []
+    const linkOpenToken = children.findLast((c) => c.type === 'link_open')
+    if (!linkOpenToken) return result
+
+    const heading = tokens[idxClose - 1]
+
+    linkOpenToken.meta = linkOpenToken.meta || {}
+    linkOpenToken.meta.feedback = {
+      heading: heading.content
+    }
+
+    return result
+  }
+
+  let defaultRender = md.renderer.rules.link_open;
+
+  md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    const result = defaultRender(tokens, idx, options, env, self);
+
+    const meta = tokens[idx].meta
+    if (!meta || !meta.feedback) return result
+
+    const heading = meta.feedback.heading || ''
+    if (!heading) return result
+
+    return `<Feedback heading="${heading}" />${result}`
   }
 }

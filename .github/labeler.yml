@@ -1,9 +1,0 @@
-# See https://github.com/actions/labeler
-
-docs:
-  - 'docs/**/*.md'
-
-core:
-  - 'api/**'
-  - '.github/**'
-  - 'docs/.vitepress/**'

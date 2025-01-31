@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: October Updates 🎃
-    link: /posts/oct-2024
+    title: Febuary Updates 💗
+    link: /posts/feb-2025
   image:
     src: /test.png
     alt: FMHY Icon
@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://discord.gg/Stz6y6NgNg
+      link: https://rentry.co/fmhy-invite
 
 features:
   - title: Adblocking / Privacy

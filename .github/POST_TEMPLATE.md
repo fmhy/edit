@@ -20,7 +20,6 @@ title: Monthly Updates [Month]
 description: Month 20YY updates
 date: 20YY-MM-DD
 next: false
-aside: left
 prev: false
 sidebar: false
 footer: true
@@ -31,7 +30,7 @@ footer: true
 :::info
 These update threads only contains major updates. If you're interested
 in seeing all minor changes you can follow our
-[Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
+[Commits Page](https://github.com/fmhy/edit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
 :::
 

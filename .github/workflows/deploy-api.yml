@@ -40,7 +40,6 @@ jobs:
         run: pnpm api:build
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-          NITRO_PRESET: cloudflare
 
       - name: Publish to Cloudflare
         uses: cloudflare/wrangler-action@v3

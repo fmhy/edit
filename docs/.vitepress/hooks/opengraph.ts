@@ -28,7 +28,7 @@ import { headers } from '../transformer/constants'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
 
-export async function generateImages(config: SiteConfig): Promise {
+export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader('**/*.md', { excerpt: true }).load()
   const template = await readFile(resolve(__dirname, './Template.vue'), 'utf-8')
 
@@ -82,20 +82,20 @@ async function generateImage({
   template,
   outDir,
   fonts
-}: GenerateImagesOptions): Promise {
+}: GenerateImagesOptions) {
   const { frontmatter, url } = page
 
   const _page = getPage(url)
   const title =
     frontmatter.layout === 'home'
-      ? (frontmatter.hero.name ?? frontmatter.title)
+      ? frontmatter.hero.name ?? frontmatter.title
       : frontmatter.title
         ? frontmatter.title
         : _page?.title
 
   const description =
     frontmatter.layout === 'home'
-      ? (frontmatter.hero.tagline ?? frontmatter.description)
+      ? frontmatter.hero.tagline ?? frontmatter.description
       : frontmatter.description
         ? frontmatter.description
         : _page?.description

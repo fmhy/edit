@@ -29,7 +29,7 @@ Search engine hosted on old.fmhy.net
 
 ---
 
-### [GitHub Search](https://github.com/nbats/FMHY/search?q=&type=wikis)
+### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
 
 GitHub page search engine
 
@@ -59,6 +59,6 @@ Multi-site search engines
 
 ---
 
-### [Dupe Checker](https://gitlab.com/cevoj/fmhy-dupe-checker)
+### [Dupe Checker](https://github.com/DanFMHY/dupe-checker)
 
 FMHY Dupe Check Tool
