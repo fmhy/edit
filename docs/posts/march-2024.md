@@ -3,7 +3,7 @@ title: Monthly Updates [March]
 description: March 2024 Updates
 date: 2024-03-01
 next: false
-aside: left
+aside: right
 prev: false
 
 footer: true
