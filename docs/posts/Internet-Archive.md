@@ -3,7 +3,7 @@ title: Internet Archive Breach
 description: Internet Archive was hacked
 date: 2024-10-09
 next: false
-aside: left
+aside: right
 prev: false
 
 footer: true
