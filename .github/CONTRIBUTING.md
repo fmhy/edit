@@ -38,7 +38,7 @@ Don't post anything related to betting, mining, BINs, CCs, etc.
 Don't post any hacks/exploits that give unfair advantages in multiplayer games.
 
 **🖥️ Custom Operating Systems**
-We don't recommened people use these.
+We don't recommend  people use these.
 
 ## Reporting a Site
 
