@@ -3,7 +3,7 @@ title: How-to Search FMHY
 description: Various tools to help you query FMHY.
 date: 2023-01-07
 next: false
-aside: left
+aside: right
 prev: false
 
 footer: true
