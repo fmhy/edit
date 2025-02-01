@@ -536,7 +536,7 @@
 * [Flickr Commons](https://www.flickr.com/commons) - Public Photo Archives / [Downloader](https://github.com/beaufour/flickr-download) 
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
 * [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
-* [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
+* [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
 * [VectorPortal](https://www.vectorportal.com/) - Vector Collections / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
 
@@ -557,7 +557,7 @@
 * [Cara](https://cara.app/) - User-Made Art / Fanart
 * [InkBlot](https://inkblot.art/) - User-Made Art / Fanart
 * [Gelbooru](https://gelbooru.com/), [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
-* [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
+* [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations ) - Illustrations of People
@@ -748,7 +748,7 @@
 * ⭐ **[Postimages](https://postimages.org/)**
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
 * [Imgur](https://imgur.com/)
-* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu), [4](https://rimgo.bus-hit.me/)
+* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu)
 * [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [FreeImage.Host](https://freeimage.host/)
@@ -837,7 +837,7 @@
 ## ▷ Photo Forensics
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
-* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
 * [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool

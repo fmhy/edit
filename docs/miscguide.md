@@ -54,7 +54,7 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [OSS Insight](https://ossinsight.io/) or [Open Source Heroes](https://opensource-heroes.com/) - GitHub Project Indexes
+* [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
@@ -395,7 +395,6 @@
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
 * [r/oldmaps](https://www.reddit.com/r/oldmaps/) or [r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
 * [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
-* [NYPL Digital Collections](https://digitalcollections.nypl.org/collections/lane/maps-atlases) - Historic Maps & Atlases
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
 * [Historic Borders](https://historicborders.app/) - Borders History Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
@@ -698,7 +697,6 @@
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
-* [Boilermaker Jobs](https://boilermakerjobs.co/) - Find boilermaker Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform-Based Side Work
@@ -785,7 +783,6 @@
 * [Remote OK](https://remoteok.com/) - Remote Jobs
 * [JobsCollider](https://jobscollider.com/) - Remote Jobs
 * [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
-* [Remotists](https://remotists.com/) - Remote Jobs
 * [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
 * [Remotive](https://remotive.com/) - Remote Jobs
 * [DailyRemote](https://dailyremote.com/) - Remote Jobs
@@ -817,7 +814,6 @@
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [RailsDevs](https://railsdevs.com/) - Reverse Job Board / Rails
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Christian Tech Jobs
-* [ReallyConfused](https://reallyconfused.co/) - Tech Career Roadmaps
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - Leaked Google / Facebook / Amazon Interview Questions / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
@@ -943,8 +939,8 @@
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [AllCraigslistSearch](https://allcraigslistsearch.com/) - Craigslist Search
-* [PicFlick](https://picclick.com/) - Ebay Quick Search
-* [Type Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search
+* [PicClick](https://picclick.com/) - Ebay Quick Search
+* [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search
 * [Spoken](https://www.spoken.io/) - Furniture Price Comparisons
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
@@ -1020,11 +1016,9 @@
 * [SteamBase](https://steambase.io/sales) - Steam Sales
 * [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales
-* [Steam Coupons](https://pastebin.com/embed_iframe/i8ri7Ne7) - Updated List of Every Steam Coupon
 * [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
 * [/r/GameDeals](https://www.reddit.com/r/gamedeals)
 * [PSPrices](https://psprices.com/)
-* [Xbox Now](https://www.xbox-now.com/en/game-comparison⁠) - Compare Xbox Game Prices per Country
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
@@ -1113,6 +1107,7 @@
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
+* [⁠ScambaitingTools](https://scambaitingtools.com/) - Tools to Trick Scammers
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
@@ -1144,7 +1139,6 @@
 * [Sumo](https://sumo.app/) - Design / Graphic / Music
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
-* [TuckTools](https://www.tucktools.com/) - Social Media / Website Management / Development
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
 * [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
 
@@ -1183,7 +1177,6 @@
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [Tweek](https://tweek.so/) - Calendar
-* [TinyMonth](https://tinymonth.com/) - Calendar
 * [TOAST UI Calendar](http://ui.toast.com/tui-calendar) - Calendar
 * [CompassCalendar](https://www.compasscalendar.com/) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar
@@ -1202,10 +1195,9 @@
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/), [Macintosh Cafe](https://forum.agoraroad.com/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
-* ⭐ **[Your World of Text](https://www.yourworldoftext.com/)** or [Our World of Text](https://ourworldoftext.com/) - Infinite Community Text Grid
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying  Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
-* [Pithee](https://pithee.com/) - Rank Shitposting
+* [Pithee](https://pithee.com/) - Rank Shitposting / Login Required
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
@@ -1258,7 +1250,7 @@
 * [ArtVote](https://qcpages.qc.cuny.edu/~chanusa/artvote/) - Judge Art
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
-* [88x31](https://cyber.dabamos.de/88x31/index.html), [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
+* [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
@@ -1285,7 +1277,7 @@
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Remoji](https://remoji.com/) - Emoji Painting
-* [EmojiMix](https://tikolu.net/emojimix), [Neomojimixer](https://entenbru.st/neomojimixer/) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
+* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
 * [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokémon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
@@ -1348,7 +1340,7 @@
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
-* [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
+* [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator

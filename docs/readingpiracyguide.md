@@ -105,7 +105,8 @@
 * ↪️ **[Calibre Libraries](https://rentry.co/FMHYBase64#calibre-libraries)**
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
-* [opencalibre](https://reddit.com/r/opencalibre) - Calibre Library / [Web App](https://github.com/janeczku/calibre-web)
+* [opencalibre](https://reddit.com/r/opencalibre) - Calibre Library
+* [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) or [Calibre Web](https://github.com/janeczku/calibre-web) - Calibre Web Apps
 * [acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - ACSM Plugin
 
 ***
@@ -536,7 +537,7 @@
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [PubHTML5](https://pubhtml5.com/magazines/) - Online Magazines
 * [Lainzine](https://lainzine.org/) - Lain-Inspired Magazine
-* [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
+* [Retromags](https://www.retromags.com/), [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
 * [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive

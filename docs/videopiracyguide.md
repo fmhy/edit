@@ -26,12 +26,12 @@
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [CorsFlix](https://corsflix.us.kg/), [2](https://weprogramstuff.cc/) - Movies / TV / Anime
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
 * [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb) / [Telegram](https://t.me/+MQUUqEx2WXA0ZmZk)
-* [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime
@@ -100,6 +100,7 @@
 * [Zoechip](https://zoechip.org/) - Movies / TV
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies
 * [SkyMovies](https://skymovieshd.toys/) - Movies / TV / Anime / Some NSFW
+* [Flixy](https://4k.flixy.watch/) - 4K Movies Only / [Discord](https://discord.gg/fF7TwrjR6T) / [Github](https://github.com/hexatv/Flixy-4K)
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
@@ -480,6 +481,7 @@
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
+* ⭐ **[Footballia](https://footballia.net/)**, [2](https://footballia.eu/) - Classic Football Replays
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays
 * ⭐ **[1Max](https://1max.top/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays
@@ -492,7 +494,6 @@
 * [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Football Replays
 * [123footy](https://123footy.com/) - Football Replays
-* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Football Replays
 * [Soccer Full Match](https://soccerfullmatch.com/ ) - Football Replays
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
 * [Time Soccer TV](https://timesoccertv.com/) - Football Replays

@@ -206,7 +206,6 @@
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
-* [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
@@ -267,7 +266,7 @@
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
 * [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
-* [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
+* [TheOldNet](https://theoldnet.com/) - Retro Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Leta](https://leta.mullvad.net) - Mullvad VPN Required
@@ -388,7 +387,6 @@
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
-* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
 * [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
@@ -430,7 +428,6 @@
 ## ▷ URL Unshorteners
 
 * ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
-* ⭐ **[urlex](https://urlex.org/)**
 * ⭐ **[CheckShortURL](https://checkshorturl.com/)**
 * [Unshorten.it](https://unshorten.it/)
 * [ExpandURL](https://www.expandurl.net/)
@@ -552,10 +549,10 @@
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
-* [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
+* [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
 * [PhantomSign](https://phantomsign.com/)
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
-* [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
+* [AnonymMail.net](https://anonymmail.net/) or [Mail.td](https://mail.td/) - 5 Domains
 * [Linshi Email](https://www.linshi-email.com/en) - Custom Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
 * [More Sites](https://rentry.org/i3ozxg6f) - More Temp Mail Sites

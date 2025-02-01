@@ -39,6 +39,7 @@
 * [WeCima](https://wecima.xyz/) - Movies / TV / Cartoons
 * [mycinma](https://mycinma.com/) - Movies / TV
 * [Cimaleek](https://web.cimaleek.to/) - Movies / TV
+* [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
@@ -89,7 +90,6 @@
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
 * [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
-* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Magazines
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [Boimate](https://boimate.com/) - Books
 * [ebanglalibrary](https://www.ebanglalibrary.com/) - Books
@@ -224,7 +224,6 @@
 * [555dy](https://555u.store/) - Movies / TV / Anime / NSFW / Sub / 1080p
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
 * [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
-* [DramaSQ](https://dramasq.com/) - Movies / TV / Sub
 * [IYF](https://www.iyf.tv/) - Movies / TV / Sub / Dub / 720p
 * [Drama Wall](https://www.dramawall.net/) - Movies / TV / Sub / Dub / 720p
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
@@ -240,10 +239,8 @@
 * [dm530w](http://dm530w.co/) - Anime / Sub / 1080p
 * [74xz](https://74xz.com/) - Anime / Sub / 1080p
 * [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
-* [dmd85](http://www.dmd77.com/) / [Rentry](https://rentry.org/dmd8) - Anime / Sub / 1080p
 * [bimiacg](https://www.bimiacg14.net/) - Anime / Sub / 1080p
 * [music.163](https://music.163.com/) - Music
-* [yue365.com/](http://www.yue365.com/) - Music
 * [5nd](http://www.5nd.com/) - Music
 * [MissEvan](https://www.missevan.com/) - Music / Podcasts / Audio Comics
 * [Kilamanbo](https://kilakila.cn/) - Audio Comic Drama
@@ -526,7 +523,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Streamkiste](https://streamkiste.tv/)** - Movies / TV / Dub / 1080p
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * ⭐ **[Megakino](https://megakino.tax)** - Movies / TV / Dub / 1080p
 * ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
@@ -603,6 +599,7 @@
 * [GRecoTM Builds](https://grecotm.club/) - Kodi Builds / [Guide](<https://web.archive.org/web/20210925022803/https://en.iguru.gr/odigos-egkatastasis-ellinikou-build-sto-kodi/>) / [Discord](https://discord.com/invite/zVVfbDY)
 * [GreekTV](https://greektv.app/) - IPTV
 * [NetNix](https://netnix.tv/) - Live TV
+* [stokourbeti](https://www.stokourbeti.art/) - Live Sports
 * [Foothubhd](https://foothubhd.org/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
 * [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
 * [Subs4series](https://www.subs4series.com/), [xsubs](http://xsubs.tv), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles
@@ -1617,6 +1614,7 @@ Italian
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [futbollibrehd](https://futbol-libre.org/) / [2](https://futbollibrehd.cl/) - Live Sports
 * [la12hd](https://la12hd.com/) - Live Sports
+* [streamtp2](https://streamtp2.com/) - Live Sports
 * [AceStream Links](https://rentry.co/FMHYBase64#acestream) - Live Sports Acestream IDs
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino

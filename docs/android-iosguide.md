@@ -700,7 +700,6 @@
 * [Text Reader](https://elevenlabs.io/text-reader) - Create Audiobooks
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) or [Lissen](https://github.com/GrakovNe/lissen-android/) - Self-Hosted Audiobook Server
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
-* [Book Story](https://github.com/Acclorite/book-story) - Ebook Reader
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [Sav PDF Viewer Pro](https://www.savpdfviewer.com) - PDF Reader / [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro)
 * [MJ PDF](https://github.com/mudlej/mj_pdf) - PDF Reader
@@ -1016,7 +1015,6 @@
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
-* [Scan Thing](https://apps.apple.com/app/id1542730895) - Scan & Digitize Anything
 * [Microsoft Lens](https://apps.apple.com/app/id975925059) - Scan & Digitize Documents
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [Microsoft To Do](https://to-do.office.com/) or [Twodos](https://apps.apple.com/app/id6463499163) - To-Do Apps

@@ -73,7 +73,6 @@
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
-* ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[InfiCourses](https://www.inficourses.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
@@ -514,35 +513,17 @@
 ## ▷ Math
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
 * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
-* ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - Math Roadmap
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
-* ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu), [ti-84calculatoronline](https://ti-84calculatoronline.com), [TI 84 Calculator](https://ti84calculator.co/en-US), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
-* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
-* [Omnimaga](https://www.omnimaga.org/index.php) - Calculator Community / Forums
 * [Wolfram MathWorld](https://mathworld.wolfram.com/), [Encyclopedia Of Math](https://encyclopediaofmath.org/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematic Encyclopedias
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
-* [OmniCalculator](https://www.omnicalculator.com/) - Calculators
-* [GoodCalculators](https://goodcalculators.com/) - Calculators
-* [GigaCalculator](https://www.gigacalculator.com/) - Calculators
-* [numbr.dev](https://numbr.dev/) - Calculators
-* [Aqua Calc](https://www.aqua-calc.com/) - Calculators
-* [PlanetCalc](https://planetcalc.com/) - Calculators
-* [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
-* [ThomasOkken](https://thomasokken.com/) - HP-42S Calculator 
-* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
-* [Qalculate](https://qalculate.github.io/) - Desktop Calculator
-* [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [Mathcha](https://www.mathcha.io/) or [Math Editor](https://math-editor.online/) - Online Math Editors
+* [Mathcha](https://www.mathcha.io/), [⁠Corca](https://corca.app/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
@@ -551,13 +532,8 @@
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - Mathematics Book Recommendations
 * [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [OneConvert](https://oneconvert.org/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
-* [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
-* [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
-* [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [⁠MathJax](https://www.mathjax.org/) - JavaScript Math Display
-* [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
-* [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
@@ -576,7 +552,6 @@
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
-* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 
 ***
 
@@ -863,7 +838,6 @@
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons
-* [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/home.do?lang=en) - Learn Chinese Character Stroke Order
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [Laoshi](https://laoshi.io/) or [TofuLearn](https://www.tofulearn.com/) - Chinese Vocabulary
 * [MDBG](https://www.mdbg.net/) or [Pleco](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) - Chinese Dictionaries
@@ -1242,7 +1216,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/), [PixelPaper](https://pixelpaper.io/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [⁠FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
@@ -1301,7 +1275,7 @@
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
-* [Studocuhack](https://github.com/danieltyukov/studocuhack), [DLStuDoc](https://dlstudocu.com/) or [DownStuDoc](https://downstudocu.com/) - Studocu Downloaders
+* [Studocuhack](https://github.com/danieltyukov/studocuhack) or [DLStuDoc](https://dlstudocu.com/) - Studocu Downloaders
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
@@ -1343,8 +1317,37 @@
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
 * [Adv Study Material](https://rentry.co/FMHYBase64#jee-study) - Guides / Study Material
-* [Novatra's Topicwise](https://quiz.novatra.in/) - JEE Practice Questions / [Chatbot](https://novatra.in/) / [Discord](https://discord.com/invite/bgVVDA7n3h)
 * [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
+
+***
+
+## ▷ Calculators
+
+* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
+* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
+* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
+* ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
+* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu), [ti-84calculatoronline](https://ti-84calculatoronline.com), [TI 84 Calculator](https://ti84calculator.co/en-US), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
+* ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators
+* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* [Omnimaga](https://www.omnimaga.org/index.php) - Calculator Community / Forums
+* [OmniCalculator](https://www.omnicalculator.com/) - Calculators
+* [GoodCalculators](https://goodcalculators.com/) - Calculators
+* [GigaCalculator](https://www.gigacalculator.com/) - Calculators
+* [numbr.dev](https://numbr.dev/) - Calculators
+* [Aqua Calc](https://www.aqua-calc.com/) - Calculators
+* [PlanetCalc](https://planetcalc.com/) - Calculators
+* [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
+* [ThomasOkken](https://thomasokken.com/) - HP-42S Calculator 
+* [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
+* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
+* [Qalculate](https://qalculate.github.io/) - Desktop Calculator
+* [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
+* [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
+* [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
+* [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
+* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 
 ***
 

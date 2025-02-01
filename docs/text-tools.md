@@ -536,6 +536,7 @@
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
+* [FontGenerator](https://fontgenerator.fun/)
 * [Font-Generator](https://www.font-generator.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)

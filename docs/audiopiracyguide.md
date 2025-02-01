@@ -8,6 +8,7 @@
 
 ## ▷ Streaming Apps
 
+* 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_clients)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
@@ -26,7 +27,6 @@
 * [Mixtape Garden](https://mixtapegarden.com/) - Create / Share Mixtapes
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
-* /[music streaming/](https://rentry.co/musicstreaming) - Streaming Service Comparisons
 
 ***
 
@@ -107,6 +107,7 @@
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 * [ToolDriveProject](https://tooldriveproject.net/) - Tool Bootleg Recording
+* [RATM.live](https://ratm.live/) - Rage Against the Machine Bootleg Recording
 * [Phish.in](https://phish.in/) - Phish Bootleg Recording / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
 * [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
@@ -373,6 +374,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [z1.fm](https://z2.fm/) - MP3
 * [nodata](https://nodata.tv/) - MP3
+* [LEAKED](https://leaked.cx/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
@@ -538,7 +540,7 @@
 
 * ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Last.fm Stats](https://github.com/dukhevych/rym-lastfm-stats)
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools), [ListenBrainz](https://listenbrainz.org/) or [Music Board](https://musicboard.app/) - Track Listening Habits / Songs
-* ⭐ **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
+* [Has it leaked](https://hasitleaked.com/) - Album Leak Tracker
 * ⭐ **[Muspy](https://muspy.com/)**, [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
@@ -568,7 +570,7 @@
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists between Services
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
 * [Random Song Generator](https://randomsonggenerator.com/), [Samplette](https://samplette.io/) or [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play Random YouTube Songs
-* [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday
+* [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekend
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [Acclaimed Music](https://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) - Discover Albums
@@ -756,7 +758,6 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [Visual Analyser](https://www.sillanumsoft.org/)
-* [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
 * [Cambia](https://logs.musichoarders.xyz/) - CD Rip Log Checker

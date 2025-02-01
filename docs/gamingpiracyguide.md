@@ -19,7 +19,6 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
 * ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE) 
@@ -42,6 +41,7 @@
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
+* [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/6msDMndrkD)
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [ROM Heaven CSF](https://romheaven.com/csf), [2](https://romheaven.su) - Download Clean Files
@@ -216,6 +216,7 @@
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
+* [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods
 * [Green Leaf](https://discord.gg/m6z3ra8ssh) - Switch Saves Discord
@@ -404,7 +405,6 @@
 * [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [fsh.zone](https://fsh.zone/) - Fishing Games / [Discord](https://discord.com/invite/FKEzJSf)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
@@ -529,7 +529,7 @@
 
 * [HatTrick](https://www.hattrick.org/) - Multiplayer Football Manager
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
-* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Simulators
+* [Hacker Wars](https://hackerwars.io/) - Hacking Simulators
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Simulator
 * [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
@@ -548,7 +548,6 @@
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Bit Heroes Arena](https://bitheroesarena.io/) - 8-bit RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
-* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
 * [Dynast](https://dynast.io/) - Survival Browser Game
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG
 * [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
@@ -613,7 +612,7 @@
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
+* [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
 * [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 
 ***
@@ -679,7 +678,7 @@
 
 ## ▷ Trivia Games
 
-* ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
+* ⭐ **[GuessTheGame](https://guessthe.game/)** or [Gamedle](https://www.gamedle.wtf/) - Game Guessing Games
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme / Trivia
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
@@ -693,7 +692,7 @@
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [The Wiki Game](https://www.thewikigame.com/), [Pedantle](https://cemantle.certitudes.org/pedantle), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/) - Music Guessing Games
+* [MusicNerd](https://musicnerd.io/) - Music Guessing Games
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks

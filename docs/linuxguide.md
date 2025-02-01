@@ -443,7 +443,7 @@
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations
 * [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
-* [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/), [kdiff3](https://apps.kde.org/en-gb/kdiff3/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [FSLint](https://www.pixelbeat.org/fslint/), [kdiff3](https://apps.kde.org/en-gb/kdiff3/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Unwanted File Finder
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
@@ -674,7 +674,6 @@
 * [MacOSIcons](https://macosicons.com/) - Icons
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
 * [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
-* [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)
 * [TopNotch](https://topnotch.app/) - Remove The Notch
 
 ***

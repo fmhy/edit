@@ -9,7 +9,7 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[⁠Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Online LLM Indexes
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot / Use 2.0 Flash
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
@@ -24,7 +24,7 @@
 * [SciSpace](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
-* [Open WebUI](https://web.tgrmx.cn/) - Multiple Chatbots
+* [web.tgrmx.cn](https://web.tgrmx.cn/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots / [Discord](https://discord.gg/4rR282WJb6)
@@ -55,7 +55,7 @@
 
 ## ▷ AI Search Engines
 
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o1 Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Enhancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) /  / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
@@ -65,6 +65,7 @@
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / No Signup / [Discord](https://discord.gg/zRxaseCuGq)
 * [Komo](https://komo.ai/) - AI Search Engine / No Signup
 * [⁠searc.ai](https://searc.ai/) - AI Search Engine / No Signup
+* [Isou.chat](https://isou.chat/) - AI Search Engine / No Signup / [GitHub](https://github.com/yokingma/search_with_ai)
 * [⁠Hika](https://hika.fyi/) - AI Search Engine / No Signup / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Signup Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine / No Signup
@@ -89,6 +90,7 @@
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals) 
 * [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama) 
 * [LM Studio](https://lmstudio.ai/) - Self-Hosted / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
+* [AnythingLLM](https://anythingllm.com/) - Self-Hosted
 * [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [GitHub](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/myY5YDR8z8) 
 * [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
@@ -208,7 +210,7 @@
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
 * 🌐 **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
-* [Perchance](https://perchance.org/generators) / [Discord](https://discord.gg/43qAQEVV9a), [GeneratorFun](https://generatorfun.com/) or [WebSim](https://websim.ai/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
+* [Perchance](https://perchance.org/generators) / [Discord](https://discord.gg/43qAQEVV9a) or [WebSim](https://websim.ai/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
@@ -282,7 +284,7 @@
 * ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / 12 Monthly
 * ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited
+* ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited / Signup Required
 * ⭐ **[Grok](https://x.ai/grok)** / 25 Per 2 Hours
 * ⭐ **[Playground](https://playground.com/)** / 15 Per 3 Hours
 * ⭐ **[TensorArt](https://tensor.art/)** / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)

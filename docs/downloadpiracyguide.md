@@ -66,7 +66,6 @@
 * [Amader Forum](https://amaderforum.net/) - Video / Books / NSFW
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
 * [ddlspot](https://www.ddlspot.com/) - Video / Audio
-* [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Books / Magazines
 * [Downturk.net](https://www.downturk.net/) - Video / Audio / Books
 * [SoftArchive](https://softarchive.is/), [2](https://sanet.lc/), [3](https://sanet.st) - Video / Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
