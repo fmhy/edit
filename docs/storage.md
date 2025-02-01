@@ -1190,7 +1190,7 @@
 
 * [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
 
-[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
+[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/)
 
 ***
 
