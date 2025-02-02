@@ -948,6 +948,7 @@
 * [Growthabit](https://growthabit.com/) - Book Summaries
 * [Idea and Digest](https://ideandigest.substack.com/) - Book Summaries
 * [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* [SoBrief](https://sobrief.com/) - Book Summaries
 
 ***
 
