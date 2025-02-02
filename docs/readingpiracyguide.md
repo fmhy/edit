@@ -908,7 +908,6 @@
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [BookStash](https://bookstash.io/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
@@ -924,6 +923,31 @@
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
+
+***
+
+## ► Book summaries
+
+* ⭐ **[Rasul Kireev](https://www.rasulkireev.com/book-notes/)**, [Unearned Wisdom](https://unearnedwisdom.com/book-summaries/), [Alex Jhughes](https://www.alexjhughes.com/booknotes), [Graham Mann](https://www.grahammann.net/book-notes), [Sivers](https://sive.rs/book), [Four Minute Books](https://fourminutebooks.com/) or [Nathaniel Eliason](https://www.nateliason.com/) - Personal Book Summaries
+* ⭐ **[Littler Books](https://littlerbooks.com/)** - Book Summaries
+* ⭐ **[20minutebooks](https://www.20minutebooks.com/)** - Book Summaries
+* ⭐ **[Cliffs Notes](https://www.cliffsnotes.com/)** - Book Summaries
+* ⭐ **[NoteGPT](https://notegpt.io/books)** or [Summaries](https://www.summaries.co/) - AI Book Summaries
+* [To Summarise](https://www.tosummarise.com/) - Book Summaries
+* [Blinkist](https://www.blinkist.com/) - Book Summaries
+* [Super Summary](https://www.supersummary.com/) - Book Summaries
+* [ShortForm](https://www.shortform.com/) - Book Summaries
+* [Atomic Reads](https://atomicreads.com/) - Book Summaries
+* [Short Summary Book](https://shortsummarybook.com/) - Book Summaries
+* [BookStash](https://bookstash.io/) - Book Summaries
+* [Summrize](https://www.summrize.com/) - Book Summaries
+* [Brief Lane](https://brieflane.com/) - Book Summaries
+* [Explore That Book](https://explorethatbook.com/) - Book Summaries
+* [PlayText](https://playtext.app/books) - Book Summaries
+* [InstaRead](https://instaread.co) - Book Summaries
+* [Growthabit](https://growthabit.com/) - Book Summaries
+* [Idea and Digest](https://ideandigest.substack.com/) - Book Summaries
+* [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 
 ***
 
