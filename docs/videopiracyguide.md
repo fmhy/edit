@@ -12,6 +12,7 @@
 
 * ⭐ **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/q8Y9FmYFPR)
+* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/456movies)
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
@@ -23,18 +24,18 @@
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * ⭐ **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [GitHub](https://github.com/erynith/movie-web-instances)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)** - Movies / TV / Anime / [4K Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png) / [Discord](https://discord.gg/streamflix)
-* ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[AbleFlix](https://ableflix.xyz/)**, [2](https://ableflix.cc/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/tDKYeh9eQn)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
+* [Vidbox](https://vidbox.to/) - Movies / TV / Anime / 4K
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [CorsFlix](https://corsflix.us.kg/), [2](https://weprogramstuff.cc/) - Movies / TV / Anime
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
 * [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb) / [Telegram](https://t.me/+MQUUqEx2WXA0ZmZk)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
-* [Vidbox](https://vidbox.to/) - Movies / TV / Anime
+* [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP) / [GitHub](https://github.com/ambr0sial/nova/)
 * [Novafork](https://novafork.com/) - Movies / TV / [Telegram](https://t.me/novafork) / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * [Let's Stream](https://www.letstream.site/) - Movies / TV / Anime / [Discord](https://discord.gg/SdVZGGEw)
@@ -46,7 +47,6 @@
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [Nkiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/), [4](https://streammovies.to/) - Movies / TV
 * [watch.inzi](https://watch.inzi.dev/) - Movies / TV / Anime
-* [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [FilmeX](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
@@ -220,6 +220,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [Google Drive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
+* [DramaFire](https://dramafire.com.pl/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
 * [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [DramaCool.com](https://dramacool.com.tr/), [2](https://draamacool.me/) - TV / Movies

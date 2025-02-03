@@ -37,7 +37,7 @@
 ***
 
 * ⭐ **[BTDigg](https://btdig.com/)** / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
-* ⭐ **[Knaben](https://knaben.eu/)**
+* ⭐ **[Knaben]https://knaben.org/)**
 * ⭐ **[BitSearch](https://bitsearch.to/)** - Movies / TV / Anime
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)

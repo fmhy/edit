@@ -170,7 +170,7 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) / [3](https://awesomeselfhosted.netlify.app/) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
@@ -206,7 +206,7 @@
 
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
+* [AdiIRC](https://adiirc.com/), [⁠KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search

@@ -266,7 +266,7 @@
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 
-[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [app.diagrams](https://app.diagrams.net/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/)
+[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [app.diagrams](https://app.diagrams.net/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/)
 
 ***
 
@@ -274,7 +274,7 @@
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Gift4Designer](https://gift4designer.net/), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Gift4Designer](https://gift4designer.net/), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies)
 
 ***
 
@@ -400,6 +400,33 @@
 ## Free Webhosting Sites
 
 * ⭐ **[surge](https://surge.sh/)**
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5000 MB disk / 100000 MB traffic / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3 GB disk  / Unlimited traffic / 13 DB
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100 MB disk / Unlimited / Unlimited
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5 GB disk / Unlimited traffic / 2 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1 GB disk / 100 GB traffic / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250 MB disk / 6 GB traffic / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200 MiB disk / 4 GB traffic / 1 DB
+* [Batcave.net](https://batcave.net/) - 1000 MiB disk / 5 GB traffic / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1 GB disk / 5 GB traffic / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100 MB disk / 3 GB traffic / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500 MB disk / 5 GB traffic / 0 DB
+* [Somee.com](https://somee.com/) - 150 MB disk / 5 GB traffic / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1 GB disk / 5 GB traffic / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1000 MB disk / 5000 MB traffic / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50 MB disk / 1000 MB traffic / 0 DB
+* [biz.ht](https://biz.ht/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1000 MB disk / 5 GB traffic / 0 DB
+* [Freehostpro.com](https://www.freehostpro.com/)  - 1 GB disk / 5 GB traffic / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1000 Mb disk / 5 GB traffic / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1000 Mb disk / 5 GB traffic / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5 GB disk / Unlimited traffic / Unlimited DB
 * [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [glitch](https://glitch.com/)
 * [biz.nf](https://www.biz.nf/)
@@ -556,7 +583,10 @@
 
 ## Instagram Viewers / Downloaders
 
-[Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/),  [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
+* [IG Helper](https://greasyfork.org/en/scripts/404535) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
+* [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe) - Chrome Extensions
+
+[Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/),  [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [InstaLoader](https://instaloader.github.io/), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
 
 ***
 
@@ -609,7 +639,7 @@
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Help Fish Migrate
 
-[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
+[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
 
 ***
 
@@ -805,7 +835,7 @@
 
 ## Piracy Site Proxies
 
-[NinjaUnblocked](https://unblockninja.com/) / [2](https://proxyninja.org/) / [3](https://ninjaproxy1.com/)
+[NinjaUnblocked](https://unblockninja.com/) / [2](https://proxyninja.org/) / [3](https://ninjaproxy1.com/) or [Knaben.info](https://knaben.info/)
 
 ***
 

@@ -301,8 +301,9 @@
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Signup
 * [ComfyUI Online](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)  / Unlimited
 * [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
-* [Art Genie](https://artgenie.surge.sh/) / Unlimited
+* [Art Genie](https://artgenie.surge.sh/) / Unlimited / No Signup
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [Raphael](https://raphael.app/) / Unlimited / No Signup / Uses Flux.1
 * [PicLumen](https://piclumen.com/) / Unlimited / [Discord](https://discord.gg/bAycHJgbD8)
 * [⁠Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited

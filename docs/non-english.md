@@ -24,7 +24,7 @@
 
 ## ▷ Torrenting / التورنت
 
-* [Arab Torrents](ttps://arab-torrents.com/) - Video / Audio / Books
+* [Arab Torrents](https://arab-torrents.com/) - Video / Audio / Books
 * [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
 
 ## ▷ Streaming / البث
@@ -94,6 +94,7 @@
 * [Boimate](https://boimate.com/) - Books
 * [ebanglalibrary](https://www.ebanglalibrary.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
+* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Downloads
 * [boierpathshala](https://boierpathshala.com/pdf/) - Educational Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
 * [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) - Bangla Typing Tool / Spellcheck
@@ -435,7 +436,7 @@
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
 * [Darkiworld](https://darkiworld1.com/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
-* [Wiflix](https://wiflix-hd.day/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
+* [Wiflix](https://wiflix-hd.kim/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
@@ -459,6 +460,7 @@
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p / [Discord](https://discord.gg/Pjs5p5TrEW)
 * [LeFoot](https://lefoot.ru/) - Live Sports
+* [Zanex](https://zanex.lat/) - Live Sports
 * [Doc4U](https://doc4u.top/) - Documentaries
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
@@ -808,6 +810,7 @@
 
 ## ▷ Streaming
 
+* [StreamingCommunity](https://streamingcommunity.paris/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -1061,7 +1064,7 @@ Italian
 
 ## ▷ Torrenting / Torrentowanie
 
-* [polskie-torrenty](https://polskie-torrenty.net.pl/) - Video / Audio / Books / NSFW
+* [polskie-torrenty](https://helltorrents.com/index.php) - Video / Audio / Books / NSFW
 * [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Books / NSFW
 * [Electro Torrent](https://electro-torrent.pl/) - Video / Audio / Books
 
@@ -1166,6 +1169,7 @@ Italian
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [Pirilampo](https://www.pirilampo.tv/) - Live Sports / Some NSFW
 * [mundofut](https://mundofut.co/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
@@ -1833,7 +1837,6 @@ Italian
 
 ## ▷ Downloading / Tải xuống
 
-* ⭐ **[HDVietnam](https://www.hdvietnam.xyz/)** - Video / Audio
 * [Fshare](https://timfshare.com/) - Video / Audio
 * [NhacHay360](https://nhachayvn.net/) - Music
 
