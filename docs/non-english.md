@@ -646,7 +646,7 @@
 * [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
 
 ## ▷ Downloading
-
+* ⭐ **[UHDMovies](https://uhdmovies.beer/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Hindi / English / Indian Langauges / [Telegram](https://telegram.me/moviesmod_org)
 * ⭐ **[MkvCinemas](https://mkvcinemas.moe/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker/ [Telegram](https://telegram.me/olamovies_officialv69)
 * ⭐ **[VegaMovies](https://m.vegamovies.ms/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
