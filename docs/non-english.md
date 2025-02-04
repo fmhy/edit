@@ -130,7 +130,8 @@
 * [Filmifen](https://filmifen.com/) - Movies / Sub / Dub
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
-* [Filmi7](https://filmi7.net/) - Movies / Sub / Dub 
+* [Filmi7](https://filmi7.net/) - Movies / Sub / Dub
+* [HDmovie1] (https://hdmovie1.free.nf/) - TV / Live / Sub / Dub / 1080p
 
 ***
 
@@ -222,6 +223,7 @@
 * [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
 * [ztv.tw](https://ztv.tw) - Streaming / Movies / TV / Anime
 * [chinaq.app](https://chinaq.app/) - Movies / TV / Anime
+* [HDmovie1] (https://hdmovie1.free.nf/) - TV / Live / Sub / Dub / 1080p
 * [555dy](https://555u.store/) - Movies / TV / Anime / NSFW / Sub / 1080p
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
 * [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
