@@ -188,6 +188,7 @@
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) - Thunderstore / BepInEx Unity Mod Managers
+* [ModPub](https://mod.pub/) - Game Mods
 
 ***
 
