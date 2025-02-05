@@ -95,20 +95,23 @@
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [bt.etree](https://bt.etree.org/) - Concert Recordings / Torrents
 * [DimeADozen](http://www.dimeadozen.org/) - Concert Recordings / Torrents
+* [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Concert Recordings / Torrents
+* [Guitars101](https://www.guitars101.com/) - Concert Recordings / Bootlegs
 * [TheTradersDen](http://www.thetradersden.org/) - Concert Recordings / Torrents
+* [Lossless Legs](https://www.shnflac.net/) - Concert Recordings / Torrents
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [Guitars101](https://www.guitars101.com/) - Live Guitar Songs
 * [EDMLiveSet](https://www.edmliveset.com/) or [⁠TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
-* [ToolDriveProject](https://tooldriveproject.net/) - Tool Bootleg Recording
-* [RATM.live](https://ratm.live/) - Rage Against the Machine Bootleg Recording
-* [Phish.in](https://phish.in/) - Phish Bootleg Recording / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
+* [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
+* [RATM.live](https://ratm.live/) - Rage Against the Machine Live Archive
+* [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
+* [Phish.in](https://phish.in/) - Phish Live Archive / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
 * [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
 ***
@@ -247,7 +250,7 @@
 
 * ↪️ **[Spotify Playlist Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_playlist_generators)**
 * ⭐ **[exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [⁠spotify-backup](https://github.com/caseychu/spotify-backup) - Playlist Backup
-* ⭐ **[playlists.cloud](https://playlists.cloud/)** or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
+* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [⁠SpotTransfer](https://spot-transfer.vercel.app/) or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
 * [Playlist Sorter](https://www.playlistsorter.com/) or [SortYourMusic](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -487,11 +490,10 @@
 * [TheMixingBowl](https://themixingbowl.org/) - Forum / Mixes / MP3 / Signup Required
 * [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3 320kb / FLAC
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
-* [the /kpg/ torrent](https://kpg.neocities.org/) - 900GB+ K-Pop Torrent File / MP3 320kb / FLAC
+* [the /kpg/ torrent](https://kpgtorrent.neocities.org/) - 900GB+ K-Pop Torrent File / MP3 320kb / FLAC
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3 / Various Bitrates
 * [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
-* [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***
