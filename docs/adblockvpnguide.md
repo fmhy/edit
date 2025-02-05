@@ -392,7 +392,6 @@
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/)
-* [Velocity](https://velocity.radon.games/) / [GitHub](https://github.com/cohenerickson/Velocity)
 * [Delusionz](https://delusionz.xyz/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)

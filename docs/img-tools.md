@@ -82,6 +82,7 @@
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
 * [Photo Magic AI](http://photomagicai.com/) - Image Upscaling
 * [Superimage](https://superimage.io/) - Image Upscaling
+* [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Image Upscaling
 * [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
 * [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
 * [PixNova](https://pixnova.ai/image-upscaler/) - Image Upscaling

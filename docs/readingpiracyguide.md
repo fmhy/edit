@@ -105,7 +105,7 @@
 * ↪️ **[Calibre Libraries](https://rentry.co/FMHYBase64#calibre-libraries)**
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
-* [opencalibre](https://reddit.com/r/opencalibre) - Community Shared Calibre libraries
+* [opencalibre](https://reddit.com/r/opencalibre) - Community Shared Calibre Libraries
 * [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) or [Calibre Web](https://github.com/janeczku/calibre-web) - Calibre Web Apps
 * [acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - ACSM Plugin
 
@@ -181,7 +181,7 @@
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
-* [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
+* [Shankaracharya](https://www.shankaracharya.org/ ) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Siva.sh](https://siva.sh/) - Study Hindu Knowledge via Tech / AI
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia

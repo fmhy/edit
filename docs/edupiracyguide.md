@@ -916,7 +916,7 @@
 * ⭐ **[OpenVim](https://openvim.com/)** or [⁠Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)** or [Learn SQL](https://sqlbolt.com/) - SQL Lessons
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Contribution Guides for Beginners
-* [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
+* [Beej's Guide to Git](https://beej.us/guide/bggit/), [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
 * [Git+ Coach](https://github.com/vishal2376/git-coach) - Git Learning App
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
@@ -1109,6 +1109,7 @@
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
+* [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course

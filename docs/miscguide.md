@@ -578,11 +578,15 @@
 
 * 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
+* ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
+* ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Reddit Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Subreddit](https://www.reddit.com/r/BodyweightFitness) / [Discord](https://discord.gg/bwf)
 * ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/gEfyf0q.jpeg)**, [2](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg) - Zoomable Exercise Diagram
-* [Muscleandstrength](https://muscleandstrength.com/), [⁠FitnessProgramer](https://fitnessprogramer.com/), [Workout.lol](https://workout.lol/), [DAREBEE](https://darebee.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
 * [Hevy](https://www.hevyapp.com/), [Boostcamp](https://www.boostcamp.app/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
+* [Muscleandstrength](https://muscleandstrength.com/) - Workout Plans
+* [⁠FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
+* [Workout.lol](https://workout.lol/) - Custom Workout Plans
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
@@ -600,7 +604,7 @@
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Trackers
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [Fitness](https://github.com/wger-project/flutter) / [GitHub](https://github.com/wger-project/wger)
 * [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
-* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
+* [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Home Workout App
 
 ***
 
