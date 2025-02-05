@@ -22,6 +22,7 @@
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/fF7TwrjR6T)
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 4K / Auto-Next
+* ⭐ **[WatchSeries](https://watchseriestv.blog/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)** - Movies / TV / Anime / [4K Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png) / [Discord](https://discord.gg/streamflix)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / 4K
