@@ -557,6 +557,7 @@
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
 * [ComicMafia](https://comicmafia.to/) - Comics / Manga
+* [mycomics](https://www.mycomics.de) - Comics
 * [Kanjiku](https://kanjiku.net/) - Manga
 * [Hoerbuch](https://hoerbuch.us/) - Audiobooks
 
