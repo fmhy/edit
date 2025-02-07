@@ -1195,6 +1195,7 @@
 
 * 🌐 **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
+* 🌐 **[Discourse Discover](https://discover.discourse.org/)** - List of Discourse Forums
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/), [Macintosh Cafe](https://forum.agoraroad.com/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
