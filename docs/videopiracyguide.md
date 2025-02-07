@@ -214,6 +214,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / [Discord](https://discord.com/invite/yY2P3DQR8S)
 * [KissAsian](https://kissasian.video/) - TV / Movies
+* [KissAsiantv](https://kissasiantv.com.im/) - TV / Movies
 * [AsiaFlix](https://asiaflix.net/) - TV / Movies
 * [Asianload](https://embasic.pro/) - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
