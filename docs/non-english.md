@@ -354,7 +354,7 @@
 * [xTrance](https://xtrance.info/) - Books / Download / Account Required
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
-* [prirucka](https://prirucka.ujc.cas.cz) - Dictionary
+* [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
 
 ***
@@ -776,7 +776,7 @@
 * [Lesics](https://youtube.com/@LesicsIndo) - Sabins Civil Engineering
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
 * [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
-* [Irama Nusantara](https://www.iramanusantara.org/en) - Music
+* [Irama Nusantara](https://www.iramanusantara.org/en) - Music / [Downloader](https://irnus-dl.slickerius.com/)
 
 ## ▷ Reading / Membaca
 
@@ -1173,7 +1173,6 @@ Italian
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
-* [Pirilampo](https://www.pirilampo.tv/) - Live TV / Some NSFW
 * [mundofut](https://mundofut.co/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
