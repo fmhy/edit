@@ -86,8 +86,8 @@
 * 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** - Antivirus / [X](https://x.com/malwarebytes)
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
-* ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus / [X](https://x.com/malwarebytes)
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Check Trusted Sites Easily
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#malware-removal-forums)
@@ -158,7 +158,7 @@
 * [Hostux](https://hostux.network/) - Privacy Tools / [Git](https://git.hostux.net/valere/hostux.network) 
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
-* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps / [GitHub](https://github.com/oneminch/encrypted-list)
+* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources
 
 ***
@@ -393,7 +393,6 @@
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/)
-* [Velocity](https://velocity.radon.games/) / [GitHub](https://github.com/cohenerickson/Velocity)
 * [Delusionz](https://delusionz.xyz/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)

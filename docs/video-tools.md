@@ -9,8 +9,8 @@
 * 🌐 **[Digital Video Intro](https://github.com/leandromoreira/digital_video_introduction)** - Digital Video Guides / Resources
 * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** - Use Any Camera as Webcam
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap), [Roop Unleashed](https://github.com/C0untFloyd/roop-unleashed) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
@@ -86,7 +86,7 @@
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
-* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
+* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
@@ -288,6 +288,7 @@
 * [Tautulli](https://tautulli.com/) - Server Monitor
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
+* [Plex Ripper](https://www.plexripper.rocks/) - Merge Plex Libraries w/ Your Own
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
 * [SyncLounce](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
@@ -388,7 +389,7 @@
 * [Visla](https://www.visla.us/) - Video Editor
 * [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [2](https://archive.org/details/mm26enu_202002), [3](https://archive.org/details/MM2.1And2.6_201903) - Video Editor
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
-* [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool
+* [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
@@ -470,7 +471,8 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Glaxnimate](https://glaxnimate.mattbas.org/) or [⁠Trangram](https://www.trangram.com/) - Vector Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [⁠GraphicsGale](https://graphicsgale.com/us/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Viggle](https://viggle.ai/) / [Discord](https://discord.com/invite/viggle) or [Picrew](https://picrew.me/) - Animated Character Creators

@@ -139,7 +139,7 @@
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [Logo Makr](https://logomakr.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
-* [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
+* [Logo Fast](https://logofa.st/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
 * [hatchful](https://www.shopify.com/tools/logo-maker) or [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos Based on Project Name & Style
 
 ***
@@ -266,7 +266,7 @@
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 
-[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [app.diagrams](https://app.diagrams.net/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/)
+[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [app.diagrams](https://app.diagrams.net/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/)
 
 ***
 
@@ -274,7 +274,7 @@
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Craftwork](https://craftwork.design/downloads/category/freebies/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Gift4Designer](https://gift4designer.net/), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Gift4Designer](https://gift4designer.net/), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies)
 
 ***
 
@@ -305,7 +305,7 @@
 
 ## Domain Availability
 
-[BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [domaingarden](https://domain.garden/), [expireddomains](https://www.expireddomains.net/), [Domainr](https://domainr.com/), [domaintyper](https://domaintyper.com/)
+[atlaq](https://atlaq.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [domaingarden](https://domain.garden/), [expireddomains](https://www.expireddomains.net/), [Domainr](https://domainr.com/), [domaintyper](https://domaintyper.com/)
 
 ***
 
@@ -321,7 +321,7 @@
 * ⭐ **[Briar](https://briarproject.org/)**
 * ⭐ **[SimpleX](https://simplex.chat/)**
 
-[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
+[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
 
 **Video / Text**
 
@@ -392,7 +392,6 @@
 * [JagoanSSH](https://www.jagoanssh.com/)
 * [fastssh](https://www.fastssh.com/)
 * [Mytunneling](https://www.mytunneling.com/)
-* [CreateSSH](https://createssh.net/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
 
@@ -401,6 +400,33 @@
 ## Free Webhosting Sites
 
 * ⭐ **[surge](https://surge.sh/)**
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5000 MB disk / 100000 MB traffic / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3 GB disk  / Unlimited traffic / 13 DB
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100 MB disk / Unlimited / Unlimited
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5 GB disk / Unlimited traffic / 2 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1 GB disk / 100 GB traffic / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250 MB disk / 6 GB traffic / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200 MiB disk / 4 GB traffic / 1 DB
+* [Batcave.net](https://batcave.net/) - 1000 MiB disk / 5 GB traffic / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1 GB disk / 5 GB traffic / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100 MB disk / 3 GB traffic / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500 MB disk / 5 GB traffic / 0 DB
+* [Somee.com](https://somee.com/) - 150 MB disk / 5 GB traffic / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1 GB disk / 5 GB traffic / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1000 MB disk / 5000 MB traffic / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50 MB disk / 1000 MB traffic / 0 DB
+* [biz.ht](https://biz.ht/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1000 MB disk / 5 GB traffic / 0 DB
+* [Freehostpro.com](https://www.freehostpro.com/)  - 1 GB disk / 5 GB traffic / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1 GB disk / 5 GB traffic / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1000 Mb disk / 5 GB traffic / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1000 Mb disk / 5 GB traffic / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5 GB disk / Unlimited traffic / Unlimited DB
 * [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [glitch](https://glitch.com/)
 * [biz.nf](https://www.biz.nf/)
@@ -476,7 +502,6 @@
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
-* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files 
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
 * [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
@@ -516,9 +541,9 @@
 
 * ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
-* ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/fix-graphics)
 * ⭐ **[r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
 * [r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools)  - Hackintosh Tools
+* [Hackintosh Graphics Fix](https://rentry.org/fix-graphics)
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware  / [Notes](https://rentry.org/VMware-guide)
@@ -559,7 +584,10 @@
 
 ## Instagram Viewers / Downloaders
 
-[Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/),  [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [instapick](https://www.instapick.net/), [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
+* [IG Helper](https://greasyfork.org/en/scripts/404535) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
+* [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe) - Chrome Extensions
+
+[Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/),  [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [InstaLoader](https://instaloader.github.io/), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
 
 ***
 
@@ -577,7 +605,7 @@
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Gilles Castel](https://castel.dev/) - Homework & Note Writing Guides
 * [Lyx](https://www.lyx.org/), [Overleaf](https://www.overleaf.com/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
-* [Typst](https://typst.app/home) or [R Markdown](https://rmarkdown.rstudio.com/) - LaTeX Alternatives
+* [Typst](https://typst.app/home) / [GitHub](https://github.com/typst/typst) or [R Markdown](https://rmarkdown.rstudio.com/) - LaTeX Alternatives
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
@@ -621,7 +649,7 @@
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Help Fish Migrate
 
-[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
+[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
 
 ***
 
@@ -650,7 +678,7 @@
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server)
 * ⭐ **[Houdoku](https://houdoku.org/)** / [GitHub](https://github.com/xgi/houdoku)
 
-[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Mangayomi](https://github.com/kodjodevf/mangayomi), [Unyo](https://github.com/K3vinb5/Unyo)
+[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
 
 ### Self-Hosted
 
@@ -741,7 +769,6 @@
 * [Notes Box](https://notes-box.com/) - Free Sheet Music
 * [Musopen](https://musopen.org/) - Free Sheet Music
 * [Sheet Music International](https://sheetmusicinternational.com/) - Free Sheet Music
-* [CosandScores](http://waltercosand.com/CosandScores/) - Free Sheet Music
 * [free-scores](https://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
 * [Sheet music for free](https://sheetmusicforfree.com/) - Free Sheet Music
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
@@ -750,7 +777,7 @@
 
 ### Specific Music Sheets
 
-* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [flutetunes](https://www.flutetunes.com/) - Flute Sheet Music
 * [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
 * [Ichigo's Sheet Music](https://ichigos.com/) - Video Game & Anime Sheet Music
 * [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
@@ -801,7 +828,6 @@
 * https://free.xiercloud.top/
 * https://chatgpt.thzstudent.top/
 * https://chat.typegpt.net/
-* https://gpt.dzkj.top/
 * https://gpt.tiptopuni.com/
 * https://gpt.aifree.club/
 * https://chat.pandatalk.fun/
@@ -819,13 +845,13 @@
 
 ## Piracy Site Proxies
 
-[Knaben's Proxy List](https://knaben.info/), [NinjaUnblocked](https://unblockninja.com/) / [2](https://proxyninja.org/) / [3](https://ninjaproxy1.com/)
+[NinjaUnblocked](https://unblockninja.com/) / [2](https://proxyninja.org/) / [3](https://ninjaproxy1.com/) or [Knaben.info](https://knaben.info/)
 
 ***
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [pikpng](https://www.pikpng.com/), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/)
 
 ***
 
@@ -849,7 +875,7 @@
 
 ### Presentation Templates
 
-[SlidesGo](https://slidesgo.com/), [Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [PresentationGO](https://www.presentationgo.com/), [ThePOPP](https://thepopp.com/)
+[Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [PresentationGO](https://www.presentationgo.com/), [ThePOPP](https://thepopp.com/)
 
 ***
 
@@ -873,7 +899,7 @@
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [StreamURL](https://streamurl.link/) - Radio URL Search
 
-[iHeartRadio](https://www.iheart.com/), [Flicker Radio](https://flickermini.netlify.app/radiostations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2), [UKRadioLive](https://ukradiolive.com/), [Quasar Radio](https://kuasark.com/en/)
+[iHeartRadio](https://www.iheart.com/), [Flicker Radio](https://flickermini.netlify.app/radiostations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2), [UKRadioLive](https://ukradiolive.com/), [Quasar Radio](https://kuasark.com/en/)
 
 ### Internet Radio
 
@@ -994,7 +1020,7 @@
 
 ## Spotify Playlist Generators
 
-[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [Moodify](https://moodify.app/), [RadioNewify](https://radionewify.com/)
+[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [RadioNewify](https://radionewify.com/)
 
 ***
 
@@ -1169,7 +1195,7 @@
 
 * [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
 
-[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
+[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/)
 
 ***
 

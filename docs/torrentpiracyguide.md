@@ -6,11 +6,11 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) page.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page.
 
 ***
 
-* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines / Signup Required
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Comics / Magazines / Signup Required
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion) / [Proxies](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
@@ -25,7 +25,7 @@
 * [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Signup Required
-* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
+* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/), [2](https://proxy.zeronet.dev/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW
 
 ***
@@ -37,7 +37,7 @@
 ***
 
 * ⭐ **[BTDigg](https://btdig.com/)** / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
-* ⭐ **[Knaben](https://knaben.eu/)**
+* ⭐ **[Knaben](https://knaben.org/)**
 * ⭐ **[BitSearch](https://bitsearch.to/)** - Movies / TV / Anime
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)

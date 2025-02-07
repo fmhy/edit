@@ -124,6 +124,7 @@
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
@@ -224,7 +225,6 @@
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
-* [Helix](https://helix-editor.com/) - Kakuone/Neovim-Based Text Editor
 
 ***
 
@@ -232,7 +232,7 @@
 
 * ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note-taking)**
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / [Discord](https://discord.gg/obsidianmd)
-* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Googel Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [ChatGPT Addon](https://github.com/vasilecampeanu/obsidian-weaver) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
+* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [ChatGPT Addon](https://github.com/vasilecampeanu/obsidian-weaver) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Notion](https://www.notion.so/)** - Note-Taking
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://github.com/souvikinator/notion-to-md)
 * ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [GitHub](https://github.com/streetwriters/notesnook)
@@ -246,6 +246,7 @@
 * [Org-roam](https://www.orgroam.com/) - Info Manager
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
+* [Papers.IM](https://papers.im/) - Note-Taking
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [AppFlowy](https://appflowy.io/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
@@ -435,7 +436,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [ITOA](https://itoa.hex.dance/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
@@ -535,6 +536,9 @@
 * [DFonts](https://www.dfonts.org/)
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
+* [Font Meme](https://fontmeme.com/)
+* [FontGenerator](https://fontgenerator.fun/)
+* [Font-Generator](https://www.font-generator.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
@@ -545,19 +549,14 @@
 
 ## ▷ Unicode Fonts
 
+* ⭐ **[YayText](https://yaytext.com/)**
+* ⭐ **[MessLetters](https://www.messletters.com/)**
+* ⭐ **[fSymbols](https://fsymbols.com/generators/)**
+* ⭐ **[Fancy Text](https://fancy-text.net/)**
 * [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) or [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
 * [coolfont](https://coolfont.org/)
-* [Font Meme](https://fontmeme.com/)
 * [FontMaker](https://fontmaker.io/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
-* [DiscordFonts](https://lingojam.com/DiscordFonts)
-* [MessLetters](https://www.messletters.com/)
-* [Fancy Text](https://fancy-text.net/)
 * [FontGenerator](https://fontgenerator.cc/)
-* [YayText](https://yaytext.com/)
-* [Font-Generator](https://www.font-generator.com/)
-* [LingoJam](https://lingojam.com/WeirdTextGenerator)
-* [fSymbols](https://fsymbols.com/generators/)
 * [fontchangerguru](https://fontchangerguru.com/)
-* [tell.wtf](https://tell.wtf/)
 * [fancytextdecorator](https://fancytextdecorator.com/)

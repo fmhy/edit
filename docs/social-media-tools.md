@@ -152,12 +152,12 @@
 
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
 * [DISBOARD](https://disboard.org/) - Server Index
-* [Discord Servers](https://discordservers.com/) - Server / Bot Index
 * [Discadia](https://discadia.com/) - Server / Bot Index
 * [Discords.com](https://discords.com/) - Server / Bot Index
 * [Discord Me](https://discord.me/) - Server / Bot Index
+* [Discord Servers](https://discord.com/servers) - Server Index
+* [DiscordServers.com](https://discordservers.com/) - Server / Bot Index
 * [Disforge](https://disforge.com/servers) - Server / Bot Index
-* [Find a Discord](https://findadiscord.com/) - Server / Bot Index
 * [Discord Extreme List](https://discordextremelist.xyz/) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
 * [BotBlock](https://botblock.org/) - Bot Index
@@ -396,6 +396,7 @@
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
+* [Poke](https://poketube.fun/) - YouTube Frontend
 * [ViewTube](https://viewtube.wiki/) - YouTube Frontend
 * [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend
 * [PSTube](https://github.com/prateekmedia/pstube) - YouTube Frontend
@@ -642,7 +643,6 @@
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login 
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
-* [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
@@ -679,6 +679,7 @@
 * [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
 * [Hubzilla Public Sites](https://hubzilla.org/pubsites) - Hubzilla Instances
 * [Friendica Directory](https://dir.friendica.social/servers) - Friendica Instances
+* [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client
 * [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Netoworks
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge

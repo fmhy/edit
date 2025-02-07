@@ -66,7 +66,6 @@
 * [Amader Forum](https://amaderforum.net/) - Video / Books / NSFW
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
 * [ddlspot](https://www.ddlspot.com/) - Video / Audio
-* [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Books / Magazines
 * [Downturk.net](https://www.downturk.net/) - Video / Audio / Books
 * [SoftArchive](https://softarchive.is/), [2](https://sanet.lc/), [3](https://sanet.st) - Video / Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
@@ -91,7 +90,7 @@
 * [scnlog](https://scnlog.me/)
 * [fidigger](https://fidigger.com/)
 * [filesearch.link](https://filesearch.link/)
-* [Linktury](https://www.linktury.com/)
+* [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
 * [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
@@ -171,7 +170,7 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) / [3](https://awesomeselfhosted.netlify.app/) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
@@ -183,6 +182,7 @@
 * [FilePuma](https://www.filepuma.com/) - Freeware Directory
 * [FileEagle](https://www.fileeagle.com/) - Freeware Directory
 * [LO4D](https://www.lo4d.com/) - Freeware Directory
+* [SoftwareOK](http://www.softwareok.com/) - Freeware Directory
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Directory
 * [Uwe Sieber](https://www.uwe-sieber.de/english.html) - Freeware Directory
 * [Software Informer](https://software.informer.com/) - Freeware Directory
@@ -207,8 +207,7 @@
 
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
-* [Hexchat](https://hexchat.github.io/) - Private IRC Client
+* [AdiIRC](https://adiirc.com/), [⁠KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html, [⁠Halloy](https://github.com/squidowl/halloy) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search

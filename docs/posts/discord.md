@@ -3,7 +3,7 @@ title: Public Discord Server
 description: Our new space to chat in.
 date: 2023-10-24
 next: false
-aside: left
+aside: right
 prev: false
 
 footer: true
