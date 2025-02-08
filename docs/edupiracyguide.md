@@ -263,6 +263,7 @@
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 * [MIMO](https://mimo-international.com/MIMO/) - Musical Instrument Database
+* [ChordCreate](https://chordcreate.com) - Free Music Tools and Chord Progression Generator
 
 ***
 
