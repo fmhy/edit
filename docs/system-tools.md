@@ -41,7 +41,7 @@
 
 ## ▷ System Debloating
 
-* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guid
+* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * ⭐ **[SophiApp](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater / Win 10 Only
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
@@ -113,7 +113,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** - Desktop Client / [X](https://x.com/parsecteam) / [Discord]( https://discordapp.com/invite/cQjEGFy)
+* ⭐ **[Parsec](https://parsec.app/)** - Desktop Client / [X](https://x.com/parsecteam) / [Discord](https://discordapp.com/invite/cQjEGFy)
 * ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
@@ -187,7 +187,7 @@
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt/personal ) - System Benchmarking
+* [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt/personal) - System Benchmarking
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#driver-note)
 * [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum

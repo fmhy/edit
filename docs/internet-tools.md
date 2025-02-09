@@ -369,7 +369,7 @@
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
-* [Lootlabs Bypass](https://greasyfork.org/en/scripts/487969) - Loot-Link  / LootDest Bypass
+* [Lootlabs Bypass](https://greasyfork.org/en/scripts/487969) - Loot-Link / LootDest Bypass
 * [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
 
 ***
