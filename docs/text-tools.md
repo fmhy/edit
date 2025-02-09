@@ -67,13 +67,8 @@
 
 ***
 
-<<<<<<< HEAD
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator) - AI-Based
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) /  [API](https://github.com/vitalets/google-translate-api) - Translation Sites
-=======
-* ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api)
->>>>>>> upstream/main
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api) - Translation Sites
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
@@ -148,13 +143,8 @@
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
-<<<<<<< HEAD
 * [EditGPT](https://www.editgpt.app/) -  Signup Required
 * [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required / [Extension](https://www.grammarly.com/browser)
-=======
-* [EditGPT](https://www.editgpt.app/) - Signup Required
-* [Grammarly](https://www.grammarly.com/grammar-check) - Signup Required
->>>>>>> upstream/main
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
 * [Outwrite](https://www.outwrite.com/) - Signup Required
 
