@@ -7,9 +7,9 @@
 ## 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)**
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
 * [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
-* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/)
 
@@ -515,6 +515,7 @@
 ## Geometry Dash Demon Lists
 
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
+* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
 * [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
 * [AREDL](https://aredl.net/) - All Rated Extreme Demons List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
@@ -587,6 +588,15 @@
 * [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe) - Chrome Extensions
 
 [Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpoir.com/), [GreatFon](https://greatfon.com/), [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader), [InstaLoader](https://instaloader.github.io/), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
+
+***
+
+## Internet Archive Tools
+
+* [arch1ve](https://rentry.org/arch1ve) - IA Book Ripping Guide
+* [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books to PDF
+* [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
+* [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
 
 ***
 
@@ -936,24 +946,6 @@
 
 ***
 
-## RSS Feed Generators
-
-* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
-* ⭐ **[Feedless](https://feedless.org/)**
-* [MoRSS](https://morss.it/)
-* [RSSHub](https://github.com/DIYgod/RSSHub)
-* [Open RSS](https://openrss.org/)
-* [RSS Please](https://rsspls.7bit.org/)
-* [RSS Finder](https://rss-finder.rook1e.com/))
-* [FetchRSS](https://fetchrss.com/)
-* [RSS Diffbot](https://rss.diffbot.com/)
-* [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
-* [Politepol](https://politepol.com/en/)
-* [Janicek](https://feed.janicek.co/)
-* [FiveFilters](https://createfeed.fivefilters.org/)
-
-***
-
 ## Scene Release Trackers
 
 * [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
@@ -990,20 +982,6 @@
 * [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
 
 [yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](http://receivesmsonline.in/), [freereceivesmsonline](http://freereceivesmsonline.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.cc/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
-
-***
-
-## Speed Test Sites
-
-* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
-* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
-* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
-* [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
-* [Packet Loss Test](https://packetlosstest.com/) - Speed Test
-* [Speedtest](https://www.speedtest.net/) - Speed Test
-* [speedcheck](https://www.speedcheck.org/) - Speed Test
-* [Meter](https://www.meter.net/) - Speed Test
-* [Speedsmart](https://speedsmart.net/) - Speed Test
 
 ***
 

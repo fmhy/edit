@@ -19,7 +19,6 @@
 
 ## ▷ Network Tools
 
-* ↪️ **[Speed Test Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_speed_test_sites)**
 * [Pinging](https://www.pinging.net/) or [PingTracer](https://github.com/bp2008/pingtracer) - Internet Uptime / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
@@ -43,10 +42,25 @@
 
 ***
 
+## ▷ Speed Test Sites
+
+* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
+* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
+* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
+* [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
+* [Packet Loss Test](https://packetlosstest.com/) - Speed Test
+* [Speedtest](https://www.speedtest.net/) - Speed Test
+* [speedcheck](https://www.speedcheck.org/) - Speed Test
+* [Meter](https://www.meter.net/) - Speed Test
+* [Speedsmart](https://speedsmart.net/) - Speed Test
+
+***
+
 ## ▷ Password Managers
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)** - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
+* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
+* ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
 * ⭐ **[Bitwarden](https://bitwarden.com/)**
 * ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
@@ -55,46 +69,6 @@
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
 * [Spectre](https://spectre.app/)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
-
-***
-
-## ▷ Bookmark Managers
-
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
-* ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
-* [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
-* [Start.me](https://about.start.me/) - Web-Based Manager
-* [Bort](https://bort.io/) - Web-Based Manager / Dropbox Sync
-* [WebCull](https://webcull.com/) - Web-Based Manager
-* [Floccus](https://floccus.org/) / [GitHub](https://github.com/floccusaddon/floccus) or [BookmarkHub](https://github.com/dudor/BookmarkHub) - Browser Bookmark Sync
-* [buku](https://github.com/jarun/buku) - Terminal Manager
-* [wallabag](https://wallabag.org/) - Web-Based Manager
-* [Unmark](https://unmark.it/) - Web-Based Manager
-* [yabs.io](https://www.yabs.io/) - Web-Based Manager
-* [Dropmark](https://www.dropmark.com/) - Web-Based Manager
-* [KeepThisSite](https://keepthis.site/) - Web-Based Manager
-* [histre](https://histre.com/) - Web-Based Manager
-* [Instapaper](https://www.instapaper.com/) - Desktop Manager
-* [booky](https://booky.io/) - Desktop Manager
-* [linksort](https://linksort.com/) - Desktop Manager
-* [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
-* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension Manager
-* [Centroly](https://centroly.com/) - Extension Manager
-* [Omni](https://github.com/alyssaxuu/omni) - Extension Manager
-* [BetterStacks](https://betterstacks.com/) - Extension Manager
-* [Mission Control](https://mission-control.app/) - Extension Manager
-* [Zulu](https://tryzulu.com/) - Extension Manager
-* [GGather](https://web.ggather.com/) - Extension Manager
-* [linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://hoarder.app/), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
-* [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
-* [SuperMemory](https://supermemory.ai/) - AI Bookmark App
-* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
-* [Bookmarkify](https://bookmarkify.it/) - Create Bookmarklets
-* [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarklets
-* [GetBookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
-* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
-* [⁠Edge Collections Export](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert Edge Collections to Bookmarks
 
 ***
 
@@ -115,27 +89,28 @@
 
 ## ▷ Link in Bio
 
-* ⭐ **[Linktree](https://linktr.ee/)** / Unlimited / Custom URLs
-* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) / Unlimited / Self-Hosted
-* ⭐ **[Bio Link](https://bio.link/)** / Unlimited / Custom URLs
-* [Bento](https://bento.me/) / Unlimited / Custom URLs
-* [LinkBun](https://linkbun.io) / Unlimited / Custom URLs
-* [Lynk](https://lynk.id/) / Unlimited / Custom URLs
-* [ContactInBio](https://www.contactinbio.com/) / Unlimited / Custom URLs
-* [AlsoAt](https://alsoat.app) / Unlimited / Custom URLs
-* [ammo.lol](https://ammo.lol/) / Unlimited / Custom URLs
-* [Mylinx](https://mylinx.cc/) / Unlimited / Custom URLs
-* [Linkr](https://linkr.com/) / Unlimited / Custom URLs
-* [Beacons](https://beacons.ai/) / Unlimited
-* [Carrd](https://carrd.co/) / Unlimited
-* [Ayo](https://ayo.so/) / Unlimited
-* [Campsite.bio](https://campsite.bio/) / Unlimited
-* [Taplink](https://taplink.at/) / Unlimited
-* [LinkSpace.Bio](https://linkspace.bio/) / 250 Limit / Custom URLs
-* [LinkMix](https://linkmix.co/) / 20 Limit
+* ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Unlimited / Self-Hosted
+* ⭐ **[Bio Link](https://bio.link/)** - Unlimited / Custom URLs
+* [Bento](https://bento.me/) - Unlimited / Custom URLs
+* [LinkBun](https://linkbun.io) - Unlimited / Custom URLs
+* [Lynk](https://lynk.id/) - Unlimited / Custom URLs
+* [ContactInBio](https://www.contactinbio.com/) - Unlimited / Custom URLs
+* [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
+* [ammo.lol](https://ammo.lol/) - Unlimited / Custom URLs
+* [Mylinx](https://mylinx.cc/) - Unlimited / Custom URLs
+* [Linkr](https://linkr.com/) - Unlimited / Custom URLs
+* [Beacons](https://beacons.ai/) - Unlimited
+* [Carrd](https://carrd.co/) - Unlimited
+* [Ayo](https://ayo.so/) - Unlimited
+* [Campsite.bio](https://campsite.bio/) - Unlimited
+* [Taplink](https://taplink.at/) - Unlimited
+* [LinkSpace.Bio](https://linkspace.bio/) - 250 Limit / Custom URLs
+* [LinkMix](https://linkmix.co/) - 20 Limit
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for TikTok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [AnyImage](https://anyimage.io/) - Create Social Card Links
 
 ***
 
@@ -180,17 +155,24 @@
 
 ***
 
-## ▷ RSS Tools
+# ► RSS Tools
 
-* ↪️ **[RSS Feed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_generators)**
-* ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
+* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
+* [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
+* [rssmail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
+* [siftrss](https://siftrss.com/) - RSS Feed Filters
+* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
+* [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
+* [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
+
+***
+
+## ▷ RSS Readers
+
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
-* ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Extensions
-* [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
-* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [Tiny Tiny RSS](https://tt-rss.org/) - Web RSS Readers
-* [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - Browser Extensions
 * [NewsBlur](http://www.newsblur.com) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
@@ -203,12 +185,27 @@
 * [Osmosfeed](https://osmoscraft.org) - RSS Reader / [GitHub](https://github.com/osmoscraft/osmosfeed)
 * [rss](https://codeberg.org/danb/rss) - RSS Reader
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader
-* [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
-* [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
-* [Sift RSS](https://siftrss.com/) - RSS Feed Filters
-* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
-* [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
+* [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
+* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [Tiny Tiny RSS](https://tt-rss.org/) - Web RSS Readers
+* [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+
+***
+
+## ▷ RSS Feed Generators
+
+* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
+* ⭐ **[Feedless](https://feedless.org/)**
+* [MoRSS](https://morss.it/)
+* [RSSHub](https://github.com/DIYgod/RSSHub)
+* [Open RSS](https://openrss.org/)
+* [RSS Please](https://rsspls.7bit.org/)
+* [RSS Finder](https://rss-finder.rook1e.com/)
+* [FetchRSS](https://fetchrss.com/)
+* [RSS Diffbot](https://rss.diffbot.com/)
+* [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
+* [Politepol](https://politepol.com/en/)
+* [Janicek](https://feed.janicek.co/)
+* [FiveFilters](https://createfeed.fivefilters.org/)
 
 ***
 
@@ -347,22 +344,17 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
-* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
+* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
+* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
+* [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
+* [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
-* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
-* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects
-* [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
-* [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
-* [scrt.link](https://scrt.link/) - Single Use Links
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links / [JS Library](https://github.com/eight04/linkify-plus-plus-core)
 * [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
-* [HoverCode](https://hovercode.com/), [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
-* [AnyImage](https://anyimage.io/) - Create Social Card Links
-* [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
+* [Hovercode](https://hovercode.com/), [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2QR](https://2qr.info/) or [Link to QR](https://link-to-qr.com/) - QR Code Generator For URLs / Text
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
-* [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
-* [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
+* [pyFuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
+* [Backlink Tool](https://backlinktool.io/) or [IndexKings](http://www.indexkings.com/) - URL Indexer
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
 
 ***
@@ -382,67 +374,59 @@
 
 ***
 
-## ▷ URL Shorteners
+## ▷ Short Link Tools
 
-* ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
-* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
-* ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
-* [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
-* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
-* [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
-* [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
-* [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
-* [id](https://home.s.id/) - `s.id/EQBsg`
-* [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
-* [1kb](https://1kb.link/) - `1kb.link/acc0a`
-* [x.gd](https://x.gd/) `x.gd/rcg0Z`
-* [bom.so](https://bom.so/) - `bom.so/VevMJv`
-* [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
-* [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
-* [picsee](https://picsee.io/) - `psee.io/5pye68`
-* [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [u.nu](https://u.nu/) - `u.nu/5nhzi`
-* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
-* [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
-* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
-* [upto](https://blyto.com/) - `upto.site/3e04d1`
-* [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
-* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
-* [wr.do](https://wr.do/) - Account Required
-* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
-* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
-* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
-* [Thinfi](https://thinfi.com/) - Password Protect a Short URL / `thinfi.com/q8aw`
-* [Emojied](https://emojied.net/) - Emoji URL Shorteners
-* [ShortShare](https://shortshare.app/) - Short Link App
-* [BR3F](https://www.br3f.com/) - Single-Click Short Links
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri), [Snapp](https://github.com/urania-dev/snapp), [Dub](https://github.com/dubinc/dub), [Shlink](https://github.com/shlinkio/shlink), [Shlink](https://shlink.io/), [Sink](https://github.com/ccbikai/Sink) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* ⭐ **[WhereGoes](https://wheregoes.com/)** or [Redirect Detective](https://redirectdetective.com/) - Check Paths of Redirects / Short Links
+* [Shortshare](https://shortshare.app/) - URL Shortener App
+* [URL Expander](https://t.ly/tools/link-expander/) - URL Unshortener
+* [CheckShortURL](https://checkshorturl.com/) - URL Unshortener
+* [ExpandURL](https://www.expandurl.net/) - URL Unshortener
+* [Unshorten.me](https://unshorten.me/) - URL Unshortener
+* [Unshorten.It!](https://unshorten.it/) - URL Unshortener
 
 ***
 
-## ▷ URL Unshorteners
+## ▷ URL Shorteners
 
-* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
-* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
-* [Unshorten.it](https://unshorten.it/)
-* [ExpandURL](https://www.expandurl.net/)
-* [WhereGoes](https://wheregoes.com/)
-* [unshorten](https://unshorten.me/)
+* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
+* ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
+* ⭐ **[Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Shorten Wikimedia Domain Links
+* [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
+* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
+* [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
+* [s.id](https://home.s.id/) - `s.id/EQBsg`
+* [1kb.link](https://1kb.link/) - `1kb.link/acc0a`
+* [X.gd](https://x.gd/) `x.gd/rcg0Z`
+* [Bom.so](https://bom.so/) - `bom.so/VevMJv`
+* [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [PicSee](https://picsee.io/) - `psee.io/5pye68`
+* [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
+* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
+* [Walee](https://wal.ee/) - `wal.ee/zluqo`
+* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
+* [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
+* [Ej.uz](https://ej.uz/en), [2](https://sald.us/en) - `ej.uz/t8ar`
+* [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
+* [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
+* [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
+* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
+* [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
+* [emojied](https://emojied.net/) - Emoji URL Shortener
+* [Suri](https://github.com/jstayton/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
 
 ***
 
 ## ▷ Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
+* ⭐ **[Downdetector](https://downdetector.com/)**
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
-* [websitedown](http://www.websitedown.info/)
+* [websitedown.info](http://www.websitedown.info/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
 * [Dr. Link Check](https://www.drlinkcheck.com/)
@@ -543,26 +527,16 @@
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [BottleMail](https://bottlemail.org/)) - 14 Days / 1 Domain
+* [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
-* [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
-* [PhantomSign](https://phantomsign.com/)
+* [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutemail.com](https://10minutemail.com/) or [Linshi Email](https://www.linshi-email.com/en) - 10 Minute Lifespan Emails
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [AnonymMail.net](https://anonymmail.net/) or [Mail.td](https://mail.td/) - 5 Domains
-* [Linshi Email](https://www.linshi-email.com/en) - Custom Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
 * [More Sites](https://rentry.org/i3ozxg6f) - More Temp Mail Sites
-
-***
-
-## ▷ Anonymous Emails
-
-* [5yMail](https://www.5ymail.com/)
-* [anonymousemail.me](https://anonymousemail.me/)
-* [Anonymouse](http://anonymouse.org/anonemail.html)
 
 ***
 
@@ -582,13 +556,55 @@
 
 ***
 
+# ► Bookmark Tools
+
+* [Floccus](https://floccus.org/) / [GitHub](https://github.com/floccusaddon/floccus) or [BookmarkHub](https://github.com/dudor/BookmarkHub) - Browser Bookmark Sync
+* [linkhut](https://ln.ht/), [Linkhorse](https://link.horse/) or [TinyGem](https://tinygem.org/) - Social Bookmarking
+* [SuperMemory](https://supermemory.ai/) - AI Bookmark App / [GitHub](https://github.com/supermemoryai/supermemory)
+* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
+* [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Duplicate Bookmarks (Chrome)
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
+* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
+* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
+* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
+* [Bookmarkify](https://bookmarkify.it/) - Create JS Bookmarklets
+* [Get Bookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
+* [export-edge-collections](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert MS Edge Collections to Bookmarks
+
+***
+
+## ▷ Bookmark Managers
+
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
+* ⭐ **[Raindrop.io](https://raindrop.io/)** - Web-Based Manager
+* [Start.me](https://about.start.me/) - Web-Based Manager
+* [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
+* [wallabag](https://wallabag.org/) - Web-Based Manager
+* [Dropmark](https://www.dropmark.com/) - Web-Based Manager
+* [KeepThisSite](https://keepthis.site/) - Web-Based Manager
+* [yabs.io](https://www.yabs.io/) - Web-Based Manager
+* [Centroly](https://centroly.com/) - Web-Based Manager
+* [Stacks](https://betterstacks.com/) - Web-Based Manager
+* [Zulu](https://tryzulu.com/) - Web-Based Manager
+* [GGather](https://web.ggather.com/) - Web-Based Manager
+* [Shiori](https://github.com/go-shiori/shiori) - Desktop Manager
+* [Instapaper](https://www.instapaper.com/) - Desktop Manager
+* [booky](https://booky.io/) - Desktop Manager
+* [linksort](https://linksort.com/) - Desktop Manager
+* [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
+* [Mission Control](https://mission-control.app/) - Chrome Extension
+* [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+
+***
+
 # ► Browser Tools
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://avoidthehack.com/util/browser-comparison) - Compare Popular Browsers
 * 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
 * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
-* ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
+* ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Track Firefox Releases
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test / Firefox Broken
 * [Browserling](https://www.browserling.com/) - Browser Emulators
@@ -629,6 +645,7 @@
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Browserboost](https://browserboost.org/) - Add Features to Browsers
+* [Omni](https://github.com/alyssaxuu/omni) - Browser Quick Launcher
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
@@ -646,7 +663,6 @@
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * [Print Edit WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#printeditwe-addons) - Edit Pages to Make them Printable
-* [Grammarly](https://www.grammarly.com/) - Grammar Check
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
@@ -670,7 +686,7 @@
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
-* [CopyTabTitleURL](https://github.com/k08045kk/CopyTabTitleUrl) - Link Auto-Markdown Formatting
+* [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - Copy Title / URL of a Tab
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - Turn Webpages into Editable Documents
@@ -680,6 +696,7 @@
 * [Betterviewer](https://github.com/Ademking/Betterviewer) - Image View Mode
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
+* [UI.Vision RPA](https://ui.vision/) - Workflow Automation
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
@@ -702,8 +719,6 @@
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
-* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
-* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
@@ -712,7 +727,6 @@
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
-* [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) - Grammar Check
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch Your User-Agent
@@ -791,7 +805,6 @@
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
-* [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 
@@ -802,10 +815,10 @@
 ## ▷ Archive Services
 
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
-* ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
+* ⭐ **[Archive.org](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
-* ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages / Paywall Bypass
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
+* ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages / Paywall Bypass
 * ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [Ghost Archive](https://ghostarchive.org/) - Archive Web Pages
@@ -819,6 +832,7 @@
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
 * 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-Source Archiving Tools
 * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitter_archiving)**
+* ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader

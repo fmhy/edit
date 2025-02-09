@@ -598,7 +598,9 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
+* ⭐ **[Slowpoke Pics](https://slow.pics/)**, [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
 * [PicSynth](https://www.picsynth.me/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
+* [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends
@@ -608,12 +610,11 @@
 * [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [X](https://x.com/autoexec_bin) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC) 
 * [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
-* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Comparison Web App
+* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
-* [odiff](https://github.com/dmtrKovalenko/odiff), [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Differences / Comparisons
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [detectron2](https://detectron2.readthedocs.io/) - Object / Human Detection
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
@@ -747,6 +748,7 @@
 
 ## ▷ Image Hosts
 
+* ⭐ **[⁠PixVid](https://pixvid.org/)**
 * ⭐ **[ImgBB](https://imgbb.com/)**
 * ⭐ **[Postimages](https://postimages.org/)**
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
@@ -757,7 +759,6 @@
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
 * [vgy](https://vgy.me/)
-* [⁠PixVid](https://pixvid.org/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
@@ -773,7 +774,6 @@
 * [Lutim](https://lutim.lagout.org/)
 * [BeeIMG](https://beeimg.com/)
 * [anhsieuviet](https://anhsieuviet.com/?lang=en)
-* [Slowpoke Pics](https://slow.pics/)
 * [FastPic](https://fastpic.org/)
 * [dutov](https://dutov.org/)
 * [Piczel](https://piczel.tv/) - Online Art Gallery

@@ -12,6 +12,7 @@
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
+* [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
@@ -341,7 +342,7 @@
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* [CD(R)M-Project](https://cdm-project.com/) - StreamFab Download / [Discord](https://discord.gg/zvGBza34JP)
+* [CD(R)M-Project](https://cdm-project.com/) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [YouTubeDownload](https://youtubedownload.uk/) - Multi-Site / Online
