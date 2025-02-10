@@ -44,7 +44,7 @@
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-* [ROM Heaven CSF](https://romheaven.com/csf), [2](https://romheaven.su) - Download Clean Files
+* [ROM Heaven CSF](https://romheaven.com/csf), [2](https://romheaven.su/csf) - Download Clean Files
 
 ***
 
