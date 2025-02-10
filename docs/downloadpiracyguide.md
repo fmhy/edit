@@ -152,7 +152,7 @@
 
 * 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
-* [SourceForge](https://sourceforge.net/)- FOSS Repositories
+* [SourceForge](https://sourceforge.net/) - FOSS Repositories
 * [OSSSoftware](https://osssoftware.org/) - FOSS Directory
 * [Fossies](https://fossies.org/) - FOSS Directory
 * [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) - FOSS Directory

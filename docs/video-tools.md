@@ -342,7 +342,7 @@
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* [CD(R)M-Project](https://cdm-project.com/) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
+* [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [YouTubeDownload](https://youtubedownload.uk/) - Multi-Site / Online
@@ -372,6 +372,7 @@
 
 ## ▷ Video Editors
 
+* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
@@ -383,7 +384,6 @@
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
 * [Remotion](https://www.remotion.dev/) - Video Editor
 * [Olive](https://www.olivevideoeditor.org/) - Video Editor
-* [LosslessCut](https://github.com/mifi/lossless-cut) - Video Editor
 * [EZVid](https://www.ezvid.com/) - Video Editor
 * [OpenShot](https://www.openshot.org/) - Video Editor
 * [Lightworks](https://lwks.com/) - Video Editor

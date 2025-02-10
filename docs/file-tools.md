@@ -76,25 +76,25 @@
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
-* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1 GB
-* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB
-* [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
-* [Xconvert](https://www.xconvert.com) - File Converter / 400 MB
-* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB
-* [Convertio](https://convertio.co/) - File Converter / 100 MB
-* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB
-* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB
-* [MiConv](https://miconv.com/) - File Converter / 75 MB
-* [Converter 365](https://www.converter365.com/) - File Converters / 200 MB
-* [Aconvert](https://www.aconvert.com/) - Various Converters / 40 MB
-* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250 MB
+* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1GB
+* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1GB
+* [videoutils](https://www.videoutils.com/) - File Converter / 500MB
+* [Xconvert](https://www.xconvert.com) - File Converter / 400MB
+* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
+* [Convertio](https://convertio.co/) - File Converter / 100MB
+* [AnyConvert](https://anyconv.com/) - File Converter / 100MB
+* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100MB
+* [MiConv](https://miconv.com/) - File Converter / 75MB
+* [Converter 365](https://www.converter365.com/) - File Converters / 200MB
+* [Aconvert](https://www.aconvert.com/) - Various Converters / 40MB
+* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250MB
 * [Online Convert](https://www.online-convert.com/) - Online File Converter
 * [Zamzar](https://www.zamzar.com/) - File Converter / 200 MB
 * [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
 * [Convert Town](https://convert.town/) - Online Text / Image Converter
-* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200 MB Video, Archive, Audio
-* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10 MB
-* [go4convert](https://go4convert.com/) - Online Document Converter / 100 MB
+* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200MB Video, Archive, Audio
+* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10MB
+* [go4convert](https://go4convert.com/) - Online Document Converter / 100MB
 
 ***
 

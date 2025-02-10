@@ -481,7 +481,7 @@
 * [Wuxiabox](https://www.wuxiabox.com/)
 * [Wuxia.click](https://wuxia.click/)
 * [Ocean of EPUB](https://oceanofepub.com/) / Allows Downloads
-* [Novel Bin](https://novelbin.com/), [2](https://novelbin.lanovels.net/)
+* [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
 * [wuxiabee](https://www.wuxiabee.net/)
 * [List Novel](https://listnovel.com/)
 * [NobleMTL](https://noblemtl.com/)
@@ -621,7 +621,7 @@
 * [2012books](https://2012books.lardbucket.org/) - Creative Commons Books
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / Downloads in Descriptions
-* [ck12](https://www.ck12.org/)- Interactive CK-12
+* [ck12](https://www.ck12.org/) - Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online University Libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search

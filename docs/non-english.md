@@ -287,8 +287,8 @@
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://cocolamanhua.com/) - Manga
-* [xmanhua.com](https://xmanhua.com/)- Manga / NSFW
-* [comicabc.com](https://www.comicabc.com/)- Manga
+* [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
+* [comicabc.com](https://www.comicabc.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [colamanga](https://www.colamanga.com/) - Manga
 * [rumanhua](https://rumanhua.com/) - Manga
@@ -540,7 +540,7 @@
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
-* [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/)- Documentaries
+* [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
 * [Edels Gute Stube](https://edels-stube.eu/) - Live TV / Sports / Movies / TV / Documentaries / Dub / 720p
 * [Bundesliga Streams](https://bundesliga-streams.net/) - Sports

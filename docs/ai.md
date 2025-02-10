@@ -406,6 +406,7 @@
 * [FakeYou](https://fakeyou.com/) / No Signup / [Discord](https://discord.gg/fakeyou)
 * [Luvvoice](https://luvvoice.com/) / No Signup
 * [TTSMaker](https://ttsmaker.com/) / No Signup
+* [⁠TTSOpenAI](https://ttsopenai.com/) / No Signup
 * [edge-tts](https://github.com/rany2/edge-tts) / No Signup / Python Module
 * [Voices](https://www.hailuo.ai/audio/voices)
 * [TextToSpeech.io](https://texttospeech.io/)

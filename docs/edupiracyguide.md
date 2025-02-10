@@ -1264,7 +1264,7 @@
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Lurnby](https://www.lurnby.com)- Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby) 
+* [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby) 
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper

@@ -400,33 +400,33 @@
 ## Free Webhosting Sites
 
 * ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 10 GB traffic / Unlimited DB
-* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3 GB disk / Unlimited traffic / 13 DB
-* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100 MB disk / Unlimited / Unlimited
-* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5 GB disk / Unlimited traffic / 2 DB
-* [AwardSpace.com](https://www.awardspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [GoogieHost.com](https://googiehost.com/) - 1 GB disk / 100 GB traffic / 2 DB
-* [Freehostia.com](https://www.freehostia.com/) - 250 MB disk / 6 GB traffic / 1 DB
-* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200 MiB disk / 4 GB traffic / 1 DB
-* [Batcave.net](https://batcave.net/) - 1GB disk / 5 GB traffic / 1 DB
-* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1 GB disk / 5 GB traffic / 1 DB
-* [100WebSpace.com](https://www.100webspace.com/) - 100 MB disk / 3 GB traffic / 1 DB
-* [50Webs.com](https://www.50webs.com/) - 500 MB disk / 5 GB traffic / 0 DB
-* [Somee.com](https://somee.com/) - 150 MB disk / 5 GB traffic / 1 DB
-* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1 GB disk / 5 GB traffic / 1 DB
-* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB disk / 5000 MB traffic / 1 DB
-* [Biz.ly](https://www.biz.ly/) - 50 MB disk / 1GB traffic / 0 DB
-* [biz.ht](https://biz.ht/) - 1 GB disk / 5 GB traffic / 1 DB
-* [Freehostspace.com](https://www.freehostspace.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [RUNHOSTING.com](https://runhosting.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB disk / 5 GB traffic / 0 DB
-* [Freehostpro.com](https://www.freehostpro.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [Redwebhost.com](https://www.redwebhost.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [Tekcities.com](https://www.tekcities.com/) - 1 GB disk / 5 GB traffic / 1 DB
-* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB disk / 5 GB traffic / 1 DB
-* [125mb.com](https://www.125mb.com/) - 1GB disk / 5 GB traffic / 1 DB
-* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5 GB disk / Unlimited traffic / Unlimited DB
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 100 GB traffic / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB disk / Unlimited traffic / 13 DB
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB disk / Unlimited / Unlimited
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB disk / Unlimited traffic / 2 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1GB disk / 5GB traffic / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1GB disk / 100GB traffic / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250MB disk / 6GB traffic / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB disk / 4GB traffic / 1 DB
+* [Batcave.net](https://batcave.net/) - 1GB disk / 5GB traffic / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB disk / 5GB traffic / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100MB disk / 3GB traffic / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500MB disk / 5GB traffic / 0 DB
+* [Somee.com](https://somee.com/) - 150MB disk / 5GB traffic / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB disk / 5GB traffic / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB disk / 5GB traffic / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50MB disk / 1GB traffic / 0 DB
+* [biz.ht](https://biz.ht/) - 1GB disk / 5GB traffic / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB disk /  GB traffic / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1GB disk / 5GB traffic / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB disk / 5GB traffic / 0 DB
+* [Freehostpro.com](https://www.freehostpro.com/) - 1GB disk / 5GB traffic / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1GB disk / 5GB traffic / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB disk / 5GB traffic / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1GB disk / 5GB traffic / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB disk / Unlimited traffic / Unlimited DB
 * [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 * [glitch](https://glitch.com/)
 * [biz.nf](https://www.biz.nf/)

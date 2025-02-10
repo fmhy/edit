@@ -44,8 +44,10 @@
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [⁠InstallGentoo Wiki](https://igwiki.lyci.de/wiki/Main_Page) / [2](https://wiki.installgentoo.com/wiki/Main_Page) or [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [⁠Debian Wiki](https://wiki.debian.org/) - ⁠Debian Wiki / Guides
+* [⁠FreeBSD Wiki](https://wiki.freebsd.org/) - ⁠FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
+* [⁠Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide
 * [HowtoForge](https://www.howtoforge.com/) or [⁠Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials

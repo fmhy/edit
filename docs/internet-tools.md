@@ -398,6 +398,7 @@
 * [1kb.link](https://1kb.link/) - `1kb.link/acc0a`
 * [X.gd](https://x.gd/) `x.gd/rcg0Z`
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
+* [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [PicSee](https://picsee.io/) - `psee.io/5pye68`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
