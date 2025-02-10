@@ -468,6 +468,7 @@
 * [Pelican](https://getpelican.com/)
 * [Reocities](https://www.reocities.xyz/)
 * [yay.boo](https://yay.boo/)
+* [Staclo.host](https://staclo.host/)
 
 ### Dynamic Page Hosting
 
