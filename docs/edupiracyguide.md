@@ -1338,8 +1338,8 @@
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
-* **[TI-30 Calculator Online](https://ti84calc.online/ti-30)** or [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
-* **[TI-108 Calculator Online](https://ti84calc.online/ti-108)** - TI-108 Calculator
+* [TI-30 Calculator Online](https://ti84calc.online/ti-30) or [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
+* [TI-108 Calculator Online](https://ti84calc.online/ti-108) - TI-108 Calculator
 * [ThomasOkken](https://thomasokken.com/) - HP-42S Calculator 
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
