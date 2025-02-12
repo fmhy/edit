@@ -214,7 +214,7 @@
 ## ▷ PDF Tools
 
 * ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
+* ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive

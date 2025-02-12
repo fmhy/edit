@@ -639,7 +639,7 @@
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [Oldschool Styles](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
-* ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
+* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#zoom-page-addons)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#scrollanywhere-addons)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#clipboard2file-addons)** - Upload Images from Clipboard

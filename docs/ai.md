@@ -9,20 +9,20 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[⁠Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Online LLM Indexes
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o3-mini Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot
-* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai)
 * ⭐ **[⁠Qwen](https://chat.qwenlm.ai/)** - Alibaba's Chatbots
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required
+* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-mini / No Signup
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [AI Assistant](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
 * [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [SciSpace](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
-* [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-mini / No Signup
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
@@ -279,36 +279,37 @@
 
 # ► Image Generation
 
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
-* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / 12 Monthly
+* ⭐ **[NexusAI Image](https://image.nexusmind.tech/)** - 300 Daily Per Model / [Discord](https://discord.com/invite/sk8eddGwmP)
+* ⭐ **[FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[Dezgo](https://dezgo.com/)** / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* ⭐ **[Meta AI](https://www.meta.ai/icebreakers/imagine/)** / Unlimited / Signup Required
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
+* ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda) / Unlimited
 * ⭐ **[Grok](https://x.ai/grok)** / 25 Per 2 Hours
-* ⭐ **[Playground](https://playground.com/)** / 15 Per 3 Hours
-* ⭐ **[TensorArt](https://tensor.art/)** / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)
-* ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
-* [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Signup
-* [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
-* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* [NexusAI Image](https://image.nexusmind.tech/) - 300 Daily Per Model / [Discord](https://discord.com/invite/sk8eddGwmP)
-* [Prodia](https://app.prodia.com/playground) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
-* [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
-* [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
-* [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Signup
-* [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
-* [AI Gallery](https://aigallery.app/) / Unlimited / No Signup
-* [ComfyUI Online](https://www.runcomfy.com/comfyui-web) or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda) / Unlimited
-* [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
-* [Art Genie](https://artgenie.surge.sh/) / Unlimited / No Signup
-* [PicSynth](https://www.picsynth.me/generation) / Unlimited
-* [Raphael](https://raphael.app/) / Unlimited / No Signup / Uses Flux.1
+* [Dezgo](https://dezgo.com/) / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * [PicLumen](https://piclumen.com/) / Unlimited / [Discord](https://discord.gg/bAycHJgbD8)
 * [⁠Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
+* [Microsoft Designer](https://designer.microsoft.com/image-creator), [2](https://www.bing.com/images/create) / 12 Monthly
+* [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
+* [AI Gallery](https://aigallery.app/) / Unlimited / No Signup
+* [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
+* [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Signup
+* [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Signup
+* [Hotpot](https://hotpot.ai/) / 75 Daily / No Signup
+* [Prodia](https://app.prodia.com/playground) / Unlimited / No Signup / [Discord](https://discord.com/invite/495hz6vrFN)
+* [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations) 
+* [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [Meta AI](https://www.meta.ai/icebreakers/imagine/) / Unlimited / Signup Required
+* [Playground](https://playground.com/) / 15 Per 3 Hours
+* [TensorArt](https://tensor.art/) / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)
+* [Shakker](https://www.shakker.ai/) / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
+* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
+* [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
+* [Art Genie](https://artgenie.surge.sh/) / Unlimited / No Signup
+* [Raphael](https://raphael.app/) / Unlimited / No Signup / Uses Flux.1
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Signup
-* [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations) 
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 50 Daily / Sign-Up Required
@@ -320,7 +321,6 @@
 * [Maze Guru](https://maze.guru/gallery) / 12 Daily / [Discord](https://discord.com/invite/maze-guru-ai-art-anime-social-1007166914801434634) 
 * [PixAI](https://pixai.art/) / 5 Daily / [Discord](https://discord.com/invite/pixai) 
 * [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
-* [Hotpot](https://hotpot.ai/) / 75 Daily / No Signup
 * [Glif](https://glif.app/) / 20 Daily / No Signup / [Discord](https://discord.gg/nuR9zZ2nsh)
 * [Krea](https://www.krea.ai/) - 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator

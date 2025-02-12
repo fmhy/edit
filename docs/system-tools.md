@@ -43,7 +43,7 @@
 
 * ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
-* ⭐ **[SophiApp](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater / Win 10 Only
+* ⭐ **[SophiScript](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater / Win 10 Only
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
@@ -142,6 +142,7 @@
 ## ▷ Clipboard Managers
 
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager
+* [PasteBar](https://github.com/PasteBar/PasteBarApp) - Clipboard Manager
 * [CrossPaste](https://github.com/crosspaste/crosspaste-desktop) - Clipboard Manager
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) - Clipboard Manager
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Manager
@@ -203,6 +204,7 @@
 * [Netdata](https://www.netdata.cloud/) - Cloud-Based Monitoring
 * [HWRadar](https://coderbag.com/product/hwradar) or [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
 * [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
 * [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
 * [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Sidebar for Windows Desktop

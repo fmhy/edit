@@ -289,8 +289,6 @@
 
 ## Digital Brushes
 
-* ⭐ **[ART Library](https://t.me/+7Mztd4kkHFowNDQ6)**
-
 [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes)
 
 ***
@@ -400,7 +398,7 @@
 ## Free Webhosting Sites
 
 * ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 100 GB traffic / Unlimited DB
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 100GB traffic / Unlimited DB
 * ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB disk / Unlimited traffic / 13 DB
 * ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB disk / Unlimited / Unlimited
 * ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB disk / Unlimited traffic / 2 DB
@@ -418,7 +416,7 @@
 * [WebFreeHosting.net](https://webfreehosting.net/) - 1GB disk / 5GB traffic / 1 DB
 * [Biz.ly](https://www.biz.ly/) - 50MB disk / 1GB traffic / 0 DB
 * [biz.ht](https://biz.ht/) - 1GB disk / 5GB traffic / 1 DB
-* [Freehostspace.com](https://www.freehostspace.com/) - 1GB disk /  GB traffic / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB disk / 5GB traffic / 1 DB
 * [RUNHOSTING.com](https://runhosting.com/) - 1GB disk / 5GB traffic / 1 DB
 * [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB disk / 5GB traffic / 0 DB
 * [Freehostpro.com](https://www.freehostpro.com/) - 1GB disk / 5GB traffic / 1 DB

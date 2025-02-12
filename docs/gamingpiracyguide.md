@@ -697,7 +697,7 @@
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
-* [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
+* [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Fued](https://googlefeud.com/) - Guess What's Googled More
 * [Graphs](https://www.graphs.world/) - Graph Guessing Game
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game

@@ -65,34 +65,31 @@
 
 ## ▷ Upscale / Restore
 
-* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/)
-* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling
-* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / [GitHub](https://github.com/upscayl/upscayl)
-* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
-* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN)
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Host / No Signup
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Online / Self-Host / No Signup
+* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / [GitHub](https://github.com/upscayl/upscayl) / Self-Host / No Signup
+* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling / Self-Host / No Signup
+* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database / No Signup
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Host / No Signup
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
-* [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily
-* [upscaler](https://icons8.com/upscaler) - Image Upscaling
-* [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling
-* [⁠IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling
-* [Bigjpg](https://bigjpg.com/) - Image Upscaling
-* [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling
-* [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
-* [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
-* [Photo Magic AI](http://photomagicai.com/) - Image Upscaling
-* [⁠Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling
-* [Superimage](https://superimage.io/) - Image Upscaling
-* [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Image Upscaling
-* [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
-* [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
-* [PixNova](https://pixnova.ai/image-upscaler/) - Image Upscaling
-* [Nicescaler](https://github.com/Djdefrag/NiceScaler) - Image Upscaling
-* [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) - Image Upscaling
-* [imgupscaler](https://imgupscaler.com/) - Image Upscaling
-* [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan) - Image Upscaling
-* [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
-* [resdet](https://github.com/0x09/resdet) - Detect Upscaled Images
+* [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily / Google Signup
+* [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling / Online / No Signup
+* [⁠IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online / No Signup
+* [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online / No Signup
+* [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling / Online / No Signup
+* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Signup
+* [Photo Magic AI](http://photomagicai.com/) - Image Upscaling / Self-Host / No Signup
+* [⁠Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Host / No Signup
+* [Superimage](https://superimage.io/) - Image Upscaling / Self-Host / Android Only
+* [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Image Upscaling 
+* [ImageScaler](https://github.com/RoanH/ImageScaler/) - Batch Image Rescaling / Self-Host / No Signup
+* [PixNova](https://pixnova.ai/image-upscaler/) - Image Upscaling / Online / No Signup
+* [Nicescaler](https://github.com/Djdefrag/NiceScaler) - Image Upscaling / Video Upscaling / Self-Host / No Signup
+* [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) - Image Upsampling / JPEG Artifact Removal / Self-Host / No Signup
+* [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online / No Signup
+* [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan) - Image Upscaling / Online / No Signup
+* [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted / No Signup
+* [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Host / No Signup
 
 ***
 

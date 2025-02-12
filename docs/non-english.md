@@ -1754,7 +1754,7 @@ Italian
 
 * ⭐ **[Kitap Botu](https://t.me/Kitap777bot)** - The largest Turkish PDF/EPUB/MOBI archive in the world
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
-* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk) or [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) - Books
+* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58) or [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga TR](https://manga-tr.com/) - Manga

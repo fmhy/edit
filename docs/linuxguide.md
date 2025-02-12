@@ -87,7 +87,7 @@
 * [GParted](https://gparted.org/) - Partition Manager
 * [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
-* [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
+* [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [DistroSea](https://distrosea.com/) - Virtual Machine
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager

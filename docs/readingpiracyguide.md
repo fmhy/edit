@@ -250,7 +250,7 @@
 * ↪️ **[Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook Reader / PDF / PC
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / iOS

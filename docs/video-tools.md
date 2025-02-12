@@ -174,7 +174,7 @@
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)**, [MPC-QT](https://mpc-qt.github.io/) or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm)
-* ⭐ **[MPV](https://mpv.io/)**, [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
+* ⭐ **[MPV](https://mpv.io/)** - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [AVPlayer](http://www.awesomevideoplayer.com/), [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
