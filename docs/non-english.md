@@ -596,6 +596,7 @@
 * [GRecoTM Builds](https://grecotm.club/) - Kodi Builds / [Guide](<https://web.archive.org/web/20210925022803/https://en.iguru.gr/odigos-egkatastasis-ellinikou-build-sto-kodi/>) / [Discord](https://discord.com/invite/zVVfbDY)
 * [GreekTV](https://greektv.app/) - IPTV
 * [NetNix](https://netnix.tv/) - Live TV
+* [GreekSport](https://greeksport.pages.dev/) - Live Sports
 * [stokourbeti](https://www.stokourbeti.art/) - Live Sports
 * [Foothubhd](https://foothubhd.org/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
 * [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
