@@ -407,6 +407,7 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Sports / Stream Aggregator
 * ⭐ **[WeAreChecking](https://wearechecking.live/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
+* [SportOnTV](https://sportontv.pages.dev/matches) - Sports
 * [StreamEast](https://www.streameast.co/v8/) - Sports / [Mirrors](https://gostreameast.link/)
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/) - Sports
 * [MutStreams](https://mutstreams.com) - Sports
