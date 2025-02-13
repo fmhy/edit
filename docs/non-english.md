@@ -720,7 +720,7 @@
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
 * [WatchoFree](https://watchofree.online/) - Movies / TV / Dub / 1080p
 * [Moviefuze](https://www.moviefuze.com/) - Movies / TV / Dub / 1080p
-* [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4k
+* [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
 * [jattfilms](https://jattfilms.cfd/) - Movies / TV / Dub / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
