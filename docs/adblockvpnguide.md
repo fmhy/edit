@@ -411,7 +411,7 @@
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [GitHub](https://github.com/Psiphon-Inc/psiphon)
-* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb / [GitHub](https://github.com/getlantern/lantern)
+* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria) 
