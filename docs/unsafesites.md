@@ -72,7 +72,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
-* [Fake 1337x Sites](https://pastebin.com/cpnVRy1A)
+* [Fake 1337x Sites](https://i.ibb.co/2YHqHmVW/image.png) / [2](https://i.imgur.com/gFZjaVh.png)
 
 ***
 
