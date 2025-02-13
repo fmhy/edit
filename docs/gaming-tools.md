@@ -41,6 +41,7 @@
 * [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
+* [Sens Converter](https://sensconverter.online/) - Convert Sensitivity Of FPS games
 
 ***
 
