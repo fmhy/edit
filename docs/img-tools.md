@@ -159,6 +159,7 @@
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html) - Vintage Magazine Cover Generator
+* [Pykaso.ai](https://www.pykaso.ai/) - Create consistent and realistic AI influencers with Pykaso AI tools.
 
 ***
 
