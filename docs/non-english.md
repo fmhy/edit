@@ -774,7 +774,7 @@
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
 * [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
-* [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
+* [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [OtakuDesu](https://otakudesu.cloud/) - Anime / Sub / 720p
 * [Kuramanime](https://kuramanime.boo/) - Anime / Sub / 720p
