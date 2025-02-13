@@ -267,7 +267,6 @@
 * [Surge](https://getsurge.io/) - P2P App
 * [Wormhole](https://wormhole.app/)
 * [PairDrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
 * [new.space](https://new.space/)
 * [FilePizza](https://file.pizza/)
 * [TransferNow](https://www.transfernow.net/en)

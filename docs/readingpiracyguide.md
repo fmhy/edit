@@ -711,7 +711,6 @@
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
 * [Bzdnbot](https://t.me/Bzdnbot) - Telegram
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
-* [#/g/sicp](https://g.sicp.me/books/) - Programming / Tech (35gb Torrent)
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [Hacker News Books](https://hackernewsbooks.com/) - Books Mentioned on HN
 
