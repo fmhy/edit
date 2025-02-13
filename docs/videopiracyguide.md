@@ -624,7 +624,7 @@
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [MoviPlus](https://moviplus.net/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / [Discord](https://discord.gg/mh2Bte8Kfj)
-* [HDHub4u](https://hdhublist.com/?re=hollywood) - Movies / TV / 4k / [Telegram](https://hdhublist.com/?re=telegram)
+* [HDHub4u](https://hdhublist.com/?re=hollywood) - Movies / TV / 4K / [Telegram](https://hdhublist.com/?re=telegram)
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
 * [Full4Movies](https://www.full4movies.cool/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [Free Movies](https://free-movies.to/) - Movies / TV
