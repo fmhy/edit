@@ -90,7 +90,8 @@
 * [Kardi Notes](https://f-droid.org/packages/github.rikodot.kardi_notes/) - Note-Taking
 * [Moe Memos](https://memos.moe/) - Note-Taking
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking / Writing
-* [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived) - Note-Taking 
+* [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived) - Note-Taking
+* [Yandex Notes](https://yandex.ru/project/disk/notes-eng?from=notes_web) - Note-Taking
 * [Saber](https://github.com/saber-notes/saber) or [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global) - Handwritten Notes for Tablets
 
 ### To-Do Apps
