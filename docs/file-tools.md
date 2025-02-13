@@ -92,7 +92,7 @@
 * [Zamzar](https://www.zamzar.com/) - File Converter / 200MB
 * [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
 * [Convert Town](https://convert.town/) - Online Text / Image Converter
-* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200MB Video, Archive, Audio
+* [Docspal](https://www.docspal.com/) - Various Converters / 50MB Image, Documents / 200MB Video, Archive, Audio
 * [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10MB
 * [go4convert](https://go4convert.com/) - Online Document Converter / 100MB
 
