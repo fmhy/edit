@@ -1119,7 +1119,7 @@
 
 ## Torrent to Google Drive
 
-* **Note** - Use throwaway accounts with these
+* **Note** - Use throwaway accounts with these.
 
 ### Collab
 
