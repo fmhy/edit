@@ -9,7 +9,7 @@
 * **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
 
 ***
- 
+
 * ⭐ **[DistroChooser](https://distrochooser.de/)**
 * [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)
 * [distro.moe](https://distro.moe/) - Find Random Distros
