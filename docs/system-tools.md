@@ -44,6 +44,7 @@
 * ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * ⭐ **[SophiScript](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater / Win 10 Only
+* ⭐ **[Talon](https://ravendevteam.org/software/talon/)** - Simple Win 11 Debloater
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
