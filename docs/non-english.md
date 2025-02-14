@@ -1036,7 +1036,7 @@ Italian
 
 * [TorPlayBot](https://t.me/TorPlaybot) - Torrent Download Telegram Bot
 
-## ▷ Streaming / پخش  
+## ▷ Streaming / پخش
 
 * [FarsiLand](https://farsiland.com/) - Persian Movies / TV / 1080p
 * [RadioVatani](https://www.radiovatani.com/) - Persian Movies / TV / Live / 1080p
