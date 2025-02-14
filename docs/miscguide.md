@@ -1128,6 +1128,7 @@
 * [goonlinetools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [⁠Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [Disroot](https://disroot.org/en/#services) - Text / Social Media
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [FreeTools](https://www.freetools.one/) - Social Media / Text / Code
@@ -1152,7 +1153,7 @@
 
 * 🌐 **[ProductivePrivacy](https://priductive.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-* ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tracker / Productivity App / To-Do List
+* ⭐ **[Super Productivity](http://super-productivity.com)** - Time Tracker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking
 * [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community

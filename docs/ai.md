@@ -11,7 +11,7 @@
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[⁠Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Online LLM Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o3-mini Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot
+* ⭐ **[Gemini](https://gemini.google.com/)**, [AI Studio](https://aistudio.google.com/app/prompts/new_chat) or [Gemma](https://ai.google.dev/gemma/) / [GitHub](https://github.com/google/gemma.cpp) - Google's Chatbot / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai)
 * ⭐ **[⁠Qwen](https://chat.qwenlm.ai/)** - Alibaba's Chatbots

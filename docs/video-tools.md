@@ -192,7 +192,7 @@
 * [PlayVideo](https://playvideos.pages.dev/) - Google Drive Video Player
 * [Terabox Player](https://fileszero.com/terabox-video-player/⁠) - Terabox Video Player
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
-* [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
+* [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 

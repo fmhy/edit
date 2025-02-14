@@ -761,7 +761,7 @@
 
 ## ▷ Downloading / Mengunduh
 
-* ⭐ **[Lendrive](https://lendrive.web.id/)** - Movies / Anime / Donghua / Sub / Dub / 1080p / x265
+* ⭐ **[Lendrive](https://lendrive.web.id/)** - Movies / Anime / Sub / Dub / 1080p / x265
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
 * [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime / Use "Mirror"
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
@@ -1429,6 +1429,7 @@ Italian
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://live.domatv.net/) - Live TV
+* [myfootball](https://myfootball.top/) - Live Football 
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:/Music/](https://vk.com/e_music) - Music

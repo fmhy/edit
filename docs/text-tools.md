@@ -406,6 +406,7 @@
 
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
+* ⭐ **[Super Productivity](https://super-productivity.com/)**
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
@@ -420,7 +421,6 @@
 * [LunaTask](https://lunatask.app/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)
-* [Super Productivity](https://super-productivity.com/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
 * [Vikunja](https://vikunja.io/)
