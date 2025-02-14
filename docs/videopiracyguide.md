@@ -74,7 +74,7 @@
 * [SFlix](https://sflix.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
-* [Multimovies](https://multimovies.today) - Movies / TV / [Telegram](https://telegram.me/+0wYjSXXmFIY5NGFl) 
+* [Multimovies](https://multimovies.today) - Movies / TV / [Telegram](https://telegram.me/+0wYjSXXmFIY5NGFl)
 * [VidPlay](https://vidplay.tv/) - Movies / TV / Anime / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vidplay-note)
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime
 * [SoaPy](https://soapy.to/) - Movies / TV / Anime
@@ -141,9 +141,9 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin) / [Discord](https://discord.com/invite/U7XweVubJN), [Unyo](https://github.com/K3vinb5/Unyo), [Seanime](https://seanime.rahim.app/) / [Discord](https://discord.gg/3AuhRGqUqh) / [GitHub](https://github.com/5rahim/seanime), [Miru](https://miru.js.org/en/) / [Telegram](https://t.me/MiruChat) / [GitHub](https://github.com/miru-project/miru-app) or [Migu](https://miguapp.pages.dev/) / [GitHub](https://github.com/NoCrypt/migu) Desktop Streaming Apps
 * [⁠AnimeKai](https://animekai.to/home) - Sub / Dub
-* [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey) 
+* [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
-* [Hikari](https://hikari.gg/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3) 
+* [Hikari](https://hikari.gg/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3)
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/rFHXVGZ)
 * [GrAnime](https://grani.me/) - Sub / Dub / [Discord](https://discord.gg/7C4zh7NS3p)
 * [GoGoAnime](https://gogoanime3.cc/), [2](https://anitaku.bz/) - Sub / Dub / [DL Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript)
@@ -235,7 +235,7 @@
 * [KissAsianTV](https://kissasiantv.com.im/) - TV / Movies
 * [KissTVShow](https://kisstvshow.live/) - TV
 * [FastDrama](https://fastdrama.cam/) - TV / Movies
-* [KissKH.org](https://kisskh.org.es/) - TV 
+* [KissKH.org](https://kisskh.org.es/) - TV
 * [OneTouchTV](https://onetouchtv.co/) - TV / Movies
 * [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
 * [ViewAsian](https://www.viewasian.org/) - TV / Movies
@@ -304,7 +304,7 @@
 * [3DS Movies](https://rentry.co/FMHYBase64#3d-3ds-movies) - 3D Movies for 3DS
 * [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks) 
+* [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks)
 * [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
@@ -531,11 +531,11 @@
 * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
 * ⭐ **[IPTVNator](https://iptvnator.vercel.app/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
 * ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** - IPTV Player / [Unlock](https://rentry.co/FMHYBase64#best-player)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player 
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
-* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player 
-* [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - IPTV Player 
-* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player 
+* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
+* [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - IPTV Player
+* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
 * [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
 * [IPTV Community](https://iptv.community/) - IPTV Forum
 * [CaberNetwork](https://cabernetwork.github.io/) - IPTV Manager
@@ -688,7 +688,7 @@
 ***
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)**, [2](https://everythingmoe.org/#section-download) - Anime DDL Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)**, [2](https://everythingmoe.org/#section-download) - Anime DDL Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
