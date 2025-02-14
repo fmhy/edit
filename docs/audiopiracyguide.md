@@ -415,7 +415,7 @@
 
 ***
 
-## ▷ Genre Specific 
+## ▷ Genre Specific
 
 * [The Last Disaster](https://thelastdisaster.club/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [Take Metal](https://takemetal.org/) - Metal / MP3
