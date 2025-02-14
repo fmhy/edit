@@ -24,7 +24,7 @@
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
-* [VidClue](https://vidclue.com/) - Short Form Video Inspiration 
+* [VidClue](https://vidclue.com/) - Short Form Video Inspiration
 
 ***
 
@@ -215,7 +215,7 @@
 * [CyTube](https://cytu.be/) - Online Video Player
 * [VideoTogether](https://2gether.video/en-us/) - App
 * [baked.live](https://baked.live/) - Online Video Player
-* [Rave.io](https://rave.io/) - Online Extension 
+* [Rave.io](https://rave.io/) - Online Extension
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
 * [Kast](https://kast.gg/) - Screen Share
 * [Screen Share Party](https://ba.net/screen/) - Online Screen Share
