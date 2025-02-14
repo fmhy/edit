@@ -925,6 +925,7 @@
 * [Git-it](https://github.com/jlord/git-it-electron) - Learn CLI Git & GitHub
 * [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
+* [⁠WizardZines](https://wizardzines.com/comics/) - Dev Learning Comics
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Dev.tube](https://dev.tube/) - Developer Talks

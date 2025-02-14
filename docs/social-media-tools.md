@@ -475,7 +475,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find Videos with >100 Views
+* [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
 * [IMG_0001](https://walzr.com/IMG_0001) - Find Random YouTube Videos
 
