@@ -19,7 +19,7 @@
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-mini / No Signup
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
-* [AI Assistant](https://aiassistantbot.surge.sh/) - Multiple Chatbots / No Signup
+* [AI Assistant](https://aiassistantbot.pages.dev/) - Multiple Chatbots / No Signup
 * [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [SciSpace](https://typeset.io/) (no signup) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
@@ -39,7 +39,7 @@
 * [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
-* [Grok](https://x.ai/grok) - X.com Chatbot
+* [Grok](https://grok.com/) - X.com Chatbot
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
@@ -284,7 +284,7 @@
 * ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda) / Unlimited
-* ⭐ **[Grok](https://x.ai/grok)** / 25 Per 2 Hours
+* ⭐ **[Grok](https://grok.com/)** / 25 Per 2 Hours
 * [Dezgo](https://dezgo.com/) / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * [PicLumen](https://piclumen.com/) / Unlimited / [Discord](https://discord.gg/bAycHJgbD8)
 * [⁠Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
@@ -305,7 +305,7 @@
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
-* [Art Genie](https://artgenie.surge.sh/) / Unlimited / No Signup
+* [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Signup
 * [Raphael](https://raphael.app/) / Unlimited / No Signup / Uses Flux.1
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
@@ -323,6 +323,7 @@
 * [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
 * [Glif](https://glif.app/) / 20 Daily / No Signup / [Discord](https://discord.gg/nuR9zZ2nsh)
 * [Krea](https://www.krea.ai/) - 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
+* [⁠Whisk](https://labs.google/fx/en/tools/whisk) - Use Images as Prompts
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators

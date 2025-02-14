@@ -16,7 +16,7 @@
 * 🌟 **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [GitHub](https://github.com/erynith/movie-web-instances)
 * ⭐ **[Broflix](https://broflix.ci/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
+* ⭐ **[RgShows](https://www.rgshows.me/)**, [2](https://www.1shows.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/456movies)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
@@ -171,13 +171,13 @@
 ## ▷ Cartoon Streaming
 
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/)
-* [Kimcartoon.si](https://kimcartoon.si/)
+* [KimCartoon](https://kimcartoon.si/)
 * [KissCartoon](https://kisscartoon.nz/) / [Discord](https://discord.gg/YwpgPrWVSH)
-* [⁠WatchCartoonOnline](https://www.watchcartoononline.com/)
+* [Watch Cartoon Online](https://www.watchcartoononline.com/)
 * [TopCartoons](https://www.topcartoons.tv/)
-* [Supercartoons](https://www.supercartoons.net/)
+* [SuperCartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
-* [b98](https://www.b98.tv/)
+* [B98](https://www.b98.tv/)
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
@@ -188,22 +188,22 @@
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime / 720p / [Telegram](https://t.me/+tPEqeXLobAo4YTZh)
 * ⭐ **[Best Series](https://bstsrs.in/)**, [2](https://topsrs.day/), [3](https://srstop.link/) - TV / Anime
 * ⭐ **[NOXX](https://noxx.to/)** - TV
-* [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
+* [GDrivePlayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
-* [AZSeries](https://azseries.org/) - TV
-* [ODavies](https://www.youtube.com/@ODavies/playlists) - 4K Shows
-* [play.history](https://play.history.com/) - Full History / A+E Episodes
+* [AZ Series](https://azseries.org/) - TV
+* [Owen Davies](https://www.youtube.com/@ODavies/playlists) - 4K Shows
+* [HISTORY](https://play.history.com/) - Full History / A+E Episodes
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
-* [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
+* [HomestarRunner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
-* [HDClump](https://hdclump.com/) - Documentaries / Cooking / Gardening
+* [HDclump](https://hdclump.com/) - Documentaries / Cooking / Gardening
 * [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
-* [/r/PanelShow](https://www.reddit.com/r/panelshow/) - Panel Shows
+* [/r/Panelshow](https://www.reddit.com/r/panelshow/) - Panel Shows
 * [Taskmaster](https://rentry.co/bbbr4cfr) - Full Taskmaster Episodes
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
-* [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
+* [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Subreddit](https://www.reddit.com/r/runningman/) / [Telegram](https://t.me/myrunningmancom) / [Discord](https://discord.gg/ARvZ4rwZzh)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
-* [TW Classics](https://twcclassics.com/) - Weather Channel Replays
+* [TWC Classics](https://twcclassics.com/) - Weather Channel Replays
 
 ***
 
