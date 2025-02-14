@@ -142,8 +142,8 @@
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
-* [EditGPT](https://www.editgpt.app/) -  Signup Required
-* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required / [Extension](https://www.grammarly.com/browser)
+* [EditGPT](https://www.editgpt.app/) - Signup Required
+* [Grammarly](https://www.grammarly.com/grammar-check) - Signup Required / [Extension](https://www.grammarly.com/browser)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
 * [Outwrite](https://www.outwrite.com/) - Signup Required
 

@@ -1119,7 +1119,7 @@
 
 ## Torrent to Google Drive
 
-* **Note** - Use throwaway accounts with these
+* **Note** - Use throwaway accounts with these.
 
 ### Collab
 
@@ -1148,7 +1148,7 @@
 
 ## Udemy Coupons
 
-* **Note** - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
+* **Note** - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy".
 
 ***
 
