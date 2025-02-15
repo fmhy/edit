@@ -538,7 +538,7 @@
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
-* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
+* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations / Problems
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
@@ -925,7 +925,7 @@
 * [Git-it](https://github.com/jlord/git-it-electron) - Learn CLI Git & GitHub
 * [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
-* [⁠WizardZines](https://wizardzines.com/comics/) - Dev Learning Comics
+* [⁠WizardZines](https://wizardzines.com/comics/) - Dev Learning Comics / [GitHub](https://github.com/nendonerd/wizardzines)
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Dev.tube](https://dev.tube/) - Developer Talks

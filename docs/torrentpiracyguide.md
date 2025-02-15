@@ -50,6 +50,7 @@
 * [FileMood](https://filemood.com/)
 * [iDope](https://idope.se/)
 * [BT4G](https://bt4gprx.com/)
+* [⁠PiratesParadise](https://piratesparadise.org/)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
