@@ -1433,7 +1433,7 @@ Italian
 * [myfootball](https://myfootball.top/) - Live Football
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
-* [E:/Music/](https://vk.com/e_music) - Music
+* [E:\\music\\](https://vk.com/e_music) - Music
 * [mp3-gorilla](https://mp3-gorilla.ru/) - Music
 * [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
