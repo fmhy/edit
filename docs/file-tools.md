@@ -218,7 +218,7 @@
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
-* [Rare2PDF](https://rare2pdf.com/) , [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
+* [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
