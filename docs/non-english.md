@@ -1381,7 +1381,7 @@ Italian
 * [bitru](https://bitru.org/) - Movies
 * [Selezen](https://www.selezen.club/) - Movies
 * [RGFootball](http://rgfootball.net/) - Sports
-* [MovieCorn](https://moviecorn.one/) - Russian / Torrent Streaming
+* [MovieCorn](https://moviecorn.one/) - Torrent Streaming
 
 ## ▷ Streaming / Стриминг
 
