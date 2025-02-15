@@ -1381,7 +1381,6 @@ Italian
 * [bitru](https://bitru.org/) - Movies
 * [Selezen](https://www.selezen.club/) - Movies
 * [RGFootball](http://rgfootball.net/) - Sports
-* [MovieCorn](https://moviecorn.one/) - Torrent Streaming
 
 ## ▷ Streaming / Стриминг
 
@@ -1425,6 +1424,7 @@ Italian
 * [TurkRu.TV](https://turkrutv.tv/) - Turkish TV / Sub / 720p
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [mult-fan](https://mult-fan.tv/) - Cartoons
+* [MovieCorn](https://moviecorn.one/) - Torrent Streaming
 * [TVRF](https://tvrf.online/) - Live TV
 * [Viks](http://ip.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
