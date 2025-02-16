@@ -272,7 +272,6 @@
 * [TransferNow](https://www.transfernow.net/en)
 * [Horizon Send](https://send.hrzn.cool/)
 * [Salad Room](https://saladroom.net/)
-* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
 * [LIGHTNING SHARE](https://lightning-share.vercel.app/)
