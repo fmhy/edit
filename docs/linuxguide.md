@@ -9,7 +9,7 @@
 * **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
 
 ***
- 
+
 * ⭐ **[DistroChooser](https://distrochooser.de/)**
 * [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)
 * [distro.moe](https://distro.moe/) - Find Random Distros
@@ -66,7 +66,7 @@
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
-* [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin) 
+* [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin)
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger

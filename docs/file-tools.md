@@ -138,10 +138,10 @@
 
 ## ▷ File Encryption
 
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter 
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
-* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter 
-* [Hat](https://hat.sh/) - Browser-Based Encrypter 
+* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
+* [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
 ***
@@ -166,7 +166,7 @@
 * [FolderClone](https://www.folderclone.com/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
-* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup 
+* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup
 * [UrBackup](https://www.urbackup.org/) - Client / Server File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - Windows File Backup
 * [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
@@ -218,7 +218,7 @@
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
-* [Rare2PDF](https://rare2pdf.com/) , [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
+* [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
@@ -300,7 +300,7 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
-* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support 
+* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support
 * [Send.now](https://send.now/) - 100GB / 100GB per file / 30 Days after last download
 * [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required

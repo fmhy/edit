@@ -37,13 +37,13 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * FileCR - Caught with malware [multiple times](https://pastebin.com/ky5KMGz2)
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
-* CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1) 
+* CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1)
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
-* 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw) 
-* MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl) 
-* Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr) 
+* 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw)
+* MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl)
+* Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr)
 * Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
 * AsanDL - Caught with [malware](https://tria.ge/250117-gac5havkaj/)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated

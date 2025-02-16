@@ -26,7 +26,7 @@
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [7-Max](https://7-max.com/) - Increase App Performance 
+* [7-Max](https://7-max.com/) - Increase App Performance
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
@@ -299,7 +299,7 @@
 * [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
-* [⁠Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards 
+* [⁠Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
 
@@ -333,7 +333,7 @@
 
 ***
 
-## ▷ USB / Bootloaders 
+## ▷ USB / Bootloaders
 
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * [YUMI](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives
@@ -440,13 +440,13 @@
 ## ▷ Wallpapers
 
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop)
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers 
+* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
 * ⭐ **[Rev Wallpaper](https://rev-wallpaper-engine.github.io/)** - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[Windows Wall Packs](https://rentry.co/fmhybase64#windows-wallpapers)**, [WallpaperHub](https://www.wallpaperhub.app/), [Windows 10 Spotlight](https://windows10spotlight.com/) or [WindowsWallpaper](https://windowswallpaper.miraheze.org/wiki/Main_Page) - Windows Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
-* [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers 
-* [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers 
+* [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
+* [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers

@@ -49,7 +49,7 @@
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**, [steam.tools](https://steam.tools/) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Offline Steam DRM Bypass / DLC Unlocker / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p) 
+* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Offline Steam DRM Bypass / DLC Unlocker / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)**, [2](https://github.com/Detanup01/gbe_fork) / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam DRM Bypass / Multiplayer Emulator
@@ -126,7 +126,7 @@
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [/r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)**, [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling 
+* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)**, [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -137,7 +137,7 @@
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
-* [Vuenxx](https://discord.gg/ASZjqrjWYf) - Free FSR 3 Mods / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vuenxx-note) 
+* [Vuenxx](https://discord.gg/ASZjqrjWYf) - Free FSR 3 Mods / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vuenxx-note)
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade)
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
@@ -273,7 +273,7 @@
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
-* [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility 
+* [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 
 ***
@@ -313,7 +313,7 @@
 * [Smash64](https://smash64.online/) - Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 * [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
-* [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)/ [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
+* [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer
 * [BeamMP](https://beammp.com/) - BeamNG Multiplayer / [GitHub](https://github.com/BeamMP/BeamMP)
@@ -443,7 +443,7 @@
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/), [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9) 
+* [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
@@ -773,7 +773,7 @@
 ## ▷ Mario Kart Tools
 
 * ⭐ **[Retro Rewind](https://rentry.org/Retro-Rewind)** - Retro MKW Tracks / Multiplayer / [Discord](https://discord.gg/qbr3Y4PJFH)
-* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/patchzyy/WheelWizard/releases) / [VR Rankings](https://impactcoding.github.io/rr-vr-ranking/) / [Troubleshooting](https://rentry.org/RR-Fixes) 
+* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/patchzyy/WheelWizard/releases) / [VR Rankings](https://impactcoding.github.io/rr-vr-ranking/) / [Troubleshooting](https://rentry.org/RR-Fixes)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc required / [Discord](https://discordapp.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies

@@ -183,7 +183,7 @@
 
 * ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool
-* [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android) 
+* [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
@@ -215,7 +215,7 @@
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
-* [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities 
+* [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
 
 ***
 
@@ -332,7 +332,7 @@
 
 ## ▷ Climate / Weather
 
-* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps 
+* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
 * [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
@@ -395,7 +395,7 @@
 * [Cronobook](https://cronobook.com/) - Historic Street View
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
 * [r/oldmaps](https://www.reddit.com/r/oldmaps/) or [r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
-* [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
+* [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
 * [Historic Borders](https://historicborders.app/) - Borders History Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
@@ -577,7 +577,7 @@
 
 ***
 
-## ▷ Workout / Exercise 
+## ▷ Workout / Exercise
 
 * 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
@@ -617,7 +617,7 @@
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
-* ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) 
+* ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -676,7 +676,7 @@
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
-* [Wingman](https://github.com/wingman-jr-addon/wingman_jr) , [HaramBlur](https://linktr.ee/haramblur) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
+* [Wingman](https://github.com/wingman-jr-addon/wingman_jr), [HaramBlur](https://linktr.ee/haramblur) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
 * [Fortify](https://www.joinfortify.com/) - Porn Quitting Community
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
 
@@ -695,7 +695,7 @@
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
-* [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs 
+* [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
 * [⁠Job Shell](https://github.com/angelplusultra/job-shell) - Scrape Job Postings
 * [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Job Application Autofill Tools
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
@@ -854,7 +854,7 @@
 
 * ⭐ **[NextCloud](https://nextcloud.com/)** - Collaboration Platform / File Sharing / [GitHub](https://github.com/nextcloud)
 * [Atlassian](https://www.atlassian.com/) - Collaboration Platform
-* [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive) 
+* [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive)
 * [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform
 * [LucidSpark](https://lucidspark.com/), [Creately](https://creately.com/) or [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
 * [ScreenRec](https://screenrec.com/) - Screen Recording for Collaboration
@@ -862,7 +862,7 @@
 * [Freedcamp](https://freedcamp.com/) - Project / Task Organization
 * [Asana](https://asana.com/) - Project / Task Organization
 * [Focalboard](https://www.focalboard.com/) - Project Manager / [GitHub](https://github.com/mattermost-community/focalboard)
-* [Factsplat](https://factsplat.com/) - Project Manager 
+* [Factsplat](https://factsplat.com/) - Project Manager
 * [Mural](https://www.mural.co/) - Project Manager
 * [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
 * [Nino](https://nino.app/) - Task Manager
@@ -900,7 +900,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-  
+
 ***
 
 ## ▷ Crypto / Bitcoin
@@ -1390,7 +1390,7 @@
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
 * [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
-* [DJ Phonetic](https://djphonetic.brianfoo.com/) - Historical Speech Beatboxing 
+* [DJ Phonetic](https://djphonetic.brianfoo.com/) - Historical Speech Beatboxing
 * [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?cp) - Browser Cello
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
 * [ambient.garden](https://ambient.garden/) - 3D Audio Landscape
@@ -1502,18 +1502,18 @@
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
-* [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
-* [Sharkle!](https://sharkle.com/) - Find Random Sites 
-* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites 
+* [BoredButton](https://www.boredbutton.com/) - Find Random Sites
+* [Sharkle!](https://sharkle.com/) - Find Random Sites
+* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites
 * [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
-* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites 
-* [The Forest](https://theforest.link/) - Find Random Sites 
-* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites 
-* [Random-Website](https://random-website.com/) - Find Random Sites 
-* [Wilderness Land](https://wilderness.land/) - Find Random Sites 
-* [CloudHiker](https://cloudhiker.net/) - Find Random Sites 
+* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
+* [The Forest](https://theforest.link/) - Find Random Sites
+* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
+* [Random-Website](https://random-website.com/) - Find Random Sites
+* [Wilderness Land](https://wilderness.land/) - Find Random Sites
+* [CloudHiker](https://cloudhiker.net/) - Find Random Sites
 * [Things to Do](https://randomthingstodo.com/), [HobbyGenerator](https://hobbygenerator.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
