@@ -67,11 +67,10 @@
 
 ***
 
-* ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) /  [API](https://github.com/vitalets/google-translate-api)
+* ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator) - AI-Based
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api) - Translation Sites
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
-* [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
 * [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -124,16 +123,17 @@
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
-* Base64  Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
+* Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
 
 ***
 
 ## ▷ Grammar Check
 
-* **Notes** - Most chatbots in the AI section can also check grammar. 
+* **Note** - Most chatbots in the AI section can also check grammar.
 
 ***
 
@@ -142,16 +142,16 @@
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
-* [EditGPT](https://www.editgpt.app/) -  Signup Required
-* [Grammarly](https://www.grammarly.com/grammar-check) -  Signup Required
+* [EditGPT](https://www.editgpt.app/) - Signup Required
+* [Grammarly](https://www.grammarly.com/grammar-check) - Signup Required / [Extension](https://www.grammarly.com/browser)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
-* [Outwrite](https://www.outwrite.com/) -  Signup Required
+* [Outwrite](https://www.outwrite.com/) - Signup Required
 
 ***
 
 ## ▷ Text Rephrasing
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** or [Rewritify](https://www.rewritify.com/)  - AI-Enhanced Text Rephrasing
+* ⭐ **[QuillBot AI](https://quillbot.com/)** or [Rewritify](https://www.rewritify.com/) - AI-Enhanced Text Rephrasing
 * ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing / Generation
 * ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
 * [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
@@ -224,7 +224,6 @@
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
-* [Helix](https://helix-editor.com/) - Kakuone/Neovim-Based Text Editor
 
 ***
 
@@ -246,6 +245,7 @@
 * [Org-roam](https://www.orgroam.com/) - Info Manager
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
+* [Papers.IM](https://papers.im/) - Note-Taking
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [AppFlowy](https://appflowy.io/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
@@ -276,7 +276,7 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Simplenote](https://simplenote.com/)** -  Local / Cloud Saves
+* ⭐ **[Simplenote](https://simplenote.com/)** - Local / Cloud Saves
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
@@ -376,7 +376,7 @@
 
 * 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_text_generators)**
-* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
+* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
@@ -386,7 +386,6 @@
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting & Editing Workspaces
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
-* [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter-Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
@@ -394,8 +393,6 @@
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [STARC](https://starc.app/), [WriteSolo](https://www.writersolo.com/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
-* [watchout4snakes](http://watchout4snakes.com/) - Generate Random Sentences, Phrases, Words etc.
-* [Glossary Generator](https://www.jamesmurdo.com/glossary_generator.html) - Generate Glossaries
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
@@ -408,7 +405,8 @@
 ## ▷ To Do Lists
 
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
-* ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#tiktik)
+* ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
+* ⭐ **[Super Productivity](https://super-productivity.com/)**
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
@@ -423,7 +421,6 @@
 * [LunaTask](https://lunatask.app/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)
-* [Super Productivity](https://super-productivity.com/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
 * [Vikunja](https://vikunja.io/)
@@ -435,7 +432,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [ITOA](https://itoa.hex.dance/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
@@ -536,6 +533,7 @@
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
+* [FontGenerator](https://fontgenerator.fun/)
 * [Font-Generator](https://www.font-generator.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)

@@ -86,12 +86,12 @@
 * 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** - Antivirus / [X](https://x.com/malwarebytes)
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
-* ⭐ **[Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes)**, [2](https://www.malwarebytes.com/) - Antivirus / [X](https://x.com/malwarebytes)
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Check Trusted Sites Easily
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#malware-removal-forums)
-* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment  / [Guide](https://rentry.co/sandboxie-guide) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
+* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://rentry.co/sandboxie-guide) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus / [X](https://x.com/esetglobal)
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
@@ -129,6 +129,7 @@
 * ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix) or [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - Privacy-Based Operating Systems
 * [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) or [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
+* [Disable Recall](https://rentry.co/b88ixo8f) - Disable Microsoft Recall on Windows 11
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
@@ -158,7 +159,7 @@
 * [Hostux](https://hostux.network/) - Privacy Tools / [Git](https://git.hostux.net/valere/hostux.network) 
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
-* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps / [GitHub](https://github.com/oneminch/encrypted-list)
+* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources
 
 ***
@@ -236,6 +237,7 @@
 ## ▷ Password Privacy / 2FA
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
+* ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
 * ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA / [GitHub](https://github.com/beemdevelopment/Aegis)
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA / [GitHub](https://github.com/stratumauth/app)
@@ -246,7 +248,7 @@
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
 * [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys /  [GitHub](https://github.com/Yubico/yubioath-flutter)
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys / [GitHub](https://github.com/Yubico/yubioath-flutter)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
 * [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web Based 2FA / [GitHub](https://github.com/Bubka/2FAuth) 
 * [Sentinel](https://getsentinel.io/) - Android / iOS / Mac 2FA
@@ -304,7 +306,7 @@
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Google (searches) / Qwant (images) / DDG (auto-completes) / [GitHub](https://github.com/Extravi/araa-search) 
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances 
-* [Whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance  / Uses Google
+* [Whoogle](https://github.com/benbusby/whoogle-search?tab=readme-ov-file#public-instances) - Whoogle Instance / Uses Google
 * [LibreY](https://github.com/Ahwxorg/librey) - Privacy Respecting Metasearch Engine
 * [4get](https://4get.ca/) - Proxy Search Engine / [Git](https://git.lolcat.ca/lolcat/4get)
 * [Mojeek](https://www.mojeek.com/) / [Subreddit](https://www.reddit.com/r/mojeek/) 
@@ -392,7 +394,6 @@
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/)
-* [Velocity](https://velocity.radon.games/) / [GitHub](https://github.com/cohenerickson/Velocity)
 * [Delusionz](https://delusionz.xyz/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
@@ -410,7 +411,7 @@
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [GitHub](https://github.com/Psiphon-Inc/psiphon)
-* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250mb / [GitHub](https://github.com/getlantern/lantern)
+* [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria) 

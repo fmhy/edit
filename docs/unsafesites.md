@@ -51,7 +51,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
-* AppDoze - Caught with [malware](https://tria.ge/250116-n26dpayphx), sources content from unsafe sites like FileCR. Comparison:  [FileCR](https://tria.ge/250113-r2t77sxqbj) / [AppDoze](https://tria.ge/250113-ryfkmsxnfq)
+* AppDoze - Caught with [malware](https://tria.ge/250116-n26dpayphx), sources content from unsafe sites like FileCR. Comparison: [FileCR](https://tria.ge/250113-r2t77sxqbj) / [AppDoze](https://tria.ge/250113-ryfkmsxnfq)
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/fmhy/edit/pull/307)
@@ -72,7 +72,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
-* [Fake 1337x Sites](https://pastebin.com/cpnVRy1A)
+* [Fake 1337x Sites](https://i.ibb.co/2YHqHmVW/image.png) / [2](https://i.imgur.com/gFZjaVh.png)
 
 ***
 
@@ -86,15 +86,15 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * Avira - Owned by Gen Digital
-* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/).
+* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
-* Flix Vision -  Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835).
+* Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy is unrelated
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
-* Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid.
+* Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
 
 ***
 

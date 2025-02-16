@@ -58,7 +58,7 @@
 * [OLI](https://oli.cmu.edu/independent-learner-courses/) - Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Video Lectures](https://videolectures.net/) - Lectures
-* [Gresham College](https://www.gresham.ac.uk/) / [YouTube](https://www.youtube.com/@GreshamCollege/videos) - Lectures / Signup Required
+* [Gresham College](https://www.gresham.ac.uk/) - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos) 
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 
 ***
@@ -73,7 +73,6 @@
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
-* ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[InfiCourses](https://www.inficourses.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
@@ -94,7 +93,7 @@
 
 ## ▷ Torrenting
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting.
 
 ***
 
@@ -129,7 +128,7 @@
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to Search for Open Educational Resources
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
-* [Memory Toys](https://memory.toys/), [Dual N-Back](https://dualn-back.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
+* [Memory Toys](https://memory.toys/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Information Is Beautiful](https://informationisbeautiful.net/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
@@ -210,6 +209,7 @@
 
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
+* [⁠Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
@@ -397,7 +397,7 @@
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
+* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Citywalki](https://www.citywalki.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
@@ -458,7 +458,7 @@
 * ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/audio-and-ringtones/) / [Documents](https://ntrs.nasa.gov/search)
 * ⭐ **[JPL Photojournal](https://photojournal.jpl.nasa.gov/)** or [JPL Images](https://www.jpl.nasa.gov/images) - JPL Planetary Image Archives
-* ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/ ) - Moon Landing Images
+* ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Moon Landing Images
 * ⭐ **[In The Sky](https://in-the-sky.org/)** - Astronomy News / Interactive Guides
 * [ViewSpace](https://viewspace.org/) - Space Videos and Digital Interactives
 * [ESA](https://www.esa.int/) - European Space Agency Website
@@ -514,35 +514,17 @@
 ## ▷ Math
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
 * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
-* ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - Math Roadmap
-* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.live/) - Adaptive Problem Solving
-* ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators
+* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu), [ti-84calculatoronline](https://ti-84calculatoronline.com), [TI 84 Calculator](https://ti84calculator.co/en-US), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
-* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
-* [Omnimaga](https://www.omnimaga.org/index.php) - Calculator Community / Forums
 * [Wolfram MathWorld](https://mathworld.wolfram.com/), [Encyclopedia Of Math](https://encyclopediaofmath.org/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematic Encyclopedias
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
-* [OmniCalculator](https://www.omnicalculator.com/) - Calculators
-* [GoodCalculators](https://goodcalculators.com/) - Calculators
-* [GigaCalculator](https://www.gigacalculator.com/) - Calculators
-* [numbr.dev](https://numbr.dev/) - Calculators
-* [Aqua Calc](https://www.aqua-calc.com/) - Calculators
-* [PlanetCalc](https://planetcalc.com/) - Calculators
-* [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
-* [ThomasOkken](https://thomasokken.com/) - HP-42S Calculator 
-* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
-* [Qalculate](https://qalculate.github.io/) - Desktop Calculator
-* [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [Mathcha](https://www.mathcha.io/) or [Math Editor](https://math-editor.online/) - Online Math Editors
+* [Mathcha](https://www.mathcha.io/), [⁠Corca](https://corca.app/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
@@ -551,17 +533,12 @@
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - Mathematics Book Recommendations
 * [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [OneConvert](https://oneconvert.org/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
-* [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
-* [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
-* [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [⁠MathJax](https://www.mathjax.org/) - JavaScript Math Display
-* [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
-* [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
-* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
+* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations / Problems
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
@@ -576,7 +553,6 @@
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
-* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 
 ***
 
@@ -585,7 +561,7 @@
 * 🌐 **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Resources
 * 🌐 **[/r/EngineeringStudents Resources](https://www.reddit.com/r/EngineeringStudents/wiki/resources)** - Engineering Student Resources
 * 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** - Mechanical Engineering Resources
-* 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** -  Electronic Engineering Resources
+* 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 * 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cad_engineering)**
@@ -756,9 +732,9 @@
 * [LanguageGuide](https://www.languageguide.org/) - Visual Language Learning
 * [clozemaster](https://www.clozemaster.com/) - Context-Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
-* [MORT](https://github.com/killkimno/MORT) or [Textractor](https://github.com/Artikash/Textractor) -  Learn Languages via Games
+* [MORT](https://github.com/killkimno/MORT) or [Textractor](https://github.com/Artikash/Textractor) - Learn Languages via Games
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
+* [Hey! Lingo](https://www.okydoky.app/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
@@ -791,7 +767,7 @@
 * [EFSET](https://www.efset.org/) - English Proficiency Test
 * [Spellcheck](https://spellcheck.xyz) - English Spelling Game
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
-* [EnglishCentral](https://www.englishcentral.com/), [EngVid](https://www.engvid.com/ ) or [Voscreen](https://voscreen.com/) - English Video Lessons
+* [EnglishCentral](https://www.englishcentral.com/), [EngVid](https://www.engvid.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
 * [Frenglish](https://frenglish.ru/) - English Learning Books
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
 * [TalkEnglish](https://www.talkenglish.com/) or [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - Improve Spoken English
@@ -863,14 +839,14 @@
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons
-* [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/home.do?lang=en) - Learn Chinese Character Stroke Order
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
-* [Cantonese.ca](https://cantonese.ca/), [Laoshi](https://laoshi.io/) or [TofuLearn](https://www.tofulearn.com/) - Chinese Vocabulary
+* [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/), [Laoshi](https://laoshi.io/) or [TofuLearn](https://www.tofulearn.com/) - Chinese Vocabulary
 * [MDBG](https://www.mdbg.net/) or [Pleco](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem) - Chinese Dictionaries
 * [Maorma](https://www.maorma.net/) - Chinese Tone Practice
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
+* [MandoBot](https://mandobot.netlify.app/) - Mandarin Translation / Segementation
 
 ***
 
@@ -941,7 +917,7 @@
 * ⭐ **[OpenVim](https://openvim.com/)** or [⁠Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)** or [Learn SQL](https://sqlbolt.com/) - SQL Lessons
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Contribution Guides for Beginners
-* [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
+* [Beej's Guide to Git](https://beej.us/guide/bggit/), [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
 * [Git+ Coach](https://github.com/vishal2376/git-coach) - Git Learning App
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
@@ -949,6 +925,7 @@
 * [Git-it](https://github.com/jlord/git-it-electron) - Learn CLI Git & GitHub
 * [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
+* [⁠WizardZines](https://wizardzines.com/comics/) - Dev Learning Comics / [GitHub](https://github.com/nendonerd/wizardzines)
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Dev.tube](https://dev.tube/) - Developer Talks
@@ -990,7 +967,7 @@
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [LearningSEO.io](https://learningseo.io/) or [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Learning
 * [SQL PD](https://sqlpd.com/), [Lost at SQL](https://lost-at-sql.therobinlord.com/) or [SQL Easy](https://www.sql-easy.com/) - SQL Learning Games
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
+* [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
@@ -1134,6 +1111,7 @@
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
+* [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
@@ -1194,9 +1172,9 @@
 * 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [CTF101](https://ctf101.org/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Resources / Guides
 * ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
-* ⭐ **[HackTricks](https://book.hacktricks.xyz/)** - Practical Penetration Testing & Security Auditing Tips
+* ⭐ **[HackTricks](https://book.hacktricks.wiki/)** - Practical Penetration Testing & Security Auditing Tips
 * ⭐ **[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/)** - Application Security Guide
-* [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
+* [Skills for All](https://www.netacad.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
 * [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [Addielamarr](https://publish.obsidian.md/addielamarr/), [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
@@ -1242,10 +1220,10 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/), [PixelPaper](https://pixelpaper.io/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [⁠FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
-* [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
+* [Altium](https://www.altium365.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
@@ -1274,7 +1252,7 @@
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
+* ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Wiki-Style Articles for Anything
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
@@ -1287,7 +1265,7 @@
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Lurnby](https://www.lurnby.com)- Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby) 
+* [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby) 
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
@@ -1301,25 +1279,24 @@
 * [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
-* [Studocuhack](https://github.com/danieltyukov/studocuhack), [DLStuDoc](https://dlstudocu.com/) or [DownStuDoc](https://downstudocu.com/) - Studocu Downloaders
+* [Studocuhack](https://github.com/danieltyukov/studocuhack) or [DLStuDoc](https://dlstudocu.com/) - Studocu Downloaders
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
-* [Study Material](https://rentry.co/FMHYBase64#study-material) - 11th / 12th Test Prep / Notes
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-* [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.co.uk/) or [Aglasem](https://aglasem.com/) - Exam Practice
-* [MajorTests](https://www.majortests.com/) - Practice Tests
+* [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/) or [Aglasem](https://aglasem.com/) - Exam Practice
+* [MajorTests](https://www.123helpme.com/) - Practice Tests
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
 * [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [Revisely](https://www.revisely.co.uk/) - GCSE Exam Help
+* [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
@@ -1337,14 +1314,43 @@
 
 * 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[JEE Hub](https://jeehub.vercel.app/)** - JEE / NEET PYQs
+* ⭐ **[JEE Hub](https://jeehub.vercel.app/)** or [⁠NovaTrain](https://novatra.in/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archive
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
 * [Adv Study Material](https://rentry.co/FMHYBase64#jee-study) - Guides / Study Material
-* [Novatra's Topicwise](https://quiz.novatra.in/) - JEE Practice Questions / [Chatbot](https://novatra.in/) / [Discord](https://discord.com/invite/bgVVDA7n3h)
 * [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
+
+***
+
+## ▷ Calculators
+
+* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
+* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
+* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
+* ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
+* ⭐ **[SageCalc](https://sagecalc.com/)**, **[ti84calc.online](https://ti84calc.online/)**, [CEmu](https://github.com/CE-Programming/CEmu), [ti-84calculatoronline](https://ti-84calculatoronline.com), [TI 84 Calculator](https://ti84calculator.co/en-US), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
+* ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators
+* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* [Omnimaga](https://www.omnimaga.org/index.php) - Calculator Community / Forums
+* [GoodCalculators](https://goodcalculators.com/) - Calculators
+* [GigaCalculator](https://www.gigacalculator.com/) - Calculators
+* [numbr.dev](https://numbr.dev/) - Calculators
+* [Aqua Calc](https://www.aqua-calc.com/) - Calculators
+* [PlanetCalc](https://planetcalc.com/) - Calculators
+* [TI-30 Calculator Online](https://ti84calc.online/ti-30) or [ti30calc](https://ti84calc.com/ti30) - TI-30XS Calculator
+* [TI-108 Calculator Online](https://ti84calc.online/ti-108) - TI-108 Calculator
+* [ThomasOkken](https://thomasokken.com/) - HP-42S Calculator 
+* [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
+* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
+* [Qalculate](https://qalculate.github.io/) - Desktop Calculator
+* [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
+* [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
+* [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
+* [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
+* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 
 ***
 
