@@ -500,7 +500,7 @@
 * [FootballOrigin](https://www.footballorgin.com/) - Football Replays
 * [123footy](https://123footy.com/) - Football Replays
 * [Soccer Full Match](https://soccerfullmatch.com/) - Football Replays
-* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
+* [/r/footballhighlights](https://www.reddit.com/r/footballhighlights/) - Football Replays
 * [Time Soccer TV](https://timesoccertv.com/) - Football Replays
 * [Full Match](https://fullmatch.info/) - Football Replays
 * [SoccerFull](https://soccerfull.net/) - Football Replays
