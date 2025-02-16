@@ -275,7 +275,8 @@
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leech
-* [Real-Debrid](https://real-debrid.com/) - Paid Debrid Service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD) / [Movies / TV](https://hdencode.org/)
+* [Real-Debrid](https://real-debrid.com/) - Paid Debrid Service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD) / 
+* [HDEncode](https://hdencode.org/) or [rlsdb](https://rlsdb.com/) - Movie / TV DDL Forums
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
 
