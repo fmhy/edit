@@ -499,7 +499,7 @@
 * [Quaternius](https://quaternius.com/) - Free Game Assets
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
-* [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
+* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
 * [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
@@ -539,8 +539,8 @@
 
 * ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
-* ⭐ **[r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
-* [r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools) - Hackintosh Tools
+* ⭐ **[/r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
+* [/r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools) - Hackintosh Tools
 * [Hackintosh Graphics Fix](https://rentry.org/fix-graphics)
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
@@ -1037,7 +1037,7 @@
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
 * ⭐ **[Primitive Technology](https://youtube.com/@primitivetechnology9550?si=NClgkWZP5Q3L_p_W)**
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) / [App](https://survivalmanual.github.io/)
-* [r/Preppers](https://www.reddit.com/r/preppers/)
+* [/r/Preppers](https://www.reddit.com/r/preppers/)
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe)
 
