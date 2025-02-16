@@ -322,7 +322,7 @@
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
-* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
@@ -362,7 +362,7 @@
 # ► Video Editing
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
-* ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
+* ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
