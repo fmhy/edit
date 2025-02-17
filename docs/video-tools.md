@@ -50,6 +50,7 @@
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
 * [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
 * [Dubz](https://dubz.co/) - 100MB / Forever
+* [EarnVids](https://earnvids.com/)
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
@@ -322,7 +323,7 @@
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
-* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
@@ -344,12 +345,10 @@
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
-* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [YouTubeDownload](https://youtubedownload.uk/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
-* [Yout](https://yout.com/) - Multi-Site / Online
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
@@ -362,7 +361,7 @@
 # ► Video Editing
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
-* ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
+* ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections

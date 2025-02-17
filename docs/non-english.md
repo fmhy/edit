@@ -43,8 +43,8 @@
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
-* [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.com/) - Anime
+* [zoroxtv](https://anime.zoroxtv.site/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [Flowind](https://flowind.net/) - Cartoons
@@ -88,6 +88,7 @@
 
 ## ▷ Reading / পড়া
 
+* ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
 * [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
@@ -98,7 +99,6 @@
 * [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Downloads
 * [boierpathshala](https://boierpathshala.com/pdf/) - Educational Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
-* [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) - Bangla Typing Tool / Spellcheck
 
 ## ▷ Downloading / ডাউনলোডিং
 
@@ -435,17 +435,18 @@
 
 ## ▷ Streaming
 
-* ⭐ **[SeeFrench](https://seefrench.site/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
 * [Darkiworld](https://darkiworld1.com/) - Movies / TV / Anime
+* [SeeFrench](https://seefrench.site/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
 * [Wiflix](https://wiflix-hd.kim/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023)
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
 * [streammovix](https://streammovix.vercel.app/) - Movies / TV / Anime
+* [vfstream](https://films.vfstream.eu/) - Movies / TV / Anime
 * [mymovix](https://mymovix.org/) - Movies
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account
@@ -561,7 +562,6 @@
 * [Dokumen](https://dokumen.pub/) - Books
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
-* [ComicMafia](https://comicmafia.to/) - Comics / Manga
 * [MyComics](https://www.mycomics.de/) - Comics
 * [Kanjiku](https://kanjiku.net/) - Manga
 * [Hoerbuch](https://hoerbuch.us/) - Audiobooks
@@ -769,6 +769,7 @@
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Doronime](https://doronime.id/) - Anime / Sub / 1080p
+* [lendrive](https://lendrive.web.id/ ) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Music
 
@@ -793,7 +794,6 @@
 * [Komikcast](https://komikcast.bz/) - Manga
 * [Mangaku](https://mangaku.lat/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
-* [Novelgo](https://novelgo.id/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
 
 ***
@@ -1162,7 +1162,6 @@ Italian
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
 * [Vizer](https://vizertv.in/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
-* [Topflixbrazil](https://topflixbrasil.net/) - Movies / TV / Dub / 1080p
 * [Mundofut](https://mundofut.co/) - Movies / TV / Dub / 1080p
 * [tugaflix](https://tugaflix.best) - Movies / TV / Sub / 1080p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
@@ -1386,6 +1385,7 @@ Italian
 
 * ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p
 * ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons / Dub / 1080p
+* ⭐ **[myfootball](https://myfootball.top/)** - Live Football
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.pro/) - Movies / TV / Dub / 1080p
@@ -1431,7 +1431,6 @@ Italian
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://live.domatv.net/) - Live TV
-* [myfootball](https://myfootball.top/) - Live Football
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:\\music\\](https://vk.com/e_music) - Music
@@ -1477,6 +1476,7 @@ Italian
 * [Samlib](http://samlib.ru/) - Document Search
 * [militera](http://militera.org/) - Military History
 * [Arzamas](https://arzamas.academy/) - Cultural History
+* [geokniga](https://www.geokniga.org/) - Geology Documents
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
 * [Baza Knig](https://baza-knig.ink/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аkniga](https://akniga.org/), [Bibl](https://m.biblus.in/), [Knizhkin](https://knizhkin.net/) or [Bibl.us](https://bibl.us/) - Audiobooks
 * [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
@@ -1674,9 +1674,6 @@ Italian
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
-* [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
-* [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
-* [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [TuMangaOnline](https://visortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
@@ -1697,6 +1694,10 @@ Italian
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
+* [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
+* [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
+* [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
+* [rincondelvago](https://www.rincondelvago.com/) - Academic Documents
 
 ***
 

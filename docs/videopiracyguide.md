@@ -19,19 +19,20 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)**, [2](https://www.1shows.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/456movies)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
+* ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / 4K
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
-* ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 4K / Auto-Next
+* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / 4K / [Discord](https://discord.gg/ajRY6Bn3rr)
-* [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / 4K / Auto-Next
+* [Hexa](https://hexa.watch/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / [4K Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png) / [Discord](https://discord.gg/streamflix)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / [Discord](https://discord.gg/MCt2R9gqGb) / [Telegram](https://t.me/+MQUUqEx2WXA0ZmZk)
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/tDKYeh9eQn)
 * [Mokmobi](https://mokmobi.ovh/), [2](https://mokmobi.site/) - Movies / TV / Anime
-* [uira.live](https://uira.live/) - Movies / TV / Anime / 4K
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / 4K / [Discord](https://l.cinemadeck.com/discord)
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [StigStream](https://stigstream.com/), [2](https://stigstream.xyz), [3](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
@@ -372,6 +373,7 @@
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
 * [Rive Live](https://rivestream.live/iptv) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
+* [AlienFlix TV](https://alienflix.net/live) - TV
 * [NTV](https://tvstreamline.com/) - TV / Sports
 * [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
@@ -415,6 +417,7 @@
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
 * [RiveStream](https://rivestream.live/livesports) - Sports
+* [AlienFlix Sports](https://alienflix.net/live/matches) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports / Stream Aggregator
 * [GallaTube Sports](https://galla.tube/sports) - Sports
 * [Sportea](https://s1.sportea.link/) - Sports
@@ -500,7 +503,7 @@
 * [FootballOrigin](https://www.footballorgin.com/) - Football Replays
 * [123footy](https://123footy.com/) - Football Replays
 * [Soccer Full Match](https://soccerfullmatch.com/) - Football Replays
-* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Football Replays
+* [/r/footballhighlights](https://www.reddit.com/r/footballhighlights/) - Football Replays
 * [Time Soccer TV](https://timesoccertv.com/) - Football Replays
 * [Full Match](https://fullmatch.info/) - Football Replays
 * [SoccerFull](https://soccerfull.net/) - Football Replays
@@ -549,7 +552,7 @@
 
 # ► Smart TV / Firestick
 
-* ⭐ **[Tizentube](https://tizentube.vercel.app/)** - Ad-Free Samsung Smart TV YouTube
+* ⭐ **[Tizentube](https://tizenbrew.vercel.app/)** - Ad-Free Samsung Smart TV YouTube
 * ⭐ **[webOS Homebrew](https://www.webosbrew.org/)** - LG TV Homebrew / [Guide](https://gist.github.com/VVispy/044cd8005260b270728e1d9aa8f6af51)
 * [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
@@ -601,7 +604,7 @@
 * ⭐ **[VegaMovies](https://vegamovies.ms/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/rgshows)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
+* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Leech](https://fastdebrid.com/) / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
@@ -815,8 +818,8 @@
 
 ## ▷ Database / Tracking
 
-* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
+* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
 * ⭐ **[FlickMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
