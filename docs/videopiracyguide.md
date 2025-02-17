@@ -19,7 +19,7 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)**, [2](https://www.1shows.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/456movies)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
-* ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / 4K
+* ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / 4K / Auto-Next
@@ -160,6 +160,7 @@
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / [Discord](https://discord.com/invite/XrkPwBda)
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
 * [LMANIME](https://lmanime.com/) - Chinese Anime / Sub
+* [⁠CKSub](https://cksub.org/) - Chinese Anime / Sub
 * [MyAnime](https://myanime.live/) - Chinese Anime / Sub
 * [AnimeKhor](https://animekhor.org/) - Chinese Anime / Sub / [Telegram](https://t.me/AnimeKhorOfficial)
 * [Crimson Subs](https://crimsonfansubs.com/) - Chinese Anime / Sub / Sub / [Discord](https://discord.gg/PmYn97vtue)
