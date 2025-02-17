@@ -189,5 +189,5 @@
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
 * [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - Browser Torrent Creator
 * [Torrent Parts](https://torrent.parts/) or [Torrent File Editor](https://torrent-file-editor.github.io/) - Edit Torrents Files
-* [/r/torrents](https://reddit.com/r/torrents) or [r/VPNTorrents](https://reddit.com/r/vpntorrents) - Torrenting Discussion
+* [/r/torrents](https://reddit.com/r/torrents) or [/r/VPNTorrents](https://reddit.com/r/vpntorrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)
