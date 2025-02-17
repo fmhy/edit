@@ -745,36 +745,31 @@
 
 ## ▷ Image Hosts
 
-* Note - Size values are provided per one file unless specified otherwise; entries are No Signup unless specified otherwise.
-
-***
-
 * ⭐ **[⁠PixVid](https://pixvid.org/)** - 32MB / Forever
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Postimages](https://postimages.org/)** - 32MB / Forever
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Compression](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit)
+* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) /  [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+* [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit)
 * Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu)
-* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) /  [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed) / Signup Required
-* [Unsee](https://unsee.cc/) - Confidential Image Host / IP Watermark Protection / Auto-delete / Chat / 10MB / 6 hours / Signup Required
-* [FreeImage.Host](https://freeimage.host/) - 64MB / Forever / Sign Up for 128MB
+* [Unsee](https://unsee.cc/) - 10MB / 6 Hours / Signup Required / Online Gallery
+* [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Signup Required / Online Gallery
+* [lookimg](https://lookimg.com/) - 20MB / Forever / Signup Required / Online Gallery
+* [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Signup Required / Online Gallery
+* [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever / Online Gallery
+* [Piczel](https://piczel.tv/) - 10MB / Forever / Signup Required / Online Gallery
+* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
 * [imgbox](https://imgbox.com/) - 10MB / Forever
 * [vgy](https://vgy.me/) - 20MB / 1 year / Signup Required
 * [i](https://tikolu.net/i/) - 8MB / Forever
-* [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Custom User Page / Free Subdomain Registration / Signup Required
-* [lookimg](https://lookimg.com/) - 20MB / Forever / Shareable User Profile / Signup Required
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
-* [Horizon](https://horizon.pics/) - 500MB Storage Total / 75MB / Forever / Compression / Shareable User Profile / Signup Required 
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
-* [BayIMG](https://bayimg.com/) - 100MB / Forever / Uncensored
+* [BayIMG](https://bayimg.com/) - 100MB / Forever
 * [Imagem](https://imagem.app/?lang=en) - 5MB / Forever
-* [talaikis](https://ipfs.talaikis.com/upload)
-* [imgchest](https://imgchest.com/) - 10MB / Forever / Uncensored / Shareable Posts / Signup for 30MB
-* [upanhtv](https://upanh.tv/) - 20MB / Forever / Signup for 50MB
+* [upanhtv](https://upanh.tv/) - 20MB (50MB with Account) / Forever
 * [Lutim](https://lutim.lagout.org/) - 20MB / Forever
 * [anhsieuviet](https://anhsieuviet.com/?lang=en) - 10MB / Forever
 * [FastPic](https://fastpic.org/) - 25MB / Forever
-* [Piczel](https://piczel.tv/) - 10MB / Forever / Shareable Posts / Signup Required
 
 ***
 
