@@ -43,7 +43,7 @@
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [X](https://x.com/The_Pi_Hole)
-* ⭐ **Pi-Hole Tools** - [WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry)
+* ⭐ **Pi-Hole Tools** - [WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
@@ -351,7 +351,7 @@
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
 * [WGDashboard](https://donaldzou.github.io/WGDashboard-Documentation/) - WireGuard Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
 * [OpenVPN](https://openvpn.net/) or [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnels
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
+* [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
 * [VpnHood](https://github.com/vpnhood/VpnHood), [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/) - Self-Hosted VPNs
 * [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - Pi-Hole + WireGuard on Google Cloud
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/) / [GitLab](https://gitlab.com/openconnect/openconnect)

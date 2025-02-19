@@ -60,6 +60,13 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [Image Resizer](https://photo.valueweb.gr/) - Simple Editor
+* [PicSynth](https://www.picsynth.me/) - Multi-Tool
+* [Ribbet](https://ribbet.ai/) - Multi-Tool
+* [RedKetchup](https://redketchup.io/) - Multi-Tool
+* [Img2Go](https://www.img2go.com/) - Multi-Tool
+* [fffuel](https://fffuel.co/) - Multi-Tool
+* [AIEase](https://www.aiease.ai/) - Multi-Tool
+* [Mara](https://mara.photos/) - Multi-Tool
 
 ***
 
@@ -77,7 +84,6 @@
 * [⁠IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online / No Signup
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online / No Signup
 * [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling / Online / No Signup
-* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Signup
 * [Photo Magic AI](http://photomagicai.com/) - Image Upscaling / Self-Host / No Signup
 * [⁠Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Host / No Signup
 * [Superimage](https://superimage.io/) - Image Upscaling / Self-Host / Android Only
@@ -105,6 +111,7 @@
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 * [Ihancer](https://ihancer.com) - Image Optimization
 * [Waifu2x](https://waifu2x.booru.pics) - Image Optimization
+* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Signup
 
 ***
 
@@ -596,7 +603,6 @@
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
 * ⭐ **[Slowpoke Pics](https://slow.pics/)**, [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
-* [PicSynth](https://www.picsynth.me/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -743,44 +749,45 @@
 
 ***
 
+## ▷ Online Galleries
+
+* ⭐ **[Postimages](https://postimages.org/)** - 32MB / Forever
+* [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit)
+* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu)
+* [Unsee](https://unsee.cc/) - 10MB / 6 Hours / Signup Required
+* [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Signup Required
+* [lookimg](https://lookimg.com/) - 20MB / Forever / Signup Required
+* [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Signup Required
+* [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
+* [Piczel](https://piczel.tv/) - 10MB / Forever / Signup Required
+
+***
+
 ## ▷ Image Hosts
 
-* ⭐ **[⁠PixVid](https://pixvid.org/)**
-* ⭐ **[ImgBB](https://imgbb.com/)**
-* ⭐ **[Postimages](https://postimages.org/)**
-* ⭐ **[Catbox.moe](https://catbox.moe/)**
-* [Imgur](https://imgur.com/)
-* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu)
-* [pixelfed](https://pixelfed.org/) - Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
-* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
-* [FreeImage.Host](https://freeimage.host/)
-* [imgbox](https://imgbox.com/)
-* [vgy](https://vgy.me/)
-* [Catimage](https://catimages.org/)
-* [i](https://tikolu.net/i/)
-* [tixte](https://tixte.com/)
-* [lookimg](https://lookimg.com/)
-* [imagebam](https://www.imagebam.com/)
-* [Horizon](https://horizon.pics/)
-* [imagevenue](https://www.imagevenue.com/)
-* [BayIMG](https://bayimg.com/)
-* [Imagem](https://imagem.app/?lang=en)
-* [talaikis](https://ipfs.talaikis.com/upload)
-* [imgchest](https://imgchest.com/)
-* [upanhtv](https://upanh.tv/)
-* [Lutim](https://lutim.lagout.org/)
-* [BeeIMG](https://beeimg.com/)
-* [anhsieuviet](https://anhsieuviet.com/?lang=en)
-* [FastPic](https://fastpic.org/)
-* [dutov](https://dutov.org/)
-* [Piczel](https://piczel.tv/) - Online Art Gallery
+* ⭐ **[⁠PixVid](https://pixvid.org/)** - 32MB / Forever
+* ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
+* ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
+* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
+* [imgbox](https://imgbox.com/) - 10MB / Forever
+* [vgy](https://vgy.me/) - 20MB / 1 year / Signup Required
+* [i](https://tikolu.net/i/) - 8MB / Forever
+* [imagebam](https://www.imagebam.com/) - 20MB / Forever
+* [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
+* [BayIMG](https://bayimg.com/) - 100MB / Forever
+* [Imagem](https://imagem.app/?lang=en) - 5MB / Forever
+* [upanhtv](https://upanh.tv/) - 20MB (50MB with Account) / Forever
+* [Lutim](https://lutim.lagout.org/) - 20MB / Forever
+* [anhsieuviet](https://anhsieuviet.com/?lang=en) - 10MB / Forever
+* [FastPic](https://fastpic.org/) - 25MB / Forever
 
 ***
 
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://sxcu.net/), [2](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
-* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/ass) - Self-Hosted ShareX Server
+* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [FRAMED.](https://framedsc.com/index.htm) - Screenshot Tips
 * [Greenshot](https://getgreenshot.org/)

@@ -357,8 +357,6 @@
 ## ▷ Comics
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[ReadAllComics](https://readallcomics.com/)**
-* ⭐ **[AZComix](https://azcomix.me/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[GoComics](https://www.gocomics.com/)** - Comics Strips
@@ -366,10 +364,8 @@
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomic.com/)
-* [GallaTube Comics](https://galla.tube/comics/)
 * [ComicsOnlineFree](https://comiconlinefree.me/)
 * [Read Comics Online](https://readcomicsonline.ru/)
-* [Zip Comic](https://www.zipcomic.com/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
@@ -406,7 +402,7 @@
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_reading_.2F_.8AAD.66F8)**
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
-* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) / [Discord](https://discord.gg/comick)
+* ⭐ **[ComicK](https://comick.io/)** / [Discord](https://discord.gg/comick)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[MangaPark](https://mangapark.net/)** / [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
@@ -483,7 +479,6 @@
 * [Ocean of EPUB](https://oceanofepub.com/) / Allows Downloads
 * [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
 * [wuxiabee](https://www.wuxiabee.net/)
-* [List Novel](https://listnovel.com/)
 * [NobleMTL](https://noblemtl.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
@@ -779,7 +774,7 @@
 ## ▷ Documents / Articles
 
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/), [3](https://papermatch.mitanshu.tech/) / [Chatbot](https://github.com/evanhu1/talk2arxiv), [2](https://explainarxiv.org/), [3](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
+* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://searchthearxiv.com/), [2](https://papermatch.mitanshu.tech/) / [Chatbot](https://github.com/evanhu1/talk2arxiv), [2](https://explainarxiv.org/), [3](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
 * ⭐ **[Nexus search](https://t.me/nexus_search/94)**, [2](https://t.me/nexus_search/214) - Science / Articles
@@ -848,7 +843,7 @@
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
-* [C.H.A.R.M](https://charm.li/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
+* [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
@@ -901,7 +896,6 @@
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
-* [Pickwick](https://pickwick.app/) - Fanfiction / Story Database
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database

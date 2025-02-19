@@ -879,6 +879,7 @@
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)**, [DMS](https://github.com/anacrolix/dms) or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
+* [Flixquest](https://flixquest.beamlak.dev/) - Movies / TV / Anime
 * [Cinema HD](https://rentry.co/FMHYBase64#cinema-hd) - Movies / TV
 * [Movie HD](https://rentry.co/FMHYBase64#movie-hd) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://rentry.co/FMHYBase64#vivatv) - Movies / TV / Requires TPlayer
@@ -1134,7 +1135,7 @@
 * [Brave](https://apps.apple.com/app/id1052879175), [Firefox Focus](https://apps.apple.com/app/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy-Based Browsers
 * [Element](https://apps.apple.com/app/id1083446067) or [FluffyChat](https://apps.apple.com/app/id1551469600) - Matrix Clients
 * [Jami](https://jami.net/) or [MySudo](https://anonyome.com/individuals/mysudo/) - Encrypted Messaging / Video Calls
-* [ProtonMail](https://apps.apple.com/app/id979659905) or [Tuta](https://tuta.com/) - Encrypted Emailing Service
+* [Proton Mail](https://apps.apple.com/app/id979659905) or [Tuta](https://apps.apple.com/app/id922429609) - Encrypted Emailing Service
 * [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) - Proxy App
 
 ***

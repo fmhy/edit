@@ -352,7 +352,7 @@
 
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
-[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/), [ToyBox](https://toybox.toms.toys/)
+[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/), [ToyBox](https://toybox.toms.toys/), [DO ONLINE NOW GUYS](http://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html)
 
 ***
 
@@ -397,45 +397,53 @@
 
 ## Free Webhosting Sites
 
-* ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 100GB traffic / Unlimited DB
-* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB disk / Unlimited traffic / 13 DB
-* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB disk / Unlimited / Unlimited
-* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB disk / Unlimited traffic / 2 DB
-* [AwardSpace.com](https://www.awardspace.com/) - 1GB disk / 5GB traffic / 1 DB
-* [GoogieHost.com](https://googiehost.com/) - 1GB disk / 100GB traffic / 2 DB
-* [Freehostia.com](https://www.freehostia.com/) - 250MB disk / 6GB traffic / 1 DB
-* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB disk / 4GB traffic / 1 DB
-* [Batcave.net](https://batcave.net/) - 1GB disk / 5GB traffic / 1 DB
-* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
-* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB disk / 5GB traffic / 1 DB
-* [100WebSpace.com](https://www.100webspace.com/) - 100MB disk / 3GB traffic / 1 DB
-* [50Webs.com](https://www.50webs.com/) - 500MB disk / 5GB traffic / 0 DB
-* [Somee.com](https://somee.com/) - 150MB disk / 5GB traffic / 1 DB
-* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB disk / 5GB traffic / 1 DB
-* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB disk / 5GB traffic / 1 DB
-* [Biz.ly](https://www.biz.ly/) - 50MB disk / 1GB traffic / 0 DB
-* [biz.ht](https://biz.ht/) - 1GB disk / 5GB traffic / 1 DB
-* [Freehostspace.com](https://www.freehostspace.com/) - 1GB disk / 5GB traffic / 1 DB
-* [RUNHOSTING.com](https://runhosting.com/) - 1GB disk / 5GB traffic / 1 DB
-* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB disk / 5GB traffic / 0 DB
-* [Freehostpro.com](https://www.freehostpro.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Redwebhost.com](https://www.redwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Tekcities.com](https://www.tekcities.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB disk / 5GB traffic / 1 DB
-* [125mb.com](https://www.125mb.com/) - 1GB disk / 5GB traffic / 1 DB
-* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB disk / Unlimited traffic / Unlimited DB
-* [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-* [glitch](https://glitch.com/)
-* [biz.nf](https://www.biz.nf/)
-* [ibm cloud](https://www.ibm.com/cloud/free)
+### Dynamic Page Hosting
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB storage / 100GB bandwidth / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB storage / Unlimited bandwidth / 16 DB / Limited registration
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB storage / Unlimited bandwidth / Unlimited DB
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB storage / Unlimited bandwidth / 2 DB
+* [InfinityFree](https://infinityfree.com/) - 5GB storage / Unlimited bandwidth / 400 DB
+* [byet.host](https://byet.host/free-hosting) - 1GB storage / 50GB bandwidth / 5 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1GB storage / 100GB bandwidth / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250MB storage / 6GB bandwidth / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB storage / 4GB bandwidth / 1 DB
+* [Batcave.net](https://batcave.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100MB storage / 3GB bandwidth / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500MB storage / 5GB bandwidth / 0 DB
+* [Somee.com](https://somee.com/) - 150MB storage / 5GB bandwidth / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50MB storage / 1GB bandwidth / 0 DB
+* [biz.ht](https://biz.ht/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Freehostpro.com](https://www.freehostpro.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [biz.nf](https://www.biz.nf/) - 1GB storage / 5GB bandwidth / 1 DB
+* [ATSPACE](https://www.atspace.com/) - 1GB storage / Unlimited bandwidth / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
+* [Leprd](https://leprd.space/) - 1GB storage / 10GB bandwidth / Unlimited DB / Limited registration
+* [x10hosting](https://x10hosting.com/) - 500MB storage / Unlimited bandwidth / 2 DB
+* [Profreehost](https://profreehost.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
+* [pythonanywhere](https://www.pythonanywhere.com/)
+* [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
-* [stormkit](https://www.stormkit.io/)
-* [milkshake](https://milkshake.app/)
-* [atspace](https://www.atspace.com/)
+* [Stormkit](https://www.stormkit.io/)
+* [Glitch](https://glitch.com/)
 
 ### Static Page Hosting
 
+* ⭐ **[surge](https://surge.sh/)**
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
@@ -446,50 +454,39 @@
 * ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * [Web 1.0 Hosting](https://web1.0hosting.net/)
 * [Codeberg Pages](https://codeberg.page/)
-* [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
 * [DropPages](https://droppages.com/)
 * [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [render](https://render.com/)
+* [Render](https://render.com/)
 * [Straw.Page](https://straw.page/)
 * [Own Free Website](https://www.own-free-website.com)
 * [itty.bitty](https://itty.bitty.site/)
-* [⁠Staclo](https://staclo.host/)
+* [Staclo](https://staclo.host/)
 * [mmm](https://mmm.page/)
-* [cargo](https://cargo.site/)
-* [Jigsy](https://jigsy.com/)
 * [Temper](https://temper.one/)
 * [GitBook](https://www.gitbook.com/)
-* [Mobirise](https://mobirise.com/)
-* [Silex](https://www.silex.me/)
-* [Publii](https://getpublii.com/)
 * [Kinsta](https://kinsta.com/static-site-hosting/)
 * [Pelican](https://getpelican.com/)
 * [Reocities](https://www.reocities.xyz/)
 * [yay.boo](https://yay.boo/)
-
-### Dynamic Page Hosting
-
-* ⭐ **[netlify](https://www.netlify.com/)**
-* ⭐ **[vercel](https://vercel.com/)**
-* [infinityfree](https://infinityfree.com/) - 5GB space
-* [byet.host](https://byet.host/free-hosting) - 5GB Space
-* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space
-* [pythonanywhere](https://www.pythonanywhere.com/)
-* [Glitch](https://glitch.com/)
+* [Publii](https://getpublii.com/)
 
 ### Website Builders
 
 * **Note** - These are generally made for businesses only.
-* [site123](https://www.site123.com/)
-* [tilda](https://tilda.cc/)
-* [x10hosting](https://x10hosting.com/)
-* [olitt](https://www.olitt.com/)
-* [yola](https://www.yola.com/)
-* [bravenet](https://www.bravenet.com/)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [WebStudio](https://webstudio.is/) - Code Editor
 * [Flounder](https://flounder.online/) - Website Building Discussion
+* [site123](https://www.site123.com/)
+* [tilda](https://tilda.cc/)
+* [olitt](https://www.olitt.com/)
+* [yola](https://www.yola.com/)
+* [bravenet](https://www.bravenet.com/)
+* [cargo](https://cargo.site/)
+* [Jigsy](https://jigsy.com/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
 
 ***
 
@@ -519,7 +516,6 @@
 * [AREDL](https://aredl.net/) - All Rated Extreme Demons List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
-* [MobileWRList](https://gdmobilewrlist.com/main) - Mobile World Records List
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
 * [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
 * [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
@@ -689,7 +685,7 @@
 
 ### Trakt Tools
 
-[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/) / [List Import](https://github.com/damienhaynes/TraktRater)
+[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/) / [List Import](https://github.com/damienhaynes/TraktRater)
 
 ### Letterboxd Tools
 

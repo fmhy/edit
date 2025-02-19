@@ -111,6 +111,7 @@
 * [seemless](https://www.linkinbio.website/) - Link in Bio for TikTok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
+* [milkshake](https://milkshake.app/)
 
 ***
 
@@ -505,7 +506,6 @@
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [MailTickingl](https://www.mailticking.com/) - Gmail / 2 Domains
@@ -550,6 +550,8 @@
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
 * [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
+* [TrashMail](https://trashmail.com/) - Email Aliasing
+* [Adguard Mail](https://adguard-mail.com/) - Email Aliasing
 
 ***
 

@@ -281,7 +281,7 @@
 # ► Multiplayer Tools
 
 * ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/)
-* [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
+* [Liquipedia](https://liquipedia.net/) - Competitive Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 
 ***
