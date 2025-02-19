@@ -43,7 +43,7 @@
 
 * ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
-* ⭐ **[SophiScript](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater / Win 10 Only
+* ⭐ **[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows)** - Debloater
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
@@ -257,7 +257,7 @@
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
-* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
+* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)** or **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) - Adjust Monitor Brightness
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
@@ -417,7 +417,7 @@
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
-* [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
+* [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/), [Vin Star Theme](https://www.vinstartheme.com/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Dynamic Desktop Themes

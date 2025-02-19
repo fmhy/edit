@@ -13,6 +13,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) or [DataShare](https://datashare.icij.org/) - Document Managers
+* [⁠SmartDoc](https://killytoronto.github.io/textanalyzer/) - Document Analyzer
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
@@ -119,7 +120,7 @@
 
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
-* ⭐ **[Base64 Decode](https://www.base64decode.org/)**, [Base64 Editor](https://nimadez.github.io/base64/) or [Base64 E/D](https://apps.maximelafarie.com/base64/) - Encode / Decode Base64
+* ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 Editor](https://nimadez.github.io/base64/) - Encode / Decode Base64
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding

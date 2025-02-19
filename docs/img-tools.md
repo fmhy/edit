@@ -60,6 +60,13 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [Image Resizer](https://photo.valueweb.gr/) - Simple Editor
+* [PicSynth](https://www.picsynth.me/) - Multi-Tool
+* [Ribbet](https://ribbet.ai/) - Multi-Tool
+* [RedKetchup](https://redketchup.io/) - Multi-Tool
+* [Img2Go](https://www.img2go.com/) - Multi-Tool
+* [fffuel](https://fffuel.co/) - Multi-Tool
+* [AIEase](https://www.aiease.ai/) - Multi-Tool
+* [Mara](https://mara.photos/) - Multi-Tool
 
 ***
 
@@ -596,7 +603,6 @@
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
 * ⭐ **[Slowpoke Pics](https://slow.pics/)**, [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
-* [PicSynth](https://www.picsynth.me/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -781,7 +787,7 @@
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://sxcu.net/), [2](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
-* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/ass) - Self-Hosted ShareX Server
+* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [FRAMED.](https://framedsc.com/index.htm) - Screenshot Tips
 * [Greenshot](https://getgreenshot.org/)

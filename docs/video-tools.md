@@ -381,7 +381,7 @@
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
 * [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
-* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review
 * [Remotion](https://www.remotion.dev/) - Video Editor
 * [Olive](https://www.olivevideoeditor.org/) - Video Editor
 * [EZVid](https://www.ezvid.com/) - Video Editor
@@ -411,6 +411,7 @@
 
 * ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
 * ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
+* [⁠wide.video](https://wide.video/)
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
 * [Kapwing](https://www.kapwing.com/)

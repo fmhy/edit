@@ -29,7 +29,7 @@
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots / [Discord](https://discord.gg/4rR282WJb6)
 * [Electron Hub](https://www.electronhub.top/) - Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
-* [feynChat](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
+* [feynChat](https://feyn.chat/) - GPT-4o / Multiple Chatbots / Phone # Required
 * [NexusAI](https://www.nexusmind.tech/) - GPT-4o / o1-preview / o3-mini / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [⁠Heck.ai](https://heck.ai/) - GPT-4o + Deepseek V3
 * [Lutton](https://wrtn.ai/) - GPT-4 / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lutton-note) / No Signup / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170)
@@ -40,12 +40,12 @@
 * [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
-* [Grok](https://grok.com/) - X.com Chatbot
+* [Grok](https://grok.com/) - X.com Chatbot / No Signup / [Discord](https://discord.com/invite/x-ai)
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / No Signup / [Discord](https://discord.gg/jtjNSD52mf)
-* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
+* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / Phone # Required / [Discord](https://discord.com/invite/joinpoe)
 * [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Onyx](https://www.onyx.app/) / [Discord](https://discord.gg/VKwU6Wr2) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.gg/VKwU6Wr2) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
 * [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Signup / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)
 * [Leon](https://getleon.ai/) - AI Assistant / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
@@ -55,7 +55,7 @@
 ## ▷ AI Search Engines
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Enchancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enchancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
@@ -100,6 +100,7 @@
 
 ## ▷ Roleplaying Chatbots
 
+* 🌐 **[⁠Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
 * 🌐 **[BestERP](https://besterp.ai/)** - Roleplaying LLM Lists
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Telegram](https://t.me/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
@@ -319,7 +320,7 @@
 * [getimg.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Aitubo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
-* [Poe](https://poe.com/) / 2-15 Daily / # Required / [Discord](https://discord.com/invite/joinpoe)
+* [Poe](https://poe.com/) / 2-15 Daily / Phone # Required / [Discord](https://discord.com/invite/joinpoe)
 * [Maze Guru](https://maze.guru/gallery) / 12 Daily / [Discord](https://discord.com/invite/maze-guru-ai-art-anime-social-1007166914801434634)
 * [PixAI](https://pixai.art/) / 5 Daily / [Discord](https://discord.com/invite/pixai)
 * [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)

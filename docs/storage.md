@@ -352,7 +352,7 @@
 
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
-[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/), [ToyBox](https://toybox.toms.toys/)
+[Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/), [ToyBox](https://toybox.toms.toys/), [DO ONLINE NOW GUYS](http://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html)
 
 ***
 
@@ -519,7 +519,6 @@
 * [AREDL](https://aredl.net/) - All Rated Extreme Demons List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
-* [MobileWRList](https://gdmobilewrlist.com/main) - Mobile World Records List
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
 * [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
 * [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
@@ -689,7 +688,7 @@
 
 ### Trakt Tools
 
-[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/) / [List Import](https://github.com/damienhaynes/TraktRater)
+[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/) / [List Import](https://github.com/damienhaynes/TraktRater)
 
 ### Letterboxd Tools
 

@@ -504,7 +504,6 @@
 
 ## ▷ Ricing / Customization
 
-* 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
