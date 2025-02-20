@@ -625,7 +625,7 @@
 
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Blender Addon / [GitHub](https://github.com/Moo-Ack-Productions/MCprep) / [Discord](https://discord.com/invite/mb8hBUC)
 * ⭐ **[jmc2obj](https://www.jmc2obj.net/)**, [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/), [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
-* [Mine-imator](https://www.mineimator.com/) - Animation tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [GitHub](https://github.com/stuffbydavid/Mine-imator) / [Discord](https://discord.com/invite/GxFp6xv)
+* [Mine-imator](https://www.mineimator.com/) - Animation Tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [GitHub](https://github.com/stuffbydavid/Mine-imator) / [Discord](https://discord.com/invite/GxFp6xv)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [GitHub](https://github.com/chunky-dev/chunky) / [Discord](https://discord.com/invite/VqcHpsF)
 * [Block Display](https://block-display.com/) - Design / Share Block Display Models / [Discord](https://discord.gg/VCeHfSd6Xa)
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
