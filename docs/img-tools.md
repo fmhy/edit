@@ -770,7 +770,7 @@
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
-* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
+* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever
 * [imgbox](https://imgbox.com/) - 10MB / Forever
 * [vgy](https://vgy.me/) - 20MB / 1 year / Signup Required
 * [i](https://tikolu.net/i/) - 8MB / Forever
