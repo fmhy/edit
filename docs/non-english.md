@@ -1440,7 +1440,7 @@ Italian
 * [studmed](https://www.studmed.ru/) - Books / Educational
 * [alleng](https://www.alleng.org/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
-* [obuchalka.org](https://obuchalka.org/) - Books / Homework solutions
+* [obuchalka.org](https://obuchalka.org/) - Books / Homework Solutions
 * [Filibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
