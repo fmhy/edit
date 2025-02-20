@@ -782,7 +782,7 @@
 * [WebHotPix](https://webhotpix.com/) - 50MB / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
-* [TurboImageHost]](https://www.turboimagehost.com/) - 20MB / Forever
+* [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [FreeIMGHost](https://freeimghost.net/) - 20MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [ImageTwist](https://imagetwist.com/) - 20MB / Forever
