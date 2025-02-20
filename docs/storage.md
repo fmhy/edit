@@ -539,18 +539,18 @@
 * ⭐ **[/r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
 * [/r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools) - Hackintosh Tools
 * [Hackintosh Graphics Fix](https://rentry.org/fix-graphics)
-* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
+* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware / [Notes](https://rentry.org/VMware-guide)
 * [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
 * [Xiaomi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for Xiaomi
 * [unplugged-macos](https://rentry.org/unplugged-macos) - Unplugged Hackintosh
 * [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI App to Mount EFI Partitions
-* [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run MacOS
-* [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for MacOS VM / [Unlocker](https://github.com/BDisp/unlocker/)
+* [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run macOS
+* [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for macOS VM / [Unlocker](https://github.com/BDisp/unlocker/)
 * [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS
 * [macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers) - Contains Prebuilt EFI for Systems
-* [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized MacOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
+* [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized macOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
 
 ***
 
