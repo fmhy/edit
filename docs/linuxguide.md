@@ -626,7 +626,7 @@
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
 * [VMware](https://rentry.co/FMHYBase64#vmware) - Virtual Machine
 * [Tart](https://tart.run/) - Virtual Machine Manager . [GitHub](https://github.com/cirruslabs/tart)
-* [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
+* [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
@@ -672,7 +672,7 @@
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
-* [MacOSIcons](https://macosicons.com/) - Icons
+* [macOSicons](https://macosicons.com/) - Icons
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
 * [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
 * [TopNotch](https://topnotch.app/) - Remove The Notch
@@ -681,7 +681,7 @@
 
 ## ▷ Software Sites
 
-* 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
+* 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [AppsTorrent](https://appstorrent.ru/)
@@ -723,8 +723,8 @@
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
-* [MacOS Adblock Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) - Adguard + Safari Adblock Guide
-* [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
+* [macOS Adblock Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) - Adguard + Safari Adblock Guide
+* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
