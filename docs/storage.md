@@ -401,40 +401,40 @@
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB storage / 100GB bandwidth / Unlimited DB
-* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB storage / Unlimited bandwidth / 16 DB / Limited registration
-* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB storage / Unlimited bandwidth / Unlimited DB
-* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB storage / Unlimited bandwidth / 2 DB
-* [InfinityFree](https://infinityfree.com/) - 5GB storage / Unlimited bandwidth / 400 DB
-* [byet.host](https://byet.host/free-hosting) - 1GB storage / 50GB bandwidth / 5 DB
-* [AwardSpace.com](https://www.awardspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [GoogieHost.com](https://googiehost.com/) - 1GB storage / 100GB bandwidth / 2 DB
-* [Freehostia.com](https://www.freehostia.com/) - 250MB storage / 6GB bandwidth / 1 DB
-* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB storage / 4GB bandwidth / 1 DB
-* [Batcave.net](https://batcave.net/) - 1GB storage / 5GB bandwidth / 1 DB
-* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB storage / 5GB bandwidth / 1 DB
-* [100WebSpace.com](https://www.100webspace.com/) - 100MB storage / 3GB bandwidth / 1 DB
-* [50Webs.com](https://www.50webs.com/) - 500MB storage / 5GB bandwidth / 0 DB
-* [Somee.com](https://somee.com/) - 150MB storage / 5GB bandwidth / 1 DB
-* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB storage / 5GB bandwidth / 1 DB
-* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Biz.ly](https://www.biz.ly/) - 50MB storage / 1GB bandwidth / 0 DB
-* [biz.ht](https://biz.ht/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Freehostspace.com](https://www.freehostspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [RUNHOSTING.com](https://runhosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Freehostpro.com](https://www.freehostpro.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Redwebhost.com](https://www.redwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Tekcities.com](https://www.tekcities.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [125mb.com](https://www.125mb.com/) - 1GB storage / 5GB bandwidth / 1 DB
-* [biz.nf](https://www.biz.nf/) - 1GB storage / 5GB bandwidth / 1 DB
-* [ATSPACE](https://www.atspace.com/) - 1GB storage / Unlimited bandwidth / 1 DB
-* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
-* [Leprd](https://leprd.space/) - 1GB storage / 10GB bandwidth / Unlimited DB / Limited registration
-* [x10hosting](https://x10hosting.com/) - 500MB storage / Unlimited bandwidth / 2 DB
-* [Profreehost](https://profreehost.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB Storage / 100GB Bandwidth / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB Storage / Unlimited Bandwidth / 16 DB / Limited Registration
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB Storage / Unlimited Bandwidth / Unlimited DB
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB Storage / Unlimited Bandwidth / 2 DB
+* [InfinityFree](https://infinityfree.com/) - 5GB Storage / Unlimited Bandwidth / 400 DB
+* [byet.host](https://byet.host/free-hosting) - 1GB Storage / 50GB Bandwidth / 5 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1GB Storage / 100GB Bandwidth / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250MB Storage / 6GB Bandwidth / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB Storage / 4GB Bandwidth / 1 DB
+* [Batcave.net](https://batcave.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100MB Storage / 3GB Bandwidth / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500MB Storage / 5GB Bandwidth / 0 DB
+* [Somee.com](https://somee.com/) - 150MB Storage / 5GB Bandwidth / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50MB Storage / 1GB Bandwidth / 0 DB
+* [biz.ht](https://biz.ht/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Freehostpro.com](https://www.freehostpro.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [biz.nf](https://www.biz.nf/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [ATSPACE](https://www.atspace.com/) - 1GB Storage / Unlimited Bandwidth / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+* [Leprd](https://leprd.space/) - 1GB Storage / 10GB Bandwidth / Unlimited DB / Limited Registration
+* [x10hosting](https://x10hosting.com/) - 500MB Storage / Unlimited Bandwidth / 2 DB
+* [Profreehost](https://profreehost.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB
 * [pythonanywhere](https://www.pythonanywhere.com/)
 * [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
