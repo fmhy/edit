@@ -553,7 +553,7 @@
 * [Folksable](https://folksable.com/) - Habit Tracker
 * [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
-* [Not Boring Habits](https://apps.apple.com/app/id1593891243) - Habit Tracker
+* [(Not Boring) Habits](https://apps.apple.com/app/id1593891243) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
 * [TheFor](https://thefor.xyz/) - Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Productivity Tracker / App Blocker
