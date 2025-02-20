@@ -66,7 +66,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
 * [DPLA](https://dp.la/)
-* [e-Book Mecca](https://ebook-mecca.com/)
+* [E-Book Mecca](https://ebook-mecca.com/)
 * [Freeditorial](https://freeditorial.com/)
 * [Planet eBook](https://www.planetebook.com/)
 * [Loyal Books](https://www.loyalbooks.com/)
