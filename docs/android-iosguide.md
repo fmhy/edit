@@ -34,14 +34,14 @@
 
 ## ▷ Telegram Channels
 
-**Note** - These also contain modded APKs similar to the section above. 
+**Note** - These also contain modded APKs similar to the section above.
 
 ***
 
 * ⭐ [Youarefinished Mods](https://t.me/youarefinished_mods), [ANiK555_Mods](https://t.me/ANiK555_Mods), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL),  [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD), [GetMod](https://t.me/Getmodpcs) or [MustHave](https://t.me/Alexey070315) - Modded Apps
 * ⭐ [Satriyaid](https://t.me/s/satriyaid) - Modded Editing Apps
 * [Tech Day](https://t.me/s/tech_d4y) - Modded Editing Apps
-* [Modules Repository](https://t.me/modulesrepo) - Mobile Customization Index 
+* [Modules Repository](https://t.me/modulesrepo) - Mobile Customization Index
 * [EasyAPK](https://t.me/EasyAPK) - Modded Apps / Games
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [AyraProject](https://t.me/AyraProject) - Custom ROM / Ports
