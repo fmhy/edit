@@ -562,7 +562,7 @@
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
-* [timeto](https://github.com/Medvedev91/timeto.me) - Productivity Tracker
+* [timeto.me](https://timeto.me/) - Productivity Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
 
 ***
 
