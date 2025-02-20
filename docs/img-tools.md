@@ -442,7 +442,7 @@
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [ImageToSTL](https://imagetostl.com/) - Convert 2D PNG/JPG Images to 3D STL Mesh Files
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
-* [PoseMy](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [MagicPoser](https://magicposer.com/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
+* [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [⁠Handz](https://www.handz.design/) - 3D Hand Models
@@ -770,7 +770,7 @@
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
-* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
+* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever
 * [imgbox](https://imgbox.com/) - 10MB / Forever
 * [vgy](https://vgy.me/) - 20MB / 1 year / Signup Required
 * [i](https://tikolu.net/i/) - 8MB / Forever
@@ -782,7 +782,7 @@
 * [WebHotPix](https://webhotpix.com/) - 50MB / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
-* [TurboImageHost]](https://www.turboimagehost.com/) - 20MB / Forever
+* [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [FreeIMGHost](https://freeimghost.net/) - 20MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [ImageTwist](https://imagetwist.com/) - 20MB / Forever
