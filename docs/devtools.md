@@ -1135,7 +1135,7 @@
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
-* [Malimite](https://github.com/LaurieWired/Malimite) - iOS / MacOS Decompiler
+* [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [horsicq](https://horsicq.github.io/) - File Type Identification Tools / [GitHub](https://github.com/horsicq/)
 
