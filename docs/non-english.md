@@ -1885,7 +1885,7 @@ Italian
 
 ## ▷ Reading / Đọc
 
-* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc
+* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
 * ⭐ **[VietJack](https://vietjack.com/)** - Educational Books / Documents
 * ⭐ **[LoiGiaiHay](https://loigiaihay.com/)** - Educational Books / Documents
