@@ -11,7 +11,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Free Books / Signup Required / [App](https://forum.mobilism.org/app/) / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://fmhy.net/text-tools#translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
-* ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
+* ⭐ **[PlatinMods](https://platinmods.com/)**
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note)
 * [Modyolo](https://modyolo.com/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note)
 * [Nsane Forums](https://nsaneforums.com/)
@@ -29,6 +29,22 @@
 * [APK4Free](https://apk4free.net/)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
+
+***
+
+## ▷ Telegram Channels
+
+**Note** - These also contain modded APKs similar to the section above. 
+
+***
+
+* ⭐ [Youarefinished Mods](https://t.me/youarefinished_mods), [ANiK555_Mods](https://t.me/ANiK555_Mods), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL),  [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD), [GetMod](https://t.me/Getmodpcs) or [MustHave](https://t.me/Alexey070315) - Modded Apps
+* ⭐ [Satriyaid](https://t.me/s/satriyaid) - Modded Editing Apps
+* [Tech Day](https://t.me/s/tech_d4y) - Modded Editing Apps
+* [Modules Repository](https://t.me/modulesrepo) - Mobile Customization Index 
+* [EasyAPK](https://t.me/EasyAPK) - Modded Apps / Games
+* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
+* [AyraProject](https://t.me/AyraProject) - Custom ROM / Ports
 
 ***
 
@@ -68,26 +84,6 @@
 * [FossDroidAndroid](https://t.me/FossDroidAndroid) - FOSS Apps / Telegram
 * [GrapheneOS Apps](https://github.com/GrapheneOS/AppStore) - Work on Non-GrapheneOS Devices
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
-
-***
-
-## ▷ Telegram Channels
-
-* [ANiK555_Mods](https://t.me/ANiK555_Mods)
-* [alexstranniklite](https://t.me/alexstranniklite)
-* [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
-* [EasyAPK](https://t.me/EasyAPK)
-* [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD)
-* [You Are Finished Mods](https://t.me/youarefinished_mods)
-* [Tech Day](https://t.me/s/tech_d4y)
-* [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
-* [GetMod](https://t.me/Getmodpcs)
-* [AyraProject](https://t.me/AyraProject)
-* [MustHave](https://t.me/Alexey070315)
-* [AppKaMods](https://t.me/AppKaMods)
-* [Modules Repository](https://t.me/modulesrepo)
-* [Satriyaid](https://t.me/s/satriyaid) - Modded Editing Apps
-* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 
 ***
 
@@ -688,7 +684,6 @@
 * ⭐ **[KafkaArchives](https://www.getkafka.app/)** - Archive.org Books / Audiobooks
 * ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
 * ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Themes](https://rentry.co/moontheme)
-* ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
 * ⭐ **[Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)** - Audiobook Player
@@ -1158,6 +1153,7 @@
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Signup Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [StarFiles](https://starfiles.co/) - App Library
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
+* [PlatinMods](https://platinmods.com/) - Tweaked Apps
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps
 * [⁠IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
