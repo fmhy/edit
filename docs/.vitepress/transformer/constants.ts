@@ -51,7 +51,7 @@ export const headers: Header = {
     description: 'Download Games, ROMs, Gaming Tools'
   },
   'linuxguide.md': {
-    title: 'Linux / MacOS',
+    title: 'Linux / macOS',
     description: 'Apps, Software Sites, Gaming'
   },
   'miscguide.md': {

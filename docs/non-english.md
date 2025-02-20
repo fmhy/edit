@@ -29,11 +29,10 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[FaselHD](https://www.faselhd.center/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
+* ⭐ **[FaselHD](https://www.faselhd.center/)**, [2](https://www.faselhds.care/) - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.ink/), [2](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
-* [faselhds](https://www.faselhds.care/) - Movies / TV / Anime / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [WeCima](https://wecima.xyz/) - Movies / TV / Cartoons
@@ -432,18 +431,17 @@
 
 ## ▷ Streaming
 
+* ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
 * [Darkiworld](https://darkiworld1.com/) - Movies / TV / Anime
-* [SeeFrench](https://seefrench.site/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
 * [Wiflix](https://wiflix-hd.kim/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023)
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV
 * [streammovix](https://streammovix.vercel.app/) - Movies / TV / Anime
-* [vfstream](https://films.vfstream.eu/) - Movies / TV / Anime
 * [mymovix](https://mymovix.org/) - Movies
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account

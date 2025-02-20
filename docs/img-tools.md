@@ -433,6 +433,7 @@
 * [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
 * [Figurosity](https://figurosity.com/) - Human 3D Models
+* [ripper.store](https://forum.ripper.store/) - 3D Avatar Assets
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
@@ -768,12 +769,24 @@
 * ⭐ **[⁠PixVid](https://pixvid.org/)** - 32MB / Forever
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
-* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) /  [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
 * [imgbox](https://imgbox.com/) - 10MB / Forever
 * [vgy](https://vgy.me/) - 20MB / 1 year / Signup Required
 * [i](https://tikolu.net/i/) - 8MB / Forever
+* [IMGPile](https://imgpile.com/) - 100MB / Forever
+* [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
+* [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
+* [GIFYU](https://gifyu.com/) - 50MB / 100MB Registered / Forever
+* [IMGDrop](https://imgdrop.io/) - 50MB / Forever
+* [WebHotPix](https://webhotpix.com/) - 50MB / Forever
+* [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
+* [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
+* [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
+* [FreeIMGHost](https://freeimghost.net/) - 20MB / Forever
+* [Pikky](https://pikky.net/) - 20MB / Forever
+* [ImageTwist](https://imagetwist.com/) - 20MB / Forever
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
 * [BayIMG](https://bayimg.com/) - 100MB / Forever

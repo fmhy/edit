@@ -397,45 +397,53 @@
 
 ## Free Webhosting Sites
 
-* ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB disk / 100GB traffic / Unlimited DB
-* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB disk / Unlimited traffic / 13 DB
-* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB disk / Unlimited / Unlimited
-* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB disk / Unlimited traffic / 2 DB
-* [AwardSpace.com](https://www.awardspace.com/) - 1GB disk / 5GB traffic / 1 DB
-* [GoogieHost.com](https://googiehost.com/) - 1GB disk / 100GB traffic / 2 DB
-* [Freehostia.com](https://www.freehostia.com/) - 250MB disk / 6GB traffic / 1 DB
-* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB disk / 4GB traffic / 1 DB
-* [Batcave.net](https://batcave.net/) - 1GB disk / 5GB traffic / 1 DB
-* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
-* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB disk / 5GB traffic / 1 DB
-* [100WebSpace.com](https://www.100webspace.com/) - 100MB disk / 3GB traffic / 1 DB
-* [50Webs.com](https://www.50webs.com/) - 500MB disk / 5GB traffic / 0 DB
-* [Somee.com](https://somee.com/) - 150MB disk / 5GB traffic / 1 DB
-* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB disk / 5GB traffic / 1 DB
-* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB disk / 5GB traffic / 1 DB
-* [Biz.ly](https://www.biz.ly/) - 50MB disk / 1GB traffic / 0 DB
-* [biz.ht](https://biz.ht/) - 1GB disk / 5GB traffic / 1 DB
-* [Freehostspace.com](https://www.freehostspace.com/) - 1GB disk / 5GB traffic / 1 DB
-* [RUNHOSTING.com](https://runhosting.com/) - 1GB disk / 5GB traffic / 1 DB
-* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB disk / 5GB traffic / 0 DB
-* [Freehostpro.com](https://www.freehostpro.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Redwebhost.com](https://www.redwebhost.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Tekcities.com](https://www.tekcities.com/) - 1GB disk / 5GB traffic / 1 DB
-* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB disk / 5GB traffic / 1 DB
-* [125mb.com](https://www.125mb.com/) - 1GB disk / 5GB traffic / 1 DB
-* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB disk / Unlimited traffic / Unlimited DB
-* [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-* [glitch](https://glitch.com/)
-* [biz.nf](https://www.biz.nf/)
-* [ibm cloud](https://www.ibm.com/cloud/free)
+### Dynamic Page Hosting
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB storage / 100GB bandwidth / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB storage / Unlimited bandwidth / 16 DB / Limited registration
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB storage / Unlimited bandwidth / Unlimited DB
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB storage / Unlimited bandwidth / 2 DB
+* [InfinityFree](https://infinityfree.com/) - 5GB storage / Unlimited bandwidth / 400 DB
+* [byet.host](https://byet.host/free-hosting) - 1GB storage / 50GB bandwidth / 5 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1GB storage / 100GB bandwidth / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250MB storage / 6GB bandwidth / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB storage / 4GB bandwidth / 1 DB
+* [Batcave.net](https://batcave.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100MB storage / 3GB bandwidth / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500MB storage / 5GB bandwidth / 0 DB
+* [Somee.com](https://somee.com/) - 150MB storage / 5GB bandwidth / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50MB storage / 1GB bandwidth / 0 DB
+* [biz.ht](https://biz.ht/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Freehostpro.com](https://www.freehostpro.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1GB storage / 5GB bandwidth / 1 DB
+* [biz.nf](https://www.biz.nf/) - 1GB storage / 5GB bandwidth / 1 DB
+* [ATSPACE](https://www.atspace.com/) - 1GB storage / Unlimited bandwidth / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
+* [Leprd](https://leprd.space/) - 1GB storage / 10GB bandwidth / Unlimited DB / Limited registration
+* [x10hosting](https://x10hosting.com/) - 500MB storage / Unlimited bandwidth / 2 DB
+* [Profreehost](https://profreehost.com/) - 5GB storage / Unlimited bandwidth / Unlimited DB
+* [pythonanywhere](https://www.pythonanywhere.com/)
+* [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
-* [stormkit](https://www.stormkit.io/)
-* [milkshake](https://milkshake.app/)
-* [atspace](https://www.atspace.com/)
+* [Stormkit](https://www.stormkit.io/)
+* [Glitch](https://glitch.com/)
 
 ### Static Page Hosting
 
+* ⭐ **[surge](https://surge.sh/)**
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
@@ -446,50 +454,39 @@
 * ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * [Web 1.0 Hosting](https://web1.0hosting.net/)
 * [Codeberg Pages](https://codeberg.page/)
-* [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
 * [DropPages](https://droppages.com/)
 * [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [render](https://render.com/)
+* [Render](https://render.com/)
 * [Straw.Page](https://straw.page/)
 * [Own Free Website](https://www.own-free-website.com)
 * [itty.bitty](https://itty.bitty.site/)
-* [⁠Staclo](https://staclo.host/)
+* [Staclo](https://staclo.host/)
 * [mmm](https://mmm.page/)
-* [cargo](https://cargo.site/)
-* [Jigsy](https://jigsy.com/)
 * [Temper](https://temper.one/)
 * [GitBook](https://www.gitbook.com/)
-* [Mobirise](https://mobirise.com/)
-* [Silex](https://www.silex.me/)
-* [Publii](https://getpublii.com/)
 * [Kinsta](https://kinsta.com/static-site-hosting/)
 * [Pelican](https://getpelican.com/)
 * [Reocities](https://www.reocities.xyz/)
 * [yay.boo](https://yay.boo/)
-
-### Dynamic Page Hosting
-
-* ⭐ **[netlify](https://www.netlify.com/)**
-* ⭐ **[vercel](https://vercel.com/)**
-* [infinityfree](https://infinityfree.com/) - 5GB space
-* [byet.host](https://byet.host/free-hosting) - 5GB Space
-* [Leprd](https://leprd.space/) - 10GB Monthly Transfer / 1GB space
-* [pythonanywhere](https://www.pythonanywhere.com/)
-* [Glitch](https://glitch.com/)
+* [Publii](https://getpublii.com/)
 
 ### Website Builders
 
 * **Note** - These are generally made for businesses only.
-* [site123](https://www.site123.com/)
-* [tilda](https://tilda.cc/)
-* [x10hosting](https://x10hosting.com/)
-* [olitt](https://www.olitt.com/)
-* [yola](https://www.yola.com/)
-* [bravenet](https://www.bravenet.com/)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [WebStudio](https://webstudio.is/) - Code Editor
 * [Flounder](https://flounder.online/) - Website Building Discussion
+* [site123](https://www.site123.com/)
+* [tilda](https://tilda.cc/)
+* [olitt](https://www.olitt.com/)
+* [yola](https://www.yola.com/)
+* [bravenet](https://www.bravenet.com/)
+* [cargo](https://cargo.site/)
+* [Jigsy](https://jigsy.com/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
 
 ***
 
@@ -546,7 +543,7 @@
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware / [Notes](https://rentry.org/VMware-guide)
 * [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
-* [XiaoMi-Pro-Hackintosh)](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for XiaoMi
+* [Xiaomi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for Xiaomi
 * [unplugged-macos](https://rentry.org/unplugged-macos) - Unplugged Hackintosh
 * [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI App to Mount EFI Partitions
 * [VMware Unlocker](https://github.com/paolo-projects/unlocker) - Patch VMware Workstation / Player to Run MacOS
@@ -640,7 +637,7 @@
 
 ## Live Webcams
 
-[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [Worldviewstream](https://worldviewstream.com/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [/r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](https://wxyzwebcams.com/) [snoweye](https://www.snoweye.com/), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [TFLJamCams](https://www.tfljamcams.net/), [seattlesouthside](https://www.seattlesouthside.com/plan-your-trip/webcams/), [portugal-live](https://www.portugal-live.net/en/webcams.html), [livecamcroatia](https://www.livecamcroatia.com/en), [myrtlebeach](https://www.myrtlebeach.com/webcams/), [sootoday](https://www.sootoday.com/webcams), [interlochen](https://www.interlochen.org/webcasts/live-webcams), [whitehouse cam](https://whitehouse.gov1.info/webcam/), [yellowstone cam](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm), [carowinds](https://www.carowinds.com/live-video), [zellamsee](https://www.zellamsee-kaprun.com/en/live/webcams), [wpri](https://www.wpri.com/live-cams/), [hdontap](https://hdontap.com/), [floridakeyswebcams](https://floridakeyswebcams.tv/), [earthtv](https://www.earthtv.com/en), [geocam](https://www.geocam.ru/en/), [livefromiceland](https://livefromiceland.is/), [world-cam](https://en.world-cam.ru/), [mangolinkworld](https://www.mangolinkworld.com/), [mylivestreams](https://www.mylivestreams.com/live-streaming-cams/), [spain-grancanaria](https://www.spain-grancanaria.com/en/images-videos/webcams.html), [visitlondon](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london), [ctsfl](https://www.ctsfl.us/cams/), [aruba](https://www.aruba.com/us/live-webcams-and-channels), [fogcam](https://www.fogcam.org/), [bigrigtravels](https://bigrigtravels.com/), [lochness](https://www.lochness.co.uk/livecam/), [abbeyroad](https://www.abbeyroad.com/crossing), [camsecure](https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html), [worldlivecamera](https://www.worldlivecamera.com/)
+[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [Worldviewstream](https://worldviewstream.com/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [/r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](https://wxyzwebcams.com/) [snoweye](https://www.snoweye.com/), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [TFLJamCams](https://www.tfljamcams.net/), [seattlesouthside](https://www.seattlesouthside.com/plan-your-trip/webcams/), [portugal-live](https://www.portugal-live.net/en/webcams.html), [livecamcroatia](https://www.livecamcroatia.com/en), [myrtlebeach](https://www.myrtlebeach.com/webcams/), [sootoday](https://www.sootoday.com/webcams), [interlochen](https://www.interlochen.org/webcasts/live-webcams), [whitehouse cam](https://whitehouse.gov1.info/webcam/), [yellowstone cam](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm), [carowinds](https://www.carowinds.com/live-video), [zellamsee](https://www.zellamsee-kaprun.com/en/live/webcams), [wpri](https://www.wpri.com/live-cams/), [hdontap](https://hdontap.com/), [floridakeyswebcams](https://floridakeyswebcams.tv/), [earthtv](https://www.earthtv.com/en), [geocam](https://www.geocam.ru/en/), [livefromiceland](https://livefromiceland.is/), [world-cam](https://en.world-cam.ru/), [mangolinkworld](https://www.mangolinkworld.com/), [mylivestreams](https://www.mylivestreams.com/live-streaming-cams/), [spain-grancanaria](https://www.spain-grancanaria.com/en/images-videos/webcams.html), [visitlondon](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london), [ctsfl](https://www.ctsfl.us/cams/), [aruba](https://www.aruba.com/us/live-webcams-and-channels), [fogcam](https://www.fogcam.org/), [bigrigtravels](https://bigrigtravels.com/), [lochness](https://www.lochness.co.uk/livecam/), [abbeyroad](https://www.abbeyroad.com/crossing), [camsecure](https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html), [worldlivecamera](https://www.worldlivecamera.com/), [liveworldwebcams](https://liveworldwebcams.com/)
 
 ### Animal Cams
 
@@ -817,12 +814,12 @@
 
 ## NextChat Instances
 
-* https://restless-dew-17e3.safineymah.workers.dev/ - o1-preview/4o/gemini 1.5
-* https://ai.yyr1201.fun/ - gpt-3.5 turbo
-* https://aii.tzwlxh.com/ - gpt-3.5 turbo / gpt-4o
-* https://b.smallmoon.net/ - gpt-3.5 turbo / gemini 1.5 pro / gemini 1.5 flash
-* https://free1.fdmgpt.top/ - gpt-4o-mini
-* https://gpt35.chenjinshui.top/ - deepseek v2.5 / gpt-4o / gpt-4o-mini / claude 3 haiku
+* https://restless-dew-17e3.safineymah.workers.dev/ - o1-Preview/4o/Gemini 1.5
+* https://ai.yyr1201.fun/ - GPT-3.5 Turbo
+* https://aii.tzwlxh.com/ - GPT-3.5 Turbo / GPT-4o
+* https://b.smallmoon.net/ - GPT-3.5 turbo / Gemini 1.5 Pro / Gemini 1.5 Flash
+* https://free1.fdmgpt.top/ - GPT-4o-mini
+* https://gpt35.chenjinshui.top/ - DeepSeek v2.5 / GPT-4o / GPT-4o-mini / Claude 3 Haiku
 * https://free.xiercloud.top/
 * https://chatgpt.thzstudent.top/
 * https://chat.typegpt.net/
@@ -1096,14 +1093,13 @@
 
 ## Telegram eBook Download
 
-* https://t.me/Books_worldd
-* https://t.me/NovelsArchive
-* https://t.me/free_ebooks_pdfs
-* https://t.me/booksmania
-* https://t.me/joinchat/RGzvjJF-0op3SRR1
-* https://t.me/yourlibraries
-* https://t.me/Dao_Qigong_Taiji_TCM_ebooks
-* https://t.me/lib_of_dos_old_vk
+* [BooksWorld](https://t.me/Books_worldd) - Amharic Audiobooks
+* [NovelsArchive](https://t.me/NovelsArchive) - Popular Novels
+* [Free eBooks](https://t.me/free_ebooks_pdfs) - Educational eBooks
+* [BooksMania](https://t.me/booksmania) -  Decorative Worksheets
+* [Alejandria](https://t.me/joinchat/RGzvjJF-0op3SRR1) - Occult Literature / English / Spanish
+* [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
+* [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Russian Literature
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
@@ -1158,7 +1154,7 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [⁠Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [⁠Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
 
 ### Udemy TG Channels
 

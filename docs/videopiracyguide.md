@@ -11,14 +11,14 @@
 ***
 
 * 🌟 **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* 🌟 **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[Freek](https://freek.to/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/q8Y9FmYFPR)
+* 🌟 **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * 🌟 **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * 🌟 **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/456movies)
+* 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
 * ⭐ **[Broflix](https://broflix.ci/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[RgShows](https://www.rgshows.me/)**, [2](https://www.1shows.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/DKACCNZC)
 * ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / 4K / Auto-Next
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
@@ -279,6 +279,7 @@
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
 * [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
 * [MrWorldPremiere](https://mrworldpremiere.wf/) - Black Media Archive
+* [⁠European Film Gateway](https://www.europeanfilmgateway.eu/) - European Film Archive / Use Search
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
 * [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
 * [British Pathé](https://www.britishpathe.com/) or [ColonialFilm](http://www.colonialfilm.org.uk/) - British Video Archives
@@ -412,6 +413,7 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Sports / Stream Aggregator
 * ⭐ **[WeAreChecking](https://wearechecking.live/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
+* [/sport calendars/](https://rentry.co/sportcalendars) - Importable Sports Calendars
 * [StreamEast](https://www.streameast.co/v8/) - Sports / [Mirrors](https://gostreameast.link/)
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/) - Sports
 * [MutStreams](https://mutstreams.com) - Sports
@@ -563,7 +565,7 @@
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
 * [StreamFire](https://rentry.co/FMHYBase64#streamfire), [2](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
-* [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
+* [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 
 ***
 

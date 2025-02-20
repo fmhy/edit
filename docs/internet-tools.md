@@ -105,6 +105,7 @@
 * [Ayo](https://ayo.so/) - Unlimited
 * [Campsite.bio](https://campsite.bio/) - Unlimited
 * [Taplink](https://taplink.at/) - Unlimited
+* [milkshake](https://milkshake.app/) - Unlimited
 * [LinkSpace.Bio](https://linkspace.bio/) - 250 Limit / Custom URLs
 * [LinkMix](https://linkmix.co/) - 20 Limit
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns

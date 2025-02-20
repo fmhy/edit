@@ -410,8 +410,8 @@
 ## ▷ Online Editors
 
 * ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
+* ⭐ **[⁠wide.video](https://wide.video/)**
 * ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
-* [⁠wide.video](https://wide.video/)
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
 * [Kapwing](https://www.kapwing.com/)

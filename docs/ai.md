@@ -40,7 +40,7 @@
 * [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Signup
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
-* [Grok](https://grok.com/) - X.com Chatbot / No Signup / [Discord](https://discord.com/invite/x-ai)
+* [Grok](https://grok.com/) - X.com Chatbot / [Discord](https://discord.com/invite/x-ai)
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3 Chatbot / No Signup
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
@@ -55,7 +55,7 @@
 ## ▷ AI Search Engines
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enchancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
@@ -111,6 +111,7 @@
 * [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - Llama + SillyTavern Roleplaying Setup Guide / No Signup
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Signup / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/4wallai) / [Subreddit](https://www.reddit.com/r/4WallAI/)
+* [JanitorAI](https://janitorai.com/) - Roleplaying Chatbots / Some NSFW
 * [FictionLab](https://fictionlab.ai/) - Roleplaying / Story Chatbot / [Discord](https://discord.com/invite/SKcb2C7HjH)
 * [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
 * [AI Dungeon](https://aidungeon.com/) - Roleplaying / Story Chatbot / No Signup / [Subreddit](https://www.reddit.com/r/AIDungeon/) / [Discord](https://discord.com/invite/HB2YBZYjyf)
@@ -412,7 +413,7 @@
 * [TTSMaker](https://ttsmaker.com/) / No Signup
 * [⁠TTSOpenAI](https://ttsopenai.com/) / No Signup
 * [edge-tts](https://github.com/rany2/edge-tts) / No Signup / Python Module
-* [Voices](https://www.hailuo.ai/audio/voices)
+* [Voices](https://www.hailuo.ai/audio/)
 * [TextToSpeech.io](https://texttospeech.io/)
 * [LazyPy](https://lazypy.ro/tts/) / No Signup / [GitHub](https://github.com/chrisjp/tts)
 * [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Signup / [Source code](https://huggingface.co/hexgrad/Kokoro-82M) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro)
@@ -445,6 +446,7 @@
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App / [Discord](https://discord.gg/A5rgNwDRd4)
 * [Bark Voice Cloning](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning / No Signup / [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning.ipynb) / [GitHub](https://github.com/KevinWang676/Bark-Voice-Cloning)
 * [RVC Inference HF](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning / No Signup
+* [Xyphra](https://maia.zyphra.com/audio) - Voice Cloning / [GitHub](https://github.com/Zyphra/Zonos)
 
 ***
 
