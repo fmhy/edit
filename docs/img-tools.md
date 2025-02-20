@@ -767,7 +767,7 @@
 
 * ⭐ **[⁠PixVid](https://pixvid.org/)** - 32MB / Forever
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
-* ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) /  [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever 
 * [imgbox](https://imgbox.com/) - 10MB / Forever
@@ -787,7 +787,7 @@
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://sxcu.net/), [2](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
-* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
+* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [yaass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [FRAMED.](https://framedsc.com/index.htm) - Screenshot Tips
 * [Greenshot](https://getgreenshot.org/)

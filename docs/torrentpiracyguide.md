@@ -37,7 +37,7 @@
 
 ***
 
-* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [.i2p](http://btdigg.i2p/)
 * ⭐ **[BitSearch](https://bitsearch.to/)**, [2](https://solidtorrents.to) - DHT-Based
 * ⭐ **[Knaben](https://knaben.org/)**
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
@@ -58,8 +58,8 @@
 * [BTSearch](https://btsearch.19950817.xyz/en)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Search Web App
+* [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) or [TorrentHuntBot](https://t.me/torrenthuntbot) - Telegram Torrent Search Bots
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines
-* [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) or [TorrentHuntBot](https://t.me/torrenthuntbot) - Telegram Torrent Search Bot
 
 ***
 
