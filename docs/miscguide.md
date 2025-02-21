@@ -197,7 +197,7 @@
 
 * 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Agriculture Resources
 * 🌐 **[Agriculture / Gardening Subreddits](https://rentry.co/TouchGrasss)**
-* 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)**
+* 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** or [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
 * ⭐ **[/r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Communities
@@ -215,6 +215,7 @@
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
+* [GrassCity](https://forum.grasscity.com/) - Marijuana Forum
 
 ***
 
@@ -502,7 +503,7 @@
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [⁠Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://alexandria-library.julienc.me/search/) / [Top Posts](https://hn.lindylearn.io/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
-* [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
+* [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/), [⁠AlternativeTo Aggregator](https://alternativeto.net/news/all/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
@@ -1079,7 +1080,6 @@
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [wttr](https://wttr.in/) - Simple Weather Site / [GitHub](https://github.com/chubin/wttr.in)
 * [Free-lookup](https://free-lookup.net/) - Phone Number Lookup
 * [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculators
@@ -1112,7 +1112,6 @@
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
-* [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
@@ -1171,7 +1170,6 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs) or [Forest](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#forest-extensions) - Site Blocking Extensions
 * [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Chrome Productivity Managers
 
@@ -1212,11 +1210,8 @@
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
-* [/r/Piracy](https://www.reddit.com/r/Piracy/) - Piracy Discussion
 * [⁠Fora](https://fora.com/communities/) or [⁠Discourse](https://discover.discourse.org/) - Specialty Forums
 * [Resetera](https://www.resetera.com/) or [RakcetBoy](https://racketboy.com/forum/) - Game Forums
-* [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
-* [GrassCity](https://forum.grasscity.com/) - Marijuana Forum
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Status.Cafe](https://status.cafe/) - Share Current Status
@@ -1330,12 +1325,10 @@
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
 * [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
-* [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
 * [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites / Horror Games
-* [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
 * [Windows93](https://www.windows93.net/) - Windows 93 Emulator
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://doodles.google/) - Interactive Google Doodles

@@ -10,7 +10,7 @@
 * ↪️ **[Android Social Media Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)**
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
-* ⭐ **[LiveCounts](https://livecounts.io/)** or [Axern](https://axern.space/) / [Discord](https://discord.gg/88jfGZ6A53) - Live Social Media Stats
+* ⭐ **[LiveCounts](https://livecounts.io/)** - Live Social Media Stats
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Proxitok](https://github.com/pablouser1/ProxiTok), [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends
@@ -182,10 +182,10 @@
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Redditp](https://redditp.com/) or [⁠Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
 * [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
-* [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [⁠SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
@@ -433,7 +433,6 @@
 * [ytcc](https://github.com/woefe/ytcc) - Keep Track of Your Playlists
 * [Multiselect (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) or [Multiselect (Chrome)](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Manager
 * [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
-* [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sort Your Playlists
 * [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) / [2](https://ytplaylist-length.codingdeft.com/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
 * [⁠YouTubePlaylistMerge](https://rentry.org/YouTubePlaylistMerge) - Playlist Merge Guide
@@ -613,7 +612,6 @@
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
-* [Relink](https://www.relink.page/) - Fix Twitter Link Images
 * [Hide Content Warning](https://greasyfork.org/en/scripts/437359) or [Disable Blur](https://userstyles.world/style/15658/) - Remove Sensitive Content Blur
 
 ***

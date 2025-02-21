@@ -58,6 +58,7 @@
 * [Ronny Flix](https://ronnyflix.xyz/) - Movies / TV / Anime
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 4K / Auto-Next / **Use Adblock** / [Discord](https://discord.gg/nepu)
 * [Novafork](https://novafork.com/) - Movies / TV / [Telegram](https://t.me/novafork) / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
+* [FlickyStream](https://flickystream.com/) - Movies / TV / Anime
 * [uFlix](https://uflix.cc/), [2](https://uflix.to/) - Movies / TV / Anime
 * [FilmeX](https://filmex.to/) - Movies / TV / Anime / [Discord](https://discord.gg/6r5KTZgqXV)
 * [WatchHQ](https://watchhq.site/) - Movies / TV / Anime / [Discord](https://discord.com/invite/YgSBsPAG)
@@ -93,7 +94,6 @@
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV - Movies / TV / Anime
 * [BitSearch](https://bitsearch.to/), [2](https://solidtorrents.to) - Movies / TV / Anime
 * [OnionPlay](https://onionplay.asia/) - Movies / TV / 720p / [Discord](https://discord.com/invite/4QxywT32Uz)
-* [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
 * [AZMovies](https://azmovies.ag/) - Movies
 * [Zoechip](https://zoechip.org/) - Movies / TV
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies
@@ -371,6 +371,7 @@
 * [IPTV Play](https://iptvplay.stream/en/live-tv) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [uira.live](https://uira.live/livetv) - TV / Sports
+* [lmao.love](https://lmao.love/channels/) - TV / Sports
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
 * [Rive Live](https://rivestream.live/iptv) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
@@ -602,7 +603,7 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[OOMoye](https://www.oomoye.life/)** - Movies / TV / Anime / Some NSFW
+* ⭐ **[OOMoye](https://oomoye.guru/)** - Movies / TV / Anime / Some NSFW
 * ⭐ **[VegaMovies](https://vegamovies.ms/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/rgshows)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)

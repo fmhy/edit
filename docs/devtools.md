@@ -823,6 +823,7 @@
 * [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
+* [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
 * [Shiki](https://shiki.style/), [tailspin](https://github.com/bensadeh/tailspin) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools

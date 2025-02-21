@@ -57,7 +57,7 @@
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
-* ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
+* ⭐ **[Scira](https://scira.app/)** - AI Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
 * [Hyperspace](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai)
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Signup / [Discord](https://discord.gg/S25yW8TebZ)
@@ -418,7 +418,7 @@
 * [LazyPy](https://lazypy.ro/tts/) / No Signup / [GitHub](https://github.com/chrisjp/tts)
 * [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Signup / [Source code](https://huggingface.co/hexgrad/Kokoro-82M) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro)
 * [Ondoku](https://ondoku3.com/en/) / No Signup
-* [VoiceCraft](https://github.com/jasonppy/VoiceCraft) / [Demo](https://huggingface.co/spaces/pyp1/VoiceCraft_gradio) / [Colab](https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing)
+* [VoiceCraft](https://github.com/jasonppy/VoiceCraft) / [Colab](https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Audio](https://fish.audio/) / [Discord](https://discord.gg/6t7dUSPV) / [GitHub](https://github.com/fishaudio)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Signup / [Colab](https://colab.research.google.com/github/gitmylo/audio-webui/blob/master/audio_webui_colab.ipynb) / [Discord](https://discord.gg/NB86C3Szkg)

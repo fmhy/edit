@@ -163,7 +163,7 @@
 * [Xtra](https://github.com/crackededed/Xtra), [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
 * [Graysky](https://graysky.app/) - Bluesky Client
 * [Mumla](https://gitlab.com/quite/mumla) or [Meshenger](https://github.com/meshenger-app/meshenger-android) - Voice Chat
-* [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence
+* [Kizzy](https://kizzy.vercel.app/) - Discord Rich Presence / [GitHub](https://github.com/dead8309/Kizzy)
 * [Dumpus](https://github.com/dumpus-app/dumpus-app) - View Discord Data / Self host for Privacy
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -993,6 +993,7 @@
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
+* [⁠CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
 * [Scriptable](https://scriptable.app/) - Automation Script Tool / [Scripts / Widgets](https://github.com/dersvenhesse/awesome-scriptable), [2](https://shareable.vercel.app/)
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) / [Discord](https://discord.gg/cCSwxqdvzx) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes

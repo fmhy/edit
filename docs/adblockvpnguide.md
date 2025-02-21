@@ -167,7 +167,6 @@
 ## ▷ Network Security
 
 * ⭐ **[nekoray](https://matsuridayo.github.io/)** - DIY Privacy Network / [Telegram](https://t.me/Matsuridayo) / [GitHub](https://github.com/MatsuriDayo/nekoray)
-* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor / [Telegram](https://t.me/+6ElWHdZK8d5iMGEy)
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.co/SecureDNSClient) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
