@@ -63,6 +63,7 @@
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot
+* [FileMood](https://filemood.com/)
 
 ***
 
