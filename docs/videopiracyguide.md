@@ -489,7 +489,7 @@
 
 ## ▷ Sports Replays
 
-* ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents
+* ⭐ **[720pier](https://720pier.ru/)** - Sports Replays / Torrents
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
 * ⭐ **[Footballia](https://footballia.net/)**, [2](https://footballia.eu/) - Classic Football Replays
