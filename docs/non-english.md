@@ -760,7 +760,6 @@
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Doronime](https://doronime.id/) - Anime / Sub / 1080p
-* [lendrive](https://lendrive.web.id/ ) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Music
 
