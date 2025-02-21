@@ -401,6 +401,7 @@
 * [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
 * [rNote](https://rnote.flxzt.net/) - Annotation Tool / [GitHub](https://github.com/flxzt/rnote)
 * [MonsterWriter](https://www.monsterwriter.app/) - Thesis Writing / Note-Taking
+* [The Birthday Poem](https://www.thebirthdaypoem.com/) - AI Birthday Poem Generator
 
 ***
 
