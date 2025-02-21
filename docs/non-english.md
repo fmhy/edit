@@ -1254,7 +1254,7 @@
 
 ***
 
-# ► Romanian / limba română
+# ► Romanian / Limba Română
 
 ## ▷ Downloading
 
@@ -1464,7 +1464,7 @@
 
 ***
 
-# ► Slovak / slovenčina
+# ► Slovak / Slovenčina
 
 ## ▷ Streaming
 
