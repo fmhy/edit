@@ -1259,7 +1259,7 @@ Italian
 
 ***
 
-# ► Romanian / limba română
+# ► Romanian / Limba Română
 
 ## ▷ Downloading
 
