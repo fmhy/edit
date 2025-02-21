@@ -1469,7 +1469,7 @@ Italian
 
 ***
 
-# ► Slovak / slovenčina
+# ► Slovak / Slovenčina
 
 ## ▷ Streaming
 
