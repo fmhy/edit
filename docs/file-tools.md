@@ -163,7 +163,7 @@
 
 * ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
 * ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
-* [FolderClone](https://www.folderclone.com/) or [⁠Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
+* [FolderClone](https://www.folderclone.com/) or [Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
 * [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup
@@ -216,7 +216,7 @@
 * ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
-* [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
+* [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
 * [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
@@ -310,7 +310,7 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
-* [⁠VikingFile](https://vikingfile.com/) - 500GB / 20 Days after last download
+* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days after last download
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
@@ -325,13 +325,13 @@
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
-* [⁠Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
-* [⁠Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
+* [Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
+* [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
 * [Tempfile](https://tempfile.me/) - 10GB / 90 Days
-* [⁠FilePort](https://fileport.io/) - 5GB / 7 Days
+* [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
-* [⁠Bestfile](https://bestfile.io/) - 5GB / 80 Days after last download 
+* [Bestfile](https://bestfile.io/) - 5GB / 80 Days after last download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
@@ -342,7 +342,7 @@
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
-* [⁠FileGo](https://filego.app/) - / 30 Days / Account Required
+* [FileGo](https://filego.app/) - / 30 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
@@ -371,7 +371,7 @@
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
-* [⁠FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
+* [FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
