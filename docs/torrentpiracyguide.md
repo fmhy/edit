@@ -20,6 +20,7 @@
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [IsoHunt](https://isohunts.to/) - Video / Audio / Books
+* [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [ExT](https://ext.to/), [2](https://search.extto.com/) - Video / Audio / Books / [Proxy](https://extranet.torrentbay.st/)
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
@@ -36,16 +37,16 @@
 
 ***
 
-* ⭐ **[BTDigg](https://btdig.com/)** / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [.i2p](http://btdigg.i2p/)
+* ⭐ **[BitSearch](https://bitsearch.to/)**, [2](https://solidtorrents.to) - DHT-Based
 * ⭐ **[Knaben](https://knaben.org/)**
-* ⭐ **[BitSearch](https://bitsearch.to/)**, [2](https://solidtorrents.to) - Movies / TV / Anime
+* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
+* [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentCORE](https://torrentcore.xyz/)
-* [DaMag](https://damag.net/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
-* [BTMET](https://btmet.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
 * [FileMood](https://filemood.com/)
 * [iDope](https://idope.se/)
@@ -53,16 +54,12 @@
 * [⁠PiratesParadise](https://piratesparadise.org/)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
-* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
-* [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
-* [TorrentDownloads](https://www.torrentdownloads.pro/)
-* [concen](https://www.concen.org/torrents)
-* [YourBitTorrent](https://yourbittorrent.com/)
-* [BTSearch](https://www.btsearch.love/en)
-* [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
-* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
+* [YourBittorrent](https://yourbittorrent.com/)
+* [BTSearch](https://btsearch.19950817.xyz/en)
+* [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
+* [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Search Web App
+* [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) or [TorrentHuntBot](https://t.me/torrenthuntbot) - Telegram Torrent Search Bots
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines
-* [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot
 
 ***
 
