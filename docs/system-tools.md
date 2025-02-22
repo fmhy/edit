@@ -266,7 +266,6 @@
 * [Display Calc](https://www.tools.rodrigopolo.com/display_calc/) - Display Distance / Dimension Calculator
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
-* [WhiteScreen](https://www.whitescreen.online/) or [ScreenHue](https://www.screenhue.com/) - Screen Color Tests
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
@@ -338,7 +337,6 @@
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * [YUMI](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
-* [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 
@@ -447,7 +445,7 @@
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
 * [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
-* [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
+* [/r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers

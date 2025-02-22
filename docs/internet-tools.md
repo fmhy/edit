@@ -17,18 +17,17 @@
 
 ## ▷ Network Tools
 
+* ⭐ **[fast](https://fast.com/)** / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)** or **[LibreSpeed](https://librespeed.org/)** - Speed Tests
 * [Pinging](https://www.pinging.net/) or [PingTracer](https://github.com/bp2008/pingtracer) - Internet Uptime / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
-* [Ethr](https://github.com/Microsoft/Ethr) - Network Performance Tool
 * [Trippy](https://trippy.cli.rs/) - Network Diagnostic Tool
 * [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - Network Tools
 * [NETworkManager](https://borntoberoot.net/NETworkManager/) / [GitHub](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
-* [TCP Optimizer](https://www.speedguide.net/downloads.php) - Connection Optimization / Tuning
 * [NeverSSL](http://neverssl.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
@@ -37,20 +36,6 @@
 * [PortChecker](https://portchecker.co/), [ping.pe](https://ping.pe/), [PortCheckers](https://www.portcheckers.com/), [RustCat](https://github.com/robiot/rustcat) or [CanYouSeeMe](https://canyouseeme.org/) - Port Checkers
 * [Bufferbloat Test](https://www.waveform.com/tools/bufferbloat) - Test Bufferbloat
 * [PacketSender](https://packetsender.com/) - Packet Sender
-
-***
-
-## ▷ Speed Test Sites
-
-* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
-* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
-* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
-* [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
-* [Packet Loss Test](https://packetlosstest.com/) - Speed Test
-* [Speedtest](https://www.speedtest.net/) - Speed Test
-* [speedcheck](https://www.speedcheck.org/) - Speed Test
-* [Meter](https://www.meter.net/) - Speed Test
-* [Speedsmart](https://speedsmart.net/) - Speed Test
 
 ***
 
@@ -146,6 +131,7 @@
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [TinyChat](https://tinychat.com/) - Video Chat
+* [⁠Hello](https://hello.vasanthv.me/) - Video Chat / [GitHub](https://github.com/vasanthv/hello)
 * [Noysi Meet](https://meet.noysi.com/) - Video Chat
 * [Briefing](https://brie.fi/ng) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
@@ -219,6 +205,7 @@
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine
 * [Raw Web](https://rawweb.org/) or [BlogErnity](http://www.bloggernity.com/) - Blog Search
+* [⁠VHSearch](https://vhs.neocities.org/) - Neocities Search Engine 
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - 4chan Search
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
@@ -680,7 +667,6 @@
 * [Allow Right Click](https://add0n.com/allow-right-click.html) - Force Enable Right Click / [GitHub](https://github.com/lunu-bounir/allow-right-click)
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
-* [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
 * [Max Focus](https://maxfoc.us/) - Preview Links
 * [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
