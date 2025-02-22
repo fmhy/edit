@@ -49,6 +49,7 @@
 * [Flowind](https://flowind.net/) - Cartoons
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
+* [anime3rb](https://anime3rb.com/) - Anime / Sub
 * [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [Bein4kora](https://bein4kora.com/) - Live Football
@@ -588,6 +589,7 @@
 * [movio](https://movio.club/) - Movies / TV
 * [greek-flix](https://greek-flix.com/) - Movies / TV
 * [gamatomovies1](https://gamatomovies1.gr/) - Movies / TV
+* [tainiesonline](https://tainiesonline.top/) - Movies / TV
 * [gamatomovies](https://gamatomovies.info/) - Movies / TV
 * [ertflix](https://www.ertflix.gr/en/) - Movies / TV
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p
@@ -782,6 +784,7 @@
 * [ManhwaIndo](https://manhwaindo.net/) - Manga
 * [Komiku](https://komiku.id/) - Manga
 * [Komikcast](https://komikcast.bz/) - Manga
+* [maid.my](https://www.maid.my.id/) - Manga
 * [Mangaku](https://mangaku.lat/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
@@ -808,7 +811,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.paris/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunity.lu/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -1319,7 +1322,7 @@
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY‐Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
@@ -1577,10 +1580,12 @@
 * [ModoCine](https://modocine.com/) - Movies / TV
 * [poseidonhd2](https://www.poseidonhd2.co/) - Movies / TV
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+* [Streamdz4](https://streamdz4.lat/) - Live TV / Sports
 * [futbollibrehd](https://futbol-libre.org/) / [2](https://futbollibrehd.cl/) - Live Sports
 * [la12hd](https://la12hd.com/) - Live Sports
 * [Zanex](https://zanex.lat/) - Live Sports
 * [streamtp2](https://streamtp2.com/) - Live Sports
+* [dazcfutboltv1](https://dazcfutboltv1.com/) - Live Sports
 * [AceStream Links](https://rentry.co/FMHYBase64#acestream) - Live Sports Acestream IDs
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino

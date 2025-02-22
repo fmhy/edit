@@ -200,7 +200,6 @@
 * [Raining.fm](https://raining.fm/) - Ambient Rain
 * [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [Moon Phase Radio](https://www.moonphaseradio.com/) - Lofi Radio
-* [Lofi Cafe](https://www.loficafe.net/) - Lofi Radio
 * [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Lofi Radio
 * [Ambicular](https://ambicular.com/) - Lofi Radio
 * [Lofi Music](https://lofimusic.app/) - Lofi Radio
@@ -228,7 +227,7 @@
 # ► Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below
-* ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client with Adblock Plugins / [CLI](https://spicetify.app) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / Join [Discord](https://discord.gg/VnevqPp2Rr) for Version Compatibility
+* ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client with Adblock Plugins  / [CLI](https://github.com/spicetify/cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / Join [Discord](https://discord.gg/VnevqPp2Rr) for Version Compatibility
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
 * [Spotify Web Client](https://open.spotify.com/) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
 
@@ -785,6 +784,7 @@
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p) / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editors
+* ⭐ **[FL Studio](https://rutracker.org/)** - Digital Audio Workstation / Search RuTracker
 * ⭐ **[Reaper](https://www.reaper.fm/)** - Digital Audio Workstation / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYBase64#team-vr)** or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editors, Adobe Software, Plugins, etc.
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer

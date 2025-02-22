@@ -633,7 +633,7 @@
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
-* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) or [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
+* [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
 * [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 * [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs

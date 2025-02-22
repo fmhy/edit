@@ -1208,6 +1208,5 @@
 * [Voleflix](https://vole.wtf/voleflix/)
 * [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies)
 * [MoviesFoundOnline](https://moviesfoundonline.com/)
-* [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
 * [FREEMOVIESYT](https://www.youtube.com/@FREEMOVIESYT/)
 * [FreeGreatMovies](https://www.freegreatmovies.com/)
