@@ -16,7 +16,7 @@ For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you 
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
-!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
