@@ -642,7 +642,6 @@
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
-* [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 
 ***
 

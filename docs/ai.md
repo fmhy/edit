@@ -16,7 +16,7 @@
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Signup / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai)
 * ⭐ **[⁠Qwen](https://chat.qwenlm.ai/)** - Alibaba's Chatbots
-* [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone No. Required [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
+* [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone # Required [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-mini / No Signup
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -83,7 +83,7 @@
 * ⭐ **[Jan](https://jan.ai/)** - Self-Hosted / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/janhq/jan)
 * ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface / [Discord](https://discord.gg/sillytavern) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [GitHub](https://github.com/SillyTavern/SillyTavern)
 * ⭐ **[Open WebUI](https://openwebui.com/)** - Self-Hosted Interface / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
-* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Hosted Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4) / [GitHub](https://github.com/pinokiocomputer/pinokio)
 * ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
@@ -262,7 +262,7 @@
 
 # ► Video Generation
 
-* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - Googles Video Generator / US Only
+* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - Google's Video Generator / US Only
 * ⭐ **[PixVerse](https://pixverse.ai/)** - Video Generator / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator / [Discord](https://discord.gg/k5BwmmvJJU)
 * [Stable Video](https://www.stablevideo.com/) - Video Generator
@@ -286,7 +286,7 @@
 * ⭐ **[NexusAI Image](https://image.nexusmind.tech/)** / 300 Daily Per Model / [Discord](https://discord.com/invite/sk8eddGwmP)
 * ⭐ **[FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Signup
 * ⭐ **[Mage](https://www.mage.space/)** / No Signup / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Googles Image Generator / Unlimited / Region Based
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Google's Image Generator / Unlimited / Region Based
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** or [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda) / Unlimited
 * ⭐ **[Grok](https://grok.com/)** / 25 Per 2 Hours
 * [Dezgo](https://dezgo.com/) / Unlimited / No Signup / [Discord](https://discord.com/invite/RQrGpUhPhx)
@@ -439,7 +439,7 @@
 
 * ⭐ **[Applio](https://applio.org/)** - Voice Cloning / No Signup / [Discord](https://discord.gg/urxFjYmYYh) / [GitHub](https://github.com/IAHispano/Applio)
 * ⭐ **[Weights](https://www.weights.gg/)** / [Subreddit](https://www.reddit.com/r/weights/) / [Discord](https://discord.gg/weights) or [Voice Models](https://voice-models.com/) / [Discord](https://discord.gg/3WJ8r6Bf5A) - AI Voice Models and Guides
-* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally) / [Colab](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/Retrieval_based_Voice_Conversion_WebUI_v2.ipynb) / [Discord](https://discord.gg/HcsmBBGyVk)
+* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (Locally) / [Colab](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/Retrieval_based_Voice_Conversion_WebUI_v2.ipynb) / [Discord](https://discord.gg/HcsmBBGyVk)
 * ⭐ **[Voice Changer](https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md)** - Real-Time Voice Changer (W-Okada) / [Guide](https://rentry.co/VoiceChangerGuide) / [Colab](https://colab.research.google.com/github/w-okada/voice-changer/blob/master/Realtime_Voice_Changer_on_Colab.ipynb)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) / No Signup
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App / [Discord](https://discord.gg/A5rgNwDRd4)
