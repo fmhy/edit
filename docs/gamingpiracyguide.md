@@ -612,7 +612,7 @@
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [⁠Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
+* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
