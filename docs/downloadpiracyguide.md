@@ -252,7 +252,7 @@
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
-* [Usenet Providers Map](https://mediavoid.io/map.svg)
+* [Usenet Providers Map](https://usenet.rexum.space/tree)
 * [usenetmax](https://www.usenetmax.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
