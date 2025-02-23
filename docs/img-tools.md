@@ -241,7 +241,7 @@
 * [Kleki](https://kleki.com/) - Pixel Art Editor
 * [CSprite](https://csprite.github.io/) - Pixel Art Editor
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor
-* [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
+* [Strike](https://amorphous.itch.io/strike) - 1-bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
 * [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool
@@ -447,7 +447,7 @@
 * [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
-* [⁠Handz](https://www.handz.design/) - 3D Hand Models
+* [Handz](https://www.handz.design/) - 3D Hand Models
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -604,7 +604,7 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
-* ⭐ **[Slowpoke Pics](https://slow.pics/)**, [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
+* ⭐ **[Slowpoke Pics](https://slow.pics/)**, [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
