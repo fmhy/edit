@@ -494,7 +494,7 @@
 * [Blabber.im](https://blabber.im/) or [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Apps
 * [IRCCloud](https://github.com/irccloud/android), [Goguma](https://codeberg.org/emersion/goguma) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
 * [Bridgefy](https://bridgefy.me/) - Offline Messaging App
-* [⁠NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) - Read / Write NFC Tags
+* [NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) - Read / Write NFC Tags
 * [Eruda](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [GMS-Flags](https://github.com/polodarb/GMS-Flags) - Turn Google Flags On/Off / Root
@@ -988,7 +988,7 @@
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
-* [⁠CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
+* [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
 * [Scriptable](https://scriptable.app/) - Automation Script Tool / [Scripts / Widgets](https://github.com/dersvenhesse/awesome-scriptable), [2](https://shareable.vercel.app/)
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) / [Discord](https://discord.gg/cCSwxqdvzx) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes
@@ -1012,7 +1012,7 @@
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Buz](https://www.buzmenow.com/) - Voice Chat
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
-* [⁠NFC Tools](https://apps.apple.com/app/nfc-tools/id1252962749) - Read / Write NFC Tags
+* [NFC Tools](https://apps.apple.com/app/nfc-tools/id1252962749) - Read / Write NFC Tags
 * [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Microsoft Lens](https://apps.apple.com/app/id975925059) - Scan & Digitize Documents
