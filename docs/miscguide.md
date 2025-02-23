@@ -1468,7 +1468,7 @@
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/) or [8values](https://8values.github.io/) - Political Alignment Test
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
-* [Face Shape AI](https://www.detect-face-shape.com) or [FaceShape](https://www.faceshape.com/) - Face Shape Detectors
+* [Face Shape AI](https://www.detect-face-shape.com) or [FaceShapeDetector](https://www.faceshapedetectors.org/) - Face Shape Detectors
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
