@@ -81,11 +81,11 @@
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily / Google Signup
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling / Online / No Signup
-* [⁠IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online / No Signup
+* [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online / No Signup
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online / No Signup
-* [⁠Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online / No Signup
+* [Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online / No Signup
 * [Photo Magic AI](http://photomagicai.com/) - Image Upscaling / Self-Host / No Signup
-* [⁠Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Host / No Signup
+* [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Host / No Signup
 * [Superimage](https://superimage.io/) - Image Upscaling / Self-Host / Android Only
 * [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Image Upscaling
 * [ImageScaler](https://github.com/RoanH/ImageScaler/) - Batch Image Rescaling / Self-Host / No Signup
@@ -195,7 +195,7 @@
 
 * ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching / [Sharing](https://excalihub.dev/)
 * ⭐ **[AutoDraw](https://www.autodraw.com/)** or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
-* [⁠Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
+* [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
 * [inkscape](https://inkscape.org/) - Drawing / Sketching
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
 * [Sketch Toy](https://www.sketchtoy.com/) - Drawing / Sketching
@@ -205,7 +205,7 @@
 * [Sketchpad](https://sketchpad.app/), [2](https://sketch.io/sketchpad) - Drawing / Sketching
 * [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Mobile Only
 * [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS Only
-* [⁠Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows / iOS
+* [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows / iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching
 * [Magma](https://magma.com/), [Magma](https://magma.com/index), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
@@ -218,7 +218,7 @@
 * [Crayon Town](https://crayon.town/) - Infinite Online Canvas
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
 * [x6ud](https://x6ud.github.io/) - Animal Drawing Reference Tool
-* [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
+* [Noodle](https://hundredrabbits.itch.io/noodle) - 1-bit Sketch Tool
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
@@ -241,7 +241,7 @@
 * [Kleki](https://kleki.com/) - Pixel Art Editor
 * [CSprite](https://csprite.github.io/) - Pixel Art Editor
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor
-* [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
+* [Strike](https://amorphous.itch.io/strike) - 1-bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
 * [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool
@@ -447,7 +447,7 @@
 * [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
-* [⁠Handz](https://www.handz.design/) - 3D Hand Models
+* [Handz](https://www.handz.design/) - 3D Hand Models
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -604,7 +604,7 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
-* ⭐ **[Slowpoke Pics](https://slow.pics/)**, [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
+* ⭐ **[Slowpoke Pics](https://slow.pics/)**, [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -764,7 +764,7 @@
 
 ## ▷ Image Hosts
 
-* ⭐ **[⁠PixVid](https://pixvid.org/)** - 32MB / Forever
+* ⭐ **[PixVid](https://pixvid.org/)** - 32MB / Forever
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Signup Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)

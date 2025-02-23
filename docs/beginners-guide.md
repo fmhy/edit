@@ -10,13 +10,13 @@
 
 > How important is using an adblocker?
 
-Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
+Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so it's important to always have an adblocker.
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/internet-tools#redirect-bypass)** to skip annoying countdowns.
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
-!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
@@ -24,7 +24,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 > Which web browser should I use?
 
-We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer chromium.
+We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
 For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** for privacy or **[Orion](https://kagi.com/orion/)** for iOS.
 
@@ -86,7 +86,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 > How can I safely scan files, and determine if detections are false positives?
 
-Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
 
 !!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
@@ -100,7 +100,7 @@ Privacy is about controlling your personal information, not just keeping things 
 
 For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.nixnet.services/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
 
-!!!note Its best *not* to use your main email or password when you sign up for piracy sites. Its good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
+!!!note It's best *not* to use your main email or password when you sign up for piracy sites. It's good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
 
 ***
 

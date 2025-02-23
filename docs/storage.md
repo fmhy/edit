@@ -11,7 +11,7 @@
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
 * [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
 
-[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/), [⁠Charmed](https://charmed.ai/)
+[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/), [Charmed](https://charmed.ai/)
 
 ### CAD Engineering
 
@@ -134,7 +134,7 @@
 ## Avatar / Logo Creators
 
 * ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
-* [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8bit Avatar Creators
+* [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
@@ -274,7 +274,7 @@
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [⁠Gift4Designer](https://gift4designer.net/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Downloader](https://t.me/Envato_Download_Bot), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [Gift4Designer](https://gift4designer.net/)
 
 ***
 
@@ -528,7 +528,7 @@
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
 
-[git:logs](https://www.gitlogs.com/), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [grep.app](https://grep.app/), [git.news](https://git.news/)
+[Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [grep.app](https://grep.app/), [git.news](https://git.news/)
 
 ***
 
@@ -865,7 +865,7 @@
 * [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal-Based Presentation Tool
 * [PPTX](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) - AI Presentation Generator
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
-* [⁠Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
+* [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
 
 [Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Downloader](https://www.slidesdownloader.com/), [Excalideck](https://app.excalideck.com/)
 
@@ -1155,7 +1155,7 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [⁠Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
 
 ### Udemy TG Channels
 
@@ -1172,7 +1172,7 @@
 * [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
 * [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
-* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
+* [Vue Vben Admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
 
 ***
 

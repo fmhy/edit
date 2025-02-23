@@ -612,7 +612,7 @@
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [⁠Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
+* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
@@ -629,7 +629,7 @@
 * [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [Regex Crossword](https://regexcrossword.com/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
