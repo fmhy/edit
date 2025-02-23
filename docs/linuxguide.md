@@ -738,7 +738,7 @@
 * [mac4n6](https://github.com/pstirparo/mac4n6) - Forensic Artifact Locations
 * [What's Your Sign?](https://objective-see.org/products/whatsyoursign.html) - View File Cryptographic Signatures
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
-* [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address'
+* [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
 * [FileVault](https://support.apple.com/en-us/HT204837) - Mac Disk Encryption
 * [Kextviewr](https://objective-see.org/products/kextviewr.html) - View All Kernel Modules
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
