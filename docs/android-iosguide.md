@@ -137,7 +137,7 @@
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * ⭐ **[ReVanced Auto-Update](https://rentry.co/revanced-auto-update)** - Update ReVanced Apps Automatically
-* ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/242) or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
+* ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/242) or [ReVanced Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
 * [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/) / [Discord](https://discord.gg/yMnc3EywRZ)
 * [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Build APKs with Python / [Config Gen](https://j-hc.github.io/rvmm-config-gen/)
