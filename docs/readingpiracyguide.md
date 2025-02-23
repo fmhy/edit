@@ -506,6 +506,7 @@
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
 * [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
+* [readgraphicnovels](https://readgraphicnovels.blogspot.com/) - Award-winning graphic novels
 
 ***
 
