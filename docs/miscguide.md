@@ -907,7 +907,7 @@
 
 ## ▷ Crypto / Bitcoin
 
-* **Note** - Its recommended to store cryptocurrency offline in cold wallets such as Electrum, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
+* **Note** - It's recommended to store cryptocurrency offline in cold wallets such as Electrum, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
 
 ***
 
