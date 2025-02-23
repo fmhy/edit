@@ -720,7 +720,6 @@
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LRCGET](https://github.com/tranxuanthang/lrcget) - Download Synced Lyrics
 * [LRCLIB](https://lrclib.net/) - Synced Lyrics Search
-* [namuwiki](https://en.namu.wiki/) - Korean Media
 
 ***
 
