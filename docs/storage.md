@@ -1172,7 +1172,7 @@
 * [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
 * [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
-* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
+* [Vue Vben Admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
 
 ***
 
