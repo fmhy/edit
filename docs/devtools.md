@@ -648,6 +648,7 @@
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
 * [Thonny](https://thonny.org/) - Python IDE
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
+* [⁠ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
 
 ***
 
@@ -862,6 +863,7 @@
 
 ## ▷ Frontend Tools
 
+* 🌐 **[⁠Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**

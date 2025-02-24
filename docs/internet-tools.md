@@ -262,6 +262,7 @@
 * [WebCrawler](https://www.webcrawler.com/)
 * [Million Short](https://millionshort.com/)
 * [Andi](https://andisearch.com/)
+* [Vuhuv](https://vuhuv.com/)
 * [Carrot2](https://search.carrot2.org/#/web)
 * [Yahoo](https://www.yahoo.com/)
 * [Stract](https://stract.com/) / [GitHub](https://github.com/StractOrg/stract)
@@ -449,6 +450,7 @@
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
+* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 

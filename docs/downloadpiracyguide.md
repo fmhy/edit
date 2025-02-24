@@ -277,7 +277,7 @@
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leeches
 * [⁠FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
-* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
+* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 
 ***
