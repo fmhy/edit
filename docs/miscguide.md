@@ -671,7 +671,9 @@
 ## ▷ Porn Quitting
 
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography / [Audiobook](https://youtu.be/ZktxO6adTnI)
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy), [Old version](https://web.archive.org/web/20201014165050/https://sites.google.com/site/hackbookeasypeasy/home) - Painlessly Quit Pornography / [Audiobook](https://youtu.be/ZktxO6adTnI)
+* ⭐ **[Burgeon](https://burgeonbook.vercel.app/)** - Freedom comes from understanding
+* ⭐ **[Quit Porn Easily](https://quitporneasily.com/)** - Course by celibateyogi on helping people to quit pornography
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
