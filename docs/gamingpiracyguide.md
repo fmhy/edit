@@ -412,6 +412,7 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [Igre.games](https://igre.games/) - Online html5 games
 
 ***
 
