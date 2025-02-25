@@ -59,7 +59,6 @@
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 * [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
 * [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
-* [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
@@ -203,7 +202,6 @@
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
-* [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 * [FileBot](https://www.filebot.net/) - Media File Renaming
 * [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
@@ -218,7 +216,7 @@
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
-* [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
+* [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - File to PDF Conversion
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
@@ -299,7 +297,7 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
-* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support
+* [AnonDrop](https://anondrop.net/) - Unlimited / Remote Upload / Embed Support
 * [Send.now](https://send.now/) - 100GB / 100GB per file / 30 Days after last download
 * [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
@@ -409,6 +407,7 @@
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * [Any File to Google Drive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to Google Drive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via Google Drive
+* [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [Google Drive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [Google Drive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
