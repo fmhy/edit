@@ -733,7 +733,7 @@
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [⁠DistroTV](https://distro.tv/) - Live TV
 * [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
-* [Anime World India](https://anime-world.in/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
+* [Anime World India](https://anime-world.co/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [hungama](https://www.hungama.com/music/) - Music

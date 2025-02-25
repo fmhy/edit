@@ -115,7 +115,7 @@
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stinto.chat/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
-* [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chats
+* [Pidgin](https://www.pidgin.im/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chats
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
 * [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
@@ -130,7 +130,6 @@
 * [Mini Video Me](https://github.com/maykbrito/mini-video-me) - Webcam Managers
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
 * [Videolink2me](https://videolink2me.com/) - Video Chat
-* [TinyChat](https://tinychat.com/) - Video Chat
 * [Hello](https://hello.vasanthv.me/) - Video Chat / [GitHub](https://github.com/vasanthv/hello)
 * [Noysi Meet](https://meet.noysi.com/) - Video Chat
 * [Briefing](https://brie.fi/ng) - Video Chat

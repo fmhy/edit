@@ -451,7 +451,7 @@
 * [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
 * [ProgRockVintage](https://www.progrockvintage.com/) - Classic Rock / MP3
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
-* [FoggyNotion](https://foggynotion-flac.blogspot.com/) or [FiftiesBeat](https://fiftiesbeat.blogspot.com/) - Classic Music / MP3 / FLAC
+* [FoggyNotion](https://foggynotion-flac.blogspot.com/) - Classic Music / MP3 / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
 * [FlatbackAndClassical](http://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
