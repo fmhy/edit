@@ -140,9 +140,10 @@
 
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
-* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
+* [gocryptfs](https://nuetzlich.net/gocryptfs/) / [GitHub](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem, Directory-based file encryption
 * [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
+* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
 
 ***
 
