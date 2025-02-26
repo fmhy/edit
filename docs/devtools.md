@@ -156,6 +156,7 @@
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
+* [Proxed.AI](https://proxed.ai/) - Secure AI APIs in iOS - No SDK, Just Change Your API URL
 
 ***
 
