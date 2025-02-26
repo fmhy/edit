@@ -1414,7 +1414,7 @@
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://live.domatv.net/) - Live TV
-* [finttv](https://finttv.in/) - Live Football
+* [finttv](https://finttv.in/) - Live Sports
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:\\music\\](https://vk.com/e_music) - Music
