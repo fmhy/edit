@@ -78,7 +78,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://play.google.com/store/apps/details?id=org.readera)**
-* **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / **[MangaUpdates](https://www.mangaupdates.com/)** (manga)
+* **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
 ***
 
