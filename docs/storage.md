@@ -961,7 +961,7 @@
 
 ### Websites
 
-[Steamworkshop.download](http://steamworkshop.download/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru), [ggntw](https://ggntw.com/steam), [Ascendara](https://ascendara.app/)
+[Steamworkshop.download](http://steamworkshop.download/), [ggntw](https://ggntw.com/steam), [Ascendara](https://ascendara.app/), [Skymods](https://catalogue.smods.ru)
 
 ### Programs
 
