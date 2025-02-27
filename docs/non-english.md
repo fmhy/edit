@@ -36,6 +36,7 @@
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [WeCima](https://wecima.xyz/) - Movies / TV / Cartoons
+* [GooCima](https://goocima.com/) - Movies / TV / Anime
 * [mycinma](https://mycinma.com/) - Movies / TV
 * [Cimaleek](https://web.cimaleek.to/) - Movies / TV
 * [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
