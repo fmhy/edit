@@ -14,7 +14,7 @@
 * ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Download Buttons](https://greasyfork.org/en/scripts/514877) / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* [Liber3](https://liber3.eth.limo/) - Books / [Telegram](https://t.me/liber3eth)
+* [Liber3](https://liber3.eth.limo/) - Books
 * [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use Adblocker
 * [FreeBannedBooks](https://freebannedbooks.org/) - Books Banned in Schools by Politicians
@@ -279,7 +279,6 @@
 * [⁠Yomu](https://www.yomu-reader.com/) - Ebook Reader / iOS / Mac
 * [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / iOS / Mac
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
-* [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
 * [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / PC
 * [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
@@ -325,7 +324,6 @@
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Litgu.ru](https://litgu.ru/)
 * [AudiobooksArchive](https://t.me/AudiobooksArchive) - Telegram
-* [Audiobooks_Collection](https://t.me/Audiobooks_Collection) - Telegram
 * [audiobooks_English](https://t.me/audiobooks_English) - Telegram
 * [Audible (selected)](https://t.me/+GV_tJ_U7em04YjU9) - Telegram
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
@@ -377,7 +375,7 @@
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [Zahard](https://zahard.xyz/) - Webcomics / [Telegram](https://t.me/fast_pass)
+* [Zahard](https://zahard.xyz/) - Webcomics
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
@@ -500,7 +498,6 @@
 * [WoopRead](https://woopread.com/)
 * [Royal Road](https://www.royalroad.com/) - Web Novels
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram
-* [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
 * [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
@@ -709,7 +706,6 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
-* [Bzdnbot](https://t.me/Bzdnbot) - Telegram
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [Hacker News Books](https://hackernewsbooks.com/) - Books Mentioned on HN
@@ -782,7 +778,7 @@
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://searchthearxiv.com/), [2](https://papermatch.mitanshu.tech/) / [Chatbot](https://github.com/evanhu1/talk2arxiv), [2](https://explainarxiv.org/), [3](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
-* ⭐ **[Nexus search](https://t.me/nexus_search/94)**, [2](https://t.me/nexus_search/214) - Science / Articles
+* ⭐ **[Nexus search](https://t.me/nexus_search/94)** - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDoc](https://idoc.pub/) - Document Search

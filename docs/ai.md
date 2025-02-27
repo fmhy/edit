@@ -101,7 +101,7 @@
 
 * 🌐 **[⁠Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
 * 🌐 **[BestERP](https://besterp.ai/)** - Roleplaying LLM Lists
-* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Telegram](https://t.me/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
+* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character.AI](https://character.ai/)** - Roleplaying Chatbots / [Extract](https://rentry.co/reverse-cAI) / [Discord](https://discord.com/invite/characterai) / [Subreddit](https://www.reddit.com/r/CharacterAI/)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
@@ -382,6 +382,7 @@
 * [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM)
 * [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
+* [⁠Mubert](https://mubert.com/)
 * [AIVA](https://aiva.ai/) / [Discord](https://discordapp.com/invite/ypDnFXN)
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [Melobytes](https://melobytes.com/en)

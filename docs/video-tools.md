@@ -291,7 +291,7 @@
 ## ▷ Plex Tools
 
 * [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-* [Tautulli](https://tautulli.com/) - Server Monitor
+* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tautulli-note)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Plex Ripper](https://www.plexripper.rocks/) - Merge Plex Libraries w/ Your Own
@@ -374,7 +374,7 @@
 ## ▷ Video Editors
 
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
-* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
+* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor

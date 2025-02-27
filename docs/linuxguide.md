@@ -109,6 +109,7 @@
 ## ▷ Raspberry Pi
 
 * [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
+* [WoR-flasher](https://github.com/Botspot/wor-flasher) - Install Win10/11 on Raspberry Pi SD via Linux
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
@@ -216,7 +217,7 @@
 
 * ⭐ **[mpv](https://mpv.io/)** - Video Player
 * ⭐ **[Haruna](https://apps.kde.org/haruna/)** or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV Frontends
-* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** or [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editors
+* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive) or [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editors
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use VPN
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
@@ -343,7 +344,7 @@
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI Circumvention
-* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb/) - File Encryption
+* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [⁠gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - YouTube DPI Circumvention

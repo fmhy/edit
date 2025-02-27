@@ -185,11 +185,9 @@
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 * [CN GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI) - Offline Steam DRM Bypass / DLC Unlocker
 * [SuperLosslessMusic](https://t.me/SuperLosslessMusic) - Audio / FLAC
-* [scjmusic](https://t.me/scjmusic) - Audio / FLAC
 * [flac_file](https://t.me/flac_file) - Audio / FLAC
 * [VmoMusic](https://t.me/VmoMusic) - Audio / FLAC
 * [ZAYU_music](https://t.me/ZAYU_music) - Audio / FLAC
-* [HiFiMusicResource](https://t.me/HiFiMusicResource) - Audio / FLAC
 
 ## ▷ Torrenting
 
@@ -652,7 +650,7 @@
 ## ▷ Downloading
 
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
-* ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
+* ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
 * ⭐ **[VegaMovies](https://m.vegamovies.ms/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://modlist.in/?type=telegram) / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -667,23 +665,22 @@
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
-* [MKV Mad](https://mkvmad.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
+* [MKV Mad](https://mkvmad.com/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [Moviesup](https://moviesup.site/) - Movies / TV / 1080p
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
-* [mkvAnime](https://ww1.mkvanime.mov/) - Movies / Shows / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+t90Seng2e0QzNzhl)
+* [mkvAnime](https://ww1.mkvanime.mov/) - Movies / Shows / Anime / Sub / Dub / 1080p
 * [HDHub4u](https://hdhublist.com/?re=hdhub) - Movies / TV / 1080p / [Telegram](https://hdhublist.com/?re=telegram)
-* [Moviespapa](https://www.moviespapa.parts/) - Movies / TV / 1080p / [Telegram](https://t.me/moviespapaco)
+* [Moviespapa](https://www.moviespapa.parts/) - Movies / TV / 1080p
 * [MKVHub](https://www.mkvhub.hair/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+lTty7fOB6I4yM2M5)
 * [FilmyMeet](https://filmy4web.mex.com/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MoviesNation](https://movies.dog/), [2](https://moviesnation.party/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+O88huh3QZ2k2Yjc9)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
-* [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+6Kx9qLtPyO80OGM1)
-* [9xflix](https://9xflix.com/m/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
-* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / Sub / Dub / 720p / [Login](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#edith-login)
+* [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
+* [9xflix](https://9xflix.com/m/) - Movies / TV / NSFW / Sub / Dub / 720p
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [Anilot.in](https://anilot.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
 * [Toonsouthindia](https://toonsouthindia.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/+VQNviznAktwAxUv8)
@@ -1013,14 +1010,9 @@
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [Pixinema](https://www.pixinema.ir/) - Soundtracks
 * [farsroid](https://www.farsroid.com/) - APKs
-* [TelFiles_Bot](https://t.me/TelFiles_Bot) - File to Direct Link Telegram Bot
-* [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Movie Leech Telegram Bots
+* [TeleLeecherbot](https://t.me/TeleLeecherbot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
 * [hoseinwave](https://rj.hoseinwave.ir/) - Javen Radio Downloader
-
-## ▷ Torrenting
-
-* [TorPlayBot](https://t.me/TorPlaybot) - Torrent Download Telegram Bot
 
 ## ▷ Streaming / پخش
 
@@ -1527,13 +1519,11 @@
 * [granpirata](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
-* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
-* [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
-* [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
+* [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Shadow-Rangers](https://shadowrangers.net/) - Anime / Sub / Dub / Latino / Castilian
 * [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
 * [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/484990)
@@ -1542,7 +1532,6 @@
 * [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
-* [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
 * [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses / [Bypass](https://greasyfork.org/en/scripts/462492)
@@ -1551,7 +1540,7 @@
 ## ▷ Torrenting / Torrentear
 
 * ⭐ **[DonTorrent](https://dontorrent.business/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
-* ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
+* ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [Wolfmax4k](https://wolfmax4k.com/) - Movies / TV / 4K / 1080p
@@ -1678,7 +1667,7 @@
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
-* [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
+* [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Text Adventure / Telegram
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
@@ -1939,7 +1928,7 @@
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
 * [Filma24](https://www.filma24.band/) - Albanian / Movies / TV / 1080p
-* [Ethio Terka](https://t.me/ethio_terka) or [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
+* [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics

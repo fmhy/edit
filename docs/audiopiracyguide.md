@@ -293,7 +293,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
-* ⭐ **[squid.wtf](https://squid.wtf/)** or [Qobuz-DL](https://www.qobuz-dl.com/) - Deezer / Qobuz / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / Qobuz / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / FLAC / [Discord](https://discord.com/invite/yjkdAc53rj)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb
@@ -566,7 +566,7 @@
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists between Services
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
-* [Random Song Generator](https://randomsonggenerator.com/), [Samplette](https://samplette.io/) or [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play Random YouTube Songs
+* [Random Song Generator](https://randomsonggenerator.com/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Everyday
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [Acclaimed Music](https://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
@@ -782,7 +782,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p) / [Premium Bypass](https://gmehpremium.pages.dev/)
+* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editors
 * ⭐ **[FL Studio](https://rutracker.org/)** - Digital Audio Workstation / Search RuTracker
 * ⭐ **[Reaper](https://www.reaper.fm/)** - Digital Audio Workstation / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)
@@ -845,7 +845,7 @@
 
 ## ▷ Audio Plugins
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
+* ⭐ **[G-MEH](https://g-meh.com/)** - Download
 * ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYBase64#team-vr)** - Download
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
@@ -855,6 +855,7 @@
 * [AirWindows](https://www.airwindows.com/) - Download / [Consolidated](https://www.airwindows.com/consolidated/)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [Plugins4Free](https://plugins4free.com/) - Download
+* [⁠Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index
@@ -869,6 +870,7 @@
 * ⭐ **[Surge XT](https://surge-synthesizer.github.io/)** - Hybrid / Subtractive Synth
 * ⭐ **[Vital](https://vital.audio/)** or [Helm](https://tytel.org/helm/) - Wavetable Synth
 * ⭐ **[Dexed](https://asb2m10.github.io/dexed/)** - Yamaha DX7 Emulation
+* [DecentSamples](https://www.decentsamples.com/product/decent-sampler-plugin/) or [Plogue](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulator
 * [IEM Plug-in Suite](https://plugins.iem.at/) - Open Source
 * [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Open Source
