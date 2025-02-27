@@ -39,7 +39,7 @@ features:
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#91989F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-bot"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>
 
-  - title: Streaming
+  - title: Moives / TV / Anime
     link: /videopiracyguide
     details:
       Stream, download, torrent and binge all your favourites movies or shows!
@@ -52,7 +52,7 @@ features:
       2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h2.17"/><path d="M16
       16h2"/></svg>
 
-  - title: Listening
+  - title: Music / Podcasts / Radio
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#7c82fe" stroke-width="2"
@@ -63,7 +63,7 @@ features:
     link: /audiopiracyguide
     details: Stream, download and torrent songs, podcasts and more!
 
-  - title: Gaming
+  - title: Gaming / Emulation
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#49d3e9" stroke-width="2"
@@ -78,7 +78,7 @@ features:
       Download and play all your favourite games or emulate some old but gold
       ones!
 
-  - title: Reading
+  - title: Books / Comics / Manga
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#3ccd93" stroke-width="2"
@@ -132,7 +132,7 @@ features:
     link: /linuxguide
     details: The $HOME of Linux and macOS.
 
-  - title: Non English
+  - title: Non-English
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#FB9966" stroke-width="2"
