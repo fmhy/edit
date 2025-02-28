@@ -840,7 +840,7 @@
 * [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/) / [Frontend](https://libremdb.iket.me)
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV / [Add to Sites](https://greasyfork.org/en/scripts/35443) / [Add to IMDb](https://greasyfork.org/en/scripts/15222)
 * [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
-* [⁠Nevix](https://nevix.com/) - Movies / TV / Anim / Social Media
+* [⁠Nevix](https://nevix.com/) - Movies / TV / Anime / Social Media
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
 * [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
 * [rate.house](https://rate.house/) - Media Tracker
