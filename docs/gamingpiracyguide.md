@@ -36,8 +36,8 @@
 * [TriahGames](https://triahgames.com/) - Download / [Discord](https://discord.gg/vRxJNNcJNh) / PW: `www.triahgames.com`
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
 * [GLoad](https://gload.to/) - Download
-* [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / Use Adblocker / [Site Info](https://rentry.org/ikc3x8bt)
-* [Games4U](https://games4u.org/) - Download / Use Adblocker / Avoid Fake Download Buttons
+* [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / Use Adblock / [Site Info](https://rentry.org/ikc3x8bt)
+* [Games4U](https://games4u.org/) - Download / Use Adblock
 * [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download

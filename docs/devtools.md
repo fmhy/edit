@@ -646,6 +646,7 @@
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
+* [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
 * [Thonny](https://thonny.org/) - Python IDE
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 * [⁠ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
