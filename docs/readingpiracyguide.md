@@ -261,7 +261,7 @@
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
-* [⁠Readest](https://readest.com/) - Ebook Reader / PC / Linux / Mac / [GitHub](https://github.com/readest/readest)
+* [⁠Readest](https://readest.com/) - Ebook Reader / PC / Linux / Mac / Android / iOS / [GitHub](https://github.com/readest/readest)
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
 * [Jane Reader](https://janereader.com/) - Ebook Reader / PC / Mac
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS

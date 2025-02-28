@@ -962,7 +962,7 @@
 
 ### Websites
 
-[Steamworkshop.download](http://steamworkshop.download/), [ggntw](https://ggntw.com/steam), [Ascendara](https://ascendara.app/), [Skymods](https://catalogue.smods.ru)
+[Steamworkshop.download](http://steamworkshop.download/), [ggntw](https://ggntw.com/steam), [Skymods](https://catalogue.smods.ru)
 
 ### Programs
 
