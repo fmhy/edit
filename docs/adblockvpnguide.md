@@ -258,6 +258,7 @@
 * [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
 * [psbdmp](https://psbdmp.ws/) - Password Breach Check
 * [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
+* [⁠BreachDetective](https://breachdetective.com/) - Password Breach Check
 
 ***
 
