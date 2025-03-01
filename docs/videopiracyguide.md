@@ -24,11 +24,10 @@
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream)
-* ⭐ **[Ronny Flix](https://ronnyflix.xyz/)** - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix) / [Discord](https://discord.gg/ygsNU4Ac)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
-* ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
+* [uira.live](https://uira.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / [4K Guide](https://youtu.be/cj5gRXBnWDA), [2](https://i.ibb.co/PDnw1nh/image.png) / [Discord](https://discord.gg/streamflix)
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / [Discord](https://discord.gg/VGQKGPM9Ej)
@@ -41,6 +40,7 @@
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [StigStream](https://stigstream.com/), [2](https://stigstream.xyz), [3](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
+* [Ronny Flix](https://ronnyflix.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix) / [Discord](https://discord.gg/ygsNU4Ac)
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [CorsFlix](https://corsflix.net/), [2](https://weprogramstuff.cc/) - Movies / TV / Anime
@@ -71,7 +71,7 @@
 * [EnjoyTown](https://enjoytown.pro/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime / [Discord](https://discord.com/invite/dDKP5Hk7Bp)
 * [Hopcorn+](https://c.hopmarks.com/), [2](https://p.hopmarks.com/) - Movies / TV / Anime
-* [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
+* [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [SFlix](https://sflix.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker

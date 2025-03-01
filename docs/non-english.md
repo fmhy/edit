@@ -106,7 +106,7 @@
 
 ***
 
-## ▷ Streaming
+## ▷ Streaming / স্ট্রিমিং
 
 * [BanglaFlix](https://banglaflix.com.bd/) - Movies / TV
 
@@ -432,8 +432,8 @@
 
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
+* [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [Darkiworld](https://darkiworld1.com/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
 * [Wiflix](https://wiflix-hd.kim/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023)
@@ -451,7 +451,6 @@
 * [FRAnime.to](https://franime.to/) - Anime / Sub / 1080p
 * [toonanime](https://v6.animesultra.net/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
-* [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
@@ -516,11 +515,11 @@
 
 ## ▷ Streaming
 
-* ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * ⭐ **[Megakino](https://megakino.tax)** - Movies / TV / Dub / 1080p
 * ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[S.TO](https://s.to/)**, [2](https://serienstream.to/) - TV / Anime / Dub / 720p
+* ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * [Cineby](https://www.cineby.app/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p

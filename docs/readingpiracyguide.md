@@ -310,7 +310,7 @@
 
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning](https://rentry.org/rriia9b4)**
+* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning)**
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookss](https://audiobookss.com/)
