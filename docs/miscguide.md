@@ -999,8 +999,10 @@
 
 * ⭐ **[GG.deals](https://gg.deals/deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
-* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
-* [SteamBase](https://steambase.io/sales) - Steam Sales
+* ⭐ **[SteamDB](https://steamdb.info)** - Everything on Steam
+* ⭐ **[EgData](https://egdata.app)** - Everything on Epic Games
+* ⭐ **[GogDB](https://www.gogdb.org)** - Everything on Good Old Games
+* [SteamBase](https://steambase.io/sales) - Steam Sales / Stats
 * [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales
 * [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
