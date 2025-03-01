@@ -78,7 +78,6 @@
 * [Matecat](https://www.matecat.com) - Online Translation Editor
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
-* [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
 * [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsecodetranslator.com/) - Morse Code / Binary Translators

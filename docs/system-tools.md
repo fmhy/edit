@@ -22,7 +22,6 @@
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
-* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
@@ -128,7 +127,6 @@
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer Client
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client
-* [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Client
 * [p2p](https://github.com/miroslavpejic85/p2p) - Portable Client
 * [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
@@ -176,7 +174,6 @@
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
-* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
@@ -191,6 +188,7 @@
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt/personal) - System Benchmarking
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
+* [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#driver-note)
 * [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
 
@@ -204,7 +202,6 @@
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
 * [Netdata](https://www.netdata.cloud/) - Cloud-Based Monitoring
 * [HWRadar](https://coderbag.com/product/hwradar) or [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
-* [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
 * [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
@@ -227,7 +224,6 @@
 * [⁠R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
 * [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 
@@ -371,11 +367,9 @@
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
-* [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
 * [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
 * [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments / Recovery
-* [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 
 ***
@@ -390,7 +384,6 @@
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/) or [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
-* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [Aerial Screen Saver](https://github.com/OrangeJedi/Aerial) - Apple TV Style Screensavers
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
