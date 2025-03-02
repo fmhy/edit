@@ -34,7 +34,7 @@
 * [NextChat](https://nextchat.dev/) - Multiple Chatbots / [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 * [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Sign-Up / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Sign-Up
-* [⁠Kimi](https://kimi.ai/) - Kiwi 1.5 Chatbot
+* [⁠Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot
 * [Groq](https://groq.com/) - Llama 3 and Mixtral Chatbots / [Discord](https://discord.gg/invite/groq)
 * [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / Unlimited / No Sign-Up
@@ -123,7 +123,7 @@
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [⁠WebDev Arena](https://web.lmarena.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
-* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / No Sign-Up / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
+* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Sign-Up / [Discord](https://discord.gg/getpieces)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Sign-Up
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
@@ -256,22 +256,20 @@
 
 # ► Video Generation
 
-* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - Google's Video Generator / US Only / [Discord](https://discord.com/invite/googlelabs)
-* ⭐ **[PixVerse](https://pixverse.ai/)** - Video Generator / [Discord](https://discord.com/invite/MXHErdJHMg)
-* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator / [Discord](https://discord.gg/k5BwmmvJJU)
-* [Stable Video](https://www.stablevideo.com/) - Video Generator
-* [Vidu](https://www.vidu.studio/) - Video Generator / [Discord](https://discord.gg/3pDU8fmQ8Y)
-* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator / No Sign-Up / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
-* [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator / [Discord](https://discord.gg/lumaai)
-* [TextToVideo](https://text-to-video.vercel.app) - Video Generator
-* [LensGo](https://lensgo.ai/) - Video Generator / [Discord](https://discord.com/invite/CHMhrByFJS)
-* [Kling AI](https://klingai.com/) - Video Generator / [Discord](https://discord.com/invite/8tj8YjSzKr)
-* [Pika](https://www.pika.art/) - Video Generator / [Discord](https://discord.com/invite/pika)
-* [⁠Fusion Brain](https://fusionbrain.ai/en/) - Video Generator
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - Video Generator / 50 Daily
-* [Krea](https://www.krea.ai/) - Video Generator / 10 Daily / No Sign-Up / [Discord](https://discord.gg/rJurUAR8Kz)
-* [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
-* [Rollideo](https://rollideo.com/) - Text to Subbed Video / No Sign-Up
+* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - US Only / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[PixVerse](https://pixverse.ai/)** - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
+* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Unlimited / No Signup / Colab / [Discord](https://discord.gg/k5BwmmvJJU)
+* [Stable Video](https://www.stablevideo.com/)
+* [Vidu](https://www.vidu.studio/) - 6 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
+* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Unlimited / No Sign-Up / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
+* [Dream Machine](https://lumalabs.ai/dream-machine) - 5 per Account / [Discord](https://discord.gg/lumaai)
+* [LensGo](https://lensgo.ai/) - 5 Daily / [Discord](https://discord.com/invite/CHMhrByFJS)
+* [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
+* [Pika](https://www.pika.art/) - 5 Monthly / [Discord](https://discord.com/invite/pika)
+* [⁠Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
+* [Krea](https://www.krea.ai/) - 10 Daily / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Hailuo AI](https://hailuoai.video/) - 3 Daily / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 
 ***
 

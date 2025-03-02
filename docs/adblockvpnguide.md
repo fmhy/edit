@@ -399,6 +399,7 @@
 * [Delusionz](https://delusionz.xyz/)
 * [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
+* [Szvy Central](https://szvy.lol/), [2](https://test.szvy.unitgrapigs.com/), [3](https://play.szvy.win/), [4](https://studying-central.global.ssl.fastly.net/), [5](https://zearn.global.ssl.fastly.net/), [6](https://cheapenglishtutors.global.ssl.fastly.net/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
