@@ -749,7 +749,6 @@
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
-* [creddle](http://creddle.io/)
 * [Resuminator](https://www.resuminator.in/)
 * [Sclof](https://sclof.com/)
 * [flowcv](https://flowcv.com/)
