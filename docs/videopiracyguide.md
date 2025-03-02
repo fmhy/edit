@@ -380,6 +380,7 @@
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
 * [Rive Live](https://rivestream.org/iptv) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
+* [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - TV / Sports / Free IPTV with 30k+ channels (renewable daily)
 * [AlienFlix TV](https://alienflix.net/live) - TV
 * [NTV](https://ntvstream.cx/) - TV / Sports
 * [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
