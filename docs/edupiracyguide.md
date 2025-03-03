@@ -1350,6 +1350,7 @@
 * [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
 * [fxSolver](https://www.fxsolver.com/), [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/), [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
+* [Gratuity Calculator UAE](https://gratuity-calculator.com/) - Gratuity Calculator UAE
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 
