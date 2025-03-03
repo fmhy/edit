@@ -443,7 +443,7 @@
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images
-* [OpenMoji](https://openmoji.org/) - Emojis
+* [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis
 * [PixelJoint](https://pixeljoint.com/), [Lospec](https://lospec.com/) or [rsrcs](https://rentry.co/rsrcs) - Download / Share Pixel Art
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [FanCaps](https://fancaps.net/) or [Film Grab](https://film-grab.com/) - Media Screenshots

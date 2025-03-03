@@ -6,7 +6,7 @@
 
 # ► Download Directories
 
-* **Note** - Some Open Directories grab IPs, so use a VPN or Tor when accessing them.
+* **Note** - Some Open Directories track IP addresses. Always use a VPN or Tor for anonymity when accessing these resources.
 
 ***
 
@@ -120,7 +120,7 @@
 
 # ► Software Sites
 
-* **Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Sandboxie](https://rentry.co/sandboxie-guide)** to prevent system compromise.
 
 ***
 

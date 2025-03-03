@@ -78,7 +78,6 @@
 * [Matecat](https://www.matecat.com) - Online Translation Editor
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
-* [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
 * [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsecodetranslator.com/) - Morse Code / Binary Translators
@@ -216,7 +215,7 @@
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad / Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
@@ -385,7 +384,7 @@
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
-* [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting & Editing Workspaces
+* [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -406,7 +405,7 @@
 
 ## ▷ To Do Lists
 
-* ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
 * ⭐ **[Super Productivity](https://super-productivity.com/)**
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
@@ -444,48 +443,15 @@
 
 ***
 
-# ► Font Tools
+# ► Fonts
 
-* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
-* ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
-* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer/Terminal Fonts
-* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
-* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
-* ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [OpenDyslexic](https://opendyslexic.org/) - Increase Page Readability
+* [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
-* [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
-* [Formito](https://formito.com/tools/logo) - Typography Logo Maker
-* [TypeTerms](https://avark.agency/typeterms/) - Typography Cheat Sheet
-* [TheGoodLineHeight](https://thegoodlineheight.com/) - Typography Scaling
-* [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
-* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
-* [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
-* [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
-* [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
-* [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
-* [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator
-* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
-* [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
 * [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
-* [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Font Engine
-* [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
-* [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
-* [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
-* [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
-* [FontJoy](https://fontjoy.com/) - Font Pairings Generator
-* [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [Font Forge](https://fontforge.org/en-US/) - Font / Typeface Editors
-* [Transfonter](https://transfonter.org/) - Font Converter
-* [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
-* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
-* [TypeDesignResources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 
 ***
 
@@ -495,11 +461,12 @@
 * ⭐ **[Font Squirrel](https://www.fontsquirrel.com/)** - Commercial Use
 * ⭐ **[DaFont](https://www.dafont.com/)** - Freeware
 * ⭐ **[1001 Fonts](https://www.1001fonts.com/)** - Freeware
-* [Google Fonts](https://fonts.google.com/), [GooFonts](https://goofonts.com/) or [Coollabs](https://fonts.coollabs.io/)
+* [Modern Fonts Stacks](https://modernfontstacks.com/) - Collection of CSS System Font Stacks
 * [Velvetyne](https://velvetyne.fr/) - Open Source
 * [uncut.wtf](https://uncut.wtf/) - Open Source
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
+* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Tagged Fonts](https://goofonts.com/) / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
 * [Fontsly](https://fontsly.com/) - Freeware
@@ -517,14 +484,13 @@
 * [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) - Freeware
 * [GlukFonts](https://www.glukfonts.pl/fonts.php) - Freeware
 * [Iconian](https://www.iconian.com/) - Freeware
-* [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 
 ***
 
 ## ▷ Free Fonts
 
-* ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-site Font Search
-* ⭐ **[FontPiracy](https://rentry.co/FontPiracy)** - Font Download Guide
+* ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-Site Font Search
+* ⭐ **[Font Piracy 101](https://rentry.co/FontPiracy)** - Font Download Guide
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * [Windows Fonts](https://wfonts.com/)
 * [BeFonts](https://befonts.com/)
@@ -535,8 +501,6 @@
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
-* [FontGenerator](https://fontgenerator.fun/)
-* [Font-Generator](https://www.font-generator.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
@@ -545,17 +509,47 @@
 
 ***
 
-## ▷ Unicode Fonts
+# ► Font Tools
 
-* ⭐ **[YayText](https://yaytext.com/)**
-* ⭐ **[MessLetters](https://www.messletters.com/)**
-* ⭐ **[fSymbols](https://fsymbols.com/generators/)**
-* ⭐ **[Fancy Text](https://fancy-text.net/)**
-* [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) or [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
-* [coolfont](https://coolfont.org/)
-* [FontMaker](https://fontmaker.io/)
-* [Tesms](https://www.tesms.net/)
-* [Font Generator Online](https://www.fontgeneratoronline.com/)
-* [FontGenerator](https://fontgenerator.cc/)
-* [fontchangerguru](https://fontchangerguru.com/)
-* [fancytextdecorator](https://fancytextdecorator.com/)
+* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
+* ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
+* [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) or [Font Finder](https://www.whatfontis.com/) - Font Identification Tools
+* [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
+* [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
+* [FontBase](https://fontba.se/) or [NexusFont](https://www.xiles.app/) - Font Managers
+* [DS-Fusion](https://ds-fusion.github.io/) - AI Typography Generator
+* [Formito](https://formito.com/tools/logo) - Typography Logo Maker
+* [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
+* [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
+* [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
+* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
+* [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
+
+***
+
+## ▷ Font / Text Generators
+
+* ↪️ **[Unicode Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_text_generators)**
+* ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
+* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
+* [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
+* [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
+* [Textcraft](https://textcraft.net/) - Minecraft Text Generator
+* [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - 3D / Animated Text Generators
+* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
+* [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator
+* [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
+* [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
+
+***
+
+## ▷ Font Customization
+
+* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
+* [V-Fonts](https://v-fonts.com/) or [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Testers
+* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [FontStruct](https://fontstruct.com/) - Custom Font Creators
+* [Fontjoy](https://fontjoy.com/) - Generate Font Combinations
+* [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
+* [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
+* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [MFEKglif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Birdfont](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [FontForge](https://fontforge.org/en-US/) - Font / Typeface Editors
+* [Transfonter](https://transfonter.org/) - Font Converter
