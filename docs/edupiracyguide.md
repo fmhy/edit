@@ -1352,6 +1352,7 @@
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
+* [Gratuity Calculator UAE](https://gratuity-calculator.com/) - Gratuity Calculator UAE
 
 ***
 
