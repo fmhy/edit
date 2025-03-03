@@ -266,10 +266,10 @@
 * [LensGo](https://lensgo.ai/) - 5 Daily / [Discord](https://discord.com/invite/CHMhrByFJS)
 * [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [Pika](https://www.pika.art/) - 5 Monthly / [Discord](https://discord.com/invite/pika)
-* [⁠Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
-* [Krea](https://www.krea.ai/) - 10 Daily / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Krea](https://www.krea.ai/) - 2 Daily / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Hailuo AI](https://hailuoai.video/) - 3 Daily / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
+* [⁠Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 
 ***
 

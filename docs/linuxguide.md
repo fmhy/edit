@@ -567,7 +567,7 @@
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
-* [File Find](https://gitlab.com/Pixel-Mqster/File-Find) or [Superfile](https://github.com/yorukot/superfile) - File Explorer / Managers
+* [Superfile](https://github.com/yorukot/superfile) - File Explorer / Managers
 * [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
 * [JDOwnloader2](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
