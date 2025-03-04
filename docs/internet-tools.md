@@ -251,7 +251,7 @@
 * [TheOldNet](https://theoldnet.com/) - Retro Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [Leta](https://leta.mullvad.net) - Mullvad VPN Required
+* [Leta](https://leta.mullvad.net)
 * [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
 * [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch)
 * [Whoogle Search](https://github.com/benbusby/whoogle-search)
@@ -595,12 +595,13 @@
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
-* [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
+* [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
+* [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chrome-Based Browser Flags
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads

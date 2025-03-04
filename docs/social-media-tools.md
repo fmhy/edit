@@ -127,7 +127,7 @@
 
 ## ▷ Discord Bots
 
-* ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
+* ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Discord](https://discord.com/invite/WrnKKF8) / [Telegram](https://t.me/freestuff_hub)
 * [FixEmbed](https://github.com/kenhendricks00/FixEmbed) - Fix Embeds on Discord Bot
 * [esmBot](https://github.com/esmBot/esmBot) - Image / Music Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
@@ -450,7 +450,7 @@
 * [AMP4](https://amp4.cc/) - YouTube Downloader / Online
 * [EZMP3](https://ezmp3.cc/) - YouTube Downloader / Online
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/) or [thumbnail-download](https://thumbnail-download.com/) - Download Video Thumbnails
+* [Get Thumbs](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [YouTube Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) or [thumbnail-download](https://thumbnail-download.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
 * [YT Subtitle Downloader](https://greasyfork.org/en/scripts/520194) - Download Video Subtitles
 
@@ -545,7 +545,6 @@
 * ⭐ **[TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)** - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - Twitch Adblocker
 * [PurpleAdblock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - Twitch Adblocker
-* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
 * [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw) or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad-Free Twitch APKs

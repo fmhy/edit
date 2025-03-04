@@ -48,7 +48,7 @@
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
-[Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)
+[⁠IronFox](https://ironfoxoss.org/) / [GitHub](https://gitlab.com/ironfox-oss/IronFox), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)
 
 ### Privacy Based
 
@@ -203,7 +203,7 @@
 
 * ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)**
 
-[Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [Helmanual](https://helpmanual.io/), [CommandlineFU](https://www.commandlinefu.com/), [how2](https://github.com/santinic/how2), [Bash Academy](https://guide.bash.academy/), [ss64 Bash](https://ss64.com/bash/), [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/), [navi](https://github.com/denisidoro/navi)
+[Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [CommandlineFU](https://www.commandlinefu.com/), [how2](https://github.com/santinic/how2), [Bash Academy](https://guide.bash.academy/), [ss64 Bash](https://ss64.com/bash/), [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/), [navi](https://github.com/denisidoro/navi)
 
 ***
 
@@ -619,7 +619,7 @@
 * https://libgen.vg/ - clone
 * https://libgen.la/ - clone
 * https://libgen.bz/ - clone
-* https://rentry.co/fmhy-libgen - Differences between the mirrors
+* https://rentry.co/m2hkqhwb - Differences between the mirrors
 
 ***
 
@@ -805,7 +805,7 @@
 
 ## MSX Games
 
-[MSXGamesWorld](https://msxgamesworld.com/index.php), [MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/)
+[MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/)
 
 ***
 
@@ -876,7 +876,7 @@
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist)
+[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist)
 
 ***
 
@@ -898,7 +898,7 @@
 
 * ⭐ **[SomaFM](https://somafm.com/)**
 
-[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/), [Chiru.no](https://chiru.no/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/), [Audiophile](https://audiophile.fm/), [NTS Radio](https://www.nts.live/) / [SoundCloud](https://soundcloud.com/user-643553014), [You Radio](https://play.you.radio/), [rivestream](https://rivestream.org/radio)
+[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/), [Audiophile](https://audiophile.fm/), [NTS Radio](https://www.nts.live/) / [SoundCloud](https://soundcloud.com/user-643553014), [You Radio](https://play.you.radio/), [rivestream](https://rivestream.org/radio)
 
 ### Random Image Sites
 
@@ -952,7 +952,7 @@
 * ⭐ **[proovl](https://proovl.com/numbers)**
 * [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
 
-[yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](http://receivesmsonline.in/), [freereceivesmsonline](http://freereceivesmsonline.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.cc/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
+[yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](http://receivesmsonline.in/), [freereceivesmsonline](http://freereceivesmsonline.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
 
 ***
 

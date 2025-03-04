@@ -227,7 +227,6 @@
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
 * [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
-* [Scan Your PDF](https://www.scanyourpdf.com/) - Make PDFs Look Scanned
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
 * [OpenSign](https://github.com/OpenSignLabs/OpenSign), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
@@ -294,7 +293,7 @@
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / Unlimited / 10 Days after last download
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per file / 120 Days after last pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / 15 Days, Can Extend to Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://flashbang.sh/), [4](https://fuckingfast.net/), [5](https://trashbytes.net/) - Unlimited / 15 Days, Can Extend to Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
@@ -326,7 +325,6 @@
 * [udrop](https://www.udrop.com/) - 5GB / Forever
 * [Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
-* [Tempfile](https://tempfile.me/) - 10GB / 90 Days
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days

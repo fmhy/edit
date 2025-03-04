@@ -22,12 +22,13 @@
 * ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
+* ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream)
-* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
-* ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
-* ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
-* [uira.live](https://uira.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
+* [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [PopcornMovies](https://popcornmovies.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
+* [Bingeflex](https://bingeflex.vercel.app/) - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
+* [Ronny Flix](https://ronnyflix.xyz/) or [RonnyStream](https://ronnystream.ronnyflix.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix) / [Discord](https://discord.gg/ygsNU4Ac)
 * [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / [4K Guide](https://youtu.be/cj5gRXBnWDA), [2](https://i.ibb.co/PDnw1nh/image.png) / [Discord](https://discord.gg/streamflix)
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/flickermini/)
@@ -41,7 +42,6 @@
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [StigStream](https://stigstream.com/), [2](https://stigstream.xyz), [3](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
-* [Ronny Flix](https://ronnyflix.xyz/) or [RonnyStream](https://ronnystream.ronnyflix.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix) / [Discord](https://discord.gg/ygsNU4Ac)
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [CorsFlix](https://corsflix.net/) - Movies / TV / Anime
@@ -219,7 +219,6 @@
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / [Discord](https://discord.com/invite/yY2P3DQR8S)
 * [KissAsian](https://kissasian.video/) - TV / Movies
 * [AsiaFlix](https://asiaflix.net/) - TV / Movies
-* [Asianload](https://embasic.pro/) - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [Google Drive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
@@ -300,7 +299,6 @@
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
-* [Animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
@@ -670,7 +668,6 @@
 * [/r/DownUnderTV](https://www.reddit.com/r/DownUnderTV/) - AU / NZ TV
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [nKiri](https://nkiri.com/) - Asian Drama / 720p
-* [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
 * [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
@@ -711,7 +708,6 @@
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [AnimeSuge](https://animesugetv.to/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
-* [Granime](https://grani.me/) - Sub / Dub / [Discord](https://discord.gg/7C4zh7NS3p)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)

@@ -415,7 +415,6 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/) / [Frontend](https://akari-psi.vercel.app/)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/), [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
 * [Rive Manga](https://rivestream.org/manga)
@@ -427,7 +426,6 @@
 * [MangaBerri](https://mangaberri.com/)
 * [OniManga](https://onimanga.com)
 * [Shiroko](https://shiroko.co/)
-* [MangaBat](https://m.mangabat.com/)
 * [Mangahasu](https://mangahasu.se/)
 * [mangapill](https://mangapill.com/)
 * [Webtoon](https://www.webtoons.com/)
@@ -469,7 +467,6 @@
 * [Ranobes](https://ranobes.top/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/) / Allows Downloads
-* [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
 * [WuxiaWorld](https://www.wuxiaworld.com/)
 * [WuxiaSpot](https://www.wuxiaspot.com/)
 * [LightNovelPub](https://www.lightnovelpub.com/)
@@ -666,6 +663,7 @@
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
+* [ToposText](https://topostext.org/) - Historical Greek Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
 * [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
 * [History Newsboys of 1899](https://rentry.co/FMHYBase64#history-newsboys-of-1899) - Books / Documents

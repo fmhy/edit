@@ -76,6 +76,7 @@
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [Matecat](https://www.matecat.com) - Online Translation Editor
 * [LingoJam](https://lingojam.com/) - Create Translator
+* [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
 * [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
@@ -191,6 +192,7 @@
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
 * ⭐ **[Smassh](https://github.com/kraanzu/smassh)** or [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
+* [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide 
 * [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-up Required
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [CyberType](https://cybertype.app/) - Typing Practice

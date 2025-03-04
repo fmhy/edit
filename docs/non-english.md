@@ -716,7 +716,6 @@
 * [jattfilms](https://jattfilms.cfd/) - Movies / TV / Dub / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
-* [Bolly2Tolly](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [aFimlyWap](https://www.afilmywap.org.vc/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
@@ -770,7 +769,6 @@
 * [anoBoy](https://ww1.anoboy.app/) - Anime / Sub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
-* [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music / [Downloader](https://irnus-dl.slickerius.com/)
 
 ## ▷ Reading / Membaca
@@ -1116,7 +1114,6 @@
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
-* [KSensei](https://karinsensei.com) - Anime / Sub / 720p
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
@@ -1327,7 +1324,7 @@
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
-* ⭐ **[RuTracker](https://rutracker.org/forum/index.php)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[RuTracker](https://rutracker.org/forum/index.php)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
@@ -1505,7 +1502,6 @@
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
-* [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega 1 Link](https://mega1link.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
@@ -1537,7 +1533,6 @@
 * ⭐ **[DonTorrent](https://dontorrent.business/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
-* [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [Wolfmax4k](https://wolfmax4k.com/) - Movies / TV / 4K / 1080p
 * [Torrenflix](https://www.torrenflix.com/) - Movies / TV
 * [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / TV / Castilian
@@ -1578,7 +1573,6 @@
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
-* [Cuevana3.ch](https://cuevana3.ch/) - Movies / TV / Latino
 * [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
@@ -1647,7 +1641,6 @@
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [TuMangaOnline](https://visortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](https://heavenmanga.com/) - Manga
@@ -1709,7 +1702,7 @@
 
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
-* [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/) or [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
+* [Turkish Audio Center](https://www.turkishaudiocenter.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/) or [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Hangar](https://www.hangarceviri.com) - Game Localizations
 
 ## ▷ Streaming / İzleme
@@ -1724,8 +1717,7 @@
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Dizilab](https://dizilab.com/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
-* [Dizilla](https://dizilla.club) - Movies / TV
-* [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/) or [Film İzlesene](https://www.filmizlesene.pro) - Movies
+* [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/) or [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/)- Anime
 

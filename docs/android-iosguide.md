@@ -408,7 +408,6 @@
 * [PrivateBin](https://privatebin.info/) - Pastebin App
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Tunity](https://tunity.com/) - Hear Muted TVs
-* [cdash](https://counterdash.com/) - Turn Old Tablets into Dashboards
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Unified Remote](https://www.unifiedremote.com/) - Universal Remotes
@@ -446,7 +445,7 @@
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)** or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
-* ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
+* ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://github.com/Gedsh/InviZible?tab=readme-ov-file#invizible-pro) - Privacy Managers
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
 * [ceno-browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
@@ -540,7 +539,7 @@
 ## ▷ Productivity / Calendars
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
-* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)**, [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle), [Clock](https://github.com/BlackyHawky/Clock), [Clockology](https://rentry.co/FMHYBase64#clockology), [Chrono](https://github.com/vicolo-dev/chrono), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
+* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)** - Clock / Alarm
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
@@ -552,7 +551,6 @@
 * [Folksable](https://folksable.com/) - Habit Tracker
 * [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
-* [(Not Boring) Habits](https://apps.apple.com/app/id1593891243) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
 * [TheFor](https://thefor.xyz/) - Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Productivity Tracker / App Blocker
@@ -562,6 +560,12 @@
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
 * [timeto.me](https://timeto.me/) - Productivity Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
+* [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
+* [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
+* [Clockology](https://rentry.co/FMHYBase64#clockology) - Clock / Alarm
+* [Chrono](https://github.com/vicolo-dev/chrono) - Clock / Alarm
+* [ClockYou](https://github.com/you-apps/ClockYou) - Clock / Alarm
+* [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clock / Alarm
 
 ***
 
@@ -693,6 +697,7 @@
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) or [Lissen](https://github.com/GrakovNe/lissen-android/) - Self-Hosted Audiobook Server
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
+* [Readwise](https://play.google.com/store/apps/details?id=com.readwise) - Ebook Reader
 * [Sav PDF Viewer Pro](https://www.savpdfviewer.com) - PDF Reader / [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro)
 * [MJ PDF](https://github.com/mudlej/mj_pdf) - PDF Reader
 * [LibGen Mobile](https://github.com/manuelvargastapia/libgen_mobile_app) or [Aurora](https://github.com/FunkyMuse/Aurora) - Free Books / LibGen
@@ -1019,7 +1024,7 @@
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [Microsoft To Do](https://to-do.office.com/) or [Twodos](https://apps.apple.com/app/id6463499163) - To-Do Apps
 * [Journal it](https://apps.apple.com/app/id1501944799) - Planner / Journal App
-* [Success](https://apps.apple.com/app/id1544852780) - Productivity Booster / Habit Trackers
+* [Success](https://apps.apple.com/app/id1544852780) or [(Not Boring) Habits](https://apps.apple.com/app/id1593891243) - Productivity Booster / Habit Trackers
 * [Body Clock](https://apps.apple.com/app/id869648628) - Plan / Track Circadian Rhythm
 * [PictureThis](https://apps.apple.com/app/id1252497129) - Plant Identifier
 * [Parcel](https://apps.apple.com/app/id375589283) or [Aftership](https://apps.apple.com/app/id507014023) - Delivery Tracker
@@ -1164,7 +1169,7 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[SultanMods](https://sultanmods.fyi/)** - Tweaked Apps / [Telegram](https://t.me/SultanModsiOS)
+* ⭐ **[Eth Mods](https://sultanmods.fyi/)** - Tweaked Apps
 * ⭐ **[Blatant's IPA Library](https://t.me/blatants)** - Tweaked Apps
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
@@ -1262,7 +1267,7 @@
 
 ## ▷ iOS Anime
 
-* ⭐ **[Sora](https://github.com/cranci1/Sora/)** - Extension-Based / [AltStore Source](https://cranci.tech/repo.json) / [Discord](https://discord.gg/XR3SrmUbpd)
+* ⭐ **[Sora](https://github.com/cranci1/Sora/)** - Extension-Based / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [AltStore Source](https://cranci.tech/repo.json) / [Discord](https://discord.gg/XR3SrmUbpd)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/), [AniHyou](https://apps.apple.com/app/id1635777325) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps

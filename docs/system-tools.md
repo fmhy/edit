@@ -22,6 +22,7 @@
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
+* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
@@ -172,6 +173,7 @@
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
+* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
@@ -430,7 +432,7 @@
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
 * ⭐ **[Rev Wallpaper](https://rev-wallpaper-engine.github.io/)** - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
-* ⭐ **[Windows Wall Packs](https://rentry.co/fmhybase64#windows-wallpapers)**, [WallpaperHub](https://www.wallpaperhub.app/), [Windows 10 Spotlight](https://windows10spotlight.com/) or [WindowsWallpaper](https://windowswallpaper.miraheze.org/wiki/Main_Page) - Windows Wallpapers
+* ⭐ **[Windows Wall Packs](https://rentry.co/fmhybase64#windows-wallpapers)**, [WallpaperHub](https://www.wallpaperhub.app/), [Windows 10 Spotlight](https://windows10spotlight.com/), [Win7Walls](https://windowswallpaper.miraheze.org/wiki/Windows_7) or [WindowsWallpaper](https://windowswallpaper.miraheze.org/wiki/Main_Page) - Windows Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
 * [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers

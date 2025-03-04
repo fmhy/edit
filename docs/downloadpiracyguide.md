@@ -34,7 +34,6 @@
 ***
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)

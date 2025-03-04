@@ -737,7 +737,7 @@
 
 * ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [React Suite](https://rsuitejs.com/), [21st](https://github.com/rorkai/21st) or [Radix UI](https://www.radix-ui.com/) - React Components
+* [React Suite](https://rsuitejs.com/), [21st](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
@@ -1005,7 +1005,6 @@
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
-* [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
 * [SVGX](https://svgx.app/) - SVG Assets Manager
 * [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
 * [svgco](https://svgco.de/) - Image to SVG Converter
