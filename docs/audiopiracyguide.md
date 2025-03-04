@@ -218,7 +218,7 @@
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
 * [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
-* [You are Listening To LA](http://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
+* [You are Listening To LA](https://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
 * [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
@@ -247,7 +247,7 @@
 
 * ↪️ **[Spotify Playlist Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_playlist_generators)**
 * ⭐ **[exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Playlist Backup
-* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/) or [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer Tools
+* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/) or [Trikatuka](https://trikatuka.aknakn.eu/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
 * [Playlist Sorter](https://www.playlistsorter.com/) or [SortYourMusic](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -311,8 +311,8 @@
 * ⭐ **[OnTheSpot](https://github.com/justin025/onthespot)** - Multi-Site / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Firehawk52](https://rentry.co/FMHYBase64#firehawk) - Deezer / Qobuz / Tidal / [Discord](https://discord.gg/uqfQbzHj6K) / [Telegram](https://t.me/firehawk52official)
 * [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
-* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/r-piratedgames/rip)
-* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
+* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
+* [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC / Use Firehawk52
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix) or [Deemix Revival](https://github.com/bambanah/deemix) - Deezer / FLAC / Use Firehawk52
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
@@ -403,7 +403,7 @@
 * [Exystence](https://exystence.net/) - MP3 / FLAC
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC
 * [Music Rider](https://musicrider.org/) - MP3 / FLAC
-* [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4
+* [FindFlac](https://findflac.com/) - FLAC / MP3 / MP4
 * [iPlusFree](https://www7.iplusfree.org/), [iTopMusic](https://itopmusicx.com/) or [iTDMusic](https://itdmusic.in/) - iTunes M4A
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
@@ -480,7 +480,7 @@
 * ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://igwiki.lyci.de/wiki/Redacted.sh_Guide)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
-* ⭐ **[Lidarr](http://lidarr.audio/)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
+* ⭐ **[Lidarr](https://lidarr.audio/)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [TheMixingBowl](https://themixingbowl.org/) - Forum / Mixes / MP3 / Signup Required
@@ -544,7 +544,7 @@
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Discover Music Genres / [New Music](https://www.furia.com/page.cgi?type=log#id492)
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
 * [lazyrecords](https://lazyrecords.app/), [Discover Quickly](https://discoverquickly.com/), [Chosic](https://www.chosic.com/), [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/), [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
-* [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [⁠Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
+* [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker
 * [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger)
 * [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
@@ -601,7 +601,7 @@
 * [Last.fm Iceberg](https://lastfm-iceberg.dawdle.space/) - Last.fm Artist Iceberg
 * [TagCloud](https://tagcloud.rainosullivan.com/) - Last.fm Tag Cloud
 * [Mainstream Calc](http://mainstream.ghan.nl/) - Mainstream Calculator
-* [Decent.live](https://descent.live/now) - Now Playing Tool
+* [Decent.live](https://descent.live/) - Now Playing Tool
 
 ***
 
@@ -815,7 +815,7 @@
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
 * ⭐ **[BandLab](https://www.bandlab.com/)** - Digtal Audio Workstation
 * ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
-* [UltraBox](https://ultraabox.github.io/), [⁠Furnace](https://tildearrow.org/furnace/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers / Trackers
+* [UltraBox](https://ultraabox.github.io/), [Furnace](https://tildearrow.org/furnace/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers / Trackers
 * [Pro-54](https://cmajor.dev/docs/Examples/Pro54/) - Pro-53 Browser Port
 * [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
 * [Efflux](https://www.igorski.nl/application/efflux/), [OnlineSequencer](https://onlinesequencer.net/) or [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Online Sequencers
@@ -857,7 +857,7 @@
 * [AirWindows](https://www.airwindows.com/) - Download / [Consolidated](https://www.airwindows.com/consolidated/)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [Plugins4Free](https://plugins4free.com/) - Download
-* [⁠Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs
+* [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index

@@ -152,7 +152,7 @@
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ⭐ **[Bunny](https://github.com/pyoncord/Bunny)**, [2](https://github.com/revenge-mod/revenge-bundle) / [Plugins](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#bunny-plugins-note) / [Discord](https://discord.gg/XjYgWXHb9Q) or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
+* ⭐ **[Bunny](https://github.com/bunny-mod/Bunny)**, [2](https://github.com/revenge-mod/revenge-bundle) / [Plugins](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#bunny-plugins-note) / [Discord](https://discord.gg/XjYgWXHb9Q) or **[Aliucord](https://github.com/Aliucord/Aliucord)** / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
 * ⭐ **[Reddit Client Patch](https://rentry.co/FMHYBase64#patch-clients)**, [Stealth](https://gitlab.com/cosmosapps/stealth) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Patch Guide
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [Dhaaga](https://github.com/suvam0451/dhaaga), [tooot](https://tooot.app/), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [GitHub](https://github.com/LucasGGamerM/moshidon)
@@ -163,7 +163,7 @@
 * [Xtra](https://github.com/crackededed/Xtra), [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
 * [Graysky](https://graysky.app/) - Bluesky Client
 * [Mumla](https://gitlab.com/quite/mumla) or [Meshenger](https://github.com/meshenger-app/meshenger-android) - Voice Chat
-* [Kizzy](https://kizzy.vercel.app/) - Discord Rich Presence / [GitHub](https://github.com/dead8309/Kizzy)
+* [Kizzy](https://kizzy.dead8309.xyz/) - Discord Rich Presence / [GitHub](https://github.com/dead8309/Kizzy)
 * [Dumpus](https://github.com/dumpus-app/dumpus-app) - View Discord Data / Self host for Privacy
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -302,7 +302,7 @@
 * [KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - AI Keyboard
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Remap Keys / [Docs](https://docs.keymapper.club/) / [Discord](https://discord.com/invite/jutQhBeKpb)
-* [Text Reader](https://elevenlabs.io/text-reader) - Text to Speech
+* [Text Reader](https://elevenreader.io/) - Text to Speech
 * [Look Up](https://rentry.co/FMHYBase64#look-up), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary), [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android) - Dictionary Apps
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
@@ -395,13 +395,13 @@
 * [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) or [MiCTS](https://github.com/parallelcc/MiCTS/blob/main/README_en.md) - Circle to Search
 * [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [DeepSeek](https://download.deepseek.com/app/) - AI Chatbot
-* [ChatBox](https://github.com/Bin-Huang/chatbox), [⁠Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
+* [ChatBox](https://github.com/Bin-Huang/chatbox), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
-* [TouchDroid](https://github.com/vitaminncpp/TouchDroid), [Mousedroid](https://github.com/hypertensiune/Mousedroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) (root) - Use Device as PC Mouse / Keyboard
+* [TouchDroid](https://github.com/SKRInternationals/TouchDroid), [Mousedroid](https://github.com/darusc/Mousedroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) (root) - Use Device as PC Mouse / Keyboard
 * [Android Virtual Pen](https://github.com/androidvirtualpen/virtualpen) - Use Device as PC Virtual Pen
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
@@ -438,9 +438,9 @@
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/) / [2](https://github.com/Exodus-Privacy/exodus-android-app), [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - App Permission Managers
+* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/) / [2](https://github.com/Exodus-Privacy/exodus-android-app), [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) or [HideDroid](https://github.com/Dado1513/HideDroid) - App Permission Managers
 * ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
-* ⭐ **[UrlCheck](https://github.com/TrianguloY/UrlChecker)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Tracking Remover
+* ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Tracking Remover
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nekoboxforandroid-warning) or [Matsuri](https://matsuridayo.github.io/) - Proxy Toolchains
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
@@ -910,7 +910,7 @@
 * [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Clients
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
-* [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
+* [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
 
 ***
 

@@ -140,7 +140,7 @@
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
-* [⁠gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
+* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
 * [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
@@ -154,7 +154,7 @@
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
-* [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/WayneD/rsync)
+* [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/RsyncProject/rsync)
 * [Unison](https://github.com/bcpierce00/unison) - Bidirectional File Sync
 
 ***
@@ -271,7 +271,7 @@
 * [TransferNow](https://www.transfernow.net/en)
 * [Horizon Send](https://send.hrzn.cool/)
 * [Salad Room](https://saladroom.net/)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
+* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
 * [LIGHTNING SHARE](https://lightning-share.vercel.app/)
 * [rDrop](https://rdrop.link/)

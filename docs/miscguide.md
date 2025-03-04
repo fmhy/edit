@@ -91,7 +91,7 @@
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
-* [⁠FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
+* [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - Games
@@ -120,7 +120,7 @@
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
-* [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
+* [Heard.](https://heardnyc.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
@@ -271,7 +271,7 @@
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
@@ -430,7 +430,7 @@
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [glifwc](https://maps.glifwc.org/) - Map with Data
-* [Mapillary](https://www.mapillary.com/) or [MapCarta](http://mapcarta.com/) - Open Street View Data
+* [Mapillary](https://www.mapillary.com/) or [Mapcarta](https://mapcarta.com/) - Open Street View Data
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
@@ -698,7 +698,7 @@
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
 * [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
 * [Job Shell](https://github.com/angelplusultra/job-shell) - Scrape Job Postings
-* [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Job Application Autofill Tools
+* [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Job Application Autofill Tools
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/), [Career Dreamer](https://grow.google/career-dreamer/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [UseThis](https://usesthis.com/) - Career Interviews
@@ -751,10 +751,10 @@
 * [Resuminator](https://www.resuminator.in/)
 * [Sclof](https://sclof.com/)
 * [flowcv](https://flowcv.com/)
-* [Resumake](https://github.com/saadq/resumake)
+* [Resumake](https://resumake.io/) / [GitHub](https://github.com/saadq/resumake.io)
 * [resume-nation](https://resume-nation.github.io/)
 * [sajilocv](https://sajilocv.com/)
-* [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/sinaatalay/rendercv)
+* [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv)
 * [GotResumeBuilder](https://www.gotresumebuilder.com/)
 * [Resume.com](https://www.resume.com/)
 * [CvResumeNest](https://cvresumenest.com/)
@@ -837,7 +837,7 @@
 
 ## ▷ Startup
 
-* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launch](https://github.com/KingMenes/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
+* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [NewIdeas](https://indieideas.io/) or [Business Generator](https://business-generator.vercel.app/) - Generate Business Ideas
 * [BetaList](https://betalist.com/) - Get Startup Ideas
@@ -1131,7 +1131,7 @@
 
 * 🌐 **[ProductivePrivacy](https://priductive.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-* ⭐ **[Super Productivity](http://super-productivity.com)** - Time Tracker / Productivity App / To-Do List
+* ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking
 * [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
@@ -1224,7 +1224,7 @@
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [ThisPersonNotExist](https://thispersonnotexist.org/), [Who the Fook is That Guy](https://whothefookisthatguy.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
-* [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
+* [Different Strokes](https://scottts.itch.io/different-strokes) - Online User-Made Art Gallery
 * [Creative Uncut](https://www.creativeuncut.com/) - Video Game Art
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
@@ -1250,7 +1250,7 @@
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
 * [Where Is The Google Car](https://www.whereisthegooglecar.com/) - Google Car Images / Locations
 * [Web Neko](https://webneko.net/) - Nekos on the Web
-* [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
+* [Uji](https://ghpages.noahdoersing.com/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
@@ -1488,7 +1488,7 @@
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
-* [⁠IndieBlogs](https://indieblog.page/) - Random Indie Blogs
+* [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
 * [Things to Do](https://randomthingstodo.com/), [HobbyGenerator](https://hobbygenerator.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
