@@ -1324,7 +1324,7 @@
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
-* ⭐ **[RuTracker](https://rutracker.org/forum/index.php)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
