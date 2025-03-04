@@ -20,7 +20,6 @@
 * [Documentary Tube](https://www.documentarytube.com/)
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
-* [ThoughtMaybe](https://thoughtmaybe.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Nat Geo](https://www.natgeotv.com/)
 * [Folkstreams](https://www.folkstreams.net/)

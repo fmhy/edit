@@ -1005,7 +1005,6 @@
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
-* [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
 * [SVGX](https://svgx.app/) - SVG Assets Manager
 * [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
 * [svgco](https://svgco.de/) - Image to SVG Converter

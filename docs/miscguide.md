@@ -669,7 +669,7 @@
 ## ▷ Porn Quitting
 
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography / [Audiobook](https://youtu.be/ZktxO6adTnI)
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
@@ -893,7 +893,6 @@
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [neostox](https://neostox.com/) - Practice Stock Trading
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
@@ -972,7 +971,6 @@
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
-* [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Subreddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides

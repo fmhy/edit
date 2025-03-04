@@ -171,8 +171,6 @@
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)**, [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
-* [RPG Maker Games](https://rpgmaker.net/games/) - Games made via RPG Maker
-* [Pygame](https://www.pygame.org/tags/all) - Python Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
@@ -453,7 +451,7 @@
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Rosebud AI](https://www.rosebud.ai/) or [Wild West](https://www.wildwest.gg/) - AI Made Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
-* [Unblock KISD](https://sites.google.com/view/unblockkisd/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
+* [Unblock KISD](https://sites.google.com/view/unblockkisd/), [frogie's arcade](https://frogiesarca.de/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
 * [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
@@ -481,6 +479,7 @@
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Deeeep](https://deeeep.io/) - Multiplayer Feeding Frenzy Games
+* [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [Gpop.io](https://gpop.io/) - Rhythm Game
