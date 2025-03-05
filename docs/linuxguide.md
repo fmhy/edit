@@ -697,7 +697,6 @@
 * [Pure Mac](https://www.pure-mac.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [Macked](https://macked.app/)
-* [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
