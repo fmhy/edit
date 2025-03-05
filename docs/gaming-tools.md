@@ -105,7 +105,7 @@
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Discord](https://discord.com/invite/BrtABqe)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
-* [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/tagoWorks/ascendara)
+* [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
@@ -354,7 +354,7 @@
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
 * [Ephinea](https://ephinea.pioneer2.net/) - Phantasy Star Online Blue Burst Server Revival
 * [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
-* [KOCity](https://kocity.xyz/) - Knockout City Multiplayer Revival / [Discord](https://discord.gg/4kNPb4cRxN) / [GitHub](https://github.com/Ipmake/kocitylauncher)
+* [KOCity](https://kocity.xyz/) - Knockout City Multiplayer Revival / [Discord](https://discord.gg/4kNPb4cRxN) / [GitHub](https://github.com/kocxyz/Launcher)
 * [Elemental Fracture](https://elefrac.com/) - Spellbreak Community Revival / [Discord](https://dsc.gg/elefrac)
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Toontown Rewritten](https://www.toontownrewritten.com/) or [Corporate Clash](https://corporateclash.net/) - Toontown Multiplayer Revivals
@@ -517,7 +517,7 @@
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
+* [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Real-Time Updated Server Banners
@@ -527,9 +527,9 @@
 ## ▷ Launchers
 
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
-* ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/prism4free), [2](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher)
+* ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/prism4free), [2](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
-* ⭐ **[PojavLauncher](https://pojavlauncherteam.github.io/)** or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
+* ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launcher for Bedrock Edition
 * [AstralRinth](https://github.com/DIDIRUS4/AstralRinth) - Modrinth Launcher Fork (Offline Auth/No Ads)
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
@@ -561,7 +561,7 @@
 * [Voxy](https://modrinth.com/mod/voxy). [DistantHorizons](https://modrinth.com/mod/distanthorizons) or [Bobby](https://modrinth.com/mod/bobby) - Lightweight Distance Rendering Mods
 * [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Renderer Mod / [Discord](https://discord.gg/FVXg7AYR2Q)
 * [Forge](https://files.minecraftforge.net/), [NeoForged](https://neoforged.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
-* [Pax](https://github.com/froehlichA/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [PAX](https://github.com/maradotwebp/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [/r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
 * [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) - Discord RPC for Java Edition
@@ -766,7 +766,7 @@
 
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
-* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](http://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) - Online Multiplayer Doom
+* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) - Online Multiplayer Doom
 * [Classic DOOM](https://classicdoom.com/) or [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
@@ -779,7 +779,7 @@
 ## ▷ Mario Kart Tools
 
 * ⭐ **[Retro Rewind](https://rentry.org/Retro-Rewind)** - Retro MKW Tracks / Multiplayer / [Discord](https://discord.gg/qbr3Y4PJFH)
-* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/patchzyy/WheelWizard/releases) / [VR Rankings](https://impactcoding.github.io/rr-vr-ranking/) / [Troubleshooting](https://rentry.org/RR-Fixes)
+* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://impactcoding.github.io/rr-vr-ranking/) / [Troubleshooting](https://rentry.org/RR-Fixes)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc Required / [Discord](https://discordapp.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
@@ -827,7 +827,7 @@
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or **[RoMonitor Stats](https://romonitorstats.com/)** - Roblox Experience Stats
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [⁠Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/pizzaboxer/bloxstrap)
+* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://x.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
@@ -835,7 +835,7 @@
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
-* [FastFlags Collection](https://github.com/GoingCrazyDude/fastflags-collection/) - Roblox FastFlags Collection
+* [FastFlags Collection](https://github.com/CfwSky/fastflags-collection) - Roblox FastFlags Collection
 
 ***
 
@@ -874,7 +874,7 @@
 * 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
 * 🌐 **[5ETools](https://5e.tools/)**, [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
 * ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
-* ⭐ **[Kanka](https://kanka.io/en-US)** - Tabletop RPG Manager
+* ⭐ **[Kanka](https://kanka.io/)** - Tabletop RPG Manager
 * [RPG.net](https://forum.rpg.net/) - RPG Forums
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges

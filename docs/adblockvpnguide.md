@@ -169,7 +169,7 @@
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.co/SecureDNSClient) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
-* [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
+* [XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -257,7 +257,7 @@
 * [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
 * [psbdmp](https://psbdmp.ws/) - Password Breach Check
 * [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
-* [⁠BreachDetective](https://breachdetective.com/) - Password Breach Check
+* [BreachDetective](https://breachdetective.com/) - Password Breach Check
 
 ***
 
@@ -364,12 +364,12 @@
 
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [⁠SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
+* [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - Local DNS Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://dnscrypt.info/) / [GitHub](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS Encryption Proxy
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Proxy / [GitHub](https://github.com/0xERR0R/blocky)
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - WireGuard as proxy
+* [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Self-Hosted Proxy Sites
@@ -395,7 +395,7 @@
 * [Phantom](https://phantom.lol/)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
 * [Delusionz](https://delusionz.xyz/)
-* [PlainProxies](https://plainproxies.com/resources/free-web-proxy) / [Telegram](https://t.me/PlainProxies)
+* [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Szvy Central](https://szvy.lol/), [2](https://test.szvy.unitgrapigs.com/), [3](https://play.szvy.win/), [4](https://studying-central.global.ssl.fastly.net/), [5](https://zearn.global.ssl.fastly.net/), [6](https://cheapenglishtutors.global.ssl.fastly.net/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)

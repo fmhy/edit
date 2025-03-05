@@ -205,7 +205,7 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[IRC Client Comparisons](https://en.wikipedia.org/wiki/Comparison_of_IRC_clients)**
 * [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [⁠KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html), [⁠Halloy](https://github.com/squidowl/halloy) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
+* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html), [Halloy](https://github.com/squidowl/halloy) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
@@ -274,7 +274,7 @@
 * ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/) / [.net](https://ddlbase.net/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leeches
-* [⁠FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
+* [FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 

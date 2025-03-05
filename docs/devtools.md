@@ -101,11 +101,11 @@
 
 * 🌐 **[Awesome Software Quality](https://github.com/ligurio/sqa-wiki/wiki)** - Software Quality Testing Resources
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
-* ⭐ **[Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)**, [raylib technologie](https://raylibtech.itch.io/) or [bookmarks](https://github.com/MorganGeek/bookmarks) - Software Development Tools
+* ⭐ **[Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)**, [raylib technologie](https://raylibtech.itch.io/) or [bookmarks](https://github.com/SansGuidon/bookmarks) - Software Development Tools
 * ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications
 * [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Avalonia UI](https://avaloniaui.net/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
-* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
+* [Budibase](https://budibase.com/), [ToolJet](https://www.tooljet.ai/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
@@ -135,7 +135,7 @@
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
 * 🌐 **[Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources)** - App Design Learning Resources
 * 🌐 **[Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)**, [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.com/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Resources
-* 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Heroku Alternatives
+* 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Heroku Alternatives
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
@@ -163,7 +163,7 @@
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
-* 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
+* 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
 * ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [SQLook](https://sqlook.com/), [DuckDB](https://duckdb.org/), [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
 * [Sqlable](https://sqlable.com/) - SQL Tools
 * [Grafana](https://grafana.com/) or [Beszel](https://beszel.dev/) - Dev Data Dashboards
@@ -174,7 +174,7 @@
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Qdrant](https://qdrant.tech/) - Vector Database
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
-* [EdgeDB](https://www.edgedb.com/) - SQL Alternative
+* [Gel](https://www.geldata.com/) - SQL Alternative
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
@@ -194,13 +194,13 @@
 * [Forgejo](https://forgejo.org/) or [Gogs](https://gogs.io/) - Self-Hosted Git Services / Forge
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
-* [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
-* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj), [GitHub Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
+* [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git GUIs
+* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/jj-vcs/jj), [GitHub Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [Lab+](https://github.com/thelooter/labplus_for_gitlab) - GitLab Android App
 * [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
-* [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
+* [git-bug](https://github.com/git-bug/git-bug) - Git Embedded Bug Tracker
 * [Mercurial](https://www.mercurial-scm.org/), [Plane](https://github.com/makeplane/plane) / [Discord](https://discord.com/invite/A92xrEGCge), [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
 * [git-annex](https://git-annex.branchable.com/) - Manage Large Git Files (without Git)
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
@@ -211,7 +211,7 @@
 * [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Comparison
 * [Ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/) - Undo Git Commands
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
-* [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor
+* [Sourcegraph](https://sourcegraph.com/) - Git Repository Sourcegraph Editor
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
@@ -219,7 +219,7 @@
 * [lastversion](https://lastversion.getpagespeed.com) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
 * [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
-* [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
+* [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/git-quick-stats/git-quick-stats)
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
 
 ***
@@ -243,7 +243,7 @@
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
 * [GitHub Dorks](https://github-dorks.vercel.app/) - GitHub Search Tool
 * [Imgbot](https://imgbot.net/) - GitHub Image Compression
-* [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
+* [ActionServerless](https://github.com/gitfx/ActionServerless) - Create Serverless Service
 * [Rahularity](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3) - Use Multiple Git Accounts at Once
 * [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
 * [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Web IDE / [GitHub](https://github.com/zvizvi/GitHub-Web-IDE)
@@ -259,7 +259,7 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [Graphite](https://graphite.dev/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
-* [PR Agent](https://github.com/Codium-ai/pr-agent) - Automated Pull Requests
+* [PR-Agent](https://github.com/qodo-ai/pr-agent) - Automated Pull Requests
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [Repo2Txt](https://github.com/abinthomasonline/repo2txt) - Convert Repos to Text Formatted Files
@@ -286,8 +286,8 @@
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
 * [ProfileMe.dev](https://www.profileme.dev/) - Create GitHub Profile
 * [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile) - Custom GitHub Profile Resources
-* [Discord MD Badge](https://github.com/gitlimes/discord-md-badge) - Add Discord Badge to GitHub
-* [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
+* [Discord MD Badge](https://github.com/gitlimes/dcbadge) - Add Discord Badge to GitHub
+* [github-material-icons-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
 
 ***
@@ -322,7 +322,7 @@
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [Charm](https://charm.sh/) - Add Backend to Terminal Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
-* [⁠Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
+* [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
@@ -372,7 +372,7 @@
 ## ▷ Machine Learning
 
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-marketing-datascience/)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
@@ -473,7 +473,7 @@
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-up / Online Workspace
-* [IDX](https://idx.google.com/) - Gemini AI Cloud Webapp
+* [IDX](https://idx.dev/) - Gemini AI Cloud Webapp
 * [Helix](https://helix-editor.com/) - Kakuone / Neovim-Based Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
 * [Brackets](https://brackets.io/) - Webapp / Live Preview
@@ -525,11 +525,11 @@
 
 ## ▷ Android Code Editors
 
-* ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/deadlyjack/Acode)
+* ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
-* [⁠Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
+* [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Editor
 * [diohub](https://github.com/NamanShergill/diohub), [PuppyGit](https://github.com/catpuppyapp/PuppyGit) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android Git Clients
@@ -650,7 +650,7 @@
 * [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
 * [Thonny](https://thonny.org/) - Python IDE
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
-* [⁠ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
+* [ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
 
 ***
 
@@ -667,7 +667,7 @@
 
 ## ▷ Java / Kotlin
 
-* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
+* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
@@ -687,7 +687,7 @@
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
 * [HTMLRev](https://htmlrev.com/) - Free HTML Templates
 * [Markdown to HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
-* [APlayer](http://aplayer.js.org), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
+* [APlayer](https://aplayer.js.org/), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
 
 ***
 
@@ -737,7 +737,7 @@
 
 * ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [React Suite](https://rsuitejs.com/), [21st](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) - React Components
+* [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
@@ -792,7 +792,7 @@
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
-* [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-dev/dagu)
+* [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Validation Services
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
@@ -809,7 +809,7 @@
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Shuttle](https://www.shuttle.rs/) or [PocketBase](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
+* [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
@@ -819,7 +819,7 @@
 * [Typebot](https://typebot.io/) - Embedded Chat App
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
-* [frp](https://github.com/fatedier/frp), [Go Proxy](https://github.com/yusing/go-proxy) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
+* [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
 * [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
@@ -864,7 +864,7 @@
 
 ## ▷ Frontend Tools
 
-* 🌐 **[⁠Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
+* 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
@@ -878,7 +878,7 @@
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
-* [⁠Bunny Fonts](https://fonts.bunny.net/) - Open-Source Google Fonts Alternative
+* [Bunny Fonts](https://fonts.bunny.net/) - Open-Source Google Fonts Alternative
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Icon Horse](https://icon.horse/), [favicon-hash](https://favicon-hash.kmsec.uk/) or [Favicone](https://favicone.com/) - Download a Sites Favicon / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#site-favicon-dl)
@@ -933,7 +933,7 @@
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [is-a.dev](https://www.is-a.dev/) or [JS.ORG](https://js.org/) - Developer Homepages
-* [Homepage](https://github.com/benphelps/homepage), [CasaOS](https://casaos.io/), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
+* [Homepage](https://gethomepage.dev/) / [GitHub](https://github.com/gethomepage/homepage), [CasaOS](https://casaos.io/) / [GitHub](https://github.com/IceWhaleTech/CasaOS), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/Lissy93/dashy) - Home Server Startpages
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
@@ -1041,7 +1041,7 @@
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
-* [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
+* [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App

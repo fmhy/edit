@@ -157,7 +157,7 @@
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - Browser Extensions
-* [NewsBlur](http://www.newsblur.com) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
+* [NewsBlur](https://www.newsblur.com/) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
@@ -311,7 +311,7 @@
 
 * 🌐 **[SearchTweaks](https://searchtweaks.com/)** - Google Search Tools
 * [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
-* [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
+* [ISearchFrom](https://isearchfrom.com/) - Change Location / Device for Google Search
 * [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
 * [View Image](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
@@ -391,17 +391,17 @@
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
-* [Ej.uz](https://ej.uz/en), [2](https://sald.us/en) - `ej.uz/t8ar`
+* [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [Bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / Account Required / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
 * [Sum.vn](https://sum.vn/) - `sum.vn/DTrXk` / Account Required
-* [U.NU](https://u.nu/) - `u.nu/5nhzi` / Account Required
+* [S.EE](https://s.ee/) - `u.nu/5nhzi` / Account Required
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [emojied](https://emojied.net/) - Emoji URL Shortener
-* [Suri](https://github.com/jstayton/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
+* [Suri](https://github.com/surishortlink/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
 
 ***
 
@@ -411,7 +411,7 @@
 * ⭐ **[Downdetector](https://downdetector.com/)**
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Is It Down Right Now](https://www.isitdownrightnow.com/)
-* [websitedown.info](http://www.websitedown.info/)
+* [websitedown.info](https://www.websitedown.info/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
 * [Dr. Link Check](https://www.drlinkcheck.com/)
@@ -445,7 +445,7 @@
 * [Predicta Search](https://www.predictasearch.com) - Retrieve Info Linked to Email Address and Phone Number
 * [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
-* [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
+* [Meru](https://github.com/timche/meru) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
@@ -752,7 +752,7 @@
 * [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
 * [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
-* [Amino](https://aminoeditor.com/) - Customize Webpage CSS
+* [Amino](https://amino.dev/) - Customize Webpage CSS
 * [Resizing](https://resizing.app/) - Resize Images
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
@@ -790,7 +790,7 @@
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
-* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
+* [Pagetual](https://pagetual.hoothin.com/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 
 ***
@@ -830,7 +830,7 @@
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
 * [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
-* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [DownloadNet (dn)](https://github.com/dosyago/dn) or [Kiwix](https://kiwix.org/en/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
 * [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy), [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) or [PageRip](https://webpagerip.com/) - Website Downloaders
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles

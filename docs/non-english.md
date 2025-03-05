@@ -391,7 +391,7 @@
 
 # ► French / Français
 
-* 🌐 **[⁠/r/FrancePirate Mega](https://francepirate.gitbook.io/wikitipiak/tipiakeries)** - Piracy Site Mega Thread / [Subreddit](https://www.reddit.com/r/FrancePirate/)
+* 🌐 **[/r/FrancePirate Mega](https://francepirate.gitbook.io/wikitipiak/tipiakeries)** - Piracy Site Mega Thread / [Subreddit](https://www.reddit.com/r/FrancePirate/)
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Wikiwix](https://wikiwix.com/) - Wikipedia Search
 * [Tseret](https://tseret.com/) - Game Guides
@@ -707,7 +707,7 @@
 * [9xmovies](https://9xmovies.fund/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
-* [⁠MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
+* [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
 * [WatchoFree](https://watchofree.online/) - Movies / TV / Dub / 1080p
 * [Moviefuze](https://www.moviefuze.com/) - Movies / TV / Dub / 1080p
@@ -725,7 +725,7 @@
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [⁠DistroTV](https://distro.tv/) - Live TV
+* [DistroTV](https://distro.tv/) - Live TV
 * [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
 * [Anime World India](https://anime-world.co/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
@@ -818,7 +818,7 @@
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
-* [⁠Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
+* [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
 ## ▷ Reading / Leggere
 
@@ -1324,7 +1324,7 @@
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
-* ⭐ **[RuTracker](https://rutracker.org/forum/index.php)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
@@ -1427,7 +1427,7 @@
 * [Filibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
-* [⁠Maxima Library](https://maxima-library.com/) - Books
+* [Maxima Library](https://maxima-library.com/) - Books
 * [rulit](https://www.rulit.me/) - Books
 * [bookscafe](https://bookscafe.net/) - Books / NSFW
 * [MirKnig.sur](https://mirknig.su/) - Books / Fiction / Nonfiction
@@ -1634,7 +1634,7 @@
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
-* [⁠Bibliotecasecreta](http://bibliotecasecreta.nl/) - Telegram Book Bot
+* [Bibliotecasecreta](http://bibliotecasecreta.nl/) - Telegram Book Bot
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
@@ -1921,7 +1921,7 @@
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Sabins Civil Engineering
 * [NPO](https://npo.nl/) - Dutch / TV Streaming
-* [⁠Oorboekje](https://oorboekje.nl/) - Dutch Radio Stations
+* [Oorboekje](https://oorboekje.nl/) - Dutch Radio Stations
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [kzkitap](https://t.me/kzkitap) - Kazakh Books

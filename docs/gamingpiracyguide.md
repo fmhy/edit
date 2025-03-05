@@ -119,7 +119,7 @@
 * [Chrono Divide](https://rentry.co/FMHYBase64#chrono-divide) or [OpenRA](https://openra.net/) - Command & Conquer Recreations / Ports
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
-* [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
+* [OpenMW](https://openmw.org/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
@@ -134,7 +134,7 @@
 * [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
 * [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878), [2](https://sonic3air.boards.net/board/6/mod-releases) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
-* [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Duke Nukem Ports
+* [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
@@ -278,8 +278,8 @@
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [GLoad](https://gload.to/) - ROMs
 * [AllMyROMs](https://www.allmyroms.net/) - ROMs
-* [ROMsFun](https://ROMsfun.com/) - ROMs
-* [FreeROMs](https://www.freeROMs.com/) - ROMs
+* [ROMsFun](https://romsfun.com/) - ROMs
+* [FreeROMs](https://www.freeroms.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
@@ -632,9 +632,9 @@
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [⁠Murdle](https://murdle.com/) - Daily Murder Mystery 
+* [Murdle](https://murdle.com/) - Daily Murder Mystery
 * [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
-* [⁠DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
+* [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
 * [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
@@ -667,7 +667,7 @@
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
-* [Incremancer](https://incremancer.gti.nz/) or [Danemancer](https://cirusdane.github.io/incremancer/) - Incremental Zombie Game 
+* [Incremancer](https://incremancer.gti.nz/) or [Danemancer](https://cirusdane.github.io/incremancer/) - Incremental Zombie Game
 * [A Dark Room](https://adarkroom.doublespeakgames.com/) - Dark Room Survival Game
 * [The Fed](https://thefed.app/) - Incremental Banking Game
 * [WarClicks](https://warclicks.com/) - Incremental War Game
@@ -702,7 +702,7 @@
 * [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
 * [MusicNerd](https://musicnerd.io/) or [Lofidle](https://lofidle.com/) - Music Guessing Games
 * [More or Less](https://moreorless.io/) - More or Less Guessing
-* [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
+* [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
