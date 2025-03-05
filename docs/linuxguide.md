@@ -60,6 +60,8 @@
 ## ▷ Linux System
 
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
+* 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
+* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
@@ -175,7 +177,7 @@
 * [Komikku](https://valos.gitlab.io/Komikku/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
 * [Mako](https://github.com/emersion/mako), [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
-* [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
+* [⁠Eloquent](https://flathub.org/apps/re.sonny.Eloquent/) or [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check Apps
 * [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
 
 ***
@@ -458,12 +460,13 @@
 
 ## ▷ Android on Linux
 
-* ⭐ **[WayDroid](https://waydro.id/)** - Android Emulator / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script)
-* [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
-* [PostmarketOS](https://www.postmarketos.org/) - Android Emulator
-* [Ubuntu Touch](https://devices.ubuntu-touch.io/) - Android Emulator
-* [Plasma Mobile](https://plasma-mobile.org/) - Android Emulator
-* [Mobian](https://mobian-project.org/) - Android Emulator
+* ⭐ **[WayDroid](https://waydro.id/)** - Containerized Android on Linux / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script)
+* [Redroid](https://github.com/remote-android/redroid-doc) - Containerized Android on Linux
+* [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
+* [Genymotion](https://www.genymotion.com/) - Android Emulator
+* [Android Studio](https://developer.android.com/studio) - IDE with built-in Android Emulator
+* [Bliss OS](https://blissos.org/) - Android-based OS for PC
+* [Android-x86](https://www.android-x86.org/) - Android-based OS for PC
 
 ***
 
@@ -699,6 +702,7 @@
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
 * [ThriftMac](https://thriftmac.com/) - Freeware
+* [⁠Sindre Sorhus](https://sindresorhus.com/apps/free) - Freeware
 * [Latest](https://github.com/mangerlahn/latest) - Software Updater
 
 ***

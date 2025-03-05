@@ -27,9 +27,11 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
 
-* *"thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
+* *"Thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
+
+* *Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows.*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
