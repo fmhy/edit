@@ -1919,8 +1919,13 @@
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Sabins Civil Engineering
+* [Duken.nl](https://www.duken.nl/forums/links/) - Dutch megathread
+* [Eboek.info](https://eboek.info/) - Dutch / Download / Comics
+* [GP2B](https://discord.gg/ByvFrnM7uK) - Dutch Piracy Discord Server
 * [NPO](https://npo.nl/) - Dutch / TV Streaming
 * [Oorboekje](https://oorboekje.nl/) - Dutch Radio Stations
+* [Puzo - Flemish And Dutch Movies And Tv-Shows](https://www.puzo.org/index.php?showtopic=9931726) - Dutch / Download / Movies / TV / Anime / Cartoons / Account Required
+* [Torrentheaven](https://www.torrentheaven.org/) - Dutch / Torrents
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [kzkitap](https://t.me/kzkitap) - Kazakh Books
