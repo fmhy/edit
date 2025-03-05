@@ -454,6 +454,7 @@
 * [BuffSports](https://buffsports.me/) - Sports
 * [CricHD.com](https://crichd.com.ua/), [2](https://crichd.com.co/) - Sports
 * [CricHDPlayer](https://new.crichd.tv/) - Sports
+* [AntenaCentral](https://antenacentral.store/) - Direct Live Sports Links
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / Stream Aggregator / [Forum](http://forum.rojadirecta.es/)
 * [NBAMonster](https://nbamonster.com/) - Basketball
 * [NBABite](https://index.nbabite.com/) - Basketball
