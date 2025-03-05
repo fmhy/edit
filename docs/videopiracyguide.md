@@ -79,7 +79,7 @@
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
 * [Multimovies](https://multimovies.today) - Movies / TV / [Telegram](https://telegram.me/+0wYjSXXmFIY5NGFl)
 * [VidPlay](https://vidplay.tv/) - Movies / TV / Anime / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vidplay-note)
-* [Way2Movies](https://way2movies.fun/), [2](https://way2movies.vercel.app/), - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/way2movies/) / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
+* [Way2Movies](https://way2movies.fun/), [2](https://way2movies.vercel.app/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/way2movies/) / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * [SoaPy](https://soapy.to/) - Movies / TV / Anime
 * [Mp4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.org/about#domains)
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use Throwaway Gmail / [Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
@@ -949,7 +949,7 @@
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Closed Caption Browser](https://cc.edatribe.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles
-* [JustSubtitles](https://justsubtitles.com/) - Subtitles
+* [JustSubtitles](https://justsubtitles.com/), [2](https://subss.vercel.app/) - Subtitles
 * [My Subs](https://my-subs.co/) - Subtitles
 * [IndexSubtitle](https://indexsubtitle.cc/) - Subtitles
 * [YifySubtitles](https://yifysubtitles.ch/) - Subtitles
