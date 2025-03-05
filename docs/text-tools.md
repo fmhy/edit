@@ -215,7 +215,7 @@
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad / Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
@@ -445,7 +445,7 @@
 
 # ► Fonts
 
-* ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer/Terminal Fonts
+* ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer / Terminal Fonts
 * [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
@@ -466,7 +466,7 @@
 * [uncut.wtf](https://uncut.wtf/) - Open Source
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
-* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Tagged Fonts](https://goofonts.com/) / [Privacy-Friendly API](https://fonts.coollabs.io/)
+* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Tags](https://goofonts.com/) / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
 * [Fontsly](https://fontsly.com/) - Freeware
@@ -515,6 +515,7 @@
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
 * [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) or [Font Finder](https://www.whatfontis.com/) - Font Identification Tools
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
+* [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
 * [FontBase](https://fontba.se/) or [NexusFont](https://www.xiles.app/) - Font Managers
 * [DS-Fusion](https://ds-fusion.github.io/) - AI Typography Generator
@@ -552,4 +553,3 @@
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
 * [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
 * [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [MFEKglif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Birdfont](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [FontForge](https://fontforge.org/en-US/) - Font / Typeface Editors
-* [Transfonter](https://transfonter.org/) - Font Converter
