@@ -656,8 +656,8 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* ⭐ **[TamilBlasters](https://www.1tamilblasters.bid/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
-* ⭐ **[TamilMV](https://www.1tamilmv.app/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilBlasters](https://www.1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 * [SkyMovies](https://skymovieshd.li/) - Movies / TV / Anime / Some NSFW
 * [OOMoye](https://oomoye.guru/) - Movies / TV / Anime / Some NSFW
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
@@ -691,7 +691,7 @@
 ## ▷ Torrenting
 
 * ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
-* ⭐ **[TamilMV](https://www.1tamilmv.app/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 
 ## ▷ Streaming
 
