@@ -148,7 +148,7 @@
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [Vumeto](https://vumeto.com/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/se4NzzY5R7)
-* [Hikari](https://hikari.gg/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3)
+* [Hikari](https://watch.hikaritv.xyz/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3)
 * [AnimeOwl](https://animeowl.me/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/rFHXVGZ)
 * [GrAnime](https://grani.me/) - Sub / Dub / [Discord](https://discord.gg/7C4zh7NS3p)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub [Discord](https://discord.gg/kyVfcGuCCQ)

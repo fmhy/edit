@@ -501,7 +501,7 @@
 * [focastock](https://focastock.com/) - Stock Photos / CC0
 * [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos / CC0
 * [freenaturestock](https://freenaturestock.com/) - Nature Photos / CC0
-* [burst](https://burst.shopify.com/) - Stock Photos
+* [Burst](https://www.shopify.com/stock-photos) - Stock Photos
 * [Hippopx](https://www.hippopx.com/) - Stock Photos
 * [BarnImages](https://barnimages.com/) - Stock Photos
 * [Pixabay](https://pixabay.com/) - Stock Photos

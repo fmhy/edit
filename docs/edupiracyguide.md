@@ -320,7 +320,7 @@
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [City Data](https://www.city-data.com/) - US City Data
-* [Google Public Data](https://www.google.com/publicdata/directory) - Data Visualizations
+* [Data Commons](https://datacommons.org/) - Data Visualizations
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
