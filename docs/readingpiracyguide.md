@@ -943,7 +943,7 @@
 * [Book Scraper](https://gitlab.com/minecraftpiston/book-scraper) - RoyalRoad / ScribbleHub Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
-* [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
+* [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
 * [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times
 * [BTW](https://booktriggerwarnings.com/) - Book Trigger Warnings
