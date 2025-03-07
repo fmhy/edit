@@ -645,7 +645,6 @@
 * [deadbeef](https://deadbeef.sourceforge.io/)
 * [Swing](https://swingmx.com/) / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
 * [Museeks](https://museeks.io/)
-* [Swing Music](https://swingmx.com/)
 * [Nora](https://github.com/Sandakan/Nora)
 * [Hyperchroma](https://hyperchroma.app/)
 * [Melodie](https://feugy.github.io/melodie/)
