@@ -81,14 +81,13 @@
 * ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
 * ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
 * ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
+* ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck / [WebUI](https://avro.im/)
 * [aapathshala](https://aapathshala.com/library/) - Test Practice
-* [Avro](https://avro.im/) - Bangla Typing Web Tool
 * [Python Maateen](https://python.maateen.me/) - Python Guide
 * [Chorcha](https://chorcha.net/) - Test Prep App
 
 ## ▷ Reading / পড়া
 
-* ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
 * [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
@@ -131,6 +130,7 @@
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [Filmi7](https://filmi7.net/) - Movies / Sub / Dub
+* [glebul](https://glebul.com/) - Live TV
 
 ***
 
@@ -213,7 +213,7 @@
 
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
-* 🌐 **[Movie Forest](https://549.tv/)** - Chinese Streaming Sites Index
+* 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
 * [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
@@ -1884,6 +1884,7 @@
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
+* [hanultruyen](https://hanultruyen.net/) - Manga
 * [Bao Tung Truyen](https://baotangtruyen20.com/) - Manga
 * [Dtruyen](https://dtruyen.com/) - Manga / Manhwa / Manhua
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
@@ -1910,6 +1911,7 @@
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
 * [Filma24](https://www.filma24.band/) - Albanian / Movies / TV / 1080p
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
+* [Yoda](https://yoda.az/) - Azerbaijani / Live TV
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics

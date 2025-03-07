@@ -42,7 +42,7 @@ features:
   - title: Streaming
     link: /videopiracyguide
     details:
-      Stream, download, torrent and binge all your favourites movies or shows!
+      Stream, download, torrent and binge all your favourite movies and shows!
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2"
