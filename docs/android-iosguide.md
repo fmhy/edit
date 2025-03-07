@@ -526,7 +526,7 @@
 * [CrocGUI](https://github.com/howeyc/crocgui) - File Sync / Sharing
 * [qrcp](https://qrcp.sh/) - File Sync / Sharing / [GitHub](https://github.com/claudiodangelis/qrcp)
 * [Disky](https://felixnuesse.de/disky/) - Disk Usage Analyzer / [GitHub](https://github.com/newhinton/disky)
-* [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://www.openandroidbackup.me/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
+* [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [PDF2Images](https://codeberg.org/oparaskos/android-pdf2images) - PDF to Image Converter
