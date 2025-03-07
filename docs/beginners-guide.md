@@ -72,7 +72,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.is) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.li/) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**

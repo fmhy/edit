@@ -73,7 +73,7 @@
 * ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Note-Taking
 * [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Note-Taking
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking
-* [⁠Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) - Note-Taking
+* [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) - Note-Taking
 * [Safe Notes](https://safenotes.dev/) - Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
 * [Quillpad](https://quillpad.github.io/) - Note-Taking
 * [sNotz](https://sunilpaulmathew.github.io/sNotz/) - Note-Taking

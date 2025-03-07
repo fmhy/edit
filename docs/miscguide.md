@@ -1147,7 +1147,7 @@
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
 * [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs) or [Forest](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#forest-extensions) - Site Blocking Extensions
 * [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Chrome Productivity Managers
-* [⁠Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager 
+* [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
 ***
 

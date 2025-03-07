@@ -25,7 +25,7 @@
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[Watch2Day](https://watch2day.site/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
-* ⭐ **[Bingeflex](https://bingeflex.vercel.app/)**- Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
+* ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream)
 * [Ronny Flix](https://ronnyflix.xyz/) or [RonnyStream](https://ronnystream.ronnyflix.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix) / [Discord](https://discord.gg/ygsNU4Ac)
@@ -419,7 +419,7 @@
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
 * [RiveStream](https://rivestream.org/livesports) - Sports
-* [AlienFlix Sports](https://alienflix.net/live/matches) - 
+* [AlienFlix Sports](https://alienflix.net/live/matches) - Sports
 * [Bingeflex Sports](https://bingeflex.vercel.app/livesports) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports / Stream Aggregator
 * [TFLIX](https://tv.tflix.app/) - Sports
