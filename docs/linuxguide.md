@@ -48,7 +48,7 @@
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
-* [⁠Server World](https://www.server-world.info/en/) - Network Server Guides
+* [Server World](https://www.server-world.info/en/) - Network Server Guides
 * [HowtoForge](https://www.howtoforge.com/) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
@@ -116,7 +116,7 @@
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
-* [⁠Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
+* [Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
 
 ***
 
@@ -144,8 +144,8 @@
 * ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers
 * ⭐ **[FreeRDP](https://www.freerdp.com/)** - Remote Desktop Client / [GitHub](https://github.com/FreeRDP/FreeRDP)
 * [wslu](https://wslutiliti.es/wslu) - Utilities for Windows 10 Linux Subsystem / [GitHub](https://github.com/wslutilities/wslu)
-* [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux
-* [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker
+* [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux / [GitHub](https://github.com/darlinghq/darling) / [Discord](https://discord.com/invite/XRD3mQA)
+* [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
@@ -160,7 +160,7 @@
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
 * [AudioSource](https://github.com/gdzx/audiosource) - Use Mobile Device as Microphone
-* [Ollama](https://ollama.com/) / [Discord](https://discord.gg/ollama) or [Alpaca](https://jeffser.com/alpaca/) - Run LLMs on Linux
+* [Ollama](https://ollama.com/) / [GitHub](https://github.com/ollama/ollama) / [Discord](https://discord.gg/ollama) or [Alpaca](https://jeffser.com/alpaca/) - Run LLMs on Linux
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
@@ -555,7 +555,7 @@
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
 * [foobar2000](https://www.foobar2000.org/mac), [Cider](https://cider.sh/) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
-* [⁠Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
+* [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
@@ -579,7 +579,7 @@
 * [JDOwnloader2](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
-* [⁠Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
+* [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
 * [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader
 * [Adobe Creative Cloud](https://rentry.co/FMHYBase64#mac-adobe-cc) - Adobe CC Guides
@@ -737,7 +737,7 @@
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
-* [⁠wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
+* [wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client

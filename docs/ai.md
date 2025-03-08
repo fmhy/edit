@@ -246,7 +246,7 @@
 * [NovelAI](https://novelai.net/) - Story Writing AI / No Sign-Up / [Limit Bypass](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#novelai-bypass), [2](https://greasyfork.org/en/scripts/448926) / [Discord](https://discord.com/invite/novelai)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
-* [⁠Quarkle](https://quarkle.ai/) - AI Writing Assistant
+* [Quarkle](https://quarkle.ai/) - AI Writing Assistant
 
 ***
 
@@ -312,7 +312,7 @@
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Sign-Up
-* [Qwen](https://chat.qwen.ai/) / Unlimited 
+* [Qwen](https://chat.qwen.ai/) / Unlimited
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) / 50 Daily
