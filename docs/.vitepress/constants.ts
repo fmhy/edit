@@ -136,7 +136,7 @@ export const nav: DefaultTheme.NavItem[] = [
     link: 'https://github.com/fmhy/FMHY/wiki/Backups'
   },
   {
-    text: '🪅 Ecosystem',
+    text: '🌱 Ecosystem',
     items: [
       { text: '🌐 Search', link: '/posts/search' },
       { text: '🔗 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
