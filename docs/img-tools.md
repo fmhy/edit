@@ -138,7 +138,6 @@
 * [FlipAnim](https://flipanim.com/) - Animated Flipbook Creator
 * [CharacterCreator](https://charactercreator.org/) - Character Generator
 * [Picrew](https://picrew.me/) - Animated Character Maker
-* [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
