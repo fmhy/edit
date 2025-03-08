@@ -299,6 +299,7 @@
 * [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
+* [333Networks](https://333networks.com/) - Online / LAN Multiplayer Fix (GameSpy alternative) / [Discord](https://333networks.com/discord) / [GitHub](https://github.com/333networks)
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
 * [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
@@ -339,7 +340,8 @@
 * [Pterodactyl](https://github.com/pterodactyl/panel) - Game Server Management Panel / [Discord](https://discord.gg/pterodactyl)
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup Required
-* [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
+* [OldUnreal](https://www.oldunreal.com/) - Unreal Tournament 1999 Servers / [Discord](https://discord.gg/thURucxzs6)
+* [333Networks](https://333networks.com/) - Rune, Postal 2, Serious Sam Servers / [Discord](https://333networks.com/discord) / [GitHub](https://github.com/333networks)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [ElDewrito](https://www.eldewrito.org/) - Halo Online / Halo 3 Servers
