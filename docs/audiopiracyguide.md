@@ -76,7 +76,7 @@
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/) or [American Historical Recordings](https://adpprod2.library.ucsb.edu/) - Phonograph / Gramophone Recordings
+* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](https://www.tinfoil.com/) or [American Historical Recordings](https://adpprod2.library.ucsb.edu/) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
@@ -324,7 +324,7 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Use Firehawk52
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / [Discord](https://discord.com/invite/nwdT4MP) / Free Only
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [AccurateRip](https://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
 ***
 
@@ -453,7 +453,7 @@
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
 * [FoggyNotion](https://foggynotion-flac.blogspot.com/) - Classic Music / MP3 / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
-* [FlatbackAndClassical](http://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
+* [FlatbackAndClassical](https://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
 * [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 * [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
@@ -697,7 +697,6 @@
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg)
-* [SoundHound](https://www.soundhound.com/soundhound)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins

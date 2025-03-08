@@ -235,7 +235,7 @@
 * ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[Speedrun](https://www.speedrun.com/)** - Speedrunning Streams, Leaderboards, Resources, etc.
 * [GameGuides](https://www.gamerguides.com/), [DotGG](https://dotgg.gg/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
-* [⁠Maxroll](https://maxroll.gg/) - Game Build Guides
+* [Maxroll](https://maxroll.gg/) - Game Build Guides
 * [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
@@ -559,7 +559,7 @@
 * [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [quark](https://quarkmod.net/) - Add Vanilla-like / QoL Features
-* [Voxy](https://modrinth.com/mod/voxy). [DistantHorizons](https://modrinth.com/mod/distanthorizons) or [Bobby](https://modrinth.com/mod/bobby) - Lightweight Distance Rendering Mods
+* [Voxy](https://modrinth.com/mod/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) or [Bobby](https://modrinth.com/mod/bobby) - Lightweight Distance Rendering Mods
 * [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Renderer Mod / [Discord](https://discord.gg/FVXg7AYR2Q)
 * [Forge](https://files.minecraftforge.net/), [NeoForged](https://neoforged.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
 * [PAX](https://github.com/maradotwebp/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
