@@ -621,7 +621,8 @@
 
 ## ▷ Biology
 
-* ⭐ **[Wikispecies](https://species.wikimedia.org/)**, [A-Z Animal](https://a-z-animals.com/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
+* ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
+* ⭐ **[Animalia](https://animalia.bio/)** or [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia 
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Re-Discovered Animals / Plants
 * ⭐ **[Open Source Society University](https://github.com/ossu/bioinformatics)** - Bioinformatics Roadmap / [Discord](https://discord.gg/wuytwK5s9h)

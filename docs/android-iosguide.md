@@ -572,6 +572,7 @@
 
 * ⭐ **[ntfy](https://ntfy.sh/) / [Discord](https://discord.gg/cT7ECsZj9w) / [Matrix](https://matrix.to/#/#ntfy-space:matrix.org)**, [AppRise](https://github.com/caronc/apprise) or [PingMe](https://pingme.lmno.pk/) - Custom Push Notifications
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/flxholle/quick-tiles) - Quick Setting Tiles
+* [KWGT Widgets](https://rentry.co/FMHYBase64#kwgt) - Custom Android Widgets
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android "At a Glance" Widget
 * [Notification Listener](https://github.com/Alfio010/notification-listener-android) - Save / Pin Notifications
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Root
@@ -1159,7 +1160,7 @@
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / Signup Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * [StarFiles](https://starfiles.co/) - App Library
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
-* [PlatinMods](https://platinmods.com/) - Tweaked Apps
+* [PlatinMods](https://platinmods.com/) - Tweaked Apps / Signup Required
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps
 * [IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)

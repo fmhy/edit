@@ -540,6 +540,7 @@
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Discover Music Genres / [New Music](https://www.furia.com/page.cgi?type=log#id492)
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
 * [lazyrecords](https://lazyrecords.app/), [Discover Quickly](https://discoverquickly.com/), [Chosic](https://www.chosic.com/), [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/), [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
@@ -557,7 +558,6 @@
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
 * [DAHR](https://adp.library.ucsb.edu/index.php) - American Historical Recordings Database
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
-* [MixesDB](https://www.mixesdb.com/) - DJ Set Database
 * [TrackID](https://trackid.net/) - Tracklist Database
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Music Recommendation Guides
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
