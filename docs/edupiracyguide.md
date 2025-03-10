@@ -570,7 +570,7 @@
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [MatWeb](https://www.matweb.com/) - Materials Info Databse
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
-* [⁠Lavteam](https://lavteam.org/) or [CESDB](https://www.cesdb.com/) - Engineering Software
+* [Lavteam](https://lavteam.org/) or [CESDB](https://www.cesdb.com/) - Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [VisRo Robotics](https://vis-ro.web.app) - Robotics Learning / [Discord](https://discord.com/invite/TfwZ3hH2D2)

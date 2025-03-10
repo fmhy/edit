@@ -238,7 +238,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](https://nzbking.com/)
-* [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
+* [g4u](https://g4u.to/) - Download Games via Usenet / PW: `404`
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client

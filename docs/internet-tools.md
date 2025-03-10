@@ -380,7 +380,7 @@
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [1kb.link](https://1kb.link/) - `1kb.link/acc0a`
-* [X.gd](https://x.gd/) `x.gd/rcg0Z`
+* [X.gd](https://x.gd/) - `x.gd/rcg0Z`
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
