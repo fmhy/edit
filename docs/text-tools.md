@@ -275,7 +275,7 @@
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
-* [⁠Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
+* [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves

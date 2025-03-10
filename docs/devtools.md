@@ -1007,7 +1007,7 @@
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
 * [SVGX](https://svgx.app/) - SVG Assets Manager
 * [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
-* [svgco](https://svgco.de/) or [IMG to SVG](https://img-to-svg.com/ ) - Image to SVG Converter
+* [svgco](https://svgco.de/) or [IMG to SVG](https://img-to-svg.com/) - Image to SVG Converter
 * [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator

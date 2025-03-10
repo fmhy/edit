@@ -381,7 +381,7 @@
 
 ## ▷ Proxy Sites
 
-* **Note** - Keep in mind many proxy sites log info like IP address, sites visited etc. They're useful for unblocking sites, but not very useful for privacy.
+* **Note** - Keep in mind many proxy sites log info like IP address, sites visited, etc. They're useful for unblocking sites, but not very useful for privacy.
 
 ***
 

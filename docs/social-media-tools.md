@@ -140,7 +140,7 @@
 * [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
-* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
+* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot

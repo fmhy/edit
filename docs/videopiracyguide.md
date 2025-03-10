@@ -444,8 +444,8 @@
 * [RedditSport](https://redditsport.cc/)
 * [Raket TV](https://rakettvv.blogspot.com/), [2](https://www.rakettv.win/)
 * [CrackStreams](https://crackstreams.blog/)
-* [BuffStreams](https://buffstreams.app/) 
-* [SportHD](https://sporthd.live/) 
+* [BuffStreams](https://buffstreams.app/)
+* [SportHD](https://sporthd.live/)
 * [NET3LIX](https://net3lix.world/live) / [Discord](https://discord.gg/bstJfQT3AZ)
 * [SportsOnline](https://sportsonline.gl/)
 * [WorldStreams](https://worldstreams.net/)
@@ -592,7 +592,7 @@
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
 * [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
 * [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
-* [⁠Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
+* [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 
 ***
 

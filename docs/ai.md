@@ -260,7 +260,7 @@
 
 # ► Video Generation
 
-* 🌐 **[⁠VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard 
+* 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - US Only / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[PixVerse](https://pixverse.ai/)** - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Unlimited / Colab / [Discord](https://discord.gg/k5BwmmvJJU)
@@ -277,7 +277,7 @@
 * [Hailuo AI](https://hailuoai.video/) - 3 Daily / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 * [Vivago](https://vivago.ai/) - 1 Daily
-* [⁠ChatGLM](https://chatglm.cn/) - Unlimited / Requires Signup & Phone # / SMS Generators Work
+* [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Signup & Phone # / SMS Generators Work
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 
 ***
@@ -303,7 +303,7 @@
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Sign-Up / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations)
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
-* [⁠ChatGLM](https://chatglm.cn/) / Unlimited
+* [ChatGLM](https://chatglm.cn/) / Unlimited
 * [Meta AI](https://www.meta.ai/icebreakers/imagine/) / Unlimited
 * [Playground](https://playground.com/) / 15 Per 3 Hours
 * [TensorArt](https://tensor.art/) / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)
