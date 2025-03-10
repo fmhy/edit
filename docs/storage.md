@@ -812,26 +812,6 @@
 
 ***
 
-## NextChat Instances
-
-* https://restless-dew-17e3.safineymah.workers.dev/ - o1-Preview/4o/Gemini 1.5
-* https://ai.yyr1201.fun/ - GPT-3.5 Turbo
-* https://aii.tzwlxh.com/ - GPT-3.5 Turbo / GPT-4o
-* https://b.smallmoon.net/ - GPT-3.5 turbo / Gemini 1.5 Pro / Gemini 1.5 Flash
-* https://free1.fdmgpt.top/ - GPT-4o-mini
-* https://gpt35.chenjinshui.top/ - DeepSeek v2.5 / GPT-4o / GPT-4o-mini / Claude 3 Haiku
-* https://free.xiercloud.top/
-* https://chatgpt.thzstudent.top/
-* https://chat.typegpt.net/
-* https://gpt.tiptopuni.com/
-* https://gpt.aifree.club/
-* https://chat.pandatalk.fun/
-* https://chat.286726.xyz/
-* https://gpt.xuhao.tech/
-* https://gpt.ultra-x.top/
-
-***
-
 ## Open Directory Search String Builder
 
 [strixx](https://strixx.vercel.app/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
@@ -1081,9 +1061,10 @@
 
 ## Text Adventures
 
-* [IFWiki](https://www.ifwiki.org/) - Interactive Fiction Encyclopedia / Resources
+* 🌐 **[IFDB](https://ifdb.org/)** or [IFArchive](https://www.ifarchive.org/) - Game Indexes
+* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
 
-[IFDB](https://ifdb.org/) (Index), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
+[Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 ***
 
@@ -1151,16 +1132,6 @@
 * [FontGeneratorCool](https://fontgenerator.cool/)
 * [fontchangerguru](https://fontchangerguru.com/)
 * [fancytextdecorator](https://fancytextdecorator.com/)
-
-***
-
-## Vue Tools
-
-* ⭐ **[Vue.js](https://vuejs.org/)** - JS Framework
-* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
-* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
-* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
-* [Vue Vben Admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
 
 ***
 

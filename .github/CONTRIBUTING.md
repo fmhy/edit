@@ -25,6 +25,9 @@ Please only use the store link if there's neither a site nor a Git repository av
 **🕹️ Emulators**:
 They're already on the **[Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)**.
 
+**🌐 Normal Web Browsers**
+They're already on the **[Browser Index](https://github.com/nerdyslacker/desktop-web-browsers)**, though we accept privacy-based ones.
+
 **🔻 Leeches**:
 They're already on the **[File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)**.
 
@@ -47,9 +50,9 @@ We don't recommend  people use these.
 
 You can do one of the following:
 
-- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+- Reach out via the feedback system on any page of our [Website](https://fmhy.net/), or on **[Discord](https://rentry.co/fmhy-invite)** if you'd like to discuss your report.
 
-- Alternatively, you can reach out to us on **[Discord](https://rentry.co/fmhy-invite)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
+- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
 ## Making changes
 
