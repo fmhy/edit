@@ -858,6 +858,7 @@
 * ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * ⭐ **[XXMI](https://github.com/SpectrumQT/XXMI-Launcher)** - Gacha Games Modding Tool / [Discord](https://discord.gg/agmg)
+* ⭐ **[Mod Sites](https://rentry.co/xo4o3skx)** - Gacha Game Mod Sites
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
 * [Star Rail Station](https://starrailstation.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rail Guides
