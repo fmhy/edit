@@ -867,7 +867,7 @@
 
 * 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
-* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/movies)** - Recommendations
 * ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
