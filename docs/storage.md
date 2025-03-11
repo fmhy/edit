@@ -1121,17 +1121,17 @@
 ## Unicode Text Generators
 
 * ⭐ **[YayText](https://yaytext.com/)**
-* ⭐ **[MessLetters](https://www.messletters.com/)**
-* ⭐ **[fSymbols](https://fsymbols.com/generators/)**
+* ⭐ **[Messletters](https://www.messletters.com/)**
+* ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
-* [coolfont](https://coolfont.org/)
-* [FontMaker](https://fontmaker.io/)
-* [Tesms](https://www.tesms.net/)
+* [Cool Fonts Online](https://coolfont.org/)
+* [FontMaker.io](https://fontmaker.io/)
+* [Aesthetic Font Generator](https://www.tesms.net/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
-* [FontGenerator](https://fontgenerator.cc/)
-* [FontGeneratorCool](https://fontgenerator.cool/)
-* [fontchangerguru](https://fontchangerguru.com/)
-* [fancytextdecorator](https://fancytextdecorator.com/)
+* [FontGenerator.cc](https://fontgenerator.cc/)
+* [FontGenerator.cool](https://fontgenerator.cool/)
+* [Font Changer Guru](https://fontchangerguru.com/)
+* [Fancy Text Decorator](https://fancytextdecorator.com/)
 
 ***
 
