@@ -149,6 +149,7 @@
 
 ## ▷ Social Media Apps
 
+* 🌐 **[/reddit clients/](https://rentry.co/redditclients)** - Android Reddit Client Comparisons
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
@@ -730,14 +731,14 @@
 # ► Android Audio
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
+* ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm), [ReVanced Manager](https://revanced.app/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
+* ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
-* [ReVanced Manager](https://revanced.app/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
-* Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
 * [ytdlnis](https://github.com/deniscerri/ytdlnis) - Multi-Site Audio Downloader
 * [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
@@ -797,6 +798,7 @@
 * [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [mucke](https://github.com/moritz-weber/mucke)
+* [⁠Lotus](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse)
 * [Zen Music Player](https://github.com/pakka-papad/Zen)
@@ -1106,7 +1108,7 @@
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants)
+* ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants) (requires patch)
 * ⭐ **[Orion](https://kagi.com/orion/)** - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
 * [Brave](https://apps.apple.com/app/id1052879175) - Adblock Browser
 * [1Blocker](https://1blocker.com/) - Adblocker
@@ -1183,7 +1185,6 @@
 
 ## ▷ Social Media Apps
 
-* 🌐 **[/reddit clients/](https://rentry.co/redditclients)** - Android Reddit Client Comparisons
 * ⭐ **[BunnyTweak](https://github.com/bunny-mod/BunnyTweak)** - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [Reddit Deluxe](https://t.me/SultanModsiOS), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#redditfilter-note), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216), [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Arctic](https://getarctic.app/)**, [Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients

@@ -24,7 +24,7 @@
 * ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
-* ⭐ **[Watch2Day](https://dailyflix.xyz/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
+* ⭐ **[Cinenull](https://cinemull.space/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
 * ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
@@ -577,6 +577,7 @@
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
+* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper
 
 ***
 

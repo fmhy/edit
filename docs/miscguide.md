@@ -785,6 +785,7 @@
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
 * [himalayas](https://himalayas.app/) - Remote Jobs
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
+* [FlexHired](https://flexhired.com/) -  Remote Jobs
 * [CareerVault](https://careervault.io/) - Remote Jobs
 * [NoDesk](https://nodesk.co/) - Remote Jobs
 * [Remote OK](https://remoteok.com/) - Remote Jobs

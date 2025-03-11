@@ -597,7 +597,6 @@
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [Kyun](https://github.com/lennart-finke/kyun), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
-* [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Clients
 * [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suites

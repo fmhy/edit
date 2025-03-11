@@ -173,6 +173,7 @@
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
+* [⁠WeMod](https://www.wemod.com/) - Mod Manager / [Discord](https://discord.com/invite/wemod)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
 * [Mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
@@ -857,7 +858,6 @@
 
 * 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://gensh.honeyhunterworld.com/) - Genshin Impact Resources / Tools
 * 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
-* 🌐 **[Gacha Mod Sites](https://rentry.co/xo4o3skx)**
 * ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * ⭐ **[XXMI](https://github.com/SpectrumQT/XXMI-Launcher)** - Gacha Games Modding Tool / [Discord](https://discord.gg/agmg)
