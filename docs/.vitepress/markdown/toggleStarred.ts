@@ -13,6 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+
 import type { MarkdownRenderer } from 'vitepress'
 
 const excluded = ['Beginners Guide']
@@ -25,12 +26,9 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
     if (contentToken) {
       const content = contentToken.content
 
-      // Log the content for debugging purposes
-      console.log('Content Token:', content)
-
       if (
         !excluded.includes(env.frontmatter.title) &&
-        (content.includes(':star:') || content.includes(':glowing-star:'))  // Directly check for emojis
+        (content.includes(':star:') || content.includes(':glowing-star:'))
       ) {
         return `<li class="starred">`
       }

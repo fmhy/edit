@@ -30,7 +30,7 @@ export function base64DecodePlugin(md: MarkdownRenderer) {
   md.renderer.rules.code_inline = function (tokens, idx, options, env, self) {
     if (
       !env.frontmatter.title ||
-      (env.frontmatter.title && !env.frontmatter.title === 'base64')
+      (env.frontmatter.title && env.frontmatter.title !== 'base64')
     ) {
       return defaultRender(tokens, idx, options, env, self)
     }
