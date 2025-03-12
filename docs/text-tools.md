@@ -364,7 +364,7 @@
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [VisiData](https://www.visidata.org/) - Spreadsheet CLI Editor
 * [Structifi](https://structifi.com/) - Convert Files to Structured Data
-* [TadViewer](https://www.tadviewer.com/) - View and Analyze Tabular Data
+* [TadViewer](https://www.tadviewer.com/) - View / Analyze Tabular Data
 
 ***
 

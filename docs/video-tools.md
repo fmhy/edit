@@ -102,7 +102,7 @@
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
 * [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
 * [VERT](https://vert.sh/) / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT), [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
-* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
+* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding / Muxing
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 * [Ingex](https://ingex.sourceforge.net/) - Tapeless (Uncompressed) Recording / Digital Tape Converter
@@ -425,7 +425,7 @@
 * [Video2Edit](https://www.video2edit.com/)
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
-* [Crossfade](https://crossfade.io/) - Video and Audio Crossfading
+* [Crossfade](https://crossfade.io/) - Video / Audio Crossfading
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 
 ***
