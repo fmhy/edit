@@ -1162,10 +1162,8 @@
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
-* [DecryptedAppStore](https://armconverter.com/decryptedappstore) - Decrypted iOS Apps
+* [DecryptedAppStore](https://armconverter.com/decryptedappstore), [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) or [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
 * [AppSnake](https://appsnake.cypwn.xyz/) - Check if Unlockers Work on App
-* [AnyIPA](https://anyipa.me/) - Decrypted iOS Apps / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw)
-* [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
 * [Calvink19](https://calvink19.uk/patches) - App Patches for iOS Legacy Devices
 
 ***
