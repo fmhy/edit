@@ -143,6 +143,7 @@
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
+* [FLUX AI ART](https://fluxaiart.ai/) - AI Image Generator
 
 ***
 
