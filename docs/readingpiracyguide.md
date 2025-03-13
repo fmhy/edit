@@ -17,34 +17,28 @@
 * [Liber3](https://liber3.eth.limo/)
 * [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use Adblocker
-* [FreeBannedBooks](https://freebannedbooks.org/) - Books Banned in Schools by Politicians
+* [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
-* [BookSee](https://en.booksee.org/), [2](https://bookree.org/)
-* [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
-* [Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
-* [dpgroup](https://www.dpgroup.org/) - Books / Magazines
+* [BookSee](https://en.booksee.org/)
+* [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
+* [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Signup Required
 * [eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/)
-* [AllBooksWorld](https://allbooksworld.com/)
-* [Novel12](https://novel12.com/)
+* [AllBooksWorld](https://allbooksworld.com/) - [Telegram](https://t.me/allbooksworlddotcom)
+* [Novel12](https://novel12.com/) - Read Online
 * [IsIDore](https://rentry.co/FMHYBase64#isidore)
-* [Various Books](https://rentry.co/FMHYBase64#various-books-manuals)
-* [ibookscafe](https://bookscafe.net/) - Books / Some NSFW
-* [English E-Reader](https://english-e-reader.net/)
-* [Avalon Library](https://avalonlibrary.net/)
-* [Library Land](https://library.land/)
-* [Litgu.ru](https://litgu.ru/)
-* [BookFrom.net](https://www.bookfrom.net/)
-* [FreeEditorial](https://www.freeditorial.com/)
-* [Zoboko](https://zoboko.com/)
+* [Various Books](https://rentry.co/FMHYBase64#various-books-manuals) - Educational Books and Manuals
+* [Avalon Library](https://avalonlibrary.net/) - Conspirology Books
+* [Library Land](https://library.land/) or [BookFrom.net](https://www.bookfrom.net/) - Read Online
+* [FreeEditorial](https://www.freeditorial.com/en/) - Read Online / [Spanish](https://www.freeditorial.com)
 * [NovelsArchive](https://t.me/NovelsArchive) - Telegram
 * [BooksMania](https://t.me/booksmania) - Telegram
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
-* [Flibusta](https://flibusta.is/ - Account Required) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/)
-* [ExClassics](https://www.exclassics.com/) - Obscure Books
+* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
+* [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Signup Required
+* [ExClassics](https://www.exclassics.com/) - Public Domain Obscure Books / Read Online
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
 * [Find Books](https://www.findbooks.info/) - IPFS Required

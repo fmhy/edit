@@ -138,12 +138,12 @@
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * ⭐ **[ReVanced Auto-Update](https://rentry.co/revanced-auto-update)** - Update ReVanced Apps Automatically
-* ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/) or [ReVanced Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
-* [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/) / [Discord](https://discord.gg/yMnc3EywRZ)
-* [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Build APKs with Python / [Config Gen](https://j-hc.github.io/rvmm-config-gen/)
-* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
-* [Revancify](https://github.com/decipher3114/Revancify) - Termux-Compatible CLI Patcher
+* ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/) or [ReVanced Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, & Troubleshooting
+* [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/)
+* [ReVanced APKs](https://revanced-apks.pages.dev/), [2](https://revanced-apks.github.io/) - Pre-Built ReVanced APKs / [GitHub](https://github.com/revanced-apks/build-apps) / [Telegram](https://t.me/revanced_apks_web)
+* [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
+* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)
+* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide) / [TUI Wrapper](https://github.com/decipher3114/Revancify)
 
 ***
 
@@ -288,7 +288,7 @@
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** - Privacy-Focused Voice Input
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard
 * ⭐ **[Thumb-Key](https://github.com/dessalines/thumb-key)** - Keyboard
-* ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Privacy-Focused Keyboard
+* ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/Layouts)
 * [Flickboard](https://github.com/nightkr/flickboard) - Keyboard
 * [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Privacy-Focused Keyboard
@@ -486,7 +486,6 @@
 * [PassAndroid](https://github.com/ligi/PassAndroid) - Manage Virtual Tickets / Passes
 * [Blabber.im](https://blabber.im/) or [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Apps
 * [IRCCloud](https://github.com/irccloud/android), [Goguma](https://codeberg.org/emersion/goguma) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
-* [Bridgefy](https://bridgefy.me/) - Offline Messaging App
 * [NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) - Read / Write NFC Tags
 * [Eruda](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
@@ -529,47 +528,49 @@
 
 ***
 
-## ▷ Productivity / Calendars
-
-* ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
-* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)** - Clock / Alarm
-* [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
-* [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
-* [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
-* [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
-* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
-* [FamilyWall](https://www.familywall.com/) - Family Oriented Planner
-* [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
-* [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
-* [Folksable](https://folksable.com/) - Habit Tracker
-* [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
-* [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
-* [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
-* [TheFor](https://thefor.xyz/) - Habit Tracker
-* [Mindful](https://github.com/akaMrNagar/Mindful) - Productivity Tracker / App Blocker
-* [StayFree](https://stayfreeapps.com/) - Productivity Tracker / App Blocker
-* [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
-* [Success](https://eveningkid.com/success/) - Productivity Tracker
-* [Unlock Master](https://github.com/sweakpl/unlock-master) - Productivity Tracker
-* [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
-* [timeto.me](https://timeto.me/) - Productivity Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
-* [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
-* [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
-* [Clockology](https://rentry.co/FMHYBase64#clockology) - Clock / Alarm
-* [Chrono](https://github.com/vicolo-dev/chrono) - Clock / Alarm
-* [ClockYou](https://github.com/you-apps/ClockYou) - Clock / Alarm
-* [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clock / Alarm
-
-***
-
 ## ▷ Notifications / Widgets
 
-* ⭐ **[ntfy](https://ntfy.sh/) / [Discord](https://discord.gg/cT7ECsZj9w) / [Matrix](https://matrix.to/#/#ntfy-space:matrix.org)**, [AppRise](https://github.com/caronc/apprise) or [PingMe](https://pingme.lmno.pk/) - Custom Push Notifications
+* ⭐ **[ntfy](https://ntfy.sh/)** / [Discord](https://discord.gg/cT7ECsZj9w), [AppRise](https://github.com/caronc/apprise) or [PingMe](https://pingme.lmno.pk/) - Custom Push Notifications
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/flxholle/quick-tiles) - Quick Setting Tiles
 * [KWGT Widgets](https://rentry.co/FMHYBase64#kwgt) - Custom Android Widgets
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android "At a Glance" Widget
 * [Notification Listener](https://github.com/Alfio010/notification-listener-android) - Save / Pin Notifications
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Root
+
+***
+
+## ▷ Date & Time
+
+* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)** - Clock / Alarm
+* [JTX](https://jtx.techbee.at/), [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
+* [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm / QR Code Control
+* [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
+* [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
+* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
+* [FamilyWall](https://www.familywall.com/) - Family Organization Planner
+* [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
+* [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
+* [Chrono](https://github.com/vicolo-dev/chrono) - Clock / Alarm
+
+***
+
+## ▷ Productivity Trackers
+
+* ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
+* [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
+* [Folksable](https://folksable.com/) - Social Habit Tracker
+* [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
+* [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
+* [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
+* [TheFor](https://thefor.xyz/) - Habit Tracker
+* [Unlock Master](https://github.com/sweakpl/unlock-master) - Digital Habit Tracker
+* [Mindful](https://github.com/akaMrNagar/Mindful) - Digital Productivity Tracker / App Blocker
+* [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
+* [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
+* [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
+* [Success](https://eveningkid.com/success/) - Productivity Tracker
+* [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
+* [timeto.me](https://timeto.me/) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
 
 ***
 
@@ -868,8 +869,8 @@
 
 * ↪️ **[Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_android_tv)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
-* ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime
-* ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page) / [GitHub](https://github.com/recloudstream/cloudstream)
+* ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
+* ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page)
 * ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
@@ -1192,6 +1193,7 @@
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
+* [⁠Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)

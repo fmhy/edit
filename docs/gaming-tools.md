@@ -389,9 +389,8 @@
 
 ## ▷ Switch Homebrew
 
+* ↪️ **[Switch Homebrew Guides](https://rentry.co/FMHYBase64#switch-homebrew-guides)**
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
-* [Switch Guide](https://switch.hacks.guide/) - Switch Homebrew Guide
-* [Switchway](https://switchway.net/) - Switch Homebrew Guide
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://flagbrew.org/) - Switch Homebrew / [Discord](https://discord.com/invite/4Rv8DTzGFa)
@@ -480,6 +479,7 @@
 
 # ► Minecraft Tools
 
+* 🌐 **[MCDOC](https://openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png) or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)

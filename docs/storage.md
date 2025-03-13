@@ -69,31 +69,27 @@
 
 ### Note-Taking
 
-* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Note-Taking
-* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Note-Taking
-* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Note-Taking
-* [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking
-* [Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook) - Note-Taking
-* [Safe Notes](https://safenotes.dev/) - Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
-* [Quillpad](https://quillpad.github.io/) - Note-Taking
-* [sNotz](https://sunilpaulmathew.github.io/sNotz/) - Note-Taking
-* [Notion](https://www.notion.com/) - Note-Taking
-* [Joplin](https://joplinapp.org/) - Note-Taking
-* [Notebook](https://www.zoho.com/notebook/) - Note-Taking
-* [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android) - Note-Taking
-* [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688) - Note-Taking
-* [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking
-* [ColorNote](https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note) - Note-Taking
-* [Notally](https://github.com/OmGodse/Notally) - Note-Taking
-* [Omni Notes](https://omninotes.app/) - Note-Taking
-* [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid) - Note-Taking
-* [DailyNote](https://play.google.com/store/apps/details?id=com.akapps.dailynote) - Note-Taking
-* [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking
-* [Kardi Notes](https://f-droid.org/packages/github.rikodot.kardi_notes/) - Note-Taking
-* [Moe Memos](https://memos.moe/) - Note-Taking
+* ⭐ **[Obsidian](https://obsidian.md/mobile)** 
+* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**
+* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Support
+* [neutriNote](https://github.com/appml/neutrinote) - Markdown / Math Support
+* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - Encrypted Note-Taking
+* [Safe Notes](https://safenotes.dev/) - Encrypted Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
+* [Quillpad](https://quillpad.github.io/) - Markdown Support / [GitHub](https://github.com/quillpad/quillpad)
+* [Joplin](https://joplinapp.org/) - Markdown Support / [GitHub](https://github.com/laurent22/joplin/)
+* [Notebook](https://www.zoho.com/notebook/mobile-app.html)
+* [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us)
+* [NotePad](https://github.com/mshdabiola/NotePad) - Customizable Note-Taking
+* [ColorNote](https://www.colornote.com/)
+* [Notally](https://github.com/OmGodse/Notally)
+* [Walling](https://walling.app/)
+* [Google Keep](https://keep.google.com/)
+* [DarkNote](https://github.com/dozy-programmer/Dark-Note)
+* [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android)
+* [Kardi Notes](https://github.com/rikodot/kardi_notes_app)
+* [Moe Memos](https://memos.moe/)
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking / Writing
-* [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived) - Note-Taking
-* [Saber](https://github.com/saber-notes/saber) or [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global) - Handwritten Notes for Tablets
+* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Handwritten Notes
 
 ### To-Do Apps
 
@@ -974,7 +970,7 @@
 
 ## Spotify Playlist Generators
 
-[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [RadioNewify](https://radionewify.com/)
+[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [RadioNewify](https://radionewify.com/), [Predominantly](https://predominant.ly/)
 
 ***
 
@@ -1008,7 +1004,7 @@
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Icofont](https://icofont.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/icons/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [cappuccicons](https://cappuccicons.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/)
+[Icofont](https://icofont.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/icons/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [cappuccicons](https://cappuccicons.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/)
 
 ***
 
@@ -1154,7 +1150,7 @@
 
 ## WordPress Themes
 
-[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [Mega Drive](https://rentry.co/FMHYBase64#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
+[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
 
 ***
 
