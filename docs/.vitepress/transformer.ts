@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import { basename } from 'pathe'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
-export function transforms(): Plugin {
+export function transformsPlugin(): Plugin {
   return {
     name: 'custom:transform-content',
     enforce: 'pre',

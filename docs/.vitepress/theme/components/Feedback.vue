@@ -1,7 +1,8 @@
 <script setup lang="ts">
+import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
 import { computed, reactive, ref } from 'vue'
-import { feedbackOptions, getFeedbackOption, type FeedbackType } from '../../types/Feedback'
+import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 
 const props = defineProps<{
   heading?: string

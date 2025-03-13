@@ -1,4 +1,19 @@
 /**
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *  http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+/**
  *  Copyright (c) 2024 taskylizard
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
@@ -53,10 +68,10 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     return result
   }
 
-  let defaultRender = md.renderer.rules.link_open
+  const defaultRender = md.renderer.rules.link_open
 
   md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
-    const result = defaultRender!!!!!!!!!!!(tokens, idx, options, env, self)
+    const result = defaultRender!!!!!!!!!!(tokens, idx, options, env, self)
 
     const meta = tokens[idx].meta
     if (!meta || !meta.feedback) return result

@@ -18,7 +18,7 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
 
-4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**. 
+4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
 
 #### Don't Submit:
 
@@ -102,7 +102,7 @@ Select edit button and make your changes.
 
 ### Manually setting up a development environment
 
-#### Manually
+#### Manual
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
@@ -126,10 +126,27 @@ You can use [nix](https://nixos.org/) to set up a development environment, we ha
 
 3. Run `nix develop` to enter the development environment.
 
-4. Make changes. 
+4. Make changes.
 
 5. Exit the development environment by running `exit`.
 
 6. Commit your changes and push them to your forked repository.
 
 7. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+
+
+#### Keeping Your Fork Updated
+
+To keep your fork up to date with the main repository:
+
+```bash
+# Add the upstream remote (only needed once)
+git remote add upstream https://github.com/fmhy/edit.git
+
+# Fetch upstream changes
+git fetch upstream
+
+# Merge upstream changes into your local main branch
+git checkout main
+git merge upstream/main
+```
