@@ -272,7 +272,6 @@
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
-* [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [TechToROMs](https://techtoroms.com/) - Emulators / ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [GLoad](https://gload.to/) - ROMs

@@ -32,7 +32,7 @@
 ***
 
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
-* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days

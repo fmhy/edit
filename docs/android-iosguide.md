@@ -178,6 +178,7 @@
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
+* [⁠WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
 * [FouadMODS](https://t.me/FouadMODS) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
 
 ***
@@ -665,7 +666,7 @@
 
 ***
 
-* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client
+* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / [Github](https://github.com/proninyaroslav/libretorrent)
 * [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding
 * [BiglyBT](https://android.biglybt.com/) - Torrent Client / Allows Binding
 * [tTorrent](https://ttorrent.org/) - Torrent Client
@@ -799,7 +800,7 @@
 * [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [mucke](https://github.com/moritz-weber/mucke)
-* [⁠Lotus](https://f-droid.org/packages/com.dn0ne.lotus)
+* [⁠Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse)
 * [Zen Music Player](https://github.com/pakka-papad/Zen)

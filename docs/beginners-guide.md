@@ -26,7 +26,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** for privacy or **[Orion](https://kagi.com/orion/)** for iOS.
+For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Orion](https://kagi.com/orion/)** for iOS.
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 

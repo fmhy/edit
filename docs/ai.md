@@ -9,8 +9,8 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** or [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md) - Online LLM Indexes
-* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o3-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o3-mini Chatbot / No Sign-Up / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / No Sign-Up
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [AI Studio](https://aistudio.google.com/app/prompts/new_chat) - Google's Chatbot / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o1 / No Sign-Up / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)

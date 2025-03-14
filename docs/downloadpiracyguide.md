@@ -92,7 +92,7 @@
 * [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
-* [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
+* [SkullXDCC](https://skullxdcc.com/ / [2](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
 * [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
 
 ***
@@ -140,7 +140,7 @@
 * [Libreware](https://t.me/Libreware) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
-* [GenP](https://www.reddit.com/r/GenP/wiki/index), [2](https://genpguides.github.io/) - Adobe Software Patcher / [Guide](https://youtu.be/TM6q1F45boQ) / [Discord](https://discord.gg/BVBh2XVn9s)
+* [GenP](https://www.reddit.com/r/GenP/wiki/index) - Adobe Software Patcher / [Discord](https://discord.gg/BVBh2XVn9s)
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
 ***

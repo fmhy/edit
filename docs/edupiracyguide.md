@@ -199,6 +199,7 @@
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
+* [Time Portal]()https://www.eggnog.ai/entertimeportal - History Clip Guessing
 
 ***
 
@@ -788,29 +789,23 @@
 
 ## ▷ Japanese
 
-* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/LearningJapaneseResources)**, [yame dame](https://yameda.me/), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
+* 🌐 **[yame dame](https://yameda.me/)**, [GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Learning Resources
 * 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
-* ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
-* ⭐ **[Animelon](https://animelon.com/)** - Learn Japanese with Anime
-* [Minato](https://minato-jf.jp/) - Japanese Courses
+* ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
+* ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
+* ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+* ⭐ **[Animelon](https://animelon.com/)**, [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
+* [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
+* [Minato](https://minato-jf.jp/) - Japanese Courses
+* [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
-* [Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [Comprehensible Japanese](https://www.youtube.com/@cijapanese) or [JapanesePod101](https://www.youtube.com/@JapanesePod101) - Japanese Learning YouTube Channels
-* [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
-* [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese with Anime / Manga
-* [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) or [BunPro](https://bunpro.jp/) - Learn Japanese Grammar
-* [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
-* [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
-* [japReader](https://github.com/marisukukise/japReader) - Japanese Text Translator
 * [DelvinLanguage](http://delvinlanguage.com/) - Fill in Missing Japanese Words
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana
-* [WaniKani](https://www.wanikani.com/), [KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
-* [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
-* [Nippon Colors](https://nipponcolors.com/) - Traditional Japanese Color Meanings
 
 ***
 

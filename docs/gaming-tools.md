@@ -701,10 +701,10 @@
 
 ## ▷ Pokemon Tools
 
-* 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Curated List of Pokémon Resources
+* 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
 * 🌐 **[/r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
-* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
+* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
 * ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs

@@ -79,9 +79,6 @@
 
 # ► Bangla / বাংলা
 
-* ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
-* ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
-* ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
 * ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck / [WebUI](https://avro.im/)
 * [aapathshala](https://aapathshala.com/library/) - Test Practice
 * [Python Maateen](https://python.maateen.me/) - Python Guide
@@ -212,7 +209,6 @@
 
 ## ▷ Streaming / 流媒体
 
-* 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)

@@ -109,18 +109,13 @@
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
-* [Radicle](https://radicle.xyz/) - P2P Software Development
-* [MSYS2](https://www.msys2.org/) - Windows Software Creator
-* [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Dokploy](https://github.com/dokploy/dokploy) or [Waypoint](https://www.waypointproject.io) - App Deployment
-* [Dotnet Content Creators](https://www.wearedotnet.io/) - .NET Content Creators Index
+* [Dokploy](https://github.com/dokploy/dokploy) - App Deployment
 * [Gaultier Blog](https://gaultier.github.io/blog/x11_x64.html) - Learn x86-64 Assembly
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
-* [Fluent Svelte](https://fluent-svelte.vercel.app/) - Microsoft's Fluent Design System in Svelte
-* [Slint](https://slint.dev) / [GitHub](https://github.com/slint-ui/slint) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
+* [Slint](https://slint.dev) - GUI Development Tools / [GitHub](https://github.com/slint-ui/slint)
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
-* [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Etebase](https://www.etebase.com/) - Encrypted App Backend
 * [tl;drLegal](https://www.tldrlegal.com/) - Software License Summaries
 * [minisign](https://jedisct1.github.io/minisign/) - Sign Files / Verify Digital Signatures / [GitHub](https://github.com/jedisct1/minisign)
@@ -133,8 +128,7 @@
 
 * 🌐 **[AndroidRepo](https://androidrepo.com/)** - Android Development Resources
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
-* 🌐 **[Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources)** - App Design Learning Resources
-* 🌐 **[Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)**, [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.com/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Resources
+* 🌐 **[UXArchive](https://uxarchive.com/)**, [Mobbin](https://mobbin.com/) or [UISources](https://www.uisources.com/) - Mobile UI Resources
 * 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Heroku Alternatives
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
@@ -197,27 +191,19 @@
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git GUIs
 * [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/jj-vcs/jj), [GitHub Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
-* [Lab+](https://github.com/thelooter/labplus_for_gitlab) - GitLab Android App
-* [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
+* [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/git-bug/git-bug) - Git Embedded Bug Tracker
-* [Mercurial](https://www.mercurial-scm.org/), [Plane](https://github.com/makeplane/plane) / [Discord](https://discord.com/invite/A92xrEGCge), [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
+* [Plane](https://github.com/makeplane/plane) / [Discord](https://discord.com/invite/A92xrEGCge), [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
 * [git-annex](https://git-annex.branchable.com/) - Manage Large Git Files (without Git)
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History / [GitHub](https://github.com/Murmele/Gittyup)
 * [Gource](https://gource.io/) - Git Project Visualizer
-* [git](https://git-scm.com/), [SCM](https://sapling-scm.com/) or [darcs](https://darcs.net/) - Version Control Systems
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Comparison
-* [Ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/) - Undo Git Commands
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
-* [Sourcegraph](https://sourcegraph.com/) - Git Repository Sourcegraph Editor
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
-* [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
-* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
-* [Serie](https://github.com/lusingander/serie) - Commit Graph
-* [lastversion](https://lastversion.getpagespeed.com) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
 * [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/git-quick-stats/git-quick-stats)
@@ -379,22 +365,11 @@
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
-* [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [LLM Text Complation](https://github.com/molbal/llm-text-completion-finetune) - LLM Finetuning / Text Complation
-* [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
-* [Google AI Studio](https://aistudio.google.com/) - Generative Model Prototyping
-* [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
-* [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [Scikit Learn](https://scikit-learn.org/) - Machine Learning Library for Python
-* [PyTorch](https://pytorch.org) - Tensor library for deep learning using GPUs and CPUs
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
-* [MLC LLM](https://llm.mlc.ai/) - Native Language Model Deployment
-* [Langchain](https://python.langchain.com) - Build Apps via LLM / [Extract](https://github.com/langchain-ai/langchain-extract)
 * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
-* [RunBear](https://runbear.io/) - Connect LLMs to Apps
-* [GPTCache](https://gptcache.readthedocs.io) - LLM Response Cache
 * [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
@@ -543,20 +518,14 @@
 
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
 * [Prettier](https://prettier.io/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
-* [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
-* [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
-* [Trigger](https://trigger.dev/) - Run Background Jobs
-* [Bacon](https://github.com/Canop/bacon) - Background Rust Code Check
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
-* [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
+* [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [OneCompiler](https://onecompiler.com/), [GodBolt](https://godbolt.org/), [ryugod](https://www.ryugod.com/) or [Wandbox](https://wandbox.org/) - Online Compilers / Explorers
-* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
-* [mingrammer](https://diagrams.mingrammer.com) - Diagram as Code / Prototyping
-* [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
+* [DogBolt](https://dogbolt.org/) - Decompiler Explorers / [GitHub]](https://github.com/decompiler-explorer/decompiler-explorer)
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [massCode](https://masscode.io/), [Lepton](https://hackjutsu.com/Lepton/), [Snipit](https://snipit.io/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
+* [massCode](https://masscode.io/) - Code Snippet Manager
 * [Meld](https://meldmerge.org/), [Beyond Compare](https://www.scootersoftware.com/) / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack) or [WinMerge](https://winmerge.org/) - File / Directory Comparison Tools
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
@@ -647,6 +616,7 @@
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
 * [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
 * [Thonny](https://thonny.org/) - Python IDE
+* [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 * [ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
 

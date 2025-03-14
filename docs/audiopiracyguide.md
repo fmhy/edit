@@ -159,6 +159,7 @@
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
+* ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [Podchaser](https://podchaser.com/), [Rephonic](https://rephonic.com/graph) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [Apple Podcasts](https://podcasts.apple.com/us/home) - Podcasts
 * [PodParadise](https://www.podparadise.com/) - Podcasts
@@ -193,6 +194,7 @@
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
+* [⁠Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
 * [FlowTunes](https://www.flowtunes.app/) - Lofi + Focus Radio / Ambient Sounds
 * [Petrichoir](https://petrichoir.app/) - Lofi Radio / Ambient Sounds
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
@@ -416,7 +418,6 @@
 
 ## ▷ Genre Specific
 
-* [The Last Disaster](https://thelastdisaster.club/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [Take Metal](https://takemetal.org/) - Metal / MP3
 * [Me-4U](https://me-4u.com/index.php) - Metal / MP3
 * [Metalminos](https://metalminos.net/) - Metal / MP3
@@ -462,6 +463,7 @@
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
+* [⁠KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC 
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
