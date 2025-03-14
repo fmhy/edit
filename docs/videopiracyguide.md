@@ -13,7 +13,7 @@
 * 🌟 **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (Unofficial)
 * 🌟 **[Freek](https://freek.to/)**, [2](https://freeky.to/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/q8Y9FmYFPR)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
-* 🌟 **[1Shows](https://www.1shows.com/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anim / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
+* 🌟 **[1Shows](https://www.1shows.com/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * 🌟 **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * 🌟 **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / 4K / Auto-Next/ [Telegram](https://t.me/FlickyStream)
 * 🌟 **[Cinemull](https://cinemull.space/)** - Movies / TV / Anime / 4K / Auto-Next / [Telegram](https://t.me/watch2dayonline)
