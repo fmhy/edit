@@ -13,6 +13,7 @@
 * 🌟 **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (Unofficial)
 * 🌟 **[Freek](https://freek.to/)**, [2](https://freeky.to/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.com/invite/q8Y9FmYFPR)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
+* 🌟 **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/), [3](https://345movie.net/), [4](https://456movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/456movies)
 * 🌟 **[1Shows](https://www.1shows.com/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * 🌟 **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * 🌟 **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / 4K / Auto-Next/ [Telegram](https://t.me/FlickyStream)
@@ -20,7 +21,6 @@
 * 🌟 **[movie-web instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Setup Guide + 4K](https://vimeo.com/1059834885/c3ab398d42) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension) / [Docs](https://docs.undi.rest/) / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/), [3](https://345movie.net/), [4](https://456movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/456movies)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[Broflix](https://broflix.ci/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
