@@ -70,7 +70,7 @@
 
 ### Note-Taking
 
-* ⭐ **[Obsidian](https://obsidian.md/mobile)** 
+* ⭐ **[Obsidian](https://obsidian.md/mobile)**
 * ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**
 * [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Support
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown / Math Support
