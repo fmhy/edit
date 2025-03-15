@@ -399,7 +399,6 @@
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)**
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipbox.lc/), [4](https://www.vipleague.pm/) / [More Links](https://rentry.org/894dq2c9)
 * ⭐ **[RBTV77](https://www.rbtv77.work/)**
-* ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://soccer9.sportshub.stream/)
 * ⭐ **[TotalSportek.to](https://www.totalsportek.to/)**, [2](https://totalsportek.me/) - Stream Aggregator
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)**
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Stream Aggregator

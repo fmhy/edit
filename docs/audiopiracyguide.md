@@ -296,7 +296,7 @@
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / Qobuz / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
-* ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / FLAC / [Discord](https://discord.com/invite/yjkdAc53rj)
+* ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / FLAC / Request Access via [Discord](https://discord.com/invite/yjkdAc53rj)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3

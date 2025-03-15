@@ -593,7 +593,6 @@
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Tachimanga](https://tachimanga.app/) / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) - Manga Reader / [Discord](https://discord.gg/8aMcdYdaBz)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
-* [Flow](https://wisprflow.ai/) - Audio Transcription Tools
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [Kyun](https://github.com/lennart-finke/kyun), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps

@@ -271,7 +271,6 @@
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
-* [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [TechToROMs](https://techtoroms.com/) - Emulators / ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [GLoad](https://gload.to/) - ROMs
