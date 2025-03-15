@@ -1011,10 +1011,10 @@
 
 ***
 
-## ▷ Toys / Figures
+## ▷ Toys / Collectibles
 
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
-* [Pokechange](https://en.pokechange.net/) - Buy / Sell Pokémon Cards
+* [Pokechange](https://en.pokechange.net/) or [Misprint](https://www.misprint.com/) - Buy / Sell Pokémon Cards
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
 * [Matchbox University](http://mbx-u.com/) - Matchbox Car Database
