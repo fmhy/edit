@@ -156,6 +156,7 @@
 * ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
 * [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/), [Paraphrasingtool](https://paraphrasingtool.ai/), [Henshu](https://www.henshu.ai/) or [WriteFull](https://www.writefull.com/) - Versatile Text Rewriting
+* [Smmry](https://smmry.com//) - Summarize Long Content Into Clear Insights
 
 ***
 
