@@ -493,6 +493,7 @@
 * [Fark](https://www.fark.com/) - User-Curated News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
+* [UpperGamer](https://uppergamer.com/) - Gaming News
 * [NewsNow](https://www.newsnow.co.uk/)
 * [SkimFeed](https://skimfeed.com/)
 * [Google News](https://news.google.com/) / [HTML](http://68k.news/)
