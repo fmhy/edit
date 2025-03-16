@@ -13,7 +13,7 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
 * ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - Spotify Client / [GitHub](https://github.com/KRTirtho/spotube)
-* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
+* [Deezer](https://www.deezer.com/) - Streaming
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -136,6 +136,7 @@
 * [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
 * [LISTEN.moe](https://listen.moe/) - K-Pop Radio
 * [420.moe](https://420.moe/) - 420 Radio
+* [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
@@ -194,6 +195,7 @@
 * [Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
 * [FlowTunes](https://www.flowtunes.app/) - Lofi + Focus Radio / Ambient Sounds
 * [Petrichoir](https://petrichoir.app/) - Lofi Radio / Ambient Sounds
+* [Lofizen](https://www.lofizen.co/) - Lofi Radio / Ambient Sounds
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/) - Ambient Rain
 * [Raining.fm](https://raining.fm/) - Ambient Rain
@@ -201,7 +203,8 @@
 * [Moon Phase Radio](https://www.moonphaseradio.com/) - Lofi Radio
 * [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Lofi Radio
 * [Ambicular](https://ambicular.com/) - Lofi Radio
-* [Lofi Music](https://lofimusic.app/) - Lofi Radio
+* [Lofi Music](https://lofimusic.app/) - 
+* [FreeCodeCamp](https://coderadio.freecodecamp.org/) - Lofi Radio
 * [Loofi](https://loofi.netlify.app/) - Lofi Radio
 * [lofi.cafe](https://www.lofi.cafe/) - Lofi Radio
 * [Lofi Club](https://loficlub.vercel.app/) - Lofi Radio

@@ -292,7 +292,7 @@
 
 # ► Audiobooks
 
-* ⭐ **[Text Reader](https://elevenreader.io/)** or [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook) - Ebook to Audiobook Converters
+* ⭐ **[Text Reader](https://elevenreader.io/)**, [⁠Audiblez](https://github.com/santinic/audiblez) or [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook) - Ebook to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [GitHub](https://github.com/advplyr/audiobookshelf-app) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
@@ -453,7 +453,7 @@
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/) / Allows Downloads
-* ⭐ **[Just Light Novels](https://www.justlightnovels.com/)** / Allows Downloads
+* [Just Light Novels](https://www.justlightnovels.com/) / Allows Downloads
 * [Web Novel Pub](https://www.webnovelpub.pro/)
 * [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/)
 * [Vynovel](https://vynovel.com/)

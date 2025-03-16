@@ -304,7 +304,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Blink](https://github.com/prayag17/Blink)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
+* ⭐ **[Blink](https://github.com/prayag17/Blink)**, [⁠Fladder](https://github.com/DonutWare/Fladder/) or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client

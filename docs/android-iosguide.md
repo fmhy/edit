@@ -934,7 +934,7 @@
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [Shiru](https://github.com/RockinChaos/Shiru) - Torrent Streaming
 * [Meoko](https://play.google.com/store/apps/details?id=com.app.meoko) - Anime Torrent Search
-* [DailyAL](https://github.com/JICA98/DailyAL), [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
+* [DailyAL](https://github.com/JICA98/DailyAL), [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune), [⁠AnymeX](https://github.com/RyanYuuki/AnymeX), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
 
 ***
 

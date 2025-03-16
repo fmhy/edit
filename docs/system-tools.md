@@ -373,94 +373,82 @@
 
 # ► Customization
 
+* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, [Windows-Ricing](https://github.com/winthemers/wiki), or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
+* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
-* ⭐ **Rainmeter Tools** - [Skins](https://discord.com/invite/rainmeter) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RGBSync](https://rgbsync.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
+* Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [MacOS Style](https://redd.it/pd5ha6), [2](https://github.com/Runixe786/Macified-Windows) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
+* [Desktops](https://deskto.ps/) - Customization Showcases
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/) or [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
-* [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editors
-* [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
+* [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - UX Patcher
+* [Windhawk](https://windhawk.net/) / [GitHub](https://github.com/ramensoftware/windhawk) or [WinAero](https://winaero.com) - Windows Mods
+* [Bibata](https://www.bibata.live) / [GitHub](https://github.com/ful1e5/bibata), [Cursormania Archive](https://archive.org/details/cursormania) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
+* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) or [CursorOS](https://cursor.design/) - MacOS Style Cursors
 * [Mechvibes](https://mechvibes.com/) / [GitHub](https://github.com/hainguyents13/mechvibes) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
-* [Aerial Screen Saver](https://github.com/OrangeJedi/Aerial) - Apple TV Style Screensavers
-* [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
-* [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
-* [HackBGRT](https://github.com/Metabolix/HackBGRT) - Change Windows Boot Logo
-* [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata](https://github.com/ful1e5/Bibata_Cursor) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
-* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) or [CursorOS](https://cursor.design/) - macOS Cursors for Windows
-* [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
+* [ElectricSheep](https://electricsheep.org/) or [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Screensavers
+* [FolderMarker](https://foldermarker.com/), [⁠Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
-* [ElevenClock](https://www.marticliment.com/elevenclock/) - Customize Windows 11 Clock
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
-* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer
-* [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
-* [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Win 10/11 / [Unlock](https://rentry.co/FMHYBase64#startall)
-* [ModernFlyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Audio Flyouts / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-
+* [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
+* [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Start Menu Customization
+* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
+* [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
+* [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
+* [ElevenClock](https://www.marticliment.com/elevenclock/) - Clock Customization
+* [HackBGRT](https://github.com/Metabolix/HackBGRT) - Boot Logo Changer
+* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
+* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
+* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
+* [Cute Borders](https://github.com/keifufu/cute-borders) - Border Color Changer (Win11 Only)
+* [ModernFlyouts](https://modernflyouts-community.github.io) - Modern Flyouts / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
+* [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV Screensaver
+* [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
 ***
 
-## ▷ Custom Themes
+## ▷ App Themes
 
-* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-* [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
-* [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Guides
-* [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
-* [WindowsCustomization](https://windowscustomization.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/), [Vin Star Theme](https://www.vinstartheme.com/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
-* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Dynamic Desktop Themes
-* [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
-* [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
-* [Desktops](https://deskto.ps/) - OS Theme Examples
-* [Macdows11](https://redd.it/pd5ha6) or [Macified Windows](https://github.com/Runixe786/Macified-Windows) - Win 11 Mac Theme Guides
-* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
-* [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Oldschool App Themes
-* [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
-* [Cute Borders](https://github.com/keifufu/cute-borders) - Change Border Color / Win 11 Only
-* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor Themes
+* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme),  or [theme.park](https://theme-park.dev/) - Custom App Themes
+* [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
-* [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
+* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - System Monitor Themes
 
 ***
 
 ## ▷ Wallpapers
 
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop)
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
+* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**, [WallpaperCave](https://wallpapercave.com/), [WallpapersCraft](https://wallpaperscraft.com/), [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)** - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
-* ⭐ **[Windows Wall Packs](https://rentry.co/fmhybase64#windows-wallpapers)**, [WallpaperHub](https://www.wallpaperhub.app/), [Windows 10 Spotlight](https://windows10spotlight.com/), [Win7Walls](https://windowswallpaper.miraheze.org/wiki/Windows_7) or [WindowsWallpaper](https://windowswallpaper.miraheze.org/wiki/Main_Page) - Windows Wallpapers
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
-* [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
-* [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
+* ⭐ **[Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers)** / [Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page), [Spotlight](https://windows10spotlight.com/) - Windows Wallpapers
+* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
 * [/r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
-* [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
-* [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
+* [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers
-* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [VSThemes Live Walls](https://vsthemes.org/en/wallpapers/), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated / Live Wallpapers
-* [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
-* [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
-* [Anime Pictures](https://anime-pictures.net/), [WallpaperWaifu](https://wallpaperwaifu.com/), [TheOtaku](https://theotaku.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
-* [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
-* [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Apple Wallpapers
-* [BasicAppleBlog](https://basicappleguy.com/basicappleblog/category/Wallpaper) - Custom Apple Wallpapers
+* [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) or [BasicAppleBlog](https://basicappleguy.com/basicappleblog/category/Wallpaper) - Apple Wallpapers
 * [ChromecastBG](https://chromecastbg.alexmeub.com/) - Chromecast Wallpapers
 * [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/) - Bing Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Xbox Wallpapers
+* [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
+* [Anime Pictures](https://anime-pictures.net/), [WallpaperWaifu](https://wallpaperwaifu.com/), [TheOtaku](https://theotaku.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers
 * [G_Walls](https://t.me/G_Walls) - Telegram Wallpaper Channels
 
 ***
 
-## ▷ Wallpaper Managers
+## ▷ Wallpaper Tools
 
 * ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders) - Wallpaper Manager
 * ⭐ **[Lively](https://www.rocksdanister.com/lively/)** or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
 * [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - Multi-Host Wallpaper Switcher
+* [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
+* [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Show System Information on Wallpaper

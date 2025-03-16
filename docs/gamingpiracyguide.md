@@ -373,7 +373,7 @@
 # ► Browser Games
 
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives
+* ⭐ **[Flashpoint](https://bluemaxima.org/)**, [2](https://flashpointarchive.org/) / [Search](https://flashpointproject.github.io/flashpoint-database/) / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
@@ -626,6 +626,7 @@
 * [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [Crosshare](https://crosshare.org/) - Play / Create Crosswords
 * [Regex Crossword](https://regexcrossword.com/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes

@@ -177,7 +177,7 @@
 # ► Reddit Tools
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
-* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
+* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -441,12 +441,12 @@
 * ⭐ **[AMP4](https://amp4.cc/)** - YouTube Downloader / Online
 * [Videomass](https://jeanslack.github.io/Videomass/) / [GitHub](https://github.com/jeanslack/Videomass) or [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - Cross-Platform YT-DLP GUIs
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [GDownloader](https://github.com/hstr0100/GDownloader), [dsymbol yt-dlp](https://github.com/dsymbol/yt-dlp-gui) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
-* [MeTube](https://github.com/alexta69/metube) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP WebUIs
+* [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)  or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
-* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted youtube-dl WebUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / yt-dlp fork
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader App
 * [EZMP3](https://ezmp3.cc/) - YouTube Downloader / Online
+* [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
 * [Get Thumbs](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [YouTube Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) or [thumbnail-download](https://thumbnail-download.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments

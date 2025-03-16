@@ -29,7 +29,7 @@
 * [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
 * [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
-* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
+* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
@@ -342,6 +342,7 @@
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map
 * [Snow Forcast](https://www.snow-forecast.com/maps) - Snow Forcast Maps
+* [AtticRadar](https://atticradar.steepatticstairs.net/) - Advanced Weather Radar / NOAA Stations
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
@@ -784,6 +785,7 @@
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
 * [himalayas](https://himalayas.app/) - Remote Jobs
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
+* [TangerineFeed](https://tangerinefeed.net/) - Remote Jobs
 * [FlexHired](https://flexhired.com/) - Remote Jobs
 * [CareerVault](https://careervault.io/) - Remote Jobs
 * [NoDesk](https://nodesk.co/) - Remote Jobs
@@ -1327,6 +1329,7 @@
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
 * [Koi Pond](https://koipond.fish/) - Feed Koi
+* [Our World of Text](https://ourworldoftext.com/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators
@@ -1429,6 +1432,7 @@
 * [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) - Aesthetics Wiki / [Discord](https://discord.gg/mEWddNCAqv) / [Subreddit](https://www.reddit.com/r/aesthetic/)
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
+* [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 * [BogLeech](https://bogleech.com/) - Monster Design Reviews
 * [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Lego Building Software
 * [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - Free Projects / Crafts

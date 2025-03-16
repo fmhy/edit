@@ -845,6 +845,7 @@
 * [StoryBook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
+* [⁠Same.dev](https://same.dev/) - Copy Sites User-Interface Code 
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
@@ -1025,7 +1026,7 @@
 * [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources
-* [CybersecResources](https://github.com/bst04/cybersources) - Cybersecurity Resources
+* [CybersecResources](https://www.cybersources.site/) - Cybersecurity Resources / [GitHub](https://github.com/bst04/cybersources)
 * [Awesome List](https://github.com/0xor0ne/awesome-list) - Cybersecurity Resources
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources

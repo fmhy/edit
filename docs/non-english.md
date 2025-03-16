@@ -429,6 +429,7 @@
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
+* [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [Darkiworld](https://darkiworld1.com/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
@@ -456,6 +457,7 @@
 * [WITV](https://witv.space/) - Live TV / Sports
 * [LeFoot](https://lefoot.ru/) - Live Sports
 * [JokerTV](https://jokertv.ru/) - Live Football
+* [remontadatv](https://remontadatv.ru/), [2](https://linktr.ee/streamonsport) - Live Football
 * [Doc4U](https://doc4u.top/) - Documentaries
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
@@ -680,6 +682,7 @@
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
 * [Anilot.in](https://anilot.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
+* [toonworld4all](https://toonworld4all.me/) -  Anime / Cartoon / Geoblocked
 * [Toonsouthindia](https://toonsouthindia.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/+VQNviznAktwAxUv8)
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
@@ -1135,6 +1138,7 @@
 * [Vizer](https://vizertv.in/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
 * [tugaflix](https://tugaflix.best) - Movies / TV / Sub / 1080p
+* [megafilmeshd50](https://megafilmeshd50.zip/) -  Movies / TV
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
@@ -1151,6 +1155,7 @@
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
 * [Futebol Agora](https://futebolagora.gratis/) - Live Sports
+* [futemax](https://futemax.mn/) - Live Football / [Telegram](https://t.me/OfcFuteMAX)
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
 * [Prime Cursos](https://www.primecursos.com.br) - Courses
@@ -1391,6 +1396,7 @@
 * [MovieCorn](https://moviecorn.one/) - Torrent Streaming
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [mult-fan](https://mult-fan.tv/) - Cartoons
+* [animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [TVRF](https://tvrf.online/) - Live TV
 * [Viks](http://ip.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
@@ -1405,6 +1411,7 @@
 * [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
+* [recradio](https://t.me/recradio) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [videotuts](https://videotuts.ru/) - Design Video Tutorials

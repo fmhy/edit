@@ -534,7 +534,6 @@
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
 * ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launcher for Bedrock Edition
-* [AstralRinth](https://github.com/DIDIRUS4/AstralRinth) - Modrinth Launcher Fork (Offline Auth/No Ads)
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
@@ -545,6 +544,7 @@
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher
 * [GDLauncher](https://gdlauncher.com/) - Launcher
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
+* [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/k9jyjRA8) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Ares](https://www.aresclient.com/) - Client
 * [Codex-Ipsa Launcher](https://codex-ipsa.cz/) - Launcher for Older Versions
 * [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions

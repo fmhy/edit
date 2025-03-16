@@ -89,6 +89,7 @@
 * [Campsite.bio](https://campsite.bio/) - Unlimited
 * [Taplink](https://taplink.at/) - Unlimited
 * [milkshake](https://milkshake.app/) - Unlimited
+* [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [LinkSpace.Bio](https://linkspace.bio/) - 250 Limit / Custom URLs
 * [seemless](https://www.linkinbio.website/) - Link in Bio for TikTok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via GitHub Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
@@ -703,7 +704,7 @@
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
-* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs
+* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs / [GitHub](https://github.com/cadeyrn/newtaboverride)
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
