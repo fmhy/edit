@@ -262,7 +262,7 @@
 * [Stable Video](https://www.stablevideo.com/)
 * [Vidu](https://www.vidu.studio/) - 6 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Unlimited / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
-* [⁠Wan AI](https://wan.video/) / 10 Daily
+* [Wan AI](https://wan.video/) / 10 Daily
 * [Dream Machine](https://lumalabs.ai/dream-machine) - 5 per Account / [Discord](https://discord.gg/lumaai)
 * [LensGo](https://lensgo.ai/) - 5 Daily / [Discord](https://discord.com/invite/CHMhrByFJS)
 * [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
@@ -292,7 +292,7 @@
 * [Microsoft Designer](https://designer.microsoft.com/image-creator), [2](https://www.bing.com/images/create) / 12 Monthly
 * [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Sign-Up
-* [⁠Wan AI](https://wan.video/) / 100 Daily / No Sign-Up
+* [Wan AI](https://wan.video/) / 100 Daily / No Sign-Up
 * [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
 * [imgsys](https://imgsys.org/) / Unlimited / Compare Generators / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Sign-Up
@@ -300,8 +300,8 @@
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Sign-Up / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations)
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
-* [⁠Leonardo](https://leonardo.ai/) / 150 Daily
-* [⁠Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
+* [Leonardo](https://leonardo.ai/) / 150 Daily
+* [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [ChatGLM](https://chatglm.cn/) / Unlimited
 * [Meta AI](https://www.meta.ai/icebreakers/imagine/) / Unlimited
 * [Playground](https://playground.com/) / 15 Per 3 Hours

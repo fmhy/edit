@@ -178,7 +178,7 @@
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
-* [⁠WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
+* [WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
 * [FouadMODS](https://t.me/FouadMODS) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
 
 ***
@@ -510,7 +510,7 @@
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sharing
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - Download Manager Controller
 * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
-* [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [⁠File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
+* [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
@@ -666,7 +666,7 @@
 
 ***
 
-* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / [Github](https://github.com/proninyaroslav/libretorrent)
+* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / [GitHub](https://github.com/proninyaroslav/libretorrent)
 * [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding
 * [BiglyBT](https://android.biglybt.com/) - Torrent Client / Allows Binding
 * [tTorrent](https://ttorrent.org/) - Torrent Client
@@ -800,7 +800,7 @@
 * [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [mucke](https://github.com/moritz-weber/mucke)
-* [⁠Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
+* [Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse)
 * [Zen Music Player](https://github.com/pakka-papad/Zen)
@@ -1192,7 +1192,7 @@
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
-* [⁠Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
+* [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)

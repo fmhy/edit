@@ -199,7 +199,7 @@
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
-* [Time Portal]()https://www.eggnog.ai/entertimeportal - History Clip Guessing
+* [Time Portal](https://www.eggnog.ai/entertimeportal) - History Clip Guessing
 
 ***
 
@@ -740,7 +740,7 @@
 * [MORT](https://github.com/killkimno/MORT) or [Textractor](https://github.com/Artikash/Textractor) - Learn Languages via Games
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [Hey! Lingo](https://www.okydoky.app/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
-* [MyLanguages](https://mylanguages.org/), [⁠My Little Word Land](https://mylittlewordland.com/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
+* [MyLanguages](https://mylanguages.org/), [My Little Word Land](https://mylittlewordland.com/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language

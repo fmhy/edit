@@ -676,7 +676,7 @@
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
-* [⁠Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
+* [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [macOSicons](https://macosicons.com/) - Icons
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
