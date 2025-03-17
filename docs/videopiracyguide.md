@@ -224,6 +224,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [KissKH](https://kisskh.co/) - TV / Movies
 * [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - TV / Movies
+* [KissKH.org](https://kisskh.run/), [2](https://kisskh.net.pl/) - TV
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
 * [RiveStream](https://rivestream.org/kdrama) - TV / Movies
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
@@ -235,7 +236,6 @@
 * [Dramacool.org](https://dramacooll.com.de/) - TV / Movies
 * [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [dramacool](https://dramacool.com.cv/), [2](https://asianc.org.es/) - TV / Movies
-* [KissKH.org](https://kisskh.org.es/) - TV
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
 
 ***
@@ -463,6 +463,7 @@
 * [MMA Streams](https://tonight.mmastreams.cc/) - MMA / Stream Aggregator
 * [StarLive](https://starlive.click/) - Rare MMA Events
 * [FootyBite](https://www1.footybite.cc/) - Football
+* [footybite.bz](https://footybite.bz/) - Football
 * [SoccerOnline](https://socceronline.me/) - Football
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Football
 * [FlickSoccer](https://flicksoccer.com/) - Football
