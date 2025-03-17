@@ -33,7 +33,7 @@
 * [NextChat](https://nextchat.club/) - Multiple Chatbots / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 * [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Sign-Up / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [NVIDIA NIM](https://build.nvidia.com/) - Multiple Chatbots / No Sign-Up
-* [⁠OIChat](https://oi.wr.do/) - Multiple Chatbots 
+* [OIChat](https://oi.wr.do/) - Multiple Chatbots
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot
 * [Groq](https://groq.com/) - Llama 3 and Mixtral Chatbots / [Discord](https://discord.gg/invite/groq)
 * [SambaNova](https://sambanova.ai/) - Llama 3.1 / Enter Fake Info
@@ -59,7 +59,7 @@
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Sign-Up / [Discord](https://discord.gg/S25yW8TebZ)
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / No Sign-Up / [Discord](https://discord.gg/zRxaseCuGq)
 * [Komo](https://komo.ai/) - AI Search Engine / No Sign-Up
-* [⁠Jina](https://search.jina.ai/) - AI Search Engine / No Sign-Up
+* [Jina](https://search.jina.ai/) - AI Search Engine / No Sign-Up
 * [Felo](https://felo.ai/) - AI Search Engine / No Sign-Up
 * [searc.ai](https://searc.ai/) - AI Search Engine / No Sign-Up
 * [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [Discord](https://discord.gg/Y7pZUw36) / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)

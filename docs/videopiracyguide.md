@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check our [site grading system](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and their respective pros & cons. 
+* **Note** - Check our [site grading system](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and their respective pros & cons.
 
 ***
 
@@ -86,7 +86,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq) / Use Throwaway Gmail
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [YesMovie](https://yesmovies.ag/), [2](https://solarmovieru.com/home.html) - Movies / TV / 720p
-* [UniqueStream](https://uniquestream.net/)  - Movies / TV / Anime / 720p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [FireFlix](https://fireflix.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [FshareTV](https://fsharetv.co/) - Movies
 * [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
@@ -677,7 +677,7 @@
 * [One Eighty Eight](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
 * [GDex](https://rentry.co/FMHYBase64#gdex) - Movies / TV
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram
-* [⁠SeriesBayX](https://t.me/SeriesBayX) - TV / Telegram
+* [SeriesBayX](https://t.me/SeriesBayX) - TV / Telegram
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
 
