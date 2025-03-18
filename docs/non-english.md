@@ -1716,7 +1716,7 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[KralBozguncu (Discord)](https://discord.gg/7rVwCEsZv9)**, [2](https://discord.com/invite/Bzm9pgH9QA), [SelcukSports](https://www.selcuksportshd78.biz/) / [Note](https://pastebin.com/k1MMGB0N) / [Twitter](https://x.com/sports1hds), [İnat TV](t.me/inattvn) / [Telegram](https://t.me/inattvn), - Football
+* ⭐ **[KralBozguncu (Discord)](https://discord.gg/7rVwCEsZv9)**, [2](https://discord.com/invite/Bzm9pgH9QA), [SelcukSports](https://www.selcuksportshd78.biz/) / [Note](https://pastebin.com/k1MMGB0N) / [Twitter](https://x.com/sports1hds), [İnat TV](https://x.com/inattvapk) / [Telegram](https://t.me/inattvn), - Football
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
