@@ -1704,7 +1704,7 @@
 # ► Turkish / Türkçe
 
 * ⭐ **[caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** or [TemizAramaMotorum](https://gitlab.com/fr0stb1rd/temizaramamotorum) - Get rid of low-quality Turkish results
-* [Türkçe Mahremiyet Rehberi](https://github.com/1Xnes/turkish-privacy-guide), [Güvende Kal](https://guvendekal.org) - Turkish Privacy Guide
+* [Türkçe Mahremiyet Rehberi](https://github.com/1Xnes/turkish-privacy-guide) - Turkish Privacy Guide
 * [Teyit](https://teyit.org/), [DoğrulukPayı](https://www.dogrulukpayi.com/) - News Verification
 
 ## ▷ Downloading / İndirme
@@ -1716,12 +1716,10 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[KralBozguncu (Discord)](https://discord.gg/7rVwCEsZv9)**, [2](https://discord.com/invite/Bzm9pgH9QA), [SelcukSports](https://www.selcuksportshd78.biz/) / [Note](https://pastebin.com/k1MMGB0N) / [Twitter](https://x.com/sports1hds), [İnat TV](https://x.com/inattvapk) / [Telegram](https://t.me/inattvn), - Football
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
-* [Dizipal](https://dizipal909.com/) / [Note](https://pastebin.com/k1MMGB0N) - Movies / TV / Sub / Dub / 1080p
 * [FilmperDesi](https://filmperdesi.net/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
@@ -1730,7 +1728,6 @@
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizilla](https://dizilla.club) - Movies / TV
 * [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/) or [Film İzlesene](https://www.filmizlesene.pro) - Movies
-* [Telegram Groups](https://t.me/addlist/_XBkZauNVQthZGQ0), [2](https://t.me/Difix9Bot) - Movies / TV
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/) - Anime
 
@@ -1740,7 +1737,6 @@
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
 * [Telegram Groups](https://t.me/addlist/ioGiM9KIZvhjOTZk), [Whatsapp Groups](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
-* [Manga TR](https://manga-tr.com/) - Manga / [Discord](https://discord.gg/HwbC29zKFv)
 * [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga
 * [Nirvana Manga](https://nirvanamanga.com/) - Manga
