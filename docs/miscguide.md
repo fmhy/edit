@@ -368,6 +368,7 @@
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
 * [MoveMap](https://www.movemap.io/) - North America Property Costs Map
+* [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
@@ -1215,6 +1216,7 @@
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
+* [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
@@ -1329,7 +1331,7 @@
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
 * [Koi Pond](https://koipond.fish/) - Feed Koi
-* [Our World of Text](https://ourworldoftext.com/) - Infinite Community Text Grid
+* [Our World of Text](https://ourworldoftext.com/) or [TextWall](https://tw.2s4.me/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators

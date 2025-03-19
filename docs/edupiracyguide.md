@@ -1247,7 +1247,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)** [StuDoc](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack) / [2](https://dlstudocu.com/), [Gizmo](https://gizmo.ai/), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
-* ⭐ **[Anki](https://apps.ankiweb.net/)** / [Discord](https://discord.gg/jUvBM2sEs4) / [Subreddit](https://www.reddit.com/r/Anki/) / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
+* ⭐ **[Anki](https://apps.ankiweb.net/)** / [Discord](https://discord.gg/jUvBM2sEs4) / [Subreddit](https://www.reddit.com/r/Anki/) / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [⁠MemoAnki](https://memoanki.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
 * ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
@@ -1272,7 +1272,6 @@
 * [Graded](https://nightdreamgames.com/#graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
 * [GradesCalculator](https://calculatecgpa.com) - Calculate CGPA & GPA
 * [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
-* [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Discord Bot
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
@@ -1382,12 +1381,12 @@
 ## ▷ Dictionaries
 
 * 🌐 **[Dictionary Index](https://onelook.com/?d=all_gen)** - List of Online Dictionaries
-* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
+* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / [Files](https://rentry.co/FMHYBase64#goldendict-files)
 * ⭐ **[TheSage](https://www.sequencepublishing.com/)** - Dictionary / Thesaurus
+* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
-* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * [NinjaWords](https://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)

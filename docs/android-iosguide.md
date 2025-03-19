@@ -337,7 +337,7 @@
 ## ▷ Root / Flash
 
 * 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** - Bootlocker Limit Index
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Kitsune Magisk](https://huskydg.github.io/magisk-files), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Rooting Guides](https://awesome-android-root.link/rooting-guides/) - Android Root Guides
@@ -397,7 +397,7 @@
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [TouchDroid](https://github.com/SKRInternationals/TouchDroid), [Mousedroid](https://github.com/darusc/Mousedroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) (root) - Use Device as PC Mouse / Keyboard
 * [Android Virtual Pen](https://github.com/androidvirtualpen/virtualpen) - Use Device as PC Virtual Pen
-* [Listy](https://listy.is/) - Create Lists of Anything
+* [Listy](https://listy.is/) or [HypeList](https://hypelist.com/) - Create Lists of Anything
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [PrivateBin](https://privatebin.info/) - Pastebin App
 * [Novelist](https://www.novelist.app/) - Writing App
@@ -1199,7 +1199,6 @@
 * [Chan](https://github.com/moffatman/chan) - 4chan App
 * [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks / [Extension](https://github.com/BillyCurtis/OpenInstagramSafariExtension)
 * [Swiftgram](https://swiftgram.app/) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
-* [BHTikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - TikTok Tweaks / [Extension](https://github.com/BillyCurtis/OpenTikTokSafariExtension) / [Telegram](https://t.me/BHTikTokPlusPlus)
 * [Watusi](https://watusi.fouadraheb.com/) / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages

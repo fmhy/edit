@@ -113,7 +113,7 @@
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stinto.chat/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
-* ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
+* ⭐ **[Gajim](https://gajim.org/)**, [⁠Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
 * [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
@@ -697,7 +697,7 @@
 
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)** - Firefox Addon Store
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
-* ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
+* ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch/)** or [Context Search Web](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager

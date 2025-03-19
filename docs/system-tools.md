@@ -338,10 +338,9 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8) - Windows Activation Scripts
-* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator
-* [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / Server 2008 Activator
-* [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Office 2016 Activator
+* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8) - Activation Scripts / Windows / Office
+* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator / Windows / Office
+* [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Offline Activator / Office
 
 ***
 
@@ -373,7 +372,7 @@
 
 # ► Customization
 
-* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, [Windows-Ricing](https://github.com/winthemers/wiki), or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
+* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RGBSync](https://rgbsync.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes

@@ -34,8 +34,7 @@ For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.app/) / [Freek](https://freek.to/) / [movie-web Instances](https://erynith.github.io/movie-web-instances/) + [Setup Guide + 4K](https://vimeo.com/1059834885/c3ab398d42) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)**
-* **Downloading: [Drives / Directories](https://fmhy.net/videopiracyguide#drives-directories)**
+* **[Streaming / Downloading Sites](https://fmhy.net/videopiracyguide)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**

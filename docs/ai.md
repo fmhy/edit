@@ -13,7 +13,7 @@
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [AI Studio](https://aistudio.google.com/app/prompts/new_chat) - Google's Chatbot / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o1 / No Sign-Up / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o1 / No Sign-Up
 * ⭐ **[Chatbot Arena](https://lmarena.ai/)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone # Required [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
@@ -177,7 +177,7 @@
 * [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-* [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM VRAM Calculator
+* [⁠CanIRunThisLLM](https://www.canirunthisllm.net/) or [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
 
 ***
 

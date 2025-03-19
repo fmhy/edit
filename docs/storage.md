@@ -433,6 +433,7 @@
 * [Leprd](https://leprd.space/) - 1GB Storage / 10GB Bandwidth / Unlimited DB / Limited Registration
 * [x10hosting](https://x10hosting.com/) - 500MB Storage / Unlimited Bandwidth / 2 DB
 * [Profreehost](https://profreehost.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+* [Render](https://render.com/)
 * [pythonanywhere](https://www.pythonanywhere.com/)
 * [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
@@ -456,7 +457,6 @@
 * [DropPages](https://droppages.com/)
 * [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [Render](https://render.com/)
 * [Straw.Page](https://straw.page/)
 * [Own Free Website](https://www.own-free-website.com)
 * [itty.bitty](https://itty.bitty.site/)

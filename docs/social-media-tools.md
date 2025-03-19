@@ -635,6 +635,7 @@
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
 * [Unfollow-Everyone](https://github.com/tlorien/Unfollow-Everyone-on-Instagram) - Bulk Instagram Unfollow
+* [⁠InstagramUnfollowers](https://davidarroyo1234.github.io/InstagramUnfollowers/) - Check Who Follows Back / [GitHub](https://github.com/davidarroyo1234/InstagramUnfollowers)
 * [Instagram Experiments Guide](https://github.com/daniiii5/Public-Guide)
 
 ***
