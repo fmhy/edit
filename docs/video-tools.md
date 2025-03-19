@@ -91,6 +91,7 @@
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
 * [8mb.video](https://8mb.video/) - Compress / Unlimited
 * [autocompressor](https://autocompressor.net/) - Compress / 2GB
+* [AZConversion](https://azconversion.com/) - Online Image Converter
 * [Rotato](https://tools.rotato.app/) - Compress / 2GB
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 * [YouCompress](https://www.youcompress.com/) - Compress / 500MB
@@ -441,6 +442,7 @@
 * [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [Team V.R](https://codec.kyiv.ua/ad0be.html) - After Effects
 * [ShareAE](https://www.shareae.com/) - After Effects
+* [Riztagar](https://www.riztagar.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
