@@ -1009,7 +1009,7 @@
 * [PSPrices](https://psprices.com/)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [DekuDeals](https://www.dekudeals.com/), [NTDeals](https://ntdeals.net/) or [AppGG](https://appagg.com/) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) or [XB Deals](https://xbdeals.net/) - Game Price Trackers
 
 ***

@@ -34,7 +34,7 @@ For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www
 
 ### Movies / Shows
 
-* **[Streaming: [Cineby](https://www.cineby.app/) / [Rive](https://rivestream.org/) / [Hexa](https://hexa.watch/)**
+* **[Streaming: [Rive](https://rivestream.org/) / [Hexa](https://hexa.watch/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**

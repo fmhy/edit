@@ -518,7 +518,6 @@
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
-* [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 

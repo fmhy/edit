@@ -493,7 +493,7 @@
 * [GMS-Flags](https://github.com/polodarb/GMS-Flags) - Turn Google Flags On/Off / Root
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
-* [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
+* [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) / [GitHub](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
 * [Fing](https://www.fing.com/fing-app/) - Network Toolkit
 
 ***

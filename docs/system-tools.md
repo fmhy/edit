@@ -338,8 +338,8 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8) - Activation Scripts / Windows / Office
-* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator / Windows / Office
+* ⭐ **[MAS](https://rentry.co/FMHYBase64#mas) - Activation Scripts / Windows / Office / [Discord](https://discord.gg/gjJEfq7ux8)
+* ⭐ **[KMS_VL_ALL_AIO](https://rentry.co/FMHYBase64#kms-vl)** - Offline Activator / Windows / Office
 * [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Offline Activator / Office
 
 ***
@@ -403,6 +403,8 @@
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV Screensaver
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
+* [MacType](https://www.mactype.net/) - Use Mac Fonts on Windows / [GitHub](https://github.com/snowie2000/mactype)
+
 ***
 
 ## ▷ App Themes

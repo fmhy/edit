@@ -332,7 +332,6 @@
 
 ## ▷ Telegram Bots
 
-* ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** - Amazon / Apple / FLAC
 * [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Deezer / Tidal / Yandex / VK / FLAC / 25 Daily
 * [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
 * [Spotify_download_bot](https://t.me/Spotify_downloa_bot) - YouTube / JioSaavn / 320kb MP3
