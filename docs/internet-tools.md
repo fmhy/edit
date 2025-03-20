@@ -139,9 +139,8 @@
 
 # ► RSS Tools
 
-* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
-* [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
-* [rssmail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
+* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
+* [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [siftrss](https://siftrss.com/) - RSS Feed Filters
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
@@ -151,6 +150,7 @@
 
 ## ▷ RSS Readers
 
+* 🌐 **[RSS Feed Reader Index](https://openrss.org/rss-feed-readers)**
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
@@ -176,12 +176,11 @@
 ## ▷ RSS Feed Generators
 
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
-* ⭐ **[Feedless](https://feedless.org/)**
+* ⭐ **[Feedless](https://feedless.org/)** / [GitHub](https://github.com/damoeb/feedless)
 * [MoRSS](https://morss.it/)
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [Open RSS](https://openrss.org/)
-* [RSS Please](https://rsspls.7bit.org/)
-* [RSS Finder](https://rss-finder.rook1e.com/)
+* [RSS Finder](https://rss-finder.rook1e.com/) / [GitHub](https://github.com/0x2E/rss-finder)
 * [FetchRSS](https://fetchrss.com/)
 * [RSS Diffbot](https://rss.diffbot.com/)
 * [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
