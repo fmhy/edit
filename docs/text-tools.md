@@ -108,7 +108,7 @@
 * [mp4grep](https://github.com/o-oconnell/mp4grep) - MP4 File Transcription Tool
 * [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Speech-To-Text Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
-* [Vibe](https://thewh1teagle.github.io/vibe/) or [Flow](https://wisprflow.ai/) - Audio Transcription Software
+* [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
@@ -444,7 +444,6 @@
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Codeface](https://github.com/chrissimpkins/codeface), [Monaspace](https://monaspace.githubnext.com/), [Programming Fonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Fonts for Coding / [Comparison](https://www.codingfont.com/)
 * [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
 
 ***
@@ -470,6 +469,7 @@
 * [Online Fonts](https://online-fonts.com/) - Freeware
 * [CDNFonts](https://www.cdnfonts.com/) - Freeware
 * [Fontesk](https://fontesk.com/) - Freeware
+* [FontStruct](https://fontstruct.com/) - Freeware
 * [iFonts](https://ifonts.xyz/) - Freeware
 * [DownloadFonts](https://www.downloadfonts.io/) - Freeware
 * [AbstractFonts](https://www.abstractfonts.com/) - Freeware
@@ -508,7 +508,7 @@
 
 * ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) or [Font Finder](https://www.whatfontis.com/) - Font Identification Tools
+* [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) - Font Identification Tools
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
@@ -543,7 +543,7 @@
 
 * ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * [V-Fonts](https://v-fonts.com/) or [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Testers
-* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [FontStruct](https://fontstruct.com/) - Custom Font Creators
+* [enFont](https://enfont.javierarce.com/) or [Calligraphr](https://www.calligraphr.com/en/) - Custom Font Creators
 * [Fontjoy](https://fontjoy.com/) - Generate Font Combinations
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
 * [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
