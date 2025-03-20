@@ -581,7 +581,7 @@
 * [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
-* [atvTools](https://rentry.co/FMHYBase64#atvtools) - Install Apps, Run ADB, Shell Commands etc
+* [atvTools](https://rentry.co/FMHYBase64#atvtools) - Install Apps, Run ADB, Shell Commands, etc.
 * [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 
