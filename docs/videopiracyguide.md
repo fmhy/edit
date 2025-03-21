@@ -14,10 +14,10 @@
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / No-Popup Tabs / [Discord](https://discord.gg/ZKcN9KNdn6)
 * 🌟 **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / No-Popup Tabs / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * 🌟 **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / Auto-Next / No-Popup Tabs / [Discord](https://discord.gg/VGQKGPM9Ej)
+* 🌟 **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / Auto-Next / No-Popup Tabs / [Telegram](https://t.me/FlickyStream)
 * 🌟 **[HydraHD](https://hydrahd.ac/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * 🌟 **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / No-Popup Tabs / [Discord](https://discord.com/invite/5ACWhK4Dzf)
-* ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/FlickyStream)
 * ⭐ **[AlienFlix](https://alienflix.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Bingeflex](https://bingeflex.vercel.app/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
 * ⭐ **[Cinemull](https://cinemull.space/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/watch2dayonline)
