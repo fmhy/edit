@@ -559,6 +559,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
 * [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
+* [SpeedBump](https://speedbumpapp.com) - Stop Doomscrolling
 * [Folksable](https://folksable.com/) - Social Habit Tracker
 * [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
