@@ -407,6 +407,7 @@
 * [HydraHD Sports](https://hydrahd.ac/livesports)
 * [RiveStream](https://rivestream.org/livesports)
 * [AlienFlix Sports](https://alienflix.net/live/matches)
+* [NunFlix Sports](https://nunflix.org/sports)
 * [VidBox Sports](https://vidbox.to/sports)
 * [Bingeflex Sports](https://bingeflex.vercel.app/livesports)
 * [Broflix Sports](https://broflix.ci/live/sports)
