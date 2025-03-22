@@ -35,6 +35,7 @@
 * [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / [4K Guide](https://youtu.be/cj5gRXBnWDA), [2](https://i.ibb.co/PDnw1nh/image.png) / [Discord](https://discord.gg/streamflix)
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / No-Popups / [Discord](https://discord.gg/AMQdQehThg)
 * [Flicker](https://flickermini.netlify.app/), [2](https://flickermini.pages.dev/), [3](https://flickeraddon.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/flickermini/)
+* [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / No-Popups / [Discord](https://discord.gg/RF8vMBRtTs)
 * [catflix](https://catflix.su/) - Movies / TV / No-Popups
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
@@ -44,7 +45,6 @@
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / No-Popups / Invite Code: fmhy / Sign-Up Required
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [Smashy](https://smashy.stream/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
-* [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / No-Popups / [Discord](https://discord.gg/RF8vMBRtTs)
 * [Vidjoy](https://vidjoy.pro/) - Movies / TV / Anime / [Telegram](https://t.me/vidjoy) / [Discord](https://discord.gg/4cq9vkerA3)
 * [ViewVault](https://viewvault.org/) - Movies / TV / Anime
 * [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP) / [GitHub](https://github.com/ambr0sial/nova/)
