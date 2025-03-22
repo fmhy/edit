@@ -624,7 +624,7 @@
 
 ## ▷ Puzzle Games
 
-* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
+* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubik's Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
 * ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
 * [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
@@ -641,7 +641,7 @@
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [mmmines!](https://mmmines.fly.dev/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
-* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinte Minesweeper
+* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
 * [PROXX](https://proxx.app/) - Space Minesweeper
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
@@ -678,7 +678,7 @@
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
 * [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [ProgressQuest](http://progressquest.com/) - Idle RPG
-* [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
+* [Anti Matter Dimensions](https://ivark.github.io/) - Anti Matter Idle Game
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
 * [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
 * [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game
@@ -713,7 +713,7 @@
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
 * [Graphs](https://www.graphs.world/) - Graph Guessing Game
-* [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
+* [English Sandwich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
@@ -747,7 +747,7 @@
 * [Tradle](https://games.oec.world/en/tradle/) - Guess Countries by their Exports
 * [Back Of Your Hand](https://backofyourhand.com/) - Local GeoGuessr
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
-* [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
+* [GTA V GeoGuessr](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
 * [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr
 * [Artifact Guesser](https://artifactguesser.com/) or [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
