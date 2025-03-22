@@ -279,6 +279,7 @@
 * [Browserpad](https://browserpad.org/) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
+* [Online Notepad by onlinenotepad.space]([https://onlinenotepad.space/) - Local Saves
 * [notepad-online.net](https://notepad-online.net/) - Local Saves
 * [ssavr](https://www.ssavr.com/) - Local Saves
 * [notepad-online.com](https://notepad-online.com/) - Local Saves
