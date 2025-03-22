@@ -190,6 +190,8 @@
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) - Thunderstore / BepInEx Unity Mod Managers
+* [R.E.P.O mod](https://repomod.com/) - steam game repo mods
+* [fisch macro](https://fischmacroo.com/) - roblox fisch  macro 
 
 ***
 
