@@ -281,6 +281,7 @@
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* [A1](https://www.a1.gallery/) - A collection of the best websites found on the web
 
 ***
 
