@@ -307,7 +307,7 @@
 
 ***
 
-## ▷ Geography / Datasets
+## ▷ Geography / Sociology
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
