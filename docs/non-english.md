@@ -1858,7 +1858,7 @@
 * [MyClip](https://myclip.vn/) - Video / 1080p
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
-* [⁠IPTV807](https://iptv807.com/) - Live TV
+* [IPTV807](https://iptv807.com/) - Live TV
 * [6SVN](https://xem.6svn.com/) - Live TV
 * [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie / 1080p / Sub / Dub
 * [FPTplay](https://fptplay.vn/) - Live TV / TV show / Anime / Cartoon / Movie

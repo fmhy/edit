@@ -133,7 +133,7 @@
 * [Disable Recall](https://rentry.co/b88ixo8f) - Disable Microsoft Recall on Windows 11
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [⁠YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
+* [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer Protocol](https://surferprotocol.org/) - Multi-platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
