@@ -581,6 +581,7 @@
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
+* [Free Breath Work](https://easybreath.work/) - free breath work app directly in the browser
 
 ***
 
