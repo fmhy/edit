@@ -230,6 +230,7 @@
 * [LibreWolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [CodeBerg](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
+* [Zen Browser](https://zen-browser.app/) - Open Source Privacy Browser / [Github](https://github.com/zen-browser/desktop) /[Discord](https://discord.com/invite/zen-browser)
 
 ***
 
