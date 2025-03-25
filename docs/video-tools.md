@@ -12,10 +12,7 @@
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
-* [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
-* [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
-* [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
-* [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
+* [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
@@ -35,7 +32,7 @@
 ***
 
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
-* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
@@ -45,7 +42,7 @@
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
 * [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Account Required
-* [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
 * [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
@@ -88,7 +85,6 @@
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
-* [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
@@ -99,13 +95,14 @@
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 * [YouCompress](https://www.youcompress.com/) - Compress / 500MB
 * [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
+* [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
 * [Winnydows](https://winnydows.com/) - Video Conversion Software
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
 * [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
-* [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
-* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
+* [VERT](https://vert.sh/) / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT), [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
+* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding / Muxing
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 * [Ingex](https://ingex.sourceforge.net/) - Tapeless (Uncompressed) Recording / Digital Tape Converter
@@ -115,7 +112,8 @@
 ## ▷ FFmpeg Tools
 
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
-* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - Guides
+* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
+* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
@@ -140,7 +138,7 @@
 * [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat) - Live Stream Recorders
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer
-* [Owncast](https://owncast.online/), [Restreamer](https://github.com/datarhei/restreamer) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming
+* [Owncast](https://owncast.online/) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Twelve47Studios](https://twelve47studios.com/) - Stream Overlays
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
@@ -179,7 +177,7 @@
 * ⭐ **[MPV](https://mpv.io/)** - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
-* [AVPlayer](http://www.awesomevideoplayer.com/), [⁠ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
+* [AVPlayer](http://www.awesomevideoplayer.com/), [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [Pot Player](https://potplayer.daum.net/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
@@ -192,7 +190,7 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
 * [PlayVideo](https://playvideos.pages.dev/) - Google Drive Video Player
-* [Terabox Player](https://fileszero.com/terabox-video-player/⁠) - Terabox Video Player
+* [Terabox Player](https://fileszero.com/terabox-video-player/) - Terabox Video Player
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
@@ -231,7 +229,7 @@
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
 * [MPV Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) - Userscripts
-* [VideoClip](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-cut) - Clip Tool
+* [VideoClip](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-lossless-cut) - Clip Tool
 * [MPV WebM](https://github.com/ekisu/mpv-webm) - WebM Tool
 * [Play With MPV](https://greasyfork.org/en/scripts/416271) or [ff2mpv](https://github.com/woodruffw/ff2mpv) - Open Videos with MPV
 * [MPV WebTorrent Hook](https://github.com/noctuid/mpv-webtorrent-hook) - Torrent Streaming
@@ -254,7 +252,6 @@
 
 * 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
-* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
@@ -263,6 +260,7 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Emby](https://emby.media/) - Media Server
+* [Plex](https://www.plex.tv/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
@@ -271,7 +269,7 @@
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
-* [WatchIt](https://github.com/ZorrillosDev/watchit-app) - Media Server
+* [WatchIt](https://watchit.movie/) / [GitHub](https://github.com/WatchItDev/watchit-app) / [Discord](https://discord.com/invite/4vQG56NuHA) - Media Server
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
@@ -289,8 +287,8 @@
 
 ## ▷ Plex Tools
 
-* [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-* [Tautulli](https://tautulli.com/) - Server Monitor
+* [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
+* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tautulli-note)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Plex Ripper](https://www.plexripper.rocks/) - Merge Plex Libraries w/ Your Own
@@ -306,7 +304,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Blink](https://github.com/prayag17/Blink)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
+* ⭐ **[Blink](https://github.com/prayag17/Blink)**, [Fladder](https://github.com/DonutWare/Fladder/) or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
@@ -362,7 +360,7 @@
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
 * ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
-* ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
+* ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
@@ -373,7 +371,7 @@
 ## ▷ Video Editors
 
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
-* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor
+* ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
@@ -394,7 +392,7 @@
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
-* [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
+* [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.su/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
@@ -409,15 +407,15 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
+* ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
+* ⭐ **[Pikimov](https://pikimov.com/)** / Use Edge or Chrome
 * ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
-* [⁠wide.video](https://wide.video/)
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
 * [Kapwing](https://www.kapwing.com/)
 * [Panzoid](https://panzoid.com/)
 * [Convert2Video](https://convert2video.com/)
-* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/aegir-assembly/omni-clip)
+* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/omni-media/omniclip) / [Discord](https://discord.com/invite/Nr8t9s5wSM)
 * [Video Cutter](https://video-cutter-js.com/)
 * [Vididoo](https://vididoo.vercel.app/)
 * [VideoToolbox](https://www.videotoolbox.com/)
@@ -427,7 +425,7 @@
 * [Video2Edit](https://www.video2edit.com/)
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
-* [Crossfade](https://crossfade.io/) - Video and Audio Crossfading
+* [Crossfade](https://crossfade.io/) - Video / Audio Crossfading
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 
 ***
@@ -438,10 +436,10 @@
 * [FreeVideoEffect](https://freevideoeffect.com/)
 * [VideoCoPilot](https://www.videocopilot.net/)
 * [VFXmed](https://www.vfxmed.com/)
+* [Team V.R releases](https://rentry.co/FMHYBase64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [VFXLoot](https://vfxloot.com/)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
-* [Team V.R](https://codec.kyiv.ua/ad0be.html) - After Effects
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
@@ -475,14 +473,14 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
-* [Glaxnimate](https://glaxnimate.mattbas.org/) or [⁠Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [⁠GraphicsGale](https://graphicsgale.com/us/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Viggle](https://viggle.ai/) / [Discord](https://discord.com/invite/viggle) or [Picrew](https://picrew.me/) - Animated Character Creators
 * [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
-* [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
+* [Talking Face Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Talking Avatar Generator
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 
 ***

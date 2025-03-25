@@ -51,7 +51,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
-* AppDoze - Caught with [malware](https://tria.ge/250116-n26dpayphx), sources content from unsafe sites like FileCR. Comparison: [FileCR](https://tria.ge/250113-r2t77sxqbj) / [AppDoze](https://tria.ge/250113-ryfkmsxnfq)
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/fmhy/edit/pull/307)
@@ -80,7 +79,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * Limewire - Dead for years, anything claiming to be them now should be avoided
 * Downloadly (video downloader) - Crypto miner
-* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
+* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://stellular.net/noopera) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * McAfee - Preinstalled Bloatware
 * Avast - Known for selling user data
 * AVG - Owned by Avast
@@ -101,5 +100,3 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/) / [2](https://i.imgur.com/lSMHLlL.png) / [3](https://i.ibb.co/KGDLZRp/image.png)
 
 ### [Fake Windows Activators](https://pastebin.com/gCmWs2GR)
-
-### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)

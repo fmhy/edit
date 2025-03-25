@@ -1,5 +1,7 @@
+import { meta } from '../constants'
+
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -51,7 +53,7 @@ export const headers: Header = {
     description: 'Download Games, ROMs, Gaming Tools'
   },
   'linuxguide.md': {
-    title: 'Linux / MacOS',
+    title: 'Linux / macOS',
     description: 'Apps, Software Sites, Gaming'
   },
   'miscguide.md': {
@@ -146,7 +148,7 @@ export function getHeader(id: string) {
 
   const description = '<p class="text-black dark:text-text-2">'
 
-  const feedback = '<Feedback />'
+  const feedback = meta.build.api ? '<Feedback />' : ''
 
   const data = headers[id]
   let header = '---\n'

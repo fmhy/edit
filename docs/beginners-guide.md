@@ -10,13 +10,13 @@
 
 > How important is using an adblocker?
 
-Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
+Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so it's important to always have an adblocker.
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/internet-tools#redirect-bypass)** to skip annoying countdowns.
 
-For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
+For mobile **[AdGuard Premium](https://fmhy.net/android-iosguide#android-adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
-!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
@@ -24,19 +24,18 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 > Which web browser should I use?
 
-We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer chromium.
+We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** for privacy or **[Orion](https://kagi.com/orion/)** for iOS.
+For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Orion](https://kagi.com/orion/)** for iOS.
 
-!!!note We recommended looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
+!!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
 ***
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.app/) / [Freek](https://freek.to/) / [Rive](https://rivestream.live/) / [movie-web Instances](https://erynith.github.io/movie-web-instances/) + [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)**
-* **Downloading: [DataDiff](https://rentry.co/FMHYBase64#datadiff) / [Pahe](https://pahe.ink/) + [Ad-Bypass](https://greasyfork.org/en/scripts/443277) / [PSARips](https://psa.wf/)**
-* **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
+* **Streaming: [XPrime](https://xprime.tv/) / [Vidbox](https://vidbox.to/) / [Rive](https://rivestream.org/)**
+* **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
@@ -56,7 +55,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [xManager](https://www.xmanagerapp.com/) / [OuterTune](https://github.com/DD3Boh/OuterTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [OuterTune](https://github.com/OuterTune/OuterTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -65,20 +64,20 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 * **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
-* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
+* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
 ***
 
 ### Reading
 
-* **Downloading: [Annas Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.is) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://play.google.com/store/apps/details?id=org.readera)**
-* **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
+* **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
 ***
 
@@ -86,7 +85,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 > How can I safely scan files, and determine if detections are false positives?
 
-Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
 
 !!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
@@ -100,7 +99,7 @@ Privacy is about controlling your personal information, not just keeping things 
 
 For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.nixnet.services/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
 
-!!!note Its best *not* to use your main email or password when you sign up for piracy sites. Its good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
+!!!note It's best *not* to use your main email or password when you sign up for piracy sites. It's good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
 
 ***
 
@@ -141,7 +140,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### iOS Sideloading
 
-* **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sidloading Guide
+* **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sideloading Guide
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
 * **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 14.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
@@ -149,12 +148,12 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-### Useful Links
+### Important Links
 
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode base64 links
-* **[FMHY Website](https://fmhy.net/)** - Our website with many more sites / tools
+* **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode encrypted base64 links
+* [FMHY.net](https://fmhy.net/) - Our website with many more sites / tools
 
 ***
 

@@ -6,7 +6,7 @@
 
 # ► Download Directories
 
-* **Note** - Some Open Directories grab IPs, so use a VPN or Tor when accessing them.
+* **Note** - Some Open Directories track IP addresses. Always use a VPN or Tor for anonymity when accessing these resources.
 
 ***
 
@@ -34,7 +34,6 @@
 ***
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
@@ -93,7 +92,7 @@
 * [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
-* [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
+* [SkullXDCC](https://skullxdcc.com/) / [2](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
 * [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
 
 ***
@@ -120,7 +119,7 @@
 
 # ► Software Sites
 
-* **Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Sandboxie](https://rentry.co/sandboxie-guide)** to prevent system compromise.
 
 ***
 
@@ -129,21 +128,19 @@
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/14480#issuecomment-1907310059)
+* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Signup Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
-* [DownloadHa](https://www.downloadha.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [Softlay](https://www.softlay.com/downloads/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [Libreware](https://t.me/Libreware) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
-* [PLC4Me](https://plc4me.com/) - Automation Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
-* [WLSetup-All](https://rentry.co/FMHYBase64#wlsetup-all) - Windows Live Essentials 2012 Archive
-* [GenP](https://www.reddit.com/r/GenP/wiki/index), [2](https://genpguides.github.io/) - Adobe Software Patcher / [Discord](https://discord.gg/BVBh2XVn9s)
+* [GenP](https://www.reddit.com/r/GenP/wiki/index) - Adobe Software Patcher / [Discord](https://discord.gg/BVBh2XVn9s)
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
 ***
@@ -208,7 +205,7 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[IRC Client Comparisons](https://en.wikipedia.org/wiki/Comparison_of_IRC_clients)**
 * [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [⁠KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html), [⁠Halloy](https://github.com/squidowl/halloy) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
+* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html), [Halloy](https://github.com/squidowl/halloy) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
@@ -241,7 +238,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](https://nzbking.com/)
-* [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
+* [g4u](https://g4u.to/) - Download Games via Usenet / PW: `404`
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
@@ -253,7 +250,7 @@
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
-* [Usenet Providers Map](https://mediavoid.io/map.svg)
+* [Usenet Providers Map](https://usenet.rexum.space/tree)
 * [usenetmax](https://www.usenetmax.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
@@ -272,15 +269,14 @@
 
 # ► Leeches / Debrid
 
-* 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
-* [@Transload](https://t.me/transload) - Telegram Leech Bots
-* [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
+* 🌐 **[LeechListing](https://www.leechlisting.com/)** or [Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Leech Lists
+* 🌐 **[Debrid Services Comparison](https://debrid-services-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
+* ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid Debrid Service / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
+* ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/) / [.net](https://ddlbase.net/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
+* [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leeches
-* [⁠FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
-* [Real-Debrid](https://real-debrid.com/) - Paid Debrid Service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* [HDEncode](https://hdencode.org/) or [rlsdb](https://rlsdb.com/) - Movie / TV DDL Forums / Requires Debrid
-* [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
-* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
+* [FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
+* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 
 ***

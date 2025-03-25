@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: February Updates 💗
-    link: /posts/feb-2025
+    title: March Updates 🌸
+    link: /posts/mar-2025
   image:
     src: /test.png
     alt: FMHY Icon
@@ -42,7 +42,7 @@ features:
   - title: Streaming
     link: /videopiracyguide
     details:
-      Stream, download, torrent and binge all your favourites movies or shows!
+      Stream, download, torrent and binge all your favourite movies and shows!
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
       0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2"
@@ -96,7 +96,7 @@ features:
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#BEC23F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-folder-down"><path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"/><path d="M12 10v6"/><path d="m15 13-3 3-3-3"/></svg>
     link: /downloadpiracyguide
     details:
-      Download all your favourite software, movies, tv shows, music, games and
+      Download all your favourite software, movies, TV shows, music, games and
       more!
 
   - title: Torrenting

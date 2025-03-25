@@ -18,12 +18,15 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
 
-4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**. 
+4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
 
 #### Don't Submit:
 
 **🕹️ Emulators**:
 They're already on the **[Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)**.
+
+**🌐 Normal Web Browsers**
+They're already on the **[Browser Index](https://github.com/nerdyslacker/desktop-web-browsers)**, though we accept privacy-based ones.
 
 **🔻 Leeches**:
 They're already on the **[File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)**.
@@ -47,9 +50,9 @@ We don't recommend  people use these.
 
 You can do one of the following:
 
-- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+- Reach out via the feedback system on any page of our [Website](https://fmhy.net/), or on **[Discord](https://rentry.co/fmhy-invite)** if you'd like to discuss your report.
 
-- Alternatively, you can reach out to us on **[Discord](https://rentry.co/fmhy-invite)** if you're unsure whether the site should be reported or if you'd like to discuss your report with more people.
+- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
 ## Making changes
 
@@ -99,7 +102,7 @@ Select edit button and make your changes.
 
 ### Manually setting up a development environment
 
-#### Manually
+#### Manual
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
@@ -123,10 +126,27 @@ You can use [nix](https://nixos.org/) to set up a development environment, we ha
 
 3. Run `nix develop` to enter the development environment.
 
-4. Make changes. 
+4. Make changes.
 
 5. Exit the development environment by running `exit`.
 
 6. Commit your changes and push them to your forked repository.
 
 7. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+
+
+#### Keeping Your Fork Updated
+
+To keep your fork up to date with the main repository:
+
+```bash
+# Add the upstream remote (only needed once)
+git remote add upstream https://github.com/fmhy/edit.git
+
+# Fetch upstream changes
+git fetch upstream
+
+# Merge upstream changes into your local main branch
+git checkout main
+git merge upstream/main
+```
