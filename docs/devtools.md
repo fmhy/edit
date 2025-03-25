@@ -523,7 +523,7 @@
 * [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [OneCompiler](https://onecompiler.com/), [GodBolt](https://godbolt.org/), [ryugod](https://www.ryugod.com/) or [Wandbox](https://wandbox.org/) - Online Compilers / Explorers
-* [DogBolt](https://dogbolt.org/) - Decompiler Explorers / [GitHub]](https://github.com/decompiler-explorer/decompiler-explorer)
+* [DogBolt](https://dogbolt.org/) - Decompiler Explorers / [GitHub](https://github.com/decompiler-explorer/decompiler-explorer)
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [massCode](https://masscode.io/) - Code Snippet Manager
@@ -549,7 +549,7 @@
 
 * 🌐 **[Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)** or [NeoVimCraft](https://neovimcraft.com/) - NeoVim Plugins Collections
 * ⭐ **[Vim Bootstrap](https://vim-bootstrap.com/)** - Bootstrap Config for Vim
-* ⭐ **[NvChad](https://nvchad.com/)**, [SpaceVim](https://spacevim.org/), [NeoVim Kickstart](https://github.com/nvim-lua/kickstart.nvim), [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
+* [SpaceVim](https://spacevim.org/), [NeoVim Kickstart](https://github.com/nvim-lua/kickstart.nvim), [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim), [NvChad](https://nvchad.com/) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
 * [DotFyle](https://dotfyle.com/) - Neovim Config Search
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser

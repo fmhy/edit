@@ -490,6 +490,7 @@
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsFree](https://fontsfree.net)
 * [DFonts](https://www.dfonts.org/)
+* [Font Spring](https://www.fontspring.com/free)
 * [FFonts](https://www.ffonts.net/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
@@ -505,7 +506,8 @@
 
 * ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) - Font Identification Tools
+* ⭐ **[Adobe Fonts](https://fonts.adobe.com/fonts/vs/upload)**, [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) - Font Identification Tools
+* [Fonts Ninja](https://fonts.ninja/tools) - Font Identification Extension
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)

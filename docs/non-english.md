@@ -506,7 +506,6 @@
 * [Nima4k](https://nima4k.org/) - Video / Audio
 * [FilmFans](https://filmfans.org/) - Video
 * [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
-* [serienjunkies](https://serienjunkies.org/) - TV
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Data Load](https://www.data-load.in/) - Movies / Signup Required
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
@@ -660,7 +659,7 @@
 * ⭐ **[TamilBlasters](https://www.1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 * ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 * [SkyMovies](https://skymovieshd.li/) - Movies / TV / Anime / Some NSFW
-* [OOMoye](https://www.oomoye.fun/) - Movies / TV / Anime / Some NSFW
+* [OOMoye](https://www.oomoye.me/) - Movies / TV / Anime / Some NSFW
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)

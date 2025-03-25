@@ -19,6 +19,7 @@
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [nuclear](https://nuclearplayer.com/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
+* [DAB Music Player](https://dabplayer.vercel.app/download) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
@@ -35,6 +36,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/16767/) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [ArtistGrid](https://artistgrid.netlify.app/) - Browser Music
+* [DAB Music Player](https://dab-music.vercel.app/) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
@@ -360,6 +362,7 @@
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Frontend](https://artistgrid.netlify.app/) / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
+* ⭐ **[DAB Music Player](https://dab-music.vercel.app/)** - FLAC / [Desktop App](https://dabplayer.vercel.app/download)
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
@@ -536,7 +539,7 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Last.fm Stats](https://github.com/dukhevych/rym-lastfm-stats)
+* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Last.fm Stats](https://github.com/dukhevych/rym-lastfm-stats) / [Forum](https://rym.fm/)
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools), [ListenBrainz](https://listenbrainz.org/) or [Music Board](https://musicboard.app/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [Drop Watch](https://drop-watch.ghost.io/), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator

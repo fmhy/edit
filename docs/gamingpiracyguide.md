@@ -71,7 +71,7 @@
 
 ## ▷ Virtual Reality
 
-* ⭐ **[VRPirates](https://vrpirates.wiki/)** - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
+* ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames)
 * [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
@@ -108,7 +108,7 @@
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
-* ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.io/) - Open-Source RollerCoaster Tycoon 2
+* ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2
 * [Luanti](https://www.luanti.org/) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
@@ -432,6 +432,7 @@
 * [watabou](https://watabou.itch.io/) - Browser Games
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
 * [Miniplay](https://www.miniplay.com/) - Browser Games
+* [GTube](https://gtube.net/), [2](https://gtube.lat/), [3](https://gtube.buzz/), [4](https://gtube.pics/), [5](https://gtube.autos/) - Browser Games
 * [Yandex Games](https://yandex.com/games/) - Browser Games
 * [Arkadium](https://www.arkadium.com/) - Browser Games
 * [classroom-6x](https://www.classroom-6-x.games/) - Browser Games
@@ -642,7 +643,7 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
-* [mmmines!](https://mmmines.fly.dev/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
+* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
 * [PROXX](https://proxx.app/) - Space Minesweeper
@@ -697,7 +698,7 @@
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://likewise.com/), [Flickle](https://flickle.app/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://likewise.com/games), [Flickle](https://flickle.app/) or [Framed](https://framed.wtf/) - Movie Guessing Games
 * [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
@@ -727,7 +728,6 @@
 * [PkmnQuiz](https://pkmnquiz.com/), [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Owdle](https://owdle.guessing.day/) - Overwatch Guessing Games
-* [Teuteuf](https://teuteuf.fr/) - Geography Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI

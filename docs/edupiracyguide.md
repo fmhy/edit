@@ -317,7 +317,7 @@
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
-* [LizardPoint](https://lizardpoint.com/), [Seterra](https://www.seterra.com/#quizzes) or [Teuteuf](https://teuteuf.fr/) - Geography Games / Quizzes
+* [LizardPoint](https://lizardpoint.com/), [Learn World Map](https://map.koljapluemer.com/), [Seterra](https://www.seterra.com/#quizzes) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
@@ -484,7 +484,7 @@
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
 * [CelesTrack](https://celestrak.org/) - Earth Orbit Visualization
-* [TheSkyLive](https://theskylive.com/) - Solar System Simulators / Information
+* [TheSkyLive](https://theskylive.com/) or [Atlas of Space](https://atlasof.space/) - Solar System Simulators / Information
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](https://omgspace.net/) - Solar System Scale Model
 * [Marspedia](https://marspedia.org/) - Mars Wiki
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
@@ -909,7 +909,7 @@
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** - Dev Course Indexes
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
-* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [/r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [/r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started, [Programming Learning Index]() or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
@@ -942,6 +942,7 @@
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
 * [Hyperskill](https://hyperskill.org/) - Programming Courses
 * [EggHead](https://egghead.io/) - Programming Courses
+* [⁠InfiniteCourses](https://www.infinitecourses.org/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [Refactoring.Guru](https://refactoring.guru/) - Interactive Code Refactoring Guide
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
@@ -1277,7 +1278,7 @@
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
-* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
+* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
@@ -1326,7 +1327,7 @@
 
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
+* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc), [microMathematics](https://github.com/mkulesh/microMathematics), [Unitto](https://github.com/sadellie/unitto), [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus) or [Graph89](https://github.com/eanema/graph89) - Android Calculators
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[SageCalc](https://sagecalc.com/)**, **[ti84calc.online](https://ti84calc.online/)**, [CEmu](https://github.com/CE-Programming/CEmu), [ti-84calculatoronline](https://ti-84calculatoronline.com), [TI 84 Calculator](https://ti84calculator.co/en-US), [TI-84 Plus](https://ti84.pages.dev/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)**, [Grapes](https://www.criced.tsukuba.ac.jp/grapes/) or [Desmos](https://www.desmos.com/) - Graphing Calculators

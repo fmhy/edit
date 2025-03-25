@@ -204,6 +204,7 @@
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
+* [GC Saves](https://gc-saves.com/) - Gamecube / [Discord](https://discord.gg/yb5DFx5)
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 
 ***
@@ -485,7 +486,7 @@
 * 🌐 **[MCDOC](https://openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
-* ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png) or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
+* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png) or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
@@ -541,7 +542,6 @@
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
-* [Legacy Launcher](https://llaun.ch/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher
@@ -643,7 +643,7 @@
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT2Components](https://misode.github.io/nbt2components/) - NBT to Component Converter
-* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [Layoutit](https://voxels.layoutit.com/), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Layoutit](https://voxels.layoutit.com/), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 
 ***
 
@@ -725,7 +725,7 @@
 * [pkNX](https://github.com/kwsch/pkNX) - Switch Pokémon ROM Editor / Randomizer
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA to 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-Time Pokémon GO Map for NYC
-* [PkmnCards](https://pkmncards.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
+* [PkmnCards](https://pkmncards.com/), [Pokéllector](https://www.pokellector.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
 * [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 * [unite-db](https://unite-db.com/) - Pokémon Unite Database
 * [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material

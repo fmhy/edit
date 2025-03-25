@@ -420,7 +420,6 @@
 * [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
-* [ImageToSTL](https://imagetostl.com/) - Convert 2D PNG/JPG Images to 3D STL Mesh Files
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
 * [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
@@ -458,7 +457,7 @@
 * [Artvee](https://artvee.com/) - Public Domain Artwork
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
-* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://rentry.co/FMHYBase64#logos-badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [seeklogo](https://seeklogo.com/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/), [logotouse](https://www.logotouse.com/), [brandeps](https://brandeps.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Logo Source](https://www.logosource.app/), [Logos & Badges Bundle](https://rentry.co/FMHYBase64#logos-badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [seeklogo](https://seeklogo.com/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/), [logotouse](https://www.logotouse.com/), [brandeps](https://brandeps.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Search / Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://rentry.co/FMHYBase64#watercolor-collection) - Download Watercolor Pictures
 * [googleimagerestored](https://git.sr.ht/~fanfare/googleimagesrestored) - Old Google Image Search

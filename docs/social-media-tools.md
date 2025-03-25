@@ -181,7 +181,7 @@
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
-* [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool
+* [Beleave](https://beleave.virock.org/) or [⁠SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
@@ -294,7 +294,7 @@
 
 ## ▷ Telegram File Tools
 
-* ⭐ **[Teledrive](https://github.com/tgdrive/teldrive)** - File Manager / Uploader
+* ⭐ **[Teldrive](https://github.com/tgdrive/teldrive)** - File Manager / Uploader
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - Google Drive Upload Bots
@@ -544,7 +544,6 @@
 * [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [PurpleAdblock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
-* [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
 * [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw) or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad-Free Twitch APKs
 
 ***

@@ -338,7 +338,7 @@
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
-* [FileGo](https://filego.app/) - / 30 Days / Account Required
+* [FileGo](https://filego.app/) - 2GB / 30 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required

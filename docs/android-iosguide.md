@@ -392,7 +392,7 @@
 * [DeepSeek](https://download.deepseek.com/app/) - AI Chatbot
 * [ChatBox](https://github.com/Bin-Huang/chatbox), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
-* [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
+* [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
@@ -400,7 +400,6 @@
 * [Android Virtual Pen](https://github.com/androidvirtualpen/virtualpen) - Use Device as PC Virtual Pen
 * [Listy](https://listy.is/) or [HypeList](https://hypelist.com/) - Create Lists of Anything
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
-* [PrivateBin](https://privatebin.info/) - Pastebin App
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Tunity](https://tunity.com/) - Hear Muted TVs
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
@@ -509,9 +508,9 @@
 * ⭐ **[SyncThing Fork](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
 * ⭐ **[LocalSend](https://localsend.org/)** - File Sharing / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sharing
-* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - Download Manager Controller
-* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
+* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#1dm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+* [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
@@ -737,7 +736,7 @@
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm), [ReVanced Manager](https://revanced.app/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
 * ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
-* ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
+* ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
@@ -877,7 +876,6 @@
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)**, [DMS](https://github.com/anacrolix/dms) or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
-* [Flixquest](https://flixquest.beamlak.dev/) - Movies / TV / Anime
 * [Cinema HD](https://rentry.co/FMHYBase64#cinema-hd) - Movies / TV
 * [Movie HD](https://rentry.co/FMHYBase64#movie-hd) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://rentry.co/FMHYBase64#vivatv) - Movies / TV / Requires TPlayer
@@ -886,6 +884,7 @@
 * [FilmPlus](https://rentry.co/FMHYBase64#filmplus) - Movies / TV / Requires BPlayer
 * [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Discord / Plugins](https://discord.com/invite/7yPSPveReu)
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV
+* [MovieBox](https://rentry.co/FMHYBase64#moviebox) - Movies / TV
 * [Flixoid](https://rentry.co/FMHYBase64#flixoid) - Movies / TV
 * [BeeTV](https://rentry.co/FMHYBase64#beetv) - Movies / TV
 * [TeaTV](https://rentry.co/FMHYBase64#teatv) - Movies / TV / Requires TPlayer
@@ -1186,7 +1185,7 @@
 
 ## ▷ Social Media Apps
 
-* ⭐ **[BunnyTweak](https://github.com/bunny-mod/BunnyTweak)** - Discord Clients / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
+* ⭐ **[BunnyTweak](https://github.com/bunny-mod/BunnyTweak)** - Discord Clients / [Plugins](https://purple-eyez.github.io/Plugins-List/) / [Extension](https://github.com/BillyCurtis/OpenDiscordSafariExtension)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [Reddit Deluxe](https://t.me/ethMods), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#redditfilter-note), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216), [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
 * ⭐ **[Arctic](https://getarctic.app/)**, [Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients

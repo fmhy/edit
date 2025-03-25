@@ -522,12 +522,11 @@
 ## ▷ Email Aliasing
 
 * ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
-* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
+* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * [Mailgw](https://mailgw.com/) - Email Aliasing
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
-* [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
 * [TrashMail](https://trashmail.com/) - Email Aliasing
 * [Adguard Mail](https://adguard-mail.com/) - Email Aliasing
 

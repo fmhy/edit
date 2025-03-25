@@ -287,7 +287,7 @@
 
 ## ▷ Plex Tools
 
-* [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
+* [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tautulli-note)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
@@ -408,7 +408,7 @@
 ## ▷ Online Editors
 
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
-* ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
+* ⭐ **[Pikimov](https://pikimov.com/)** / Use Edge or Chrome
 * ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
@@ -436,10 +436,10 @@
 * [FreeVideoEffect](https://freevideoeffect.com/)
 * [VideoCoPilot](https://www.videocopilot.net/)
 * [VFXmed](https://www.vfxmed.com/)
+* [Team V.R releases](https://rentry.co/FMHYBase64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [VFXLoot](https://vfxloot.com/)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
-* [Team V.R](https://codec.kyiv.ua/ad0be.html) - After Effects
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects

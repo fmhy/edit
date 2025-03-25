@@ -406,6 +406,7 @@
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
 * [Historic Borders](https://historicborders.app/) - Borders History Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
+* [NLS Maps](https://maps.nls.uk/) - Historical Maps of Scotland
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
@@ -750,6 +751,7 @@
 * [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
 * [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
+* [Resume Builder](https://resume.haveloc.com/)
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
 * [Resuminator](https://www.resuminator.in/)
@@ -959,7 +961,7 @@
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index), [PC Tiers](https://pctiers.com/) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
-* ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
+* ⭐ **[NanoReview](https://nanoreview.net/)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
@@ -1491,6 +1493,7 @@
 * [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
 * [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
 * [The Forest](https://theforest.link/) - Find Random Sites
+* [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
 * [TheSillyWeb](https://thesillyweb.com/) - Find Random Sites
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
 * [Random-Website](https://random-website.com/) - Find Random Sites

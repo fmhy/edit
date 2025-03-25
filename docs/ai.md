@@ -318,6 +318,7 @@
 * [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
 * [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
 * [Raphael](https://raphael.app/) / Unlimited / No Sign-Up / Uses Flux.1
+* [⁠CGDream](https://cgdream.ai/) / 770 SDXL / 450 Fast FLUX / 150 FLUX Dev Monthly 
 * [Hailuo AI](https://hailuoai.video/) - 100 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
@@ -356,7 +357,7 @@
 * ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux), [2](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
-* [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion) / [GitHub](https://github.com/easydiffusion/easydiffusion)
+* [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [biniou](https://github.com/Woolverine94/biniou)
 * [Sygil WebUI](https://sygil-dev.github.io/sygil-webui/) / [Colab](https://colab.research.google.com/github/Sygil-Dev/sygil-webui/blob/main/Web_based_UI_for_Stable_Diffusion_colab.ipynb) / [Discord](https://discord.com/invite/ttM8Tm6wge) / [GitHub](https://github.com/Sygil-Dev/sygil-webui)

@@ -20,7 +20,7 @@
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblocker
-* [Zen](https://zenprivacy.net/) - System-Wide Adblocker / [GitHub](https://github.com/anfragment/zen)
+* [Zen](https://zenprivacy.net/) - System-Wide Adblocker / [Discord](https://discord.com/invite/jSzEwby7JY) / [GitHub](https://github.com/anfragment/zen)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 
 ***
@@ -170,7 +170,7 @@
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - DIY Privacy Network
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
-* ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.co/SecureDNSClient) / [GitHub](https://github.com/msasanmh/DNSveil)
+* ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.org/DNSveil) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
 * [Fort](https://github.com/tnodir/fort) - Firewall
