@@ -395,7 +395,7 @@
 ***
 
 ## ▷ Historic Maps
-
+* 🌐 **[Map History](https://www.maphistory.info/webimages.html)** - Index of Historical Map Sites
 * ⭐ **[David Rumsey Map Collection](https://www.davidrumsey.com/)** - Historical Map Collection
 * ⭐ **[Running Reality](https://www.runningreality.org/)**, [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
 * [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
