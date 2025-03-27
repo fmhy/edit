@@ -3,7 +3,7 @@ title: New Website
 description: Our brand new site (which you're on currently)
 date: 2023-11-12
 next: false
-aside: right
+
 prev: false
 
 footer: true

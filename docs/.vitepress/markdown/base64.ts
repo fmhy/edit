@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@ export function base64DecodePlugin(md: MarkdownRenderer) {
   md.renderer.rules.code_inline = function (tokens, idx, options, env, self) {
     if (
       !env.frontmatter.title ||
-      (env.frontmatter.title && !env.frontmatter.title === 'base64')
+      (env.frontmatter.title && env.frontmatter.title !== 'base64')
     ) {
       return defaultRender(tokens, idx, options, env, self)
     }

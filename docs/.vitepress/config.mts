@@ -18,7 +18,7 @@ import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { transforms } from './transformer'
+import { transformsPlugin } from './transformer'
 
 // @unocss-include
 
@@ -116,7 +116,7 @@ export default defineConfig({
           filepath: './.cache/imports.json'
         }
       }),
-      transforms(),
+      transformsPlugin(),
       {
         name: 'custom:adjust-order',
         configResolved(c) {
@@ -145,7 +145,7 @@ export default defineConfig({
     config(md) {
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
-      md.use(headersPlugin)
+      meta.build.api && md.use(headersPlugin)
     }
   },
   themeConfig: {

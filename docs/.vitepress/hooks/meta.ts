@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -21,6 +21,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
   const { pageData } = context
 
   if (pageData.isNotFound) return head
+  if (Object.keys(pageData.frontmatter).length === 0) return head
 
   const url = `${hostname}/${pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2')}`
 
