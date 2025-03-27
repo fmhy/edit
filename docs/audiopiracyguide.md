@@ -24,7 +24,7 @@
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [Mixtape Garden](https://mixtapegarden.com/) - Create / Share Mixtapes
-* [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
+* [⁠pulse](https://473999.net/pulse), [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Listen Together / Listening Parties
 
 ***
 
