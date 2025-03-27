@@ -29,8 +29,8 @@ onMounted(() => {
   >
     <ClientOnly>
       <Transition name="fade" mode="out-in">
-        <VPIconSun v-if="!isDark" class="sun" />
-        <VPIconMoon v-else class="moon" />
+        <div v-if="!isDark" class="sun text-xl i-ph-sun-duotone" />
+        <div v-else class="moon text-xl i-ph-moon-duotone" />
       </Transition>
     </ClientOnly>
   </button>
