@@ -75,6 +75,7 @@
 * ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
 * ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Unlimited / Self-Hosted
 * ⭐ **[Bio Link](https://bio.link/)** - Unlimited / Custom URLs
+* [tnl.one](https://tnl.one) - Short link + link in bio [Coupon: 'FREE' to get free premium]
 * [Bento](https://bento.me/) - Unlimited / Custom URLs
 * [LinkBun](https://linkbun.io) - Unlimited / Custom URLs
 * [Lynk](https://lynk.id/) - Unlimited / Custom URLs
@@ -370,6 +371,7 @@
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Shorten Wikimedia Domain Links
+* [tnl.one](https://tnl.one) - Short link + link in bio [Coupon: 'FREE' to get free premium]
 * [spoo.me](https://spoo.me/) - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
