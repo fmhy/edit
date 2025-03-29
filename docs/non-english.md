@@ -810,7 +810,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.hiphop/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunity.luxe/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
