@@ -31,7 +31,6 @@
 * [Electron Hub](https://www.electronhub.top/) - Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
 * [NexusAI](https://www.nexusmind.tech/) - GPT-4o / o1-preview / o3-mini / [Discord](https://discord.com/invite/sk8eddGwmP)
 * [NextChat](https://nextchat.club/) - Multiple Chatbots / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-* [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Sign-Up / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [NVIDIA NIM](https://build.nvidia.com/) - Multiple Chatbots / No Sign-Up
 * [OIChat](https://oi.wr.do/) - Multiple Chatbots
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot

@@ -309,6 +309,7 @@
 * [MindMapp](https://mindmapp.cedoor.dev/app)
 * [are.na](https://www.are.na/)
 * [Domino](https://kool.tools/domino)
+* [⁠MindMapWizard](https://mindmapwizard.com/)
 * [GitMind](https://gitmind.com/)
 * [xTiles](https://xtiles.app/en)
 * [Capacities](https://capacities.io/)
