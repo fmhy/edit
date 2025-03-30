@@ -325,7 +325,7 @@
 * [Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
-* [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
+* [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days after last download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
