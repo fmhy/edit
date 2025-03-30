@@ -617,6 +617,8 @@
 * [Animeil-TV](https://www.animeil-tv.com/) - Anime
 * [GURUTV](https://gurutv.online/) - Live TV
 * [israelTV](https://israeltv.online/) - Live TV
+* [442israel](https://442israel.live/) - Israel sport streams
+* [zradio](https://zradio.co.il/) - Israeli radio stations
 
 ## ▷ Downloading / הורדה
 
