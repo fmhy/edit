@@ -53,7 +53,7 @@
 
 ### Privacy Based
 
-* ⭐ **[IronFox](https://ironfoxoss.org/)** / [GitLab](https://gitlab.com/ironfox-oss/IronFox)
+* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)**
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
