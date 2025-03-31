@@ -18,8 +18,6 @@ in seeing all minor changes you can follow our
 [Updates Channel](https://redd.it/17f8msf) in Discord.
 :::
 
-Monthly Updates / Discussion [April 2025] 🌼
-
 # Wiki Updates
 
 - Added a **[Guide](https://fmhy.net/other/selfhosting)** to set up and run your own instance of FMHY locally.
