@@ -485,8 +485,8 @@
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-Site Font Search
 * ⭐ **[Font Piracy 101](https://rentry.co/FontPiracy)** - Font Download Guide
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
+* ⭐ **[BeFonts](https://befonts.com/)**
 * [Windows Fonts](https://wfonts.com/)
-* [BeFonts](https://befonts.com/)
 * [Free Fonts Family](https://freefontsfamily.org/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsFree](https://fontsfree.net)

@@ -789,7 +789,7 @@
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
 * [Color Kit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
-* [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/), [Personal Color Analysis](https://www.personal-color-analysis.com/) or [Huey](https://huey.design/) - Simple Color Palette Generators
+* [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/) or [Huey](https://huey.design/) - Simple Color Palette Generators
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
 * [Good Palette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
 * [Couleur.io](https://couleur.io/) - CSS Color Palettes Generator
