@@ -181,7 +181,7 @@
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
-* [Beleave](https://beleave.virock.org/) or [⁠SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
+* [Beleave](https://beleave.virock.org/) or [SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System

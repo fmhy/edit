@@ -821,7 +821,7 @@
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
-* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [⁠GeoSpy](https://geospy.net/) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Locations
+* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [GeoSpy](https://geospy.net/) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Locations
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [StegOnline](https://georgeom.net/StegOnline/upload), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/), [hide-text](https://all-tools.github.io/hide-text-in-image/) or [stegpy](https://github.com/izcoser/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool
