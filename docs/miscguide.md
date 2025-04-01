@@ -159,6 +159,7 @@
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
+* [ChefPandas](https://www.chefpandas.com/) - Smart meal planning, made simple!
 
 ***
 
