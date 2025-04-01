@@ -536,6 +536,7 @@
 * [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
 * [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
+* [Bold Text](https://boldtextgenerator.org/) - Bold Text Generator
 
 ***
 
