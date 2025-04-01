@@ -36,7 +36,6 @@
 ***
 
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
-* ⭐ **[BitSearch](https://bitsearch.to/)**, [2](https://solidtorrents.to) - DHT-Based
 * ⭐ **[Knaben](https://knaben.org/)**
 * [ExT](https://ext.to/), [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
@@ -92,7 +91,7 @@
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)**
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [Motrix](https://motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
+* [imFile](https://imfile.io/) / Updated Motrix fork / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [Tixati](https://tixati.com/)
 * [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare
 * [BiglyBT](https://www.biglybt.com/)

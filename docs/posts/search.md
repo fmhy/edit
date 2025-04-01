@@ -59,6 +59,6 @@ Multi-site search engines
 
 ---
 
-### [Dupe Checker](https://github.com/DanFMHY/dupe-checker)
+### [Dupe Checker](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
