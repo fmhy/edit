@@ -987,6 +987,7 @@
 * [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
 * [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
+* [SVG Converter](https://svgviewer.app/svg-converter) - SVG Converter, to PNG/JPEG/WEBP/ICO
 
 ***
 
