@@ -36,7 +36,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Movies / Shows
 
-* **Streaming: [XPrime](https://xprime.tv/) / [Hexa](https://hexa.watch/) / [Rive](https://rivestream.org/)**
+* **Streaming: [XPrime](https://xprime.tv/) / [Rive](https://rivestream.org/) / [Hexa](https://hexa.watch/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
