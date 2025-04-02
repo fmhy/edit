@@ -543,6 +543,7 @@
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
+* [Tropical E-paper](https://t.me/topicalepaper) - UPSC The Hindu & Indian Express Daily - Telegram
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Kiosko](https://en.kiosko.net/)
 * [FultonHistory](https://fultonhistory.com/Fulton.html)
