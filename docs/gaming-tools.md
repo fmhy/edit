@@ -772,10 +772,6 @@
 * [GTA Manager](https://func-vehicle.github.io/gtamanager/) - GTA V Business Manager
 * [GTA Downgraders](http://downgraders.rockstarvision.com/) - GTA Game Downgraders
 
-https://vimap.saamexe.com/map
-https://discord.com/invite/6SGwyre6KN
-
-
 ***
 
 ## ▷ Doom Tools
