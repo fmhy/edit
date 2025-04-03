@@ -11,7 +11,7 @@
 ***
 
 * 🌟 **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/erynith/movie-web-instances)
-*  🌟 **[P-Stream](https://pstream.org/)**, [beta](https://beta.pstream.org/) - Movies / TV / Anime / Auto-Next / [Setup 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/7z6znYgrTG) / [GitHub](https://github.com/Pasithea0/smov/tree/production)
+* 🌟 **[P-Stream](https://pstream.org/)**, [beta](https://beta.pstream.org/) - Movies / TV / Anime / Auto-Next / [Setup 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/7z6znYgrTG) / [GitHub](https://github.com/Pasithea0/smov/tree/production)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
 * 🌟 **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * 🌟 **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
