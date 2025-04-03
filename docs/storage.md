@@ -381,7 +381,6 @@
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
 * [VPN Jantit](https://www.vpnjantit.com/)
-* [PisoVPN](https://pisovpn.com)
 * [sshOcean](https://sshocean.com/) / [2](https://sshocean.net/)
 * [FreeVPN](https://www.freevpn.us/)
 * [Goodssh](https://www.goodssh.com/)
