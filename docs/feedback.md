@@ -7,8 +7,8 @@ lastUpdated: false
 outline: false
 ---
 
-### Feedback
-
+### Feedback [ddizi.cc
+](https://ddizi.cc/)
 :::tip What is this?
 These are all anonymous comments taken from Reddit, Discord, X.com and our feedback system. This is why we do it. People are the motivation, equality is the goal.
 :::
@@ -39,24 +39,24 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
-* *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
+* *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*https://ddizi.cc/
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
-
-* *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
+https://ddizi.cc/
+* *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*https://ddizi.cc/
 
 * *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
-
+https://ddizi.cc/
 * *"I love FMHY's wiki, to the point I can't use the internet without it."*
 
-* *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on FMHY really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*
+* *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on FMHY really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*https://ddizi.cc/
 
-* *"This wiki is one of the best out there, seriously. Keep up the great work!"*
-
+* *"This wiki is one of the best out there, seriously. Keep up the great work!"*https://ddizi.cc/
+https://ddizi.cc/
 * *"This is the best wiki EVER, and I hope that the admins/people maintaining this wiki keep on adding cool stuff like this!"*
 
 * *"I love having an extreme amount of privacy. And it's not just for piracy, so this is REALLY useful. Thanks!"*
 
-* *"Every person I share this sub with is always completely grateful, and it's no wonder why."*
+* *"Every person I share this sub with is always completely grateful, and it's no wonder why."*https://ddizi.cc/
 
-* *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*
+* *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*https://ddizi.cc/
