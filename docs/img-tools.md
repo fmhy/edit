@@ -54,6 +54,7 @@
 * [OIE](https://www.online-image-editor.com/) - Simple Editor
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
+* [⁠Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor
 * [Picverse](https://www.picverse.com/online-photo-editor) - Simple Editor
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
@@ -114,7 +115,8 @@
 * [Change Image Hue](https://www.imageonlinetools.com/change-image-hue) or [Tinter](https://tinter.uxie.io/) - Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker), [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
-* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
+* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Image to Anime Style Converter
+* [⁠YouPhoto](https://youphoto.ai/) - Image to Ghibli Style Converter
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes
@@ -403,7 +405,7 @@
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
-* [Embossify](https://www.embossify.com/) - Turn Images into 3D Printer Models
+* [Embossify](https://www.embossify.com/), [⁠Tripo3D](https://www.tripo3d.ai/app/home) or [TripoSG](https://huggingface.co/spaces/VAST-AI/TripoSG) - Image to 3D Model Converters
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
 * [Halloween.WannaThis](https://halloween.wannathis.one/) - 3D Halloween Models

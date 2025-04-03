@@ -654,6 +654,7 @@
 * [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
 * [Pteros](https://www.pteros.com/) - Pterosaur Database
 * [WFO](https://www.worldfloraonline.org/) - Plant Database
+* [The Ferns](https://tropical.theferns.info/) - Tropical Plant Database
 
 ***
 
@@ -1062,6 +1063,7 @@
 * [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
 * [HTML DOM](https://phuoc.ng/collection/html-dom/) - Learn DOM Manipulation
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
+* [Pixactly](https://pixact.ly/) - Test Pixel Dimension Orientation
 
 ***
 

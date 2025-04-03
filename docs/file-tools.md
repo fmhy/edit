@@ -164,8 +164,8 @@
 * ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
 * ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
 * [FolderClone](https://www.folderclone.com/) or [Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
-* [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
-* [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
+* [BackupPC](https://backuppc.github.io/backuppc/) - Networked File Backup
+* [TeraCopy](https://www.codesector.com/teracopy) - File Backup
 * [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup
 * [UrBackup](https://www.urbackup.org/) - Client / Server File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - Windows File Backup

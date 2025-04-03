@@ -63,12 +63,12 @@
 # ► Free Stuff
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
+* [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
 * [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / [Extension](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/) - Free / Cheap APKs
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs
 * [AppRaven](https://appraven.net/) - iOS Apps
-* [FreeCycle](https://www.freecycle.org/) or [Freegle](https://www.ilovefreegle.org/) - People Stuff Exchange
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
@@ -1057,8 +1057,6 @@
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
 * [Make it Yourself](https://makeityourself.org/) / [Video](https://youtu.be/TSFJ2OH1PQA) or [Make:](https://makezine.com/) - DIY Projects
-* [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
-* [QArt Coder](https://research.swtch.com/qr/draw/) - Draw Custom QR Codes
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
@@ -1275,6 +1273,7 @@
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes
 * [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - Create Star Wars Intros
 * [Mirage Gallery](https://www.miragegallery.ai/) - AI Art Gallery
+* [Gondola List](https://gondola.nabein.me/list) - Gondola Meme Archive
 * [Matchbox Dan](https://matchbox-dan.com/) - Matchbox Car Picture Archive
 * [Floor796](https://floor796.com/) - Ever-Expanding Animated Scene
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](https://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](https://arkadia.xyz/) - Infinite Zooming Paintings
@@ -1359,7 +1358,7 @@
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
-* [Pixactly](https://pixact.ly/) - Pixel Size Drawing Challenge
+* [Pianos.pub](https://pianos.pub/) - Find Public Pianos
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
 * [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
