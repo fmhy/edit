@@ -14,7 +14,7 @@
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
 * ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - Spotify Client / [GitHub](https://github.com/KRTirtho/spotube)
 * [Deezer](https://www.deezer.com/) - Streaming / [Extra Features](https://rentry.co/FMHYBase64#dzunlock)
-* [Moosync](https://moosync.app/) -  YouTube Music Client / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
+* [Moosync](https://moosync.app/) - YouTube Music Client / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -499,7 +499,7 @@
 * [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 * [NFO DB](https://nfodb.net.ru/) - MP3 NFO Database
-* [PreDB.eu](https://predb.eu) - PreDB for Music 
+* [PreDB.eu](https://predb.eu) - PreDB for Music
 
 ***
 
