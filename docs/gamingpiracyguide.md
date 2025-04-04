@@ -265,6 +265,7 @@
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs
+* [RetroSpot](https://www.retrospot.net/vault/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
 * [Emu-Land](https://www.emu-land.net/en) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
