@@ -583,7 +583,6 @@
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
 * [greek-flix](https://greek-flix.com/) - Movies / TV
-* [gamatomovies1](https://gamatomovies1.gr/) - Movies / TV
 * [tainiesonline](https://tainiesonline.top/) - Movies / TV
 * [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/), [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
 * [gamatomovies](https://gamatomovies.info/) - Movies / TV
