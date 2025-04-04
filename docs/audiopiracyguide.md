@@ -73,6 +73,7 @@
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
+* [Y'EDITS](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits)
 * [Mideastunes](https://mideastunes.com/) - Underground Music
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
@@ -468,6 +469,7 @@
 * [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
+* [Y'EDITS](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits)
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
@@ -571,6 +573,7 @@
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [TrackID](https://trackid.net/) or [1001Tracklists](https://www.1001tracklists.com/) - Live Set Tracklist Databases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Music Recommendation Guides
+* [⁠Shfl](https://theshfl.com/) - Album Recommendations
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists

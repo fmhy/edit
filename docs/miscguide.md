@@ -115,7 +115,7 @@
 * 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
-* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/), [Listonic](https://new.app.listonic.com/en) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
+* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subeddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) or [KitchenOwl](https://kitchenowl.org/) / [GitHub](https://github.com/TomBursch/kitchenowl) - Grocery Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -182,7 +182,7 @@
 
 * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
 * ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool
+* ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subeddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
@@ -951,6 +951,7 @@
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://www.kolorsvirtual.ai), [2](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
@@ -994,6 +995,7 @@
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
+* [⁠DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 

@@ -178,7 +178,7 @@
 
 ***
 
-## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
+## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
 
 ***
 
@@ -203,7 +203,6 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
-* ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check / [GitHub](https://github.com/mozilla/blurts-server)
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites

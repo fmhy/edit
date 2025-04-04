@@ -123,7 +123,7 @@
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
-* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
+* ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Sign-Up / [Discord](https://discord.gg/getpieces)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Sign-Up
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
@@ -325,7 +325,6 @@
 * [Reve Image](https://preview.reve.art/) / 20 Daily
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Sign-Up
 * [Qwen](https://chat.qwen.ai/) / Unlimited
-* [PicFinder](https://picfinder.ai/) / Unlimited
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) / 50 Daily
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Sign-Up

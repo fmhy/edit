@@ -292,7 +292,7 @@
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
-* [3DSDB](https://3dsdb.com/) - 3DS Release Tracker / [Discord](https://discord.com/invite/qHqZztHh)
+* [3DSDB](https://3dsdb.com/) - 3DS Release Tracker / [Discord](https://discord.com/invite/7QcV4YJe)
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [PKGPS4](https://www.pkgps4.click/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
@@ -488,6 +488,7 @@
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Dsicord](https://discord.gg/YFJCCxkdFZ)
+* [Aberoth](https://aberoth.com/) - Browser MMORPG
 * [Really Boring Website](https://really.boring.website/) - Online Scattergories
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Betrayal](https://betrayal.io/) - Among Us Clone

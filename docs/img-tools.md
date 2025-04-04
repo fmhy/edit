@@ -174,6 +174,7 @@
 
 * ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching / [Sharing](https://excalihub.dev/)
 * ⭐ **[AutoDraw](https://www.autodraw.com/)**, [Co-Drawing](https://huggingface.co/spaces/Trudy/gemini-codrawing) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
+* [⁠DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
 * [inkscape](https://inkscape.org/) - Drawing / Sketching
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
@@ -283,6 +284,7 @@
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [SMPoster](https://www.smposter.com/), [AnotherGraphic](https://anothergraphic.org/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Examples / Inspiration
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 
 ***
 

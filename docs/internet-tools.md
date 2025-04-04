@@ -326,7 +326,7 @@
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
 * [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
 * [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2QR](https://2qr.info/) or [Link to QR](https://link-to-qr.com/) - QR Code Generator for URLs / Text
-* [Mini QR](https://mini-qr-code-generator.vercel.app/) / [GitHub](https://github.com/lyqht/mini-qr) or [QArt Coder](https://research.swtch.com/qr/draw/) - Create Custom QR Code Art
+* [Mini QR](https://mini-qr-code-generator.vercel.app/) / [GitHub](https://github.com/lyqht/mini-qr), [AI QRCode](https://openart.ai/apps/ai_qrcode) or [QArt Coder](https://research.swtch.com/qr/draw/) - Create Custom QR Code Art
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
 * [Open Bulk URL](https://openbulkurl.com/), [Open URL](https://openurl.online/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
@@ -707,6 +707,7 @@
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
+* [⁠Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes Theme to Match Site Appearances
 * [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch Your User-Agent
 * [Chrome Mask](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) - Use Chrome-Only Sites on Firefox / [GitHub](https://github.com/denschub/chrome-mask)

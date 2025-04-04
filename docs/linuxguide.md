@@ -91,7 +91,7 @@
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
-* [DistroSea](https://distrosea.com/) - Virtual Machine
+* [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa) / [GitHub](https://github.com/leaningtech/webvm)
@@ -312,7 +312,6 @@
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
-* [BlueComet](https://cs.rin.ru/forum/viewtopic.php?f=20&t=142413&hilit=bluecomet) - Offline Steam DRM Bypass / DLC Unlocker
 * [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
 * [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
