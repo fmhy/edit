@@ -173,7 +173,6 @@
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
-* [MagLit](https://maglit.me/) - Magnet Link Shorteners / [GitHub](https://github.com/NayamAmarshe/thiss.link)
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [magnet2list](https://hutstep.github.io/magnet2list/) - Convert Magnets to Tracker Lists
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker

@@ -302,7 +302,6 @@
 ## ▷ Mind Mapping
 
 * ⭐ **[Obsidian Canvas](https://obsidian.md/canvas)**
-* [MindMup](https://www.mindmup.com/)
 * [FreeMind](https://freemind.sourceforge.net/)
 * [Kinopio](https://kinopio.club/)
 * [Freeplane](https://github.com/freeplane/freeplane)
