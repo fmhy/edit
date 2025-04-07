@@ -1296,6 +1296,7 @@
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [tgstat](https://tgstat.ru/) - Telegram Channel Stats
 * [EDA](https://eda.ru/) - Recipes
+* [TOPEDA](https://topfood.club/) - Top Recipes
 * [Songs Pro](https://songspro.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
 * [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
