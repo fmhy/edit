@@ -878,6 +878,7 @@
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
+* [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min) - On-demand feedback for Figma prototypes
 
 ***
 
