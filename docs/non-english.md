@@ -226,8 +226,10 @@
 * [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
 * [xiaoyakankan](https://xiaoyakankan.com/) - Movies / TV / 720p
 * [IYF](https://www.iyf.tv/) - Movies / TV / Sub / Dub / 720p
-* [gimytw](https://gimytw.cc/) - Movies / TV
+* [gimytw](https://gimytw.cc/) - Movies / TV / Cartoons / Dub
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
+* [beidiannet](https://www.beidiannet.com) - Movies / TV / Cartoons / Dub / Sub / 1080p
+* [myndfulmovers](https://www.myndfulmovers.com) - Movies / TV / Cartoons / Dub / Sub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
@@ -554,6 +556,7 @@
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
 * [MyComics](https://www.mycomics.de/) - Comics
+* [ComicMafia](https://comicmafia.to) - Comics
 * [Kanjiku](https://kanjiku.net/) - Manga
 * [Hoerbuch](https://hoerbuch.us/) - Audiobooks
 * [Projekt Gutenberg.](https://www.projekt-gutenberg.org/) - Classic German Books
