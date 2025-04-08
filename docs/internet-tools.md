@@ -877,6 +877,7 @@
 * [OSINT Combine](https://www.osintcombine.com/tools) - OSINT Investigation Tools
 * [Bellingcat](https://bellingcat.gitbook.io/toolkit) - Online Investigation Toolkit
 * [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
+* [The Pika's OSINT ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox) - General Index
 * [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
 * [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
 * [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index

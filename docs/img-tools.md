@@ -127,6 +127,14 @@
 
 ***
 
+## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_images)
+
+***
+
+## ▷ [Mac Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_images)
+
+***
+
 # ► Image Creation
 
 * 🌐 **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Image Creation Resources

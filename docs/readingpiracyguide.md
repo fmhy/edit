@@ -352,7 +352,6 @@
 * ⭐ **[BatCave](https://batcave.biz/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
-* ⭐ **[GoComics](https://www.gocomics.com/)** - Comics Strips
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
@@ -366,6 +365,7 @@
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
+* [GoComics](https://www.gocomics.com/) - Comics Strips / [Bypass Paywalls](https://pastebin.com/E8d6UX7S), [2](https://github.com/Idiot-01/Gocomics-Depaywall)
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - Webcomics
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
@@ -854,7 +854,7 @@
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases

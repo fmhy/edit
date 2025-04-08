@@ -77,19 +77,13 @@
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Linear](https://linear.app/), [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
-* [Wasmer](https://wasmer.io/) - WebAssembly Runtime
-* [A-Frame](https://aframe.io/) - WebVR Framework / [GitHub](https://github.com/aframevr/aframe/)
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
 * [Globster](https://globster.xyz/) - Test Glob Patterns
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
-* [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
-* [PKL](https://pkl-lang.org/) - Generate Static Configurations
+* [overmind](https://github.com/DarthSim/overmind) - Process Managers
 * [sed.js](https://sed.js.org/) - GNU sed Live Editor
-* [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
-* [ASTExplorer](https://astexplorer.net/) - AST Viewer
 * [PlantText](https://www.planttext.com/) - UML Editor
-* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
 * [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
@@ -458,6 +452,7 @@
 * [Lapce](https://lapce.dev/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
+* [JSON Hero](https://jsonhero.io/) - JSON Viewer / Editor
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
@@ -995,7 +990,6 @@
 
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
-* [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
 * [Nuclei](https://docs.projectdiscovery.io/tools/nuclei) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
@@ -1146,15 +1140,3 @@
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)
-
-***
-
-## ▷ JSON
-
-* ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/app/jayson/id1447750768) (iOS) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
-* [jq](https://jqlang.org/) - CLI JSON Processor / [GitHub](https://github.com/jqlang/jq)
-* [oq](https://blacksmoke16.github.io/oq/) - Portable jq Wrapper / [GitHub](https://github.com/Blacksmoke16/oq)
-* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
-* [zio-json](https://zio.dev/zio-json) - JSON Library
-* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
-* [JSON Bin](https://jsonbin.io/) - JSON Host

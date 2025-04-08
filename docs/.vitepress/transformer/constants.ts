@@ -22,11 +22,11 @@ interface Header {
 export const headers: Header = {
   'adblockvpnguide.md': {
     title: 'Adblocking / Privacy',
-    description: "Adblocking, Privacy, VPN's, Proxies, Antivirus"
+    description: "Adblocking, Privacy, VPNs, Proxies, Antiviruses"
   },
   'ai.md': {
     title: 'Artificial Intelligence',
-    description: 'Chat Bots, Text Generators, Image Generators, ChatGPT Tools'
+    description: 'Chatbots, Text Generators, Image Generators, ChatGPT Tools'
   },
   'android-iosguide.md': {
     title: 'Android / iOS',

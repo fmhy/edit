@@ -173,6 +173,14 @@
 
 ***
 
+## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+
+***
+
+## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
+
+***
+
 # ► Video Players
 
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources

@@ -46,7 +46,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Anime
 
-* **Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/) / [Kuroiru](https://kuroiru.co/)**
+* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
