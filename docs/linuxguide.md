@@ -532,17 +532,9 @@
 * 🌐 **[The Terminal Directory](https://termui.sh/)** - List of Terminal Emulators
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [Mist](https://github.com/ninxsoft/Mist) - Download macOS
-* ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
-* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)**, [MagicCap](https://magiccap.me/) or [CleanShot](https://cleanshot.com/) - Screenshot Tools
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
-* ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
-* ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
-* [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
-* [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
 * [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
@@ -552,40 +544,17 @@
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
-* [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
-* [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
-* [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
-* [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
-* [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book Tracker
 * [LimaVM](https://lima-vm.io/) - Linux VM
 * [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS Apps on Apple Silicon Macs
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
-* [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
-* [Hot](https://github.com/macmade/hot) - CPU Monitor
-* [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
-* [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
-* [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers
-* [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
-* [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
-* [Superfile](https://github.com/yorukot/superfile) - File Explorer / Managers
-* [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
-* [JDOwnloader2](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
-* [Progressive Downloader](https://macpsd.net/) - File Download Manager
-* [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
-* [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
 * [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader
 * [Adobe Creative Cloud](https://rentry.co/FMHYBase64#mac-adobe-cc) - Adobe CC Guides
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 macOS](https://ss64.com/mac/) - macOS Bash Commands
-* [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
-* [Orion](https://kagi.com/orion/) - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.gg/Yk8Aj8AxGw)
-* [KeePassXC](https://keepassxc.org/download/#macos) or [Strongbox](https://strongboxsafe.com/) - Password Managers
-* [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) - iMessage Client
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
@@ -595,73 +564,15 @@
 * [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Clients
 * [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suites
-* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
-* [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
-* [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
-* [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
-* [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
-* [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
-* [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
-* [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
-* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
-* [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
-* [AirBattery](https://github.com/lihaoyun6/AirBattery) or [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Device Battery Trackers
-* [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
 * [Hammerspoon](https://www.hammerspoon.org/) or [Bunch](https://bunchapp.co/) - Desktop Automation
 * [MacScripter](https://www.macscripter.net/) - Automation Forum
-* [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
-* [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
-* [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
-* [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
-* [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
-* [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
-* [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
-* [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
-* [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
-* [Ice](https://icemenubar.app/) - Menu Bar Manager / [GitHub](https://github.com/jordanbaird/Ice)
-* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
-* [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
-* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevent Sleep Mode
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Loop](https://github.com/MrKai77/Loop), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Later](https://getlater.app/) - Restore App Sessions / [GitHub](https://github.com/alyssaxuu/later)
-* [AlDente](https://apphousekitchen.com/) - Charging Manager
 * [VMware](https://rentry.co/FMHYBase64#vmware) - Virtual Machine
 * [Tart](https://tart.run/) - Virtual Machine Manager . [GitHub](https://github.com/cirruslabs/tart)
-* [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
-* [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
-* [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
-* [Pictogram](https://pictogramapp.com/), [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
-* [Tintd](https://www.tintd.app/) or [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
-* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
-* [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
-* [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
-* [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
-* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble, etc.
-* [IINA](https://iina.io/) - Video Player
-* [Yattee](https://github.com/yattee/yattee) - YouTube Player
-* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
-* [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
-* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
-* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
-* [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
-* [EQMac](https://eqmac.app/) - Audio Equalizer
-* [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
-* [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
-* [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
-* [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
-* [Cuterdio](https://cuterdio.com/en) - Radio
-* [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
-* [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
-* [⁠Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription
-* [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
-* [ImageOptim](https://imageoptim.com/mac) - Image Optimization
-* [Perspec](https://github.com/ad-si/Perspec) - Correct Perspective of Images
-* [Draw Things](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) - AI Image Drawing Tool
 * [SD Buddy](https://github.com/breadthe/sd-buddy), [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
 * [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
@@ -696,13 +607,55 @@
 * [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
-* [Macked](https://macked.app/)
+* [MacKed](https://macked.app/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
 * [ThriftMac](https://thriftmac.com/) - Freeware
 * [Sindre Sorhus](https://sindresorhus.com/apps/free) - Freeware
 * [Latest](https://github.com/mangerlahn/latest) - Software Updater
+
+***
+
+## ▷ Mac Video
+
+* [IINA](https://iina.io/) - Video Player
+* [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming
+* [Yattee](https://github.com/yattee/yattee) - YouTube Player
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
+* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
+
+***
+
+## ▷ Mac Audio
+
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
+* [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
+* [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
+* [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
+* [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
+* [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
+* [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
+* [EQMac](https://eqmac.app/) - Audio Equalizer
+* [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
+* [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
+* [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
+* [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
+* [Cuterdio](https://cuterdio.com/en) - Radio
+* [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
+* [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
+* [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription
+
+***
+
+## ▷ Mac Images
+
+* [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
+* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
+* [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
+* [ImageOptim](https://imageoptim.com/mac) - Image Optimization
+* [Perspec](https://github.com/ad-si/Perspec) - Correct Perspective of Images
+* [Draw Things](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) - AI Image Drawing Tool
 
 ***
 
@@ -721,13 +674,14 @@
 
 ***
 
-# ► Mac Adblock / Privacy
+# ► Mac Tools
+
+## ▷ Mac Adblock / Privacy
 
 * 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [macOS Adblock Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) - Adguard + Safari Adblock Guide
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
@@ -752,3 +706,81 @@
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
 * [Damus](https://damus.io/) - Encrypted Messaging App
+
+***
+
+## ▷ Mac Internet
+
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* [KeePassXC](https://keepassxc.org/download/#macos) or [Strongbox](https://strongboxsafe.com/) - Password Managers
+* [What Route](https://whatroute.net/) - Network Diagnostic Tool
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Clients
+* [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
+* [Orion](https://kagi.com/orion/) - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.gg/Yk8Aj8AxGw)
+
+***
+
+## ▷ System Tools
+
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
+* ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
+* ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
+* [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
+* [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
+* [Hot](https://github.com/macmade/hot) - CPU Monitor
+* [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
+* [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers
+* [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
+* [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
+* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
+* [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
+* [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
+* [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
+* [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
+* [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
+* [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
+* [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
+* [AlDente](https://apphousekitchen.com/) - Charging Manager
+* [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
+* [AirBattery](https://github.com/lihaoyun6/AirBattery) or [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Device Battery Trackers
+* [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
+* [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
+* [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
+* [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
+* [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
+* [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
+* [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
+* [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
+* [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
+* [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
+* [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
+* [Ice](https://icemenubar.app/) - Menu Bar Manager / [GitHub](https://github.com/jordanbaird/Ice)
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
+* [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevent Sleep Mode
+* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Loop](https://github.com/MrKai77/Loop), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
+* [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) or [TRex](https://trex.ameba.co/) - Clipboard Managers
+* [Pictogram](https://pictogramapp.com/), [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
+* [Tintd](https://www.tintd.app/) or [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
+* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
+* [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
+* [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
+* [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
+* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
+
+***
+
+## ▷ File Tools
+
+* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
+* ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
+* [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
+* [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
+* [Superfile](https://github.com/yorukot/superfile) - File Explorer / Managers
+* [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
+* [JDOwnloader2](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
+* [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
+* [Progressive Downloader](https://macpsd.net/) - File Download Manager
+* [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
+* [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
