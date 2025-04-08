@@ -69,10 +69,12 @@ const isDisabled = computed(() => {
 })
 
 const router = useRouter()
-// prettier-ignore
-const feedback = reactive<
-  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
->({
+
+const feedback = reactive<{
+  message: string
+  page: string
+  type?: FeedbackType['type']
+}>({
   page: router.route.path,
   message: ''
 })
@@ -142,17 +144,45 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
     </button>
   </template>
   <template v-else>
-    <button
-      class="bg-$vp-c-default-soft text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="toggleCard()"
+    <div
+      class="mt-2 p-4 border-2 border-solid bg-brand-50 border-brand-300 dark:bg-brand-950 dark:border-brand-800 rounded-xl col-span-3 transition-colors duration-250"
     >
-      <span
-        :class="
-          isCardShown === false ? `i-lucide:mail mr-2` : `i-lucide:mail-x mr-2`
-        "
-      />
-      <span>Send Feedback</span>
-    </button>
+      <div class="flex items-start md:items-center gap-3">
+        <div class="pt-1 md:pt-0">
+          <div
+            class="w-10 h-10 rounded-full flex items-center justify-center bg-brand-500 dark:bg-brand-400"
+          >
+            <span
+              :class="
+                isCardShown === false
+                  ? `i-lucide:mail w-6 h-6 text-white dark:text-brand-950`
+                  : `i-lucide:mail-x w-6 h-6 text-white dark:text-brand-950`
+              "
+            />
+          </div>
+        </div>
+        <div
+          class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row"
+        >
+          <div class="flex-grow">
+            <div class="font-semibold text-brand-950 dark:text-brand-50">
+              Got feedback?
+            </div>
+            <div class="text-sm text-brand-800 dark:text-brand-100">
+              We'd love to know what you think about this page.
+            </div>
+          </div>
+          <div>
+            <button
+              class="inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-brand-700 border-brand-300 dark:text-brand-100 dark:border-brand-800"
+              @click="toggleCard()"
+            >
+              Share Feedback
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   </template>
 
   <Transition name="fade" mode="out-in">
@@ -254,7 +284,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </button>
             <button
               type="submit"
-              class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-swarm-100 dark:bg-swarm-700 border-swarm-800 dark:border-swarm-700 disabled:bg-swarm-100 dark:disabled:bg-swarm-900 hover:border-swarm-900 dark:hover:border-swarm-800 hover:bg-swarm-200 dark:hover:bg-swarm-800"
+              class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-brand-100 dark:bg-brand-700 border-brand-800 dark:border-brand-700 disabled:bg-brand-100 dark:disabled:bg-brand-900 hover:border-brand-900 dark:hover:border-brand-800 hover:bg-brand-200 dark:hover:bg-brand-800"
               :disabled="isDisabled"
               @click="handleSubmit()"
             >

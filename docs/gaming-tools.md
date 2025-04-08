@@ -24,11 +24,9 @@
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournament Creators / Managers
-* [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Manager
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
-* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Achievement Watcher](https://rentry.co/FMHYBase64#achievement-watcher-mod) - Achievement File Parser, Notifications & Playtime Tracker / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#achievement-watcher-note)
@@ -168,12 +166,13 @@
 
 ## ▷ Game Mods
 
+* 🌐 **[Big List of Randomizers](https://randomizers.debigare.com/)** - Game Randomizer Index / [Discord](https://discord.com/invite/YREMzGQ3gd) / [GitHub](https://github.com/video-game-randomizers/rando-list)
 * ↪️ **[Game Mods](https://rentry.co/FMHYBase64#game-mods)** - Mods for Individual Games
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Side Scrolling Modding Forum / [Games List](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
-* [WeMod](https://www.wemod.com/) - Cheats / Trainer Manager / Single Player Only / [Unlocker](https://rentry.co/FMHYBase64#wemod-unlock) / [Discord](https://discord.com/invite/wemod)
+* [WeMod](https://www.wemod.com/) - Cheats / Trainer Manager / Single Player Only / [Unlocker](https://rentry.co/FMHYBase64#wemod) / [Discord](https://discord.com/invite/wemod)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
 * [Mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
@@ -190,6 +189,8 @@
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) - Thunderstore / BepInEx Unity Mod Managers
+* [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
+* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 
 ***
 
@@ -246,6 +247,7 @@
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
+* [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
@@ -255,9 +257,9 @@
 ## ▷ Tracking / Discovery
 
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
-* ⭐ **[Backloggd](https://www.backloggd.com/)**, **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [GG](https://ggapp.io/), [InfiniteBacklog](https://infinitebacklog.net/), [KeepTrackOfMyGames](https://keeptrackofmygames.com/) or [PlayTracker](https://playtracker.net/) - Game Trackers
-* ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
+* ⭐ **[Glitchwave](https://glitchwave.com/)**, **[Backloggd](https://www.backloggd.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [GG](https://ggapp.io/), [InfiniteBacklog](https://infinitebacklog.net/), [KeepTrackOfMyGames](https://keeptrackofmygames.com/) or [PlayTracker](https://playtracker.net/) - Game Trackers
 * ⭐ **[IGDB](https://www.igdb.com/)**, **[GiantBomb](https://www.giantbomb.com/games/)**, [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/) or [FrontierNav](https://frontiernav.net/) - Game Database
+* ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[TasteDive](https://tastedive.com/games)**, [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Game Recommendation Guides
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
@@ -277,7 +279,7 @@
 * [Low Spec Games](https://pastebin.com/raw/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
-* [BoardGameGeek](https://boardgamegeek.com/) - Board Game Database
+* [BoardGameGeek](https://boardgamegeek.com/) or [Kallax](https://kallax.io/) - Board Game Database
 * [Board Game Breakdown](https://boardgamebreakdown.com/) - Board Game Reviews
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
@@ -371,6 +373,7 @@
 
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
+* 🌐 **[Firmware / Bios Files](https://rentry.co/FMHYBase64#console-firmware)**
 * ⭐ **[Hacks.Guide](https://hacks.guide/)** / [2](https://wiki.hacks.guide/), **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [CFWaifu](https://www.cfwaifu.com/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
@@ -381,6 +384,7 @@
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
 * [/r/XboxModding](https://www.reddit.com/r/XboxModding/) or [/r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
+* [Team Resurgent](https://rentry.co/FMHYBase64#team-resurgent) - Xbox Homebrew Tools
 * [/r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
@@ -388,6 +392,7 @@
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [NESDev](https://www.nesdev.org/) - NES / SNES Dev Homebrew Guides / Forum
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini / [Discord](https://discord.gg/UUvqsAR)
+* [ROM News](http://rom-news.org/) - Console Game Release PreDB / NFO Database
 
 ***
 
@@ -486,7 +491,7 @@
 * 🌐 **[MCDOC](https://openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
-* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png) or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
+* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)** or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
@@ -508,7 +513,7 @@
 
 ## ▷ Hosting Tools
 
-* 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
+* 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [Mirror](https://github.com/Myuui/Free-Minecraft-Hosts)
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
@@ -522,7 +527,7 @@
 * [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB)
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
-* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
+* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
@@ -533,8 +538,7 @@
 
 ## ▷ Launchers
 
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
-* ⭐ **Prism Launcher Tools** - [Free Method](https://rentry.co/prism4free), [2](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
+* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [Free Method](https://rentry.co/prism4free) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
 * ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launcher for Bedrock Edition
@@ -643,7 +647,7 @@
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT2Components](https://misode.github.io/nbt2components/) - NBT to Component Converter
-* [Layoutit](https://voxels.layoutit.com/), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Layoutit](https://voxels.layoutit.com/), [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 
 ***
 
@@ -710,7 +714,7 @@
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
-* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokemon Blaze Online](https://pokemonblazeonline.com/) / [Discord](https://discord.com/invite/b3ZnXuf5fk) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[PokéRogue](https://pokerogue.net/)** - Pokémon Dungeon Crawler / [Wiki](https://wiki.pokerogue.net/start) / [Subreddit](https://reddit.com/r/pokerogue/) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Discord](https://discord.com/invite/uWpTfdKG49)
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
@@ -755,7 +759,7 @@
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
 * ⭐ **[FiveM](https://fivem.net/)**, [alt:V](https://altv.mp/) or [RAGE](https://rage.mp/) - Modded GTAV Servers / Requires Legit Copy
-* ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** - Multiplayer GTA:SA / [Discord](https://discord.com/invite/samp)
+* ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA
 * [Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page) - GTA Wiki
@@ -838,7 +842,7 @@
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://x.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
@@ -865,6 +869,8 @@
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * ⭐ **[XXMI](https://github.com/SpectrumQT/XXMI-Launcher)** - Gacha Games Modding Tool / [Discord](https://discord.gg/agmg)
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
+* [FGO GamePress](https://grandorder.gamepress.gg/) - FGO Wiki + Guides
+* [Chaldea](https://chaldea.center/) - FGO Planner & Battle Simulator
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
 * [Star Rail Station](https://starrailstation.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rail Guides
 * [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
