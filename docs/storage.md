@@ -6,33 +6,43 @@
 
 ## 3D Modeling Apps
 
-* ⭐ **[Blender](https://www.blender.org/)**
+* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
-* ⭐ **[Shap-e](https://github.com/openai/shap-e)**
-* [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
-
-[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](https://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/), [Charmed](https://charmed.ai/), [TRELLIS](https://trellis3d.github.io/) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) / [GitHub](https://github.com/microsoft/TRELLIS)
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects based on Text / Image Prompts
+* [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
+* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [Wings 3D](https://www.wings3d.com/) - Cross-platform 3D Modeling App
+* [JustSketchMe](https://justsketch.me/) - Cross-platform 3D Pose Reference Tool
+* [Vectary](https://www.vectary.com/) or [Womp](https://beta.womp.com/) - 3D Modeling in Browser
 
 ### CAD Engineering
 
-* [ChokokuCAD](https://github.com/itta611/ChokokuCAD) - CAD Modeling
-* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling
-* [Tinkercad](https://www.tinkercad.com/) - CAD Modeling
-* [FreeCAD](https://github.com/realthunder/FreeCAD/), [2](https://www.freecad.org/) - CAD Modeling
-* [BRL-CAD](https://brlcad.org/) - CAD Modeling
-* [LibreCAD](https://librecad.org/) - CAD Modeling
-* [OpenSCAD](https://openscad.org/) or [Mayo](https://github.com/fougue/mayo) - 3D CAD Modelers
-* [QCAD](https://www.qcad.org/en/) - 2D CAD Modeler
+* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling with Real-time Collaboration
+* [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
+* [FreeCAD](https://www.freecad.org/) / [GitHub](https://github.com/FreeCAD/FreeCAD) - Parametric CAD Modeling
+* [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-platform CSG CAD Modeling
+* [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
+* [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 
 ***
 
 ## 3D Models
 
-* ⭐ **[Thingiverse](https://www.thingiverse.com/)**
-* ⭐ **[Printables](https://www.printables.com/)**
-
-[Clara.io](https://clara.io/library), [MM3D](https://clover.moe/mm3d/), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [CGdownloads](https://cgdownload.ru/), [Pack 3D Models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [Archibase](https://archibase.co/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/), [thebasemesh](https://www.thebasemesh.com/), [VFXmed](https://www.vfxmed.com/)
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
+* ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
+* [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
+* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-up Required
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-up Required
+* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-up Required
+* [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
+* [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
+* [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
+* [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
+* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
+* [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
+* [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
+* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
 
 ***
 
