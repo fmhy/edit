@@ -388,6 +388,7 @@
 ## ▷ Live Sports
 
 * 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Importable Sports Calendars
+* ⭐ **[kingscore.live](kingscore.live)**
 * ⭐ **[Streamed](https://streamed.su/)** / [Discord](https://discord.gg/streamed)
 * ⭐ **[PPV.wtf](https://ppv.wtf/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
 * ⭐ **[SportyHunter](https://sportyhunter.com/)** - Stream Aggregator / [Discord](https://discord.gg/zbxWcejadm)
