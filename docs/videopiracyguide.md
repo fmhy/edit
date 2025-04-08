@@ -10,6 +10,8 @@
 
 ***
 
+* 🌟 **[P-Stream](https://pstream.org/)**, [Beta](https://beta.pstream.org/) - Movies / TV / Anime / Auto-Next / [Setup 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/7z6znYgrTG) / [GitHub](https://github.com/Pasithea0/smov/tree/production)
+* 🌟 **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Setup / 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
