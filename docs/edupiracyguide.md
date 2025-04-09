@@ -615,7 +615,7 @@
 * [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
 * [Chemical Forums](https://www.chemicalforums.com/) - Chemistry Forums
-* [arkat-usa](https://www.arkat-usa.org/) - Journals
+* [Arkivoc](https://www.arkat-usa.org/) - Journals
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
 * [Chemexper Chemical Directory](https://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](https://orgsyn.org/Default.aspx) - Chemistry Prep Guides
@@ -682,7 +682,7 @@
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
-* [Radiopaedia](https://radiopaedia.org/), [Radiology Assistant.nl](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources
+* [Radiopaedia](https://radiopaedia.org/), [Radiology Assistant](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Pathology Outlines](https://www.pathologyoutlines.com/) - Pathology Info
@@ -692,7 +692,7 @@
 * [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
 * [/r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
-* [CRAM.com](https://www.cram.com/medical) - Medical Flashcards
+* [CRAM](https://www.cram.com/medical) - Medical Flashcards
 
 ***
 
@@ -729,7 +729,7 @@
 * [Comprehensible Input Wiki](https://comprehensibleinputwiki.org/) - Learn Languages via Comprehensible Input
 * [HelloTalk](https://www.hellotalk.com/) - Learn Languages via AI Conversation
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
-* [refold.la](https://refold.la/) - Language Learning Roadmap
+* [Refold](https://refold.la/) - Language Learning Roadmap
 * [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://rentry.co/FMHYBase64#language-drops-premium)
 * [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [Pimsleur](https://rentry.co/FMHYBase64#pimsleur) - Language Learning Courses
