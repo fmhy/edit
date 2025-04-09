@@ -145,6 +145,7 @@
 * [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
 * [v0](https://v0.dev/) - Text to Site Code / [Discord](https://discord.gg/4ECCp2V5y9)
+* [Lovable](https://lovable.dev/) - Text to Site Code / [Discord](https://discord.com/invite/lovable-dev)
 * [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - Text to Site Code
 * [Bolt.new](https://bolt.new/) - Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Fragments](https://fragments.e2b.dev/) - App Builder / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev)
