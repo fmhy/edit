@@ -1165,18 +1165,19 @@
 
 ## WordPress Themes
 
-[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Signup required
+* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Signup Required
+* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Telegram
 
 ***
 
 ## YouTube Movies
 
-* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) - Chrome Required
-* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - YouTube Streaming Subs
-* [OpenCulture](https://www.openculture.com/freemoviesonline)
-* [YouTube Streaming Channels](https://rentry.co/YT-Movies)
-* [Voleflix](https://vole.wtf/voleflix/)
-* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies)
-* [MoviesFoundOnline](https://moviesfoundonline.com/)
-* [FREEMOVIESYT](https://www.youtube.com/@FREEMOVIESYT/)
-* [FreeGreatMovies](https://www.freegreatmovies.com/)
+* 🌐 **[YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)** - YouTube Streaming Subreddits
+* 🌐 **[YouTube Streaming Channels](https://rentry.co/YT-Movies)** - Specific Channels
+* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) - Free YouTube Movies / Chrome Required
+* [OpenCulture](https://www.openculture.com/freemoviesonline) - Free YouTube Movies
+* [Voleflix](https://vole.wtf/voleflix/) - Public Domain / Originals
+* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies) - Recently Uploaded Full Movies
+* [FreeGreatMovies](https://www.freegreatmovies.com/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - Curated YouTube Movies Collections
