@@ -431,7 +431,7 @@
 
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[streammovix](https://streammovix.vercel.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/movix)
+* ⭐ **[Movix](https://www.movix.site/)**, [2](https://streammovix.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.com/invite/movix)
 * ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
@@ -704,7 +704,7 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[AniSAGA](https://anisaga.org/)** - Anime / Dub / 1080p
-* ⭐ **[FireFlix](https://fireflixhd1.netlify.app/)** - Movies / TV / Anime
+* ⭐ **[FireFlix](https://fireflix.fun/)**, [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
 * ⭐ **[HDDMovies](https://hhdmovies.baby/)** - Movies / TV / Anime
 * ⭐ **[MultiMovies](https://multimovies.today)** - Movies / TV
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p

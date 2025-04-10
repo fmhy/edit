@@ -167,7 +167,7 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) / [3](https://awesomeselfhosted.netlify.app/) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://github.com/awesome-selfhosted/awesome-selfhosted) / [3](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) / [4](https://awesomeselfhosted.netlify.app/) or [Selfh.st](https://selfh.st/apps/) - Self-Hosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend

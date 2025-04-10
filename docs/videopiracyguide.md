@@ -94,7 +94,7 @@
 * [AZMovies](https://azmovies.ag/) - Movies
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
-* [FireFlix](https://fireflix.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
+* [FireFlix](https://fireflix.fun/), [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV / Anime
 * [NetMirror](https://netfree.cc/home) - Movies / TV / 720p
 * [Zoechip](https://zoechip.org/) - Movies / TV
@@ -749,7 +749,7 @@
 ## ▷ Stremio Tools
 
 * 🌐 **[Stremio Addons](https://www.stremio-addons.com/)** - Stremio Addons / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF)
-* ⭐ **[Bye Sudo](https://bye.undi.rest/)** or [Viren070's Guides](https://guides.viren070.me/stremio) - Stremio Guides 
+* ⭐ **[Bye Sudo](https://bye.undi.rest/)** or [Viren070's Guides](https://guides.viren070.me/stremio) - Stremio Guides
 * [Stremio Addon Manager](https://addon-manager.viren070.me/), [2](https://stremio-addon-manager.vercel.app/), [3](https://github.com/pancake3000/stremio-addon-manager) - Addons Manager
 * [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/) - Easy Stremio Setup
 * [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
@@ -787,7 +787,7 @@
 ## ▷ Anime Torrenting
 
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/), [3](https://nyaa.iss.ink/) - Sub / Dub
-* ⭐ **Nyaa Tools** - [TUI](https://github.com/Beastwick18/nyaa) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot), [2](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag), [2](https://nyaaapi.onrender.com/docs) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Tags](https://greasyfork.org/en/scripts/441017-nyaablue)
+* ⭐ **Nyaa Tools** - [TUI](https://github.com/Beastwick18/nyaa) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot), [3](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag), [2](https://nyaaapi.onrender.com/docs) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Tags](https://greasyfork.org/en/scripts/441017-nyaablue)
 * ⭐ **[Miru](https://miru.watch/)** / [Discord](https://discord.com/invite/Z87Nh7c4Ac) or [Migu](https://miguapp.pages.dev/) - Stream Anime Torrents
 * [AnimeTosho](https://animetosho.org/) - Sub / Dub
 * [TokyoTosho](https://www.tokyotosho.info/) - Sub
