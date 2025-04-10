@@ -771,6 +771,7 @@
 * [open-resume](https://www.open-resume.com/)
 * [novoresume](https://novoresume.com/)
 * [ResumeFromSpace](https://resumefromspace.com/)
+* [Narrativ](https://mynarrativ.com) - AI powered career storytelling tool
 
 ***
 
