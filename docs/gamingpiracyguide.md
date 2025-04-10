@@ -413,6 +413,11 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [Kour io](https://kourio.online/) - a fast-paced online multiplayer FPS Game
+* [Squaredle](https://squaredle.online/) - free daily word puzzle game
+* [Bottle Flip](https://flipbottle.org/) - Online Bottle Flipping Game
+* [Obby](https://obby.online/) - Obby Adventure Game
+* [Apple worm](https://appleworm.org/) - A Simple Puzzle Game
 
 ***
 
