@@ -707,7 +707,7 @@
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
-* [⁠Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes Theme to Match Site Appearances
+* [Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes Theme to Match Site Appearances
 * [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch Your User-Agent
 * [Chrome Mask](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) - Use Chrome-Only Sites on Firefox / [GitHub](https://github.com/denschub/chrome-mask)

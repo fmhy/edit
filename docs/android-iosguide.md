@@ -567,7 +567,7 @@
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
 * [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
 * [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
-* [⁠SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Productivity / Time Tracker
+* [SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Productivity / Time Tracker
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
 * [timeto.me](https://timeto.me/) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)

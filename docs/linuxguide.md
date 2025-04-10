@@ -408,7 +408,7 @@
 * [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool
-* [⁠iperf](https://github.com/esnet/iperf) - Network Bandwidth Test
+* [iperf](https://github.com/esnet/iperf) - Network Bandwidth Test
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [Knapsu](https://knapsu.eu/plex/) - Media Server
