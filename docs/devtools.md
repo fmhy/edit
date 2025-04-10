@@ -88,6 +88,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [VibeStack](https://www.vibestack.io/) - Curated directory of AI, design, and development products and tools.
 
 ***
 
