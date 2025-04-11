@@ -79,50 +79,34 @@
 
 ## Android Text Editors
 
-* ⭐ **[Acode](https://acode.app)** - Text Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
-* ⭐ **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text Editor
-* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text Editor
-* [Markor](https://fossdroid.com/a/markor.html) - Text Editor
+* ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode) or **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text / Code Editors
+* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editor
+* [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
 
 ### Note-Taking
 
-* ⭐ **[Obsidian](https://obsidian.md/mobile)**
-* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**
-* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Support
-* [neutriNote](https://github.com/appml/neutrinote) - Markdown / Math Support
-* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - Encrypted Note-Taking
-* [Safe Notes](https://safenotes.dev/) - Encrypted Note-Taking / [GitHub](https://github.com/keshav-space/safenotes)
-* [Quillpad](https://quillpad.github.io/) - Markdown Support / [GitHub](https://github.com/quillpad/quillpad)
-* [Joplin](https://joplinapp.org/) - Markdown Support / [GitHub](https://github.com/laurent22/joplin/)
-* [Notebook](https://www.zoho.com/notebook/mobile-app.html)
-* [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us)
-* [NotePad](https://github.com/mshdabiola/NotePad) - Customizable Note-Taking
-* [ColorNote](https://www.colornote.com/)
-* [Notally](https://github.com/OmGodse/Notally)
-* [Walling](https://walling.app/)
-* [Google Keep](https://keep.google.com/)
-* [DarkNote](https://github.com/dozy-programmer/Dark-Note)
-* [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android)
-* [Kardi Notes](https://github.com/rikodot/kardi_notes_app)
-* [Moe Memos](https://memos.moe/)
-* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking / Writing
-* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Handwritten Notes
+* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
+* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Minimalistic Note-Taking App
+* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose), [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
+* [Quillpad](https://quillpad.github.io/) / [GitHub](https://github.com/quillpad/quillpad) - Note-Taking App with Markdown Support
+* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - E2E Encrypted Note-Taking App
+* [Safe Notes](https://safenotes.dev/) / [GitHub](https://github.com/keshav-space/safenotes) - AES-256 Encrypted Note-Taking App
+* [Notebook](https://www.zoho.com/notebook/mobile-app.html), [NotePad](https://github.com/mshdabiola/NotePad), [Notally](https://github.com/OmGodse/Notally) or [Google Keep](https://keep.google.com/) - Multi-media Note-Taking Apps
+* [ColorNote](https://www.colornote.com/) - Simple / Minimalistic Note-Taking App
+* [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
+* [Moe Memos](https://memos.moe/) - Self-hosted Note-Taking App 
+* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers
+* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Note-Taking Apps for Handwritten Notes
 
 ### To-Do Apps
 
-* ⭐ **[Tasks](https://tasks.org/)** - Sync Supported
-* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)**
-* [Any.do](https://www.any.do/) - Sync Supported
-* [doable](https://doable.at/) - Sync Supported / Extensions
-* [Orgzly-revived](https://www.orgzly.com) - Sync Supported
-* [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
-* [Tasky](https://thatsmanmeet.github.io/tasky-web/)
-* [Alkaa](https://github.com/igorescodro/alkaa)
-* [Twos](https://www.twosapp.com/)
-* [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2)
-* [EverydayTasks](https://everydaytasks.jepfa.de/)
-* [Teuxdeux](https://teuxdeux.com/)
-* [Taskito](https://taskito.io/)
+* ⭐ **[Tasks](https://tasks.org/)** - Customizable To-Do App with Sync Support
+* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)** - To-Do App with Pomodoro Timer
+* [Any.do](https://www.any.do/), [Orgzly-revived](https://www.orgzly.com) or [Taskito](https://taskito.io/) - To-Do Apps with Sync Support
+* [doable](https://doable.at/) - To-Do App with Sync / Extensions Support
+* [Alkaa](https://github.com/igorescodro/alkaa), [Teuxdeux](https://teuxdeux.com/), [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2) or [Twos](https://www.twosapp.com/) - Simple To-Do Apps
+* [EverydayTasks](https://everydaytasks.jepfa.de/) - To-do App with Statistics
+
 
 ***
 
