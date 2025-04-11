@@ -344,7 +344,7 @@
 # ► Live TV / Sports
 
 ## ▷ Live TV
-
+* ⭐ **[Zingsport](https://zingsport.tv/)**, - Live TV / Sports / Live Events
 * ⭐ **[TheTVApp](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
 * ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports
 * ⭐ **[DaddyLive](https://daddylive.mp/)** or [miztv](https://miztv.shop/) - TV / Sport / [Telegram](https://t.me/dlhdlive)
