@@ -87,7 +87,6 @@
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
-* [PDF Stop](https://pdfstop.com/) - Books
 * [freepdfbook](https://freepdfbook.com/) - Books
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search
 
@@ -521,7 +520,7 @@
 * [MagDownload](https://magdownload.org/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [Lainzine](https://lainzine.org/) - Lain-Inspired Magazine
-* [Retromags](https://www.retromags.com/), [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
+* [Retromags](https://www.retromags.com/) or [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) - Retro Game Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
 * [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive

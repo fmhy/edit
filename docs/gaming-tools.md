@@ -251,21 +251,6 @@
 
 ***
 
-## ▷ Steam Store
-
-* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insights Tools
-* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
-* [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer
-* [Steam Link Dropdown](https://greasyfork.org/en/scripts/523078) - Add Piracy Site Links to Steam Store
-* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
-* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
-* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
-* [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#steam-currency-converter-note) - Steam Currency Converter
-
-***
-
 ## ▷ Client Tools
 
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - Epic / GOG / Prime Games Launcher
@@ -300,6 +285,21 @@
 * [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
+
+***
+
+## ▷ Steam Store
+
+* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insights Tools
+* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
+* [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer
+* [Steam Link Dropdown](https://greasyfork.org/en/scripts/523078) - Add Piracy Site Links to Steam Store
+* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
+* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
+* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
+* [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#steam-currency-converter-note) - Steam Currency Converter
 
 ***
 

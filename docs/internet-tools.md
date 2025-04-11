@@ -637,7 +637,7 @@
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
-* [Dictionaries](https://github.com/pnlpal/dictionariez), [Definer](https://lumetrium.com/definer/) or [phlinx](https://phlinx.com/) - Popup Dictionaries
+* [Dictionaries](https://github.com/pnlpal/dictionariez) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu

@@ -511,7 +511,7 @@
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://alexandria-library.julienc.me/search/) / [Top Posts](https://hn.lindylearn.io/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
-* [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/), [AlternativeTo Aggregator](https://alternativeto.net/news/all/) or [TechSpot](https://www.techspot.com/) - Tech News
+* [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
@@ -1004,6 +1004,7 @@
 
 ## ▷ Games
 
+* ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_store)**
 * ⭐ **[GG.deals](https://gg.deals/deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
@@ -1110,13 +1111,15 @@
 * ⭐ **[LibreOps](https://libreops.cc/)** - Open-Source Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
-* [goonlinetools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
+* [⁠ZeroKit](https://zerokit-dun.vercel.app/) - Text / Image / Social Media / Code / [Discord](https://discord.gg/XDqV2ucEpP)
+* [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [Disroot](https://disroot.org/en/#services) - Text / Social Media
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
+* [uFreeTools](https://www.ufreetools.com/en/ ) - Text / Code
 * [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
@@ -1166,6 +1169,7 @@
 * ⭐ **[Cal.com](https://cal.com/)** / [GitHub](https://github.com/calcom/cal.com)
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
+* [⁠Proton Calendar](https://proton.me/calendar) - Calendar
 * [Tweek](https://tweek.so/) - Calendar
 * [TOAST UI Calendar](http://ui.toast.com/tui-calendar) - Calendar
 * [CompassCalendar](https://www.compasscalendar.com/) - Calendar

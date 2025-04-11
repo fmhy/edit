@@ -1128,10 +1128,9 @@
 
 ### Udemy TG Channels
 
-* [UdemyRip](https://t.me/udemyrip)
-* [udemyforu](https://t.me/udemyforu)
-* [CGPERS](https://t.me/CGPERS)
-* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily)
+* [UdemyRip](https://t.me/udemyrip) - Web Development / Cybersecurity Resources
+* [Udemy FREE](https://t.me/udemyforu) - Development Resources
+* [CGPERS](https://t.me/CGPERS) - 3D Resources
 
 ***
 

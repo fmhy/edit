@@ -50,7 +50,7 @@
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Sign-Up / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
-* ⭐ **[Scira](https://scira.ai/)** - Grok 2.0 / Mistral Small 3.1 AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
+* ⭐ **[Scira](https://scira.ai/)** - Claude Sonnet 3.7 / Grok 3 / Mistral Small 3.1 / Optimus Alpha / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Sign-Up Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
 * [Hyperspace](https://hyper.space/) - P2P AI Network / No Sign-Up / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai)
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Sign-Up / [Discord](https://discord.gg/S25yW8TebZ)
@@ -260,7 +260,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** - US Only / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[VideoFX](https://labs.google/fx/tools/video-fx)** / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[PixVerse](https://pixverse.ai/)** - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Unlimited / Colab / [Discord](https://discord.gg/k5BwmmvJJU)
 * [Stable Video](https://www.stablevideo.com/)
