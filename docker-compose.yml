@@ -1,0 +1,6 @@
+services:
+  fmhy:
+    container_name: fmhy
+    image: patlukat/fmhy
+    ports:
+      - "4173:4173"

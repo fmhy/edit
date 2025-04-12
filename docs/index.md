@@ -1,11 +1,11 @@
 ---
-title: Welcome
+title: Kugelstadt
 layout: home
-description: The largest collection of free stuff on the internet!
+description: Copy of fmhy.net!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: Kugelstadt freemediaheckyeah
+  tagline: Copy of fmhy.net!
   announcement:
     title: April Updates 🌼
     link: /posts/april-2025
