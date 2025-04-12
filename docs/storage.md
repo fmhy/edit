@@ -70,7 +70,7 @@
 
 ### Privacy Based
 
-* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork 
+* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Browser with Tracking Protection
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser focused on Privacy
@@ -94,7 +94,7 @@
 * [Notebook](https://www.zoho.com/notebook/mobile-app.html), [NotePad](https://github.com/mshdabiola/NotePad), [Notally](https://github.com/OmGodse/Notally) or [Google Keep](https://keep.google.com/) - Multi-media Note-Taking Apps
 * [ColorNote](https://www.colornote.com/) - Simple / Minimalistic Note-Taking App
 * [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
-* [Moe Memos](https://memos.moe/) - Self-hosted Note-Taking App 
+* [Moe Memos](https://memos.moe/) - Self-hosted Note-Taking App
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers
 * [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Note-Taking Apps for Handwritten Notes
 
