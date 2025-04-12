@@ -108,7 +108,7 @@
 ## ▷ Free w/ Ads
 
 * ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
-* ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / [Countries](https://corporate.tubitv.com/)
+* ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / [Avaliable Countries](https://corporate.tubitv.com/)
 * ⭐ **[Plex](https://watch.plex.tv/)** - Movies / TV / 720p
 * ⭐ **[Pluto](https://pluto.tv/)** - Movies / TV / 720p
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
@@ -215,26 +215,26 @@
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[DramaGo](https://dramago.in/)** - TV / Movies
-* ⭐ **[DramaCool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - TV / Movies
-* ⭐ **[ViewAsian](https://www.viewasian.org/)** - TV / Movies
+* ⭐ **[DramaGo](https://dramago.in/)** - Asian Drama / TV / Movies
+* ⭐ **[DramaCool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - Asian Drama / TV / Movies
+* ⭐ **[ViewAsian](https://www.viewasian.org/)** - Asian Drama / TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
-* [KissKH](https://kisskh.co/) - TV / Movies
-* [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - TV / Movies
+* [KissKH](https://kisskh.co/) - Asian Drama / TV / Movies
+* [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - Asian Drama / TV / Movies
 * [KissKH.org](https://kisskh.run/), [2](https://kisskh.net.pl/) - TV
-* [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
-* [RiveStream](https://rivestream.org/kdrama) - TV / Movies
-* [DramaFire](https://dramafire.com.pl/) - TV / Movies
-* [AsianCrush](https://www.asiancrush.com/) - TV / Movies
-* [AsianSubs](https://asiansubs.com/) - TV / Movies
-* [KissAsian](https://kissasian.video/) - TV / Movies
-* [KissAsianTV](https://kissasiantv.blog/) - TV / Movies
-* [AsiaFlix](https://asiaflix.net/) - TV / Movies
-* [Dramacool.org](https://dramacooll.com.de/) - TV / Movies
-* [DramaCool.bg](https://dramacool.bg/) - TV / Movies
-* [DramaCool9](https://dramacools9.cam/) - TV / Movies
-* [dramacool](https://dramacool.com.cv/), [2](https://asianc.org.es/) - TV / Movies
-* [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
+* [KDramaHood](https://kdramahood.com/home2/) - Asian Drama / TV / Movies
+* [RiveStream](https://rivestream.org/kdrama) - Korean Drama / TV / Movies
+* [DramaFire](https://dramafire.com.pl/) - Asian Drama / TV / Movies
+* [AsianCrush](https://www.asiancrush.com/) - Asian Drama / TV / Movies
+* [AsianSubs](https://asiansubs.com/) - Asian Drama / TV / Movies
+* [KissAsian](https://kissasian.video/) - Asian Drama / TV / Movies
+* [KissAsianTV](https://kissasiantv.blog/) - Asian Drama / TV / Movies
+* [AsiaFlix](https://asiaflix.net/) - Asian Drama / TV / Movies
+* [Dramacool.org](https://dramacooll.com.de/) - Asian Drama / TV / Movies
+* [DramaCool.bg](https://dramacool.bg/) - Asian Drama / TV / Movies
+* [DramaCool9](https://dramacools9.cam/) - Asian Drama / TV / Movies
+* [dramacool](https://dramacool.com.cv/), [2](https://asianc.org.es/) - Asian Drama / TV / Movies
+* [OnDemandChina](https://www.ondemandchina.com/) - Asian Drama / TV / Movies
 
 ***
 
