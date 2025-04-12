@@ -216,7 +216,7 @@
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DramaGo](https://dramago.in/)** - TV / Movies
-* ⭐ **[DramaCool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - TV / Movies
+* ⭐ **[DramaCool](https://dramacool.ba/)**, [2](https://dramacool.tools/) - TV / Movies
 * ⭐ **[ViewAsian](https://www.viewasian.org/)** - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [KissKH](https://kisskh.co/) - TV / Movies
