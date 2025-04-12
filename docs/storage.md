@@ -6,58 +6,74 @@
 
 ## 3D Modeling Apps
 
-* ⭐ **[Blender](https://www.blender.org/)**
+* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
-* ⭐ **[Shap-e](https://github.com/openai/shap-e)**
-* [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
-
-[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](https://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/), [Charmed](https://charmed.ai/), [TRELLIS](https://trellis3d.github.io/) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) / [GitHub](https://github.com/microsoft/TRELLIS)
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects based on Text / Image Prompts
+* [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
+* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [Wings 3D](https://www.wings3d.com/) - Cross-platform 3D Modeling App
+* [JustSketchMe](https://justsketch.me/) - Cross-platform 3D Pose Reference Tool
+* [Vectary](https://www.vectary.com/) or [Womp](https://beta.womp.com/) - 3D Modeling in Browser
 
 ### CAD Engineering
 
-* [ChokokuCAD](https://github.com/itta611/ChokokuCAD) - CAD Modeling
-* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling
-* [Tinkercad](https://www.tinkercad.com/) - CAD Modeling
-* [FreeCAD](https://github.com/realthunder/FreeCAD/), [2](https://www.freecad.org/) - CAD Modeling
-* [BRL-CAD](https://brlcad.org/) - CAD Modeling
-* [LibreCAD](https://librecad.org/) - CAD Modeling
-* [OpenSCAD](https://openscad.org/) or [Mayo](https://github.com/fougue/mayo) - 3D CAD Modelers
-* [QCAD](https://www.qcad.org/en/) - 2D CAD Modeler
+* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling with Real-time Collaboration
+* [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
+* [FreeCAD](https://www.freecad.org/) / [GitHub](https://github.com/FreeCAD/FreeCAD) - Parametric CAD Modeling
+* [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-platform CSG CAD Modeling
+* [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
+* [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 
 ***
 
 ## 3D Models
 
-* ⭐ **[Thingiverse](https://www.thingiverse.com/)**
-* ⭐ **[Printables](https://www.printables.com/)**
-
-[Clara.io](https://clara.io/library), [MM3D](https://clover.moe/mm3d/), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [CGdownloads](https://cgdownload.ru/), [Pack 3D Models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [Archive3D](https://free3d.io/), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [Archibase](https://archibase.co/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/), [PolyHaven](https://polyhaven.com/), [blendswap](https://www.blendswap.com/), [thebasemesh](https://www.thebasemesh.com/), [VFXmed](https://www.vfxmed.com/)
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
+* ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
+* [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
+* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-up Required
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-up Required
+* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-up Required
+* [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
+* [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
+* [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
+* [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
+* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
+* [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
+* [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
+* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
 
 ***
 
 ## Ambient Sound Mixers
 
-[myNoise](https://mynoise.net/), [ambiphone](https://ambiph.one/), [Moodist](https://moodist.app/), [Moodli](https://www.moodil.com/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [CalmyLeon](https://calmyleon.com/), [Noises Online](https://noises.online/), [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/), [A Soft Murmur](https://asoftmurmur.com/), [EcoSounds](https://en.ecosounds.net/), [VirtOcean](https://virtocean.com/), [ASMRion](https://asmrion.com/), [Defonic](https://defonic.com), [IMissTheOffice](https://imisstheoffice.eu/), [Homesick](https://scoreascore.com/homesick), [Click Bath](https://hamishlang.github.io/clickbath/), [imissmycafe](https://imissmycafe.com/), [coffitivity](https://coffitivity.com/)
+* ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
+* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
+* [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
+* [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
+* [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
+* [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
+* [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
 
 ***
 
 ## Android Browsers
 
-* ⭐ **[Brave](https://brave.com/)** - Adblocking Browser
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
-* ⭐ **[Firefox](https://www.mozilla.org/)** - [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
-* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
-
-[Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+* ⭐ **[Brave](https://brave.com/)** - Chromium based Browser with Built-in Adblock
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
+* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-browser Updater
+* [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) or [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp) - Light and Fast Browsers
+* [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android) - Plant Trees while Browsing
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - Customizable Browsers based on Firefox
 
 ### Privacy Based
 
-* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)**
-* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [Brave](https://brave.com/) - Chromium Based Browser
+* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork 
+* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-routed Browser
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Browser with Tracking Protection
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser focused on Privacy
 
 ***
 
@@ -443,6 +459,7 @@
 ### Static Page Hosting
 
 * ⭐ **[surge](https://surge.sh/)**
+* ⭐ **[Hugo](https://gohugo.io/)**
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
@@ -579,7 +596,7 @@
 * [IG Helper](https://greasyfork.org/en/scripts/404535) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
 * [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/jmpdoloapmhninneneekkepmkpmpkhjn) - Chrome Extensions
 
-[Pixnoy](https://www.pixnoy.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpor.io/), [GreatFon](https://greatfon.io/), [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instaloader](https://instaloader.github.io/) / [GitHub]https://github.com/instaloader/instaloader), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
+[Pixnoy](https://www.pixnoy.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpor.io/), [GreatFon](https://greatfon.io/), [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instaloader](https://instaloader.github.io/) / [GitHub](https://github.com/instaloader/instaloader), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
 
 ***
 
@@ -1111,10 +1128,9 @@
 
 ### Udemy TG Channels
 
-* [UdemyRip](https://t.me/udemyrip)
-* [udemyforu](https://t.me/udemyforu)
-* [CGPERS](https://t.me/CGPERS)
-* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily)
+* [UdemyRip](https://t.me/udemyrip) - Web Development / Cybersecurity Resources
+* [Udemy FREE](https://t.me/udemyforu) - Development Resources
+* [CGPERS](https://t.me/CGPERS) - 3D Resources
 
 ***
 
@@ -1138,7 +1154,6 @@
 
 ## Website Creators
 
-* ⭐ **[Hugo](https://gohugo.io/)**
 * ⭐ **[vitepress](https://vitepress.dev/)**
 
 [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus), [Docsify](https://docsify.js.org/), [Odie](https://odie.us/)
@@ -1147,26 +1162,30 @@
 
 ## Website Templates
 
-* [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
-
-[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/)
+* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
+* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
+* [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
+* [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
+* [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
+* [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 
 ***
 
 ## WordPress Themes
 
-[gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [themesplugins](https://themesplugins.club/), [wpthemesandplugins](https://t.me/wpthemesandplugins)
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Signup required
+* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Signup Required
+* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Telegram
 
 ***
 
 ## YouTube Movies
 
-* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) - Chrome Required
-* [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - YouTube Streaming Subs
-* [OpenCulture](https://www.openculture.com/freemoviesonline)
-* [YouTube Streaming Channels](https://rentry.co/YT-Movies)
-* [Voleflix](https://vole.wtf/voleflix/)
-* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies)
-* [MoviesFoundOnline](https://moviesfoundonline.com/)
-* [FREEMOVIESYT](https://www.youtube.com/@FREEMOVIESYT/)
-* [FreeGreatMovies](https://www.freegreatmovies.com/)
+* 🌐 **[YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)** - YouTube Streaming Subreddits
+* 🌐 **[YouTube Streaming Channels](https://rentry.co/YT-Movies)** - Specific Channels
+* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) - Free YouTube Movies / Chrome Required
+* [OpenCulture](https://www.openculture.com/freemoviesonline) - Free YouTube Movies
+* [Voleflix](https://vole.wtf/voleflix/) - Public Domain / Originals
+* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies) - Recently Uploaded Full Movies
+* [FreeGreatMovies](https://www.freegreatmovies.com/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - Curated YouTube Movies Collections

@@ -230,7 +230,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
         link: '/android-iosguide'
       },
       {
-        text: '<span class="i-twemoji:penguin"></span> Linux / MacOS',
+        text: '<span class="i-twemoji:penguin"></span> Linux / macOS',
         link: '/linuxguide'
       },
       {
