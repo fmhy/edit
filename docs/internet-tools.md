@@ -344,7 +344,7 @@
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * [bypass.link](https://bypass.link/) - Bypass Link Shorteners
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
-* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
 * [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
 * [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
@@ -383,6 +383,9 @@
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [PicSee](https://picsee.io/) - `psee.io/5pye68`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
+* [u.to](https://u.to/) - `u.to/jc85Ig`
+* [f1.tf](https://f1.tf/) - `f1.tf/hMbn`
+* [ShortURL](https://shorturl.at/) - `shorturl.at/ioOk0`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`

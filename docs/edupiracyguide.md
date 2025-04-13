@@ -813,6 +813,7 @@
 ## ▷ Korean
 
 * ⭐ **[Learn Korean](https://discord.gg/e3H9Pde)** - Korean Learning Discord
+* ⭐ **[⁠LetsLearnHangul](http://letslearnhangul.com/)** - Hangul Learning / Practice
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
@@ -933,7 +934,7 @@
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [LightOJ](https://lightoj.com/) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
+* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [code.golf](https://code.golf/), [LightOJ](https://lightoj.com/) or [Code Golf](https://codegolf.stackexchange.com/) - Programming / Coding Challenges
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
@@ -1300,6 +1301,7 @@
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
+* [Nerd Café](https://nerdcafe.org/) - IGCSE / Alvl Community / Notes ⁠[Discord](https://discord.gg/hbYcYmT3CJ)
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel

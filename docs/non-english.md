@@ -13,6 +13,7 @@
 * [Dawin](https://www.dawin.io/) - Markdown Editor
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
+* [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل
@@ -148,7 +149,7 @@
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [/r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
+* [Chine Firewall Test](https://www.dotcom-tools.com/china-firewall-test) or [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
 * [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -645,7 +646,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://m.vegamovies.ms/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)

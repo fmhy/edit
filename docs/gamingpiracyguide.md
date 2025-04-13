@@ -41,6 +41,7 @@
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
+* [⁠Anti Denuvo Sanctuary](https://discord.com/invite/D4fYBbfzGG) - Free Denuvo Games
 * [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
 
 ***
@@ -250,6 +251,7 @@
 * [AliceISO](https://alice.al/) - ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
+* [Axekin](https://axekin.fr/) - ROMs / Use Translator / [Discord](https://discord.com/invite/emulationfr)
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more
 * [Edge Emulation](https://edgeemu.net/) - ROMs
@@ -766,7 +768,7 @@
 
 ## ▷ Word Games
 
-* 🌐 **[Wordleverse](https://wordleverse.net/)**, [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
+* 🌐 **[Wordleverse](https://wordleverse.net/)**, [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)

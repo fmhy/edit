@@ -137,6 +137,7 @@
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Trae](https://www.trae.ai/) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI / [Discord](https://discord.gg/cline)
+* [Cursor](https://rentry.co/FMHYBase64#cursor) - Coding AI
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
@@ -189,7 +190,7 @@
 * 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) - Prompting Guides
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) - Prompting Guides
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) - AI Jailbreak Community
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory

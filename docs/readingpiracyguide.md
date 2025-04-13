@@ -848,8 +848,9 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
+* ⭐ **[Five Books](https://fivebooks.com/)** - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
@@ -859,11 +860,10 @@
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
-* [Five Books](https://fivebooks.com/) - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits / [Downloader](https://greasyfork.org/en/scripts/514877)
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
-* [BookWyrm](https://bookwyrm.social/) - Book Tracking Platform
+* [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
@@ -891,7 +891,7 @@
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Glimbay](https://glimbay.netlify.app/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
