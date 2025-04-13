@@ -25,6 +25,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
 
+* *"I love this website so much. I'm a current college student and the resources offered on this page have eased my stress in terms of finding textbooks and readings - thank you!"*
+
 * *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
 
 * *"Thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
@@ -34,6 +36,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 * *Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows.*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
+
+* *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*
 
 * *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
 
@@ -48,6 +52,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 * *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
 
 * *"I love FMHY's wiki, to the point I can't use the internet without it."*
+
+* *"In this age of the internet, search engines are getting worse to find stuff we searching for. This site has helped me not only the when I can't find something on search engines, but also to find new stuff I didn't know existed. I go here first before I consult google. Thank you and everyone for your hard work. Don't loose this site, no matter the cost."*
 
 * *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on FMHY really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*
 
