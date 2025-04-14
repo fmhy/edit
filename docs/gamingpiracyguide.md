@@ -750,7 +750,7 @@
 * [GuessWhereYouAre](https://guesswhereyouare.com/) - Free GeoGuessr Alt w/ Multiplayer
 * [OpenGuessr](https://openguessr.com/) - Free GeoGuessr Alt w/ Multiplayer
 * [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alt
-* [⁠FreeGuessr](https://freeguessr.com/) - Free GeoGuessr Alt
+* [FreeGuessr](https://freeguessr.com/) - Free GeoGuessr Alt
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [Tradle](https://games.oec.world/en/tradle/) - Guess Countries by their Exports
