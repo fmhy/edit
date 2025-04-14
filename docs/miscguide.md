@@ -1062,7 +1062,7 @@
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
 * [Make it Yourself](https://makeityourself.org/) / [Video](https://youtu.be/TSFJ2OH1PQA) or [Make:](https://makezine.com/) - DIY Projects
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
-* [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
+* [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/),[Random Generator](https://randomgenerator.pro) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
