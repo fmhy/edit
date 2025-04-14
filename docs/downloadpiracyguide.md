@@ -189,6 +189,7 @@
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [Vintage Software Collection](https://rentry.co/fmhybase64#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software
+* [barcode-maker.com](https://barcode-maker.com) - Free Online Barcode & QR Code Generator
 
 ***
 
