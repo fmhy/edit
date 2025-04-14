@@ -502,7 +502,7 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
+* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://dc.mcdoc.site/) / [GitHub](https://github.com/openm-project/mcdoc.github.io)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)** or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
