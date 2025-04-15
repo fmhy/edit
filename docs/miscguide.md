@@ -17,7 +17,7 @@
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [HypeStat](https://hypestat.com/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
@@ -138,7 +138,6 @@
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/), [ManageMeals](https://managemeals.com/), [Mela](https://mela.recipes/) or [Pestle](https://pestlechef.app/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
-* [cookEbooks](https://cookebooks.info/) - Cookbooks
 * [MyFridgeHome](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [FoodSubs](https://foodsubs.com/) - Ingredient Substitutions Database
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
@@ -159,6 +158,7 @@
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
+* [cookEbooks](https://cookebooks.info/) - Cookbooks
 
 ***
 
@@ -219,7 +219,6 @@
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
-* [GrassCity](https://forum.grasscity.com/) - Marijuana Forum
 
 ***
 
@@ -295,7 +294,7 @@
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [NukeSim](https://www.nukesim.com/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
 ***
@@ -336,7 +335,7 @@
 
 ## ▷ Climate / Weather
 
-* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
+* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
 * [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
@@ -816,6 +815,7 @@
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
+* [ZeroTaxJobs](https://zerotaxjobs.com/) - Find Developer Jobs in Dubai / Saudi Arabia
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
@@ -1344,6 +1344,7 @@
 * [Our World of Text](https://ourworldoftext.com/) or [TextWall](https://tw.2s4.me/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
+* [3DTuning](https://www.3dtuning.com/) - Build 3D Cars
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators
 * [Townscaper](https://oskarstalberg.com/Townscaper/) - Town Building Sandbox
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators

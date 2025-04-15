@@ -434,8 +434,9 @@
 # ► Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
+* ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Services
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
 * [Delta Chat](https://delta.chat/en/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
@@ -532,10 +533,6 @@
 * [33mail](https://33mail.com/) - Email Aliasing
 * [TrashMail](https://trashmail.com/) - Email Aliasing
 * [Adguard Mail](https://adguard-mail.com/) - Email Aliasing
-
-***
-
-## ▷ [Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)
 
 ***
 

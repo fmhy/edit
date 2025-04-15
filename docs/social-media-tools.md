@@ -95,7 +95,7 @@
 ## ▷ Client Customization
 
 * 🌐 **[Client Themes](https://betterdiscord.app/themes)** or [Discord Themes](https://github.com/topics/discord-theme) - Client Theme Index
-* ⭐ **[Discohook](https://discohook.org/)**, [2](https://discohook.app/) / [Discohook Utils](https://dutils.shay.cat/), [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
+* ⭐ **[Discohook](https://discohook.app/)** / [Discohook Utils](https://dutils.shay.cat/), [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
@@ -149,6 +149,7 @@
 ## ▷ Server / Bot Indexes
 
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
+* [UnFocused](https://www.unfocused.org/) - Server Index / [Discord](https://discord.com/invite/unfocused)
 * [DISBOARD](https://disboard.org/) - Server Index
 * [Discadia](https://discadia.com/) - Server / Bot Index
 * [Discords.com](https://discords.com/) - Server / Bot Index
@@ -294,7 +295,7 @@
 
 ## ▷ Telegram File Tools
 
-* ⭐ **[Teldrive](https://teldrive-docs.pages.dev/)** - File Manager / Uploader / [GitHub](https://github.com/tgdrive/teldrive)
+* ⭐ **[Teldrive](https://teldrive-docs.pages.dev/)** - File Manager / Uploader / [Discord](https://discord.com/invite/8QAeCvTK7G) / [GitHub](https://github.com/tgdrive/teldrive)
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - Google Drive Upload Bots

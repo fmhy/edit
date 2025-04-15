@@ -13,7 +13,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / Signup Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** / [Invites](https://www.myanonamouse.net/inviteapp.php)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* [Bookracy](https://bookracy.ru/), [2](https://bookracy.org/), [3](https://lite.bookracy.org/) / [Download Buttons](https://greasyfork.org/en/scripts/514877) / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
+* [Bookracy](https://bookracy.ru/), [2](https://bookracy.org/), [3](https://lite.bookracy.org/) / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * [Liber3](https://liber3.eth.limo/)
 * [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use Adblocker
@@ -768,7 +768,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://searchthearxiv.com/), [2](https://papermatch.mitanshu.tech/) / [Chatbot](https://www.alphaxiv.org/), [2](https://explainarxiv.org/), [3](https://github.com/evanhu1/talk2arxiv) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
-* ⭐ **[Nexus search](https://t.me/nexus_search/94)** - Science / Articles
+* ⭐ **[Nexus Search](https://t.me/nexus_search/214)** - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDoc](https://idoc.pub/) - Document Search

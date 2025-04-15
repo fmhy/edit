@@ -620,7 +620,7 @@
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
-* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Face Swapper](https://faceswapper.ai/), [face-swap](https://face-swap.io/), [facy.ai](https://facy.ai/swap-face-ai/photo), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
+* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Face Swapper](https://faceswapper.ai/), [face-swap](https://face-swap.io/), [FaceSwapVideo](https://faceswapvideo.io/), [facy.ai](https://facy.ai/swap-face-ai/photo), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
@@ -752,7 +752,7 @@
 
 * ⭐ **[PixVid](https://pixvid.org/)** - 32MB / Forever
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
+* ⭐ **[Catbox](https://catbox.moe/)** or [uguu](https://uguu.se/) - 200MB / Forever / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Sign-Up Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever

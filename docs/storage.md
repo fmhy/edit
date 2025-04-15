@@ -362,7 +362,7 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
-* [NextDNS](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
+* [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
@@ -799,6 +799,7 @@
 * [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
 * [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
 * [BandMusic PDF Library](https://bandmusicpdf.org/) - Golden Age Band Music Sheets
+* [Clara](https://clara.imslp.org/) - Classical Music Sheets
 * [A Collection of Christmas Carols](https://acollectionofchristmascarols.com/) - Christmas Carol Sheet Music
 * [themorgan](https://www.themorgan.org/music) or [Silent Film Archive](https://www.sfsma.org/) - Music Manuscripts
 * [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts

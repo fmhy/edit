@@ -649,7 +649,7 @@
 * ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
-* ⭐ **[OlaMovies](http://app2.olamovies.download/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
+* ⭐ **[OlaMovies](https://olamovies.help/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://modlist.in/?type=telegram) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
@@ -831,7 +831,6 @@
 # ► Japanese / 日本語
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
-* [lit.link](https://lit.link/) - Link in Bio Site
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker

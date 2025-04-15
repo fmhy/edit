@@ -36,7 +36,7 @@
 * [SambaNova](https://sambanova.ai/) - Deepseek-R1 / Qwen QwQ-32B / DeepSeek-V3-0324 / Multiple Chatbots / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
-* [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
+* [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
 * [MiniMax AI](https://chat.minimax.io/) - Deepseek-R1 / MiniMax-Text-01 Chatbot w/ Large Token Context Window / [GitHub](https://github.com/MiniMax-AI/MiniMax-01)
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
@@ -234,6 +234,7 @@
 * [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds / [GitHub](https://github.com/fixie-ai/thefastest.ai)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
+* [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - VLM Benchmark Leaderboard Aggregator 
 * [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
 
 ***
