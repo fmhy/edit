@@ -855,6 +855,7 @@
 * [WellFound](https://wellfound.com/) - Find Employees for Startups
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) or [Haystack](https://thehaystackapp.com/) - Business Cards
+* [Ad Swipe File](https://adswipefile.com/) - Free access to 22,423+ proven ads!
 
 ***
 
