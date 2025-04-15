@@ -51,7 +51,6 @@
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
-* [dump.li](https://dump.li/paste) - Markdown Pastebin
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting

@@ -745,7 +745,6 @@
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Sign-Up Required
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
-* [dump.li](https://dump.li/) - 10MB / Forever
 
 ***
 
