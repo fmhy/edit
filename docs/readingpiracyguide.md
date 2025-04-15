@@ -422,7 +422,6 @@
 * [Webtoon](https://www.webtoons.com/)
 * [Toonily](https://toonily.com/)
 * [Like Manga](https://likemanga.in/)
-* [Bingeflex Manga](https://bingeflex.vercel.app/manga)
 * [Wuxia World](https://wuxiaworld.site/)
 * [Zero Scans](https://zscans.com/)
 * [AsuraScansFree](https://asurascansfree.com/)
