@@ -124,6 +124,7 @@
 * [Shimmer](https://github.com/collidingScopes/shimmer) - Oscillating Wave Images
 * [CollidingScopes](https://github.com/collidingScopes/collidingScopes.github.io) - Kaleidoscope Images
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
+* [AI Ghibli](https://ai-ghibli.com/) - Transform Your Photos to Studio Ghibli Art Style
 
 ***
 
