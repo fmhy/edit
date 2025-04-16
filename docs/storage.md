@@ -635,6 +635,7 @@
 
 ## LibGen Mirrors
 
+* https://librarygenesis.net/ - site list
 * https://libgen.rs/ - mirror
 * https://libgen.is/ - mirror
 * https://libgen.st/ - mirror
