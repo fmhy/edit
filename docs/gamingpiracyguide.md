@@ -381,6 +381,7 @@
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* [Games-Hub.top](https://games-hub.top/) - Online free games
 * [Minecraft Classic](https://classic.minecraft.net/) - Browser Minecraft
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [The Circle](https://the-circle.app/) - Dodge Circles
