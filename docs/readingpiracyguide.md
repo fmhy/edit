@@ -355,9 +355,7 @@
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomic.com/)
-* [ComicsOnlineFree](https://comiconlinefree.me/)
 * [Read Comics Online](https://readcomicsonline.ru/)
-* [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
@@ -407,7 +405,6 @@
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/), [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
 * [MangaPark](https://mangapark.net/) / [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
-* [MangaHaven](https://mangahaven.net/)
 * [Rive Manga](https://rivestream.org/manga)
 * [Freek](https://freek.to/explore/manga)
 * [MangaReader](https://mangareader.to/) / [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
@@ -423,8 +420,6 @@
 * [Toonily](https://toonily.com/)
 * [Like Manga](https://likemanga.in/)
 * [Wuxia World](https://wuxiaworld.site/)
-* [Zero Scans](https://zscans.com/)
-* [AsuraScansFree](https://asurascansfree.com/)
 * [Manhuafast](https://manhuafast.com/)
 * [Flone Scans](https://sweetmanhwa.online/) / [Discord](https://discord.gg/jrsuS34YXF)
 * [Kaliscan](https://kaliscan.io/home)
@@ -845,21 +840,18 @@
 
 ***
 
-# ► Tracking / Discovery
+# ► Tracking / Database
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List / [Downloader](https://greasyfork.org/en/scripts/514877)
-* ⭐ **[Five Books](https://fivebooks.com/)** - Curated Book List / [Downloader](https://greasyfork.org/en/scripts/514877)
-* ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Releases
-* [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
-* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
-* [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits / [Downloader](https://greasyfork.org/en/scripts/514877)
+* [listal](https://www.listal.com/) - Book Database
+* [Books Search](https://books-search.typesense.org/) - Book Database
+* [ISFDB](https://isfdb.org/) - Speculative Fiction
+* [nooSFere](https://www.noosfere.org/) - Science Fiction
+* [Romance.io](https://www.romance.io/) - Romance Database
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
@@ -867,6 +859,21 @@
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
+* [rate.house](https://rate.house/) - Media Tracker
+* [libib](https://www.libib.com/) - Desktop Media Catalog
+
+***
+
+## ▷ Curated Recommendations
+
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List 
+* ⭐ **[Five Books](https://fivebooks.com/)** - Curated Book List 
+* ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
+* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
+* [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
+* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
+* [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits 
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
@@ -877,7 +884,7 @@
 * [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
-* [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations / [Downloader](https://greasyfork.org/en/scripts/514877)
+* [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations 
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
@@ -885,11 +892,6 @@
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
-* [listal](https://www.listal.com/) - Book Database
-* [Books Search](https://books-search.typesense.org/) - Book Database
-* [ISFDB](https://isfdb.org/) - Speculative Fiction
-* [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Romance.io](https://www.romance.io/) - Romance Database
 * [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
@@ -905,8 +907,6 @@
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [vndb](https://vndb.org/) - Visual Novels
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
-* [rate.house](https://rate.house/) - Media Tracker
-* [libib](https://www.libib.com/) - Desktop Media Catalog
 
 ***
 
