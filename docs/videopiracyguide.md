@@ -384,7 +384,7 @@
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
 * [TitanTV](https://titantv.com/) - Live TV Listings
-
+* [ZingTV](https://zingsport.tv/) - Live TV / Live Sport
 ***
 
 ## ▷ Live Sports
