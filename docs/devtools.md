@@ -88,6 +88,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [Zuzia.app](https://zuzia.app) - AI-powered server monitoring and task automation for Linux and VPS.
 
 ***
 
