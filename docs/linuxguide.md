@@ -53,8 +53,8 @@
 * [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)
-* [Pkgs](https://pkgs.org/) / [Repology](https://repology.org/)
 * [Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
+* [Pkgs](https://pkgs.org/) - Linux + Unix Packages / [Repology](https://repology.org/)
 
 ***
 
