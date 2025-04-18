@@ -705,9 +705,6 @@
 * [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Peacock](https://github.com/thepeacockproject/Peacock) - Hitman World of Assassination Server Replacement
-* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
-* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
-* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
@@ -739,14 +736,17 @@
 
 ***
 
-## ▷ ARPG Tools
+## ▷ ARPG / MMORPG Tools
 
 * 🌐 **[Grim Tools](https://www.grimtools.com/)** - Grim Dawn Tools
 * 🌐 **[Last Epoch Tools](https://www.lastepochtools.com/)** - Last Epoch Tools
 * ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides
 * [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
-* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
 * [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
+* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
+* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
+* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 
 ***
 
