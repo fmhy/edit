@@ -22,6 +22,7 @@
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
+* [Storyy](https://storyy.co/) - A Content Team In Your Pocket
 
 ***
 
