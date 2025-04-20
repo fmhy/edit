@@ -6,7 +6,7 @@
 
 # ► AI Chatbots
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal / confidential files or information to any cloud AI, as many services will train on your questions or code. Remember to use use throwaway emails or [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for bots.
+* **Note** - Keep in mind it's **never** a good idea to upload personal / confidential files or information to any cloud AI, as many train on your questions or code. Remember to use throwaway emails or [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for bots.
 
 ***
 
