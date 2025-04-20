@@ -707,6 +707,7 @@
 * ⭐ **[MultiMovies](https://multimovies.today)** - Movies / TV
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
+* [Anime World India](https://animeworld.co.in/) - Anime
 * [9xmovies](https://9xmovies.fund/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -814,6 +815,7 @@
 * [CB01](https://cb01new.win/) - Movies / TV
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [AnimeUnity](https://www.animeunity.so/) - Anime
+* [Anime Unity](https://www.animeunity.to/) - Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
@@ -843,6 +845,7 @@
 
 ## ▷ Downloading / ダウンロード
 
+* ⭐ **[TheMoeWay](https://learnjapanese.moe/)** - Japanese Media / [Discord](https://discord.gg/nhqjydaR8j)
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
 * [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines / NSFW / 1080p
 * [jpddl](https://jpddl.com/) - Manga / Raw Anime / Music / Drama / 1080p

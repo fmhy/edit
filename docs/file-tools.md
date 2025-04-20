@@ -343,7 +343,6 @@
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited with Account) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filelu-warning)
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
@@ -396,6 +395,7 @@
 * [FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
+* [FileLu](https://filelu.com/) - 10GB / Forever / **[Expiry Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filelu-warning)**
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
 * [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Account Required for Sharing
@@ -428,7 +428,6 @@
 ## ▷ Google Drive Tools
 
 * ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
-* ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * [Any File to Google Drive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to Google Drive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via Google Drive
 * [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver

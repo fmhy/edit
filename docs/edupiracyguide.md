@@ -298,6 +298,7 @@
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
+* [AnimeOutline](https://www.animeoutline.com/) - Anime / Manga Drawing Tutorials
 * [Design Tuts](https://t.me/designfreetuts) - Design Tutorials
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
@@ -308,6 +309,7 @@
 * [Paintable](https://paintable.cc/) - Digital Art Tutorials
 * [Pedro's Pixel Art Tutorials](https://saint11.art/blog/pixel-art-tutorials/) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
 * [MetPublications](https://www.metmuseum.org/met-publications/all) - Art Learning Books
+* [DrawingNow](https://www.drawingnow.com/) - Learn to Draw
 * [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists

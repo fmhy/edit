@@ -74,6 +74,7 @@
 * [SoaPy](https://soapy.to/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use Throwaway Gmail / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
+* [Netplex](https://netplex.site), [2](https://netplex-v2.pages.dev), [3](https://netplex.pages.dev) - Movies / TV / Anime / [Telegram](https://t.me/+8FCyO7sCQdZkOGZl)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
@@ -95,7 +96,6 @@
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
 * [FireFlix](https://fireflix.fun/), [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV / Anime
-* [NetMirror](https://netfree.cc/home) - Movies / TV / 720p
 * [Zoechip](https://zoechip.org/) - Movies / TV
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
@@ -673,7 +673,7 @@
 
 ## ▷ Drives / Directories
 
-* ⭐ **[StarK ClouD](https://rentry.co/FMHYBase64#stark-cloud)** - Movies / TV / 4K / [Telegram](https://t.me/starkmediahub)
+* ⭐ **[Scloud](https://rentry.co/FMHYBase64#scloud)** - Movies / TV / 4K / [Telegram](https://t.me/scloudmediahub)
 * ⭐ **[PK Movies](https://rentry.co/FMHYBase64#pk-movies)** - Movies / TV / Anime
 * [111477](https://rentry.co/FMHYBase64#directory-111477) - Movies / TV / Anime / [Discord](https://discord.com/invite/hUKDJkKB)
 * [Vadapav](https://rentry.co/FMHYBase64#vadapav) - Movies / TV
@@ -919,7 +919,7 @@
 * [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [Tero Subtitler](https://www.uruworks.net/), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Subtitle Workshop](https://sourceforge.net/projects/subtitle-workshop-classic/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editors
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
-* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
+* [Subshifter](https://subshifter.bitsnbites.eu/), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [WithSubtitles](https://withsubtitles.com/), [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator), [Vibe](https://thewh1teagle.github.io/vibe/) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers
 * [TranslatesSubtitles](https://translatesubtitles.com/), [SRT AI Translator](https://github.com/passthesh3ll/srt-ai-translator) or [GPTSubtitler](https://gptsubtitler.com/) - Translate Subtitles

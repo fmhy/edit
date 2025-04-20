@@ -599,7 +599,7 @@
 * [SecondHandSongs](https://secondhandsongs.com/), [RemixSearch](https://remixsearch.net/) or [WhoSampled](https://www.whosampled.com/) - Cover / Remix Databases
 * [SoundtrackTracklist](https://soundtracktracklist.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
-* [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
+* [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/), [Stage48](http://stage48.net/wiki/index.php/Main_Page) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer

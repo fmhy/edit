@@ -476,7 +476,7 @@
 * [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
-b* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 
 ***
 
@@ -982,7 +982,7 @@ b* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.r
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
+* [sven dpi](https://www.sven.de/dpi/) or [screensiz.es](https://screensiz.es/) - Screen / Monitor Size Comparisons
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [/r/Headphones Guide](https://sites.google.com/view/quipa/assistants), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://crinacle.com/) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
@@ -1146,6 +1146,7 @@ b* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.r
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
+* [⁠Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
 * [Timer](https://klaster1.github.io/timer-5) - Time Tracker
 * [timebleed](https://timebleed.com/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
@@ -1508,6 +1509,7 @@ b* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.r
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
+* [Star Wars ASCII Animation](https://asciimation.co.nz/)
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links
