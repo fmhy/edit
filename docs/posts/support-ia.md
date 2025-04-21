@@ -9,9 +9,7 @@ prev: false
 footer: true
 ---
 
-<Post authors="Chris Freeland" />
-
-The Internet Archive needs your help.
+<Post authors="" />
 
 A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding **$700 million** for our work preserving and providing access to historical 78rpm records. These fragile, obsolete discs hold some of the earliest recordings of a vanishing American culture. But this lawsuit goes far beyond old records. It’s an attack on the Internet Archive itself.
 
