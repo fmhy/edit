@@ -1067,6 +1067,8 @@
 
 ## Text Adventures
 
+* Note - Text Adventures games (especially oldschool) are much easier to figure out with the help of AI chatbots. Theres are also usually guides online if you get stuck.
+
 * 🌐 **[IFDB](https://ifdb.org/)** or [IFArchive](https://www.ifarchive.org/) - Game Indexes
 * 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
 
