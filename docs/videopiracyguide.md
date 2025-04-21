@@ -47,7 +47,6 @@
 * [ValhallaStream](https://valhallastream.com/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: fmhy / Sign-Up Required
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/tDKYeh9eQn)
-* [Vidjoy](https://vidjoy.pro/) - Movies / TV / Anime / [Telegram](https://t.me/vidjoy) / [Discord](https://discord.gg/4cq9vkerA3)
 * [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP) / [GitHub](https://github.com/ambr0sial/nova/)
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [Smashy](https://smashy.stream/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [Noxe](https://noxe.live/) - Movies / TV / Anime / Auto-Next
@@ -365,7 +364,6 @@
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [AlienFlix TV](https://alienflix.net/live) - TV
 * [NTV](https://ntvstream.cx/) - TV / Sports
-* [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
@@ -674,8 +672,9 @@
 ## ▷ Drives / Directories
 
 * ⭐ **[Scloud](https://rentry.co/FMHYBase64#scloud)** - Movies / TV / 4K / [Telegram](https://t.me/scloudmediahub)
+* ⭐ **[111477](https://rentry.co/FMHYBase64#directory-111477)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hUKDJkKB)
 * ⭐ **[PK Movies](https://rentry.co/FMHYBase64#pk-movies)** - Movies / TV / Anime
-* [111477](https://rentry.co/FMHYBase64#directory-111477) - Movies / TV / Anime / [Discord](https://discord.com/invite/hUKDJkKB)
+* ⭐ **[DramaSuki](https://rentry.co/fmhybase64#dramasuki)** - Asian Drama
 * [Vadapav](https://rentry.co/FMHYBase64#vadapav) - Movies / TV
 * [One Eighty Eight](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram

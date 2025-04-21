@@ -54,7 +54,7 @@
 ## ▷ System Tweaks
 
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbars
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweak Start Menu
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweak Start Menu / [Start Skin](https://github.com/bonzibudd/Fluent-Metro)
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweak Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)**
@@ -67,7 +67,7 @@
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
-* [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
+* [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
