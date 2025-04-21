@@ -9,7 +9,7 @@ prev: false
 footer: true
 ---
 
-<Post authors="nbats" />
+<Post authors="Chris Freeland, Director of Library Services at Internet Archive" />
 
 The Internet Archive needs your help.
 
