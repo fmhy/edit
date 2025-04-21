@@ -7,7 +7,7 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: April Updates 🌼
+    title: The Internet Archive needs your help 🤍
     link: /posts/Support-Internet-Archive
   image:
     src: /test.png
