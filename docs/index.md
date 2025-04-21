@@ -8,7 +8,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: The Internet Archive needs your help 🤍
-    link: /posts/Support-Internet-Archive
+    link: /posts/Support-ia
   image:
     src: /test.png
     alt: FMHY Icon
