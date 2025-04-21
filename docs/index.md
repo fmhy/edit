@@ -7,8 +7,8 @@ hero:
   name: Kugelstadt freemediaheckyeah
   tagline: Copy of fmhy.net!
   announcement:
-    title: April Updates 🌼
-    link: /posts/april-2025
+    title: The Internet Archive needs your help 🤍
+    link: /posts/support-ia
   image:
     src: /test.png
     alt: FMHY Icon
