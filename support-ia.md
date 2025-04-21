@@ -1,3 +1,16 @@
+---
+title: The Internet Archive needs your help.
+description: Explains the lawsuit against IA
+date: 2025-04-21
+next: false
+
+prev: false
+
+footer: true
+---
+
+<Post authors="nbats" />
+
 The Internet Archive needs your help.
 
 A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding **$700 million** for our work preserving and providing access to historical 78rpm records. These fragile, obsolete discs hold some of the earliest recordings of a vanishing American culture. But this lawsuit goes far beyond old records. It’s an attack on the Internet Archive itself.
