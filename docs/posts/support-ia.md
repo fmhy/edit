@@ -1,6 +1,6 @@
 ---
 title: The Internet Archive needs your help.
-description: Explains the lawsuit against IA
+description: Support IA
 date: 2025-04-21
 next: false
 
@@ -9,7 +9,7 @@ prev: false
 footer: true
 ---
 
-<Post authors="Chris Freeland, Director of Library Services at Internet Archive" />
+<Post authors="Chris Freeland" />
 
 The Internet Archive needs your help.
 
