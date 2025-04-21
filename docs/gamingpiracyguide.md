@@ -224,6 +224,7 @@
 * [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [Prime Hack](https://github.com/Kekun/primehack) or [Prime Hunter Hack](https://github.com/IBreakGames/PrimeHunterHack) - Add Mouse Support to Metroid Games
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
+* [ShadPS4 Setup Guide](https://rentry.co/ShadPS4_emulator) - ShadPS4 Emulator Setup Guide
 * [PCSX-Redux](https://pcsx-redux.consoledev.net) - PSCX Development Emulator
 * [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
