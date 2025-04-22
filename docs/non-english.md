@@ -807,18 +807,17 @@
 ## ▷ Streaming
 
 * [StreamingCommunity](https://streamingcommunity.airforce/) - Movies / TV
-* [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
-* [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
+* [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
-* [CB01](https://cb01new.win/) - Movies / TV
+* [CB01](https://cb01net.com/) - Movies / TV
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [AnimeUnity](https://www.animeunity.so/) - Anime
-* [Anime Unity](https://www.animeunity.to/) - Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
-* [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
+* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / 1080p
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
