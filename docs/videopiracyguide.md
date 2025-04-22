@@ -280,6 +280,7 @@
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
+*  [Apne Tv](https://apne.uk/) - Watch Hindi Serials Online Free at Apne
 * [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
 * [35mm](https://35mm.online/en) - Polish Film Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
