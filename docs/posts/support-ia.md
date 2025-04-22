@@ -19,7 +19,7 @@ This lawsuit is an **existential threat** to the Internet Archive and everything
 
 This isn’t just about music. It’s about whether future generations will have access to knowledge, history, and culture.
 ***
-## [Sign our open letter](https://www.change.org/p/defend-the-internet-archive) and tell the record labels to drop their lawsuit. 
+## [Sign our open letter](https://www.change.org/p/defend-the-internet-archive) and tell the record labels to drop their lawsuit.
 ***
 **Posted by Chris Freeland, Director of Library Services at Internet Archive**
 

@@ -15,4 +15,4 @@ footer: true
 
 * https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/
 
-* https://haveibeenpwned.com/ 
+* https://haveibeenpwned.com/
