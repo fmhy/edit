@@ -53,7 +53,7 @@
 * [maycima](https://maycima.com/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [anime3rb](https://anime3rb.com/) - Anime / Sub
-* [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
+* [jotorrent](https://www.jotorrent.com/) - Anime / Sign-Ups Open Every Month
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [Bein4kora](https://bein4kora.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
@@ -151,7 +151,7 @@
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [/r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [Chine Firewall Test](https://www.dotcom-tools.com/china-firewall-test) or [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
-* [rectg](https://github.com/jackhawks/rectg) -  Chinese Telegram Groups / Bots
+* [rectg](https://github.com/jackhawks/rectg) - Chinese Telegram Groups / Bots
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
@@ -270,7 +270,7 @@
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [369book](https://www.369book.cc/) - Light-Novels
-* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels
@@ -508,7 +508,7 @@
 * [FilmFans](https://filmfans.org/) - Video
 * [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
-* [Data Load](https://www.data-load.in/) - Movies / Signup Required
+* [Data Load](https://www.data-load.in/) - Movies / Sign-Up Required
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [CannaPower](https://canna-power.to/) - Audio
 
@@ -915,7 +915,7 @@
 
 # ► Korean / 한국어
 
-* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / No Signup
+* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / No Sign-Up
 * [Arca](https://arca.live/) - Forum
 * [dic.daum](https://dic.daum.net/) - Korean Translator / Spellchecker
 * [TadakTadak](https://tadaktadak.co.kr/) - Korean Practice / English Learning
@@ -1556,7 +1556,7 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Signup Required / [Telegram](https://t.me/playdedelink)
+* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Sign-Up Required / [Telegram](https://t.me/playdedelink)
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [yaske](https://yaske.ru/) - Movies / TV / [Telegram](https://t.me/wwwyaskeru)

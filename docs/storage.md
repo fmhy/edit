@@ -32,9 +32,9 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-up Required
-* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-up Required
-* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-up Required
+* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
+* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
 * [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
@@ -161,7 +161,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 
-[⁠Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/)
+[Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/)
 
 ***
 
@@ -948,7 +948,7 @@
 ## SMS Verification Sites
 
 * ⭐ **[SMSPool](https://www.smspool.net/free-sms-verification)**
-* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Signup
+* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)**
 * ⭐ **[sms24](https://www.sms24.me/)**
@@ -1159,9 +1159,9 @@
 
 ## WordPress Themes
 
-* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Signup required
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
 * ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
-* [Babiato](https://babia.to/) - Themes / Plugins Forum / Signup Required
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
 * [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Telegram
 
 ***
