@@ -71,7 +71,7 @@
 
 ## ▷ FOSS APKs
 
-* 🌐 **[OS Apps](https://github.com/pcqpcq/open-source-android-apps)**, [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[AAA](https://github.com/Psyhackological/AAA)**, [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
 * 🌐 **[Awesome Android Root](https://awesome-android-root.link/)** - Rooted App Index / [GitHub](https://github.com/fynks/awesome-android-root)
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index / [Tools](https://github.com/legendsayantan/ShizuTools)
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** - Simple FOSS Apps
@@ -733,6 +733,7 @@
 * ⭐ **[ReVanced Manager](https://revanced.app/)** / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager), [xManager](https://www.xmanagerapp.com/) / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
 * ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
+* ⭐ **[Poweramp Equalizer](https://rentry.co/FMHYBase64#poweramp-equalizer)**, [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 * ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
@@ -760,7 +761,6 @@
 * [Digitron](https://play.google.com/store/apps/details?id=com.geka000.digitron) - Audio Synthesizer
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Music Maker JAM](https://www.musicmakerjam.app/) - Music Creator / Mixer
-* [SoundID](https://play.google.com/store/apps/details?id=com.sonarworks.soundid.mobile), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet), [Poweramp Equalizer](https://rentry.co/FMHYBase64#poweramp-equalizer), [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP), [Precise Volume](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode

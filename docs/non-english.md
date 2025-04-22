@@ -642,7 +642,7 @@
 
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
-* [PriceTracker](https://pcpricetracker.in/) - PC Component Price Tracking
+* [PCPriceTracker](https://pcpricetracker.in/) - PC Component Price Tracking
 * [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
 
 ## ▷ Downloading

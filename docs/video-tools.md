@@ -320,7 +320,7 @@
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
-* [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
+* [Jellyfin "arr" Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests

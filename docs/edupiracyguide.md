@@ -1059,7 +1059,7 @@
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis Learning
-* [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
+* [Aquent Gymnasium](https://thegymnasium.com/) or [⁠CodeAnalogies](https://www.codeanalogies.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
 * [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/) / [Discord](https://discord.gg/V8jcS8d2H5), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
@@ -1483,3 +1483,4 @@
 * [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
 * [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
 * [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool / [GitHub](https://github.com/codeledge/entitree)
+* [⁠Wiki Timeline](https://wiki-timeline.com/) - Create Timelines from Wiki Articles
