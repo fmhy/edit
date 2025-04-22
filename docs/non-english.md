@@ -815,7 +815,6 @@
 * [CB01](https://cb01new.win/) - Movies / TV
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [AnimeUnity](https://www.animeunity.so/) - Anime
-* [Anime Unity](https://www.animeunity.to/) - Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
