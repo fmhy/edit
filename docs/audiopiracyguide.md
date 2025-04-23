@@ -57,7 +57,7 @@
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
-* [hypem](https://hypem.com/popular) - Rising
+* [Hype Machine](https://hypem.com/popular) - Rising
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Indonesian Music / [Downloader](https://irnus-dl.slickerius.com/)
 * [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
@@ -169,8 +169,8 @@
 * [Podbean](https://www.podbean.com/) - Podcasts
 * [Podbay](https://podbay.fm/) - Podcasts
 * [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) - Podcasts / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [podcastindex](https://podcastindex.org/) - Podcasts
-* [player.fm](https://player.fm/) - Podcasts
+* [Podcast Index](https://podcastindex.org/) - Podcasts
+* [Player FM](https://player.fm/) - Podcasts
 * [Podcast Republic](https://www.podcastrepublic.net/) - Podcasts
 * [Relay.fm](https://www.relay.fm/) - Podcasts
 * [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
@@ -702,7 +702,7 @@
 * ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)** - Metadata Organizer
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
-* [beets.io](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu) / [GitHub](https://github.com/beetbox/beets)
+* [Beets](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu) / [GitHub](https://github.com/beetbox/beets)
 * [TagEditor](https://github.com/Martchus/tageditor) - Metadata Organizer
 * [tone](https://github.com/sandreas/tone) - Metadata Organizer
 * [Kid3](https://kid3.kde.org/) - Metadata Organizer
@@ -935,8 +935,8 @@
 * [Free Loops](https://free-loops.com/)
 * [looperman](https://www.looperman.com/loops)
 * [Noizable](https://noizable.media/)
-* [sampleswap](https://sampleswap.org/)
-* [samplefocus](https://samplefocus.com/)
+* [SampleSwap](https://sampleswap.org/)
+* [Sample Focus](https://samplefocus.com/)
 * [Soundfishing](https://www.soundfishing.eu/)
 * [FreeSoundLibrary](https://www.freesoundslibrary.com/)
 * [SoundSnap](https://www.soundsnap.com/) - 5 Weekly
