@@ -4,48 +4,6 @@
 ***
 ***
 
-## 3D Modeling Apps
-
-* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
-* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
-* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects based on Text / Image Prompts
-* [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
-* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
-* [Wings 3D](https://www.wings3d.com/) - Cross-platform 3D Modeling App
-* [JustSketchMe](https://justsketch.me/) - Cross-platform 3D Pose Reference Tool
-* [Vectary](https://www.vectary.com/) or [Womp](https://beta.womp.com/) - 3D Modeling in Browser
-
-### CAD Engineering
-
-* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling with Real-time Collaboration
-* [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
-* [FreeCAD](https://www.freecad.org/) / [GitHub](https://github.com/FreeCAD/FreeCAD) - Parametric CAD Modeling
-* [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-platform CSG CAD Modeling
-* [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
-* [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
-* [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
-
-***
-
-## 3D Models
-
-* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
-* ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
-* [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
-* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
-* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
-* [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
-* [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
-* [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
-* [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
-* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
-* [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
-* [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
-* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
-
-***
-
 ## Ambient Sound Mixers
 
 * ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
@@ -539,7 +497,7 @@
 * [/r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools) - Hackintosh Tools
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines using QEMU
 * [OSX-PROXMOX](https://rentry.co/FMHYBase64#osx-proxmox) - macOS on Proxmox
-* [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher) - Hackintosh for Unsupported Hardware
+* [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - Hackintosh for Unsupported Hardware / [GitHub](https://github.com/dortania/OpenCore-Legacy-Patcher)
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
 * [Xiaomi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for Xiaomi
