@@ -369,14 +369,12 @@
 
 # ► Video Editing
 
-* 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
 * ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
-* [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 
 ***
 
@@ -476,6 +474,7 @@
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
 * [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
+* [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
