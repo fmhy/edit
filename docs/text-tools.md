@@ -183,8 +183,6 @@
 * [Cool Symbol](https://coolsymbol.com/)
 * [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/), [2](https://www.textemoji.org/) or [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/)- Copy Unicode Emotes
 
-
-
 ***
 
 ## ▷ Typing Lessons
