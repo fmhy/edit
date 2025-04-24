@@ -22,6 +22,7 @@
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
+* [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
@@ -35,7 +36,6 @@
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [ImageBoards](https://imageboards.net/) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
-* [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 
 ***
 

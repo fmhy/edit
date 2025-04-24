@@ -53,7 +53,7 @@
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [EarnVids](https://earnvids.com/)
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
-* [uguu](https://uguu.se/) - 128MB / 3 Days
+* [uguu](https://uguu.se/) - 128MB / 3 Hours
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
 

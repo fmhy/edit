@@ -705,11 +705,10 @@
 * ⭐ **[ToonStream](https://toonstream.love/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[AniSAGA](https://anisaga.org/)** - Anime / Dub / 1080p
 * ⭐ **[FireFlix](https://fireflix.fun/)**, [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
-* ⭐ **[HDDMovies](https://hhdmovies.baby/)** - Movies / TV / Anime
-* ⭐ **[MultiMovies](https://multimovies.today)** - Movies / TV
+* ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
+* ⭐ **[Anime World India](https://theanimeworld.in/)** - Anime
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
-* [Anime World India](https://animeworld.co.in/) - Anime
 * [9xmovies](https://9xmovies.fund/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -1683,6 +1682,8 @@
 ***
 
 # ► Thai / ไทย
+
+* [Thai Dictionary](https://dictionary.orst.go.th/)
 
 ## ▷ Streaming สตรีม
 
