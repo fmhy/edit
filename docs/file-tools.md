@@ -409,7 +409,7 @@
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 * [SeaFile](https://www.seafile.com/en/home/) - Self-Hosted Cloud Storage
-
+* [Onlime](https://onlime.app/) - 5GB Free / $10.50/month for 1 TB
 ***
 
 ## ▷ Cloud Managers
