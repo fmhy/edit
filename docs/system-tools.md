@@ -234,7 +234,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.partitionwizard.com/) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Unlocker](https://rentry.co/FMHYBase64#aomei-partition) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://rentry.co/FMHYBase64#minitool-partition-wizard) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Unlocker](https://rentry.co/FMHYBase64#aomei-partition) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer / Cleanup Tool / [GitHub](https://github.com/windirstat/windirstat/)
 * [TrueNAS](https://www.truenas.com/) - Storage System

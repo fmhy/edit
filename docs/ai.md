@@ -182,6 +182,7 @@
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [CanIRunThisLLM](https://www.canirunthisllm.net/) or [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
+* [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI Piracy Guide / Resources
 
 ***
 

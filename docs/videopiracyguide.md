@@ -13,7 +13,7 @@
 * 🌟 **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Setup / 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances)
 * 🌟 **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
-* 🌟 **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next
+* 🌟 **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/FlickyStream)
 * ⭐ **[uira.live](https://uira.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5ACWhK4Dzf)
@@ -21,7 +21,7 @@
 * ⭐ **[Ronny Flix](https://ronnyflix.xyz/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/ronnyflix)
 * ⭐ **[Eliteflix](https://eliteflix.xyz/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[HydraHD](https://hydrahd.ac/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
+* ⭐ **[HydraHD](https://hydrahd.sh/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[1Shows](https://www.1shows.live/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
@@ -90,6 +90,7 @@
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [YesMovie](https://yesmovies.ag/), [2](https://solarmovieru.com/home.html) - Movies / TV / 720p
 * [ReelZone](https://reelzone.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/zArgTukX3Z)
+* [123Movies](https://123moviesfree.at/) - Movies
 * [AZMovies](https://azmovies.ag/) - Movies
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
@@ -135,7 +136,7 @@
 ## ▷ Anime Streaming
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites)** / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku), [The Index](https://theindex.moe/library/anime) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/), [2](https://everythingmoe.org/) / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[AnimeKai](https://animekai.to/home)**, [2](https://animekai.bz/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/at5d9rkfUy)
+* ⭐ **[AnimeKai](https://animekai.to/home)**, [2](https://animekai.bz/) - Sub / Dub / Auto-Next / [Twitter](https://x.com/animekai_to) / [Discord](https://discord.com/invite/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)** - Sub / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.gg/miruro) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[HiAnime](https://hianimez.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
@@ -477,7 +478,6 @@
 * [F1Box](https://f1box.me/) - Motorsports
 * [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
 * [NHLStreams](https://nhlstreams.io/) - Hockey
-* [NHLstream](https://nhlstream.net/) - Hockey
 * [NHL24ALL](https://nhl24all.ir/) - Hockey
 * [OnHockey](https://onhockey.tv/) - Hockey
 * [NHLbite](https://nhlbite.com/) - Hockey
