@@ -10,7 +10,7 @@
 
 ***
 
-* 🌟 **[movie-web](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Setup / 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances)
+* 🌟 **Movie-Web** - **[movie-web.org](https://movie-web.org)**, **[toons instances](https://erynith.github.io/movie-web-instances/)** [(2)](https://github.com/erynith/movie-web-instances/blob/main/page.md), **[P-Stream Docs Instances](https://docs.pstream.org/instances)** - Movies / TV / Anime / Auto-Next / [Setup / 4K](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/p-stream/p-stream)
 * 🌟 **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * 🌟 **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
 * 🌟 **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next
