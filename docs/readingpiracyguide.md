@@ -36,7 +36,6 @@
 * [FreeEditorial](https://www.freeditorial.com/en/) - Read Online / [Spanish](https://www.freeditorial.com)
 * [NovelsArchive](https://t.me/NovelsArchive) - Telegram
 * [BooksMania](https://t.me/booksmania) - Telegram
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Sign-Up Required
 * [ExClassics](https://www.exclassics.com/) - Public Domain Obscure Books / Read Online
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
@@ -278,13 +277,21 @@
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
+* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
+* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
+
+***
+
+## ▷ Kindle Tools
+
+* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
+* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
+* [ToKindle](https://tokindle-home.onrender.com/) or [Send to Kobo/Kindle](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) - Send Ebooks to Kindle
+* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle / Telegram Bots
+* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
+* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
-* [Ebook Sender](https://telegram.me/to_kindle_bot), [ToKindle](https://tokindle-home.onrender.com/), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
-* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
-* [Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle) or [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Jailbreak Kindle / [Video Guide](https://youtu.be/Qtk7ERwlIAk?t=327)
-* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 
 ***
 
@@ -299,9 +306,9 @@
 
 ## ▷ Downloading
 
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning)**
+* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookss](https://audiobookss.com/)
@@ -919,8 +926,7 @@
 * ⭐ **[papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
-* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
-* [Libby](https://libbyapp.com/) - Library Search
+* [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip)
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
@@ -932,7 +938,7 @@
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
 * [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
-* [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times
+* [HowLongToRead](https://howlongtoread.com/) or [ReadingLength](https://www.readinglength.com/) - Find Book Lengths / Reading Times
 * [BTW](https://booktriggerwarnings.com/) - Book Trigger Warnings
 * [DIY Book Scanner](https://diybookscanner.org/) - How to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher

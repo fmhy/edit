@@ -181,7 +181,9 @@
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
-* [FastEmoji](https://www.fastemoji.com/), [CuteSymbols](https://www.cutesymbols.net/), [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/), [EmoticonHub](https://emoticonhub.com/), [Text Smileys](https://lenny-face-generator.textsmilies.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
+* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/), [2](https://www.textemoji.org/) or [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/)- Copy Unicode Emotes
+
+
 
 ***
 
@@ -190,12 +192,12 @@
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-Up Required
+* [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [CyberType](https://cybertype.app/) - Typing Practice
 * [Typing.com](https://www.typing.com/) - Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires JavaScript Enabled
-* [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests

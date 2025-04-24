@@ -542,6 +542,7 @@
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
+* [⁠Daily You](https://github.com/Demizo/Daily_You) - Daily Journal / Picture / Mood tracker 
 * [FamilyWall](https://www.familywall.com/) - Family Organization Planner
 * [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
 * [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
