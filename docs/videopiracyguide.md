@@ -29,6 +29,7 @@
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[7Xtream](https://movies.7xtream.com/)**, [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * ⭐ **[Bingeflex](https://bingeflix.tv/)** - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
+* ⭐ **[Mocine](https://mocine.cam/)** - Movies / TV / Auto-Next
 * [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * [AlienFlix](https://alienflix.net/) - Movies / TV / Anime / Auto-Next
 * [CookedMovies](https://cookedmovies.xyz/) - Movies / TV / Anime / Auto-Next
