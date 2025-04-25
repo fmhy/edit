@@ -499,3 +499,9 @@
 ***
 
 # ► [Machine Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_machine_learning)
+
+***
+
+## ▷ AI note takers / Meeting assistants
+* [MinutesLink](https://minuteslink.com/)
+
