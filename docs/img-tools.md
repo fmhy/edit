@@ -302,6 +302,7 @@
 * [Graphite](https://graphite.rs/) or [Recraft](https://www.recraft.ai/) - Vector Editors
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
+* [Venngage AI Infographic Generator](https://venngage.com/ai-tools/infographic-generator) - AI-powered visuals that turn your ideas into infographics, instantly.
 
 ***
 
