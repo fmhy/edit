@@ -553,10 +553,10 @@
 ## ▷ Productivity Trackers
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
+* ⭐ **[Table Habit](https://github.com/FriesI23/mhabit)** - Habit Tracker
 * [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
 * [Folksable](https://folksable.com/) - Social Habit Tracker
 * [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Habit Tracker
-* [Table Habit](https://github.com/FriesI23/mhabit) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
 * [Grit](https://github.com/shub39/Grit) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker

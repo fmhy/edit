@@ -61,7 +61,6 @@
 ## ▷ Raspberry Pi
 
 * [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
-* [WoR-flasher](https://github.com/Botspot/wor-flasher) - Install Win10/11 on Raspberry Pi SD via Linux
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
@@ -122,7 +121,6 @@
 * [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 * [Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for Linux
-* [libmui](https://github.com/buserror/libmui) - Mac Style Widget Library
 * [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
 * [Wike](https://github.com/hugolabe/Wike) - Wikipedia App
 * [Komikku](https://valos.gitlab.io/Komikku/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
@@ -136,7 +134,7 @@
 ## ▷ Software Sites
 
 * 🌐 **[Rim's Linux Wiki](https://rlw.pages.dev/)**, [2](https://rimswiki.xyz/) - Linux Software / Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
-* 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** - Linux Software / Site Index
+* 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** or **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)**- Linux Software / Site Index
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Linux Software
 * 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
@@ -148,17 +146,13 @@
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
 * [Linux FOSS Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png) - FOSS Software List
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
-* [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
 * [LinuxAlt](https://www.linuxalt.com/)
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
-* [tlanyan](https://itlanyan.com/)
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [GearLever](https://flathub.org/apps/it.mijorus.gearlever) or [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Appimage Managers
 * [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
 * [cheat.sh](http://cheat.sh/) - App Repos / [GitHub](https://github.com/chubin/cheat.sh)
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
-* [yay](https://wiki.archlinux.org/title/AUR_helpers) - Arch User Repository Helpers
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://github.com/tversteeg/emplace) - System Package Sync
 * [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
@@ -189,7 +183,6 @@
 * [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
 * [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
 * [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
-* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [NetBoot](https://netboot.xyz/) - Boot Linux Distros
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
@@ -321,7 +314,6 @@
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
-* [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
@@ -330,12 +322,8 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
-* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in Your Terminal
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
-* [StarryDex](https://github.com/mariinkys/starrydex) - Pokédex App
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
-* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
-* [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
 
 ***
 
@@ -428,10 +416,8 @@
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer), [Pipe Viewer](https://github.com/trizen/pipe-viewer) or [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube Clients
 * [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble, etc.
 * [BetterDiscordctl](https://github.com/bb010g/betterdiscordctl) - Modded Discord Client / [Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
-* [Nextcord](https://docs.nextcord.dev/) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
-* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLIs
 
 ***
 
@@ -467,8 +453,7 @@
 * [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with built-in Android Emulator
-* [Bliss OS](https://blissos.org/) - Android-based OS for PC
-* [Android-x86](https://www.android-x86.org/) - Android-based OS for PC
+* [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-based OS for PC
 
 ***
 
@@ -697,11 +682,9 @@
 * [SuspiciousPackage](https://www.mothersruin.com/software/SuspiciousPackage/get.html) - Analyze PKG Files
 * [Santa](https://github.com/google/santa) - Binary Authorization System
 * [DHS](https://objective-see.org/products/dhs.html) - Dylib Hijack Scanner
-* [mac4n6](https://github.com/pstirparo/mac4n6) - Forensic Artifact Locations
 * [What's Your Sign?](https://objective-see.org/products/whatsyoursign.html) - View File Cryptographic Signatures
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
 * [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
-* [FileVault](https://support.apple.com/en-us/HT204837) - Mac Disk Encryption
 * [Kextviewr](https://objective-see.org/products/kextviewr.html) - View All Kernel Modules
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
