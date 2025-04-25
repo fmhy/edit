@@ -542,7 +542,7 @@
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
-* [⁠Daily You](https://github.com/Demizo/Daily_You) - Daily Journal / Picture / Mood tracker 
+* [Daily You](https://github.com/Demizo/Daily_You) - Daily Journal / Picture / Mood tracker
 * [FamilyWall](https://www.familywall.com/) - Family Organization Planner
 * [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
 * [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
@@ -716,7 +716,7 @@
 
 ## ▷ Android Manga
 
-* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://github.com/komikku-app/komikku)
+* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://github.com/komikku-app/komikku)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
 * ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader / [Discord](https://discord.gg/4vmK42QuKG)

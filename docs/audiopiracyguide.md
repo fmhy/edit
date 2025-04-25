@@ -194,7 +194,7 @@
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
-* [Lowkey Lofi](https://www.lowkeylofi.app/), [2](https://lowkeylofi.vercel.app/) -  Lofi Radio / 80+ Combined Channels
+* [Lowkey Lofi](https://www.lowkeylofi.app/), [2](https://lowkeylofi.vercel.app/) - Lofi Radio / 80+ Combined Channels
 * [Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
 * [FlowTunes](https://www.flowtunes.app/) - Lofi + Focus Radio / Ambient Sounds
 * [Petrichoir](https://petrichoir.app/) - Lofi Radio / Ambient Sounds
