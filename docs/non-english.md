@@ -235,7 +235,7 @@
 * [Sakura Animation](http://www.iyinghua.io/) - Anime / Sub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
 * [Myself-BBS](https://myself-bbs.com/) - Anime / Sub / 1080p
-* [⁠dmd77](https://www.dmd77.com/) - Anime / Sub / 1080p
+* [dmd77](https://www.dmd77.com/) - Anime / Sub / 1080p
 * [dm530w](http://dm530w.co/) - Anime / Sub / 1080p
 * [74xz](https://74xz.com/) - Anime / Sub / 1080p
 * [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
@@ -272,7 +272,7 @@
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [369book](https://www.369book.cc/) - Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
-* [⁠yodu](https://www.yodu.org/) - Books / Light-Novels
+* [yodu](https://www.yodu.org/) - Books / Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels

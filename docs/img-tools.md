@@ -531,7 +531,7 @@
 
 # ► 3D Models
 
-* ⭐ **[Thingiverse](https://www.thingiverse.com/)**-  Share / Download 3D Models
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
 * [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required

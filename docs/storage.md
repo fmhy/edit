@@ -521,7 +521,7 @@
 
 ## Image Compressors
 
-* ⭐ **[Caesium](https://saerasoft.com/caesium/)** / [Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor), 
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** / [Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 * ⭐ **[Squoosh](https://squoosh.app/)**
 
 [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/), [Batch Compress](https://batchcompress.com/en), [Bulk Image Compress](https://imagecompressr.com/), [minipic](https://minipic.app/), [Compress Images](https://compress-images.com), [squish](https://squish.addy.ie/)

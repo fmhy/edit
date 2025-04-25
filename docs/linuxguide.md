@@ -84,7 +84,7 @@
 # ► Linux Apps
 
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
-* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [GitHub](https://github.com/bottlesdevs) / [Discord](https://discord.com/invite/wF4JAdYrTR)
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** or [GearLever](https://github.com/mijorus/gearlever) - Integrate AppImages to App Launchers
@@ -134,7 +134,7 @@
 ## ▷ Software Sites
 
 * 🌐 **[Rim's Linux Wiki](https://rlw.pages.dev/)**, [2](https://rimswiki.xyz/) - Linux Software / Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
-* 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** or **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)**- Linux Software / Site Index
+* 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** or **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)** - Linux Software / Site Index
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Linux Software
 * 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
