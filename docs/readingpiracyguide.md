@@ -377,8 +377,7 @@
 * [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor Required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
-* [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
+* [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [Cover](https://frenchfrysoftware.com/cover/), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
@@ -392,9 +391,7 @@
 
 ## ▷ Manga
 
-* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/) or [EverythingMoe](https://everythingmoe.com/#section-manga), [2](https://everythingmoe.org/#section-manga) / [Discord](https://discord.gg/GuueaDgKdS) - Manga Sites Indexes
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_reading_.2F_.8AAD.66F8)**
@@ -406,7 +403,6 @@
 * [MangaKatana](https://mangakatana.com/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Ripping Hub / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
