@@ -318,7 +318,7 @@
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days after last download
+* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days after last download / [Bypass Cold Storage](https://cs.rin.ru/forum/viewtopic.php?f=30&t=146362)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per file / 120 Days after last pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 15 Days, Can Extend to Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
