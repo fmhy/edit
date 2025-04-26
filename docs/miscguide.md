@@ -272,6 +272,7 @@
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
+* ⭐ **[Wikiloc](https://wikiloc.com/)** - Discover Outdoor Trails
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
