@@ -661,7 +661,6 @@
 * ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Caesium Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 * ⭐ **[Squoosh](https://squoosh.app/)** - Online Compressor
-* [Guetzli](https://github.com/google/guetzli) - Compression Software
 * [Crushee](https://crushee.app/) - Compression Software
 * [PNGQuant](https://pngquant.org/) - PNG Compression Software
 * [CompressOrDie](https://compress-or-die.com/) - Online Compressor
