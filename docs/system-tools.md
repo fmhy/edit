@@ -82,7 +82,7 @@
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
-* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
