@@ -660,27 +660,18 @@
 
 * ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Caesium Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ⭐ **[Squoosh](https://squoosh.app/)** - Online Compressor
-* [Crushee](https://crushee.app/) - Compression Software
-* [PNGQuant](https://pngquant.org/) - PNG Compression Software
-* [CompressOrDie](https://compress-or-die.com/) - Online Compressor
-* [CrushImage](https://crushimage.com/) - Online Compressor
-* [TinyJPG](https://tinyjpg.com/) - Online Compressor
-* [ImageCompresser](https://imagecompresser.com/) - Online Compressor
-* [ImageSmaller](https://www.imagesmaller.com/) - Online Compressor
-* [Compress JPEG](https://compressjpeg.com/) - Online Compressor
-* [CompressImage](https://compressimage.io/) - Online Compressor
-* [ShrinkMe](https://shrinkme.app/) - Online Compressor
-* [Seopix](https://www.seopix.io/) - Online Compressor
-* [Imagator](https://imagator.co/) - Online Compressor
-* [Compressor](https://compressor.io/) - Online Compressor
-* [optimize.photos](https://optimize.photos/) - Online Compressor
-* [Batch Compress](https://batchcompress.com/en) - Online Compressor
-* [Bulk Image Compress](https://imagecompressr.com/) - Online Compressor
-* [minipic](https://minipic.app/) - Online Compressor
-* [Compress Images](https://compress-images.com/) - Online Compressor
-* [squish](https://squish.addy.ie/) - Online Compressor
-* [JPEG.rocks](https://jpeg.rocks/) - Online Compressor
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
+* ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
+* [optimize.photos](https://optimize.photos/) - Batch Compressor
+* [CompressImage](https://compressimage.io/) - Batch Compressor
+* [CrushImage](https://crushimage.com/) - Batch Compressor
+* [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
+* [minipic](https://minipic.app/) - Batch Compressor / Converter
+* [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
+* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20 MB Upload / [GitHub](https://github.com/tinify)
+* [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
+* [CompressOrDie](https://compress-or-die.com/) - Multitool
+* [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
 
 ***
 
