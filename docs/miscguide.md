@@ -1471,6 +1471,7 @@
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
+* [AttractivenessScale](https://attractivenessscale.com/) - AI-Powered Attractiveness Scale
 
 ***
 
