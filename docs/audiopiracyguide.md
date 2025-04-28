@@ -816,7 +816,7 @@
 * [Zrythm](https://www.zrythm.org/en/index.html) - Digital Audio Workstation
 * [LMMS](https://lmms.io/) - Digital Audio Workstation / [Discord](https://discord.com/invite/PruNxpG)
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
-* [Mixxx](https://mixxx.org/), [⁠VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
+* [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
 * [Element](https://kushview.net/element/), [Bespoke](https://www.bespokesynth.com/) or [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
 * [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/), [SuperCollider](https://supercollider.github.io/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
@@ -915,7 +915,7 @@
 
 * ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)**
 * ⭐ **[BandLab SFX](https://www.bandlab.com/sounds/packs)** - Account Required
-* [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [⁠Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
+* [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [Thirtydollar](https://thirtydollar.website/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
 * [/r/LoopKits](https://www.reddit.com/r/loopkits/)

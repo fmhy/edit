@@ -485,7 +485,7 @@
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ⭐ **[UVR5 UI](https://huggingface.co/spaces/TheStinger/UVR5_UI)**
 * ⭐ **[MVSEP](https://mvsep.com/)** / [Decrease Queue Time](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mvsep-note)
-* [⁠Splitter](https://www.bandlab.com/splitter)
+* [Splitter](https://www.bandlab.com/splitter)
 * [MDX23](https://github.com/jarredou/MVSEP-MDX23-Colab_v2)
 * [Music-Source-Separation](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference)
 * [VocalRemover](https://vocalremover.org/)
