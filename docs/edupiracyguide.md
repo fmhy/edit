@@ -785,6 +785,7 @@
 * [Tandem](https://www.tandem.net/)
 * [Conversation Exchange](https://www.conversationexchange.com/)
 * [RhinoSpike](https://rhinospike.com/)
+* [⁠HiNative](https://hinative.com/) 
 * [LangX](https://Langx.io/)
 * [Polyglot](https://polyglotclub.com/)
 * [ISODN Linguistics](https://discord.gg/8RVtshPPTh) - ISODN Linguistics Discord Community
