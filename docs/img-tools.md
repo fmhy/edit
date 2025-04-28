@@ -35,7 +35,6 @@
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 
-
 ***
 
 ## ▷ Online Editors
