@@ -29,7 +29,7 @@
 * ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
 * [TechURLs](https://techurls.com/) - Dev / Tech News
 * [DevURLs](https://devurls.com/) - Dev News
-* [Techmeme](https://www.techmeme.com/m/) - Dev News
+* [Techmeme](https://www.techmeme.com/) - Dev News
 * [The Brutalist Report](https://brutalist.report/) - Dev News
 * [jimmyr](https://jimmyr.com/) - Dev News
 * [daily.dev](https://app.daily.dev/posts) - Dev News
