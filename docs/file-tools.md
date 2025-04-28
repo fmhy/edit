@@ -338,7 +338,7 @@
 * [VikingFile](https://vikingfile.com/) - 500GB / 20 Days after last download
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
-* [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, can extend forever
+* [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Account Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads

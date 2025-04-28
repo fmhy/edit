@@ -324,7 +324,7 @@
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
-* [⁠Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
+* [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
 * [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 
 ***
@@ -785,7 +785,7 @@
 * [Tandem](https://www.tandem.net/)
 * [Conversation Exchange](https://www.conversationexchange.com/)
 * [RhinoSpike](https://rhinospike.com/)
-* [⁠HiNative](https://hinative.com/) 
+* [HiNative](https://hinative.com/)
 * [LangX](https://Langx.io/)
 * [Polyglot](https://polyglotclub.com/)
 * [ISODN Linguistics](https://discord.gg/8RVtshPPTh) - ISODN Linguistics Discord Community

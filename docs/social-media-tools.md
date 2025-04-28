@@ -195,7 +195,7 @@
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Newsit](https://github.com/benwinding/newsit) - Find Reddit Comments for any Webpage
 * [Pholder](https://pholder.com/) - Article Style Viewer
-* [infini.wtf](https://infini.wtf/ - Reddit Image Search
+* [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
 * [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
 * [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
