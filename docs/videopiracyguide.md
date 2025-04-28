@@ -119,7 +119,7 @@
 * [Freevee](https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
 * [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Sign-Up Required
-* [Sling](https://watch.sling.com/) -  Movies / TV / Live News / US Only
+* [Sling](https://watch.sling.com/) - Movies / TV / Live News / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
 * [Fandango](https://athome.fandango.com/content/browse/free) - Movies / TV / US Only
 * [Shout! TV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next

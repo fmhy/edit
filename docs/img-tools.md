@@ -372,14 +372,14 @@
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
-* [⁠Free_Design_Files](https://t.me/Free_Design_Files)
+* [Free_Design_Files](https://t.me/Free_Design_Files)
 * [WockupWorld](https://m.vk.com/mockupworld)
 * [OnlyGFX](https://www.onlygfx.com/)
 * [The GFX](https://m.vk.com/the_gfx)
 * [Graphics Materials](https://vk.com/topic-178186634_39330245)
 * [desiignertm](https://vk.com/desiignertm)
 * [all_psd](https://vk.com/all_psd)
-* [⁠Playersdsg](https://t.me/playersdsg)
+* [Playersdsg](https://t.me/playersdsg)
 * [designbloody](https://vk.com/designbloody)
 * [designarchiv](https://t.me/designarchiv)
 * [outsideotf](https://t.me/s/outsideotf)
@@ -432,7 +432,7 @@
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
-* [infini.wtf](https://infini.wtf/ - Reddit Image Search
+* [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [CopySeeker](https://copyseeker.net/) - Reverse Image Search
