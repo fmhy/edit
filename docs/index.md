@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: April Updates 🌼
-    link: /posts/april-2025
+    title: The Internet Archive needs your help 🤍
+    link: /posts/support-ia
   image:
     src: /test.png
     alt: FMHY Icon

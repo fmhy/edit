@@ -53,6 +53,7 @@
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [EarnVids](https://earnvids.com/)
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
+* [uguu](https://uguu.se/) - 128MB / 3 Hours
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
 
@@ -78,7 +79,7 @@
 
 ***
 
-## ▷ Convert / Compress
+## ▷ Processing / Encoding
 
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Multimedia Processors / Converters / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
@@ -92,20 +93,12 @@
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
 * [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
-* [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
-* [8mb.video](https://8mb.video/) - Compress / Unlimited
-* [autocompressor](https://autocompressor.net/) - Compress / 2GB
-* [Rotato](https://tools.rotato.app/) - Compress / 2GB
-* [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
-* [YouCompress](https://www.youcompress.com/) - Compress / 500MB
-* [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
 * [Winnydows](https://winnydows.com/) - Video Conversion Software
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
 * [Seven Converter](https://converter.sevenbytes.com/) - Video Conversion / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
-* [VERT](https://vert.sh/) / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT), [Video Express Converter](https://vc.germanov.dev/), [VideoConverter](https://www.movavi.com/video-converter/) or [Restream Tools](https://restream.io/tools) - Online Video Conversion
 * [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding / Muxing
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
@@ -113,9 +106,28 @@
 
 ***
 
+## ▷ Online Processing
+
+* [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
+* [8mb.video](https://8mb.video/) - Compress / Unlimited
+* [autocompressor](https://autocompressor.net/) - Compress / 2GB
+* [Rotato](https://tools.rotato.app/) - Compress / 2GB
+* [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
+* [YouCompress](https://www.youcompress.com/) - Compress / 500MB
+* [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
+* [VERT](https://vert.sh/) - Converter / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* [Video Express Converter](https://vc.germanov.dev/)
+* [VideoConverter](https://www.movavi.com/video-converter/) - Converter
+* [Restream Tools](https://restream.io/tools) - Converter
+
+***
+
+
+
 ## ▷ FFmpeg Tools
 
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
+* [ffmpeg-web](https://ffmpeg-web.netlify.app/) - FFmpeg Web App / [GitHub](https://github.com/Dinoosauro/ffmpeg-web)
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
 * [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
@@ -261,7 +273,7 @@
 
 # ► Media Servers
 
-* 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
+* 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
@@ -318,7 +330,7 @@
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
-* [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
+* [Jellyfin "arr" Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
@@ -356,6 +368,7 @@
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
+* [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [PinCase](https://pincase.xyz/) - Pinterest / Online
@@ -366,14 +379,12 @@
 
 # ► Video Editing
 
-* 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
 * ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples
-* [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), [Codec Guide](https://www.codecguide.com/) or [Free-Codecs](https://www.free-codecs.com/) - Video Codec Collections
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
-* [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 
 ***
 
@@ -381,7 +392,7 @@
 
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Signup Required
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
@@ -408,26 +419,23 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
-* ⭐ **[Pikimov](https://pikimov.com/)** / Use Edge or Chrome
-* ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
-* [VideoInu](https://videoinu.com/)
-* [Clideo](https://clideo.com/)
-* [Kapwing](https://www.kapwing.com/)
+* ⭐ **[wide.video](https://wide.video/)** - [Discord](https://discord.gg/Q54kW97yj5)
+* ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
+* ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up Required
+* [VideoToolbox](https://www.videotoolbox.com/) - Sign-Up Required
+* [VideoInu](https://videoinu.com/) - Works Offline
 * [Panzoid](https://panzoid.com/)
-* [Convert2Video](https://convert2video.com/)
-* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/omni-media/omniclip) / [Discord](https://discord.com/invite/Nr8t9s5wSM)
-* [Video Cutter](https://video-cutter-js.com/)
-* [Vididoo](https://vididoo.vercel.app/)
-* [VideoToolbox](https://www.videotoolbox.com/)
-* [VideoCandy](https://videocandy.com/)
 * [vidmix](https://vidmix.app/)
-* [mebm](https://bwasti.github.io/mebm/)
-* [Video2Edit](https://www.video2edit.com/)
+* [Video Cutter](https://video-cutter-js.com/)
+* [Omniclip](https://omniclip.app/) - [GitHub](https://github.com/omni-media/omniclip) / [Discord](https://discord.com/invite/Nr8t9s5wSM)
+* [Vididoo](https://vididoo.vercel.app/) - Multitool
+* [VideoCandy](https://videocandy.com/) - Multitool
+* [Video2Edit](https://www.video2edit.com/) - Multitool
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 * [Crossfade](https://crossfade.io/) - Video / Audio Crossfading
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
+* [Convert2Video](https://convert2video.com/) - Image / Audio to Video
 
 ***
 
@@ -460,7 +468,6 @@
 * [AERiver](https://aeriver.com/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects
-* [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
 
 ***
 
@@ -471,8 +478,7 @@
 * ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
-* [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
-* [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
+* [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator

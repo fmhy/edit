@@ -7,6 +7,7 @@
 # ► Image Editing
 
 * ↪️ **[Background / Object Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
+* [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [FilmDev](https://filmdev.org/) - Film Development Recipes
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
@@ -23,14 +24,17 @@
 * ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
 * [StitchTool](https://www.jdeploy.com/~stitchtool) - Image Stitcher, Splitter, Upscaler & more
 * [PhotoDemon](https://photodemon.org/)
 * [Paint.net](https://www.getpaint.net/index.html)
 * [PhotoFiltre](https://www.photofiltre-studio.com/)
-* [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
 * [Gimel Studio](https://gimelstudio.com/)
+* [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
+* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
+
 
 ***
 
@@ -48,6 +52,7 @@
 * [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
+* [photo.codes/](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [BeFunky](https://www.befunky.com/) - Simple Editor
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor
@@ -91,22 +96,6 @@
 
 ***
 
-## ▷ Image Optimization
-
-* ↪️ **[Image Compressors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_compressors)**
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
-* [RIOT](https://riot-optimizer.com/) - Image Optimization
-* [YOGA](https://yoga.flozz.org/) - Image Optimization
-* [ImageFoo](https://imagefoo.com/) - Image Optimization
-* [tiny.pictures](https://tiny.pictures/) - Image Optimization
-* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
-* [Ihancer](https://ihancer.com) - Image Optimization
-* [Waifu2x](https://waifu2x.booru.pics) - Image Optimization
-* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
-
-***
-
 ## ▷ Image Effects
 
 * ⭐ **[PhotoMosh](https://moshpro.app/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [glitch2](https://akx.github.io/glitch2/), [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
@@ -116,7 +105,6 @@
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker), [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Image to Anime Style Converter
-* [YouPhoto](https://youphoto.ai/) - Image to Ghibli Style Converter / Login Required
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes
@@ -211,7 +199,6 @@
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
 * [Mutsuacen](https://mutsuacen.com/) - Create Moving Drawings
-* [DrawingNow](https://www.drawingnow.com/) - Learn to Draw
 
 ***
 
@@ -385,15 +372,18 @@
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
+* [⁠Free_Design_Files](https://t.me/Free_Design_Files)
 * [WockupWorld](https://m.vk.com/mockupworld)
 * [OnlyGFX](https://www.onlygfx.com/)
 * [The GFX](https://m.vk.com/the_gfx)
 * [Graphics Materials](https://vk.com/topic-178186634_39330245)
 * [desiignertm](https://vk.com/desiignertm)
 * [all_psd](https://vk.com/all_psd)
+* [⁠Playersdsg](https://t.me/playersdsg)
 * [designbloody](https://vk.com/designbloody)
 * [designarchiv](https://t.me/designarchiv)
 * [outsideotf](https://t.me/s/outsideotf)
+* [DOPE Editing](https://t.me/DOPE_editing)
 * [desgang](https://t.me/desgang)
 * [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk)
 * [creativemrkt](https://t.me/creativemrkt)
@@ -405,50 +395,6 @@
 
 ***
 
-## ▷ 3D Models
-
-* ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cad_engineering)**
-* ↪️ **[3D Model Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models)**
-* ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/), [MakerWorld](https://makerworld.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
-* [GraphicsCodex](https://graphicscodex.com/) - 3D Computer Graphic Guides
-* [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
-* [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
-* [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
-* [3DThis](https://3dthis.com/) - 3D Animation Tools
-* [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
-* [Embossify](https://www.embossify.com/), [Tripo3D](https://www.tripo3d.ai/app/home) or [TripoSG](https://huggingface.co/spaces/VAST-AI/TripoSG) - Image to 3D Model Converters
-* [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
-* [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
-* [Halloween.WannaThis](https://halloween.wannathis.one/) - 3D Halloween Models
-* [Vertex](https://vertex.im/) - 3D Icons
-* [Keygen](https://keygen.co/) - 3D Key Model Generator
-* [Generated Photos](https://generated.photos/) - AI Generated Model Photos
-* [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
-* [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
-* [Figurosity](https://figurosity.com/) - Human 3D Models
-* [ripper.store](https://forum.ripper.store/) - 3D Avatar Assets
-* [Armorpaint](https://armorpaint.org/) - 3D Painting
-* [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
-* [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
-* [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments
-* [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
-* [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
-* [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
-* [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
-* [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
-* [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
-* [Handz](https://www.handz.design/) - 3D Hand Models
-* [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
-* [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
-* [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
-* [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
-* [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
-* [The Blueprints](https://www.the-blueprints.com/) - Blueprints Database
-* [ORBION](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - DIY 3D Image Mouse
-* [Ninja Ripper](https://kemono.su/patreon/user/45591569) / [2](https://gamebanana.com/tools/5638) / [3](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
-
-***
-
 # ► Download Images
 
 * 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexes
@@ -456,7 +402,7 @@
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp2/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
+* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [PicTriev](https://www.pictriev.com/) - Find Look-Alike Images
@@ -486,6 +432,7 @@
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
+* [infini.wtf](https://infini.wtf/ - Reddit Image Search
 * [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [CopySeeker](https://copyseeker.net/) - Reverse Image Search
@@ -544,11 +491,11 @@
 
 ## ▷ Art / Illustrations
 
-* ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
+* ⭐ **[Kemono](https://kemono.su/posts?tag=)** - Patreon Content / **Some NSFW** / Use Adblock
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
-* ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Frontend](https://codeberg.org/PixivFE/PixivFE) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
+* ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
 * ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Downloader](https://github.com/kuanyui/BooruShinshi)
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [GitHub](https://github.com/hydrusnetwork/hydrus)
 * [Buzzly](https://buzzly.art/) - User-Made Art / Fanart
@@ -586,6 +533,86 @@
 
 ***
 
+# ► 3D Models
+
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
+* ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
+* [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
+* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
+* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
+* [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
+* [Figurosity](https://figurosity.com/) - Human 3D Models
+* [Handz](https://www.handz.design/) - 3D Hand Models
+* [Generated Photos](https://generated.photos/) - AI Generated Model Photos
+* [ripper.store](https://forum.ripper.store/) - 3D Avatar Assets
+* [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
+* [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
+* [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
+* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
+* [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
+* [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
+* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
+* [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
+* [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
+* [Halloween.WannaThis](https://halloween.wannathis.one/) - 3D Halloween Models
+* [Vertex](https://vertex.im/) - 3D Icons
+* [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
+* [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments
+* [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
+
+***
+
+## ▷ 3D Modeling Apps
+
+* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app), [2](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects based on Text / Image Prompts
+* [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
+* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [Wings 3D](https://www.wings3d.com/) - Cross-platform 3D Modeling App
+* [JustSketchMe](https://justsketch.me/) - Cross-platform 3D Pose Reference Tool
+* [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
+* [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
+* [Vectary](https://www.vectary.com/), [Womp](https://beta.womp.com/), [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
+* [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
+* [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
+* [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
+* [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
+* [Armorpaint](https://armorpaint.org/) - 3D Painting
+* [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
+
+***
+
+## ▷ 3D Modeling Tools
+
+* [Embossify](https://www.embossify.com/), [Tripo3D](https://www.tripo3d.ai/app/home) or [TripoSG](https://huggingface.co/spaces/VAST-AI/TripoSG) - Image to 3D Model Converters
+* [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
+* [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
+* [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
+* [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
+* [Keygen](https://keygen.co/) - 3D Key Model Generator
+* [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
+* [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
+* [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
+* [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
+* [Ninja Ripper](https://kemono.su/patreon/user/45591569) / [2](https://gamebanana.com/tools/5638) / [3](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
+* [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
+
+***
+
+## ▷ CAD Engineering
+
+* [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling with Real-time Collaboration
+* [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
+* [FreeCAD](https://www.freecad.org/) / [GitHub](https://github.com/FreeCAD/FreeCAD) - Parametric CAD Modeling
+* [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-platform CSG CAD Modeling
+* [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
+* [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
+* [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
+
+***
+
 # ► Image Tools
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art / Animation Resources
@@ -598,7 +625,7 @@
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
-* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends
+* [Binternet](https://github.com/Ahwxorg/Binternet?tab=readme-ov-file#instances) - Pinterest Frontend
 * [/r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
@@ -617,10 +644,9 @@
 * [Watermark Remover](https://www.watermarkremover.io/), [Unwatermark](https://unwatermark.ai/) or [DeWatermark](https://dewatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
-* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Face Swapper](https://faceswapper.ai/), [face-swap](https://face-swap.io/), [facy.ai](https://facy.ai/swap-face-ai/photo), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
+* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Face Swapper](https://faceswapper.ai/), [face-swap](https://face-swap.io/), [FaceSwapVideo](https://faceswapvideo.io/), [facy.ai](https://facy.ai/swap-face-ai/photo), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
@@ -629,6 +655,25 @@
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
+
+***
+
+## ▷ Image Compressors
+
+* ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Caesium Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
+* ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
+* [optimize.photos](https://optimize.photos/) - Batch Compressor
+* [CompressImage](https://compressimage.io/) - Batch Compressor
+* [CrushImage](https://crushimage.com/) - Batch Compressor
+* [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
+* [minipic](https://minipic.app/) - Batch Compressor / Converter
+* [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
+* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20 MB Upload / [GitHub](https://github.com/tinify)
+* [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
+* [CompressOrDie](https://compress-or-die.com/) - Multitool
+* [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
 
 ***
 
@@ -738,7 +783,7 @@
 
 * ⭐ **[Postimages](https://postimages.org/)** - 32MB / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit)
-* Imgur Tools - [Frontends](https://codeberg.org/rimgo/rimgo), [2](https://codeberg.org/3np/rimgu)
+* [Rimgo](https://rimgo.codeberg.page/) / [2](https://codeberg.org/rimgo/instances) or [Rimgu](https://codeberg.org/3np/rimgu) - Imgur Frontend
 * [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Sign-Up Required
 * [lookimg](https://lookimg.com/) - 20MB / Forever / Sign-Up Required
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Sign-Up Required
