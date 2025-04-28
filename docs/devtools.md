@@ -242,7 +242,7 @@
 * [PR-Agent](https://github.com/qodo-ai/pr-agent) - Automated Pull Requests
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
-* [Repo2Txt](https://github.com/abinthomasonline/repo2txt) - Convert Repos to Text Formatted Files
+* [Repo2Txt](https://repo2txt.com/) - Convert Repos to Text Formatted Files / [GitHub](https://github.com/abinthomasonline/repo2txt)
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - Convert Repos to Prompt-Friendly Text
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
@@ -362,7 +362,6 @@
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
 * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
-* [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 
@@ -735,11 +734,9 @@
 # ► Web Dev Tools
 
 * 🌐 **[Website Creation Resources](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)** - Web Dev Resources
-* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** - Static Site Resources / [GitHub](https://github.com/myles/awesome-static-generators)
 * 🌐 **[Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev YouTube Channel Indexes
-* ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
 * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
@@ -762,7 +759,6 @@
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [Transform](https://transform.tools/) - Polyglot Web Converter
-* [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Privacy-Based Captcha Systems
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
@@ -783,8 +779,6 @@
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
-* [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
-* [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
 * [Selenium](https://www.selenium.dev/), [CopyCat](https://www.runcopycat.com/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
@@ -796,6 +790,25 @@
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
 * [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
+
+***
+
+## ▷ Website Generators
+
+* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
+* ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
+* [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/), [Docusaurus](https://github.com/facebook/docusaurus) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
+* [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
+* [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
+* [Barely](https://github.com/charludo/barely) - Python Static Website Generator
+* [Vvveb](https://www.vvveb.com/), [Universe](https://onuniverse.com/), [Google Sites](https://sites.google.com/), [GrapeDrop](https://grapedrop.com/) or [Odoo](https://www.odoo.com/app/website) - Drag & Drop Website Builders
+* [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
+* [8b](https://8b.com/) - Simple Online Website Builder
+* [Potion](https://potion.so/) - Notion Website Builder
+* [Odie](https://odie.us/) - Make Webpages out of Google Docs
+* [ProjectVisBug](https://visbug.web.app) - Webpage Editor
+* [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
+* [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
 
 ***
 

@@ -22,8 +22,6 @@
 * ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-browser Updater
-* [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) or [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp) - Light and Fast Browsers
-* [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android) - Plant Trees while Browsing
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - Customizable Browsers based on Firefox
 
 ### Privacy Based
@@ -71,7 +69,7 @@
 ## Android Telegram Clients
 
 * ⭐ **[AyuGram](https://t.me/ayugramchat)** / [GitHub](https://github.com/AyuGram)
-* ⭐ **[Nagram](https://github.com/nextalone/nagram)**
+* ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel)
 
 [Nekogram](https://nekogram.app/), [Momogram](https://github.com/dic1911/Momogram), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Turrit](https://play.google.com/store/apps/details?id=org.telegram.group), [Nicegram](https://nicegram.app/), [Octogram](https://octogram.me/), [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
 
@@ -723,18 +721,19 @@
 
 ### General Music Sheets
 
-* ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore) - Free Sheet Music
-* [8notes](https://www.8notes.com/) - Free Sheet Music
-* [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
-* [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
-* [Notes Box](https://notes-box.com/) - Free Sheet Music
-* [Musopen](https://musopen.org/) - Free Sheet Music
-* [Sheet Music International](https://sheetmusicinternational.com/) - Free Sheet Music
-* [free-scores](https://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
-* [Sheet music for free](https://sheetmusicforfree.com/) - Free Sheet Music
-* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
-* [tchunes](https://www.daev.ca/tchunes/) - Free Sheet Music
-* [ScorSer](http://en.scorser.com/D/Sheet+music.html) - Free Sheet Music
+* ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore)
+* [8notes](https://www.8notes.com/)
+* [Mutopia Project](https://www.mutopiaproject.org/)
+* [sheetmusiceden](https://sheetmusiceden.com/)
+* [Notes Box](https://notes-box.com/)
+* [Musopen](https://musopen.org/)
+* [Free Scores](https://www.free-scores.com/)
+* [Sheet Music International](https://sheetmusicinternational.com/)
+* [free-scores](https://www.free-scores.com/free-sheet-music.php)
+* [Sheet music for free](https://sheetmusicforfree.com/)
+* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/)
+* [tchunes](https://www.daev.ca/tchunes/)
+* [ScorSer](http://en.scorser.com/D/Sheet+music.html)
 
 ### Specific Music Sheets
 
@@ -972,6 +971,7 @@
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRom](https://nswrom.com/)
 * [⁠ROMsHQ](https://romshq.com/)
+* [⁠notUltraNX](https://not.ultranx.ru/en) / Signup Required 
 * [taodung](https://taodung.com/)
 * [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/)
@@ -1082,14 +1082,6 @@
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Font Changer Guru](https://fontchangerguru.com/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
-
-***
-
-## Website Creators
-
-* ⭐ **[vitepress](https://vitepress.dev/)**
-
-[retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus), [Docsify](https://docsify.js.org/), [Odie](https://odie.us/)
 
 ***
 
