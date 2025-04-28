@@ -432,7 +432,7 @@
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
-* [infini.wtf](https://infini.wtf/ - Reddit Image Search
+* [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [CopySeeker](https://copyseeker.net/) - Reverse Image Search
