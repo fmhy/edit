@@ -205,9 +205,10 @@
 * [xlmp4](https://www.xlmp4.com/) - Video
 * [dygang](https://www.dygang.cc/) - Video
 * [ACG.rip](https://acg.rip/) - Anime / Audio
-* [Bangumi](https://bangumi.moe/) - Anime
 * [MioBT](https://www.miobt.com/) - Anime
+* [VCB-S](https://vcb-s.com/) - Anime
 * [ACGNX](https://share.acgnx.se/) - Anime
+* [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
 * [Mikan](https://mikanani.me/) - Anime
 * [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - Anime Torrent Auto Download
@@ -875,10 +876,7 @@
 
 ## ▷ Torrenting / トレント
 
-* [share.dmhy](https://share.dmhy.org/) - Video / Audio / Games / NSFW
-* [Beatrice](https://beatrice-raws.org/) - Anime / [Discord](https://discord.com/invite/Hry7EkU) / [Telegram](https://t.me/BeatriceRaws)
-* [Anime-Torrent](https://www.anime-torrent.com/) - Anime
-* [VCB-S](https://vcb-s.com/) - Anime
+* [Bangumi](https://bangumi.moe/) - Anime
 
 ## ▷ Streaming / ストリーミング
 
