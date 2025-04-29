@@ -358,6 +358,7 @@
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
+* [Webshare - stremio addon](https://20317bf4c6c6-webshare-stremio-addon.baby-beamup.club/configure) - Movies / Tv / Anime / 4K
 
 ## ▷ Reading / Čtení
 
@@ -366,6 +367,9 @@
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 * [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
+
+## ▷ Torrenting / Torrenty
+* [TreZzoR](https://tracker.czech-server.com/) - Movies / TV / Games / 4$ - registration fee 
 
 ***
 
