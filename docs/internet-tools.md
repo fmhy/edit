@@ -375,6 +375,7 @@
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
+* [s.ee](https://s.ee/) - `s.ee/fmhy`
 * [1kb.link](https://1kb.link/) - `1kb.link/acc0a`
 * [X.gd](https://x.gd/) - `x.gd/rcg0Z`
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
