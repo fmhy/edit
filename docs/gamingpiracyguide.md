@@ -731,6 +731,7 @@
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
+* [Trivia Duel](https://www.triviaduel.com/) - Trivia vs. Friends
 
 ***
 
