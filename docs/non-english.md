@@ -104,7 +104,7 @@
 
 * [MLSDB](https://mlsbd.shop/) - Movie / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
-
+* [MLWBD](https://mlwbd.com/)-Movie / TV 
 ***
 
 ## ▷ Streaming / স্ট্রিমিং
@@ -113,6 +113,9 @@
 * [Bangla IPTV](https://rentry.co/FMHYBase64#bangla-iptv-playlists) - IPTV Playlists
 
 ***
+## ▷Ai / কৃত্রিম বুদ্ধিমত্তা
+
+* [Shothik Ai](https://www.shothik.ai/) - Grammar Checker / Paraphrase / Translate ..Etc
 
 # ► Bulgarian / Български
 
