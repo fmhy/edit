@@ -35,7 +35,6 @@
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 
-
 ***
 
 ## ▷ Online Editors
@@ -69,7 +68,6 @@
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [Img2Go](https://www.img2go.com/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
-* [AIEase](https://www.aiease.ai/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
 ***
