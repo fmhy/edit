@@ -15,6 +15,7 @@
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
+* [EasyVideo](https://easyvideo.app/ja/services/video-quality-enhancer) - Video Quality Enhancer
 
 ***
 
