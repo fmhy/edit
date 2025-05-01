@@ -936,6 +936,7 @@
 * [Glarity](https://glarity.app/) - Browser Extension
 * [Glasp](https://glasp.co/youtube-summary) or [Eightify](https://eightify.app/) - Chrome Extensions
 * [Stepify](https://stepify.tech/) - Summarize into a Step-by-step Tutorial
+* [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 
 ***
 
