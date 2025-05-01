@@ -573,7 +573,7 @@
 * [AllMusic](https://www.allmusic.com/) - Ratings / Reviews
 * [MusicBrainz](https://musicbrainz.org/) - Ratings / Reviews
 * [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)
-* [Kworb](https://kworb.net/), [Spotify Charts](https://spotifycharts.com/ or [⁠SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
+* [Kworb](https://kworb.net/), [Spotify Charts](https://spotifycharts.com/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [TheIndieRockPlaylist](https://www.theindierockplaylist.com/) - Indie Rock Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
