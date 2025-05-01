@@ -11,7 +11,7 @@
 * ⭐ **[Library Genesis](https://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-library.sk/), [5](https://z-lib.fm/) - Books / Comics / Educational / [Apps / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Discord](https://discord.com/invite/raWRQCk3n5)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** / [Invites](https://www.myanonamouse.net/inviteapp.php)
+* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Private Tracker / Books / Audiobooks / Comics / Sheet Music / [Invite](https://www.myanonamouse.net/inviteapp.php)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [Liber3](https://liber3.eth.limo/)
 * [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
@@ -27,15 +27,15 @@
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up Required
 * [eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/)
 * [AllBooksWorld](https://allbooksworld.com/) - [Telegram](https://t.me/allbooksworlddotcom)
-* [Novel12](https://novel12.com/) - Read Online
+* [Novel12](https://novel12.com/) - Web Novels / Read Online
 * [IsIDore](https://rentry.co/FMHYBase64#isidore)
 * [Various Books](https://rentry.co/FMHYBase64#various-books-manuals) - Educational Books and Manuals
 * [Avalon Library](https://avalonlibrary.net/) - Conspirology Books
 * [Library Land](https://library.land/) or [BookFrom.net](https://www.bookfrom.net/) - Read Online
-* [FreeEditorial](https://www.freeditorial.com/en/) - Read Online / [Spanish](https://www.freeditorial.com)
+* [FreeEditorial](https://www.freeditorial.com/en/) - Public Domain & Indie Books / Read Online / [Spanish](https://www.freeditorial.com)
 * [NovelsArchive](https://t.me/NovelsArchive) - Telegram
 * [BooksMania](https://t.me/booksmania) - Telegram
-* [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Sign-Up Required
+* [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up Required / Use Translator
 * [ExClassics](https://www.exclassics.com/) - Public Domain Obscure Books / Read Online
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
@@ -552,12 +552,10 @@
 # ► Educational Books
 
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Educational Book Site Index
-* 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
 * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
 * ⭐ **[Openstax](https://openstax.org/)**
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
-* [Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)
 * [Library Drive](https://rentry.co/FMHYBase64#library-drive)
 * [opendir](https://rentry.co/FMHYBase64#opendir)
 * [Edu Book Drive](https://rentry.co/FMHYBase64#edu-book-drive)
@@ -603,9 +601,23 @@
 * [Bookishfrenzy](https://t.me/premium_ebooks) - Books / Exam Books
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online University Libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
+* [Science Forums](https://www.scienceforums.net/) - Forums / Science
+* [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
+* [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
+* [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
+* [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
+* [VetBooks](https://vetbooks.ir/) - Veterinary
+* [Brill](https://brill.com/) - International Law Books / Free for Students Only
+* [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
+
+***
+
+## ▷ STEM Resources
+
+* 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
+* [Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
-* [Science Forums](https://www.scienceforums.net/) - Forums / Science
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com](https://chemistry.com.pk/) - Chemistry / Books
@@ -619,13 +631,6 @@
 * [PDFiles](https://www.pdfiles.net/) - IT Books
 * [IT Book Drive](https://rentry.co/FMHYBase64#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
-* [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
-* [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
-* [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
-* [VetBooks](https://vetbooks.ir/) - Veterinary
-* [Brill](https://brill.com/) - International Law Books / Free for Students Only
-* [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
 
 ***
 
@@ -844,7 +849,7 @@
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Ratings / Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** -  Manga / Light Novels / Rating / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Rating / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Rating / Tracking / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Rating / Releases
 * [listal](https://www.listal.com/) - Book Database
