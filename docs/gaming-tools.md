@@ -543,6 +543,7 @@
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
+* [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Github](https://github.com/OfficialDonut/VisualBukkit) / [Discord](https://discord.gg/ugkvGpu)
 
 ***
 
@@ -550,6 +551,7 @@
 
 * 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [Mirror](https://github.com/Myuui/Free-Minecraft-Hosts)
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
+* ⭐ **[dank.tool](https://github.com/SirDank/dank.tool?tab=readme-ov-file#-most-advanced-minecraft-server-builder-)** - Easy Server Setup / [Github](https://github.com/SirDank/dank.tool) / [Discord](https://dankware.onrender.com/discord)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * [World Host](https://modrinth.com/mod/world-host) or [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://modrinth.com/mod/mcwifipnp) - Local Server Multiplayer Mods
@@ -564,7 +566,8 @@
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
+* [dank.tool](https://github.com/SirDank/dank.tool?tab=readme-ov-file#-minecraft-server-scanner-) - Windows Minecraft Server Scanner / [Github](https://github.com/SirDank/dank.tool) / [Discord](https://dankware.onrender.com/discord) / [Java Server List](https://dankware.onrender.com/minecraft-java-servers) / [Bedrock Server List](https://dankware.onrender.com/minecraft-bedrock-servers)
+* [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Linux Minecraft Server Scanner
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Real-Time Updated Server Banners
