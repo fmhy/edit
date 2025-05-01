@@ -32,7 +32,7 @@
 * [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [AlienFlix](https://alienflix.net/) - Movies / TV / Anime / Auto-Next
-* [CookedMovies](https://cookedmovies.xyz/) - Movies / TV / Anime / Auto-Next
+* [Filmex.to](https://filmex.to/) - Movies / TV / Anime / Auto-Next
 * [Broflix](https://broflix.si/) - Movies / TV / Anime / Auto-Next
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
