@@ -19,17 +19,17 @@
 ## Android Browsers
 
 * ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
-* ⭐ **[Brave](https://brave.com/)** - Chromium based Browser with Built-in Adblock
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Customizable Browsers based on Firefox
-* [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-browser Updater
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork Based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Brave](https://brave.com/)** - Chromium-Based Browser with Built-in Adblock
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Customizable Browser Based on Firefox
+* [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
 
 ### Privacy Based
 
 * ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork
-* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-routed Browser
+* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Browser with Tracking Protection
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser focused on Privacy
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser Focused on Privacy
 
 ***
 
@@ -199,7 +199,7 @@
 
 ## CSS Framework Tools
 
-* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
+* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
 * ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework

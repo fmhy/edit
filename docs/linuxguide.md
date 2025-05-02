@@ -451,7 +451,7 @@
 * [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with built-in Android Emulator
-* [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-based OS for PC
+* [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
 
 ***
 

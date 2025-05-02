@@ -446,7 +446,7 @@
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Rosebud AI](https://www.rosebud.ai/) or [Wild West](https://www.wildwest.gg/) - AI Made Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
-* [⁠ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games 
+* [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [frogie's arcade](https://frogiesarca.de/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
 * [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
@@ -740,7 +740,7 @@
 * ⭐ **[Plonk It](https://www.plonkit.net/)** / [Discord](https://discord.gg/7eFVgb4c), **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
 * ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Account Required
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
-* [⁠LearnableMeta](https://learnablemeta.com/) - Geoguessr Practice Maps & Hints / [Discord](https://discord.gg/AcXEWznYZe)
+* [LearnableMeta](https://learnablemeta.com/) - Geoguessr Practice Maps & Hints / [Discord](https://discord.gg/AcXEWznYZe)
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [Geohub](https://www.geohub.gg/) - Free GeoGuessr Alt / Requires Google API
 * [GuessWhereYouAre](https://guesswhereyouare.com/) - Free GeoGuessr Alt w/ Multiplayer

@@ -211,11 +211,11 @@
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
-* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [Notepads](https://www.notepadsapp.com/) - Text Editor
-* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
-* [Kompad](https://kompad.vercel.app/) - Text Editor
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
+* [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
+* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
+* [Kompad](https://kompad.vercel.app/) - Text Editor / [GitHub](https://github.com/hudy9x/kompad)
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / [Patcher](https://rentry.co/FMHYBase64#sublime-text) / [Package Manager](https://packagecontrol.io/)
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
