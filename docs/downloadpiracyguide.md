@@ -138,7 +138,7 @@
 * [Libreware](https://t.me/Libreware) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
-* [GenP](https://lemmy.dbzer0.com/c/GenP) - Adobe Software Patcher
+* [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Patcher
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
 ***
