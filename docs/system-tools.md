@@ -205,7 +205,7 @@
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring
 * [Task Manager DeLuxe](https://www.mitec.cz/tmx.html) - Task Manager Alt
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
-* [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [⁠FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers 
+* [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor
 * [bottom](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors
 
