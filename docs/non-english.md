@@ -825,7 +825,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.airforce/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunity.spa/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -917,6 +917,13 @@
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [LManga](https://www.lmanga.com/) - Manga
+* [jmanga](https://jmanga.cam/), [2](https://jmanga.se/) - Manga
+* [mangaraw](https://mangaraw.plus/) - Manga
+* [raw1001](https://raw1001.net/) - Manga
+* [mangakoma01](https://mangakoma01.net/) - Manga
+* [mangakoma](https://mangakoma.net/) - Manga
+* [syosetu](https://syosetu.now/) - Manga
+* [rawfree](https://rawfree.me/) - Manga
 * [spoilerplus](https://spoilerplus.tv) - Manga
 * [mangajikan](https://www.mangajikan.com/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
@@ -1171,6 +1178,7 @@
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [pirilampo](https://www.pirilampo.tv/) - Live TV
 * [Futebol Agora](https://futebolagora.gratis/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
