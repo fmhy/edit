@@ -40,7 +40,6 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
 * [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
@@ -62,20 +61,20 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS](https://obsproject.com/)**
-* ⭐ **[gifcap](https://gifcap.dev/)** / [GitHub](https://github.com/joaomoreno/gifcap), [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
+* [gifcap](https://gifcap.dev/) - Turn Screencasts into GIFs / [GitHub](https://github.com/joaomoreno/gifcap)
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
 * [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
 * [FFmpeg](https://ffmpeg.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * [Vileo](https://lukasbach.github.io/vileo/)
-* [Shar.ec](https://shar.ec/)
+* [ShareX](https://getsharex.com/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
-* [ScreenREC](https://screen-rec.vercel.app/)
-* [KazCap](https://recorder.kuan.sh/)
-* [RecordScreen](https://recordscreen.io/)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
-* [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
-* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+* [Shar.ec](https://shar.ec/)- Online
+* [ScreenREC](https://screen-rec.vercel.app/) - Online
+* [KazCap](https://recorder.kuan.sh/) - Online
+* [RecordScreen](https://recordscreen.io/) - Online
+* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) - Online
 
 ***
 
