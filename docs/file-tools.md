@@ -69,6 +69,7 @@
 
 * 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
+* ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
