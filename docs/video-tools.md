@@ -72,6 +72,7 @@
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
 * [Shar.ec](https://shar.ec/) - Online
 * [ScreenREC](https://screen-rec.vercel.app/) - Online
+* [⁠ScreenRecorder.me](https://www.screenrecorder.me/) - Online
 * [KazCap](https://recorder.kuan.sh/) - Online
 * [RecordScreen](https://recordscreen.io/) - Online
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) - Online
