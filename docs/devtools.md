@@ -726,6 +726,7 @@
 
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
 * [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
+* [Laragon](https://laragon.org/) - Portable PHP Development Environment / [Github](https://github.com/leokhoa/laragon)
 * [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
 * [Valinor](https://valinor.cuyz.io) / [GitHub](https://github.com/CuyZ/Valinor) - PHP Object Mapper
 * [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
