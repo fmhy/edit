@@ -207,7 +207,6 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[Awesome GitHub](https://github.com/fffaraz/awesome-github)** - GitHub Resources
 * 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Index
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
