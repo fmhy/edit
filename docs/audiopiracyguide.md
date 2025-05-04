@@ -163,13 +163,12 @@
 * [RadioReference](https://www.radioreference.com/) or [morsecode.me](https://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
-* [RadioSide](https://radioside.com/) - Internet Radio Receiver
-* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
 
 ## ▷ Internet Radio
 
+* ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[NTS Radio](https://www.nts.live/)**- DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
@@ -207,6 +206,8 @@
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio
+* [RadioSide](https://radioside.com/) - Internet Radio Receiver
+* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
 
