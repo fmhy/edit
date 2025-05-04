@@ -417,6 +417,7 @@
 * [MutStreams](https://mutstreams.com)
 * [Sportsurge.club](https://sportsurge.club/) - Stream Aggregator
 * [TFLIX](https://tv.tflix.app/)
+* [⁠TimStreams](https://timstreams.site/), [2](https://timstreams.xyz/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * [Sportea](https://s1.sportea.link/)
 * [SportOnTV](https://sportontv.xyz/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [Cineby Live](https://www.cineby.app/livestream) / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
