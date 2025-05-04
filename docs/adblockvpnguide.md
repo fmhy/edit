@@ -94,7 +94,7 @@
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Detects if Current Site is Trusted / Untrusted
 * [FMHY LinkSafe Guard](https://greasyfork.org/en/scripts/528660-fmhy-safelink-guard) - Shows if Site is Trusted / Untrusted on Web Results
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#malware-removal-forums)
-* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://rentry.co/sandboxie-guide) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
+* [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://rentry.co/sandboxie-guide) / [Crack](https://github.com/lyc8503/Sandboxie-crack) / [Feature Comparison](https://sandboxie-plus.com/feature-comparison/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus / [X](https://x.com/esetglobal)
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
