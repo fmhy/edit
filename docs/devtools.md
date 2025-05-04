@@ -576,6 +576,7 @@
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
 * [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
 * [oslo](https://oslo-vsc.netlify.app/) - Theme Generator
+* [Gitlens pro](https://github.com/chengazhen/gitlens-pro) - GitLens Pro Activator
 
 ***
 
