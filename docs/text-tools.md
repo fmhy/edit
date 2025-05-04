@@ -208,7 +208,7 @@
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
-* ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
+* ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
@@ -400,6 +400,7 @@
 
 ## ▷ To Do Lists
 
+* ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
 * ⭐ **[Super Productivity](https://super-productivity.com/)**
@@ -526,7 +527,6 @@
 
 ## ▷ Font / Text Generators
 
-* ↪️ **[Unicode Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_text_generators)**
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
@@ -548,3 +548,21 @@
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
 * [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
 * [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [MFEKglif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Birdfont](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [FontForge](https://fontforge.org/en-US/) - Font / Typeface Editors
+
+***
+
+## ▷ Unicode Text Generators
+
+* ⭐ **[YayText](https://yaytext.com/)**
+* ⭐ **[Messletters](https://www.messletters.com/)**
+* ⭐ **[FSymbols](https://fsymbols.com/generators/)**
+* ⭐ **[Fancy Text](https://fancy-text.net/)**
+* [Cool Fonts Online](https://coolfont.org/)
+* [FontMaker.io](https://fontmaker.io/)
+* [Aesthetic Font Generator](https://www.tesms.net/)
+* [BoldTextGenerator](https://boldtextgenerator.org/)
+* [Font Generator Online](https://www.fontgeneratoronline.com/)
+* [FontGenerator.cc](https://fontgenerator.cc/)
+* [FontGenerator.cool](https://fontgenerator.cool/)
+* [Font Changer Guru](https://fontchangerguru.com/)
+* [Fancy Text Decorator](https://fancytextdecorator.com/)
