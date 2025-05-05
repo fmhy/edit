@@ -558,7 +558,6 @@
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion) / [GitHub](https://github.com/viaversion)
 * [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB)
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
