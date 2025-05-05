@@ -33,7 +33,6 @@
 * [The Brutalist Report](https://brutalist.report/) - Dev News
 * [jimmyr](https://jimmyr.com/) - Dev News
 * [daily.dev](https://app.daily.dev/posts) - Dev News
-* [TheCyberPost](https://thecyberpost.com/) - Cybersecurity News
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
@@ -132,6 +131,7 @@
 * [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
+* [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Official Android Courses](https://developer.android.com/courses) - Android Training Courses
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
@@ -207,7 +207,6 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[Awesome GitHub](https://github.com/fffaraz/awesome-github)** - GitHub Resources
 * 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Index
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
@@ -842,8 +841,11 @@
 * 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
-* ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
+* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
+* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
+* [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
+* [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * [Aspect](https://aspect.app/) or [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
@@ -900,7 +902,7 @@
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
 * [Host-Tracker](https://www.host-tracker.com/en/ic/check-http) or [OONI](https://ooni.org/) - Check Site Location Availability / [Bypass Paywall](https://rentry.co/FMHYBase64#host-tracker-bypass)
-* [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
+* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
@@ -925,6 +927,10 @@
 ## ▷ WordPress Tools
 
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
+* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
+* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
 * [faustjs](https://faustjs.org) - WordPress Framework

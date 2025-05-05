@@ -243,7 +243,7 @@
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
 * [Marginalia Search](https://marginalia-search.com/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
-* [TheOldNet](https://theoldnet.com/) or [OldVista](https://www.oldavista.com/) - Oldschool Site Search Engines
+* [TheOldNet](https://theoldnet.com/) or [OldVista](https://www.oldavista.com/) - Oldschool / Retro Site Search Engines
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Mullvad Leta](https://leta.mullvad.net/)
@@ -492,7 +492,7 @@
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
-* [NanoMail](https://nanomail.tech/), [2](https://nano-mail.vercel.app/) - Forever / 7 Days / 1 Domain
+* [NanoMail](https://nano-mail.vercel.app/), [2](https://nanomail.tech/) - Forever / 7 Days / 1 Domain
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
@@ -587,6 +587,7 @@
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://browsers.avoidthehack.com/) - Compare Popular Browsers
 * 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
 * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+* ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Track Firefox Releases
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script

@@ -4,68 +4,6 @@
 ***
 ***
 
-## Ambient Sound Mixers
-
-* ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
-* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
-* [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
-* [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
-* [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
-* [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
-* [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
-
-***
-
-## Android Browsers
-
-* ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork Based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
-* ⭐ **[Brave](https://brave.com/)** - Chromium-Based Browser with Built-in Adblock
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Customizable Browser Based on Firefox
-* [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
-
-### Privacy Based
-
-* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork
-* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Browser with Tracking Protection
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser Focused on Privacy
-
-***
-
-## Android Text Editors
-
-* ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode) or **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text / Code Editors
-* [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editor
-* [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
-
-### Note-Taking
-
-* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
-* ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)** - Minimalistic Note-Taking App
-* [OpenNote](https://github.com/YangDai2003/OpenNote-Compose), [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
-* [Quillpad](https://quillpad.github.io/) / [GitHub](https://github.com/quillpad/quillpad) - Note-Taking App with Markdown Support
-* [Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile) - E2E Encrypted Note-Taking App
-* [Safe Notes](https://safenotes.dev/) / [GitHub](https://github.com/keshav-space/safenotes) - AES-256 Encrypted Note-Taking App
-* [Notebook](https://www.zoho.com/notebook/mobile-app.html), [NotePad](https://github.com/mshdabiola/NotePad), [Notally](https://github.com/OmGodse/Notally) or [Google Keep](https://keep.google.com/) - Multi-media Note-Taking Apps
-* [ColorNote](https://www.colornote.com/) - Simple / Minimalistic Note-Taking App
-* [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
-* [Moe Memos](https://memos.moe/) - Self-hosted Note-Taking App
-* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers
-* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) - Note-Taking Apps for Handwritten Notes
-
-### To-Do Apps
-
-* ⭐ **[Tasks](https://tasks.org/)** - Customizable To-Do App with Sync Support
-* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)** - To-Do App with Pomodoro Timer
-* [Any.do](https://www.any.do/), [Orgzly-revived](https://www.orgzly.com) or [Taskito](https://taskito.io/) - To-Do Apps with Sync Support
-* [doable](https://doable.at/) - To-Do App with Sync / Extensions Support
-* [Alkaa](https://github.com/igorescodro/alkaa), [Teuxdeux](https://teuxdeux.com/), [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2) or [Twos](https://www.twosapp.com/) - Simple To-Do Apps
-* [EverydayTasks](https://everydaytasks.jepfa.de/) - To-do App with Statistics
-
-
-***
-
 ## Android Telegram Clients
 
 * ⭐ **[AyuGram](https://t.me/ayugramchat)** / [GitHub](https://github.com/AyuGram)
@@ -814,7 +752,7 @@
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
 
-[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Downloader](https://www.slidesdownloader.com/), [Excalideck](https://app.excalideck.com/)
+[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://app.excalideck.com/)
 
 ### Presentation Templates
 
@@ -827,28 +765,6 @@
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
 [Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist), [airfield1972](https://t.me/airfield1972)
-
-***
-
-## Radio Streaming Sites
-
-### Live Radio
-
-* 🌐 **[FMSTREAM](https://fmstream.org/)** - Radio Index
-* 🌐 **[Recommended Radio Streams](https://github.com/deroverda/recommended-radio-streams)** - Radio Index
-* 🌐 **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** - Radio Index
-* 🌐 **[Radio Browser](https://www.radio-browser.info/users)** - Radio Index
-* ⭐ **[Radio Garden](https://radio.garden/)** - Worldwide Radio Globe / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs)
-* ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [StreamURL](https://streamurl.link/) - Radio URL Search
-
-[iHeartRadio](https://www.iheart.com/), [Flicker Radio](https://flickermini.pages.dev/radiostations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/), [radioline](https://www.radioline.co/), [QMPlay2](https://github.com/zaps166/QMPlay2), [UKRadioLive](https://ukradiolive.com/), [Quasar Radio](https://kuasark.com/en/)
-
-### Internet Radio
-
-* ⭐ **[SomaFM](https://somafm.com/)**
-
-[deepcut.fm](https://deepcut.live/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/), [Audiophile](https://audiophile.fm/), [NTS Radio](https://www.nts.live/) / [SoundCloud](https://soundcloud.com/user-643553014), [You Radio](https://play.you.radio/), [rivestream](https://rivestream.org/radio), [SEDR](https://www.sedr.space/)
 
 ***
 
@@ -1065,39 +981,3 @@
 * [UdemyRip](https://t.me/udemyrip) - Web Development / Cybersecurity Resources
 * [Udemy FREE](https://t.me/udemyforu) - Development Resources
 * [CGPERS](https://t.me/CGPERS) - 3D Resources
-
-***
-
-## Unicode Text Generators
-
-* ⭐ **[YayText](https://yaytext.com/)**
-* ⭐ **[Messletters](https://www.messletters.com/)**
-* ⭐ **[FSymbols](https://fsymbols.com/generators/)**
-* ⭐ **[Fancy Text](https://fancy-text.net/)**
-* [Cool Fonts Online](https://coolfont.org/)
-* [FontMaker.io](https://fontmaker.io/)
-* [Aesthetic Font Generator](https://www.tesms.net/)
-* [BoldTextGenerator](https://boldtextgenerator.org/)
-* [Font Generator Online](https://www.fontgeneratoronline.com/)
-* [FontGenerator.cc](https://fontgenerator.cc/)
-* [FontGenerator.cool](https://fontgenerator.cool/)
-* [Font Changer Guru](https://fontchangerguru.com/)
-* [Fancy Text Decorator](https://fancytextdecorator.com/)
-
-***
-
-## Website Templates
-
-* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
-* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
-* [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
-* [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
-
-***
-
-## WordPress Themes
-
-* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
-* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
-* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
-* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Telegram

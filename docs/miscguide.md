@@ -752,7 +752,6 @@
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
 * [Resuminator](https://www.resuminator.in/)
-* [Sclof](https://sclof.com/)
 * [flowcv](https://flowcv.com/)
 * [Resumake](https://resumake.io/) / [GitHub](https://github.com/saadq/resumake.io)
 * [resume-nation](https://resume-nation.github.io/)
