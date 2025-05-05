@@ -170,12 +170,12 @@
 
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
-* ⭐ **[NTS Radio](https://www.nts.live/)**- DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
-* [AccuRadio](https://www.accuradio.com/) - Online Radio 
+* [AccuRadio](https://www.accuradio.com/) - Online Radio
 * [You Radio](https://play.you.radio/) - Online Radio
 * [Audiophile](https://audiophile.fm/) - Online Radio
 * [ShoutCast](https://directory.shoutcast.com/) - User-Stations
@@ -185,7 +185,7 @@
 * [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/) - Game Soundtracks
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
 * [Tilderadio](https://tilderadio.org/) - Community Radio
-* [UpBeat](https://upbeatradio.net/)  - Community Radio / [Discord](https://upbeat.pw/discord) 
+* [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
 * [Radios.yt](https://radios.yt/) - YT Radio Aggregator
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio
@@ -875,7 +875,7 @@
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [Zrythm](https://www.zrythm.org/en/index.html) - Digital Audio Workstation
 * [LMMS](https://lmms.io/) - Digital Audio Workstation / [Discord](https://discord.com/invite/PruNxpG)
-* [⁠Waveform](https://www.tracktion.com/products/waveform-free) - Digital Audio Workstation
+* [Waveform](https://www.tracktion.com/products/waveform-free) - Digital Audio Workstation
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
