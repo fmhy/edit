@@ -628,7 +628,6 @@
 * [Cuterdio](https://cuterdio.com/en) - Radio
 * [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
 * [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
-* [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription
 
 ***
 

@@ -1351,7 +1351,6 @@
 
 ## ▷ Dictionaries / Thesaurus
 
-* 🌐 **[Dictionary Index](https://onelook.com/?d=all_gen)** - List of Online Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / [Files](https://rentry.co/FMHYBase64#goldendict-files)
