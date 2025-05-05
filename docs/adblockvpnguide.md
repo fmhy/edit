@@ -45,7 +45,7 @@
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [X](https://x.com/The_Pi_Hole)
-* ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/)
+* ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Dns Encryption](https://docs.pi-hole.net/guides/dns/dnscrypt-proxy/)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
