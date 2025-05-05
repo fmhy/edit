@@ -136,6 +136,7 @@
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [TorBox](https://torbox.app/) - Torrent to Cloud
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 
