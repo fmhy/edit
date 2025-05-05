@@ -27,6 +27,7 @@
 * ⭐ **[1Shows](https://www.1shows.live/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[MovieMaze](https://moviemaze.cc/)** - Movies / TV / Anime / Auto-Next
 * [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next
+* [Samblix](https://samblix.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.gg/YhQPSSMps2)
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * [Bingeflex](https://bingeflix.tv/) - Movies / TV / Auto-Next / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
