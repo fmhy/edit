@@ -77,7 +77,7 @@
 
 ## ▷ Package Managers
 
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** - CLI Package Manager / [Repos](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate)
+* ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Repos](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate)
 * ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
