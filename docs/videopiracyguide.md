@@ -163,14 +163,14 @@
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
-* [⁠Anime-Stream](https://anime-stream.io/) - Sub / Dub / [Discord](https://discord.com/invite/CpXEuEFTmU)
+* [Anime-Stream](https://anime-stream.io/) - Sub / Dub / [Discord](https://discord.com/invite/CpXEuEFTmU)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub / [Discord](https://discord.com/invite/XrkPwBda)
 * [Lucifer Donghua](https://luciferdonghua.in/) - Donghua / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
-* [⁠Anoboye](https://anoboye.com/) - Donghua / Sub
+* [Anoboye](https://anoboye.com/) - Donghua / Sub
 * [LMANIME](https://lmanime.com/) - Donghua / Sub
 * [CKSub](https://cksub.org/) - Donghua / Sub / [Telegram](https://t.me/CKSubORG)
 * [MyAnime](https://myanime.live/) - Donghua / Sub
