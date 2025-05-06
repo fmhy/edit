@@ -265,7 +265,7 @@
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
-* [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles 
+* [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games

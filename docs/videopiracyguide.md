@@ -116,7 +116,7 @@
 * ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / [Avaliable Countries](https://corporate.tubitv.com/)
 * ⭐ **[Plex](https://watch.plex.tv/)** - Movies / TV / 720p
 * ⭐ **[Pluto](https://pluto.tv/)** - Movies / TV / 720p
-* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies), [FreeGreatMovies](https://www.freegreatmovies.com/), [Voleflix](https://vole.wtf/voleflix/), [OpenCulture](https://www.openculture.com/freemoviesonline), [MoviesFoundOnline](https://moviesfoundonline.com/) or [Official YT Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) (US only) - YouTube Movie Collections
+* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies), [FreeGreatMovies](https://www.freegreatmovies.com/), [Voleflix](https://vole.wtf/voleflix/), [OpenCulture](https://www.openculture.com/freemoviesonline), [MoviesFoundOnline](https://moviesfoundonline.com/) or [Official YT Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) (US Only) - YouTube Movie Collections
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
 * [Freevee](https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
@@ -162,14 +162,14 @@
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
-* [⁠Anime-Stream](https://anime-stream.io/) - Sub / Dub / [Discord](https://discord.com/invite/CpXEuEFTmU)
+* [Anime-Stream](https://anime-stream.io/) - Sub / Dub / [Discord](https://discord.com/invite/CpXEuEFTmU)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub / [Discord](https://discord.com/invite/XrkPwBda)
 * [Lucifer Donghua](https://luciferdonghua.in/) - Donghua / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
-* [⁠Anoboye](https://anoboye.com/) - Donghua / Sub
+* [Anoboye](https://anoboye.com/) - Donghua / Sub
 * [LMANIME](https://lmanime.com/) - Donghua / Sub
 * [CKSub](https://cksub.org/) - Donghua / Sub / [Telegram](https://t.me/CKSubORG)
 * [MyAnime](https://myanime.live/) - Donghua / Sub
