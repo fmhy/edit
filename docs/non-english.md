@@ -1086,6 +1086,8 @@
 
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
+* [Vider.info](https://vider.info/) - Movies / Series / Any videos
+* [Vider.cx](https://vider.cx/) - Movies
 * [Strims](https://strimsy.top/) - Live Sports
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Virpe](https://virpe.cc/) - Movies / TV
