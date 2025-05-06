@@ -290,7 +290,7 @@
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
-* [PKGPS4](https://www.pkgps4.click/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
+* [PKGPS4](https://www.pkgps4.click/), [⁠PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles

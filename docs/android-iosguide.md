@@ -169,7 +169,7 @@
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
 * [MyInsta](https://t.me/instasmashrepo) or [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
-* [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
+* [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) or [⁠Nobook](https://github.com/ycngmn/Nobook) - Modded Facebook Messenger
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher
@@ -186,7 +186,7 @@
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** - Android Discussion Forum
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers
-* ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop
+* ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid), **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
@@ -282,13 +282,13 @@
 ## ▷ Keyboard Tools
 
 * ⭐ **[FUTO Keyboard](https://keyboard.futo.org/)** - Privacy-Focused Keyboard
-* ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/Layouts)
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard
+* ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/Layouts)
 * [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) - Keyboard
-* [Flickboard](https://codeberg.org/natkr/flickboard) - Keyboard
 * [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Privacy-Focused Keyboard
 * [Thumb-Key](https://github.com/dessalines/thumb-key) - Swipe Keyboard
+* [Flickboard](https://codeberg.org/natkr/flickboard) - Keyboard
 * [KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - AI Keyboard
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Remap Keys / [Docs](https://docs.keymapper.club/) / [Discord](https://discord.com/invite/jutQhBeKpb)
@@ -1223,7 +1223,7 @@
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [Reddit Deluxe](https://t.me/ethMods), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#redditfilter-note), [Winston](https://winston.cafe/), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) or [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Arctic](https://getarctic.app/), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
-* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - X.com Apps
+* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension

@@ -436,15 +436,16 @@
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ↪️ **[Download Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)** - Many Handle YT Videos
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online Downloader / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
-* ⭐ **[Stacher](https://stacher.io/)**, [oleksis youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [StefanLobbenmeier youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-Platform YouTube-DL GUIs
+* ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)** or [Tartube](https://tartube.sourceforge.io/) - Cross-Platform YT-DLP GUIs
+* ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * ⭐ **[AMP4](https://amp4.cc/)** - YouTube Downloader / Online
-* [Videomass](https://jeanslack.github.io/Videomass/) / [GitHub](https://github.com/jeanslack/Videomass) or [ezytdl](https://github.com/sylviiu/ezytdl), [Tartube](https://tartube.sourceforge.io/), [Media Downloader](https://github.com/mhogomchungu/media-downloader) or [Parabolic](https://github.com/NickvisionApps/Parabolic) - Cross-Platform YT-DLP GUIs
-* [Downlodr](https://downlodr.com/) / [GitHub](https://github.com/Talisik/Downlodr), [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface), [GDownloader](https://github.com/hstr0100/GDownloader) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
+* [Stacher](https://stacher.io/), [oleksis youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [StefanLobbenmeier youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-Platform YT-DL GUIs
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
-* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader App
 * [EZMP3](https://ezmp3.cc/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
