@@ -132,10 +132,10 @@
 * ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
 * [webtor](https://webtor.io/) - Torrent to Stream / DDL Sites
-* [BitPlay](https://bitplay.to/) - Torrent to Stream / [GitHub](https://github.com/aculix/bitplay)
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream 
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
