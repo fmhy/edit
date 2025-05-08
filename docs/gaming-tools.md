@@ -219,6 +219,7 @@
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
+* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN)
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
@@ -230,7 +231,6 @@
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
-* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN)
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [BoardGameGeek](https://boardgamegeek.com/) or [Kallax](https://kallax.io/) - Board Game Database

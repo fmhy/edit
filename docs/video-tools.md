@@ -70,6 +70,7 @@
 * [ShareX](https://getsharex.com/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap)
 * [Shar.ec](https://shar.ec/) - Online
 * [ScreenREC](https://screen-rec.vercel.app/) - Online
 * [ScreenRecorder.me](https://www.screenrecorder.me/) - Online

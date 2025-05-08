@@ -73,7 +73,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gd/) / [Mobilism](https://forum.mobilism.org)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://bookracy.ru/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**

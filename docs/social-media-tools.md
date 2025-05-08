@@ -108,7 +108,7 @@
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
 * [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
-* [Nelly](https://nelly.tools/tags) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
+* [Nelly](https://nelly.tools/tags), [Discord Server Tags](https://discordguildas.neocities.org/) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
 * [Emoji List](https://discords.com/emoji-list) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Free Discord Nitro Emojis
@@ -192,7 +192,6 @@
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Newsit](https://github.com/benwinding/newsit) - Find Reddit Comments for any Webpage
-* [Pholder](https://pholder.com/) - Article Style Viewer
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
 * [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
@@ -388,7 +387,7 @@
 * ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialio](https://materialio.us/) - YouTube Frontends / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
-* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
+* [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [Poke](https://poketube.fun/) - YouTube Frontend
@@ -629,7 +628,7 @@
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
 * ↪️ **[Instagram Viewers / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_instagram_viewers_.2F_downloaders)** - View Profiles / Download Pictures
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login
-* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
+* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord / [GitHub](https://github.com/Wikidepia/InstaFix)
 * [Proxigram](https://codeberg.org/proxigram/proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
