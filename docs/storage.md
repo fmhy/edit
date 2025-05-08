@@ -892,6 +892,7 @@
 * [taodung](https://taodung.com/)
 * [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/)
+* [SwitchGamesMall](https://switchgamesmall.icu/) / [Discord](https://discord.gg/rgttByzYRY)
 
 ***
 
