@@ -98,6 +98,7 @@
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
 * [translatedict](https://www.translatedict.com/)
 * [Translator.eu](https://www.translator.eu/)
+* [Textractor](https://github.com/Artikash/Textractor) - Game / Visual Novel Translator
 
 ***
 
