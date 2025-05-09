@@ -219,7 +219,7 @@
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
-* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN)
+* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN) / [GitHub](https://exefer.github.io/lowspecgames/)
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
