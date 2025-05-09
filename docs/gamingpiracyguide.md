@@ -772,6 +772,7 @@
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Hangin' Man](https://www.hanginman.xyz) - Fast-paced Hangman Game
 * [Word Golf](https://www.word.golf/) - Word Relation Game
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
