@@ -94,8 +94,9 @@
 
 * 🌐 **[Awesome AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)** - AutoHotkey Resources
 * 🌐 **[Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)** - AutoIt Resources
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Script Gen](https://www.ahkgen.com/) / [Discord](https://discord.com/invite/Aat7KHmG7v)
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
+* [⁠Tinytask](https://tinytask.net/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
