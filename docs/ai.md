@@ -258,6 +258,7 @@
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
+* [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
 
 ***
 
