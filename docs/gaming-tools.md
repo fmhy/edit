@@ -201,12 +201,13 @@
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
 * ⭐ **[IGDB](https://www.igdb.com/)** - Game Database
-* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
+* [Moby Games](https://www.mobygames.com/) - Game Database
+* [GiantBomb](https://www.giantbomb.com/games/) - Game Database
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Grouvee](https://www.grouvee.com/) - Tracking / Database
 * [RankOne](https://www.rankone.global/) - Tracking / Database
 * [GG](https://ggapp.io/) - Tracking / Database
-* [InfiniteBacklog](https://infinitebacklog.net/) - Tracking / Database
+* [Infinite Backlog](https://infinitebacklog.net/) - Tracking / Database
 * [KeepTrackOfMyGames](https://keeptrackofmygames.com/) - Tracking / Database
 * [PlayTracker](https://playtracker.net/) - Tracking / Database
 * [Gamelib](https://gamelib.app/explore) - Tracking / Database
@@ -215,7 +216,6 @@
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [Rawg](https://rawg.io/) - Game Database
-* [Moby Games](https://www.mobygames.com/) - Game Database
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
