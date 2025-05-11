@@ -828,7 +828,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.spa/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunity.ovh) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
