@@ -184,6 +184,26 @@
 
 ***
 
+## ▷ Text Adventures
+
+* **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
+
+***
+
+* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
+* ⭐ **[IFDB](https://ifdb.org/)** - Text Adventures
+* [IFWizz](https://ifwizz.de/if-en.html) - Text Adventures
+* [IFArchive](https://www.ifarchive.org/) - Text Adventures
+* [Web Adventures](https://www.web-adventures.org/) - Text Adventures
+* [Seedship](https://philome.la/johnayliff/seedship/play/index.html) - Text Adventures
+* [TextAventures](http://textadventures.co.uk/) - User-Made Text Adventures
+* [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/) or [Level 13](https://nroutasuo.github.io/level13/) - Individual Adventures
+* [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROMs
+* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
+* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
+
+***
+
 ## ▷ [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)
 
 ***
@@ -223,25 +243,34 @@
 * [PCSX-Redux](https://pcsx-redux.consoledev.net) - PSCX Development Emulator
 * [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
-* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
+
+***
+
+## ▷ ROM Tools / Resources
+
+* 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
+* ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
+* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
+* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
+* [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
+* [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
+* [/r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub
+* [Kuribo64](https://kuribo64.net/) - ROM Modding Community
 
 ***
 
 ## ▷ ROM Sites
 
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
-* 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ⭐ **[/r/ROMs Mega](https://r-roms.github.io/)** - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
 * ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
+* ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
 * ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
-* ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
-* ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
-* [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [AliceISO](https://alice.al/) - ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
@@ -282,57 +311,54 @@
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
-* [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
-* [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
-* [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
-* [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
-* [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
-* [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
-* [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
-* [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
-* [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
-* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
-* [NesFiles](https://www.nesfiles.com/) or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [MDK](https://mdk.cab/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-* [Kuribo64](https://kuribo64.net/) - ROM Modding Community
-* [MFGG](https://mfgg.net/) - Super Mario Fan Games / Mods / [Discord](https://discord.gg/jchgfw5)
-* [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) - Super Mario Bros. DS / Wii Mods
-* [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
-* [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Mods
-* [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
-* [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
-* [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
-* [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
-* [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
-* [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
-* [NSWDB](https://www.nswdb.com) - Switch Game Release Tracker
-* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
-* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 
 ***
 
-## ▷ Switch ROMs
+## ▷ Nintendo ROMs
 
-* ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
-* [NXBrew](https://nxbrew.net/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
-* [Ziperto](https://ziperto.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ziperto-warning) / [Discord](https://discord.gg/VgZ66bM87u)
-* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
-* [NswRom](https://nswrom.com/)
-* [ROMsHQ](https://romshq.com/)
-* [⁠SwitchGamesMall](https://switchgamesmall.icu/) / Downloads / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
-* [notUltraNX](https://not.ultranx.ru/en) / Sign-Up Required
-* [taodung](https://taodung.com/)
-* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
-* [ROMSLAB](https://romslab.com/)
+* ⭐ **[hShop](https://hshop.erista.me/)** or [3DS ROMS](https://3dsroms.org) - ROMs / 3DS
+* ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
+* ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
+* [taodung](https://taodung.com/) - ROMs / 3DS / Switch
+* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
+* [64DD.org](https://64dd.org/) - ROMs / 64DD
+* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/) - ROMs / Switch
+* [NswRom](https://nswrom.com/) - ROMs / Switch
+* [ROMsHQ](https://romshq.com/) - ROMs / Switch
+* [⁠SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
+* [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Sign-Up Required
+* [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
+* [ROMSLAB](https://romslab.com/) - ROMs / Switch
+* [NXBrew](https://nxbrew.net/) - ROMs / Switch / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
+* [NSWDB](https://www.nswdb.com) - Switch Release Tracker
+* [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
+* [MFGG](https://mfgg.net/) - Super Mario Fan Games / Mods / [Discord](https://discord.gg/jchgfw5)
+* [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) - Super Mario Bros. DS / Wii Mods
+* [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
+* [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
+* [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
+* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Mods
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
+* [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
+* [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
+* [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
+
+***
+
+## ▷ Sony ROMs
+
+* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSP
+* [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
+* [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
+* [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
+* [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
+* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
 
 ***
 
@@ -385,7 +411,6 @@
 
 # ► Browser Games
 
-* ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives / [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/)
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games

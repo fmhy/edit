@@ -30,7 +30,8 @@
 
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules
 * [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) - Blocklist Collection
-* [FilterLists](https://filterlists.com/) - Filter and host lists directory
+* [Hagezi Blocklists](https://github.com/hagezi/dns-blocklists) - Blocklist Collection
+* [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 
 ***

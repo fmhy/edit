@@ -1312,6 +1312,7 @@
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
 * [Just Type Stuff](https://justtypestuff.com/) - Type Things into Existence
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
+* [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
 * [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [2020 Game](https://2020game.io/) - Play Through 2020
