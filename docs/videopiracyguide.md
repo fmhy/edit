@@ -242,7 +242,7 @@
 * [KissAsian](https://kissasian.video/) - TV / Movies
 * [KissAsianTV](https://kissasiantv.blog/) - TV / Movies
 * [Drama-Cool](https://drama-cool.pl/), [2](https://dramacool.com.ly/) - TV / Movies
-* [DramaCool.bg](https://dramacool.bg/) - TV / Movies
+* [DramaCool.ba](https://dramacool.ba/) - TV / Movies
 * [DramaCool9](https://dramacools9.cam/) - TV / Movies
 * [dramacool](https://dramacool.com.cv/), [2](https://asianc.org.es/), [3](https://kissasian.com.lv/) - TV / Movies
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
