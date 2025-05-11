@@ -8,6 +8,8 @@
 
 ***
 
+# ► Download Games
+
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Game Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/?section=game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
@@ -180,26 +182,6 @@
 * [PyGames](https://www.pygame.org/) - Python Games
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
-
-***
-
-## ▷ Text Adventures
-
-* **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
-
-***
-
-* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
-* ⭐ **[IFDB](https://ifdb.org/)** - Text Adventures
-* [IFWizz](https://ifwizz.de/if-en.html) - Text Adventures
-* [IFArchive](https://www.ifarchive.org/) - Text Adventures
-* [Web Adventures](https://www.web-adventures.org/) - Text Adventures
-* [Seedship](https://philome.la/johnayliff/seedship/play/index.html) - Text Adventures
-* [TextAventures](http://textadventures.co.uk/) - User-Made Text Adventures
-* [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/) or [Level 13](https://nroutasuo.github.io/level13/) - Individual Adventures
-* [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROMs
-* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
-* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
 
 ***
 
@@ -530,6 +512,26 @@
 * [Death by AI](https://deathbyai.gg/) - Survival Plan Game
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+
+***
+
+## ▷ Text Adventures
+
+* **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
+
+***
+
+* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
+* ⭐ **[IFDB](https://ifdb.org/)** - Text Adventures
+* [IFWizz](https://ifwizz.de/if-en.html) - Text Adventures
+* [IFArchive](https://www.ifarchive.org/) - Text Adventures
+* [Web Adventures](https://www.web-adventures.org/) - Text Adventures
+* [Seedship](https://philome.la/johnayliff/seedship/play/index.html) - Text Adventures
+* [TextAventures](http://textadventures.co.uk/) - User-Made Text Adventures
+* [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/) or [Level 13](https://nroutasuo.github.io/level13/) - Individual Adventures
+* [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROMs
+* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
+* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
 
 ***
 
