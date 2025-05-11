@@ -219,7 +219,6 @@
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
 * [Kompad](https://kompad.vercel.app/) - Text Editor / [GitHub](https://github.com/hudy9x/kompad)
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / [Patcher](https://rentry.co/FMHYBase64#sublime-text) / [Package Manager](https://packagecontrol.io/)
-* [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
 

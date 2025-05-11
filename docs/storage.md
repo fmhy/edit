@@ -907,18 +907,6 @@
 
 ***
 
-## Text Adventures
-
-* Note - Text Adventures games (especially oldschool) are much easier to figure out with the help of AI chatbots. Theres are also usually guides online if you get stuck.
-
-* 🌐 **[IFDB](https://ifdb.org/)**, [IFWizz](https://ifwizz.de/if-en.html) or [IFArchive](https://www.ifarchive.org/) - Text Adventure Archives
-* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
-* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
-
-[Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
-
-***
-
 ## Torrent to Google Drive
 
 * **Note** - Use throwaway google accounts with these.

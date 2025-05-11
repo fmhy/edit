@@ -51,7 +51,6 @@
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses
 * [DigitalGarage](https://grow.google/intl/uk/courses-and-tools/) - Google Courses
-* [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [OpenHPI](https://open.hpi.de/) - Courses
 * [OLI](https://oli.cmu.edu/independent-learner-courses/) - Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
@@ -1022,7 +1021,7 @@
 ## ▷ Web Development
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
-* ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
+* ⭐ **[Odin Project](https://www.theodinproject.com/)**, [2](https://www.freecodecamp.org/learn/the-odin-project/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course
 * ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course

@@ -66,6 +66,7 @@
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use Throwaway Gmail / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
+* [RedFlix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/wp5SkSWHW5)
 * [Let's Stream](https://www.letstream.site/) - Movies / TV / Anime
 * [Mokmobi](https://mokmobi.ovh/), [2](https://mokmobi.site/) - Movies / TV / Anime
 * [NET3LIX](https://net3lix.world/) - Movies / TV / Anime / [Discord](https://discord.gg/bstJfQT3AZ)
@@ -77,7 +78,6 @@
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://ww1.goojara.to/) - Movies / TV / Anime
 * [uFlix](https://uflix.to/), [2](https://uflix.cc/) - Movies / TV / Anime
 * [Movies4F](https://movies4f.com/) - Movies / TV / Anime
-* [RedFlix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/wp5SkSWHW5)
 * [Netplex](https://netplex.site), [2](https://netplex-v2.pages.dev), [3](https://netplex.pages.dev) - Movies / TV / Anime / [Telegram](https://t.me/+8FCyO7sCQdZkOGZl)
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [FshareTV](https://fsharetv.co/) - Movies
@@ -108,7 +108,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
-* [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
 
 ***
 
@@ -786,7 +785,7 @@
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets on Files
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up Required
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
-* ⭐ **[Voyage](https://cobrakiki.lol/)** / [Discord](https://discord.gg/Bfd6Jj6bcn), **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**, [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.si/) - Multi-Site Search
+* ⭐ **[Voyage](https://fisher.voyage/)** / [Discord](https://discord.gg/Bfd6Jj6bcn), **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**, [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.si/) - Multi-Site Search
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
 * [LimeTorrents](https://www.limetorrents.lol/) - Movies / TV
 * [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K
