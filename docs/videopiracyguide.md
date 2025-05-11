@@ -96,6 +96,7 @@
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime
 * [FireFlix](https://fireflix.fun/), [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
+* [Flickday](https://flickday.to/) - Movies / TV 
 * [FlixWatch](https://flixwatch.site/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5MJhpjzv)
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/way2movies/) / [Telegram](https://t.me/Way2MoviesFun/) / [Discord](https://discord.gg/mH4zsaAmv7)
