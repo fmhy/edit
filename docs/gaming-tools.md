@@ -124,7 +124,6 @@
 * [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
 * [GameBanana](https://gamebanana.com/) - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
-* [mod.io](https://mod.io/g) - Game Mods
 * [SMods](https://catalogue.smods.ru/) - Game Mods
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers for Single Player Games
@@ -169,7 +168,7 @@
 
 ***
 
-## ▷ Git Gud
+## ▷ Skill Improvement & Speedrunning
 
 * **Note** - There are guides on almost every [Steam page](https://steamcommunity.com/guides), some for beginners, 100% completion walkthroughs, and more.
 
@@ -359,7 +358,7 @@
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer
 * [BeamMP](https://beammp.com/) - BeamNG Multiplayer / [GitHub](https://github.com/BeamMP/BeamMP)
-* [Fika](https://project-fika.gitbook.io/wiki) - Play Single Player Tarkov Co-Op / Requires Legit Game / Bypass
+* [Fika](https://project-fika.gitbook.io/wiki) - Play Single Player Tarkov Co-Op / Requires Legit Game
 * [OnlineCTR](https://www.online-ctr.com/) - Crash Team Racing Multiplayer
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer / [Discord](https://discord.com/invite/aJRJFe5)
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
