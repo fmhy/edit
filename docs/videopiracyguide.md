@@ -14,8 +14,8 @@
 * ⭐ **[Cineby](https://www.cineby.app/)**, [Bitcine](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.cat/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
-* ⭐ **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * ⭐ **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/RF8vMBRtTs)
@@ -161,7 +161,6 @@
 * [AnimeOwl](https://animeowl.me/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/rFHXVGZ)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub / [Discord](https://discord.gg/kyVfcGuCCQ)
 * [Gojo](https://gojo.wtf/) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
-* [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
