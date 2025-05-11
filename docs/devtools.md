@@ -33,7 +33,6 @@
 * [The Brutalist Report](https://brutalist.report/) - Dev News
 * [jimmyr](https://jimmyr.com/) - Dev News
 * [daily.dev](https://app.daily.dev/posts) - Dev News
-* [TheCyberPost](https://thecyberpost.com/) - Cybersecurity News
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
@@ -47,13 +46,9 @@
 
 # ► Developer Tools
 
-* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Programming Resources
-* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
-* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
-* ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
-* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
+* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
 * [Slidev](https://sli.dev/) - Developer Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
@@ -88,6 +83,39 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+
+***
+
+## ▷ Dev Tool Indexes
+
+* ⭐ **[Free for Developers](https://free-for.dev/)** / [GitHub](https://github.com/ripienaar/free-for-dev)
+* [⁠Useful Tools](https://trolologuy.github.io/useful-tools/) / [GitHub](https://github.com/trolologuy/useful-tools)
+* [Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [⁠Tiny Helpers](https://tiny-helpers.dev/) / [GitHub](https://github.com/stefanjudis/tiny-helpers)
+* [Tiny Tools](https://tinytools.directory/)
+* [Free For Life](https://free.hrsn.dev/) / [GitHub](https://github.com/wdhdev/free-for-life/)
+* [WebdevHome](https://webdevhome.github.io/)
+* [Free Developer Stuff](https://freestuff.dev/)
+* [Addy](https://toolkit.addy.codes/)
+* [Prototypr](https://prototypr.io/toolbox/page/1)
+* [Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin) - System Admin Resources
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Design Pattern Resources
+
+***
+
+## ▷ Online Toolkits
+
+* ⭐ **[AppDevTools](https://appdevtools.com/)** 
+* [IT Tools](https://it-tools.tech/)
+* [Web Toolbox](https://web-toolbox.dev/en)
+* [devina](https://devina.io/)
+* [wangchujiang](https://wangchujiang.com/tools/)
+* [SmallDev.tools](https://smalldev.tools/)
+* [Coders Tool](https://www.coderstool.com/)
+* [Utilities and Tools](https://utilities-online.info/)
+* [Clean CSS](https://www.cleancss.com/)
+* [FreeFormatter.com](https://freeformatter.com/)
+* [Online String Tools](https://onlinestringtools.com/)
 
 ***
 
@@ -132,6 +160,7 @@
 * [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
+* [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Official Android Courses](https://developer.android.com/courses) - Android Training Courses
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
@@ -139,6 +168,7 @@
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [Contacts Android](https://vestrel00.github.io/contacts-android/) - Android Contacts APIs
 * [Push Notifications API](https://github.com/viktorholk/push-notifications-api) - Push Notifications API
+* [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
@@ -206,7 +236,6 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[Awesome GitHub](https://github.com/fffaraz/awesome-github)** - GitHub Resources
 * 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Index
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
@@ -250,6 +279,7 @@
 * [ActionFlow](https://actionsflow.github.io/) - Action Workflow Automation
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
 * [Star History](https://star-history.com/) - Repository Star History Graph
+* [GitWhoIs](https://gitwhois.com/) - GitHub Repo History / Info
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Markdown Preview](https://aviaryan.github.io/javascripts/github.md/) - Preview GH Markdown
@@ -476,6 +506,7 @@
 * [zed](https://zed.dev/) - Cloud IDE
 * [Ideone](https://www.ideone.com/) - Cloud IDE
 * [PlayCode](https://playcode.io/) - Cloud IDE
+* [pad.ws](https://pad.ws/) - Whiteboard Style Cloud IDE / [GitHub](https://github.com/pad-ws/pad.ws)
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
@@ -697,13 +728,11 @@
 
 ## ▷ React
 
-* ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [ReactBits](https://www.reactbits.dev/), React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
+* [ReactBits](https://www.reactbits.dev/), [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
-* [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
-* [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
+* [Refine](https://refine.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
@@ -771,6 +800,7 @@
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
+* [Directory Lister](https://directorylister.com/) - Web-based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
@@ -797,7 +827,7 @@
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
-* [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/), [Docusaurus](https://github.com/facebook/docusaurus) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
+* ⭐ **[Docusaurus](https://github.com/facebook/docusaurus)**, [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
 * [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
 * [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
 * [Barely](https://github.com/charludo/barely) - Python Static Website Generator
@@ -807,8 +837,7 @@
 * [Potion](https://potion.so/) - Notion Website Builder
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
-* [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
-* [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
+* [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
 ***
 
@@ -842,8 +871,11 @@
 * 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
-* ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
+* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
+* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
+* [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
+* [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * [Aspect](https://aspect.app/) or [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
@@ -875,13 +907,14 @@
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [BoxCoding](https://www.avabucks.it/), [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
+* [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
+* [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
-* [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
 ***
@@ -898,7 +931,7 @@
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
 * [Host-Tracker](https://www.host-tracker.com/en/ic/check-http) or [OONI](https://ooni.org/) - Check Site Location Availability / [Bypass Paywall](https://rentry.co/FMHYBase64#host-tracker-bypass)
-* [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
+* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
@@ -923,6 +956,10 @@
 ## ▷ WordPress Tools
 
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
+* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
+* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
 * [faustjs](https://faustjs.org) - WordPress Framework

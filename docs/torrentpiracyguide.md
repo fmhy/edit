@@ -6,7 +6,7 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page, and remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
 
 ***
 
@@ -91,7 +91,6 @@
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)**
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [imFile](https://imfile.io/) / Updated Motrix fork / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [Tixati](https://tixati.com/)
 * [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare
 * [BiglyBT](https://www.biglybt.com/)
@@ -133,10 +132,11 @@
 * ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
 * [webtor](https://webtor.io/) - Torrent to Stream / DDL Sites
-* [BitPlay](https://bitplay.to/) - Torrent to Stream / [GitHub](https://github.com/aculix/bitplay)
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream 
+* [TorBox](https://torbox.app/) - Torrent to Cloud
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 

@@ -22,6 +22,7 @@
 * [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblocker
 * [Zen](https://zenprivacy.net/) - System-Wide Adblocker / [Discord](https://discord.com/invite/jSzEwby7JY) / [GitHub](https://github.com/anfragment/zen)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
+* [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Skip Sponsored Bilibili Ads
 
 ***
 
@@ -48,6 +49,7 @@
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
+* [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest)
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking / [GitHub](https://github.com/zoonderkins/blahdns)
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
@@ -174,6 +176,7 @@
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.org/DNSveil) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
+* [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -204,8 +207,6 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
-* [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check / [GitHub](https://github.com/mozilla/blurts-server)
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
@@ -223,6 +224,7 @@
 ## ▷ Browser Privacy
 
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
+* ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/), [3](https://tor.calyxinstitute.org/) - Onion-Routed Browser
 * ⭐ **Tor Resources** - [TG Downloads](https://t.me/gettor_bot) / [Telegram](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad)
@@ -240,7 +242,6 @@
 * ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA / [GitHub](https://github.com/beemdevelopment/Aegis)
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA / [GitHub](https://github.com/stratumauth/app)
-* ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - Password Breach Check
 * ⭐ **[Password Strength Chart](https://i.imgur.com/g4NcQKd.png)** / [2](https://i.ibb.co/y8n3BZP/Hive-Systems-Password-Table-2024-Square.png)
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
@@ -257,10 +258,6 @@
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
-* [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
-* [psbdmp](https://psbdmp.ws/) - Password Breach Check
-* [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
-* [BreachDetective](https://breachdetective.com/) - Password Breach Check
 
 ***
 
@@ -268,7 +265,6 @@
 
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
-* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [GitHub](https://github.com/ProtonMail)
 * [Tuta](https://tuta.com/) - Encrypted Email / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
@@ -276,6 +272,19 @@
 * [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - Email Privacy Test / [GitLab](https://gitlab.com/mikecardwell/ept3)
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
+
+***
+
+## ▷ Data Breach Monitoring
+
+* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
+* ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - Password Breach Check
+* [FirefoxMonitor](https://monitor.mozilla.org/) - Data Breach Check / [GitHub](https://github.com/mozilla/blurts-server)
+* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
+* [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
+* [psbdmp](https://psbdmp.ws/) - Password Breach Check
+* [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
+* [BreachDetective](https://breachdetective.com/) - Password Breach Check
 
 ***
 
@@ -315,7 +324,7 @@
 * [ekoru](https://ekoru.org/) - Uses Bing
 * [Gibiru](https://gibiru.com/) - Uses Google
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted / [GitHub](https://github.com/searxng/searxng)
-* [Whoogle](https://pypi.org/project/whoogle-search/) - Uses Google / Self-Hosted / [Frontend](https://benbusby.com/projects/whoogle-search/)
+* [Whoogle](https://pypi.org/project/whoogle-search/) - Uses Google / Self-Hosted
 
 ***
 
@@ -373,8 +382,8 @@
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Self-Hosted Proxy Sites
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
@@ -395,7 +404,7 @@
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
-* [Delusionz](https://delusionz.xyz/) / [2](https://math.isoluxltda.cl/)
+* [Delusionz](https://delusionz.xyz/)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Szvy Central](https://szvy.lol/), [2](https://play.szvy.win/), [3](https://studying-central.global.ssl.fastly.net/), [4](https://zearn.global.ssl.fastly.net/), [5](https://cheapenglishtutors.global.ssl.fastly.net/)

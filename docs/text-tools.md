@@ -98,6 +98,7 @@
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
 * [translatedict](https://www.translatedict.com/)
 * [Translator.eu](https://www.translator.eu/)
+* [Textractor](https://github.com/Artikash/Textractor) - Game / Visual Novel Translator
 
 ***
 
@@ -109,6 +110,7 @@
 * [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Speech-To-Text Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
+* [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool
 * [WhisperX](https://github.com/m-bain/whisperX) - Audio Transcription Tool
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
@@ -208,14 +210,14 @@
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
-* ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_text_editors)**
+* ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
-* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [Notepads](https://www.notepadsapp.com/) - Text Editor
-* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor
-* [Kompad](https://kompad.vercel.app/) - Text Editor
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
+* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
+* [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
+* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
+* [Kompad](https://kompad.vercel.app/) - Text Editor / [GitHub](https://github.com/hudy9x/kompad)
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / [Patcher](https://rentry.co/FMHYBase64#sublime-text) / [Package Manager](https://packagecontrol.io/)
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
@@ -400,6 +402,7 @@
 
 ## ▷ To Do Lists
 
+* ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
 * ⭐ **[Super Productivity](https://super-productivity.com/)**
@@ -428,7 +431,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
@@ -526,7 +529,6 @@
 
 ## ▷ Font / Text Generators
 
-* ↪️ **[Unicode Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_text_generators)**
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
@@ -548,3 +550,21 @@
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
 * [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
 * [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [MFEKglif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Birdfont](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [FontForge](https://fontforge.org/en-US/) - Font / Typeface Editors
+
+***
+
+## ▷ Unicode Text Generators
+
+* ⭐ **[YayText](https://yaytext.com/)**
+* ⭐ **[Messletters](https://www.messletters.com/)**
+* ⭐ **[FSymbols](https://fsymbols.com/generators/)**
+* ⭐ **[Fancy Text](https://fancy-text.net/)**
+* [Cool Fonts Online](https://coolfont.org/)
+* [FontMaker.io](https://fontmaker.io/)
+* [Aesthetic Font Generator](https://www.tesms.net/)
+* [BoldTextGenerator](https://boldtextgenerator.org/)
+* [Font Generator Online](https://www.fontgeneratoronline.com/)
+* [FontGenerator.cc](https://fontgenerator.cc/)
+* [FontGenerator.cool](https://fontgenerator.cool/)
+* [Font Changer Guru](https://fontchangerguru.com/)
+* [Fancy Text Decorator](https://fancytextdecorator.com/)

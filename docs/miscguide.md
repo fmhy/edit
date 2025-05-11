@@ -145,7 +145,7 @@
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
 * [Epicurious](https://www.epicurious.com/) - Recipe Search
-* [based.cooking](https://based.cooking/) - Recipe Search
+* [based.cooking](https://based.cooking/) or [PublicDomainRecipes](https://publicdomainrecipes.com/) / [GitHub](https://github.com/ronaldl29/public-domain-recipes) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
@@ -232,7 +232,9 @@
 * ⭐ **[Parkopedia](https://www.parkopedia.com/)** - Car Parking Locations and Prices
 * ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
 * [TravelPlan](https://www.travelplan-ai.com/#get-trip), [Holiwise](https://www.holiwise.com) or [Eddy](https://chat.eddytravels.com/) - Trip Planning
+* [PackMate](https://play.google.com/store/apps/details?id=com.ouji.packmate) - Travel Packing List / Organizer
 * [Packdensack](https://packdensack.com/) - Travel Packing List Generator
+* [BeenEverywhere](https://beeneverywhere.net/) - Track Visited Cities / Locations
 * [Roadside America](https://www.roadsideamerica.com/) or [RoadTrippers](https://roadtrippers.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [Kyoto Guide](https://scrapbox.io/kyotoguide/) - Kyoto Travel Guide
@@ -245,7 +247,6 @@
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
-* [PackMate](https://play.google.com/store/apps/details?id=com.ouji.packmate) - Travel Packing List / Organizer
 * [CheckPlug](https://www.checkplug.com/) - Check Country Plug Types
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
@@ -490,7 +491,7 @@
 * [Mozberg](https://mozberg.com/) - News Search
 * [NewsMinimalist](https://www.newsminimalist.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
 * [devo](https://github.com/karakanb/devo) - New Tab Page News Extension
-* [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
+* [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
 * [Fark](https://www.fark.com/) - User-Curated News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
@@ -542,15 +543,14 @@
 
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
-* ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Health Assessment Tools](https://www.nhs.uk/health-assessment-tools/) - General Health Tools
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
+* [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [HG Search](https://hgsearch.ridhom.dev/) - HealthyGamerGG Keyword Search
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Meditation Infographic](https://i.ibb.co/BNWDCbS/2552-IIB-Meditation.png) - Meditation Techniques
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
@@ -608,7 +608,7 @@
 * [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) - Cycling / Biking Trackers
-* [AllTrails](https://www.alltrails.com/) or [TrailRouter](https://trailrouter.com/) - Hiking / Trail Routes
+* [AllTrails](https://www.alltrails.com/), [Wikiloc](https://www.wikiloc.com/) or [TrailRouter](https://trailrouter.com/) - Hiking / Trail Routes
 * [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Database
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Trackers
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [Fitness](https://github.com/wger-project/flutter) / [GitHub](https://github.com/wger-project/wger)
@@ -753,7 +753,6 @@
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
 * [Resuminator](https://www.resuminator.in/)
-* [Sclof](https://sclof.com/)
 * [flowcv](https://flowcv.com/)
 * [Resumake](https://resumake.io/) / [GitHub](https://github.com/saadq/resumake.io)
 * [resume-nation](https://resume-nation.github.io/)
@@ -936,7 +935,7 @@
 * ⭐ **[BuyReddit](https://www.buyreddit.com/)** or [RedditFavorites](https://redditfavorites.com/) - Reddit Recommended Products
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
-* [Consumer Action Taskforce](https://wiki.rossmanngroup.com/) - Documents Practices That Impact Consumer Rights
+* [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepper.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores across Europe
@@ -967,7 +966,6 @@
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
 * [ProductChart](https://www.productchart.com/) - Electronic Comparisons
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
-* [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
@@ -1085,7 +1083,6 @@
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
-* [Dog Breed AI](https://www.whatbreedismydog.com) - Dog Breed Detector
 * [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
@@ -1334,7 +1331,6 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
-* [Koi Pond](https://koipond.fish/) - Feed Koi
 * [Our World of Text](https://ourworldoftext.com/), [TextWall](https://tw.2s4.me/) or [OurWorldOfText](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem

@@ -43,7 +43,6 @@
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
-* [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
 
 ***
 
@@ -69,6 +68,7 @@
 
 * 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
+* ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
@@ -215,6 +215,7 @@
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
 * [ILovePDF](https://www.ilovepdf.com/)
+* [⁠BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
 * [SimplePDF](https://simplepdf.com/)
@@ -269,6 +270,7 @@
 * [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
@@ -317,24 +319,24 @@
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days after last download / [Cold Storage Bypass](https://greasyfork.org/en/scripts/527711)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per file / 120 Days after last pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
-* ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 15 Days, Can Extend to Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Cold Storage Bypass](https://greasyfork.org/en/scripts/527711)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per File / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
+* ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
-* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
-* [Send.now](https://send.now/) - 100GB / 100GB per file / 30 Days after last download
-* [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
+* [Send.now](https://send.now/) - 100GB / 100GB per File / 30 Days After Last Download
+* [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
-* [Fastupload.io](https://fastupload.io/en) - Unlimited / 30 Days (60 Days with Account)
-* [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days with Account)
+* [Fastupload.io](https://fastupload.io/en) - Unlimited / 30 Days (60 Days w/ Account)
+* [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
-* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days after last download
+* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days After Last Download
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
@@ -349,12 +351,12 @@
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
-* [Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
-* [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
+* [Uploadev](https://uploadev.org/) - 10GB / 180 Days After Last Download w/ Account
+* [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
-* [Bestfile](https://bestfile.io/) - 5GB / 80 Days after last download
+* [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
@@ -371,7 +373,7 @@
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
 * [Clicknupload](https://clicknupload.co/), [2](https://clicknupload.click) - 10GB / 8 Days / Account Required
-* [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
+* [WeTransfer](https://wetransfer.com/) - 2GB / 3 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App

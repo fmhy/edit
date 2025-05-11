@@ -20,7 +20,7 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) / [Revolt](https://rvlt.gg/RkjFwCAP) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
@@ -33,8 +33,6 @@
 * [PhotoFiltre](https://www.photofiltre-studio.com/)
 * [Gimel Studio](https://gimelstudio.com/)
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
-* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
-
 
 ***
 
@@ -54,6 +52,7 @@
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
 * [photo.codes/](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
+* [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
 * [BeFunky](https://www.befunky.com/) - Simple Editor
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 * [OIE](https://www.online-image-editor.com/) - Simple Editor
@@ -69,7 +68,6 @@
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [Img2Go](https://www.img2go.com/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
-* [AIEase](https://www.aiease.ai/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
 ***
@@ -492,7 +490,7 @@
 ## ▷ Art / Illustrations
 
 * ⭐ **[Kemono](https://kemono.su/posts?tag=)** - Patreon Content / **Some NSFW** / Use Adblock
-* ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader) / [Frontend Instances](https://git.macaw.me/skunky/SkunkyArt/src/branch/master/INSTANCES.md)
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
@@ -670,7 +668,7 @@
 * [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
 * [minipic](https://minipic.app/) - Batch Compressor / Converter
 * [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
-* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20 MB Upload / [GitHub](https://github.com/tinify)
+* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20MB Upload / [GitHub](https://github.com/tinify)
 * [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
 * [CompressOrDie](https://compress-or-die.com/) - Multitool
 * [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
@@ -679,7 +677,7 @@
 
 ## ▷ Image Converters
 
-* ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
 * ⭐ **[minipic](https://minipic.app/)**
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)

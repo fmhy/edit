@@ -22,6 +22,7 @@
 * [The Models Resource](https://www.models-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
+* [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournament Creators / Managers
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
@@ -36,7 +37,6 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -44,7 +44,7 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Discord](https://discord.com/invite/BrtABqe)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
 * [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
@@ -54,7 +54,7 @@
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
 * [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
-* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu)
+* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / [GitHub](https://github.com/Phalcode/gamevault-app)
 
 ***
 
@@ -201,12 +201,13 @@
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
 * ⭐ **[IGDB](https://www.igdb.com/)** - Game Database
-* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
+* [Moby Games](https://www.mobygames.com/) - Game Database
+* [GiantBomb](https://www.giantbomb.com/games/) - Game Database
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Grouvee](https://www.grouvee.com/) - Tracking / Database
 * [RankOne](https://www.rankone.global/) - Tracking / Database
 * [GG](https://ggapp.io/) - Tracking / Database
-* [InfiniteBacklog](https://infinitebacklog.net/) - Tracking / Database
+* [Infinite Backlog](https://infinitebacklog.net/) - Tracking / Database
 * [KeepTrackOfMyGames](https://keeptrackofmygames.com/) - Tracking / Database
 * [PlayTracker](https://playtracker.net/) - Tracking / Database
 * [Gamelib](https://gamelib.app/explore) - Tracking / Database
@@ -215,10 +216,10 @@
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [Rawg](https://rawg.io/) - Game Database
-* [Moby Games](https://www.mobygames.com/) - Game Database
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
+* [Low Spec Games](https://exefer.github.io/lowspecgames/) - Low Spec Game Database / [Text Only](https://pastebin.com/raw/MTCXZxCN) / [GitHub](https://github.com/Exefer/lowspecgames)
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
@@ -230,7 +231,6 @@
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
-* [Low Spec Games](https://pastebin.com/raw/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [BoardGameGeek](https://boardgamegeek.com/) or [Kallax](https://kallax.io/) - Board Game Database
@@ -265,7 +265,7 @@
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
-* [SteamHunters](https://steamhunters.com/) - Steam Achievement Leaderboards / Profiles / [Discord](https://discord.com/invite/SeJ25Xv)
+* [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games
@@ -377,7 +377,7 @@
 
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * [Server.pro](https://server.pro/) - Game Server Hosting
-* [Pterodactyl](https://github.com/pterodactyl/panel) - Game Server Management Panel / [Discord](https://discord.gg/pterodactyl)
+* [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) or [Pelican](https://pelican.dev/) / [GitHub](https://github.com/pelican-dev/panel) - Game Server Management Panel
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Sign-Up Required
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
@@ -558,7 +558,6 @@
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion) / [GitHub](https://github.com/viaversion)
 * [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB)
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
@@ -587,7 +586,6 @@
 * [GDLauncher](https://gdlauncher.com/) - Launcher
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/XN9sW77H) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Ares](https://www.aresclient.com/) - Client
 * [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***
@@ -626,6 +624,7 @@
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
 * [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
+* [CTMRepository](https://ctmrepository.com/) - Complete the Monument Maps / [Discord](https://discord.com/invite/G2WVCB3)
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/) - Mapart Schematic / map.dat Generator
 * [BlueMap](https://bluemap.bluecolored.de/) - Create 3D Map Models / [GitHub](https://github.com/BlueMap-Minecraft/BlueMap)
 * [Arnis](https://github.com/louis-e/arnis) - Generate Real-world Locations in Minecraft
@@ -692,6 +691,7 @@
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
+* [⁠/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Metas
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
@@ -889,7 +889,7 @@
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
-* [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
+* [RBXServers](https://rbxservers.xyz/) or [FreeVIPServers](https://freevipservers.net/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) - Track Roblox Promo Codes
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing

@@ -7,7 +7,7 @@
 # ► Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[Arch Wiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
@@ -96,6 +96,7 @@
 * [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
+* [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
@@ -111,7 +112,6 @@
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
-* [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
 * [libimobiledevice](https://libimobiledevice.org) - Communicate with iOS Devices
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
@@ -145,7 +145,6 @@
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
 * [Linux FOSS Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png) - FOSS Software List
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
-* [LinuxAlt](https://www.linuxalt.com/)
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
@@ -233,9 +232,9 @@
 ## ▷ Linux Audio
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**, [Spicetify](https://spicetify.app/), [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
-* [puddletag](https://docs.puddletag.net/) - Metadata Organizer
+* [puddletag](https://docs.puddletag.net/) / [GitHub](https://github.com/puddletag/puddletag) - Metadata Organizer
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
 * [cmus](https://cmus.github.io/) - Audio Player
 * [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player
@@ -319,7 +318,6 @@
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
-* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
 
@@ -451,7 +449,7 @@
 * [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with built-in Android Emulator
-* [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-based OS for PC
+* [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
 
 ***
 
@@ -498,6 +496,7 @@
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
+* [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
@@ -607,7 +606,7 @@
 * [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming
 * [Yattee](https://github.com/yattee/yattee) - YouTube Player
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
-* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
 
 ***
 
@@ -628,7 +627,6 @@
 * [Cuterdio](https://cuterdio.com/en) - Radio
 * [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
 * [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
-* [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription
 
 ***
 

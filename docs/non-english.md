@@ -222,7 +222,7 @@
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
 * ⭐ **[555dy](https://555u.store/)** - Movies / TV / Anime / NSFW / Sub / 1080p
-* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
+* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474) / [Sponsorblock](https://github.com/hanydd/BilibiliSponsorBlock)
 * [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
@@ -691,6 +691,8 @@
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
+* [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
+* [Fojik](https://fojik.site/) - Movies
 * [Moviesup](https://moviesup.site/) - Movies / TV / 1080p
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -702,6 +704,7 @@
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 * [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
 * [9xflix](https://9xflix.com/m/) - Movies / TV / NSFW / Sub / Dub / 720p
+* [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [KatDrama](https://katdrama.com/) - Korean Drama
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
@@ -828,7 +831,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.airforce/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunity.spa/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -920,6 +923,13 @@
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [LManga](https://www.lmanga.com/) - Manga
+* [jmanga](https://jmanga.cam/), [2](https://jmanga.se/) - Manga
+* [mangaraw](https://mangaraw.plus/) - Manga
+* [raw1001](https://raw1001.net/) - Manga
+* [mangakoma01](https://mangakoma01.net/) - Manga
+* [mangakoma](https://mangakoma.net/) - Manga
+* [syosetu](https://syosetu.now/) - Manga
+* [rawfree](https://rawfree.me/) - Manga
 * [spoilerplus](https://spoilerplus.tv) - Manga
 * [mangajikan](https://www.mangajikan.com/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
@@ -1174,6 +1184,7 @@
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [pirilampo](https://www.pirilampo.tv/) - Live TV
 * [Futebol Agora](https://futebolagora.gratis/) - Live Sports
 * [IPTV Brasil](https://iptvbrasilapk.com) - IPTV Player
 * [Kultivi](https://app.kultivi.com) - Courses
@@ -1301,7 +1312,7 @@
 
 # ► Russian / Русский
 
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot) - Censorship Discussion Telegram
+* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List

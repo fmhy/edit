@@ -40,8 +40,7 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
-* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever
+* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
@@ -62,20 +61,22 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS](https://obsproject.com/)**
-* ⭐ **[gifcap](https://gifcap.dev/)** / [GitHub](https://github.com/joaomoreno/gifcap), [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
+* [gifcap](https://gifcap.dev/) - Turn Screencasts into GIFs / [GitHub](https://github.com/joaomoreno/gifcap)
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
 * [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
 * [FFmpeg](https://ffmpeg.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * [Vileo](https://lukasbach.github.io/vileo/)
-* [Shar.ec](https://shar.ec/)
+* [ShareX](https://getsharex.com/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
-* [ScreenREC](https://screen-rec.vercel.app/)
-* [KazCap](https://recorder.kuan.sh/)
-* [RecordScreen](https://recordscreen.io/)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
-* [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
-* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap)
+* [Shar.ec](https://shar.ec/) - Online
+* [ScreenREC](https://screen-rec.vercel.app/) - Online
+* [ScreenRecorder.me](https://www.screenrecorder.me/) - Online
+* [KazCap](https://recorder.kuan.sh/) - Online
+* [RecordScreen](https://recordscreen.io/) - Online
+* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) - Online
 
 ***
 
@@ -92,7 +93,6 @@
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
-* [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
@@ -109,7 +109,7 @@
 ## ▷ Online Processing
 
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
-* [8mb.video](https://8mb.video/) - Compress / Unlimited
+* [8mb.video](https://8mb.video/) - Compress / 2GB
 * [autocompressor](https://autocompressor.net/) - Compress / 2GB
 * [Rotato](https://tools.rotato.app/) - Compress / 2GB
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
@@ -247,7 +247,7 @@
 ## ▷ MPV Tools
 
 * ↪️ **[MPV Shaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders)**
-* [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+* [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
