@@ -197,13 +197,13 @@
 
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
+* ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database
 * ⭐ **[IGDB](https://www.igdb.com/)** - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database
 * [GiantBomb](https://www.giantbomb.com/games/) - Game Database
 * [Grouvee](https://www.grouvee.com/) - Tracking / Database
 * [RankOne](https://www.rankone.global/) - Tracking / Database
 * [GG](https://ggapp.io/) - Tracking / Database
-* [Infinite Backlog](https://infinitebacklog.net/) - Tracking / Database
 * [KeepTrackOfMyGames](https://keeptrackofmygames.com/) - Tracking / Database
 * [PlayTracker](https://playtracker.net/) - Tracking / Database
 * [Gamelib](https://gamelib.app/explore) - Tracking / Database
