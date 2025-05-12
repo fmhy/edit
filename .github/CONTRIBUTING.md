@@ -77,7 +77,7 @@ Follow these steps:
 
 #### Gitpod.io
 
-Login to your GitHub account and click on the "New Workspace" button. Then select your fork and you should be in your gitpod workspace.
+Login to your Gitpod account and click on the "New Workspace" button. Then select your fork and you should be in your gitpod workspace.
 
 To close the workspace, click on the "Gitpod" button at the bottom left corner then type "Stop Workspace" and hit enter.
 
