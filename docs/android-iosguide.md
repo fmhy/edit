@@ -167,7 +167,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠InstaEclipse](https://github.com/ReSo7200/InstaEclipse), [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial) or [MyInsta](https://t.me/instasmashrepo) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
+* [InstaEclipse](https://github.com/ReSo7200/InstaEclipse), [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial) or [MyInsta](https://t.me/instasmashrepo) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
 * [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) or [Nobook](https://github.com/ycngmn/Nobook) - Modded Facebook Messenger
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
@@ -285,7 +285,7 @@
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard
 * ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/Layouts)
 * [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) - Keyboard
-* [⁠SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
+* [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
 * [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Privacy-Focused Keyboard
 * [Thumb-Key](https://github.com/dessalines/thumb-key) - Swipe Keyboard
@@ -958,7 +958,7 @@
 
 * 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)**, [2](https://everythingmoe.org/#section-mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo)
+* ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/F32UjdJZrR)
 * ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
@@ -1030,7 +1030,7 @@
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
-* [⁠SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
+* [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
 * [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
 * [Scriptable](https://scriptable.app/) - Automation Script Tool / [Scripts / Widgets](https://github.com/dersvenhesse/awesome-scriptable), [2](https://shareable.vercel.app/)
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) / [Discord](https://discord.gg/cCSwxqdvzx) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps

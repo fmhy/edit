@@ -217,7 +217,7 @@
 * [eBookHunter.net](https://www.ebookhunter.net/), [EpubPuB](https://www.epub.pub/) or [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Romance / Fantasy
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
-* [Artbooks Archive](https://t.me/archive_artbooks), [⁠ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
+* [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
@@ -508,7 +508,7 @@
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
-* [⁠ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
+* [ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
@@ -888,7 +888,7 @@
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
-* [En](https://en.app/) - Vibe Based Book Search
+* [En](https://en.app/) - Vibe-Based Book Search
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Discovery / Recommendations

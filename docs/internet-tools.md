@@ -710,7 +710,7 @@
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
-* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Bookmark Cleanup 
+* [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Bookmark Cleanup
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs / [GitHub](https://github.com/cadeyrn/newtaboverride)
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
@@ -743,7 +743,7 @@
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
-* [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup 
+* [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [CrxMouse](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh) - Adapts Display Color to Time of Day

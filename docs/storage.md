@@ -55,7 +55,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 
-[Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/), [⁠Litera Reader](https://litera-reader.com/)
+[Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/), [Litera Reader](https://litera-reader.com/)
 
 ***
 
@@ -259,7 +259,7 @@
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
-* [⁠Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
+* [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
