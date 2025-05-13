@@ -382,8 +382,8 @@
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
 * [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
-* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
-* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person
+* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Tetris
+* [First-Person Tetris](https://firstpersontetris.com/) - First Person Tetris
 * [Sandtris](https://sandtris.com/) - Falling Sand Style Tetris
 * [Play Snake](https://playsnake.org/) - Retro Snake
 * [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
