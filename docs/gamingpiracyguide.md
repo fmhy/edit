@@ -228,7 +228,7 @@
 
 ***
 
-## ▷ ROM Tools / Resources
+## ▷ ROM Resources
 
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
@@ -672,9 +672,6 @@
 * [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Crosshare](https://crosshare.org/) - Play / Create Crosswords
-* [Regex Crossword](https://regexcrossword.com/) - Regex Crosswords
-* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [Murdle](https://murdle.com/) - Daily Murder Mystery
@@ -806,15 +803,11 @@
 * 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Word Golf](https://www.word.golf/) - Word Relation Game
-* [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
@@ -831,6 +824,20 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+
+***
+
+## ▷ Crossword Puzzles
+
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
+* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
+* [TheWordSearch](https://thewordsearch.com/) - Crossword Puzzles / Creator
+* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
+* [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
+* [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
 
 ***
 

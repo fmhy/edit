@@ -300,7 +300,7 @@
 
 ## ▷ Spotify Adblockers
 
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotX_Chat/)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity), [2](https://t.me/SpotX_Chat/)
 * ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Spotify Adblock Guide](https://redd.it/yme7pf)

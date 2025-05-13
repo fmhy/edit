@@ -511,6 +511,9 @@
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [hckrnws](https://www.hckrnws.com/), [HackerWeb](https://hackerwebapp.com/) or [Hacker Herald](https://hackerherald.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [App List](https://github.com/cheeaun/awesome-hacker-news) / [Modern Interface](https://www.modernhn.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://alexandria-library.julienc.me/search/) / [Top Posts](https://hn.lindylearn.io/) / [Post Summary](https://hackernews.betacat.io/) / [Self-Host](https://www.hn.plus/) / [RSS](https://hnrss.github.io/) / [Webpage Comments](https://github.com/benwinding/newsit)
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
+* [TechURLs](https://techurls.com/) - Tech News
+* [Techmeme](https://www.techmeme.com/) - Tech News
+* [The Brutalist Report](https://brutalist.report/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
@@ -1332,6 +1335,7 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
+* [KickassApp](https://kickassapp.com/) - Turn Webpages into Space Shooting Game
 * [Our World of Text](https://ourworldoftext.com/), [TextWall](https://tw.2s4.me/) or [OurWorldOfText](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem

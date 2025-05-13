@@ -281,7 +281,7 @@
 
 ## ▷ Keyboard Tools
 
-* ⭐ **[FUTO Keyboard](https://keyboard.futo.org/)** - Privacy-Focused Keyboard
+* ⭐ **[FUTO Keyboard](https://keyboard.futo.org/)** - Privacy-Focused Keyboard / [Discord](https://discord.gg/ENYRubhTRw)
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard
 * ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/Layouts)
 * [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) - Keyboard
@@ -657,7 +657,7 @@
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)**
 * ⭐ **[Termux](https://termux.com/)** - Terminal Emulator
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux)
-* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) or [Winlator](https://winlator.org) / [Compatibility](https://docs.google.com/spreadsheets/d/1UI0dCJTdxkAD8pDUoCtqwe7hCRSD35w0N3zESTmNYBU/) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
+* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) - Windows Emulators on Android
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
@@ -755,7 +755,7 @@
 
 ## ▷ Android Manga
 
-* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://github.com/komikku-app/komikku)
+* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
 * ⭐ **[Dantotsu](https://dantotsuapp.netlify.app/)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader / [Discord](https://discord.gg/4vmK42QuKG)

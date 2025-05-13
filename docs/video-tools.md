@@ -368,7 +368,7 @@
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
-* [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
