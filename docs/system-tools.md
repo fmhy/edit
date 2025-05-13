@@ -210,7 +210,6 @@
 ## ▷ Hardware Monitors
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
-* [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
@@ -251,7 +250,7 @@
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer / Cleanup Tool / [GitHub](https://github.com/windirstat/windirstat/)
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) or [Diskovery](https://diskovery.io/) - Disk Usage Analyzers
 * [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
 * [Erdtree](https://github.com/solidiquis/erdtree) - Cross-Platform Disk Usage Analyzer
