@@ -364,28 +364,9 @@
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
-* [SMWGames](https://www.smwgames.com/) - Modded Super Mario World Browser Emulators
-* [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
-* [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
-* [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
-* [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
-* [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
-* [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
-* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
-* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
-* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tetrio.team2xh.net/)
-* [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
-* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person
-* [Sandtris](https://sandtris.com/) - Falling Sand Style Tetris
-* [Play Snake](https://playsnake.org/) - Retro Snake
-* [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
-* [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
-* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 
 ***
 
@@ -395,7 +376,23 @@
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
+* [SMBGames](https://smbgames.be/) - Browser Super Mario  
+* [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
+* [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
+* [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
+* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
+* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person
+* [Sandtris](https://sandtris.com/) - Falling Sand Style Tetris
+* [Play Snake](https://playsnake.org/) - Retro Snake
+* [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
+* [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
+* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
+* [OpenLara](http://xproger.info/projects/OpenLara/) - Browser Tomb Raider / [GitHub](https://github.com/XProger/OpenLara)
+* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
@@ -487,6 +484,8 @@
 * ⭐ **[skribbl](https://skribbl.io/)**, [DrawBattle](https://drawbattle.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/) / [Source](https://git.eaglercraft.rip/eaglercraft)
 * ⭐ **[Make It Meme](https://makeitmeme.com/)** - Meme Party Game
+* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tetrio.team2xh.net/)
+* [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) or [MiniBlox](https://miniblox.io/) - Online Minecraft Clones
 * [Slither.io](http://slither.io/) - Grow the Longest Worm
@@ -539,7 +538,7 @@
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
-* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
+* [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inpired Games
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/), [2](https://kourio.online/) - PvP FPS
