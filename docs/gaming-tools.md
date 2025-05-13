@@ -687,7 +687,7 @@
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
-* [⁠/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Metas
+* [/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Metas
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive

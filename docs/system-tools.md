@@ -65,7 +65,7 @@
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
-* [⁠Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
+* [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
@@ -96,7 +96,7 @@
 * 🌐 **[Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)** - AutoIt Resources
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
-* [⁠Tinytask](https://tinytask.net/)
+* [Tinytask](https://tinytask.net/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)

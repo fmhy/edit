@@ -140,7 +140,7 @@
 * [imgcook](https://imgcook.com) - Coding AI / No Sign-Up / [GitHub](https://github.com/imgcook/imgcook)
 * [Supermaven](https://supermaven.com/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://sourcegraph.com/cody) - Coding AI / [Discord](https://discord.gg/s2qDtYGnAE) / [GitHub](https://github.com/sourcegraph/cody)
-* * [zed](https://zed.dev/) - Collabortive Coding AI
+* [zed](https://zed.dev/) - Collabortive Coding AI
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [Discord](https://discord.gg/ESHStjSjD4) / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
@@ -301,7 +301,7 @@
 
 * ⭐ **[NexusAI Image](https://image.nexusmind.tech/)** / 300 Daily Per Model / [Discord](https://discord.com/invite/sk8eddGwmP)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** or [Gemini](https://gemini.google.com/) - Imagen 3 / Unlimited / Region Based / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** or [Gemini](https://gemini.google.com/) - Imagen 3 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** / Unlimited
 * ⭐ **[Grok](https://grok.com/)** / 25 Per 2 Hours / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / No Sign-Up
@@ -404,7 +404,7 @@
 
 * ⭐ **[Riffusion](https://www.riffusion.com/)** / [Discord](https://discord.gg/riffusion-1053034685590143047)
 * ⭐ **[Suno](https://suno.com/)** / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
-* [MusicFX](https://labs.google/fx/tools/music-fx) / Region Based
+* [MusicFX](https://labs.google/fx/tools/music-fx) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)
 * [Udio](https://www.udio.com/) / [Discord](https://discord.gg/udio)
