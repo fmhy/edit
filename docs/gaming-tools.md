@@ -198,7 +198,7 @@
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database
-* ⭐ **[IGDB](https://www.igdb.com/)** - Game Database
+* [IGDB](https://www.igdb.com/) - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database
 * [GiantBomb](https://www.giantbomb.com/games/) - Game Database
 * [Grouvee](https://www.grouvee.com/) - Tracking / Database
@@ -887,7 +887,7 @@
 * [RobloxDen](https://robloxden.com/) - Track Roblox Promo Codes
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
-* [FastFlags Collection](https://github.com/CfwSky/fastflags-collection) - Roblox FastFlags Collection
+* [FastFlags.space](https://fastflags.space/) - Roblox FastFlags Collection / [GitHub](https://github.com/fastdotspace/fastflags.space)
 
 ***
 
