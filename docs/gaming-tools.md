@@ -583,6 +583,7 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/XN9sW77H) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
+* [⁠LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions 
 
 ***
 

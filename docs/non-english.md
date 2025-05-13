@@ -1979,6 +1979,7 @@
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p
 * [ZulTV](https://zultv.com/) - Serbian / Live TV
 * [gledajcrtace](https://www.gledajcrtace.xyz/) or [gledajcrtace.org](https://gledajcrtace.org/) - Serbian / Dubbed Cartoons
+* [baiscopedownloads](https://baiscopedownloads.link/) - Sinhalese / Download / Movies / TV
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
