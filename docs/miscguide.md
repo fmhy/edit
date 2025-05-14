@@ -1520,7 +1520,7 @@
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
-* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exists
+* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exists
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator

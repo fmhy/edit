@@ -8,6 +8,7 @@
 
 ## ▷ Streaming Apps
 
+* 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** - Streaming App Index
 * 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** or [Wiki Comparisons](https://en.wikipedia.org/wiki/Comparison_of_music_streaming_services) - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_clients)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
@@ -72,7 +73,6 @@
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
-* [Y'EDITS](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits)
 * [Mideastunes](https://mideastunes.com/) - Underground Music
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
@@ -312,7 +312,7 @@
 
 * ↪️ **[Spotify Playlist Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_playlist_generators)**
 * ⭐ **[exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Playlist Backup
-* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/), [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
+* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [TuneMyMusic](https://www.tunemymusic.com/), [SpotTransfer](https://spot-transfer.vercel.app/), [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) or [Kotify](https://github.com/dzirbel/kotify) - Playlist Managers
 * [Playlist Sorter](https://www.playlistsorter.com/) or [SortYourMusic](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -685,7 +685,7 @@
 
 # ► Audio Tools
 
-* 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** or [AudioMarx](https://audiomarx.mixa.site/) - Audio Resources
+* 🌐 **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resources
 * 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources / [Discord](https://kutt.it/BinauralDiscord)
 * ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**

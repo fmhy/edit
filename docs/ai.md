@@ -243,7 +243,6 @@
 * [ZeroEval](https://huggingface.co/spaces/allenai/ZeroEval) - Chatbot Leaderboard / [GitHub](https://github.com/WildEval/ZeroEval)
 * [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard
 * [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
-* [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds / [GitHub](https://github.com/fixie-ai/thefastest.ai)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
 * [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - VLM Benchmark Leaderboard Aggregator
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
