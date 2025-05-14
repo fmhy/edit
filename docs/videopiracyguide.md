@@ -19,10 +19,10 @@
 * ⭐ **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
 * [uira.live](https://uira.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5ACWhK4Dzf)
+* [1Shows](https://www.1shows.live/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Ronny Flix](https://ronnyflix.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/ronnyflix)
 * [FlickyStream](https://flickystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
-* [1Shows](https://www.1shows.live/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [MovieMaze](https://moviemaze.cc/) - Movies / TV / Anime
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * [EliteFlix](https://eliteflix.xyz/) - Movies / TV / Anime
