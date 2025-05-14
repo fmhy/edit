@@ -217,7 +217,7 @@
 * [eBookHunter.net](https://www.ebookhunter.net/), [EpubPuB](https://www.epub.pub/) or [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Romance / Fantasy
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
-* [Artbooks Archive](https://t.me/archive_artbooks), [⁠ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
+* [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
@@ -508,7 +508,7 @@
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
-* [⁠ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
+* [ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
@@ -888,7 +888,7 @@
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
-* [En](https://en.app/) - Vibe Based Book Search
+* [En](https://en.app/) - Vibe-Based Book Search
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Discovery / Recommendations
@@ -938,7 +938,7 @@
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
-* [ScribdVPDF](https://scribdvpdf.blogspot.com/), [DocDownloader](https://docdownloader.com/) or [scribd.vpdfs](https://scribd.vpdfs.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
+* [⁠Scribd Download Script](https://greasyfork.org/en/scripts/535783), [ScribdVPDF](https://scribdvpdf.blogspot.com/), [DocDownloader](https://docdownloader.com/) or [scribd.vpdfs](https://scribd.vpdfs.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
 * [Book Scraper](https://gitlab.com/minecraftpiston/book-scraper) - RoyalRoad / ScribbleHub Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor

@@ -589,7 +589,7 @@
 
 ## ▷ Workout / Exercise
 
-* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
+* 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Reddit Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Subreddit](https://www.reddit.com/r/BodyweightFitness) / [Discord](https://discord.gg/bwf)
@@ -818,6 +818,7 @@
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Find Developer Jobs in Dubai / Saudi Arabia
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
+* [Dribbble](https://dribbble.com/) - Designer Jobs
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
 * [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
 * [Best PM Jobs](https://www.bestpmjobs.com/) - Tech Firm Night Jobs
@@ -1519,7 +1520,7 @@
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
-* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exists
+* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exists
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator

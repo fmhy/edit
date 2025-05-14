@@ -312,7 +312,7 @@
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/) - ROMs / Switch
 * [NswRom](https://nswrom.com/) - ROMs / Switch
 * [ROMsHQ](https://romshq.com/) - ROMs / Switch
-* [⁠SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
+* [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Sign-Up Required
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
@@ -339,6 +339,7 @@
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
+* [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 
 ***
 
@@ -377,7 +378,7 @@
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
-* [SMBGames](https://smbgames.be/) - Browser Super Mario  
+* [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart

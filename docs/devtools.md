@@ -86,9 +86,9 @@
 ## ▷ Dev Tool Indexes
 
 * ⭐ **[Free for Developers](https://free-for.dev/)** / [GitHub](https://github.com/ripienaar/free-for-dev)
-* [⁠Useful Tools](https://trolologuy.github.io/useful-tools/) / [GitHub](https://github.com/trolologuy/useful-tools)
+* [Useful Tools](https://trolologuy.github.io/useful-tools/) / [GitHub](https://github.com/trolologuy/useful-tools)
 * [Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [⁠Tiny Helpers](https://tiny-helpers.dev/) / [GitHub](https://github.com/stefanjudis/tiny-helpers)
+* [Tiny Helpers](https://tiny-helpers.dev/) / [GitHub](https://github.com/stefanjudis/tiny-helpers)
 * [Tiny Tools](https://tinytools.directory/)
 * [Free For Life](https://free.hrsn.dev/) / [GitHub](https://github.com/wdhdev/free-for-life/)
 * [WebdevHome](https://webdevhome.github.io/)
@@ -102,7 +102,7 @@
 
 ## ▷ Online Toolkits
 
-* ⭐ **[AppDevTools](https://appdevtools.com/)** 
+* ⭐ **[AppDevTools](https://appdevtools.com/)**
 * [IT Tools](https://it-tools.tech/)
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
@@ -326,7 +326,7 @@
 
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
-* [Charm](https://charm.sh/) - Add Backend to Terminal Based Apps
+* [Charm](https://charm.sh/) - Add Backend to Terminal-Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
@@ -771,7 +771,7 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [GoatCounter](https://www.goatcounter.com/), [⁠Rybbit](https://github.com/rybbit-io/rybbit) or [Umami](https://umami.is/) - Site Analytics
+* [GoatCounter](https://www.goatcounter.com/), [Rybbit](https://github.com/rybbit-io/rybbit) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
@@ -796,7 +796,7 @@
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
-* [Directory Lister](https://directorylister.com/) - Web-based Directory Listing
+* [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
@@ -870,7 +870,7 @@
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
 * ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * [Aspect](https://aspect.app/) or [OpenUI](https://github.com/wandb/openui) - Make UI with AI

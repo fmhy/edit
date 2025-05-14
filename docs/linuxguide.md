@@ -148,7 +148,7 @@
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
 * [cheat.sh](http://cheat.sh/) - App Repos / [GitHub](https://github.com/chubin/cheat.sh)
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
@@ -553,7 +553,7 @@
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Later](https://getlater.app/) - Restore App Sessions / [GitHub](https://github.com/alyssaxuu/later)
 * [VMware](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html) - Virtual Machine
-* [Tart](https://tart.run/) - Virtual Machine Manager . [GitHub](https://github.com/cirruslabs/tart)
+* [Tart](https://tart.run/) - Virtual Machine Manager / [GitHub](https://github.com/cirruslabs/tart)
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble, etc.
 * [SD Buddy](https://github.com/breadthe/sd-buddy), [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps

@@ -155,6 +155,7 @@
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity / [GitHub](https://github.com/Anon-Planet/thgtoa)
+* [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
@@ -250,10 +251,11 @@
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys / [GitHub](https://github.com/Yubico/yubioath-flutter)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
-* [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web Based 2FA / [GitHub](https://github.com/Bubka/2FAuth)
+* [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web-Based 2FA / [GitHub](https://github.com/Bubka/2FAuth)
 * [Sentinel](https://getsentinel.io/) - Android / iOS / Mac 2FA
 * [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - iOS 2FA
 * [Tofu](https://www.tofuauth.com/) - iOS 2FA / [GitHub](https://github.com/iKenndac/Tofu)
+* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted 2FA
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
@@ -268,7 +270,7 @@
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [GitHub](https://github.com/ProtonMail)
 * [Tuta](https://tuta.com/) - Encrypted Email / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
-* [DNMX](https://dnmx.su/) - Onion Based Email
+* [DNMX](https://dnmx.su/) - Onion-Based Email
 * [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - Email Privacy Test / [GitLab](https://gitlab.com/mikecardwell/ept3)
 * [SecLists](https://seclists.org/) - Security Mailing List Archive

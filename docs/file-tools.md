@@ -215,7 +215,7 @@
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
 * [ILovePDF](https://www.ilovepdf.com/)
-* [⁠BreezePDF](https://breezepdf.com/)
+* [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
 * [SimplePDF](https://simplepdf.com/)
@@ -365,7 +365,7 @@
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
-* [⁠TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
+* [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [KrakenFiles](https://krakenfiles.com/) - 1GB / 3 Months on Sign-Up
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required

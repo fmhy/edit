@@ -565,7 +565,7 @@
 
 * ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
 * ⭐ **Blender Tools** - [Resources](https://t.me/BlenderUniverse/3), [2](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
-* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects based on Text / Image Prompts
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
 * [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
 * [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
 * [Wings 3D](https://www.wings3d.com/) - Cross-platform 3D Modeling App
