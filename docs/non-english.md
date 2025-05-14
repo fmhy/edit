@@ -434,19 +434,19 @@
 
 ## ▷ Torrenting
 
-* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books
-* [Torrent9](https://www.torrent9.site/), [2](https://torrent9.app/) - Video / Audio / ROMs / Books
+* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Signup Required
+* [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://www1.cpasbien.to/) - Video / Audio / ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Signup Required
 
 ## ▷ Streaming
 
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Movix](https://www.movix.site/)**, [2](https://streammovix.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.com/invite/movix)
-* ⭐ **[Frembed](https://frembed.live/)** - Movies / TV / Anime / API
+* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/movix)
+* ⭐ **[Frembed](https://frembed.club/)** - Movies / TV / Anime / API
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
-* [Darkiworld](https://darkiworld7.com/) - Movies / TV / Anime
+* [Darkiworld](https://darki-tometjerry.com/) - Movies / TV / Anime
 * [cinepulse](https://cinepulse.fr/) - Movies / TV / Anime
 * [coflix](https://coflix.mov/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadisflix.wiki/) / [Telegram](https://t.me/sadisflix)
