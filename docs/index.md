@@ -126,11 +126,11 @@ features:
     link: /android-iosguide
     details: All forms of content for Android and iOS.
 
-  - title: Linux / macOS
+  - title: Linux / macOS / Others
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#f17c67" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-square-terminal"><path d="m7 11 2-2-2-2"/><path d="M11 13h4"/><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/></svg>
     link: /linuxguide
-    details: The $HOME of Linux and macOS.
+    details: The $HOME of Linux,  macOS & Other OSs.
 
   - title: Non English
     icon: |
