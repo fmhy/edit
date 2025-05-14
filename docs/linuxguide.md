@@ -11,7 +11,6 @@
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
-* [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
@@ -162,7 +161,6 @@
 
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
-* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
@@ -768,3 +766,52 @@
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
+
+***
+
+# ► Other OSs
+
+## ▷ BSD
+
+* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
+* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd#readme) - BSD links
+* [DistroWatch BSD](https://distrowatch.com/search.php?ostype=BSD#simple) - List of BSD distros
+* [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Handbook](https://docs.freebsd.org/en/books/handbook/)
+
+***
+
+## ▷ Others
+
+* [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) - Google's OS, Linux-kernel based / [FydeOS](https://fydeos.io/) - Chromium OS based desktop, with Android app support / [OpenFyde](https://openfyde.io/) - Open-source project for FydeOS
+* [QNX](https://blackberry.qnx.com/en) - Commercial real-time microkernel OS for embedded systems
+* [VxWorks](https://www.windriver.com/products/vxworks) - Commercial real-time OS for embedded and critical systems
+* [INTEGRITY RTOS](https://www.ghs.com/products/rtos/integrity.html) - Commercial real-time OS for safety and security-critical systems
+* [Fuchsia](https://fuchsia.dev/) - Google's OS with a microkernel (Zircon)
+* [Minix 3](https://www.minix3.org/) - Unix-like microkernel OS for reliability and fault tolerance
+* [FreeDOS](https://www.freedos.org/) - Open-source DOS-compatible OS
+* [ReactOS](https://reactos.org/) - Open-source OS aiming for binary compatibility with Windows NT
+* [Haiku](https://www.haiku-os.org/) - Open-source OS inspired by BeOS
+* [Plan 9](https://9p.io/plan9/) - Distributed OS, successor to Unix
+* [AmigaOS](https://www.amigaos.net/) - Proprietary OS for Amiga and PowerPC hardware
+* [Zephyr Project](https://www.zephyrproject.org/) - Open-source RTOS for resource-constrained embedded devices
+* [RTEMS](https://www.rtems.org/) - Open-source RTOS for embedded systems and space applications
+* [RISC OS Open](https://www.riscosopen.org/content/) - Open-source OS for ARM processors
+* [MorphOS](https://www.morphos-team.net/) - Proprietary OS for PowerPC hardware, inspired by AmigaOS
+* [AROS](https://aros.sourceforge.io/) - Open-source OS aiming for compatibility with AmigaOS
+* [Redox OS](https://www.redox-os.org/) - A Unix-like microkernel OS written in Rust
+* [SerenityOS](https://serenityos.org/) - Modern, from-scratch OS with a retro look
+* [TempleOS](https://templeos.org/) - Lightweight, unique OS
+* [eComStation](https://www.ecomstation.com/) - Commercial OS/2 derivative
+* [Genode](https://genode.org/) - Operating system framework for microkernels
+* [OSv](https://osv.io/) - Open-source OS for cloud workloads, written in C++
+* [KataOS](https://opensource.google/projects/kataos) - Google's security-focused OS for embedded systems, on seL4, in Rust
+* [HelenOS](http://www.helenos.org/) - Portable microkernel-based multiserver OS
+* [Inferno](https://www.vitanuova.com/inferno/) - Distributed OS, extending Plan 9 concepts
+* [KolibriOS](https://kolibrios.org/en/) - Fork of MenuetOS, also written in assembly
+* [MenuetOS](http://menuetos.net/) - Lightweight OS written entirely in assembly
+* [Cosmos](https://cosmos-os.org/) - Open-source OS written in C#
+* [Phantom OS](http://phantomos.org/) - Persistent, object-oriented OS with a unique architecture
+* [Visopsys](http://visopsys.org/) - Hobbyist OS with custom kernel/GUI, in C and assembly
+* [Syllable Desktop](https://syllable.org/) - Open-source OS, fork of AtheOS
+* [EmuTOS](https://emutos.sourceforge.io/) - Open-source TOS (Atari ST OS) clone
+* [MagiC](https://sourceforge.net/projects/magic-os/) - Open-source Atari TOS variant
