@@ -339,6 +339,7 @@
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
+* [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 
 ***
 
