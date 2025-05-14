@@ -875,6 +875,7 @@
 * [Trello](https://trello.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
 * [Airtable](https://www.airtable.com/) - Spreadsheet-Database Hybrid for Team Workflows
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform / Linux
+* [Vaiz](https://vaiz.com) - One platform for Tasks & Documents
 
 ***
 
