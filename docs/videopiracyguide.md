@@ -774,6 +774,7 @@
 * [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
 * [Simkl Stremio](https://simkl.com/apps/stremio/) - Simkl for Stremio
 * [Trakt Stremio](https://2ecbbd610840-trakt.baby-beamup.club/) - Trakt for Stremio
+* [Stremlist](https://stremlist.com/) - IMDb Watchlist in Stremio
 
 ***
 
