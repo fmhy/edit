@@ -211,6 +211,7 @@
 * [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games
 * [RedTeam Arena](https://redarena.ai/) - AI Jailbreak Game
 * [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
+* [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 
 ***
 ***
