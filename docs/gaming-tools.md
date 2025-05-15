@@ -195,7 +195,7 @@
 
 # ► Tracking / Databases
 
-* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#glitchwave-note)
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database
 * [IGDB](https://www.igdb.com/) - Game Database

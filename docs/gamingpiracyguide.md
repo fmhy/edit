@@ -285,6 +285,7 @@
 * [ROMsFun](https://romsfun.com/) - ROMs
 * [FreeROMs](https://www.freeroms.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
+* [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [Ziperto](https://ziperto.com/) - ROMs / Avoid These [Fake](https://ibb.co/wWJbkX6) Buttons
@@ -337,6 +338,7 @@
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSP
 * [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
+* [PS3R](https://ps3r.com/) - ROMs / PS3
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
