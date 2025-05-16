@@ -68,6 +68,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use Throwaway Gmail / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime / Watch Parties
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
+* [FireFlix](https://fireflix.pages.dev/) - Movies / TV / Anime
 * [RedFlix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/wp5SkSWHW5)
 * [Let's Stream](https://www.letstream.site/) - Movies / TV / Anime
 * [Mokmobi](https://mokmobi.ovh/), [2](https://mokmobi.site/) - Movies / TV / Anime
@@ -83,6 +84,7 @@
 * [Netplex](https://netplex.site), [2](https://netplex-v2.pages.dev), [3](https://netplex.pages.dev) - Movies / TV / Anime / [Telegram](https://t.me/+8FCyO7sCQdZkOGZl)
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * [FshareTV](https://fsharetv.co/) - Movies
+* [AZMovies](https://azmovies.ag/) - Movies
 * [CorsFlix](https://corsflix.net/) - Movies / TV / Anime
 * [YoYoMovies](https://yoyomovies.net/), [2](https://fmovies-hd.to/) - Movies / TV / Anime
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / [Discord](https://discord.gg/mh2Bte8Kfj)
@@ -102,7 +104,6 @@
 * [123Movies](https://123moviesfree.at/) - Movies
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV / Anime
 * [ReelZone](https://reelzone.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/zArgTukX3Z)
-* [AZMovies](https://azmovies.ag/) - Movies
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [Zoechip](https://zoechip.org/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
