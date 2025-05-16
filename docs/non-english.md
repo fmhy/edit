@@ -1737,9 +1737,6 @@
 
 ## ▷ Downloading / İndirme
 
-* ⭐ [SolidShare](https://www.solidshare.net/) - Unattended Cracked Windows Apps
-* [Full Programlar İndir](https://www.fullprogramlarindir.net/) / [WarezTurkey](https://www.warezturkey.me/) - Warez & Cracked Windows Apps & Cracked Mobile Apps & Cracked Games & Courses
-* [Oyun İndir Vip](https://www.oyunindir.vip/) - Cracked Games
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Turkce Ses Dosyası](https://turkce-sesdosyasi.blogspot.com/) or [Turkish Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
