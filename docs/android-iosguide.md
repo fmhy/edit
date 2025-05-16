@@ -492,7 +492,7 @@
 ## ▷ Android File Tools
 
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
-* ⭐ **[SD Maid](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Data Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu)
+* ⭐ **[SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu)
 * ⭐ **[MaterialFiles](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[File-Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** or [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
@@ -782,7 +782,7 @@
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
 * [ytdlnis](https://github.com/deniscerri/ytdlnis) - Multi-Site Audio Downloader
 * [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
-* [⁠EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader
+* [EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming

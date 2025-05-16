@@ -334,7 +334,7 @@
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
-* [Atuin](https://atuin.sh/) - Sync, search and backup shell history
+* [Atuin](https://atuin.sh/) - Sync, Search and Backup Shell History
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package

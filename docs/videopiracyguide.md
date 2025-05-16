@@ -163,7 +163,7 @@
 * [Gojo](https://gojo.wtf/) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
-* [⁠Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
+* [Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
 * [Anime-Stream](https://anime-stream.io/) - Sub / Dub / [Discord](https://discord.com/invite/CpXEuEFTmU)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
