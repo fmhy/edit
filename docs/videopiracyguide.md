@@ -10,7 +10,7 @@
 
 ***
 
-* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next / [4K Guide / Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
+* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [4K Guide / Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) 
 * ⭐ **[Cineby](https://www.cineby.app/)**, [Bitcine](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.cat/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
@@ -29,11 +29,13 @@
 * [HydraHD](https://hydrahd.sh/) - Movies / TV / Anime / [Status](https://hydrahd.info/)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [PopcornMovies](https://popcornmovies.to/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
+* [Maxflix](https://maxflix.top/) - Movies / TV / Anime
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
+* [Mocine](https://mocine.cam/) - Movies / TV / Anime
 * [EnjoyTown](https://enjoytown.pro/), [2](https://kaido.cc/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [neoxa](https://neoxa.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
@@ -45,7 +47,6 @@
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [catflix](https://catflix.su/) - Movies / TV
-* [Mocine](https://mocine.cam/) - Movies / TV / Anime
 * [Soaper](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/ynfvjgHrBd)
@@ -54,6 +55,8 @@
 * [ValhallaStream](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
 * [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / [4K Guide](https://youtu.be/cj5gRXBnWDA), [2](https://i.ibb.co/PDnw1nh/image.png) / [Discord](https://discord.gg/streamflix)
+* [FlixIndia](https://watch.flixindia.site/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/+KOxuXK3gSfVkMDg1)
+* [Watch2Me](https://watch2me.site/) - Movies / TV / Anime / [Telegram](https://t.me/watch2mesite)
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [Smashy](https://smashy.stream/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [OnionPlay](https://onionplay.ch/) - Movies / TV / [Discord](https://discord.com/invite/4QxywT32Uz)
 * [StigStream](https://stigstream.com/), [2](https://stigstream.xyz), [3](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
@@ -94,7 +97,6 @@
 * [SFlix](https://sflix2.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
 * [VidPlay](https://vidplay.top/) - Movies / TV / Anime / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#vidplay-note)
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
-* [FireFlix](https://fireflix.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [BrocoFlix](https://brocoflix.com/) - Movies / TV / Anime
 * [FlixWatch](https://flixwatch.site/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5MJhpjzv)
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
@@ -402,97 +404,51 @@
 ## ▷ Live Sports
 
 * 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Importable Sports Calendars
-* ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/) / [Discord](https://discord.gg/streamed)
-* ⭐ **[PPV.wtf](https://ppv.wtf/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
-* ⭐ **[SportyHunter](https://sportyhunter.com/)** - Stream Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
-* ⭐ **[Sports Plus](https://en12.sportplus.live/)**
-* ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipbox.lc/), [4](https://www.vipleague.pm/) / [More Links](https://rentry.org/894dq2c9)
+* ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/), [3](https://mutstreams.com/) / [Discord](https://discord.gg/streamed)
 * ⭐ **[RBTV77](https://www.rbtv77.kaufen/)**
-* ⭐ **[TotalSportek.to](https://www.totalsportek.to/)**, [2](https://totalsportek.me/) - Stream Aggregator
-* ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://soccer9.sportshub.stream/)
-* ⭐ **[OlympicStreams](https://olympicstreams.co/)**
-* ⭐ **[Sportsurge](https://v2.sportsurge.net/home5/)** - Stream Aggregator
+* ⭐ **[StreamEast](https://www.streameast.sk/v8/)** / [Mirrors](https://gostreameast.link/)
+* ⭐ **[LiveTV](https://livetv.sx/enx/)** or [Sport-TV](https://sport-tv.live/)
+* ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://olympicstreams.co/), [3](https://vipleague.im/), [4](https://www.vipbox.lc/), [5](https://www.vipleague.pm/), [6](https://strikeout.im/) / [More Links](https://rentry.org/894dq2c9)
+* ⭐ **[PPV.wtf](https://ppv.wtf/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
+* ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.xyz/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
-* [StreamEast](https://www.streameast.sk/v8/) / [Mirrors](https://gostreameast.link/)
-* [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
+* [SportHD](https://sporthd.live/) - Stream Aggregator
+* [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
+* [TotalSportek.to](https://www.totalsportek.to/), [2](https://totalsportek.me/), [3](https://sportsurge.club/), [4](https://buffstreams.app/) - Stream Aggregator 
+* [SportsLive](https://sportslive.me/)
+* [CricHD.to](https://crichd.to/), [2](https://crichd.at/), [3](https://crichd.com.co/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
-* [MutStreams](https://mutstreams.com)
-* [Sportsurge.club](https://sportsurge.club/) - Stream Aggregator
-* [TFLIX](https://tv.tflix.app/)
-* [TimStreams](https://timstreams.site/), [2](https://timstreams.xyz/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
-* [Sportea](https://s1.sportea.link/)
-* [SportOnTV](https://sportontv.xyz/) / [Discord](https://discord.gg/YhQPSSMps2)
-* [Cineby Live](https://www.cineby.app/livestream) / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* [1Stream](https://1stream.eu/)
-* [FSL](https://freestreams-live.mp/) / [Discord](https://discord.gg/eXXJzDPchU)
-* [KobeStreams](http://watchkobestreams.info/) / [Discord](https://discord.com/invite/SEmFE8bdtR)
+* [Strims](https://strimsy.top/)
+* [NET3LIX](https://net3lix.world/live) / [Discord](https://discord.gg/bstJfQT3AZ)
+* [AlienFlix Sports](https://alienflix.net/live/matches)
+* [SportyHunter](https://sportyhunter.com/) / [Discord](https://discord.gg/zbxWcejadm)
+* [Sports Plus](https://en12.sportplus.live/)
+* [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
+* [CrackStreams](https://crackstreams.blog/)
+* [BuffSports](https://buffsports.me/)
 * [720pStream](https://720pstream.nu/)
 * [BuffStream](https://app.buffstream.io/)
-* [HydraHD Sports](https://hydrahd.ac/livesports)
-* [RiveStream](https://rivestream.org/livesports)
-* [AlienFlix Sports](https://alienflix.net/live/matches)
+* [TopSport](https://topsport.live/), [2](https://sport4all.live/)
 * [NunFlix Sports](https://nunflix.org/sports)
-* [VidBox Sports](https://vidbox.to/sports)
-* [FlickyStream Sports](https://flickystream.com/sports) / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
 * [Broflix Sports](https://broflix.si/live/sports)
-* [LiveTV](https://livetv.sx/enx/)
-* [LiveMatches](https://livematches.net/)
-* [Strims](https://strimsy.top/)
-* [SportsLive](https://sportslive.me/)
-* [TopSport](https://topsport.live/) or [Sport4All](https://sport4all.live/) - Stream Aggregator
-* [Raket TV](https://www.rakettv.win/)
-* [CrackStreams](https://crackstreams.blog/)
-* [BuffStreams](https://buffstreams.app/)
-* [SportHD](https://sporthd.live/)
-* [NET3LIX](https://net3lix.world/live) / [Discord](https://discord.gg/bstJfQT3AZ)
-* [SportsOnline](https://sportsonline.gl/)
-* [Sport7](https://sport7.pro/)
-* [WorldStreams](https://worldstreams.net/)
-* [StreamLiveTV](https://streamlivetv.site/)
-* [StrikeOut](https://strikeout.im/)
-* [HesGoal](https://www.hesgoal.watch/)
-* [SportsFee24](https://sportsfeed24.com/)
-* [Sport-TV](https://sport-tv.live/)
-* [SportsBay](https://www.sportsbay.dk/)
-* [DudeStream](https://www.dudestream.com/)
-* [DaddyLiveHD](https://daddylivehd1.click/)
-* [BuffSports](https://buffsports.me/)
-* [CricHD.to](https://crichd.to/), [2](https://crichd.at/)
-* [CricHD.com](https://crichd.com.co/)
-* [CricHDPlayer](https://new.crichd.tv/)
+* [VidBox Sports](https://vidbox.to/sports)
+* [LiveMatches](https://livematches.net/) - Live Events
+* [StarLive](https://starlive.click/) - Live MMA Events
+* [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [AntenaCentral](https://antenacentral.store/) - Direct Live Sports Links
-* [Rojadirecta](http://www.rojadirecta.eu/) - Stream Aggregator / [Forum](http://forum.rojadirecta.es/)
-* [NBAMonster](https://nbamonster.com/) - Basketball
-* [NBABite](https://index.nbabite.com/) - Basketball
-* [NFLHunter](https://nflhunter.com/) - American Football
-* [NFLMonster](https://nflmonster.com/) - American Football
-* [NFLBite](https://reddit1.nflbite.com/) - American Football
-* [MLB24ALL](https://mlb24all.ir/) - Baseball
-* [MLBshows](https://mlbshow.com/) - Baseball
-* [MLBGamePass](https://mlbgamepass.com/) - Baseball
-* [BoxingStreams100](https://ringwalk.boxingstreams100.com/) - Boxing
-* [MMA Streams](https://tonight.mmastreams.cc/) - MMA / Stream Aggregator
-* [StarLive](https://starlive.click/) - Rare MMA Events
-* [FootyBite](https://www1.footybite.cc/) - Football
-* [footybite.bz](https://footybite.bz/) - Football
-* [SoccerOnline](https://socceronline.me/) - Football
-* [FlickSoccer](https://flicksoccer.com/) - Football
-* [CricHD](https://crichd.at/) - Cricket
-* [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling
+* [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
+* [Boxing-100](https://boxing-100.com/) - Boxing / Aggregator
+* [CricHD](https://crichd.at/) - Cricket / Aggregator
+* [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
+* [MLB24ALL](https://mlb24all.ir/) or [NHL24ALL](https://nhl24all.ir/) - Baseball / Hockey
 * [OvertakeFans](https://overtakefans.com/) - Motorsports / [Discord](https://discord.gg/ZKwTUbdbmc)
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
-* [MotoGP](https://motogpstream.me/) - Motorsports
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
-* [F1Box](https://f1box.me/) - Motorsports
-* [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
-* [NHLStreams](https://nhlstreams.io/) - Hockey
-* [NHL24ALL](https://nhl24all.ir/) - Hockey
-* [OnHockey](https://onhockey.tv/) - Hockey
-* [NHLbite](https://nhlbite.com/) - Hockey
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
-* [F1 Dash](https://f1-dash.com/) - F1 Live Stats
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
+* [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling
+* [F1 Dash](https://f1-dash.com/) - F1 Live Stats
 
 ***
 

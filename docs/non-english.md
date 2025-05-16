@@ -425,7 +425,7 @@
 
 ## ▷ Downloading / Téléchargement
 
-* [WawaCity](https://www.wawacity.tips/) - Movies / TV / Check [Telegram](https://t.me/Wawacity_officiel) if Domain Changes
+* [WawaCity](https://www.wawacity.pet/) - Movies / TV / Check [Telegram](https://t.me/Wawacity_officiel) if Domain Changes
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
@@ -485,18 +485,18 @@
 
 ## ▷ Reading / Lecture
 
-* [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
+* [Bookys](https://www6.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
 * [PDF Prof](https://pdfprof.com/) - Educational Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW / [Discord](https://discord.com/invite/origines)
-* [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
+* [Mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
-* [SushiScans](https://sushiscan.net/) - Manga
+* [SushiScan](https://sushiscan.net/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
-* [oraedes](https://oraedes.fr/) - Occult / Esoteric
+* [ORAEDES](https://oraedes.fr/) - Occult / Esoteric
 
 ***
 
@@ -832,7 +832,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunity.ovh) - Movies / TV
+* [StreamingCommunity](https://streamingunity.to/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
