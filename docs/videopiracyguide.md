@@ -35,7 +35,7 @@
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
 * [EnjoyTown](https://enjoytown.pro/), [2](https://kaido.cc/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
-* [neoxa](https://neoxa.netlify.app/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
+* [neoxa](https://neoxa.transdev.pw/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
 * [Broflix](https://broflix.si/) - Movies / TV / Anime
 * [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / [Discord](https://discord.gg/4SJ5c9gZUQ)
