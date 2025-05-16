@@ -1753,6 +1753,7 @@
 * [SeriesAZ](https://seriesaz.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
+* [SelçukFlix](https://selcukflix.com/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Dizilab](https://dizilab.com/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
