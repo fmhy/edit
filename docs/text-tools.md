@@ -143,12 +143,12 @@
 ***
 
 * ⭐ **[LanguageTool](https://languagetool.org/)**
+* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
 * [EditGPT](https://www.editgpt.app/) - Sign-Up Required
-* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up Required
 * [Outwrite](https://www.outwrite.com/) - Sign-Up Required
 
