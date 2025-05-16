@@ -409,7 +409,7 @@
 * ⭐ **[RBTV77](https://www.rbtv77.kaufen/)**
 * ⭐ **[StreamEast](https://www.streameast.sk/v8/)** / [Mirrors](https://gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)** or [Sport-TV](https://sport-tv.live/)
-* ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://olympicstreams.co/), [3](https://vipleague.im/), [4](https://www.vipbox.lc/), [5](https://www.vipleague.pm/), [6](https://strikeout.im/) / [More Links](https://rentry.org/894dq2c9)
+* ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[PPV.wtf](https://ppv.wtf/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.xyz/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
