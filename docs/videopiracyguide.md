@@ -149,7 +149,7 @@
 * ⭐ **[HiAnime](https://hianimez.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
 * ⭐ **[All Manga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.gg/YbuYYUwhpP)
-* ⭐ **[animepahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[animepahe](https://animepahe.ru/)** - Sub / Dub / [Downloader](https://github.com/KevCui/animepahe-dl) / [Enhancements](https://greasyfork.org/en/scripts/520048-animepahe-improvements)
 * ⭐ **[KickAssAnime](https://kaa.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Telegram](https://t.me/kickassanimev3)
 * ⭐ **[Animag](https://animag.to/)** - Sub / Dub
 * ⭐ **[AnimeZ](https://animez.org/)** - Sub / Dub
