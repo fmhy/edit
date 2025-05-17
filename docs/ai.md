@@ -29,7 +29,7 @@
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
-* [FreePass](https://freepass.ai/) - Multiple Chatbots
+* [OI](https://chat.xenai.tech/) or [FreePass](https://freepass.ai/) - Multiple Chatbots
 * [SciSpace](https://scispace.com/) (No Sign-Up), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [Learn About](https://learning.google.com/experiments/learn-about) - Google's Educational Search AI
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)

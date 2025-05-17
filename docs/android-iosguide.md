@@ -830,6 +830,7 @@
 * [VLC for Android](https://www.videolan.org/vlc/download-android.html)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
+* [Namida](https://github.com/namidaco/namida)
 * [Meloplay](https://github.com/ShokhrukhbekYuldoshev/Meloplay)
 * [Foobar2000](https://www.foobar2000.org/apk)
 * [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
