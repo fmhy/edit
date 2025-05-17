@@ -866,7 +866,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors
+* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/g-meh)
 * ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editors
 * ⭐ **[FL Studio](https://rentry.co/FMHYBase64#fl-studio)** - Digital Audio Workstation
 * ⭐ **[Reaper](https://www.reaper.fm/)** - Digital Audio Workstation / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)
@@ -932,7 +932,7 @@
 
 ## ▷ Audio Plugins
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Download
+* ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Discord](https://discord.com/invite/g-meh)
 * ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYBase64#team-vr)** - Download
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
