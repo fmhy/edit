@@ -887,7 +887,6 @@
 * https://t.me/for_otaku
 * https://t.me/Any_Animebot
 * https://t.me/myanimetvbot
-* https://t.me/Ongoing_animes
 
 ***
 
