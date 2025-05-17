@@ -364,6 +364,7 @@
 * ⭐ **[DaddyLive](https://daddylive.mp/)** or [miztv](https://miztv.shop/) - TV / Sport / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Telegram](https://t.me/dlhdlive)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
+* [FSTV](https://fstv.us/) - TV / Events / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [time4tv.top](https://time4tv.top/) - TV / Sports
