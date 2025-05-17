@@ -97,6 +97,7 @@
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
 * [Tinytask](https://tinytask.net/)
+* [⁠MacroRecorder](https://www.macrorecorder.com/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)

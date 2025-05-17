@@ -410,7 +410,7 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[PPV.wtf](https://ppv.wtf/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.xyz/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
-* ⭐ **[WeAreChecking](https://wearechecking.online/)** - Motorsports / Football / [Discord](https://discord.com/invite/wearechecking)
+* ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / [Discord](https://discord.com/invite/wearechecking)
 * [SportHD](https://sporthd.live/) - Stream Aggregator
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://www.totalsportek.to/), [2](https://totalsportek.me/), [3](https://sportsurge.club/), [4](https://buffstreams.app/) - Stream Aggregator 
@@ -679,6 +679,7 @@
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
 * [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
+* [⁠AniconforAnilist](https://github.com/EnArvy/AniconforAnilist) - Anime Folder Cover Automation
 
 ***
 

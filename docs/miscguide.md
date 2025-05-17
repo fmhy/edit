@@ -952,7 +952,7 @@
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
-* [Kolors](https://www.kolorsvirtual.ai), [2](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
+* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 
 ***
@@ -1424,7 +1424,7 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History
 * [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
-* [KilledByGoogle](https://killedbygoogle.com/) or [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Projects
+* [KilledByGoogle](https://killedbygoogle.com/) - Dead Projects
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [EnigmaLabs](https://enigmalabs.io/), [UFO Casebook](https://www.ufocasebook.com/) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
