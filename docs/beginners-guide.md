@@ -36,9 +36,9 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [Cineby](https://www.cineby.app/) / [Rive](https://rivestream.org/)**
+* **Streaming: [Hexa](https://hexa.watch/) / [movie-web](https://erynith.github.io/movie-web-instances/) / [Cineby](https://www.cineby.app/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
+* **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 

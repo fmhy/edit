@@ -838,7 +838,7 @@
 * [Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
-* [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Streaming Server
+* [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Audio Server
 
 ***
 

@@ -300,7 +300,7 @@
 
 ## ▷ Spotify Adblockers
 
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity), [2](https://t.me/SpotX_Chat/)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Spotify Adblock Guide](https://redd.it/yme7pf)
@@ -357,7 +357,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -409,7 +409,6 @@
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
 * [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kb MP3
-* [FLAC Musik](https://t.me/flacmuzik) - Bollywood FLAC
 
 ***
 
@@ -443,7 +442,7 @@
 * [mp3db](https://mp3db.pro/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [Saavn Web](https://saavn-web-ui.vercel.app/) - MP3 / [GitHub](https://github.com/wiz64/saavn-web-ui)
-* [CannaPower](https://canna-power.to) - MP3 / [Telegram](https://t.me/cannapower)
+* [CannaPower](https://canna-power.to) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
@@ -557,7 +556,7 @@
 * [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 * [NFO DB](https://nfodb.net.ru/) - MP3 NFO Database
-* [PreDB.eu](https://predb.eu) - PreDB for Music
+* [PreDB.eu](https://predb.eu) - Music PreDB
 
 ***
 
@@ -867,7 +866,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
+* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors
 * ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editors
 * ⭐ **[FL Studio](https://rentry.co/FMHYBase64#fl-studio)** - Digital Audio Workstation
 * ⭐ **[Reaper](https://www.reaper.fm/)** - Digital Audio Workstation / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)

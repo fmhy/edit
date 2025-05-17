@@ -18,13 +18,13 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9) / PW: `1234` or `steamrip.com`
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
+* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
+* ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ZjrNBhmhPz)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
 * [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
-* [SteamUnderground](https://steamunderground.net/) - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ZjrNBhmhPz)
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download
-* [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/6msDMndrkD)
 * [UnionCrax](https://union-crax.xyz/) - Download / [Discord](https://discord.gg/dkVame6BQS)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
@@ -85,9 +85,12 @@
 * [Flashtro](https://flashtro.com/) - Abandonware
 * [Zombs-Lair](https://www.zombs-lair.com/) - Abandonware
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
-* [Old-Games.com](https://www.old-games.com/) - Abandonware
 * [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
-* [Magipack](https://www.magipack.games), [Old-Games](https://www.old-games.ru/), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
+* [Magipack](https://www.magipack.games) - Abandonware
+* [Old-Games](https://www.old-games.ru/) - Abandonware
+* [CollectionChamber](https://collectionchamber.blogspot.com/) - Abandonware
+* [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
+* [Old-Games.com](https://www.old-games.com/) - Abandonware
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum
 * [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
@@ -256,7 +259,7 @@
 * [AliceISO](https://alice.al/) - ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
-* [Axekin](https://www.axekin.com/) - ROMs / Use Translator / [Discord](https://discord.com/invite/emulationfr)
+* [Axekin](https://www.axekin.com/) - ROMs / Use Translator
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
@@ -669,7 +672,7 @@
 
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubik's Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
 * ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
-* [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
+* ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
@@ -773,7 +776,7 @@
 
 ## ▷ GeoGuessr Games
 
-* ⭐ **[Plonk It](https://www.plonkit.net/)** / [Discord](https://discord.gg/7eFVgb4c), **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
+* ⭐ **[Plonk It](https://www.plonkit.net/)**, **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
 * ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Account Required
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
 * [LearnableMeta](https://learnablemeta.com/) - Geoguessr Practice Maps & Hints / [Discord](https://discord.gg/AcXEWznYZe)

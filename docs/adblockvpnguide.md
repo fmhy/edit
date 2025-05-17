@@ -137,10 +137,11 @@
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
-* [Surfer Protocol](https://surferprotocol.org/) - Multi-platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
+* [Surfer Protocol](https://surferprotocol.org/) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [chausies encrypt](https://chausies.xyz/encrypt) / [GitHub](https://github.com/chausies/chausies.github.io), [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [⁠Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
@@ -159,7 +160,7 @@
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
-* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide / [Discord](https://discord.gg/25zRy7E4Uw)
+* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Git](https://git.hostux.net/valere/hostux.network)

@@ -18,7 +18,7 @@
 
 ## ▷ Downloading / تحميل
 
-* [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/stardima_vip)
+* [Stardiima](https://e.stardiima.top/) - Movies / TV
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
@@ -270,7 +270,7 @@
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
 * [hallowlib](https://bk.hallowlib.org/) - Fiction / Non-fiction
 * [haodoo](https://haodoo.net/) - Fiction
-* [24hbook](https://24hbook.com/) - Fiction / Non-fiction / [Telegram](https://t.me/hi24hbook)
+* [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Fiction
 * [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
@@ -417,7 +417,6 @@
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
-* [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 * [Deal Labs](https://www.dealabs.com/) - Track Deals
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
@@ -443,7 +442,7 @@
 
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/movix)
+* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime
 * ⭐ **[Frembed](https://frembed.club/)** - Movies / TV / Anime / API
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Darkiworld](https://darki-tometjerry.com/) - Movies / TV / Anime
@@ -471,7 +470,7 @@
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
 * [animesz](https://v1.animesz.xyz/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
-* [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p / [Discord](https://discord.gg/Pjs5p5TrEW)
+* [AWTWA](https://www.awtwa.site/) - Anime / Dub / 1080p
 * [WITV](https://witv.space/) - Live TV / Sports
 * [LeFoot](https://lefoot.ru/) - Live Sports
 * [oohquelbut](https://oohquelbut.ru/) - Live Sports
@@ -513,7 +512,7 @@
 
 ## ▷ Downloading / Herunterladen
 
-* [Usenet DE Guide](https://github.com/PCJones/usenet-guide) - German Usenet Guide / [Discord](https://discord.com/invite/pZrrMcJMQM)
+* [Usenet DE Guide](https://github.com/PCJones/usenet-guide) - German Usenet Guide
 * [Radar / Sonarr DE Guide](https://github.com/PCJones/radarr-sonarr-german-dual-language/blob/main/GERMAN_DUAL_LANGUAGE_GUIDE_GER.md)
 * [Crawli](https://crawli.net/) - Download Search
 * [DarkLight](https://board.darklight.to/) - Video / Audio / ROMs / Books / Magazines / NSFW
@@ -676,7 +675,7 @@
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
-* ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
+* ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilBlasters](https://www.1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 * ⭐ **[TamilMV](https://www.1tamilmv.com/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
@@ -749,7 +748,7 @@
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [aFimlyWap](https://www.afilmywap.org.vc/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
-* [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
+* [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720pp
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
@@ -1734,6 +1733,7 @@
 
 * ⭐ **[caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** or [TemizAramaMotorum](https://gitlab.com/fr0stb1rd/temizaramamotorum) - Get rid of low-quality Turkish results
 * [Teyit](https://teyit.org/), [DoğrulukPayı](https://www.dogrulukpayi.com/) - News Verification
+* [GoodbyeDPI-Turkey](https://github.com/cagritaskn/GoodbyeDPI-Turkey) - GoodbyeDPI for Turkish ISPs
 
 ## ▷ Downloading / İndirme
 

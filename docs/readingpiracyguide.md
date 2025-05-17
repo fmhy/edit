@@ -10,7 +10,7 @@
 * ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/), [4](https://welib.org/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
 * ⭐ **[Library Genesis](https://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-library.sk/), [5](https://z-lib.fm/) - Books / Comics / Educational / [Apps / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
-* ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/), [4](https://lite.bookracy.ru/) / [Download Buttons](https://greasyfork.org/en/scripts/514877) / [Mirrors](https://rentry.co/bookracy) / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.gg/qCsY3EKC) / [Telegram](https://t.me/bookracy)
+* ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/), [4](https://lite.bookracy.ru/) / [Download Buttons](https://greasyfork.org/en/scripts/514877) / [Mirrors](https://rentry.co/bookracy) / [Subreddit](https://reddit.com/r/bookracy) / [Telegram](https://t.me/bookracy)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Private Tracker / Books / Audiobooks / Comics / Sheet Music / [Invite](https://www.myanonamouse.net/inviteapp.php)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
@@ -289,7 +289,7 @@
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
 * [ToKindle](https://tokindle-home.onrender.com/) or [Send to Kobo/Kindle](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) - Send Ebooks to Kindle
-* [Ebook Sender](https://telegram.me/to_kindle_bot) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle / Telegram Bots
+* [Ebook Sender](https://telegram.me/to_kindle_bot) - Send Ebooks to Kindle / Telegram Bots
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
@@ -679,6 +679,7 @@
 
 ## ▷ Programming Books
 
+* 🌐 **[Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)** - Programming Book Index
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making a new account
 * ⭐ **[Best-Books.dev](https://www.best-books.dev/)** - Developer Book Recommendations
 * ⭐ **[ScanLibs](https://scanlibs.com/)**, [2](https://forcoder.net/), [3](https://coderprog.com/)
