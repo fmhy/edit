@@ -523,7 +523,7 @@
 * [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
-* [Y'EDITS](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits) / [Subreddit](https://www.reddit.com/r/Yedits/)
+* [Yedits](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits) / [Subreddit](https://www.reddit.com/r/Yedits/)
 * [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
