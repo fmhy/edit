@@ -388,7 +388,7 @@
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
-* [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/)- Snake Style Games
+* [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) - Snake Style Games
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
@@ -776,7 +776,7 @@
 
 ## ▷ GeoGuessr Games
 
-* ⭐ **[Plonk It](https://www.plonkit.net/)**, **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
+* ⭐ **[Plonk It](https://www.plonkit.net/)** / [Discord](https://discord.gg/plonk-it-854419081813164042), **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
 * ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Account Required
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
 * [LearnableMeta](https://learnablemeta.com/) - Geoguessr Practice Maps & Hints / [Discord](https://discord.gg/AcXEWznYZe)

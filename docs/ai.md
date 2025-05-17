@@ -49,7 +49,7 @@
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / Phone # Required / [Discord](https://discord.com/invite/joinpoe)
-* [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Onyx](https://www.onyx.app/) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
+* [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Onyx](https://www.onyx.app/) / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
 
 ***
 
@@ -67,7 +67,7 @@
 * [Jina](https://search.jina.ai/) - AI Search Engine / No Sign-Up
 * [Felo](https://felo.ai/) - AI Search Engine / AI Agents / No Sign-Up
 * [searc.ai](https://searc.ai/) - AI Search Engine / No Sign-Up
-* [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)
+* [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [Discord](https://discord.com/invite/VQMBGR8u5v) / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)
 * [Isou.chat](https://isou.chat/) - Deepseek-R1-Distill / Qwen 2.5 AI Search Engine / No Sign-Up / [GitHub](https://github.com/yokingma/search_with_ai)
 * [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / No Sign-Up / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Gemini-2.0-Flash AI Search Engine / AI Agents / Sign-Up Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
@@ -153,7 +153,7 @@
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
-* [Aider](https://aider.chat/) - Terminal Coding AI / [GitHub](https://github.com/Aider-AI/aider)
+* [Aider](https://aider.chat/) - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
 * [v0](https://v0.dev/) - Text to Site Code
@@ -294,7 +294,7 @@
 * [Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 * [Vivago](https://vivago.ai/) - 1 Daily
 * [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Sign-Up & Phone # / SMS Generators Work
-* [⁠FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
+* [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 
 ***
