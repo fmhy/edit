@@ -305,7 +305,7 @@
 * ⭐ **[Organic Maps](https://organicmaps.app/)**, **[OsmAnd](https://osmand.net/)** or [Magic Earth](https://www.magicearth.com/) - Mobile Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
-* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://gitlab.com/divested-mobile/maps) - Restricted Google Maps WebView Wrapper
+* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Apple Maps](https://beta.maps.apple.com/) - Online Maps

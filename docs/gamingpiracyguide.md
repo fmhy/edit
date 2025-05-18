@@ -89,7 +89,7 @@
 * [CollectionChamber](https://collectionchamber.blogspot.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware
-* [⁠Retro eXo](https://www.retro-exo.com/) - Abandonware / Retro PC Games / Torrents 
+* [Retro eXo](https://www.retro-exo.com/) - Abandonware / Retro PC Games / Torrents
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
@@ -114,7 +114,7 @@
 * [C64.com](https://www.c64.com/) - Commodore 64 Games
 * [whdload](https://www.whdload.de/) - Amiga Games
 * [lemonamiga](https://www.lemonamiga.com/) - Amiga Games
-* [exotica](https://www.exotica.org.uk/)  - Amiga Games
+* [exotica](https://www.exotica.org.uk/) - Amiga Games
 * [hol abime](https://amiga.abime.net/) - Amiga Games
 
 ***

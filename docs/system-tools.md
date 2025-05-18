@@ -97,7 +97,7 @@
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
 * [Tinytask](https://tinytask.net/)
-* [⁠MacroRecorder](https://www.macrorecorder.com/)
+* [MacroRecorder](https://www.macrorecorder.com/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
@@ -179,7 +179,7 @@
 * ⭐ **[VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html)** or **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [MultiPass](https://canonical.com/multipass) / [GitHub](https://github.com/canonical/multipass) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
-* [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
+* [QEMU](https://www.qemu.org/) / [GitLab](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [Terminator](https://terminator.aeza.net/) - Online Virtual Machines
 * [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
@@ -211,7 +211,7 @@
 ## ▷ Hardware Monitors
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
-* [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
+* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / [GitLab](https://gitlab.com/coolercontrol/coolercontrol) / [Discord](https://discord.gg/MbcgUFAfhV)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring

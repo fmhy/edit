@@ -355,8 +355,8 @@
 ## ▷ Spreadsheet Editors
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
-* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/). [VisiData](https://www.visidata.org/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
-* [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
+* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
+* [Baserow](https://baserow.io/) / [GitLab](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
