@@ -186,9 +186,7 @@
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** - Android Discussion Forum / [Discord](https://discord.com/invite/e4v8qtkcBw)
-
-* ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)**, **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid), **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
-
+* ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [GUI](https://aya.liriliri.io/), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid), **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC

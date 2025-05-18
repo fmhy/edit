@@ -219,7 +219,7 @@
 
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* ⭐ **[555dy](https://555u.store/)** - Movies / TV / Anime / NSFW / Sub / 1080p
+* ⭐ **[555dy](https://577938.vip/)** - Movies / TV / Anime / NSFW / Sub / 1080p
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474) / [Sponsorblock](https://github.com/hanydd/BilibiliSponsorBlock) / [Enhancement Script](https://github.com/the1812/Bilibili-Evolved)
 * [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)

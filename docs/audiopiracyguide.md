@@ -31,7 +31,7 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [spotfy.one](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic), [3](https://www.tunemymusic.com/) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)** - Browser Music / Uses Qobuz / Lossless
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player

@@ -22,7 +22,7 @@
 
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
-* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
+* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
