@@ -14,6 +14,7 @@
 * ⭐ **[PlatinMods](https://platinmods.com/)**
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note) / [Telegram](https://t.me/liteapks)
 * [Modyolo](https://modyolo.com/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note) / [Telegram](https://t.me/modyolo_official)
+* [ModsManiac](https://modsmaniac.com/) / [Telegram](https://t.me/ModsManiacDOTCOM)
 * [Nsane Forums](https://nsaneforums.com/)
 * [PDALife](https://pdalife.com/) / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
 * [Sbenny](https://sbenny.com/)
