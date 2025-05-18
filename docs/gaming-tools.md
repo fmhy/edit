@@ -298,6 +298,7 @@
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** - DLC Unlocker for Epic, Origin, EA, Uplay
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
 * [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
+* [R2 Uplay Emulator](https://github.com/Detanup01/Goldberg_r2_extended), [Uplay R2 DLC Unlocker](https://github.com/acidicoala/UplayR2Unlocker) - Uplay Emulator and DLC Unlocker
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
 
