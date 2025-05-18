@@ -68,7 +68,7 @@
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Linear](https://linear.app/), [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
-* [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
+* [UMLet](https://www.umlet.com/), [PlanetUML](https://www.plantuml.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
 * [Globster](https://globster.xyz/) - Test Glob Patterns

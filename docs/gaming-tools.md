@@ -350,7 +350,7 @@
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4)
-* [Smash64](https://smash64.online/) - Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
+* [Smash64](https://smash64.online/) - Super Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 * [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)

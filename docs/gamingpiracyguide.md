@@ -60,7 +60,6 @@
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#freegogpcgames-note), [2](https://i.ibb.co/XbF2dv1/image.png)
-* [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 
 ***
 
@@ -77,9 +76,8 @@
 
 ***
 
-## ▷ Abandonware
+## ▷ Abandonware / Retro
 
-* ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
 * [Flashtro](https://flashtro.com/) - Abandonware
@@ -91,12 +89,33 @@
 * [CollectionChamber](https://collectionchamber.blogspot.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware
-* [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
-* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum
-* [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
-* [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](https://www.exotica.org.uk/) or [hol abime](https://amiga.abime.net/) - Amiga
+* [⁠Retro eXo](https://www.retro-exo.com/) - Abandonware / Retro PC Games / Torrents 
+* [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
+* [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [Win7Games](https://win7games.com/) - Classic Windows Games
+* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games
+* [DOSBox](https://www.dosbox.com/) - DOS Games
+* [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
+* [The Software Library: MS-DOS](https://rentry.co/FMHYBase64#ms-dos) - DOS Games
+* [Best Old Games](https://www.bestoldgames.net/) - DOS Games
+* [DOSGames](https://dosgames.com/) - DOS Games
+* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games
+* [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
+* [Classic Games](https://classicdosgames.com/) - DOS Games
+* [MSX Resource Center](https://www.msx.org/) - MSX Games
+* [Generation MSX](https://www.generation-msx.nl/) - MSX Games
+* [File Hunter](https://www.file-hunter.com/) - MSX Games
+* [download.file-hunter](https://download.file-hunter.com/) - MSX Games
+* [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
+* [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
+* [GamesNostalgia](https://gamesnostalgia.com/) - Commodore 64 Games
+* [lemon64](https://www.lemon64.com/) - Commodore 64 Games
+* [C64.com](https://www.c64.com/) - Commodore 64 Games
+* [whdload](https://www.whdload.de/) - Amiga Games
+* [lemonamiga](https://www.lemonamiga.com/) - Amiga Games
+* [exotica](https://www.exotica.org.uk/)  - Amiga Games
+* [hol abime](https://amiga.abime.net/) - Amiga Games
 
 ***
 
@@ -112,6 +131,7 @@
 * [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
+* [Super Smash Flash](https://www.supersmashflash.com/) / [Discord](https://discord.com/invite/mcleodgaming) or [Smash Crusade](https://smash-crusade.itch.io/crusade) / [Forum](https://projectcrusade.forumotion.com/) / [Discord](https://discord.com/invite/9WBn6u65Fg) - Super Smash Bros. Flash Style Fan Games
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
 * [Chrono Divide](https://rentry.co/FMHYBase64#chrono-divide) or [OpenRA](https://openra.net/) - Command & Conquer Recreations / Ports
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
@@ -175,7 +195,6 @@
 * [RPGMaker Games](https://archive.org/details/rpgmaker-net-game-archive) - Games Made via RPGMaker
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive
-* [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro Mobile Games
@@ -301,6 +320,7 @@
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [MDK](https://mdk.cab/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
+* [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
 ***
@@ -363,13 +383,16 @@
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
 * [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
+* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [WePlayDOS](https://weplaydos.games/), [MSDOSGames](https://msdosgames.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulators
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
+
+
+
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
