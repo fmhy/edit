@@ -180,7 +180,7 @@
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers 
+* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
 
 ***
 
