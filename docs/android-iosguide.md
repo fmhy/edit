@@ -937,11 +937,11 @@
 ## ▷ Android Video Players
 
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
+* ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
+* [Just Player](https://github.com/moneytoo/Player)
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
-* [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 * [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
