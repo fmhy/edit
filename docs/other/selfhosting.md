@@ -13,6 +13,25 @@ Do note that you **must** differentiate your instance from the official site (fm
 
 #### Prerequisites
 
+### Docker (Experimental)
+
+You will need to install Docker and Docker Compose run your own instance of FMHY locally.
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+After installing Docker and Docker Compose, run the following commands:
+
+```bash
+git clone https://github.com/fmhy/edit.git
+cd edit
+sudo docker compose up --build
+```
+
+It should take a few minutes to build the image and start the container, running at port 4173.
+
+### Manually
+
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download/) - Use the latest available LTS, doesn't matter much
 - [pnpm 9.12.2 or newer](https://pnpm.io/installation)
