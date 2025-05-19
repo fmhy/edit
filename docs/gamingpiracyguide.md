@@ -431,14 +431,14 @@
 * [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Signup Required
+* [racing-game](https://racing.pmnd.rs/) - Driving Game / Signup Required / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
-* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game
-* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet
+* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Signup Required
+* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Signup Required
 * [First-Person Tetris](https://firstpersontetris.com/) - First Person Tetris
 * [Sandtris](https://sandtris.com/) - Falling Sand Style Tetris
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
