@@ -150,7 +150,6 @@
 ## ▷ Privacy Indexes
 
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide / [GitHub](https://github.com/privacyguides/privacyguides.org)
-* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
@@ -161,6 +160,7 @@
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
+* [Digital Defense](https://digital-defense.io/) - Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Git](https://git.hostux.net/valere/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
