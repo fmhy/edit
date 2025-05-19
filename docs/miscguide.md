@@ -1300,7 +1300,6 @@
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
-* [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
 * [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe

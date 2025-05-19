@@ -937,11 +937,11 @@
 ## ▷ Android Video Players
 
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
+* ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
+* [Just Player](https://github.com/moneytoo/Player)
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
-* [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 * [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
@@ -1285,6 +1285,7 @@
 # ► iOS Streaming
 
 * ⭐ **[Stremio](https://testflight.apple.com/join/fuNfXs3E)** or [Web Stremio](https://web.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Extension-Based / [Modules](https://sora.jm26.net/library/) / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
@@ -1301,7 +1302,6 @@
 
 ## ▷ iOS Anime
 
-* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Extension-Based / [Modules](https://sora.jm26.net/library/) / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/), [AniHyou](https://apps.apple.com/app/id1635777325) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
