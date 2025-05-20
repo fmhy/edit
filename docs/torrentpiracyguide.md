@@ -130,14 +130,14 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
-* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
-* [webtor](https://webtor.io/) - Torrent to Stream / DDL Sites
-* [Multi-Up](https://multiup.io/en/upload/from-torrent) - Torrent to DDL Sites
-* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
-* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
-* [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream
-* [TorBox](https://torbox.app/) - Torrent to Cloud
-* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
+* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - 2GB / Sign-Up Required
+* [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up 
+* [Multi-Up](https://multiup.io/en/upload/from-torrent) - No Sign-Up
+* [Bitport](https://bitport.io/welcome) - 1GB / 1 Download Per Day / Sign-Up Required
+* [TorrentSafe](https://www.torrentsafe.com/) - 1GB / No Sign-Up
+* [TorBox](https://torbox.app/) - 10GB / Sign-Up Required
+* [ZBIGZ](https://zbigz.com/) - 1GB / Sign-Up Required
+* [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream / Self-Hosted
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 
 ***
