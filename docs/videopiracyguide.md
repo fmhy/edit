@@ -162,7 +162,7 @@
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [Gojo](https://gojo.wtf/) - Sub / Dub
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
-* [⁠Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
+* [Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
 * [Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
@@ -534,7 +534,7 @@
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
-* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Signup Required
+* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Sign-Up Required
 
 ***
 

@@ -84,7 +84,7 @@
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Vesktop](https://github.com/Vencord/Vesktop) - Web Client w/ Vencord Preinstalled
-* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Compatible Client
+* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
 * [Dorion](https://spikehd.github.io/projects/dorion/) - Lightweight Discord Client / [GitHub](https://github.com/SpikeHD/Dorion)
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
@@ -393,7 +393,7 @@
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [Poke](https://poketube.fun/) - YouTube Frontend
-* [Piped](https://piped.video/) / [3](https://piped.kavin.rocks/) / [4](https://piped-material.১.net/) - YouTube Frontend / Signup Required / [GitHub](https://github.com/TeamPiped/Piped)
+* [Piped](https://piped.video/) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend / Sign-Up Required / [GitHub](https://github.com/TeamPiped/Piped)
 * [Tube Cadence](https://tube.cadence.moe/) - YouTube Frontend
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
