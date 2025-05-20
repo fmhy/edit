@@ -148,7 +148,7 @@
 * [TheOneStopRadio](https://theonestopradio.com/) - Radio Directory
 * [Radio Guide](https://www.radioguide.fm/) - Radio Directory
 * [Xiph](https://dir.xiph.org/) - Icecast / Ogg Stream Directory
-* [UKRadioLive](https://ukradiolive.com/) - UK Radio Station Directory
+* [UKRadioLive](https://ukradiolive.com/) or [RadioFeeds](http://www.radiofeeds.co.uk/) - UK Radio Station Directories
 * [ilovemusic](https://ilovemusic.de/) - German Radio Directory
 * [Tvradiotuner](https://tvradiotuner.com/) - TV & Radio Stream Aggregator
 * [VRadio](https://www.akouradio.com/) - Radio Directory / VRadio App

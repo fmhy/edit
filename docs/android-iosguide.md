@@ -231,6 +231,7 @@
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Diffuse](https://diffuse.app/) - Live Audio Wallpapers
 * [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Alembicons](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
+* [PhoneTones](https://rentry.co/fmhybase64#oldschool-ringtones) - Oldschool Ringtones
 
 ***
 
@@ -819,25 +820,24 @@
 ## ▷ Android Audio Players
 
 * ⭐ **[Poweramp](https://rentry.co/FMHYBase64#poweramp)**
-* ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
-* ⭐ **[Symphony](https://zyrouge.github.io/symphony/)**
+* ⭐ **[VLC for Android](https://www.videolan.org/vlc/download-android.html)**
+* ⭐ **[Foobar2000](https://www.foobar2000.org/apk)**
+* [AIMP](https://www.aimp.ru/?do=download&os=android)
+* [Gramophone](https://github.com/AkaneTan/Gramophone)
+* [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+* [Symphony](https://zyrouge.github.io/symphony/)
+* [Auxio](https://github.com/OxygenCobalt/Auxio/)
+* [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+* [Namida](https://github.com/namidaco/namida)
+* [mpv-android](https://github.com/mpv-android/mpv-android)
+* [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
+* [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
+* [Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
+* [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
+* [Harmonoid](https://harmonoid.com/)
 * [Finamp](https://github.com/jmshrv/finamp) or [Fintunes](https://www.fintunes.app/) / [GitHub](https://github.com/leinelissen/jellyfin-audio-player) - Jellyfin Audio Players
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
-* [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
-* [Harmonoid](https://harmonoid.com/)
-* [VLC for Android](https://www.videolan.org/vlc/download-android.html)
-* [mpv-android](https://github.com/mpv-android/mpv-android)
-* [Gramophone](https://github.com/AkaneTan/Gramophone)
-* [Namida](https://github.com/namidaco/namida)
-* [Meloplay](https://github.com/ShokhrukhbekYuldoshev/Meloplay)
-* [Foobar2000](https://www.foobar2000.org/apk)
-* [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-* [Auxio](https://github.com/OxygenCobalt/Auxio/)
-* [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
-* [Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
-* [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
-* [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 * [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Audio Server
 
 ***
@@ -1285,7 +1285,7 @@
 # ► iOS Streaming
 
 * ⭐ **[Stremio](https://testflight.apple.com/join/fuNfXs3E)** or [Web Stremio](https://web.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
-* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Extension-Based / [Modules](https://sora.jm26.net/library/) / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
+* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Movies / TV / Anime / Extension-Based / [Modules](https://sora.jm26.net/library/) / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
