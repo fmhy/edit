@@ -146,27 +146,21 @@
 
 ## ▷ RSS Readers
 
+* ↪️ **[Android RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_internet)**
 * 🌐 **[RSS Feed Reader Index](https://openrss.org/rss-feed-readers)**
-* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
-* ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
-* ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
+* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / Multi-Platform / [Notifier](https://olsh.me/Feedly-Notifier/)
+* ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / Multi-Platform / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
+* ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader / Multi-Platform
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - Browser Extensions
-* [NewsBlur](https://www.newsblur.com/) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
-* [JungleReader](https://www.zajungle.com/) - RSS Reader
-* [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
-* [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
-* [Miniflux](https://miniflux.app/) - RSS Reader
-* [Photon](https://git.sr.ht/~ghost08/photon) - RSS Reader
-* [Feed Flow](https://www.feedflow.dev/) - RSS Reader / [GitHub](https://github.com/prof18/feed-flow)
-* [selfoss](https://selfoss.aditu.de/) - RSS Reader
-* [gorss](https://github.com/Lallassu/gorss) - RSS Reader
-* [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
-* [Osmosfeed](https://osmoscraft.org) - RSS Reader / [GitHub](https://github.com/osmoscraft/osmosfeed)
-* [rss](https://codeberg.org/danb/rss) - RSS Reader
-* [yarr](https://github.com/nkanaev/yarr) - RSS Reader
-* [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
-* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [Tiny Tiny RSS](https://tt-rss.org/) - Web RSS Readers
-* [Glance](https://github.com/glanceapp/glance), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader / Multi-Platform
+* [Feed Flow](https://www.feedflow.dev/) - RSS Reader / Multi-Platform / [GitHub](https://github.com/prof18/feed-flow)
+* [yarr](https://github.com/nkanaev/yarr) - RSS Reader / Multi-Platform
+* [NewsBlur](https://www.newsblur.com/) - RSS Reader / Web-Based / [GitHub](https://github.com/samuelclay/NewsBlur)
+* [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) - RSS Reader / Web-Based
+* [JungleReader](https://www.zajungle.com/) - RSS Reader / Web-Based
+* [⁠JesterEngine](https://jesterengine.com/) - RSS Reader / Web-Based
+* [Tiny Tiny RSS](https://tt-rss.org/) - RSS Reader / Web-Based
+* [NewsPipe](https://github.com/cedricbonhomme/newspipe), [Miniflux](https://miniflux.app/), [selfoss](https://selfoss.aditu.de/), [Glance](https://github.com/glanceapp/glance), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion), [rss](https://codeberg.org/danb/rss) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 
 ***
 
@@ -224,6 +218,7 @@
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
 * [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
+* [HGSearch](https://hgsearch.ridhom.dev/) - HealthyGamerGG Video Dialogue Search
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
 
