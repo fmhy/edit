@@ -287,7 +287,7 @@
 * [TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client
 * [TDesktop x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Client / [Telegram](https://t.me/tg_x64)
 * [VideoGram](https://vidogram.org/) - Desktop Client
-* [AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client / [GitHub](https://github.com/AyuGram)
+* [AyuGram](https://docs.ayugram.one/desktop/) - Desktop Client / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * [Pyrogram](https://docs.pyrogram.org/) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 * [VanillaTG](https://t.me/VanillaTG) - Client Themes
