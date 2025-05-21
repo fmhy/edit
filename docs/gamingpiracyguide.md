@@ -396,6 +396,70 @@
 
 ***
 
+# ► Puzzle Games
+
+* ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
+* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
+* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
+* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
+* [Murdle](https://murdle.com/) - Daily Murder Mystery
+* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
+* [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
+* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
+* [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
+* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
+* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [Orion](https://orion.lukasbach.com/) - Puzzle Game
+* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
+* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
+* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
+* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
+* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
+* [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
+* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
+* [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
+
+***
+
+## ▷ Rubik's Cube
+
+* ↪️ **[Cubing Practice / Training]()**
+* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
+* ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
+* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
+* [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
+* [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
+* [RubikSolve](https://rubiksolve.com/) - 3x3 Cube Solver
+* [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
+
+***
+
+## ▷ Minesweeper
+
+* ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
+* [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
+* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
+* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
+* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
+* [PROXX](https://proxx.app/) - Space Minesweeper
+
+***
+
+## ▷ Crosswords
+
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
+* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
+* [TheWordSearch](https://thewordsearch.com/) - Crossword Puzzles / Creator
+* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
+* [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
+* [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
+
+***
+
 # ► Browser Games
 
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/)  or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
@@ -688,38 +752,6 @@
 
 ***
 
-## ▷ Puzzle Games
-
-* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubik's Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
-* ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
-* ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
-* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [Murdle](https://murdle.com/) - Daily Murder Mystery
-* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
-* [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
-* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
-* [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
-* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
-* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
-* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
-* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
-* [PROXX](https://proxx.app/) - Space Minesweeper
-* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
-* [Orion](https://orion.lukasbach.com/) - Puzzle Game
-* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
-* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
-* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
-* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
-* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
-
-***
-
 ## ▷ Incremental / Idle
 
 * 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
@@ -847,20 +879,6 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
-
-***
-
-## ▷ Crossword Puzzles
-
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* [TheWordSearch](https://thewordsearch.com/) - Crossword Puzzles / Creator
-* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
-* [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
-* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
-* [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
 
 ***
 
