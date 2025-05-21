@@ -390,6 +390,7 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Use Firehawk52
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / [Discord](https://discord.com/invite/nwdT4MP) / Free Only
 * [AccurateRip](https://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [Spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify / Deezer / FLAC / Use Firehawk52
 
 ***
 
