@@ -422,9 +422,9 @@
 
 ***
 
-## ▷ Rubik's Cube
+## ▷ Rubiks Cube
 
-* ↪️ **[Cubing Practice / Training]()**
+* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 * [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
@@ -457,6 +457,35 @@
 * [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
+
+***
+
+## ▷ Word Games
+
+* 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
+* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
+* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
+* ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
+* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
+* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Word Golf](https://www.word.golf/) - Word Relation Game
+* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
+* [Linxicon](https://linxicon.com/) - Word Connection Game
+* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
+* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
+* [Fusele](https://fusele.netlify.app/) - Wordle Variant
+* [Word500](https://word500.com/) - Wordle + Mastermind
+* [Wordly](https://wordly.org/) - Wordle Clone
+* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
+* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
+* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
+* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
+* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
+* [Wourdle](https://wourdle.com/) - British English Wordle
+* [Ridella](https://ridella.xyz/) - Riddle Wordle
 
 ***
 
@@ -850,35 +879,6 @@
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
 * [VirtualStreets](https://virtualstreets.org/) - Google Street Update Tracker
-
-***
-
-## ▷ Word Games
-
-* 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
-* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
-* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
-* ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
-* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
-* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Word Golf](https://www.word.golf/) - Word Relation Game
-* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
-* [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
-* [Linxicon](https://linxicon.com/) - Word Connection Game
-* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
-* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
-* [Fusele](https://fusele.netlify.app/) - Wordle Variant
-* [Word500](https://word500.com/) - Wordle + Mastermind
-* [Wordly](https://wordly.org/) - Wordle Clone
-* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
-* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
-* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
-* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
-* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
-* [Wourdle](https://wourdle.com/) - British English Wordle
-* [Ridella](https://ridella.xyz/) - Riddle Wordle
 
 ***
 
