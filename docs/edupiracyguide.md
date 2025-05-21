@@ -597,6 +597,9 @@
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
+* [Automobile-Catalogue](https://url-decode.com/cat/all](https://www.automobile-catalog.com/) - Cars
+* [Wikimotors](http://mywikimotors.com/) - Engines
+* [Otoba](https://otoba.ru/) - Cars / Engines / Transmission
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [VisRo Robotics](https://vis-ro.web.app) - Robotics Learning / [Discord](https://discord.com/invite/TfwZ3hH2D2)
 * [Humanoid Robots Wiki](https://humanoids.wiki/w/Main_Page) - Robotics Courses Index
