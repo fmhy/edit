@@ -480,7 +480,7 @@
 * [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 * [WatchProWrestling](https://watchprowrestlings.org/) - MMA / Wrestling Replays
-* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
+* [watchwrestling.org.uk](https://watchwrestling.org.uk/) - MMA / Wrestling Replays
 * [WatchWrestling.st](https://watchwrestling.st/) - MMA / Wrestling Replays
 * [123Wrestling](https://123wrestling.com/) - Wrestling Replays
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
