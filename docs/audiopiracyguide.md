@@ -774,13 +774,14 @@
 ## ▷ Song Identification
 
 * ⭐ **[Shazam](https://www.shazam.com/)** - Android / [Unlock](https://rentry.co/FMHYBase64#shazam) / [Desktop App](https://github.com/BayernMuller/vibra)
-* ⭐ **[WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing)** - Song Identification App
+* ⭐ **[WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing)** - Desktop
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
-* [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg)
-* [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
-* [AudioTag](https://audiotag.info/)
+* [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) - Desktop
+* [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Online
+* [AudioTag](https://audiotag.info/) - Online
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
+* [Google Assistant](https://assistant.google.com/) - Android / YouTube Mobile Also Works
 * [SoundHound](https://www.soundhound.com/soundhound) - Android
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 * [Audire](https://github.com/alexmercerind/audire) - Android
