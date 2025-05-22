@@ -14,12 +14,13 @@
 * ⭐ **[Cineby](https://www.cineby.app/)**, [2](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.cat/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[FlickyStream](https://flickystream.com/)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
+* ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[1Shows](https://www.1shows.live/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / Watch Parties / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
-* ⭐ **[Vidora](https://watch.vidora.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
+* [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
+* [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [uira.live](https://uira.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [MovieMaze](https://moviemaze.cc/) - Movies / TV / Anime
@@ -32,7 +33,6 @@
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
 * [EnjoyTown](https://enjoytown.pro/), [2](https://kaido.cc/) - Movies / TV / Anime / [GitHub](https://github.com/avalynndev/enjoytown)
 * [Purplix](https://neoxa.transdev.pw/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
@@ -68,6 +68,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use Throwaway Gmail / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime / Watch Parties
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
+* [StreamM4u](https://streamm4u.com.co/),  [2](https://movies4ufree.net/) - Movies / TV / Anime
 * [FireFlix](https://fireflix.pages.dev/) - Movies / TV / Anime
 * [RedFlix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/wp5SkSWHW5)
 * [Let's Stream](https://www.letstream.site/) - Movies / TV / Anime
@@ -162,7 +163,7 @@
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [Gojo](https://gojo.wtf/) - Sub / Dub
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
-* [⁠Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
+* [Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
 * [Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
@@ -534,7 +535,7 @@
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
-* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Signup Required
+* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Sign-Up Required
 
 ***
 
@@ -601,6 +602,7 @@
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / [Discord](https://discord.gg/mh2Bte8Kfj)
 * [HDHub4u](https://hdhublist.com/?re=hollywood) - Movies / TV / 4K / [Telegram](https://hdhublist.com/?re=telegram)
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
+* [Cinemalux](https://cinemalux.sbs/) - Movies / TV
 * [Full4Movies](https://www.full4movies.markets/) - Movies / TV
 * [Free Movies](https://free-movies.to/) - Movies / TV
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
@@ -886,7 +888,8 @@
 
 * 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
-* [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Tero Subtitler](https://www.uruworks.net/) / [GitHub](https://github.com/URUWorks/TeroSubtitler), [Subtitle Workshop Classic](https://sourceforge.net/projects/subtitle-workshop-classic/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editors* [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
+* [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub/releases), [SubtitleEdit](https://www.nikse.dk/subtitleedit), [Tero Subtitler](https://www.uruworks.net/) / [GitHub](https://github.com/URUWorks/TeroSubtitler), [Subtitle Workshop Classic](https://sourceforge.net/projects/subtitle-workshop-classic/), [Jubler](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editors
+* [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter

@@ -8,7 +8,7 @@
 
 * 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** - Developer Forum
-* ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
+* ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum / [Discord](https://discord.com/invite/e4v8qtkcBw)
 * [CodeProject](https://www.codeproject.com/) - Developer Forum
 * [Spiceworks Community](https://community.spiceworks.com/) - Developer Forum
 * [DEV Community](https://dev.to/) - Developer Forum
@@ -303,7 +303,7 @@
 ## ▷ Docker Tools
 
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
-* 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-hosted Docker Apps / Guides
+* 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
 * ⭐ **[portainer](https://portainer.io/)**, [yacht](https://yacht.sh/), [DockGE](https://dockge.kuma.pet/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
@@ -882,7 +882,7 @@
 * [StoryBook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
-* [Same.dev](https://same.dev/) - Copy Sites User-Interface Code
+* [Same.new](https://same.new/) - Copy Sites User-Interface Code
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
@@ -923,7 +923,7 @@
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)** or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * ↪️ **[Domain Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
-* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/), [⁠Checkmate](https://github.com/bluewave-labs/Checkmate) or [24x7](https://www.site24x7.com/tools.html) - Site / Server Uptime Monitors
+* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/), [Checkmate](https://github.com/bluewave-labs/Checkmate) or [24x7](https://www.site24x7.com/tools.html) - Site / Server Uptime Monitors
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
