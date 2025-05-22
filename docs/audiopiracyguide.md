@@ -781,7 +781,7 @@
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Online
 * [AudioTag](https://audiotag.info/) - Online
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
-* [Google Assistant](https://assistant.google.com/) - Android / YouTube Mobile Also Works
+* [Google Assistant](https://assistant.google.com/) - Google's Music Recognition / Android / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-music-recognition)
 * [SoundHound](https://www.soundhound.com/soundhound) - Android
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 * [Audire](https://github.com/alexmercerind/audire) - Android
