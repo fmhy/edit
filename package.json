@@ -1,6 +1,6 @@
 {
   "name": "@fmhy/website",
-  "packageManager": "pnpm@9.12.2",
+  "packageManager": "pnpm@10.11.0",
   "type": "module",
   "engines": {
     "node": "21.7.3"
@@ -43,6 +43,7 @@
     "@cloudflare/workers-types": "^4.20241230.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
     "@iconify-json/carbon": "^1.2.5",
+    "@iconify-json/gravity-ui": "^1.2.5",
     "@iconify-json/heroicons-solid": "^1.2.0",
     "@iconify-json/lucide": "^1.2.10",
     "@iconify-json/mdi": "^1.2.1",
