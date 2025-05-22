@@ -106,7 +106,7 @@
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wikis / Community Forums
-* [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions / Records
+* [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](http://expertcuber.by/f2ltrainer.php) or [ZBLL Trainer](http://bestsiteever.ru/zbll/) - Algorithm-Specific Trainers
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)

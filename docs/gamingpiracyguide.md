@@ -425,8 +425,8 @@
 ## ▷ Rubiks Cube
 
 * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
-* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
+* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
 * [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
 * [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
@@ -437,12 +437,11 @@
 
 ## ▷ Minesweeper
 
-* ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
-* [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
-* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
+* ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
+* [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki / Learning
+* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
-* [PROXX](https://proxx.app/) - Space Minesweeper
 
 ***
 
