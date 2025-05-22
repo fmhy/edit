@@ -691,6 +691,7 @@
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
 * [Edge Stats](https://edge-stats.com/) - Compare / Analyze Edge Extensions
+* [Link Grabber](https://link-grabber.com/) - Extract, Organize, and Filter page URLs
 
 ***
 
