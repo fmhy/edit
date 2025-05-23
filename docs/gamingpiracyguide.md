@@ -86,7 +86,6 @@
 * ⭐ **[Magipack](https://www.magipack.games)** - Abandonware
 * ⭐ **[CollectionChamber](https://collectionchamber.blogspot.com/)** - Abandonware
 * ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
-* ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
 * [File Hunter](https://www.file-hunter.com/) - MSX Games
 * [Old-Games](https://www.old-games.ru/) - Abandonware
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
