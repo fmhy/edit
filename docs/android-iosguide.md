@@ -529,7 +529,6 @@
 * ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode) or **[QuickEdit](https://rentry.co/FMHYBase64#quickedit)** - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
 * ⭐ **[Look Up](https://rentry.co/FMHYBase64#look-up)**, [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
-* ⭐ **[Eleven Reader](https://elevenreader.io/)** - Text to Speech
 * [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editor
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
 * [OpenNote](https://github.com/YangDai2003/OpenNote-Compose), [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
@@ -835,7 +834,7 @@
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 * [Harmonoid](https://harmonoid.com/)
 * [Finamp](https://github.com/jmshrv/finamp) or [Fintunes](https://www.fintunes.app/) / [GitHub](https://github.com/leinelissen/jellyfin-audio-player) - Jellyfin Audio Players
-* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
+* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [⁠tempo](https://github.com/CappielloAntonio/tempo) - Subsonic Clients
 * [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Audio Server
 
 ***
@@ -1288,7 +1287,6 @@
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
-* [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro"
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Sign-Up Required
@@ -1312,7 +1310,6 @@
 * ⭐ **[ethMods](https://t.me/ethMods)** - Modded YouTube iPAs
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Discord](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
-* [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPAs
 * [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
 * [YT Safari Extensions](https://t.me/SultanModsiOS) - Clean Player Extensions (Try Vinegar or Baking Soda)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps

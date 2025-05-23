@@ -1864,6 +1864,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / [Telegram](https://t.me/rophimzone) / [Discord](https://discord.gg/rophim)
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
@@ -1873,7 +1874,6 @@
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [NguonPhim](https://nguonphimp.com/) - Movies / TV / Anime / Sub / 720p
-* [rophim](https://www.rophim.me/phimhay) - Movies / TV / Anime
 * [kkphim](https://kkphim.com/), [2](https://phim.nguonc.com/), [3](https://ophim.movie/) / Movies / TV / Anime / [Ad Script](https://github.com/Hth4nh/PureMovies)
 * [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation / Sub / 1080p
 * [HHNinja](https://hhninja4.tv/) - Chinese Animation / Sub / 1080p

@@ -272,6 +272,7 @@
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
+* [Transfer.it](https://transfer.it/) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)

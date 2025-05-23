@@ -28,6 +28,7 @@
 * [UnionCrax](https://union-crax.xyz/) - Download / Pre-Installs / [Discord](https://discord.gg/dkVame6BQS)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
+* [Elenemigos](https://elenemigos.com/) - Download / [Discord](https://discord.com/invite/juegos)
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installs / [Discord](https://discord.gg/XqMpBdVWvK)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/6KWStFYSTj)
 * [TriahGames](https://triahgames.com/) - Download / [Discord](https://discord.gg/vRxJNNcJNh) / PW: `www.triahgames.com`
@@ -97,7 +98,6 @@
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
-* [The Software Library: MS-DOS](https://rentry.co/FMHYBase64#ms-dos) - DOS Games
 * [Best Old Games](https://www.bestoldgames.net/) - DOS Games
 * [DOSGames](https://dosgames.com/) - DOS Games
 * [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games
