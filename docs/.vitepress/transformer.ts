@@ -285,6 +285,12 @@ const transformLinks = (text: string): string =>
           '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
       {
+        name: 'Source Code',
+        find: /\[Source Code\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><div alt="Source Code" class="i-gravity-ui:code" /></a>'
+      },
+      {
         name: 'Telegram',
         find: /\[Telegram\]\(([^\)]*?)\)/gm,
         replace:
