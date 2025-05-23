@@ -823,11 +823,11 @@
 * ⭐ **[Foobar2000](https://www.foobar2000.org/apk)**
 * [AIMP](https://www.aimp.ru/?do=download&os=android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
+* [Namida](https://github.com/namidaco/namida)
 * [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 * [Symphony](https://zyrouge.github.io/symphony/)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
 * [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-* [Namida](https://github.com/namidaco/namida)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)

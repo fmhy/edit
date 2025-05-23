@@ -490,7 +490,6 @@
 
 # ► Twitch Tools
 
-* 🌐 **[SullyGnome](https://sullygnome.com/)** - Twitch Tool Index
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** or [Sub-Vod](https://www.sub-vod.fr/) - Watch Sub Only Twitch Videos
@@ -506,7 +505,6 @@
 * [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
 * [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
-* [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
 * [Twitch Drops Miner](https://github.com/Windows200000/TwitchDropsMiner-updated) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) or [twitchrss](https://twitchrss.com/) - Twitch RSS Generators
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
@@ -518,8 +516,8 @@
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
-* [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [SullyGnome](https://sullygnome.com/), [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
+* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 
 ***
 

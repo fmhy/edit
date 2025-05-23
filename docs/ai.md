@@ -18,12 +18,12 @@
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / Qwen3-235B-A22B / Qwen3-32B
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - X.com Chatbot / Grok 2 (30 Hourly) / Grok 3 (12 Per Two Hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* ⭐ **[Scira](https://scira.ai/)** - Claude Sonnet 3.7 / Grok 3 / Mistral Small 3.1 / Optimus Alpha / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
+* ⭐ **[Scira](https://scira.ai/)** - Claude Sonnet 4 / Grok 3 / Mistral Small 3.1 / Optimus Alpha / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
 * ⭐ **[Chatbot Arena](https://beta.lmarena.ai)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Mistral Large 24.11 / [Discord](https://discord.gg/mistralai)
 * ⭐ **[HuggingChat](https://huggingface.co/chat/)** - DeepSeek-R1-Distill-Qwen-32B / Qwen QwQ-32B / Qwen3-235B-A22B / Multiple Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
-* [Claude](https://claude.ai/) - Claude 3.7 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
+* [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-Mini / No Sign-Up
 * [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up

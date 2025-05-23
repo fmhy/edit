@@ -18,14 +18,14 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
+* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
 * [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download
-* [UnionCrax](https://union-crax.xyz/) - Download / [Discord](https://discord.gg/dkVame6BQS)
+* [UnionCrax](https://union-crax.xyz/) - Download / Pre-Installs / [Discord](https://discord.gg/dkVame6BQS)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installs / [Discord](https://discord.gg/XqMpBdVWvK)
@@ -80,22 +80,23 @@
 
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
-* [Flashtro](https://flashtro.com/) - Abandonware
-* [Zombs-Lair](https://www.zombs-lair.com/) - Abandonware
-* [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
-* [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
-* [Magipack](https://www.magipack.games) - Abandonware
+* ⭐ **[Retro eXo](https://www.retro-exo.com/)** - Abandonware / Retro PC Games / Torrents
+* ⭐ **[Zombs-Lair](https://www.zombs-lair.com/)** - Abandonware
+* ⭐ **[VETUSWARE](https://vetusware.com/category/Games/)** - Abandonware
+* ⭐ **[Magipack](https://www.magipack.games)** - Abandonware
+* ⭐ **[CollectionChamber](https://collectionchamber.blogspot.com/)** - Abandonware
+* ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
+* ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
+* [File Hunter](https://www.file-hunter.com/) - MSX Games
 * [Old-Games](https://www.old-games.ru/) - Abandonware
-* [CollectionChamber](https://collectionchamber.blogspot.com/) - Abandonware
-* [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
-* [Old-Games.com](https://www.old-games.com/) - Abandonware
-* [Retro eXo](https://www.retro-exo.com/) - Abandonware / Retro PC Games / Torrents
-* [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
-* [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
+* [Flashtro](https://flashtro.com/) - Abandonware
+* [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
+* [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
+* [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
+* [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games
-* [DOSBox](https://www.dosbox.com/) - DOS Games
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
 * [The Software Library: MS-DOS](https://rentry.co/FMHYBase64#ms-dos) - DOS Games
 * [Best Old Games](https://www.bestoldgames.net/) - DOS Games
@@ -105,17 +106,10 @@
 * [Classic Games](https://classicdosgames.com/) - DOS Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
-* [File Hunter](https://www.file-hunter.com/) - MSX Games
-* [download.file-hunter](https://download.file-hunter.com/) - MSX Games
 * [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
 * [GamesNostalgia](https://gamesnostalgia.com/) - Commodore 64 Games
-* [lemon64](https://www.lemon64.com/) - Commodore 64 Games
-* [C64.com](https://www.c64.com/) - Commodore 64 Games
 * [whdload](https://www.whdload.de/) - Amiga Games
-* [lemonamiga](https://www.lemonamiga.com/) - Amiga Games
-* [exotica](https://www.exotica.org.uk/) - Amiga Games
-* [hol abime](https://amiga.abime.net/) - Amiga Games
 
 ***
 
@@ -384,7 +378,7 @@
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
 * [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [WePlayDOS](https://weplaydos.games/), [MSDOSGames](https://msdosgames.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
+* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [WePlayDOS](https://weplaydos.games/), [DOSBox](https://www.dosbox.com/), [MSDOSGames](https://msdosgames.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulators
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
