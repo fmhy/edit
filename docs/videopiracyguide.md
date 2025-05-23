@@ -516,6 +516,7 @@
 * [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - M3U Downloader
 * [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - M3U CLI
 * [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
+* [Online IPTV Player](https://iptvplayer.stream) - Web-based IPTV Player
 
 ***
 
