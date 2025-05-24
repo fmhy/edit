@@ -585,7 +585,6 @@
 ## ▷ Streaming
 
 * [AsianDrama](https://asiandrama.ge/) - Drama / Sub / 1080p
-* [AnimeTV](https://animetv.night-city.online/) - Anime / Dub / 720p
 
 ***
 
