@@ -438,7 +438,7 @@
 ## ▷ Minesweeper
 
 * ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
-* [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki / Learning
+* [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki
 * [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
@@ -448,14 +448,13 @@
 ## ▷ Crosswords
 
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* [TheWordSearch](https://thewordsearch.com/) - Crossword Puzzles / Creator
+* ⭐ **[Killer Crossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
-* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
-* [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
+* [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
+* [Crossword Labs](https://crosswordlabs.com/), [Puzzlemaker](https://puzzlemaker.discoveryeducation.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Creators
 
 ***
 
@@ -465,7 +464,8 @@
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
 * ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
+* [TheWordSearch](https://thewordsearch.com/) - Word Search Puzzles
+* [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Word Golf](https://www.word.golf/) - Word Relation Game
