@@ -530,6 +530,7 @@
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
+* [Minecraft Java Servers](https://dankware.onrender.com/minecraft-java-servers) or [Bedrock Servers](https://dankware.onrender.com/minecraft-bedrock-servers) - Server Lists
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
@@ -603,6 +604,7 @@
 * [PAX](https://github.com/maradotwebp/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [/r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
+* [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Github](https://github.com/OfficialDonut/VisualBukkit) / [Discord](https://discord.gg/ugkvGpu)
 * [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) - Discord RPC for Java Edition
 * [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data

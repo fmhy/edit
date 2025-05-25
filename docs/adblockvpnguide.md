@@ -398,7 +398,6 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[Alu](https://aluu.xyz/en/)** / [Discord](https://discord.gg/unblock)
 * [Holy Unblocker](https://holyunblocker.org/) / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
@@ -408,7 +407,7 @@
 * [Delusionz](https://delusionz.xyz/)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
-* [Szvy Central](https://szvy.lol/), [2](https://play.szvy.win/), [3](https://studying-central.global.ssl.fastly.net/), [4](https://zearn.global.ssl.fastly.net/), [5](https://cheapenglishtutors.global.ssl.fastly.net/)
+* [Szvy Central](https://play.szvy.win/), [2](https://studying-central.global.ssl.fastly.net/), [3](https://zearn.global.ssl.fastly.net/), [4](https://cheapenglishtutors.global.ssl.fastly.net/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker

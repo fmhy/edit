@@ -30,6 +30,7 @@
 * [HydraHD](https://hydrahd.sh/) - Movies / TV / Anime / [Status](https://hydrahd.info/)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [PopcornMovies](https://popcornmovies.to/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
+* [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Maxflix](https://maxflix.top/) - Movies / TV / Anime
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / [Discord](https://discord.gg/ajRY6Bn3rr)
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
@@ -43,7 +44,6 @@
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
 * [Yampi](https://yampi.live/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
-* [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
 * [catflix](https://catflix.su/) - Movies / TV
 * [Soaper](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
@@ -161,6 +161,7 @@
 * [Hikari](https://hikari.gg/), [2](https://watch.hikaritv.xyz/) - Sub / Dub / [Discord](https://discord.com/invite/UAPNesVmQ3)
 * [AnimeOwl](https://animeowl.me/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/rFHXVGZ)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
+* [⁠Anixl](https://anixl.to/) - Sub / Dub / [Discord](https://discord.gg/prmJz2av76)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
 * [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
@@ -365,6 +366,7 @@
 * ⭐ **[DaddyLive](https://daddylive.mp/)** or [miztv](https://miztv.shop/) - TV / Sport / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Telegram](https://t.me/dlhdlive)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
+* [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
 * [FSTV](https://fstv.us/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
@@ -381,7 +383,6 @@
 * [NTV](https://ntvstream.cx/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [Global Free TV](https://www.globalfreetv.com/) - TV / [Discord](https://discord.com/invite/pPaerCghRN)
-* [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV

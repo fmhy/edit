@@ -31,6 +31,7 @@
 ***
 
 * ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux Discord Server
+* [⁠LinuxQuestions](https://www.linuxquestions.org/questions/) - Linux Q&A Forum
 * [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
 * [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
 * [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server

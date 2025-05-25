@@ -31,7 +31,6 @@
 
 ***
 
-* ⭐ **[embeds.video](https://embeds.video/)**, [x266](https://x266.mov/discord-embed/), [Stolen Shoes](https://stolen.shoes/), [embedez](https://embedez.com/) or [Discord Embedder](https://discord.nfp.is/) - Discord Video Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
@@ -94,7 +93,6 @@
 ## ▷ Client Customization
 
 * 🌐 **[Client Themes](https://betterdiscord.app/themes)** or [Discord Themes](https://github.com/topics/discord-theme) - Client Theme Index
-* ⭐ **[Discohook](https://discohook.app/)**, [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
@@ -128,7 +126,6 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Discord](https://discord.com/invite/WrnKKF8) / [Telegram](https://t.me/freestuff_hub)
-* [FixEmbed](https://github.com/kenhendricks00/FixEmbed) - Fix Embeds on Discord Bot
 * [esmBot](https://github.com/esmBot/esmBot) - Image / Music Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling

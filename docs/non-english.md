@@ -557,7 +557,6 @@
 * [LiveTV](https://livetv.sx/dex/) - Sports
 * [SRF.CH](https://www.srf.ch/) - Live TV / Sports / Swiss VPN Required
 * [2ix2](https://www.2ix2.com/) - Live TV
-* [tvpinto](https://www.tvpinto.com/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
 * [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV

@@ -149,6 +149,7 @@
 
 * 🌐 **[/reddit clients/](https://rentry.co/redditclients)** - Android Reddit Client Comparisons
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
+* ↪️ **[YouTube Apps](https://w.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
 * ↪️ **[Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** / [Plugins](https://purple-eyez.github.io/Plugins-List/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq) or [Aliucord](https://github.com/Aliucord/Aliucord) / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
@@ -489,13 +490,13 @@
 
 ## ▷ Android File Tools
 
+* ↪️ **[Mobile / Desktop Tranfer](https://ww.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 * ⭐ **[SD Maid SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu)
 * ⭐ **[MaterialFiles](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[File-Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** or [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
 * ⭐ **[SyncThing Fork](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
-* ⭐ **[LocalSend](https://localsend.org/)** - File Sharing
 * ⭐ **[pairdrop](https://pairdrop.net/)** or **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sharing
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) / [Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) - File Managers / Explorers
 * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) / [Extra Features](https://rentry.co/FMHYBase64#link-1dm), [ADM](https://rentry.co/FMHYBase64#adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
@@ -584,6 +585,7 @@
 * [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
 * [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
 * [Chrono](https://github.com/vicolo-dev/chrono) - Clock / Alarm
+* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 
 ***
 
@@ -1227,9 +1229,9 @@
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [Chan](https://github.com/moffatman/chan) - 4chan App
-* [ethMods](https://t.me/ethMods), [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks / [Extension](https://github.com/BillyCurtis/OpenInstagramSafariExtension)
+* [IGBeta IPA](https://t.me/igbeta_ipa), [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
 * [Swiftgram](https://swiftgram.app/) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
-* [Watusi](https://watusi.fouadraheb.com/), [2](https://t.me/wabeta_ipa) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
+* [Wabeta IPA](https://t.me/wabeta_ipa) or [Watusi](https://watusi.fouadraheb.com/), [2](https://t.me/wabeta_ipa) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 
@@ -1310,7 +1312,6 @@
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Discord](https://discord.gg/VN9ZSeMhEW) / [Telegram](https://t.me/dvntms)
 * [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
-* [YT Safari Extensions](https://t.me/SultanModsiOS) - Clean Player Extensions (Try Vinegar or Baking Soda)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 
 ***

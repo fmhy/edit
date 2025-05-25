@@ -20,9 +20,7 @@
 * [BeefText](https://beeftext.org/) - Text Substitution Tool
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
 * [Calligrapher.ai](https://www.calligrapher.ai/), [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
-* [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
-* [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
 
@@ -80,7 +78,6 @@
 * [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsecodetranslator.com/) - Morse Code / Binary Translators
-* [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
@@ -131,6 +128,8 @@
 * [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
+* [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
+* [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
 * Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
 
@@ -172,6 +171,7 @@
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
+* [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 
 ***
 

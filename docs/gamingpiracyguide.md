@@ -116,6 +116,7 @@
 
 * 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - PC Ports, Decompilations, Remakes, Fan Games and more
+* 🌐 **[⁠TheGameEmporium](https://www.thegamingemporium.com/)** - Decompilation / Recompilation Archive
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
@@ -268,7 +269,6 @@
 * ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
 * ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
-* [AliceISO](https://alice.al/) - ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
 * [Axekin](https://www.axekin.com/) - ROMs / Use Translator
@@ -311,7 +311,7 @@
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
-* [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [MDK](https://mdk.cab/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
+* [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
@@ -342,7 +342,7 @@
 * [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Mods
+* [Pokemerald](https://pokemerald.com/) - Pokémon ROM Mods
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters

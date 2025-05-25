@@ -700,7 +700,7 @@
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** or [Clockify](https://clockify.me/) - Work Hour Trackers
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
-* [JobBoardSearch](https://jobboardsearch.com/), [PromptYourJob](https://promptyourjob.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [JobBoardSearch](https://jobboardsearch.com/), [⁠JobsFromSpace](https://www.jobsfromspace.com/), [PromptYourJob](https://promptyourjob.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
@@ -945,6 +945,7 @@
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepper.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores across Europe
+* [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [PicClick](https://picclick.com/) - Ebay Quick Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search

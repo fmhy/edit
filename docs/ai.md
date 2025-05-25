@@ -13,7 +13,7 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
-* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini-2.5 Flash / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini-4 Flash / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o4-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / Qwen3-235B-A22B / Qwen3-32B
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [GitHub](https://github.com/deepseek-ai)
@@ -68,7 +68,6 @@
 * [Felo](https://felo.ai/) - AI Search Engine / AI Agents / No Sign-Up
 * [searc.ai](https://searc.ai/) - AI Search Engine / No Sign-Up
 * [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [Discord](https://discord.com/invite/VQMBGR8u5v) / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)
-* [Isou.chat](https://isou.chat/) - Deepseek-R1-Distill / Qwen 2.5 AI Search Engine / No Sign-Up / [GitHub](https://github.com/yokingma/search_with_ai)
 * [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / No Sign-Up / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Gemini-2.0-Flash AI Search Engine / AI Agents / Sign-Up Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine / No Sign-Up
@@ -180,7 +179,6 @@
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatPDF](https://www.chatpdf.com/) (No Sign-Up) or [AskYourPDF](https://askyourpdf.com/) - Turn Books / PDFs into Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI / [Discord](https://discord.com/invite/fjBugmvzZP)
 * [Concierge](https://askconcierge.ai/) - Connect Apps to AI
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen / [GitHub](https://github.com/adamlui/chatgpt-widescreen)
@@ -356,6 +354,7 @@
 * [Krea](https://www.krea.ai/) / 10 Daily / No Sign-Up / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Whisk](https://labs.google/fx/en/tools/whisk) - Use Images as Prompts
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
+* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender 
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
 * [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator

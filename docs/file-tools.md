@@ -25,7 +25,7 @@
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
-* [CUETools](http://cue.tools/wiki/CUETools) - Manupulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
+* [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
 
@@ -268,6 +268,7 @@
 # ► File Transfer
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* ⭐ **[⁠Blip](https://blip.net/)** - Desktop / Mobile Transfer
 * [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
