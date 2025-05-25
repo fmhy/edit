@@ -20,12 +20,12 @@
 
 ## ▷ Disc Utilities
 
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [⁠CDBurnerXP](https://cdburnerxp.se/ ), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
-* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-Ray/UHD Disk Demuxer
+* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
-* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
+* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
 
 ***
 
@@ -68,7 +68,7 @@
 * [Vileo](https://lukasbach.github.io/vileo/)
 * [ShareX](https://getsharex.com/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
-* [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+* [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / [GitHub](https://github.com/vkohaupt/vokoscreenNG)
 * [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap)
 * [Shar.ec](https://shar.ec/) - Online
 * [ScreenREC](https://screen-rec.vercel.app/) - Online

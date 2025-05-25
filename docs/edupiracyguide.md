@@ -575,7 +575,7 @@
 * [Terence Tao Research](https://terrytao.wordpress.com/) - Mathematical Research
 * [OpenLogicProject](https://openlogicproject.org/) - Math Logic Teaching Materials
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
-* [Brainstellar Puzzles](https://brainstellar.com/puzzles) - Puzzles From Quant Interviews
+* [Brainstellar Puzzles](https://brainstellar.com/puzzles) - Puzzles from Quant Interviews
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials

@@ -483,7 +483,7 @@
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
 * [Filmot](https://filmot.com/unlistedSearch) - Search Unlisted Videos
 * [Hobune](https://hobune.stream/) or [PreserveTube](https://preservetube.com/) - YouTube Video Archives
-* [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages From YouTube (IA)
+* [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [quite a playlist](https://quiteaplaylist.com/) or [RecoverMy.Video](https://www.recovermy.video/) - Restore Titles of Deleted / Private Videos
 
 ***
