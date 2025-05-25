@@ -31,6 +31,7 @@
 
 ***
 
+* ⭐ **[embeds.video](https://embeds.video/)**, [x266](https://x266.mov/discord-embed/), [Stolen Shoes](https://stolen.shoes/), [embedez](https://embedez.com/) or [Discord Embedder](https://discord.nfp.is/) - Discord Video Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
