@@ -329,7 +329,6 @@
 * [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
 * [Stormkit](https://www.stormkit.io/)
-* [Glitch](https://glitch.com/)
 
 ### Static Page Hosting
 
