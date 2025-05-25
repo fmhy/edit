@@ -206,7 +206,6 @@
 
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime / 720p / [Telegram](https://t.me/+tPEqeXLobAo4YTZh)
-* ⭐ **[Best Series](https://bstsrs.in/)**, [2](https://topsrs.day/), [3](https://srstop.link/) - TV / Anime
 * ⭐ **[NOXX](https://noxx.to/)** - TV
 * [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
 * [AZ Series](https://azseries.org/) - TV
