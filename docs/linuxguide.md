@@ -392,7 +392,7 @@
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
-* [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
+* [Adium](https://adium.im/), [Polari](https://apps.gnome.org/Polari/) / [GitLab](https://gitlab.gnome.org/GNOME/polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [Dino](https://dino.im/) - XMPP Client
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [ZapZap](https://rtosta.com/zapzap-web/) - WhatsApp Client / [GitHub](https://github.com/rafatosta/zapzap)
