@@ -751,7 +751,6 @@
 
 ## ▷ 4chan Archives
 
-* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
 * [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
 * [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive

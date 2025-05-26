@@ -32,12 +32,11 @@
 * [ReXDL](https://rexdl.com/)
 * [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) - APK Search Engines
 
-
 ***
 
 ## ▷ Telegram Channels
 
-**Note** - These also contain modded APKs similar to the section above.
+* **Note** - These also contain modded APKs similar to the section above.
 
 ***
 
@@ -413,7 +412,7 @@
 * ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet), [Tarnhelm](https://github.com/lz233/Tarnhelm) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
-* ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nekoboxforandroid-warning) or [Matsuri](https://matsuridayo.github.io/) - Proxy Toolchains
+* ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Toolchains
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)** or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://github.com/Gedsh/InviZible?tab=readme-ov-file#invizible-pro) - Privacy Managers
@@ -478,7 +477,7 @@
 * ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based Browser w/ Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based Browser w/ Built-in Adblock / Privacy-Focused
-* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork / Privacy-Focused
+* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh)
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser / Privacy-Focused
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - Customizable Browsers Based on Firefox
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
@@ -1289,6 +1288,7 @@
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) / [2](https://apps.apple.com/app/id1136220934) - Video Players
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
+* [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV
 * [Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro"
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Sign-Up Required
 * [Viki](https://apps.apple.com/app/id445553058) - Asian Drama

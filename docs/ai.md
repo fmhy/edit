@@ -13,7 +13,7 @@
 ## ▷ Online Chatbots
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
-* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini-2.5 Flash / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Google Chatbots / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o4-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / Qwen3-235B-A22B / Qwen3-32B
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [GitHub](https://github.com/deepseek-ai)
@@ -23,7 +23,7 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Mistral Large 24.11 / [Discord](https://discord.gg/mistralai)
 * ⭐ **[HuggingChat](https://huggingface.co/chat/)** - DeepSeek-R1-Distill-Qwen-32B / Qwen QwQ-32B / Qwen3-235B-A22B / Multiple Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
-* [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
+* [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-Mini / No Sign-Up
 * [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
@@ -272,7 +272,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* [AI Studio](https://aistudio.google.com/generate-video) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* [AI Studio](https://aistudio.google.com/generate-video) - Veo 2 / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Unlimited / Colab / [Discord](https://discord.gg/k5BwmmvJJU)
 * [Vidu](https://www.vidu.studio/) - 6 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)

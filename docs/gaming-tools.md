@@ -28,7 +28,6 @@
 * [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Premium Bypass](https://medalbypass.vercel.app/) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
-* [Achievement Watcher](https://rentry.co/FMHYBase64#achievement-watcher-mod) - Achievement File Parser, Notifications & Playtime Tracker / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#achievement-watcher-note)
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
@@ -572,8 +571,8 @@
 
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [Free Method](https://rentry.co/prism4free) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
-* ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher) (account required), [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launchers for Bedrock Edition
+* [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft Launcher](https://betacraft.uk/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions

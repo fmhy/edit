@@ -1224,6 +1224,7 @@
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ⭐ **[OpenBoard](https://openboard.ch/)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
+* [⁠Tasks for Canvas](https://github.com/jtcheng26/canvas-task-extension) - Improved Canvas To-Do List 
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium365.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence
