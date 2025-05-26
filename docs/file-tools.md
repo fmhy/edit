@@ -50,7 +50,7 @@
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver
-* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
+* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
@@ -96,19 +96,19 @@
 
 ***
 
-## ▷ File Explorers
+## ▷ File Managers
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
 * ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
-* [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
+* [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
-* [Yazi](https://yazi-rs.github.io/) - Terminal File Explorer / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
-* [One Commander](https://www.onecommander.com/) - File Explorer
-* [Free Commander](https://freecommander.com/) - File Explorer
-* [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Explorer
-* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Explorer
-* [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Explorer
+* [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
+* [One Commander](https://www.onecommander.com/) - File Manager
+* [Free Commander](https://freecommander.com/) - File Manager
+* [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
+* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
+* [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Manager
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
@@ -117,6 +117,7 @@
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
+* [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 * [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
@@ -124,7 +125,7 @@
 ## ▷ File Searching
 
 * ⭐ **[Everything](https://voidtools.com/)** - File Search Engine
-* [Recoll](https://www.recoll.org/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [Spyglass](https://github.com/spyglass-search/spyglass), [DocFetcher](https://docfetcher.sourceforge.io/) or [Orange](https://0-range.github.io/) - Cross Platform Search Engines
+* [Recoll](https://www.recoll.org/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [Spyglass](https://github.com/spyglass-search/spyglass), [DocFetcher](https://docfetcher.sourceforge.io/) or [Orange](https://0-range.github.io/) - Cross-Platform Search Engines
 * [AnyTXT](https://anytxt.net/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like Search Engine
