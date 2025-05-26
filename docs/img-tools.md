@@ -9,7 +9,6 @@
 * ↪️ **[Background / Object Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
-* [FilmDev](https://filmdev.org/) - Film Development Recipes
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photorealistic Landscapes
@@ -80,7 +79,6 @@
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling / Self-Host / No Sign-Up
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database / No Sign-Up
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Host / No Sign-Up
-* [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling / Online / No Sign-Up
 * [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online / No Sign-Up
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online / No Sign-Up
@@ -90,7 +88,6 @@
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online / No Sign-Up
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted / No Sign-Up
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Host / No Sign-Up
-* [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
 
 ***
 
@@ -98,6 +95,8 @@
 
 * ⭐ **[PhotoMosh](https://moshpro.app/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [glitch2](https://akx.github.io/glitch2/), [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/), [Pixelizer](https://www.igorski.nl/application/pixelizer/), [Image Mage](https://imagemageage.github.io/) or [Designify](https://designify.com/) - Photo Effects / Filters
+* [InColor](https://www.myheritage.com/incolor) - Image Colorization / Online / Sign-Up Required
+* [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Image Colorization / Online / No Sign-Up
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid-Based Image Distortion
 * [Change Image Hue](https://www.imageonlinetools.com/change-image-hue) or [Tinter](https://tinter.uxie.io/) - Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
@@ -128,7 +127,6 @@
 * ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
 * ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
 * ⭐ **[Topsters](https://topsters.org/)** - Make Taste / Recommendation Collages
-* [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - Photoshop Actions
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [FlipAnim](https://flipanim.com/) - Animated Flipbook Creator
@@ -181,11 +179,10 @@
 * [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS Only
 * [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows / iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching
-* [Magma](https://magma.com/), [Magma](https://magma.com/index), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
+* [Magma](https://magma.com/), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
-* [TEv2](http://te2.tewi.us/) - Share Your Drawings
 * [Virtual Graph Paper](https://virtual-graph-paper.com/) or [minimator](https://minimator.app/) - Create Grid-Based Drawings
 * [Gridzzly](http://gridzzly.com/) - Print Custom Grid Papers
 * [Crayon Town](https://crayon.town/) - Infinite Online Canvas
@@ -196,7 +193,6 @@
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
-* [Mutsuacen](https://mutsuacen.com/) - Create Moving Drawings
 
 ***
 
@@ -242,7 +238,6 @@
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
 * [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
 * [TokkingHeads](https://app.tokkingheads.com/) - Face Movement GIFs
-* [petpet](https://benisland.neocities.org/petpet/) - Headpatting GIF Maker
 
 ***
 
@@ -300,7 +295,6 @@
 * [Pixelied](https://pixelied.com/) - Online Design Tool
 * [Evernote.Design](https://www.evernote.design/) - Online Design Tools
 * [Graphite](https://graphite.rs/) or [Recraft](https://www.recraft.ai/) - Vector Editors
-* [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
 
 ***
@@ -343,7 +337,6 @@
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [Patternizer](https://www.patternizer.com/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Noise & Gradient](https://www.noiseandgradient.com/), [PhotoGradient](https://photogradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
-* [Generative Landscapes](https://generativelandscapes.wordpress.com/) - Generative Landscape Blog
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
@@ -391,6 +384,7 @@
 * [Solutioonn](https://t.me/solutioonn)
 * [ae-project](https://ae-project.su/)
 * [godownloads](https://www.godownloads.org/)
+* [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - Photoshop Actions
 
 ***
 
@@ -411,7 +405,6 @@
 * [FanCaps](https://fancaps.net/) or [Film Grab](https://film-grab.com/) - Media Screenshots
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
-* [The NFT Bay](https://thenftbay.org/) or [Extremely Fungible Tokens](https://www.extremelyfungible.com/) - Free NFTs
 * [Artvee](https://artvee.com/) - Public Domain Artwork
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
@@ -514,6 +507,7 @@
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
+* [TEv2](http://te2.tewi.us/) - Share Your Drawings
 
 ***
 
@@ -554,7 +548,6 @@
 * [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
-* [Halloween.WannaThis](https://halloween.wannathis.one/) - 3D Halloween Models
 * [Vertex](https://vertex.im/) - 3D Icons
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
 * [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments
@@ -576,17 +569,16 @@
 * [Vectary](https://www.vectary.com/), [Womp](https://beta.womp.com/), [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
-* [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
+* [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 
 ***
 
 ## ▷ 3D Modeling Tools
 
 * [Embossify](https://www.embossify.com/), [Tripo3D](https://www.tripo3d.ai/app/home) or [TripoSG](https://huggingface.co/spaces/VAST-AI/TripoSG) - Image to 3D Model Converters
-* [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
@@ -632,7 +624,6 @@
 * [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
-* [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
@@ -653,7 +644,6 @@
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
-* [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
 
 ***
 
