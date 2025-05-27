@@ -345,7 +345,6 @@
 
 ## ▷ Free Assets
 
-* ⭐ **[FreePreset](https://freepreset.net/)**
 * [UnliPresets](https://www.unlipresets.com/)
 * [Gumroad](https://gumroad.com/) (Enter $0)
 * [psdkeys](https://psdkeys.com/)

@@ -341,8 +341,6 @@
 
 # ► Czech / Čeština
 
-* [Seznam](https://www.seznam.cz/) - Web Search Engine
-* [CSFD](https://www.csfd.cz/) - Czech Film Database
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
 
 ## ▷ Downloading / Stahování
@@ -359,6 +357,7 @@
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
+* [CSFD](https://www.csfd.cz/) - Czech Film Database
 
 ## ▷ Reading / Čtení
 
