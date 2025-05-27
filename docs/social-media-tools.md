@@ -354,6 +354,7 @@
 * [LiveTL](https://kentonishi.com/LiveTL/) - Livestream Chat Translator
 * [YT Boost Chat](https://greasyfork.org/en/scripts/520755) or [YT RM3](https://greasyfork.org/en/scripts/521342) - Reduce YouTube Chat Memory Usage
 * [YT LiveChat Flusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Add Bullet Chatting (Danmaku) to Livestreams
+* [Outlier Kit](https://outlierkit.com/) - Discover YouTube niches, trends & Keywords to grow your channel faster
 
 ***
 
