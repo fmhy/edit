@@ -455,6 +455,7 @@
 
 ## ▷ Sports Replays
 
+* ⭐ **[Watchwrestling](https://pwrestling.com/)** or [Allwrestling](https://Allwrestling24.com/) - MMA / Wrestling Replays / 720p
 * ⭐ **[720pier](https://720pier.ru/)** - Sports Replays / Torrents
 * ⭐ **[FullReplays](https://www.fullreplays.com/)** - Football Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
