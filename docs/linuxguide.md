@@ -774,7 +774,7 @@
 
 ***
 
-# ► Unix / BSD
+# ► Unix-Like
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
