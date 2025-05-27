@@ -265,7 +265,7 @@
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [qPDFview](https://launchpad.net/qpdfview) - PDF / PC
 * [mupdf](https://mupdf.com/) - PDF / PC / Linux / Android
-* [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
+* [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
 * [Sioyek](https://sioyek.info/) - PDF / PC / Mac / Linux
 * [Yomu](https://www.yomu-reader.com/) - Ebook Reader / iOS / Mac
 * [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / iOS / Mac

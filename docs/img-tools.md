@@ -112,11 +112,11 @@
 
 ***
 
-## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_images)
+## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_image)
 
 ***
 
-## ▷ [Mac Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_images)
+## ▷ [Mac Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_image)
 
 ***
 
@@ -698,7 +698,7 @@
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots)** - Most Chatbots have Built-in Image to Text
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
-* [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
+* [TextShot](https://github.com/ianzhao05/textshot) - Cross-Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
