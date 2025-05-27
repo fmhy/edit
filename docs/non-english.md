@@ -341,8 +341,6 @@
 
 # ► Czech / Čeština
 
-* [Seznam](https://www.seznam.cz/) - Web Search Engine
-* [CSFD](https://www.csfd.cz/) - Czech Film Database
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
 
 ## ▷ Downloading / Stahování
@@ -359,6 +357,7 @@
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
+* [CSFD](https://www.csfd.cz/) - Czech Film Database
 
 ## ▷ Reading / Čtení
 
@@ -668,6 +667,7 @@
 * ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* ⭐ **[HDHub4u](https://hdhublist.com/?re=hdhub)** - Movies / TV / 1080p / [Telegram](https://hdhublist.com/?re=telegram)
 * ⭐ **[OlaMovies](https://olamovies.help/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use Adblocker / [Telegram](https://telegram.me/olamovies_officialv69)
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://modlist.in/?type=telegram) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
@@ -692,7 +692,6 @@
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 * [mkvAnime](https://ww1.mkvanime.mov/) - Movies / Shows / Anime / Sub / Dub / 1080p
-* [HDHub4u](https://hdhublist.com/?re=hdhub) - Movies / TV / 1080p / [Telegram](https://hdhublist.com/?re=telegram)
 * [MKVHub](https://www.mkvhub.hair/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+lTty7fOB6I4yM2M5)
 * [FilmyMeet](https://filmy4web.mex.com/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MoviesNation](https://movies.dog/), [2](https://moviesnation.party/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+O88huh3QZ2k2Yjc9)

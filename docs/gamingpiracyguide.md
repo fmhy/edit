@@ -264,7 +264,7 @@
 * ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
-* ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
+* ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
 * ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations

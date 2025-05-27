@@ -646,6 +646,7 @@
 
 ### General Music Sheets
 
+* ⭐ **[IMSLP](https://imslp.org/wiki/Main_Page)** - Public Domain Scores
 * ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore)
 * [8notes](https://www.8notes.com/)
 * [Mutopia Project](https://www.mutopiaproject.org/)

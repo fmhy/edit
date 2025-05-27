@@ -177,6 +177,7 @@
 
 ## ▷ File Recovery
 
+* 🌐 **[Data Recovery](https://igwiki.lyci.de/wiki/Data_recovery)** - Data Recovery Tool Index
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
@@ -258,7 +259,7 @@
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
 * [PDFCrowd](https://pdfcrowd.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
-* [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://issuudownload.com/)
+* [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 

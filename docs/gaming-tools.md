@@ -295,8 +295,8 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)**, [2](https://github.com/Detanup01/gbe_fork) / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** - DLC Unlocker for Epic, Origin, EA, Uplay
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** - DLC Unlocker for Origin, EA & Uplay
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
 * [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
@@ -480,7 +480,7 @@
 
 ## ▷ Playstation Homebrew
 
-* ⭐ **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
+* 🌐 **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -688,6 +688,7 @@
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** - Animal Crossing: New Horizons Resources
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Metas
@@ -716,7 +717,6 @@
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
 * ⭐ **[DPM.LOL](https://dpm.lol/)**, **[U.GG](https://u.gg/)**, [KoreanBuilds](https://en.koreanbuilds.net/), [EuropeanBuilds](https://en.europeanbuilds.net/), [LoLTheory](https://loltheory.gg/), [MurderBridge](https://www.murderbridge.com/) or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Builds / Tiers
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
-* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
 * [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
 * [LoL Wiki](https://wiki.leagueoflegends.com/) - Official LoL Wiki
