@@ -744,7 +744,7 @@
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets on Files
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up Required
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
-* ⭐ **[Voyage](https://fisher.voyage/)** / [Discord](https://discord.gg/K5rBfCaK59),  [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j), [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.si/) - Multi-Site Search
+* ⭐ **[Voyage](https://fisher.voyage/)** / [Discord](https://discord.gg/K5rBfCaK59), [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j), [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.si/) - Multi-Site Search
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
 * [LimeTorrents](https://www.limetorrents.lol/) - Movies / TV
 * [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K
