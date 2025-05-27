@@ -176,7 +176,7 @@
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
 * [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
-* [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - Browser Torrent Creator
-* [Torrent Parts](https://torrent.parts/) or [Torrent File Editor](https://torrent-file-editor.github.io/) - Edit Torrents Files
+* [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) - Browser Torrent Creator / [GitHub](https://github.com/Kimbatt/torrent-creator)
+* [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
 * [/r/torrents](https://reddit.com/r/torrents) or [/r/VPNTorrents](https://reddit.com/r/vpntorrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)
