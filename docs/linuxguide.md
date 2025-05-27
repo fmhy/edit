@@ -515,22 +515,6 @@
 
 ***
 
-# ► Unix / BSD
-
-* 🌐 **[UnixPorn](https://discord.gg/unixporn)** - Unix Themes
-* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
-* 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
-* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
-* [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
-* [Pkgs](https://pkgs.org/) - Unix Packages / [Repology](https://repology.org/)
-* [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
-* [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
-* [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
-* [pass](https://www.passwordstore.org/) - Unix Password Manager
-* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
-
-***
-
 # ► Mac Apps
 
 * 🌐 **[The Terminal Directory](https://termui.sh/)** - List of Terminal Emulators
@@ -786,3 +770,19 @@
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
+
+***
+
+# ► Unix / BSD
+
+* 🌐 **[UnixPorn](https://discord.gg/unixporn)** - Unix Themes
+* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
+* 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
+* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
+* [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
+* [Pkgs](https://pkgs.org/) - Unix Packages / [Repology](https://repology.org/)
+* [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
+* [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
+* [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
+* [pass](https://www.passwordstore.org/) - Unix Password Manager
+* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
