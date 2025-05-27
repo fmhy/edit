@@ -211,6 +211,19 @@
 
 # ► PDF Tools
 
+* [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
+* [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
+* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
+* [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
+* [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
+* [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
+* [OpenSign](https://github.com/OpenSignLabs/OpenSign), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
+* [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
+* [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
+* [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
+
+***
+
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
@@ -247,21 +260,6 @@
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://issuudownload.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
-
-***
-
-## ▷ PDF Utilities
-
-* [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
-* [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
-* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
-* [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
-* [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
-* [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
-* [OpenSign](https://github.com/OpenSignLabs/OpenSign), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
-* [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
-* [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
-* [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 
 ***
 
