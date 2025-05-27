@@ -66,6 +66,7 @@
 * [Shamela](https://shamela.ws/) - Books / Documents
 * [FoulaBook](https://foulabook.com/) - Books
 * [books-library](https://books-library.website/) - Books
+* [3Kitab](https://3kitab.com/) - Books / Documents
 * [EbookSar](https://www.ebooksar.net/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Hindawi](https://www.hindawi.org/) - Books
