@@ -470,7 +470,7 @@
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [Command Line Guide](https://github.com/jlevy/the-art-of-command-line), [ManKier](https://www.mankier.com/) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
-* [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands via Right Menu / Gnome Extension
+* [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands via Right Menu / GNOME Extension
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dev/) - Bash Frameworks
 * [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
@@ -511,7 +511,7 @@
 ## ▷ Linux Themes
 
 * 🌐 **[xfce-look](https://www.xfce-look.org/)** - XFCE Linux Themes
-* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - Gnome Themes
+* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - GNOME Themes
 * [Pling](https://www.pling.com/s/All-Linux/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
 * [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Themix](https://github.com/themix-project/themix-gui) - Linux Themes / GUI
