@@ -110,7 +110,6 @@
 
 [The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](https://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
 
-
 ### Album Art
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**

@@ -31,7 +31,7 @@
 * [how2](https://github.com/santinic/how2)
 * [Bash Academy](https://guide.bash.academy/)
 * [ss64 Bash](https://ss64.com/bash/)
-* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) 
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/)
 * [navi](https://github.com/denisidoro/navi)
 
 ***
