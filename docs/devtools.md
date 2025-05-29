@@ -333,7 +333,7 @@
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/)
-* [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
+* [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - `grep` Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Atuin](https://atuin.sh/) - Sync, Search and Backup Shell History

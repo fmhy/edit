@@ -30,7 +30,7 @@
 * [CommandlineFU](https://www.commandlinefu.com/)
 * [Bash Academy](https://guide.bash.academy/)
 * [ss64 Bash](https://ss64.com/bash/)
-* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) 
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/)
 * [navi](https://github.com/denisidoro/navi)
 
 ***
@@ -168,7 +168,7 @@
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [picom](https://github.com/yshui/picom) - Compositor for standalone X11 Window Managers
+* [picom](https://github.com/yshui/picom) - Compositor for Standalone X11 Window Managers / [Docs](https://picom.app/) / [GitHub](https://github.com/yshui/picom)
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
@@ -183,7 +183,6 @@
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/linuxboot/heads)
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
 * [GParted](https://gparted.org/) - Partition Manager
-* [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
 * [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
@@ -242,7 +241,7 @@
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [Shortwave](https://flathub.org/apps/de.haeckerfelix.Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
-* [Pipewire Multimedia API](https://pipewire.org/) - Improved Video / Audio Handling / [Plugins](https://github.com/wwmm/easyeffects) or 
+* [Pipewire Multimedia API](https://pipewire.org/) - Improved Video / Audio Handling / [Plugins](https://github.com/wwmm/easyeffects)
 * [Werman](https://github.com/werman/noise-suppression-for-voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
@@ -457,7 +456,7 @@
 * 🌐 **[The Terminal Directory](https://termui.sh/)** - Terminal Emulators
 * ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/) or [Nushell](https://www.nushell.sh/) - Command Line Shells
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
-* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [Github](https://github.com/wezterm/wezterm), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminals Emulators
+* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminal Emulators
 * ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
 * [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -517,7 +516,7 @@
 ## ▷ Linux Themes
 
 * 🌐 **[xfce-look](https://www.xfce-look.org/)** - XFCE Linux Themes
-* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - Gnome Themes
+* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - GNOME Themes
 * [Pling](https://www.pling.com/s/All-Linux/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
 * [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Themix](https://github.com/themix-project/themix-gui) - Linux Themes / GUI
@@ -792,7 +791,7 @@
 * [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
-* [eza](https://eza.rocks/) - Modern ls replacement
+* [eza](https://eza.rocks/) - Modern `ls` Replacement
 * [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
 * [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/skim-rs/skim) - Fuzzy Finders
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
@@ -810,4 +809,4 @@
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [pass](https://www.passwordstore.org/) - Unix Password Manager
-* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
+* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 Libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
