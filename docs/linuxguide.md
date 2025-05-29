@@ -100,13 +100,7 @@
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
 * [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note Apps
-* [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text Editors
-* [Kate Editor](https://kate-editor.org/) - Source Code Editor
-* [Geany](https://www.geany.org/) - IDE
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
-* [Durdraw](https://durdraw.org/) - ASCII Editor
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
@@ -152,6 +146,15 @@
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 
 ***
+
+## ▷Linux Text / Code Editors
+
+* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
+* [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note Apps
+* [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text Editors
+* [Kate Editor](https://kate-editor.org/) - KDE Code Editor
+* [Geany](https://www.geany.org/) - IDE
+* [Durdraw](https://durdraw.org/) - ASCII Editor
 
 ## ▷ Linux System
 
