@@ -294,25 +294,25 @@ const transformLinks = (text: string): string =>
         name: 'Telegram',
         find: /\[Telegram\]\(([^\)]*?)\)/gm,
         replace:
-        '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
+          '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
       },
       {
         name: 'Subreddit',
         find: /\[Subreddit\]\(([^\)]*?)\)/gm,
         replace:
-        '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
+          '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
       },
       {
         name: 'X',
         find: /\[X\]\(([^\)]*?)\)/gm,
         replace:
-        '<a target="_blank" href="$1"><div alt="X" class="i-carbon:logo-x" /></a>'
+          '<a target="_blank" href="$1"><div alt="X" class="i-carbon:logo-x" /></a>'
       },
       {
         name: 'Tor',
         find: /\[.onion\]\(([^\)]*?)\)/gm,
         replace:
-        '<a target="_blank" href="$1"><div alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
+          '<a target="_blank" href="$1"><div alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
       },
       // Platform indicators
       {
