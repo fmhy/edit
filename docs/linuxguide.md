@@ -100,7 +100,6 @@
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
 * [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
@@ -155,6 +154,7 @@
 * [Kate Editor](https://kate-editor.org/) - KDE Code Editor
 * [Geany](https://www.geany.org/) - IDE
 * [Durdraw](https://durdraw.org/) - ASCII Editor
+* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 
 ## ▷ Linux System
 
