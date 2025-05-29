@@ -371,7 +371,7 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - DIY Privacy Network
+* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Self Hosted Proxy Client
 * [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
