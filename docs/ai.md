@@ -227,6 +227,7 @@
 * [ArtificialStudio](https://app.artificialstudio.ai/tools) - Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)
 * [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/) - LLM Pricing Index
 * [Model Releases](https://koltregaskes.notion.site/modelreleases) - Upcoming Model Releases
+* [AI Alternative](https://aialternative.co/) - Discover the best AI tools and their alternatives
 
 ***
 
