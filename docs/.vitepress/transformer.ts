@@ -317,33 +317,33 @@ const transformLinks = (text: string): string =>
       // Platform indicators
       {
         name: 'Windows',
-        find: /(?<=\/ [^/]*)\b(,\s*)?Windows,?\s*\b(?=[^/]* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Windows,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <img class="i-qlementine-icons:windows-fill-16"> '
+          ' <div alt="Windows" class="i-qlementine-icons:windows-fill-16" /> '
       },
       {
         name: 'Mac',
-        find: /(?<=\/ [^/]*)\b(,\s*)?Mac,?\s*\b(?=[^/]* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Mac,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <img class="i-qlementine-icons:mac-24"> '
+          ' <div alt="Mac" class="i-qlementine-icons:mac-24" /> '
       },
       {
         name: 'Linux',
-        find: /(?<=\/ [^/]*)\b(,\s*)?Linux,?\s*\b(?=[^/]* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Linux,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <img class="i-ant-design:linux-outlined"> '
+          ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
       },
       {
         name: 'Android',
-        find: /(?<=\/ [^/]*)\b(,\s*)?Android,?\s*\b(?=[^/]* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Android,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <img class="i-material-symbols:android"> '
+          ' <div alt="Android" class="i-material-symbols:android" /> '
       },
       {
         name: 'iOS',
-        find: /(?<=\/ [^/]*)\b(,\s*)?iOS,?\s*\b(?=[^/]* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?iOS,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <img class="i-simple-icons:ios"> '
+          ' <div alt="iOS" class="i-simple-icons:ios" /> '
       }
     ])
     .getText()
