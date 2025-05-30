@@ -417,7 +417,7 @@
 * [CricHD.to](https://crichd.to/), [2](https://crichd.at/), [3](https://crichd.com.co/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
 * [Strims](https://strimsy.top/)
-* [SportOnTV](https://sportontv.xyz/) / [Discord](https://discord.gg/YhQPSSMps2)
+* [SportOnTV](https://sportontv.xyz/), [2](https://sotmatches.netlify.app/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [SportyHunter](https://sportyhunter.com/) / [Discord](https://discord.gg/zbxWcejadm)
 * [Sports Plus](https://en12.sportplus.live/)
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
