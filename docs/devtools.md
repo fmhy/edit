@@ -203,7 +203,7 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)**, [Forgejo](https://forgejo.org/compare/#only-develops-free-software) or [Forgeperf.org](https://forgeperf.org/) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[Git-Fork](https://git-fork.com/)**, [GitButler](https://github.com/gitbutlerapp/gitbutler) or [GitQlient](https://github.com/francescmm/GitQlient) - Git Desktop Clients
-* ⭐ **[Codeberg](https://codeberg.org/)** / [Drift](https://drift.lol/), [Gitea](https://about.gitea.com/), [GitLab.com](https://about.gitlab.com/) or [sourcehut](https://sourcehut.org/) - GitHub Alts / Version Control Systems
+* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [Drift](https://drift.lol/), [Gitea](https://about.gitea.com/), [GitLab.com](https://about.gitlab.com/) or [sourcehut](https://sourcehut.org/) - GitHub Alts / Version Control Systems
 * [Git](https://git-scm.com/) - Version Control System
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
@@ -462,7 +462,7 @@
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/)
 * ⭐ **[JetBrains](https://jetbrains.com/)** / [Unlock](https://rentry.co/FMHYBase64#jetbrains) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
-* ⭐ **[Neovim](https://neovim.io/)** - Code Editor
+* ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
