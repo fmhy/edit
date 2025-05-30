@@ -146,7 +146,7 @@
 
 ***
 
-## ▷Linux Text / Code Editors
+## ▷ Linux Text / Code Editors
 
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note Apps
@@ -156,7 +156,11 @@
 * [Durdraw](https://durdraw.org/) - ASCII Editor
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 
+***
+
 ## ▷ Linux System
+
+***
 
 ## ▷ System Management
 
