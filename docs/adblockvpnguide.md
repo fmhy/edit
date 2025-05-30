@@ -238,21 +238,21 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
 * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA / [GitHub](https://github.com/beemdevelopment/Aegis)
-* ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA / [GitHub](https://github.com/stratumauth/app)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
+* ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [GitHub](https://github.com/beemdevelopment/Aegis)
+* ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
 * ⭐ **[Password Strength Chart](https://i.imgur.com/g4NcQKd.png)** / [2](https://i.ibb.co/y8n3BZP/Hive-Systems-Password-Table-2024-Square.png)
-* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
-* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
-* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
-* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
-* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys / [GitHub](https://github.com/Yubico/yubioath-flutter)
-* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
-* [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web-Based 2FA / [GitHub](https://github.com/Bubka/2FAuth)
-* [Sentinel](https://getsentinel.io/) - Android / iOS / Mac 2FA
-* [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - iOS 2FA
-* [Tofu](https://www.tofuauth.com/) - iOS 2FA / [GitHub](https://github.com/iKenndac/Tofu)
+* [2FAS](https://2fas.com/) - 2FA / Android, iOS / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
+* [Mauth](https://github.com/X1nto/Mauth) - 2FA / Android /
+* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - 2FA / Android /
+* [KeePassXC](https://keepassxc.org/) - 2FA / Windows, Mac, Linux / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
+* [AuthMe](https://authme.levminer.com/) - 2FA / Windows, Mac, Linux / [GitHub](https://github.com/Levminer/authme)
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / Windows, Android / YubiKey Support / [GitHub](https://github.com/Yubico/yubioath-flutter)
+* [OTPClient](https://github.com/paolostivanin/OTPClient) - 2FA / Linux /
+* [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web-Based / [GitHub](https://github.com/Bubka/2FAuth)
+* [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS /
+* [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS /
+* [Tofu](https://www.tofuauth.com/) - 2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted 2FA
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens

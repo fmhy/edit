@@ -675,7 +675,7 @@
 
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linux)**
-* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** / Windows Subsystem / Pre-built Binaries
+* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
