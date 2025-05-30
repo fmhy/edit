@@ -705,7 +705,7 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.love/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[AniSAGA](https://anisaga.org/)** - Anime / Dub / 1080p
-* ⭐ **[Anime World India](https://watchanimeworld.in/ )** - Anime
+* ⭐ **[Anime World India](https://watchanimeworld.in/)** - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * ⭐ **[Anime World India](https://anime-world.app/)** - Anime
 * [TamilMV](https://www.1tamilmv.com/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages

@@ -179,7 +179,6 @@
 * [Terminator](https://terminator.aeza.net/) - Online Virtual Machines
 * [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
-* [wslu](https://wslutiliti.es/wslu) - Utilities for Windows 10 Linux Subsystem / [GitHub](https://github.com/wslutilities/wslu)
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [Utilities](https://wslutiliti.es/wslu) / [GitHub](https://github.com/wslutilities/wslu)
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
