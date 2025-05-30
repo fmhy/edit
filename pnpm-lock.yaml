@@ -69,9 +69,6 @@ importers:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: ^4.3.1
         version: 4.3.1(@vue/compiler-sfc@3.5.13)(prettier@3.5.3)
-      '@iconify-json/ant-design':
-        specifier: ^1.2.5
-        version: 1.2.5
       '@iconify-json/carbon':
         specifier: ^1.2.5
         version: 1.2.5
@@ -1032,9 +1029,6 @@ packages:
     peerDependenciesMeta:
       '@vue/compiler-sfc':
         optional: true
-
-  '@iconify-json/ant-design@1.2.5':
-    resolution: {integrity: sha512-SYxhrx1AFq2MBcXk77AERYz2mPhLQes1F0vtvG64+dJZWyge9studXo7MiR8PPeLjRjZdWRrReRbxiwdRMf70Q==}
 
   '@iconify-json/carbon@1.2.5':
     resolution: {integrity: sha512-aI3TEzOrUDGhs74zIT3ym/ZQBUEziyu8JifntX2Hb4siVzsP5sQ/QEfVdmcCUj37kQUYT3TYBSeAw2vTfCJx9w==}
@@ -4822,10 +4816,6 @@ snapshots:
       '@vue/compiler-sfc': 3.5.13
     transitivePeerDependencies:
       - supports-color
-
-  '@iconify-json/ant-design@1.2.5':
-    dependencies:
-      '@iconify/types': 2.0.0
 
   '@iconify-json/carbon@1.2.5':
     dependencies:
