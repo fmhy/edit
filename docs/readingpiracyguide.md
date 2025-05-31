@@ -40,7 +40,6 @@
 * [ExClassics](https://www.exclassics.com/) - Public Domain Obscure Books / Read Online
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
-* [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/), [2](https://proxy.zeronet.dev/Antilibrary.bit/) - ZeroNet Required
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
 ***

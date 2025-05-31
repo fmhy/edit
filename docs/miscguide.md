@@ -350,7 +350,7 @@
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
 * [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
-* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) or [lightpollutionmap](https://lightpollutionmap.app) - Light Pollution Maps
 * [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
 * [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine

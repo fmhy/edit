@@ -493,6 +493,7 @@
 * [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord 
 * [⁠/r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
+* [PSBBN Patch](https://rentry.co/FMHYBase64#psbbn-definitive-english-patch) - PSBBN Definitive English Patch
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits

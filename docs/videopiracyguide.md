@@ -57,7 +57,7 @@
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
 * [FlixIndia](https://watch.flixindia.site/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/+KOxuXK3gSfVkMDg1)
 * [Watch2Me](https://watch2me.site/) - Movies / TV / Anime / [Telegram](https://t.me/watch2mesite)
-* [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [Smashy](https://smashy.stream/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
+* [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [OnionPlay](https://onionplay.ch/) - Movies / TV / [Discord](https://discord.com/invite/4QxywT32Uz)
 * [YassFlix](https://yassflix.net/) - Movies / TV / Anime
 * [StigStream](https://stigstream.xyz), [2](https://stigstream.co.uk) - Movies / TV / Anime / [Discord](https://discord.gg/xxefFT8uEY)
@@ -234,7 +234,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [KissKH](https://kisskh.co/) - TV / Movies
 * [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - TV / Movies
-* [KissKH.org](https://kisskh.run/), [2](https://kisskh.net.pl/) - TV
+* [KissKH.org](https://kisskh.run/) - TV
 * [AsiaFlix](https://asiaflix.net/) - TV / Movies / [Discord](https://discord.com/invite/JTxEVkZWhc)
 * [RiveStream](https://rivestream.org/kdrama) - Korean Drama / TV / Movies
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies

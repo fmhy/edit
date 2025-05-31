@@ -100,7 +100,7 @@
 
 ## ▷ Terminal / CLI
 
-* 🌐 **[The Terminal Directory](https://termui.sh/)** - List of Terminal Emulators
+* 🌐 **[The Terminal Directory](https://termui.sh/)** or [⁠Awesome Terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulator Lists
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
@@ -400,7 +400,7 @@
 * [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Start Menu Customization
+* [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Start Menu Customization / [Unlock](https://rentry.co/fmhybase64#startall)
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization

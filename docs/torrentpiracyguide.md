@@ -23,7 +23,6 @@
 * [rutor.info](https://rutor.org/), [2](https://rutor.is/), [3](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Sign-Up Required
-* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/), [2](https://proxy.zeronet.dev/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
 
 ***
 

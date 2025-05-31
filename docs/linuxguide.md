@@ -524,6 +524,7 @@
 * [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Themix](https://github.com/themix-project/themix-gui) - Linux Themes / GUI
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
+* [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings Editor
 * [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux Theme
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme

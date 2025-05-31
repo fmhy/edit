@@ -892,6 +892,7 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - OSINT / Cybersecurity Search Engines
 * [Social-Media-OSINT](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - Social Media Index
 * [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries) / [V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) - Indexes Organized by Country
 * [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) - Discord OSINT Index
