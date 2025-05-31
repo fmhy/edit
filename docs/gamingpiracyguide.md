@@ -482,6 +482,78 @@
 
 ***
 
+# ► Tabletop Games
+
+* 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
+* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)** - Board Game Index
+* ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
+* [lishogi.org](https://lishogi.org/) - Shogi
+* [Online GO](https://online-go.com/) - Multiplayer GO
+* [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
+* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games
+* [Tabletopia](https://tabletopia.com/) - Online Board Games
+* [FunNode](https://www.funnode.com/) - Online Board Games
+* [Screentop](https://screentop.gg/) - Online Board Games / [Discord](https://discord.gg/wva8ebh)
+* [Richup](https://richup.io/) - Monopoly-Style Board Game
+* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
+* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
+* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
+* [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
+
+***
+
+## ▷ Chess
+
+* ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
+* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
+* ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
+* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
+* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
+* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [Laser](https://playlaser.xyz/) - Alt Style Chess
+* [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
+
+***
+
+## ▷ Dungeons & Dragons
+
+* 🌐 **[How to Play Dungeons and Dragons](https://www.dnd-compendium.com/player-guides/newbie-guides)**
+* ⭐ **[DnDBeyond](https://www.dndbeyond.com/)** – Official Digital Toolset for 5E 🔃
+* ⭐ **[Roll20](https://roll20.net/)** – Online VTT (Virtual Tabletop) Platform 🔃
+* ⭐ **[5etools](https://5e.tools/)** – Comprehensive 5E Rule & Content Reference 🔃
+* ⭐ **[Kobold Fight Club](https://kobold.club/)** – Encounter Builder & Balancer  
+* ⭐ **[Donjon](https://donjon.bin.sh/)** – Procedural Generator Collection 🔃
+* [TetraCube](https://tetra-cube.com/dnd/dnd-statblock.html) – Monster Statblock Generator  
+* [D&D Compendium](https://www.dnd-compendium.com/) – Curated Index of D&D Resources  
+* [RPGBot](https://rpgbot.net/) – Optimization Guides & Class Builds  
+* [CaveTools](https://cavetools.app/) – Modular Encounter and Session Builder  
+* [GM Binder](https://www.gmbinder.com/) – Homebrew Document Designer 🔃
+* [Homebrewery](https://homebrewery.naturalcrit.com/) – Make Official-Looking PDF Content 🔃
+* [D&D Wiki](https://www.dandwiki.com/) – Fan-Made Homebrew Archive  
+* [World Anvil](https://www.worldanvil.com/) – Campaign Worldbuilding Suite 🔃
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) – Procedural Map Creator 🔃
+* [One Page Dungeon Generator](https://watabou.itch.io/one-page-dungeon) – Minimal Dungeon Creator 🔃
+* [Scabard](https://www.scabard.com/) – Campaign Wiki & Session Planner  
+* [Tabletop Audio](https://tabletopaudio.com/) – Free Immersive Soundtracks for TTRPGs 🔃
+* [Inkarnate](https://inkarnate.com/) – Custom Map Maker With Drag-n-Drop Editor 🔃
+* [DungeonFog](https://www.dungeonfog.com/) – Advanced Map Builder & Scene Preparer  
+* [Avrae Bot](https://avrae.io/) – Discord Bot for D&D Automation
+---
+from tabletop tools:
+* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
+* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - D&D 4e/5e Books
+* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/) - AD&D / D&D Resources / [World Building Checklist](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html)
+* [The Acaeum](https://www.acaeum.com/) - D&D Database
+* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - D&D Rules
+
+***
+
 # ► Browser Games
 
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
@@ -716,26 +788,16 @@
 
 ***
 
-## ▷ Board / Card / Dice
+## ▷ Card Games
 
-* 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
-* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)** - Board Game Index
 * 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
-* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
-* [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
-* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games
-* [Tabletopia](https://tabletopia.com/) - Online Board Games
-* [FunNode](https://www.funnode.com/) - Online Board Games
-* [Screentop](https://screentop.gg/) - Online Board Games / [Discord](https://discord.gg/wva8ebh)
 * [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
 * [gTOONS](https://gtoons.app/) - Cartoon Network Strategy Card Game Revival / [Discord](https://discord.gg/KM2ggJtkMr)
 * [BlackReds](https://blacksreds.com/) - Multiplayer Card Games
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
 * [Playok](https://www.playok.com/) - Multiplayer Card Games
 * [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
-* [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
 * [PictureCards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [AllBad.Cards](https://bad.cards/) or [Pretend You're](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity Online
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
@@ -743,36 +805,19 @@
 * [PySolFC](https://pysolfc.sourceforge.io/) - Downloadable Solitaire / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
-* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
-* [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
 
 ***
 
 ## ▷ Strategy
 
-* ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
-* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
-* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
-* ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
+* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
+* [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [OpenFront](https://openfront.io/) / [Discord](https://discord.gg/k22YrnAzGp) or [Territorial](https://territorial.io/) - Conquest / War Style Games
-* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
-* [lishogi](https://lishogi.org/) - Shogi
-* [Online GO](https://online-go.com/) - Multiplayer GO
 * [Warzone](https://www.warzone.com/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
-* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
-* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
-* [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 
 ***
 

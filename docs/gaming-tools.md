@@ -929,17 +929,11 @@
 ## ▷ Tabletop Tools
 
 * 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
-* 🌐 **[5ETools](https://5e.tools/)**, [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
 * ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
 * ⭐ **[Kanka](https://kanka.io/)** - Tabletop RPG Manager
+* [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
 * [RPG.net](https://forum.rpg.net/) - RPG Forums
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - D&D 4e/5e Books
 * [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
-* [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
-* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
-* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - Dungeons & Dragons Rules
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
