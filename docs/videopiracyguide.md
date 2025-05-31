@@ -54,7 +54,6 @@
 * [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/ynfvjgHrBd)
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [Wooflix](https://wooflix.tv/) - Movies / TV / Anime / 720p
-* [ValhallaStream](https://valhallastream.pages.dev/) - Movies / TV / Anime
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
 * [FlixIndia](https://watch.flixindia.site/) - Movies / TV / Anime / 720p / [Telegram](https://t.me/+KOxuXK3gSfVkMDg1)
 * [Watch2Me](https://watch2me.site/) - Movies / TV / Anime / [Telegram](https://t.me/watch2mesite)
@@ -155,7 +154,6 @@
 * ⭐ **[animepahe](https://animepahe.ru/)** - Hard Subs / Dub / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kaa.mx/)** - Sub / Dub / Auto-Next / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/6EGTnNQAaV) / [Telegram](https://t.me/kickassanimev3)
 * ⭐ **[Animag](https://animag.to/)** - Sub / Dub
-* ⭐ **[AnimeZ](https://animez.org/)** - Hard Subs / Dub
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** or **[Kuroiru](https://kuroiru.co/)** - Multi-Site Anime Search
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
