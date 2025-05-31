@@ -317,31 +317,31 @@ const transformLinks = (text: string): string =>
       // Platform indicators
       {
         name: 'Windows',
-        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Windows,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)((,\s*)?Windows,?\s*)(?=(?:\/>|[^/])* \/)/gm,
         replace:
           ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
       },
       {
         name: 'Mac',
-        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Mac,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)((,\s*)?Mac,?\s*)(?=(?:\/>|[^/])* \/)/gm,
         replace:
           ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
       },
       {
         name: 'Linux',
-        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Linux,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)((,\s*)?Linux,?\s*)(?=(?:\/>|[^/])* \/)/gm,
         replace:
           ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
       },
       {
         name: 'Android',
-        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Android,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)((,\s*)?Android,?\s*)(?=(?:\/>|[^/])* \/)/gm,
         replace:
           ' <div alt="Android" class="i-material-symbols:android" /> '
       },
       {
         name: 'iOS',
-        find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?iOS,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
+        find: /(?<=\/ (?:\/>|[^/])*)((,\s*)?iOS,?\s*)(?=(?:\/>|[^/])* \/)/gm,
         replace:
           ' <div alt="iOS" class="i-simple-icons:ios" /> '
       }
