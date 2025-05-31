@@ -319,13 +319,13 @@ const transformLinks = (text: string): string =>
         name: 'Windows',
         find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Windows,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <div alt="Windows" class="i-qlementine-icons:windows-fill-16" /> '
+          ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
       },
       {
         name: 'Mac',
         find: /(?<=\/ (?:\/>|[^/])*)(\b(,\s*)?Mac,?\s*\b)(?=(?:\/>|[^/])* \/)/gm,
         replace:
-          ' <div alt="Mac" class="i-qlementine-icons:mac-24" /> '
+          ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
       },
       {
         name: 'Linux',
