@@ -193,6 +193,7 @@
 
 ## ▷ Torrenting / 下载种子
 
+* [QBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
 * [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
@@ -436,7 +437,7 @@
 * ⭐ **[Frembed](https://frembed.club/)** - Movies / TV / Anime / API
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Darkiworld](https://darki-tometjerry.com/) - Movies / TV / Anime
-* [cinepulse](https://cinepulse.fr/) - Movies / TV / Anime
+* [cinepulse](https://cinepulse.to/) - Movies / TV / Anime
 * [coflix](https://coflix.mov/) - Movies / TV / Anime
 * [Sadisflix](https://sadisflix.ing/), [2](https://sadisflix.vip/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Mirrors](https://sadis.wiki/) / [Telegram](https://t.me/sadisflix)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime

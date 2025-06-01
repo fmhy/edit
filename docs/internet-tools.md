@@ -566,7 +566,7 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 
@@ -586,7 +586,6 @@
 * [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based/Firefox Hidden Settings
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
 * [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
@@ -605,6 +604,7 @@
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
+* [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
 
 ***
 
@@ -892,6 +892,7 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - OSINT / Cybersecurity Search Engines
 * [Social-Media-OSINT](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - Social Media Index
 * [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries) / [V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) - Indexes Organized by Country
 * [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) - Discord OSINT Index
