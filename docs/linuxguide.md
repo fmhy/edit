@@ -483,7 +483,7 @@
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** - Linux Ricing Resources
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
-* ⭐ **[r/unixporn](https://reddit.com/r/unixporn) / [Discord](https://discord.gg/unixporn)** - Ricing Community
+* ⭐ **[/r/unixporn](https://unixporn.github.io/) - Ricing Community / [Subreddit](https://reddit.com/r/unixporn)
 
 ***
 
@@ -506,7 +506,7 @@
 * 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
 * ⭐ **[i3wm](https://i3wm.org)**, [BSPWM](https://github.com/baskerville/bspwm) or [herbstluftwm](https://herbstluftwm.org) - Tiling window manager
 * ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) or [dwm](https://dwm.suckless.org) - Dynamic Window Managers
-* ⭐ **[Hyprland](https://hyprland.org/)** - Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://end-4.github.io/dots-hyprland-wiki/en/)
+* ⭐ **[Hyprland](https://hyprland.org/)** - Wayland Compositor [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://end-4.github.io/dots-hyprland-wiki/en/)
 * ⭐ **[niri](https://github.com/YaLTeR/niri)** - Wayland Compositor
 * ⭐ **[Sway](https://github.com/swaywm/sway)** or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
 * [river](https://github.com/riverwm/river/) - Wayland Compositor
@@ -524,6 +524,7 @@
 * [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Themix](https://github.com/themix-project/themix-gui) - Linux Themes / GUI
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
+* [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings Editor
 * [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux Theme
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme

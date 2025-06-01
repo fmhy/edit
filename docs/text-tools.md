@@ -488,6 +488,7 @@
 * [DFonts](https://www.dfonts.org/)
 * [Font Spring](https://www.fontspring.com/free)
 * [FFonts](https://www.ffonts.net/)
+* [⁠DaFontFree](https://www.dafontfree.co/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)

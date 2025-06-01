@@ -523,8 +523,8 @@
 ## ▷ Email Aliasing
 
 * ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
-* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailgw](https://mailgw.com/) - Email Aliasing
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
@@ -566,7 +566,7 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 
@@ -892,6 +892,7 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - OSINT / Cybersecurity Search Engines
 * [Social-Media-OSINT](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - Social Media Index
 * [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries) / [V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) - Indexes Organized by Country
 * [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) - Discord OSINT Index

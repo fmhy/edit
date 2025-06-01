@@ -193,6 +193,7 @@
 
 ## ▷ Torrenting / 下载种子
 
+* [QBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
 * [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
@@ -808,7 +809,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingunity.to/) - Movies / TV
+* [StreamingCommunity](https://streamingunity.blog/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
@@ -853,6 +854,7 @@
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
+* [Doujin Music](https://rentry.co/FMHYBase64#doujin-music) - Music / MP3
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
