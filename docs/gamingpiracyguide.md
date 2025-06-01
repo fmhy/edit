@@ -353,7 +353,7 @@
 
 ## ▷ Sony ROMs
 
-* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSP
+* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3

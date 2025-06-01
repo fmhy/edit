@@ -586,7 +586,6 @@
 * [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based/Firefox Hidden Settings
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
 * [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
