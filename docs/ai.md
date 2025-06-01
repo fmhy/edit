@@ -35,7 +35,6 @@
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [Electron Hub](https://www.electronhub.top/) - Deepseek-R1 / o3-Mini-High / Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
-* [NexusAI](https://www.nexusmind.tech/) - GPT-4o / Deepseek-R1 / o3-Mini-High / 300 Daily [Discord](https://discord.com/invite/sk8eddGwmP)
 * [NVIDIA NIM](https://build.nvidia.com/) - Deepseek-R1 / Multiple Chatbots / No Sign-Up
 * [OIChat](https://oi.wr.do/) - Gemini-2.5-Pro-Exp / DeepSeek R1 / Qwen QwQ-32B / DeepSeek-V3-0324 / Multiple Chatbots
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot

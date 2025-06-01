@@ -49,7 +49,6 @@
 * [zvu4no](https://zvu4no.org/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [Saavn Web](https://saavn-web-ui.vercel.app/) - Browser Music / [GitHub](https://github.com/wiz64/saavn-web-ui)
-* [musify](https://musify.club/) - Browser Music
 * [ArtistGrid](https://artistgrid.cx/) - Browser Music / Unreleased Hip-Hop
 * [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip-Hop
 * [DatPiff](https://datpiff.com/) - Hip-Hop / Mixtapes
@@ -430,7 +429,6 @@
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
 * [punk.cat](https://punkcata.blogspot.com/) - 320kb / MP3
 * [SongsLover](https://songslover.li/) - 256kb / MP3
-* [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Archive.org](https://archive.org/details/audio) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
