@@ -364,7 +364,7 @@
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
-* [Flvto Click] (flvto.click) - Flvto Click / 720kbh MP3
+* [Flvto Click] (https://flvto.click/) - Flvto Click / 720kbh MP3
 
 ***
 
