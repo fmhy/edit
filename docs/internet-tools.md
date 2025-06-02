@@ -75,7 +75,6 @@
 * ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
 * ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Unlimited / Self-Hosted
 * ⭐ **[Bio Link](https://bio.link/)** - Unlimited / Custom URLs
-* [Bento](https://bento.me/) - Unlimited / Custom URLs
 * [LinkBun](https://linkbun.io) - Unlimited / Custom URLs
 * [Lynk](https://lynk.id/) - Unlimited / Custom URLs
 * [ContactInBio](https://www.contactinbio.com/) - Unlimited / Custom URLs
@@ -86,12 +85,9 @@
 * [Beacons](https://beacons.ai/) - Unlimited
 * [Carrd](https://carrd.co/) - Unlimited
 * [Ayo](https://ayo.so/) - Unlimited
-* [Campsite.bio](https://campsite.bio/) - Unlimited
 * [Taplink](https://taplink.at/) - Unlimited
 * [milkshake](https://milkshake.app/) - Unlimited
-* [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
-* [LinkSpace.Bio](https://linkspace.bio/) - 250 Limit / Custom URLs
-* [seemless](https://www.linkinbio.website/) - Link in Bio for TikTok & Instagram
+* [seemless](https://www.linkinbio.website/) - Unlimited / Instagram & TikTok Embeds
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 
 ***
