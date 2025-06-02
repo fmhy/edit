@@ -36,7 +36,7 @@
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
-* [egybest](https://www.egybest.co.in/) - Movies / TV / Anime
+* [egybest](https://egybest.la/) - Movies / TV / Anime
 * [WeCima](https://wecima.xyz/) - Movies / TV / Cartoons
 * [Cimaleek](https://web.cimaleek.to/) - Movies / TV
 * [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
@@ -1773,7 +1773,7 @@
 
 # ► Vietnamese / Việt
 
-* ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
+* ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/), [TECHRUM.VN](https://www.techrum.vn/) or [WhiteHat.vn](https://whitehat.vn/) - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/en/)** - Vietnamese Keyboard
 * ⭐ **[Baomoi](https://baomoi.com/)** - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
