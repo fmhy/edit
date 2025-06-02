@@ -246,32 +246,32 @@
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / Windows, Mac, Linux, Android, iOS / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows /
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows /
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
-* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS /
+* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
 * [Readest](https://readest.com/) - Ebook Reader / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/readest/readest)
 * [KoReader](https://koreader.rocks/) - Ebook Reader / Windows, Android / [GitHub](https://github.com/koreader/koreader)
-* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac /
-* [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS /
-* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux /
+* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
+* [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
+* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
 * [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
-* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux /
-* [Okular](https://okular.kde.org/) - PDF / Windows, Mac, Linux /
-* [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows /
-* [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows /
-* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux /
-* [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows /
-* [mupdf](https://mupdf.com/) - PDF / Windows, Linux, Android /
+* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux
+* [Okular](https://okular.kde.org/) - PDF / Windows, Mac, Linux
+* [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows
+* [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
+* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
+* [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
+* [mupdf](https://mupdf.com/) - PDF / Windows, Linux, Android
 * [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
-* [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux /
-* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS /
-* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / Mac, iOS /
-* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux /
-* [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows /
-* [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows /
+* [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
+* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
+* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / Mac, iOS
+* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
+* [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
+* [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
 * [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
