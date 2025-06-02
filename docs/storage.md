@@ -324,6 +324,7 @@
 * ⭐ **[Neocities](https://neocities.org/)**
 * ⭐ **[nekoweb](https://nekoweb.org/)**
 * ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
+* [pages.gay](https://pages.gay/)
 * [Web 1.0 Hosting](https://web1.0hosting.net/)
 * [Codeberg Pages](https://codeberg.page/)
 * [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
