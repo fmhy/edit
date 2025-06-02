@@ -23,12 +23,6 @@ Search engine hosted on FMHY.net
 
 ---
 
-### [old.fmhy.net Search](https://old.fmhy.net/search)
-
-Search engine hosted on old.fmhy.net
-
----
-
 ### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
 
 GitHub page search engine
