@@ -125,7 +125,7 @@
 
 ## ▷ Coding AIs
 
-* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [LiveSWEBench](https://liveswebench.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [LiveSWEBench](https://liveswebench.ai/), [SWE-Bench](https://www.swebench.com/), [Multi-SWE-bench](https://multi-swe-bench.github.io/#/), [LiveCodeBench](https://livecodebench.github.io/leaderboard.html), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
@@ -240,8 +240,24 @@
 * [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
 * [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - VLM Benchmark Leaderboard Aggregator
+* [LMArena Vision](https://lmarena.ai/leaderboard/vision) - Vision Model Leaderboard / Benchmarks
+* [LMArena Text-to-Image](https://lmarena.ai/leaderboard/text-to-image) - Text-to-Image Leaderboard / Benchmarks
+* [Imgsys](https://imgsys.org/rankings) - Text-to-Image Leaderboard / Benchmarks
+* [VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard) - Video Generation Model Leaderboard
+* [LMArena Search](https://lmarena.ai/leaderboard/search) - Search Models Leaderboard / Benchmarks
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
 * [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
+
+***
+
+## ▷ AI Coding Benchmarks
+
+* [WebDev Arena](https://web.lmarena.ai/) - Web Development AI Leaderboard / Benchmarks
+* [LiveSWEBench](https://liveswebench.ai/) - Software Engineering Benchmarks / Leaderboards
+* [SWE-Bench](https://www.swebench.com/) - Software Engineering Evaluation Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench)
+* [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - Multi-Task SWE Benchmark / Leaderboard / [GitHub](https://github.com/multi-swe-bench/multi-swe-bench)
+* [LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Code Completion / Repair Benchmarks / Leaderboards
+* [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Code-Oriented LLM Leaderboard / Benchmarks / [GitHub](https://github.com/paul-gauthier/aider)
 
 ***
 
