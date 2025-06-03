@@ -6,7 +6,6 @@
 
 # ► Dev Communities
 
-* 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** - Developer Forum
 * ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum / [Discord](https://discord.com/invite/e4v8qtkcBw)
 * [CodeProject](https://www.codeproject.com/) - Developer Forum

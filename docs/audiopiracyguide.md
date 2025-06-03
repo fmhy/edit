@@ -49,11 +49,10 @@
 * [zvu4no](https://zvu4no.org/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [Saavn Web](https://saavn-web-ui.vercel.app/) - Browser Music / [GitHub](https://github.com/wiz64/saavn-web-ui)
-* [musify](https://musify.club/) - Browser Music
 * [ArtistGrid](https://artistgrid.cx/) - Browser Music / Unreleased Hip-Hop
-* [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip Hop
-* [DatPiff](https://datpiff.com/) - Hip Hop / Mixtapes
-* [MixtapeMonkey](https://mixtapemonkey.com/) - Hip Hop / Mixtapes / [Discord](https://discord.gg/4Vsb73fQgd)
+* [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip-Hop
+* [DatPiff](https://datpiff.com/) - Hip-Hop / Mixtapes
+* [MixtapeMonkey](https://mixtapemonkey.com/) - Hip-Hop / Mixtapes / [Discord](https://discord.gg/4Vsb73fQgd)
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
@@ -192,7 +191,6 @@
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
-* [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [Di.fm](https://www.di.fm/) - Electronic Radio
 * [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
@@ -357,6 +355,7 @@
 
 ## ▷ Audio Ripping Sites
 
+* ⭐ **[DAB Music Player](https://dab.yeet.su/)** - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
@@ -422,7 +421,6 @@
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Frontend](https://artistgrid.netlify.app/) / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
-* ⭐ **[DAB Music Player](https://dab.yeet.su/)** - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download)
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
@@ -430,7 +428,6 @@
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
 * [punk.cat](https://punkcata.blogspot.com/) - 320kb / MP3
 * [SongsLover](https://songslover.li/) - 256kb / MP3
-* [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Archive.org](https://archive.org/details/audio) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
@@ -503,7 +500,6 @@
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
-* [EDMLiveSet](https://www.edmliveset.com/) - DJ Mixes / Livesets
 * [oVPN DJ Mixes](https://rentry.co/FMHYBase64#ovpn-dj-mixes) - DJ Mixes
 * [LOA2K](https://loa2k.neocities.org/) or [Nu Guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
 * [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
@@ -523,7 +519,7 @@
 * [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
-* [Yedits](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits) / [Subreddit](https://www.reddit.com/r/Yedits/)
+* [Yedits](https://yedits.net/) - Hip-Hop / Ye Remixes / [Discord](https://discord.com/invite/yedits) / [Subreddit](https://www.reddit.com/r/Yedits/)
 * [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
@@ -915,7 +911,7 @@
 * [Tonecraft](https://dinahmoelabs.com/tonecraft) - 3D Song Creator
 * [WebSynths](https://www.websynths.com/) or [Wavepad](https://alexgibson.github.io/wavepad/) - Browser Synthesizers
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
-* [StarrynetsPiano](https://piano.starrynets.com/) or [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
+* [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [VO Pads](https://vo.odgn.net/) - Video Sample Sequencer
 * [React Guitar](https://react-guitar.com/) - Virtual Guitar

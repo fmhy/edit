@@ -10,7 +10,7 @@
 
 ***
 
-* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Sign-Up Required
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
@@ -23,7 +23,6 @@
 * [rutor.info](https://rutor.org/), [2](https://rutor.is/), [3](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Sign-Up Required
-* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/), [2](https://proxy.zeronet.dev/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
 
 ***
 
@@ -44,8 +43,8 @@
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
-* [FileMood](https://filemood.com/)
 * [iDope](https://idope.se/)
+* [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [PiratesParadise](https://piratesparadise.org/)
 * [snowfl](https://snowfl.com/)
@@ -85,7 +84,7 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)**
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
