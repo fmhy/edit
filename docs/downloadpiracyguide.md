@@ -127,6 +127,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/)**
 * ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
+* ⭐ **[Adobe Quickguide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
@@ -137,7 +138,6 @@
 * [Libreware](https://t.me/Libreware) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
-* [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Patcher
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
 ***
