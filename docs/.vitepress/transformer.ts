@@ -224,7 +224,7 @@ export function transform(text: string): string {
   _text = replaceUnderscore(_text)
     .replace(/\/#(\d)/g, '/#_$1') // Prefix headings starting with numbers
     .replace(/#(\d)/g, '#_$1') // Prefix headings starting with numbers
-    .replace(/\/#/g, '#')
+    .replace(/(\]\(\s*)\/\s*(\#[^)\s]*?\s*\))/g, '$1$2')
     .replace(/\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n/gm, '')
     .replace(/# ►/g, '##')
@@ -283,6 +283,12 @@ const transformLinks = (text: string): string =>
         find: /\[GitLab\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
+      },
+      {
+        name: 'Source Code',
+        find: /\[Source Code\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><div alt="Source Code" class="i-gravity-ui:code" /></a>'
       },
       {
         name: 'Telegram',
