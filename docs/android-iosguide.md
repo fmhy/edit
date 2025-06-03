@@ -27,6 +27,7 @@
 * [9Mod](https://9mod.com/)
 * [A2Z APK](https://a2zapk.io/) / [Telegram](https://t.me/a2zapkofficial)
 * [HappyMod](https://happymod.com/)
+* [ModsManiac](https://modsmaniac.com/) [Telegram](https://t.me/ModsManiacDOTCOM)
 * [APK4Free](https://apk4free.net/) / [Telegram](https://t.me/apk4free_net)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/)
