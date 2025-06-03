@@ -19,7 +19,7 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[Adobe Quickguide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
@@ -230,7 +230,7 @@
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
 * ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / [GitHub](https://github.com/ImageOptim/gifski)
 * ⭐ **[EZGif](https://ezgif.com/)**, [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
-* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
+* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
@@ -345,7 +345,6 @@
 
 ## ▷ Free Assets
 
-* [UnliPresets](https://www.unlipresets.com/)
 * [Gumroad](https://gumroad.com/) (Enter $0)
 * [psdkeys](https://psdkeys.com/)
 * [AvaxGFX](https://avxgfx.com/)
@@ -530,7 +529,7 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
+* [Sketchfab](https://sketchfab.com/), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models), [blendswap](https://www.blendswap.com/) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
@@ -883,4 +882,4 @@
 
 ***
 
-## ▷ [Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_camera_tools)
+## ▷ [Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_camera_.2F_Image_tools)

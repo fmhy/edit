@@ -35,7 +35,6 @@
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
 * [Electron Hub](https://www.electronhub.top/) - Deepseek-R1 / o3-Mini-High / Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
-* [NexusAI](https://www.nexusmind.tech/) - GPT-4o / Deepseek-R1 / o3-Mini-High / 300 Daily [Discord](https://discord.com/invite/sk8eddGwmP)
 * [NVIDIA NIM](https://build.nvidia.com/) - Deepseek-R1 / Multiple Chatbots / No Sign-Up
 * [OIChat](https://oi.wr.do/) - Gemini-2.5-Pro-Exp / DeepSeek R1 / Qwen QwQ-32B / DeepSeek-V3-0324 / Multiple Chatbots
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot
@@ -86,7 +85,6 @@
 * ⭐ **[Open WebUI](https://openwebui.com/)** - Self-Hosted Interface / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Hosted Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4) / [GitHub](https://github.com/pinokiocomputer/pinokio)
 * ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
@@ -105,7 +103,6 @@
 ## ▷ Roleplaying Chatbots
 
 * 🌐 **[Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
-* 🌐 **[BestERP](https://besterp.ai/)** - Roleplaying LLM Lists
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Character.AI](https://character.ai/)** - Roleplaying Chatbots / [Extract](https://rentry.org/reverseCAI) / [Discord](https://discord.com/invite/characterai) / [Subreddit](https://www.reddit.com/r/CharacterAI/)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
@@ -295,7 +292,7 @@
 
 # ► Image Generation
 
-* ⭐ **[Chatbot Arena](https://lmarena.ai)** - Multiple Generators / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[LMArena](https://lmarena.ai)** - Multiple Generators / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen 4 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** or [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Sign-Up

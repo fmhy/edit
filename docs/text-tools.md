@@ -11,8 +11,10 @@
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [SmartDoc](https://killytoronto.github.io/textanalyzer/) - Document Analyzer
+* [Pandoc](https://pandoc.org/) - Document Converter
 * [diffr](https://loilo.github.io/diffr/), [Diffchecker](https://www.diffchecker.com/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/), [OnlineTextCompare](https://onlinetextcompare.com/), [CompareText](https://www.comparetext.io/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text from Any Window
@@ -150,16 +152,6 @@
 * [EditGPT](https://www.editgpt.app/) - Sign-Up Required
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up Required
 * [Outwrite](https://www.outwrite.com/) - Sign-Up Required
-
-***
-
-## ▷ Text Rephrasing
-
-* ⭐ **[QuillBot AI](https://quillbot.com/)** or [Rewritify](https://www.rewritify.com/) - AI-Enhanced Text Rephrasing
-* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing / Generation
-* ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
-* [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
-* [Paraphrase-Online](https://paraphrase-online.com/), [Paraphrasingtool](https://paraphrasingtool.ai/), [Henshu](https://www.henshu.ai/) or [WriteFull](https://www.writefull.com/) - Versatile Text Rewriting
 
 ***
 
@@ -496,6 +488,7 @@
 * [DFonts](https://www.dfonts.org/)
 * [Font Spring](https://www.fontspring.com/free)
 * [FFonts](https://www.ffonts.net/)
+* [⁠DaFontFree](https://www.dafontfree.co/)
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)

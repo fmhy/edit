@@ -66,33 +66,19 @@
 
 ## ▷ File Converters
 
-* 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
-* [Pandoc](https://pandoc.org/) - Document Converter
+* ⭐ **[Aconvert](https://www.aconvert.com/)** - Various Converters / 40MB
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
-* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1GB
-* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1GB
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
-* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100MB
 * [MiConv](https://miconv.com/) - File Converter / 75MB
-* [Converter 365](https://www.converter365.com/) - File Converters / 200MB
-* [Aconvert](https://www.aconvert.com/) - Various Converters / 40MB
-* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250MB
-* [Online Convert](https://www.online-convert.com/) - Online File Converter
-* [Zamzar](https://www.zamzar.com/) - File Converter / 200MB
-* [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
-* [Convert Town](https://convert.town/) - Online Text / Image Converter
-* [Docspal](https://www.docspal.com/) - Various Converters / 50MB Image, Documents / 200MB Video, Archive, Audio
-* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10MB
-* [go4convert](https://go4convert.com/) - Online Document Converter / 100MB
 
 ***
 
@@ -100,7 +86,7 @@
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
 * ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
-* [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
+* [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / Windows, Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
@@ -340,7 +326,7 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
-* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days After Last Download
+* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
@@ -380,7 +366,7 @@
 * [Clicknupload](https://clicknupload.co/), [2](https://clicknupload.click) - 10GB / 8 Days / Account Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 3 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
-* [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
+* [MultiUp.io](https://multiup.io/) / [Discord](https://discord.gg/2yUEQPxTTU) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 
@@ -446,7 +432,7 @@
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
-* [gdurl](https://gdurl.com/), [GDrive Link Generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on Google Drive
+* [gdurl](https://gdurl.com/), [GDrive Link Generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic](https://github.com/CloudflareHackers/GDriveWebAppPublic) - GDrive Link Generators / Host Direct Links 
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive

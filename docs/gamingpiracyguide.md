@@ -68,6 +68,7 @@
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames)
+* [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Signup Required / [Discord](https://discord.gg/wfJs3eJvHa)
 * [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games
@@ -164,7 +165,7 @@
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -213,9 +214,9 @@
 
 ## ▷ Emulators
 
-* 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](https://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/), [EmuWiki](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Emulators.Emulators&lng=en) or [EmuCR](https://www.emucr.com/) - Download Emulators
+* 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](https://www.planetemu.net/), [EmuWiki](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Emulators.Emulators&lng=en) or [EmuCR](https://www.emucr.com/) - Download Emulators
 * 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators with Multiple Consoles
-* 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
+* 🌐 **[RedSquirrel Project List](https://redsquirrel87.com/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
@@ -352,7 +353,7 @@
 
 ## ▷ Sony ROMs
 
-* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSP
+* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
@@ -376,7 +377,7 @@
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
 * [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [WePlayDOS](https://weplaydos.games/), [DOSBox](https://www.dosbox.com/), [MSDOSGames](https://msdosgames.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
+* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/), [WePlayDOS](https://weplaydos.games/), [DOSBox](https://www.dosbox.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulators
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
@@ -417,6 +418,7 @@
 
 ## ▷ Rubiks Cube
 
+* 🌐 **[cubing.net](https://www.cubing.net/)** - Cubing Tools
 * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
@@ -485,13 +487,14 @@
 
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Mac
-* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
+* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [Tetris](https://tetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
 * [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) - Snake Style Games
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
@@ -536,6 +539,7 @@
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
+* [Nitrome](https://www.nitrome.com/) - Browser Games
 * [Browser Craft](https://browsercraft.com/) - Indie Browser Games
 * [RG Games](https://www.rgshows.me/games/) - Browser Games / [Discord](https://discord.gg/e34HMTgyEy)
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
@@ -584,7 +588,7 @@
 
 ## ▷ Party / Multiplayer
 
-* ⭐ **[TETR.IO](https://tetr.io/)** - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tetrio.team2xh.net/)
+* ⭐ **[TETR.IO](https://tetr.io/)** - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tsbeta.dan63.by/)
 * ⭐ **[Eaglercraft](https://eaglercraft.com/)**, [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eaglercraft-note) / [Site List](https://deev.is/)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
@@ -658,9 +662,9 @@
 * [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale
 * [Gats.io](https://gats.io/) - Top-Down Battle Royale / [Discord](https://discord.gg/8Tspptdupm)
-* [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game
+* [MK48](https://mk48.io/) - Ship Combat Game / [Discord](https://discord.com/invite/YMheuFQWTX) / [GitHub](https://github.com/SoftbearStudios/mk48)
 * [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
 * [webXash](https://x8bitrain.github.io/webXash/) - Half Life Demo
 
@@ -716,9 +720,6 @@
 ## ▷ Board / Card / Dice
 
 * 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
-* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)** - Board Game Index
-* 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
-* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games

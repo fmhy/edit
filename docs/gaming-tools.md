@@ -42,7 +42,7 @@
 ## ▷ Game Launchers
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
-* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
+* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** (closed source) / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
 * [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
@@ -124,7 +124,7 @@
 * [SMods](https://catalogue.smods.ru/) - Game Mods
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
-* [⁠GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
+* [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods
@@ -289,7 +289,7 @@
 
 ## ▷ DLC Unlock / DRM Bypass
 
-* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://github.com/Warwolfer/auto-creamapi-2)
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Offline Steam DRM Bypass / DLC Unlocker / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
@@ -480,7 +480,7 @@
 
 ## ▷ Playstation Homebrew
 
-* 🌐 **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* 🌐 **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -491,6 +491,9 @@
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
+* [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord 
+* [⁠/r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
+* [PSBBN Patch](https://rentry.co/FMHYBase64#psbbn-definitive-english-patch) - PSBBN Definitive English Patch
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits

@@ -124,9 +124,10 @@
 * ↪️ **[Windows ISOs / Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)**
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
-* ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
+* ⭐ **[Mobilism](https://forum.mobilism.org/)**
 * ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
+* ⭐ **[Adobe Quickguide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
@@ -209,7 +210,7 @@
 
 # ► Usenet
 
-* 🌐 **[Usenet Tools / Services](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
+* 🌐 **[UsenetTools](http://www.usenettools.net/)**
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/) / [6](https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130)
 * [/r/usenet](https://reddit.com/r/usenet)
 * [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders), [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) - Usenet Uploaders
