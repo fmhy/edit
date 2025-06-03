@@ -422,7 +422,7 @@
 * [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
-* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Managers
+* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
@@ -1149,7 +1149,6 @@
 * ⭐ **[Signal](https://signal.org/)** - Encrypted Messaging / [GitHub](https://github.com/signalapp/Signal-iOS)
 * ⭐ **[SimpleX](https://apps.apple.com/app/id1605771084)** - Encrypted Messaging / [GitHub](https://github.com/simplex-chat/simplex-chat)
 * [Session](https://getsession.org/) - Encrypted Messaging
-* [Olvid](https://olvid.io/en/) - Encrypted Messaging
 * [Damus](https://damus.io/) - Encrypted Messaging
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Brave](https://apps.apple.com/app/id1052879175) or [Firefox Focus](https://apps.apple.com/app/id1055677337) - Privacy-Focused Browsers
