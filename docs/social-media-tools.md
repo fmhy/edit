@@ -621,6 +621,7 @@
 * [Unfollow-Everyone](https://github.com/tlorien/Unfollow-Everyone-on-Instagram) - Bulk Instagram Unfollow
 * [InstagramUnfollowers](https://davidarroyo1234.github.io/InstagramUnfollowers/) - Check Who Follows Back / [GitHub](https://github.com/davidarroyo1234/InstagramUnfollowers)
 * [Instagram Experiments Guide](https://github.com/daniiii5/Public-Guide)
+* [Wave Instagram Outreach](https://www.usewave.co) - Automate Instagram outreach to find leads, send DMs, and get clients
 
 ***
 
