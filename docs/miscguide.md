@@ -754,6 +754,7 @@
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [Resume Builder](https://resume.haveloc.com/)
 * [ResumeMatcher](https://www.resumematcher.fyi/)
+* [⁠HeyCV](https://heycv.app/)
 * [resumonk](https://www.resumonk.com/)
 * [Resuminator](https://www.resuminator.in/)
 * [flowcv](https://flowcv.com/)
@@ -1349,6 +1350,7 @@
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
+* [Odyssey](https://experience.odyssey.world/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids

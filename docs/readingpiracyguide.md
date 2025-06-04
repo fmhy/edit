@@ -274,7 +274,7 @@
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
-* [Cubari](https://cubari.moe/) - Image Proxy / Reader
+* [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services

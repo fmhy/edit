@@ -43,7 +43,6 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
 * [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
-* [Baidu Chat](https://chat.baidu.com/) - Baidu's Chatbot / Phone # Required
 * [MiniMax AI](https://chat.minimax.io/) - Deepseek-R1 / MiniMax-Text-01 Chatbot w/ Large Token Context Window / [GitHub](https://github.com/MiniMax-AI/MiniMax-01)
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
@@ -284,6 +283,7 @@
 * [Hailuo AI](https://hailuoai.video/) - 3 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 * [Vivago](https://vivago.ai/) - 1 Daily
+* [Runway.exo](https://runway.exomlapi.com/) - 1 Hourly / ExoML Watermark
 * [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Sign-Up & Phone # / SMS Generators Work
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
@@ -293,7 +293,7 @@
 # ► Image Generation
 
 * ⭐ **[LMArena](https://lmarena.ai)** - Multiple Generators / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen 4 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen 3 / Imagen 4 (gemini) / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** or [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Sign-Up
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** / Unlimited
@@ -312,10 +312,12 @@
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Sign-Up / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations)
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [Imagen.exo](https://imagen.exomlapi.com/) / Unlimited / Imagen 3/3.5 
 * [Leonardo](https://leonardo.ai/) / 150 Daily
 * [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [ChatGLM](https://chatglm.cn/) / Unlimited
 * [Meta AI](https://www.meta.ai/icebreakers/imagine/) / Unlimited
+* [GPT1Image](https://gpt1image.exomlapi.com/) -  Unlimited / GPT-Image-1
 * [Playground](https://playground.com/) / 15 Per 3 Hours
 * [TensorArt](https://tensor.art/) / 40 Daily / [Subreddit](https://www.reddit.com/r/TensorArt_HUB/) / [Discord](https://discord.com/invite/qYjANGqBED)
 * [Shakker](https://www.shakker.ai/) / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
@@ -397,7 +399,7 @@
 # ► Audio Generation
 
 * ⭐ **[Riffusion](https://www.riffusion.com/)** / [Discord](https://discord.gg/riffusion-1053034685590143047)
-* ⭐ **[Suno](https://suno.com/)** / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
+* ⭐ **[Suno](https://suno.com/)** or [Suno.exo](https://suno.exomlapi.com/) / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
 * [MusicFX](https://labs.google/fx/tools/music-fx) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)

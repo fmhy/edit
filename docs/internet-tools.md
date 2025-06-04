@@ -9,7 +9,7 @@
 * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
-* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+* [Namechk](https://namechk.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Errors
 
@@ -108,7 +108,7 @@
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Stinto](https://stinto.chat/en), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Account Required Chats
-* ⭐ **[Gajim](https://gajim.org/)**, [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
+* ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
 * [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
@@ -574,7 +574,6 @@
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test / Firefox Broken
-* [Browserling](https://www.browserling.com/) - Browser Emulators
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme

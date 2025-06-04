@@ -185,36 +185,6 @@
 
 ***
 
-## Encrypted Android Messengers
-
-* ⭐ **[SimpleX](https://simplex.chat/)**
-* ⭐ **[Signal](https://signal.org/#signal)** or **[Mollyim](https://github.com/mollyim/mollyim-android)**
-* ⭐ **[Briar](https://briarproject.org/)**
-
-[Status](https://status.app/), [Olvid](https://olvid.io/en/), [OpenKeychain](https://www.openkeychain.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
-
-**Video / Text**
-
-[Jami](https://jami.net/), [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app)
-
-***
-
-## Encrypted Messengers
-
-* ⭐ **[Matrix](https://matrix.org/)** / [Moderation Bot](https://github.com/matrix-org/mjolnir)
-* ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
-* [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/), [Fluffy](https://fluffychat.im) or [Element](https://element.io/) / [GitHub](https://github.com/element-hq) - Matrix Clients
-
-[Cwtch](https://docs.cwtch.im/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/en/homepage-linphone/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en), [Olvid](https://olvid.io/en/)
-
-### Matrix Home Servers
-
-* ⭐ **[List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)**, [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
-
-[Conduit](https://gitlab.com/famedly/conduit), [Public Matrix Homeservers](https://joinmatrix.org/servers/), [Public Matrix Homeservers Archive](https://archive.md/4xZE4), [Public Servers](https://wiki.asra.gr/en:public_servers)
-
-***
-
 ## Encrypted XMPP Servers
 
 [Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [404.city](https://404.city/)
@@ -603,7 +573,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[The Retro Saga](https://weplayretro.games/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/), [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/), [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en)
+[The Retro Saga](https://weplayretro.games/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/), [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/), [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en), [ROM.so](https://rom.so/)
 
 ***
 

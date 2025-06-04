@@ -17,9 +17,9 @@
 * ⭐ **[Bludclart](https://watch.bludclart.com/)** or [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/nAQxPUs4)
 * ⭐ **[FlickyStream](https://flickystream.net)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
-* ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
-* ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/KAtZhA6r)
 * ⭐ **[Cinemaos](https://cinemaos.live/)**, [2](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / Auto-Next / Watch Parties
+* ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/KAtZhA6r)
+* ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * [Rive](https://rivestream.org/), [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [1Shows](https://www.1shows.live/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / Watch Parties / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
@@ -32,7 +32,7 @@
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * [HydraHD](https://hydrahd.sh/) - Movies / TV / Anime / [Status](https://hydrahd.info/)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
-* [PopcornMovies](https://popcornmovies.to/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
+* [PopcornMovies](https://popcornmovies.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
 * [Vidjoy](https://vidjoy.pro/) - Movies / TV / Anime / Auto-Next
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Maxflix](https://maxflix.top/) - Movies / TV / Anime
@@ -174,6 +174,7 @@
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
+* [⁠Gojo](https://gojo.live/) - Sub / Dub 
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub / [Discord](https://discord.com/invite/SkxhVzTV)
 * [Lucifer Donghua](https://luciferdonghua.in/) - Donghua / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
 * [Anoboye](https://anoboye.com/) - Donghua / Sub
@@ -404,6 +405,7 @@
 * 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Importable Sports Calendars
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/) / [Discord](https://discord.gg/streamed)
+* ⭐ **[Sport7](https://sport7.pro/)** / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/dczuxPha)
 * ⭐ **[RBTV77](https://www.rbtv77.kaufen/)**
 * ⭐ **[StreamEast](https://www.streameast.sk/v8/)** / [Mirrors](https://gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)** or [Sport-TV](https://sport-tv.live/)
