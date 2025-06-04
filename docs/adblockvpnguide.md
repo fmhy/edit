@@ -258,7 +258,7 @@
 
 ## ▷ Encrypted Messengers
 
-* ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
+* ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU), [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ⭐ **[SimpleX](https://simplex.chat/)** - No-ID / Decentralized / Metadata Protection / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** or **[Molly](https://github.com/mollyim/mollyim-android)** - Requires Phone / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/signalapp)
@@ -272,7 +272,7 @@
 * [Speek](https://speek.network/) - P2P over Tor / Aut-Delete Messages / Windows / Mac / Linux / Android / [GitHub](https://github.com/Speek-App/Speek)
 * [Ricochet Refresh](https://www.ricochetrefresh.net/) - P2P over Tor / Metadata Protection / Windows / Mac / Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
 * [Cwtch](https://cwtch.im/) - Decentralized P2P over Tor v3 / Metadata Protection / Windows / Mac / Linux / Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
-* [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - P2P / Distributed / No Central Servers / FreeBSD / Windows / Mac / Linux / Android / iOS / 
+* [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - P2P / Distributed / No Central Servers / FreeBSD / Windows / Mac / Linux / Android / iOS
 * [Status](https://status.app/) - Web3 Messenger / Decentralized / Android / iOS / [GitHub](https://github.com/status-im)
 * [Linphone](https://www.linphone.org/) - SIP-based / Windows / Mac / Linux / Android / iOS / [GitLab](https://gitlab.linphone.org/explore/projects)
 * [Databag](https://github.com/balzack/databag) - Self-hosted / Federated / Web / Android / iOS / [GitHub](https://github.com/balzack/databag)
