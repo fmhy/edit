@@ -34,6 +34,7 @@
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [sourcehut](https://sr.ht/) - Public Project Index
+* [Automation Tools Directory](https://www.automationtools.directory/) - Handpicked Automation Tools to Boost Your Productivity
 
 ***
 
