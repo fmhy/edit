@@ -269,19 +269,13 @@
 * [Keybase](https://keybase.io/) - Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/keybase/client)
 * [Jami](https://jami.net/) - Windows / Mac / Linux / Android / iOS / AndroidTV / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
 * [Berty](https://berty.tech/) - Android / iOS / [GitHub](https://github.com/berty/berty)
-* [Speek](https://speek.network/) - Windows / Mac / Linux / Android / [GitHub](https://github.com/Speek-App/Speek)
 * [Ricochet Refresh](https://www.ricochetrefresh.net/) - Windows / Mac / Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
 * [Cwtch](https://cwtch.im/) - Windows / Mac / Linux / Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
 * [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - FreeBSD / Windows / Mac / Linux / Android / iOS
 * [Status](https://status.app/) - Android / iOS / [GitHub](https://github.com/status-im)
 * [Linphone](https://www.linphone.org/) - Windows / Mac / Linux / Android / iOS / [GitLab](https://gitlab.linphone.org/explore/projects)
 * [Databag](https://github.com/balzack/databag) - Self-hosted / Web / Android / iOS / [GitHub](https://github.com/balzack/databag)
-* [NewNode](https://newnode.com/) - Works Offline / Requires Phone / Android / iOS
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) - iOS
-* [Teleguard](https://teleguard.com/en) - Swiss Servers / Android / iOS
-* [Retroshare](https://retroshare.cc/) - Windows / Mac / Linux / Android / [GitHub](https://github.com/RetroShare/RetroShare)
-* [BiP](https://bip.com/en/) - TLS Encryption / Requires Phone / Android / iOS / Web
-* [Confide](https://getconfide.com/) - Self-Destructing & Screenshot-Proof Messages / Windows / Mac / Android / iOS
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
 ***

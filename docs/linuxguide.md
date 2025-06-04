@@ -488,7 +488,7 @@
 
 ## ▷ Desktop Environment
 
-* [Desktop Environment Comparison](https://eylenburg.github.io/linux_comparison.htm)
+* [Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extension Manager
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
