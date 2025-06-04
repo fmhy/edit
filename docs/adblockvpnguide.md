@@ -339,7 +339,6 @@
 * [YaCy](https://yacy.net/) - Decentralized / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Uses Google / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [Brave Search](https://search.brave.com/) - Private Search
-* [ekoru](https://ekoru.org/) - Uses Bing
 * [Gibiru](https://gibiru.com/) - Uses Google
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted / [GitHub](https://github.com/searxng/searxng)
 
