@@ -388,6 +388,7 @@
 * [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
 * [rNote](https://rnote.flxzt.net/) - Annotation Tool / [GitHub](https://github.com/flxzt/rnote)
 * [MonsterWriter](https://www.monsterwriter.com/) - Thesis Writing / Note-Taking
+* [Plooma](https://www.plooma.ink) - Plooma is a writing platform to plan, write, and shape books your way.
 
 ***
 
