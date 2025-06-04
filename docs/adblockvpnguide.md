@@ -201,7 +201,9 @@
 
 * 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**
+
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
+
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
@@ -257,6 +259,32 @@
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
+
+***
+
+## Encrypted Messengers
+
+* ⭐ **[SimpleX](https://simplex.chat/)** - No-ID / Decentralized / Metadata Protection / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/simplex-chat)
+* ⭐ **[Signal](https://signal.org/)** or **[Molly](https://github.com/mollyim/mollyim-android)** - Requires Phone / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/signalapp)
+* ⭐ **[Briar](https://briarproject.org/)** - P2P / Works w/ Bluetooth + Wi-Fi / Tor integration / Android / [GitLab](https://code.briarproject.org/briar/briar)
+* [Matrix](https://matrix.org/) / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Clients / Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
+* [Wire](https://wire.com/en/download/) - Requires Phone / Web / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/wireapp)
+* [Session](https://getsession.org/) - Onion-routed / Decentralized / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/session-foundation)
+* [Keybase](https://keybase.io/) - Integrates PGP + Identity Verification / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/keybase/client)
+* [Jami](https://jami.net/) - No Central Server / SIP support / Windows / Mac / Linux / Android / iOS / AndroidTV / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
+* [Berty](https://berty.tech/) - P2P / Offline Messaging / Metadata Protection / Android / iOS / [GitHub](https://github.com/berty/berty)
+* [Speek](https://speek.network/) - P2P over Tor / Aut-Delete Messages / Windows / Mac / Linux / Android / [GitHub](https://github.com/Speek-App/Speek)
+* [Ricochet Refresh](https://www.ricochetrefresh.net/) - P2P over Tor / Metadata Protection / Windows / Mac / Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
+* [Cwtch](https://cwtch.im/) - Decentralized P2P over Tor v3 / Metadata Protection / Windows / Mac / Linux / Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
+* [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - P2P / Distributed / No Central Servers / FreeBSD / Windows / Mac / Linux / Android / iOS / 
+* [Status](https://status.app/) - Web3 Messenger / Decentralized / Android / iOS / [GitHub](https://github.com/status-im)
+* [Linphone](https://www.linphone.org/) - SIP-based / Windows / Mac / Linux / Android / iOS / [GitLab](https://gitlab.linphone.org/explore/projects)
+* [Databag](https://github.com/balzack/databag) - Self-hosted / Federated / Web / Android / iOS / [GitHub](https://github.com/balzack/databag)
+* [NewNode](https://newnode.com/) - Works Offline / Requires Phone / Android / iOS
+* [Teleguard](https://teleguard.com/en) - Swiss Servers / Android / iOS
+* [Retroshare](https://retroshare.cc/) - Decentralized F2F / Tor / I2P / Windows / Mac / Linux / Android / [GitHub](https://github.com/RetroShare/RetroShare)
+* [BiP](https://bip.com/en/) - TLS Encryption / Requires Phone / Android / iOS / Web
+* [Confide](https://getconfide.com/) - Self-Destructing & Screenshot-Proof Messages / Windows / Mac / Android / iOS
 
 ***
 
