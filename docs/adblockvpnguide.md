@@ -262,7 +262,7 @@
 
 ***
 
-## Encrypted Messengers
+## ▷ Encrypted Messengers
 
 * ⭐ **[SimpleX](https://simplex.chat/)** - No-ID / Decentralized / Metadata Protection / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** or **[Molly](https://github.com/mollyim/mollyim-android)** - Requires Phone / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/signalapp)
