@@ -340,6 +340,7 @@
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
 * [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
+* [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink (`frdl.*`)'s timer. **Note: You still need to bypass Cloudflare captcha by yourself. This only bypasses timer on single download. You may still need to wait normal time to download another file which is enforced from server-side.**
 
 ***
 
