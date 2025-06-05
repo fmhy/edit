@@ -2,7 +2,7 @@
 
 ***
 **Table of Contents**
-[TOC2]
+[TOC2].
 
 ***
 
