@@ -877,9 +877,9 @@
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [HealthyMinds](https://hminnovations.org/meditation-app) - Meditation / Sleep Sounds
-* [Tide.fm](https://tide-api.moreless.io/v1/redirect/download?platform=android) - Meditation / Sleep Sounds
 * [Serenity](https://github.com/YajanaRao/Serenity) - Meditation / Sleep Sounds
 * [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
+* [Tide.fm](https://tide-api.moreless.io/v1/redirect/download?platform=android) - Meditation / Sleep Sounds / Number Required
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise) - Background Noises & Interactive Soundscapes
 * [ZenTimer](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2) - Insight Timer
 * [Lo-fi Clouds Radio](https://www.lofi-clouds.com/) - Lo-fi Radio
@@ -1254,7 +1254,6 @@
 
 * ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
-* [A Soft Murmur](https://apps.apple.com/app/id1175522255) - Mix Ambient Sounds
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
 * [Insight Timer](https://apps.apple.com/app/id337472899) - Meditation / Sleep Sounds
 
