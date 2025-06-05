@@ -1057,7 +1057,7 @@
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [wttr](https://wttr.in/) - Simple Weather Site / [GitHub](https://github.com/chubin/wttr.in)
 * [Free-lookup](https://free-lookup.net/) - Phone Number Lookup
-* [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
+* [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculator
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
