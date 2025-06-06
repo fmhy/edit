@@ -140,7 +140,7 @@
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
-* [Epicurious](https://www.epicurious.com/) - Recipe Search
+* [Epicurious](https://www.epicurious.com/) - Recipe Search / Index
 * [based.cooking](https://based.cooking/) or [PublicDomainRecipes](https://publicdomainrecipes.com/) / [GitHub](https://github.com/ronaldl29/public-domain-recipes) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
@@ -297,18 +297,16 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Organic Maps](https://organicmaps.app/)**, **[OsmAnd](https://osmand.net/)** or [Magic Earth](https://www.magicearth.com/) - Mobile Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
-* ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Bing Maps](https://www.bing.com/maps), [Mapy](https://en.mapy.cz/), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) or [Apple Maps](https://beta.maps.apple.com/) - Online / Offline Maps
+* ⭐ **[Comaps](https://www.comaps.app/)** or [Organic Maps](https://organicmaps.app/) - Offline Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
+* [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
-* [Bing Maps](https://www.bing.com/maps) - Online Maps
-* [Apple Maps](https://beta.maps.apple.com/) - Online Maps
-* [Mapy](https://en.mapy.cz/) - Online Maps / [Mobile](https://en.mapy.cz/mobilepromo)
-* [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
-* [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Routes
+* [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
+* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
-* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
+* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 
 ***
@@ -319,7 +317,6 @@
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
-* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
 * [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
 * [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
@@ -507,6 +504,7 @@
 * [TechURLs](https://techurls.com/) - Tech News
 * [Techmeme](https://www.techmeme.com/) - Tech News
 * [The Brutalist Report](https://brutalist.report/) - Tech News
+* [⁠GamerNexus](https://gamersnexus.net/) - PC Gaming News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
@@ -943,6 +941,7 @@
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
@@ -1070,6 +1069,7 @@
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Diffchecker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
+* [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Training Resources / [Discord](https://discord.gg/8weEXE7RzU)
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
@@ -1202,9 +1202,10 @@
 
 ## ▷ Image / Video
 
-* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
+* ↪️ **[Art / Illustations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_art_.2F_illustrations)**
 * ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
 * ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_meme_tools)**
+* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)

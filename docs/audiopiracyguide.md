@@ -318,6 +318,7 @@
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
+* [⁠PlayLost](http://playlost.fm/) - Find Similar Playlists
 
 ***
 
@@ -659,7 +660,8 @@
 * 🌐 **[Awesome Last.fm](https://github.com/jnguyen1098/awesome-lastfm)** - Last.fm Tool Index
 * ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything / [Discord](https://discord.gg/SEDp6Zy) / [GitHub](https://github.com/elamperti/openwebscrobbler)
 * ⭐ **[Last.fm Stats](https://lastfmstats.com/)** - In-Depth Last.fm Stats / [GitHub](https://github.com/felhag/lastfm-stats-web)
-* [Web Scrobbler](https://web-scrobbler.com/) - Scrobble Any Site
+* [⁠bleh](https://katelyn.moe/bleh/) - Last.fm Customization Script / [GitHub](https://github.com/katelyynn/bleh)
+* [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble Any Site
 * [Edit Scrobbles](https://greasyfork.org/en/scripts/485278) - Manually Edit Scrobbles
 * [Last.fm Labs](https://www.last.fm/labs) - Last.fm Library Visualizers
 * [ChartMyMusic](https://www.chartmymusic.com/), [TapMusic](https://www.tapmusic.net/) or [MusicCoruMap](https://musicorumapp.com/generate) - Album Collages
@@ -713,8 +715,6 @@
 * [deadbeef](https://deadbeef.sourceforge.io/)
 * [Swing](https://swingmx.com/) / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
 * [Nora](https://github.com/Sandakan/Nora)
-* [Hyperchroma](https://hyperchroma.app/)
-* [Melodie](https://feugy.github.io/melodie/)
 * [Dopamine](https://digimezzo.github.io/site/)
 * [LedFx](https://www.ledfx.app/) - LED Music Sync
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices

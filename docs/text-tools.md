@@ -487,6 +487,7 @@
 * [FontsFree](https://fontsfree.net)
 * [DFonts](https://www.dfonts.org/)
 * [Font Spring](https://www.fontspring.com/free)
+* [⁠FontBolt](https://www.fontbolt.com/)
 * [FFonts](https://www.ffonts.net/)
 * [⁠DaFontFree](https://www.dafontfree.co/)
 * [FontsHub](https://fontshub.pro/)

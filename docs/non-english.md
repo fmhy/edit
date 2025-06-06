@@ -607,6 +607,7 @@
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
 * [WizdomSubs](https://wizdom.xyz/) or [Ktuvit](https://www.ktuvit.me/) - Subtitles
 * [TranslationsMovieHEB](https://t.me/translationsmoviesheb) - Request Subtitle Translations
+* [RedAlert](https://redalert.me/index_en.html) or [RocketAlert](https://rocketalert.live/) - Rocket Alerts
 
 ## ▷ Streaming / הזרמה
 

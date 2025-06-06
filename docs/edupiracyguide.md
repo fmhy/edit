@@ -496,6 +496,7 @@
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
 * [ESO Images](https://www.eso.org/public/images/), [NASA2Explore](https://www.flickr.com/photos/nasa2explore/) or [Astrobin](https://www.astrobin.com/search/) - Astronomy Images
 * [/r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [/r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
+* [RGV Aerial Photography](https://discord.gg/wsFxEw9g4X) - Aerial Photography Community / News
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts

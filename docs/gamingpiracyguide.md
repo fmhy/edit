@@ -152,6 +152,7 @@
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape from Tarkov Single Player Mod
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
+* [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civilization V Remake
 * [FreeCiv](https://www.freeciv.org/) - Civilization Remake / [GitHub](https://github.com/freeciv)
@@ -330,7 +331,7 @@
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [nsw2u](https://nswdl.com/) - ROMs / Switch
+* [nswdl](https://nswdl.com/) - ROMs / Switch
 * [NswRom](https://nswrom.com/) - ROMs / Switch
 * [ROMsHQ](https://romshq.com/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
@@ -446,7 +447,6 @@
 ## ▷ Crosswords
 
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
-* ⭐ **[Killer Crossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
 * [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
@@ -493,7 +493,7 @@
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* [Tetris](https://tetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
+* [Tetris](https://tetris.com/), [⁠LazyTetris](https://lazytetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
@@ -836,7 +836,7 @@
 * [English Sandwich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
-* [Metazooa](https://metazooa.com/) - Animal Guessing Game
+* [⁠WildGuesser](https://wildguesser.com/) or [Metazooa](https://metazooa.com/) - Animal Guessing Games
 * [Pufferdle](https://pufferdle.com/) - Fish Guessing Game
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/), [WhatTheHex](https://yizzle.com/whatthehex/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
