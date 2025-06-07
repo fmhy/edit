@@ -136,7 +136,7 @@
 
 * ⭐ **[RAWGraphs](https://app.rawgraphs.io/)** / [GitHub](https://github.com/rawgraphs/rawgraphs-app)
 * ⭐ **[Draw](https://www.drawio.com/)** / [GitHub](https://github.com/jgraph/drawio)
-* [Kroki](https://kroki.io/#try) - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli)
+* ⭐ **[Kroki](https://kroki.io/#try)** - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli)
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart from Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [Pie Chart Maker](https://piechartmaker.co/), [2](https://www.piechartmaker.me/) - Create Pie Charts
