@@ -43,6 +43,7 @@
     "@cloudflare/workers-types": "^4.20241230.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
     "@iconify-json/carbon": "^1.2.5",
+    "@iconify-json/fluent": "^1.2.23",
     "@iconify-json/fluent-mdl2": "^1.2.1",
     "@iconify-json/gravity-ui": "^1.2.5",
     "@iconify-json/heroicons-solid": "^1.2.0",

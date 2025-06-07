@@ -72,6 +72,9 @@ importers:
       '@iconify-json/carbon':
         specifier: ^1.2.5
         version: 1.2.5
+      '@iconify-json/fluent':
+        specifier: ^1.2.23
+        version: 1.2.23
       '@iconify-json/fluent-mdl2':
         specifier: ^1.2.1
         version: 1.2.1
@@ -1035,6 +1038,9 @@ packages:
 
   '@iconify-json/fluent-mdl2@1.2.1':
     resolution: {integrity: sha512-zFgd1V9r0a+mqA46Z4mOoSf6PbQbhYnY9Uhtpjl3xvw03doNolh4apMtsZoLlC/Y7wO2uj306MgziaqwWdNMwg==}
+
+  '@iconify-json/fluent@1.2.23':
+    resolution: {integrity: sha512-xSN0Qmg1YiHXhnF64+ghINT32SA8mNsoryjgG86jDmcmEePCdsx55Z4qNDnfzNGECfSx1M88h3y4DEA1og/oNg==}
 
   '@iconify-json/gravity-ui@1.2.5':
     resolution: {integrity: sha512-7uf4xG2ijmcte4AqPpzNTqnEBqxvHBKW/gI0VTZeP0nLtZSvoCybNt5QsJ7f/xyrIQDgCJ4usEmRaX7G86NueA==}
@@ -4822,6 +4828,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/fluent-mdl2@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fluent@1.2.23':
     dependencies:
       '@iconify/types': 2.0.0
 

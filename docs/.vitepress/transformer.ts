@@ -326,13 +326,13 @@ const transformLinks = (text: string): string =>
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Mac(?=,|[ \t]\/|$)/gm,
         replace:
           ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
-        },
+      },
       {
         name: 'Linux',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Linux(?=,|[ \t]\/|$)/gm,
         replace:
           ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
-        },
+      },
       {
         name: 'Android',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Android(?=,|[ \t]\/|$)/gm,
@@ -344,6 +344,12 @@ const transformLinks = (text: string): string =>
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)iOS(?=,|[ \t]\/|$)/gm,
         replace:
           ' <div alt="iOS" class="i-simple-icons:ios" /> '
+      },
+      {
+        name: 'Web',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
+        replace:
+          ' <div alt="iOS" class="i-fluent:globe-48-filled" /> '
       }
     ])
     .getText()
