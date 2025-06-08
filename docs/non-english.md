@@ -468,6 +468,7 @@
 * [JokerTV](https://jokertv.ru/) - Live Football
 * [remontadatv](https://remontadatv.ru/) - Live Football
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
+* [kiboanime](https://www.kiboanime.app/>) - Anime Streaming Mobile App
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
@@ -549,6 +550,7 @@
 * [LiveTV](https://livetv.sx/dex/) - Sports
 * [SRF.CH](https://www.srf.ch/) - Live TV / Sports / Swiss VPN Required
 * [2ix2](https://www.2ix2.com/) - Live TV
+* [livestream](https://www.livestream.ad/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
 * [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV
@@ -676,6 +678,7 @@
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
+* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [Fojik](https://fojik.site/) - Movies
 * [Moviesup](https://moviesup.site/) - Movies / TV / 1080p
@@ -841,7 +844,7 @@
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [Poipiku](https://poipiku.com/) - User-Made Images
-* [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
+* [⁠Voicevox](: https://voicevox.hiroshiba.jp/) - FOSS Japanese TTS / Singing Synthesis
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
@@ -952,6 +955,7 @@
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
+* [eHistory](https://www.ehistory.go.kr/) - Video Archive / Cultural Films
 * [Lesics](https://youtube.com/@Sabinz) - Sabins Civil Engineering
 
 ## ▷ Reading
@@ -1582,7 +1586,6 @@
 * [TuCineClasico](https://online.tucineclasico.es/) - Movies
 * [Gnula.se](https://gnula.se/) - TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies
-* [Movidy.cam](https://movidy.cam/) - Movies / TV / Anime
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [PelisForte](https://pelisforte.se/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
@@ -1615,7 +1618,6 @@
 * [ytanime](https://ytanime.tv/) - Anime / Sub
 * [AnimeID](https://www.animeid.tv/) - Anime / Sub
 * [animeyt](https://animeyt.es/) - Anime / Sub
-* [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
@@ -1727,7 +1729,9 @@
 
 * ⭐ **[Kitap Botu](https://t.me/Kitap777bot)** - The largest Turkish PDF/EPUB/MOBI archive in the world
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
-* [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) or [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
+* [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
+* [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
+* [⁠hattusa](https://hattusa.club/) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga

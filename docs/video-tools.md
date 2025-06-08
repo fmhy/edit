@@ -243,7 +243,7 @@
 
 ## ▷ MPV Tools
 
-* ↪️ **[MPV Shaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders)**
+* 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
@@ -256,6 +256,10 @@
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
+* [ArtCNN](https://github.com/Artoriuz/ArtCNN), [AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) or [Ani4k](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN) - Anime Upscaling
+* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5) or [CAS](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6) - AMD FidelityFX port
+* [MPV Prescalers](https://github.com/bjin/mpv-prescalers/) - NNEDI / RAVU Upscaling
+* [GLSL CFL Prediction](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction) - Chroma Upscaling
 
 ***
 

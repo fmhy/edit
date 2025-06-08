@@ -184,7 +184,6 @@
 
 * ⭐ **[Monkeytype](https://monkeytype.com/)** - Customizable Typing Tests / [Discord](https://discord.com/invite/monkeytype) / [GitHub](https://github.com/monkeytypegame/monkeytype)
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
-* [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-Up Required
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [CyberType](https://cybertype.app/) - Typing Practice

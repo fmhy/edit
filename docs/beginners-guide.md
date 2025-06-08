@@ -115,7 +115,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 * **[Windows Install / Debloat Guide](https://gist.github.com/VVispy/17b228cd9c151a495e7576255e1713b9)**
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-* **Adobe Piracy: [Adobe Quickguide](https://rentry.co/FMHYBase64#adobe-guide)**
+* **Adobe Piracy: [Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
 !!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 
@@ -125,7 +125,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 > Do I need a VPN to torrent?
 
-Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://redd.it/ssy8vv)** to your torrent client to avoid leaks from accidental disconnects. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** to your torrent client to avoid leaks from accidental disconnects. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
 
 > What is Port Forwarding? Do I need it?
 
