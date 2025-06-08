@@ -349,7 +349,7 @@ const transformLinks = (text: string): string =>
         name: 'Web',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
         replace:
-          ' <div alt="iOS" class="i-fluent:globe-48-filled" /> '
+          ' <div alt="Web" class="i-fluent:globe-32-filled" /> '
       }
     ])
     .getText()
