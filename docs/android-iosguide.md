@@ -324,7 +324,7 @@
 
 * 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** - Bootlocker Limit Index
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk), [KernelSU](https://kernelsu.org/), [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [APatch](https://github.com/bmax121/APatch), [MTKClient](https://github.com/bkerler/mtkclient) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork), [3](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Rooting Guides](https://awesome-android-root.link/rooting-guides/) - Android Root Guides
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
@@ -776,7 +776,7 @@
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
-* [ytdlnis](https://github.com/deniscerri/ytdlnis) - Multi-Site Audio Downloader
+* [ytdlnis](https://ytdlnis.org/) - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
 * [EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
