@@ -16,7 +16,7 @@
 * ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[Bludclart](https://watch.bludclart.com/)** or [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/nAQxPUs4)
 * ⭐ **[Cinemaos](https://cinemaos.live/)**, [2](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / Auto-Next / Watch Parties
-* ⭐ **[The Cube](https://thecub4.vercel.app/)** - Streaming / Movies / TV / Anime / No ads / Fast / Watch Parties / Auto-Next / Apk,Exe, /[Github](https://github.com/cybrughost/the-cube) / [Discord]([https://discord.gg/nAQxPUs4](https://discord.com/invite/3SZh4YUG84))
+* ⭐ **[The Cube](https://thecub4.vercel.app/)** - Streaming / Movies / TV / Anime / No ads / Fast / Watch Parties / Auto-Next / Apk,Exe, /[Github](https://github.com/cybrughost/the-cube) / [Discord](https://discord.com/invite/3SZh4YUG84)
 * [FlickyStream](https://flickystream.net) - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
 * [1Shows](https://www.1shows.ru/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [VeloraTV](https://veloratv.ru/) or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
