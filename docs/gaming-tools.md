@@ -614,7 +614,7 @@
 * [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX)
 * [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
 * [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music
-* [Vanilla Tweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
+* [Vanilla Tweaks](https://www.vanillatweaks.net/) / [Discord](https://discord.com/invite/qG53qwF), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
 

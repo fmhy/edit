@@ -356,6 +356,7 @@
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
+* [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarSites](https://goal.starsites.fun/) - Live Football / Hockey
 * [CSFD](https://www.csfd.cz/) - Czech Film Database

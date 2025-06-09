@@ -923,9 +923,7 @@
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Discord](https://discord.com/invite/g-meh)
 * ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYBase64#team-vr)** - Download
-* ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
-* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * [AirWindows](https://www.airwindows.com/) - Download / [Consolidated](https://www.airwindows.com/consolidated/)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -959,6 +957,8 @@
 
 ## ▷ SFX / Loops
 
+* ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
+* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)**
 * ⭐ **[BandLab SFX](https://www.bandlab.com/sounds/packs)** - Account Required
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
