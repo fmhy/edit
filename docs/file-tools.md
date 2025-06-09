@@ -87,7 +87,7 @@
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
 * ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
 * [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
-* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / Windows, Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
 * [One Commander](https://www.onecommander.com/) - File Manager

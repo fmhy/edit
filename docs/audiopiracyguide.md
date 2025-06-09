@@ -760,19 +760,18 @@
 
 ## ▷ Song Identification
 
-* ⭐ **[Shazam](https://www.shazam.com/)** - Android / [Unlock](https://rentry.co/FMHYBase64#shazam) / [Desktop App](https://github.com/BayernMuller/vibra)
-* ⭐ **[WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing)** - Desktop
-* ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
-* [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
-* [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) - Desktop
-* [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Online
-* [AudioTag](https://audiotag.info/) - Online
+* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS / [Modded](https://rentry.co/FMHYBase64#shazam) / [Desktop App](https://github.com/BayernMuller/vibra)
+* ⭐ **[WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing)** / Windows
+* ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
+* [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
+* [AudioTag](https://audiotag.info/) / Web
+* [SoundHound](https://www.soundhound.com/soundhound) / Android
+* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) / Android
+* [Audire](https://github.com/alexmercerind/audire) / Android
+* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) / Android
+* [Google Assistant](https://assistant.google.com/) - Google's Music Recognition / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-music-recognition)
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
-* [Google Assistant](https://assistant.google.com/) - Google's Music Recognition / Android / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-music-recognition)
-* [SoundHound](https://www.soundhound.com/soundhound) - Android
-* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
-* [Audire](https://github.com/alexmercerind/audire) - Android
-* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
+* [AHA Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Chrome Extension
 
 ***
 

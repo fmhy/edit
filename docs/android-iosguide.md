@@ -345,7 +345,7 @@
 
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
-* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security / Privacy Hardened Android / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security & Privacy Hardened Android / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
 * [CalyxOS](https://calyxos.org/) - Privacy-Focused OS
 * [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
 
@@ -673,7 +673,7 @@
 
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linux)**
-* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** / Windows Subsystem / Pre-built Binaries
+* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator

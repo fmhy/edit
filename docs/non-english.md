@@ -1334,7 +1334,7 @@
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books

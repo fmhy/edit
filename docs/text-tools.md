@@ -508,7 +508,7 @@
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Font Manager](https://github.com/FontManager/font-manager) (Linux) - Font Managers
+* [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Linux Font Manager](https://github.com/FontManager/font-manager) - Font Managers
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Typography Tools
 * [DS-Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker

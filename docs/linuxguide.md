@@ -761,7 +761,7 @@
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
-* [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI / macOS Only
+* [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)

@@ -234,22 +234,22 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
 * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA / [GitHub](https://github.com/beemdevelopment/Aegis)
-* ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA / [GitHub](https://github.com/stratumauth/app)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
+* ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [GitHub](https://github.com/beemdevelopment/Aegis)
+* ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
 * ⭐ **[Password Strength Chart](https://i.imgur.com/g4NcQKd.png)** / [2](https://i.ibb.co/y8n3BZP/Hive-Systems-Password-Table-2024-Square.png)
-* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
-* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
-* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
-* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
-* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys / [GitHub](https://github.com/Yubico/yubioath-flutter)
-* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
-* [2FAuth](https://docs.2fauth.app/) - Self-Hosted Web-Based 2FA / [GitHub](https://github.com/Bubka/2FAuth)
-* [Sentinel](https://getsentinel.io/) - Android / iOS / Mac 2FA
-* [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - iOS 2FA
-* [Tofu](https://www.tofuauth.com/) - iOS 2FA / [GitHub](https://github.com/iKenndac/Tofu)
-* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted 2FA
+* [2FAS](https://2fas.com/) - 2FA / Android, iOS / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
+* [Mauth](https://github.com/X1nto/Mauth) - 2FA / Android
+* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - 2FA / Android
+* [KeePassXC](https://keepassxc.org/) - 2FA / Windows, Mac, Linux / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
+* [AuthMe](https://authme.levminer.com/) - 2FA / Windows, Mac, Linux / [GitHub](https://github.com/Levminer/authme)
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / Windows, Android / YubiKey Support / [GitHub](https://github.com/Yubico/yubioath-flutter)
+* [OTPClient](https://github.com/paolostivanin/OTPClient) - 2FA / Linux
+* [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS
+* [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS
+* [Tofu](https://www.tofuauth.com/) - 2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)
+* [2FAuth](https://docs.2fauth.app/) - Self-Hosted / Web / [GitHub](https://github.com/Bubka/2FAuth)
+* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden Server Backend / Self-Hosted
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
@@ -259,24 +259,24 @@
 
 ## ▷ Encrypted Messengers
 
+* 🌐 **[Chat Protocols & Services](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [Eyelenburg Comparisons](https://eylenburg.github.io/im_comparison.htm), [SecuChart](https://bkil.gitlab.io/secuchart/) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
-* 🌐 **[Digital Communications Protocols](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [Eyelenburg Comparisons](https://eylenburg.github.io/im_comparison.htm), [SecureChart](https://bkil.gitlab.io/secuchart/) or [SecureMessagingApps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
-* ⭐ **[SimpleX](https://simplex.chat/)** - Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/simplex-chat)
-* ⭐ **[Signal](https://signal.org/)** or **[Molly](https://github.com/mollyim/mollyim-android)** - Requires Phone / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/signalapp)
-* ⭐ **[Briar](https://briarproject.org/)** - Android / [GitLab](https://code.briarproject.org/briar/briar)
+* ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
+* ⭐ **[Signal](https://signal.org/)** or **[Molly](https://github.com/mollyim/mollyim-android)** - All Platforms / Phone # Required / [GitHub](https://github.com/signalapp)
+* ⭐ **[Briar](https://briarproject.org/)** / Android / [GitLab](https://code.briarproject.org/briar/briar)
 * [Matrix](https://matrix.org/) / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Clients / Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
-* [Wire](https://wire.com/en/download/) - Requires Phone / Web / Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/wireapp)
-* [Session](https://getsession.org/) - Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/session-foundation)
-* [Keybase](https://keybase.io/) - Windows / Mac / Linux / Android / iOS / [GitHub](https://github.com/keybase/client)
-* [Jami](https://jami.net/) - Windows / Mac / Linux / Android / iOS / AndroidTV / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
-* [Berty](https://berty.tech/) - Android / iOS / [GitHub](https://github.com/berty/berty)
-* [Ricochet Refresh](https://www.ricochetrefresh.net/) - Windows / Mac / Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
-* [Cwtch](https://cwtch.im/) - Windows / Mac / Linux / Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
-* [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - FreeBSD / Windows / Mac / Linux / Android / iOS
-* [Status](https://status.app/) - Android / iOS / [GitHub](https://github.com/status-im)
-* [Linphone](https://www.linphone.org/) - Windows / Mac / Linux / Android / iOS / [GitLab](https://gitlab.linphone.org/explore/projects)
-* [Databag](https://github.com/balzack/databag) - Self-hosted / Web / Android / iOS / [GitHub](https://github.com/balzack/databag)
-* [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) - iOS
+* [Wire](https://wire.com/en/download/) - All Platforms / Phone # Required / [GitHub](https://github.com/wireapp)
+* [Session](https://getsession.org/) - All Platforms / [GitHub](https://github.com/session-foundation)
+* [Keybase](https://keybase.io/) - All Platforms / [GitHub](https://github.com/keybase/client)
+* [Jami](https://jami.net/) - All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
+* [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - All Platforms
+* [Linphone](https://www.linphone.org/) - All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)
+* [Berty](https://berty.tech/) / Android, iOS / [GitHub](https://github.com/berty/berty)
+* [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, Mac, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
+* [Cwtch](https://cwtch.im/) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
+* [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
+* [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / iOS
+* [Databag](https://github.com/balzack/databag) - Self-hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
 ***
