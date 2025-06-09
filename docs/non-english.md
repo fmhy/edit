@@ -346,6 +346,10 @@
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 
+## ▷ Torrenting
+
+* [sktorrent](https://sktorrent.eu/) - Movies / TV / Anime
+
 ## ▷ Streaming / Streamování
 
 * [Bombuj](https://bombuj.si/) - Movies / TV
@@ -1480,8 +1484,6 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [MojeVideo](https://www.mojevideo.sk/) - User Videos
-
-*** 
 
 ## ▷ Torrenting
 
