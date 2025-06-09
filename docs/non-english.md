@@ -740,6 +740,7 @@
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
+* [Cinemaluxe](https://cinemaluxe.sbs/) - Movies / TV / Anime
 * [WatchoFree](https://watchofree.online/) - Movies / TV / Dub / 1080p
 * [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
