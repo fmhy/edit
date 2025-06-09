@@ -260,7 +260,6 @@
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
-* [Transfer.it](https://transfer.it/) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
@@ -317,6 +316,7 @@
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [Send.now](https://send.now/) - 100GB / 100GB per File / 30 Days After Last Download
+* [Transfer.it](https://transfer.it/) / 20GB / 90 Days / Owned by Mega.nz
 * [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required

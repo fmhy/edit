@@ -461,6 +461,7 @@
 * [WuxiaSpot](https://www.wuxiaspot.com/)
 * [LightNovelPub](https://www.lightnovelpub.com/)
 * [WebNovel.com](https://www.webnovel.com/)
+* [⁠NovelFire](https://novelfire.net/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Wordrain69](https://wordrain69.com/)
 * [Wuxiabox](https://www.wuxiabox.com/)
@@ -822,7 +823,7 @@
 * [Google Leaks](https://www.zachvorhies.com/google_leaks/) - Leaked Google Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
-* [US Military Manual Collection](https://archive.org/details/military-manuals, [MCPEL](https://www.marines.mil/News/Publications/MCPEL/), [Army Pubs]https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
+* [US Military Manual Collection](https://archive.org/details/m), [MCPEL](https://www.marines.mil/News/Publications/MCPEL/), [Army Pubs]https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) or [STI](https://sti.nasa.gov/) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
