@@ -439,15 +439,15 @@
 
 ## ▷ Stock Images
 
-* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see sites TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see site's TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
 
 ***
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
 * [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
 * [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free

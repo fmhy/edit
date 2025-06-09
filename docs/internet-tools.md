@@ -63,7 +63,6 @@
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
-* [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls

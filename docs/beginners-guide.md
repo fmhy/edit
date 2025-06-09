@@ -99,7 +99,7 @@ Before installing any file, it's recommended to scan the setup / install with **
 
 Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices.
 
-For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.nixnet.services/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
 
 !!!note It's best *not* to use your main email or password when you sign up for piracy sites. It's good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised. You can also use email [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing).
 
