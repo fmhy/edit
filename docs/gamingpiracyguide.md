@@ -429,7 +429,7 @@
 * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
-* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
+* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types App / Windows
 * [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
 * [FT Cube](https://shuantsu.github.io/ft_cube/) - Multi-Size Simulator & Net Generator
 * [Maple Leaves Sim](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Simulator
