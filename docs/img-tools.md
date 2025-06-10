@@ -19,19 +19,15 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
-* ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
-* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
-* ⭐ **[Pinta Project](https://www.pinta-project.com/)**
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
-* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
-* [StitchTool](https://www.jdeploy.com/~stitchtool) - Image Stitcher, Splitter, Upscaler & more
-* [PhotoDemon](https://photodemon.org/)
-* [Paint.net](https://www.getpaint.net/index.html)
-* [PhotoFiltre](https://www.photofiltre-studio.com/)
-* [Gimel Studio](https://gimelstudio.com/)
-* [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
+* ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Windows, Mac / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[GIMP](https://www.gimp.org/)** - / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
+* ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [Github](https://github.com/PintaProject/Pinta)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [Github](https://github.com/imagemagick/imagemagick)
+* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [Github](https://github.com/darktable-org/darktable)
+* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [Github](https://github.com/RawTherapee/RawTherapee)
+* [PhotoDemon](https://photodemon.org/) / Windows / [Github](https://github.com/tannerhelland/PhotoDemon)
+* [Paint.net](https://www.getpaint.net/index.html) / Windows / [Github](https://github.com/paintdotnet)
+* [Gimel Studio](https://gimelstudio.com/) / Windows / [Github](https://github.com/GimelStudio/GimelStudio)
 
 ***
 
@@ -45,16 +41,11 @@
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
-* [ImageOnline](https://imageonline.co/) - Multi-Tool
-* [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
-* [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
 * [photo.codes/](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [BeFunky](https://www.befunky.com/) - Simple Editor
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
-* [OIE](https://www.online-image-editor.com/) - Simple Editor
+* [Polotno Studio](https://studio.polotno.com/) - Simple Editor / [Github](https://github.com/polotno-project/polotno-studio)
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor
@@ -62,10 +53,7 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [Image Resizer](https://photo.valueweb.gr/) - Simple Editor
-* [PicSynth](https://www.picsynth.me/) - Multi-Tool
-* [Ribbet](https://ribbet.ai/) - Multi-Tool
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
-* [Img2Go](https://www.img2go.com/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
