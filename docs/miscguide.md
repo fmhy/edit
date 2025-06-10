@@ -34,6 +34,7 @@
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [sourcehut](https://sr.ht/) - Public Project Index
+* [Open Source Alternatives](https://www.opensourcealternatives.to) - Handpicked Open Source Alternatives to Paid Softwares
 
 ***
 
