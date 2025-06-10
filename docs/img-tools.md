@@ -19,19 +19,15 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[Adobe Quickguide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
-* ⭐ **[GIMP](https://www.gimp.org/)** / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
-* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
-* ⭐ **[Pinta Project](https://www.pinta-project.com/)**
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
-* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
-* [StitchTool](https://www.jdeploy.com/~stitchtool) - Image Stitcher, Splitter, Upscaler & more
-* [PhotoDemon](https://photodemon.org/)
-* [Paint.net](https://www.getpaint.net/index.html)
-* [PhotoFiltre](https://www.photofiltre-studio.com/)
-* [Gimel Studio](https://gimelstudio.com/)
-* [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code Extension
+* ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Windows, Mac / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[GIMP](https://www.gimp.org/)** - / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
+* ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [Github](https://github.com/PintaProject/Pinta)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [Github](https://github.com/imagemagick/imagemagick)
+* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [Github](https://github.com/darktable-org/darktable)
+* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [Github](https://github.com/RawTherapee/RawTherapee)
+* [PhotoDemon](https://photodemon.org/) / Windows / [Github](https://github.com/tannerhelland/PhotoDemon)
+* [Paint.net](https://www.getpaint.net/index.html) / Windows / [Github](https://github.com/paintdotnet)
+* [Gimel Studio](https://gimelstudio.com/) / Windows / [Github](https://github.com/GimelStudio/GimelStudio)
 
 ***
 
@@ -45,16 +41,11 @@
 * [iPiccy](https://ipiccy.com/) - Photoshop Alt
 * [Stet](https://stet.io/) - Photoshop Alt
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
-* [ImageOnline](https://imageonline.co/) - Multi-Tool
-* [GifGit](https://www.gifgit.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
-* [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html) - Multi-Tool
 * [photo.codes/](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [BeFunky](https://www.befunky.com/) - Simple Editor
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
-* [OIE](https://www.online-image-editor.com/) - Simple Editor
+* [Polotno Studio](https://studio.polotno.com/) - Simple Editor / [Github](https://github.com/polotno-project/polotno-studio)
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor
@@ -62,10 +53,7 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [Image Resizer](https://photo.valueweb.gr/) - Simple Editor
-* [PicSynth](https://www.picsynth.me/) - Multi-Tool
-* [Ribbet](https://ribbet.ai/) - Multi-Tool
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
-* [Img2Go](https://www.img2go.com/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
@@ -175,9 +163,9 @@
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching
 * [Ok! So](https://okso.app/) - Drawing / Sketching
 * [Sketchpad](https://sketchpad.app/), [2](https://sketch.io/sketchpad) - Drawing / Sketching
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Mobile Only
-* [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS Only
-* [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows / iOS
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Android, iOS
+* [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS
+* [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows, iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching
 * [Magma](https://magma.com/), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
@@ -192,7 +180,7 @@
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
-* [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
+* [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) - Animate Drawings
 
 ***
 
@@ -310,6 +298,7 @@
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [Innocenzi](https://avatar.innocenzi.dev/) - Round Avatar Creator
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
+* [Formia](https://www.formia.so/) - 2D to 3D Icon Converter
 
 ***
 
@@ -438,15 +427,15 @@
 
 ## ▷ Stock Images
 
-* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see sites TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see site's TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
 
 ***
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
 * [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
 * [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
 * [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free
@@ -492,6 +481,7 @@
 * [Artfol](https://www.artfol.co/) - User-Made Art / Fanart
 * [Cara](https://cara.app/) - User-Made Art / Fanart
 * [InkBlot](https://inkblot.art/) - User-Made Art / Fanart
+* [⁠Zerochan](https://www.zerochan.net/) - Japanese Fanart / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
 * [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
@@ -720,6 +710,7 @@
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
 * ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
@@ -761,7 +752,7 @@
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
-* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Unlimited Google Photos Storage Guide / Windows
+* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
 * [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
@@ -882,4 +873,4 @@
 
 ***
 
-## ▷ [Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_camera_.2F_Image_tools)
+## ▷ [Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_camera_tools)

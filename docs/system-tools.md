@@ -71,7 +71,7 @@
 ## ▷ Package Managers
 
 * ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
-* ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers
+* ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/marticliment/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
@@ -90,7 +90,7 @@
 * 🌐 **[Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)** - AutoIt Resources
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
-* [Tinytask](https://tinytask.net/)
+* [Tinytask](https://www.fosshub.com/TinyTask.html)
 * [MacroRecorder](https://www.macrorecorder.com/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
@@ -105,6 +105,7 @@
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
+* [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell
@@ -112,7 +113,6 @@
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [PowerShell](https://github.com/powershell/powershell) - Windows / macOS / Linux PowerShell
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
 * [PowerShell Scripts](https://github.com/fleschutz/PowerShell) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Alt Shell Scripts
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
@@ -327,6 +327,7 @@
 # ► Windows ISOs
 
 * ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://gravesoft.dev/clean_install_windows)
+* ⭐ **[Windows Install / Debloat Guide](https://gist.github.com/VVispy/17b228cd9c151a495e7576255e1713b9)**
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
@@ -350,9 +351,9 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://rentry.co/FMHYBase64#mas)** - Activation Scripts / Windows / Office / [Discord](https://discord.gg/gjJEfq7ux8)
-* [KMS_VL_ALL_AIO](https://rentry.co/FMHYBase64#kms-vl) - Offline Activator / Windows / Office
-* [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Offline Activator / Office
+* ⭐ **[MAS](https://rentry.co/FMHYBase64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
+* [KMS_VL_ALL_AIO](https://rentry.co/FMHYBase64#kms-vl) - Windows & Office Activation / Offline
+* [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Office Activation / Offline
 
 ***
 
@@ -373,12 +374,9 @@
 ## ▷ Windows Repair
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
+* [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/), [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
-* [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit / [GitHub](https://github.com/mon5termatt/medicat_installer)
-* [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
-* [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments / Recovery
-* [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 
 ***
 
