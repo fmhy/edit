@@ -921,7 +921,8 @@
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer
 * [YoTimer](https://www.yotimer.com/) - Cubing Timer
 * [qqTimer](https://www.qqtimer.net/) - Cubing Timer
-* [FT Cube](https://shuantsu.github.io/ft_cube/) - Cubing Sim + Net Gen ⁠
+* [FT Cube](https://shuantsu.github.io/ft_cube/) - Cubing Sim + Net Gen
+* [⁠Mapleaves](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Sim 
 
 ***
 
