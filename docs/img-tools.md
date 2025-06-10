@@ -6,8 +6,12 @@
 
 # ► Image Editing
 
+* 🌐 **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Image Creation Resources
+* ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
 * ↪️ **[Background / Object Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
+* ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
+* [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
@@ -20,15 +24,17 @@
 ## ▷ Editing Software
 
 * ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**, **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software Archive / Windows, Mac / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
-* ⭐ **[GIMP](https://www.gimp.org/)** - / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
-* ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [Github](https://github.com/PintaProject/Pinta)
+* ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/)
+* ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [Github](https://github.com/imagemagick/imagemagick)
-* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [Github](https://github.com/darktable-org/darktable)
-* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [Github](https://github.com/RawTherapee/RawTherapee)
-* [PhotoDemon](https://photodemon.org/) / Windows / [Github](https://github.com/tannerhelland/PhotoDemon)
-* [Paint.net](https://www.getpaint.net/index.html) / Windows / [Github](https://github.com/paintdotnet)
-* [Gimel Studio](https://gimelstudio.com/) / Windows / [Github](https://github.com/GimelStudio/GimelStudio)
-
+* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [GitHub](https://github.com/darktable-org/darktable)
+* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [GitHub](https://github.com/RawTherapee/RawTherapee)
+* [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
+* [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
+* [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
+* [Gimel Studio](https://gimelstudio.com/) / Windows / [GitHub](https://github.com/GimelStudio/GimelStudio)
+* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
+  
 ***
 
 ## ▷ Online Editors
@@ -45,7 +51,7 @@
 * [photo.codes/](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor / [Github](https://github.com/polotno-project/polotno-studio)
+* [Polotno Studio](https://studio.polotno.com/) - Simple Editor / [GitHub](https://github.com/polotno-project/polotno-studio)
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor
@@ -81,21 +87,20 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[PhotoMosh](https://moshpro.app/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [glitch2](https://akx.github.io/glitch2/), [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/), [Pixelizer](https://www.igorski.nl/application/pixelizer/), [Image Mage](https://imagemageage.github.io/) or [Designify](https://designify.com/) - Photo Effects / Filters
-* [InColor](https://www.myheritage.com/incolor) - Image Colorization / Online / Sign-Up Required
-* [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Image Colorization / Online / No Sign-Up
-* [distort-grid](https://github.com/snorpey/distort-grid) - Grid-Based Image Distortion
-* [Change Image Hue](https://www.imageonlinetools.com/change-image-hue) or [Tinter](https://tinter.uxie.io/) - Hue Editor
-* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
-* [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker), [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
-* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Image to Anime Style Converter
+* ⭐ **[PhotoMosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
+* [PhotoFunia](https://photofunia.com/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
+* [InColor](https://www.myheritage.com/incolor) - Image Colorization / Sign-Up Required
+* [PhotoJoiner](https://www.photojoiner.com/) - Collage Maker
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
+* [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
+* [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
+* [Mimi](https://mimi-panda.com/) - Turn photos into coloring book sketch
+* [Text-Image](https://www.text-image.com/) - Text Image Generator
+* [Tinter](https://tinter.uxie.io/) - Hue Editor / [GitHub](https://github.com/uxie-io/tinter)
+* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
-* [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes
+* [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes / [GitHub](https://github.com/Tw1ddle/geometrize)
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
-* [Shimmer](https://github.com/collidingScopes/shimmer) - Oscillating Wave Images
-* [CollidingScopes](https://github.com/collidingScopes/collidingScopes.github.io) - Kaleidoscope Images
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 
 ***
@@ -110,42 +115,21 @@
 
 # ► Image Creation
 
-* 🌐 **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Image Creation Resources
-* ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
-* ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
-* ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
-* ⭐ **[Topsters](https://topsters.org/)** - Make Taste / Recommendation Collages
-* [imgsli](https://imgsli.com/) - Before & After Slider Generator
-* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
-* [FlipAnim](https://flipanim.com/) - Animated Flipbook Creator
-* [CharacterCreator](https://charactercreator.org/) - Character Generator
-* [Picrew](https://picrew.me/) - Animated Character Maker
-* [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
-* [Text-Image](https://www.text-image.com/) - Text Image Generator
-* [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
-* [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
-* [NoiseDeck](https://noisedeck.app/) - Art Generator
-
 ***
 
 ## ▷ Painting
 
 * 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
-* ⭐ **[Krita](https://krita.org/en/)** - Painting App
-* ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
+* ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting
-* [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App
-* [FireAlpaca](https://firealpaca.com/) - Painting App
-* [LazPaint](https://github.com/bgrabitmap/lazpaint/) - Painting App
-* [PaintOnline](https://paintonline.com.br/paint.html) - Browser Painting
+* [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
+* [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
+* [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
 * [jspaint](https://jspaint.app/) - Browser Painting
-* [PinTor](https://pintor.app/) - Browser Painting
-* [Tegaki](https://desuwa.github.io/tegaki.html) - Browser Painting
-* [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
-* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
-* [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
-* [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing
-* [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting
+* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
+* [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
+* [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing / Web
+* [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting / Web
 * [ArtistAssistApp](https://artistassistapp.com/) - Useful Painting Tools
 
 ***
@@ -153,32 +137,23 @@
 ## ▷ Drawing
 
 * ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching / [Sharing](https://excalihub.dev/)
-* ⭐ **[AutoDraw](https://www.autodraw.com/)**, [Co-Drawing](https://huggingface.co/spaces/Trudy/gemini-codrawing) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
+* ⭐ **[AutoDraw](https://www.autodraw.com/)** or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
-* [inkscape](https://inkscape.org/) - Drawing / Sketching
-* [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
+* [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [Sketch Toy](https://www.sketchtoy.com/) - Drawing / Sketching
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching
 * [Ok! So](https://okso.app/) - Drawing / Sketching
-* [Sketchpad](https://sketchpad.app/), [2](https://sketch.io/sketchpad) - Drawing / Sketching
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Android, iOS
-* [Paper](https://wetransfer.com/explore/paper) - Drawing / Sketching / iOS
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Windows, Mac, Android, iOS
 * [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows, iOS
-* [Concepts](https://concepts.app/) - Drawing / Sketching
-* [Magma](https://magma.com/), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
-* [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
+* [Concepts](https://concepts.app/) - Drawing / Sketching / Windows, Android, iOS
+* [Magma](https://magma.com/), [DrawPile](https://drawpile.net/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
-* [Virtual Graph Paper](https://virtual-graph-paper.com/) or [minimator](https://minimator.app/) - Create Grid-Based Drawings
-* [Gridzzly](http://gridzzly.com/) - Print Custom Grid Papers
+* [minimator](https://minimator.app/) - Create Grid-Based Drawings / [GitHub](https://github.com/maxwellito/minimator/)
 * [Crayon Town](https://crayon.town/) - Infinite Online Canvas
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
-* [x6ud](https://x6ud.github.io/) - Animal Drawing Reference Tool
-* [Noodle](https://hundredrabbits.itch.io/noodle) - 1-bit Sketch Tool
-* [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
-* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) - Animate Drawings
 
