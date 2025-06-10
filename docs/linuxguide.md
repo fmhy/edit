@@ -344,7 +344,7 @@
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [wireguird](https://github.com/UnnoTed/wireguird) - WireGuard GTK GUI
-* [Netbird](https://github.com/netbirdio/netbird) or [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
+* [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes

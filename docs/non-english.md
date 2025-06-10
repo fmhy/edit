@@ -1405,6 +1405,7 @@
 * [Anidub](https://anidub.pro/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/anidubofficial) / [Discord](https://discord.com/invite/QF6Kn99tsu)
 * [SovietRomantica](https://sovetromantica.com/) - Anime / Dub / 1080p / [Telegram](https://t.me/joinchat/9yG7ZfmLX1E4OWNi) / [Discord](https://discord.com/invite/sWRPWN4)
 * [Tunime](https://an0ncer.github.io/) - Anime / Sub / 1080p
+* [yummyanime](https://yummyanime.tv/) - Anime
 * [AniLabX](https://anilabx.xyz/) - Android Anime / Cartoons / Drama App
 * [RUkino](https://rukino.org/) - Russian Movies / TV / 1080p
 * [CCCP Film](https://cccp-film.ru/) - Soviet Movies / TV

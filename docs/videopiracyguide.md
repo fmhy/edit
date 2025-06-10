@@ -48,6 +48,7 @@
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
 * [Broflix](https://broflix.si/) - Movies / TV / Anime
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
+* [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
 * [Yampi](https://yampi.live/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
@@ -74,7 +75,6 @@
 * [NextPlay](https://nextplay.pages.dev/), [2](https://netplex-v2.pages.dev/) - Movies / TV / Anime
 https://nextplay.pages.dev/
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use Throwaway Gmail / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq)
-* [Movies7](https://movies7.im/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [StreamM4u](https://streamm4u.com.co/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [Watchroo](https://www.watchroo.com/) - Movies / TV / Anime / 720p

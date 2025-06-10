@@ -838,9 +838,7 @@
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
 * ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials / [Discord](https://discord.gg/KfyHfUTjsK)
-* [We Suck At Producing](https://discord.gg/wsap) - Audio Production Discord
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
-* [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
 * [MoFi](https://www.audjust.com/) - Create Audio Loops
 * [Jukeblocks](https://jukeblocks.io/) - Generate Audio Project Templates / Heavy Webpage
@@ -940,7 +938,6 @@
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulator
 * [IEM Plug-in Suite](https://plugins.iem.at/) - Open Source
-* [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Open Source
 * [SPARTA](https://leomccormack.github.io/sparta-site/) - Open Source
 * [Plugins4Free](https://plugins4free.com/) - Plugins
 * [Spitfire Audio](https://labs.spitfireaudio.com/) - Plugins
@@ -948,6 +945,7 @@
 * [AirWindows](https://www.airwindows.com/) - Plugins / [Consolidated](https://www.airwindows.com/consolidated/)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher (Deep Fry) Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
+* [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 
 ***
