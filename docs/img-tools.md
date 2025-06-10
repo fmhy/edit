@@ -340,6 +340,7 @@
 * [Freeject](https://www.freeject.net/)
 * [Cg_peers](https://t.me/Cg_peers)
 * [PNGTree](https://pngtree.com/)
+* [PNGs.gg](https://pngs.gg/)
 * [Dassets Design](https://t.me/dassets_design)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
