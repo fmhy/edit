@@ -436,7 +436,6 @@
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
 * [RubikSolve](https://rubiksolve.com/) - 3x3 Cube Solver
 * [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
-* [⁠CubingTimeStandard](https://cubingtimestandard.com/) - Cubing Time Standards / Tools
 
 ***
 
