@@ -28,6 +28,7 @@
 * [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [⁠Mirexa](https://mirexa.vercel.app/) - Deepseek R1 / GPT 4.1 / Mistral / Grok 3 mini
+* [⁠ISH](https://ish.junioralive.in/) - Multiple Chatbots
 * [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
 * [OI](https://chat.xenai.tech/) or [FreePass](https://freepass.ai/) - Multiple Chatbots
@@ -53,24 +54,24 @@
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
-* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Sign-Up / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
+* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Sign-Up Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
-* [Google AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50) - AI Search Engine / No Sign-Up / US Only
-* [Hyperspace](https://hyper.space/) - P2P AI Network / No Sign-Up / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai)
-* [Phind](https://www.phind.com/) - Llama Search Engine / No Sign-Up / [Discord](https://discord.gg/S25yW8TebZ)
-* [Morphic](https://www.morphic.sh/) - GPT-4o-mini AI Search Engine / No Sign-Up / [Discord](https://discord.gg/zRxaseCuGq)
-* [Komo](https://komo.ai/) - AI Search Engine / No Sign-Up
-* [Jina](https://search.jina.ai/) - AI Search Engine / No Sign-Up
-* [Felo](https://felo.ai/) - AI Search Engine / AI Agents / No Sign-Up
-* [searc.ai](https://searc.ai/) - AI Search Engine / No Sign-Up
+* [Google AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50) - AI Search Engine / US Only
+* [Hyperspace](https://hyper.space/) - P2P AI Network / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai)
+* [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
+* [Morphic](https://www.morphic.sh/) - GPT-4o-mini AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
+* [Komo](https://komo.ai/) - AI Search Engine
+* [Jina](https://search.jina.ai/) - AI Search Engine
+* [Felo](https://felo.ai/) - AI Search Engine / AI Agents
+* [searc.ai](https://searc.ai/) - AI Search Engine
 * [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [Discord](https://discord.com/invite/VQMBGR8u5v) / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)
-* [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / No Sign-Up / [Discord](https://discord.gg/tUATkScUue)
+* [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Gemini-2.0-Flash AI Search Engine / AI Agents / Sign-Up Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
-* [AyeSoul](https://ayesoul.com/) - AI Search Engine / No Sign-Up
-* [Venice](https://venice.ai/) - LLama 3 AI Search Engine / No Sign-Up
-* [uncovr](https://uncovr.app/) - GPT-4o-mini / Gemini-2.0-Flash AI Search Engine / No Sign-Up / [Discord](https://discord.gg/a4gDaVWceP)
-* [Exa](https://exa.ai/) - AI Search Engine / No Sign-Up / [Discord](https://discord.gg/HCShtBqbfV)
-* [Lepton Search](https://search.lepton.run/) - AI Search Engine / No Sign-Up / [GitHub](https://github.com/leptonai/search_with_lepton)
+* [AyeSoul](https://ayesoul.com/) - AI Search Engine
+* [Venice](https://venice.ai/) - LLama 3 AI Search Engine 
+* [uncovr](https://uncovr.app/) - GPT-4o-mini / Gemini-2.0-Flash AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
+* [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.gg/HCShtBqbfV)
+* [Lepton Search](https://search.lepton.run/) - AI Search Engine / [GitHub](https://github.com/leptonai/search_with_lepton)
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
 
 ***

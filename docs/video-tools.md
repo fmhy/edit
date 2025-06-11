@@ -349,7 +349,7 @@
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
-* [Simkl](https://simkl.com/) - Media Tracker
+* [Simkl](https://simkl.com/) - Media Tracker / [Scrobbler](https://github.com/ByteTrix/Media-Player-Scrobbler-for-Simkl)
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 
 ***
