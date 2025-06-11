@@ -920,6 +920,7 @@ https://nextplay.pages.dev/
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites
 * [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
+* [DownSub From Youtube](https://downsub.app/) - Download Multilingual Subtitles from Youtube Sites
 
 ***
 
