@@ -155,6 +155,7 @@
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
 * [China Firewall Test](https://www.dotcom-tools.com/china-firewall-test) or [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
+* [Apple Account Guide](https://zhuanlan.zhihu.com/p/623576755) - How-to Make Apple Account in China
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
 * [rectg](https://github.com/jackhawks/rectg) - Chinese Telegram Groups / Bots
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -1769,7 +1770,7 @@
 
 ***
 
-# ► Ukrainian / українська
+# ► Ukrainian / Українська
 
 ## ▷ Torrenting
 
