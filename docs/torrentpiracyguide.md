@@ -131,7 +131,7 @@
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB / Sign-Up Required
 * [Bitport](https://bitport.io/welcome) - 1GB / 1 Daily Download / Sign-Up Required
-* [TorBox](https://torbox.app/) - 10GB / 10 Monthly Downloads / Sign-Up Required
+* ⭐ **[TorBox](https://torbox.app/)** - 10GB / 10 Monthly Downloads / Sign-Up Required
 * [ZBIGZ](https://zbigz.com/) - 1GB / Sign-Up Required / 150KBps Limit
 * [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream / Self-Hosted
 
