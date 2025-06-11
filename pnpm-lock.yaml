@@ -72,6 +72,12 @@ importers:
       '@iconify-json/carbon':
         specifier: ^1.2.5
         version: 1.2.5
+      '@iconify-json/fluent':
+        specifier: ^1.2.23
+        version: 1.2.23
+      '@iconify-json/fluent-mdl2':
+        specifier: ^1.2.1
+        version: 1.2.1
       '@iconify-json/gravity-ui':
         specifier: ^1.2.5
         version: 1.2.5
@@ -81,12 +87,18 @@ importers:
       '@iconify-json/lucide':
         specifier: ^1.2.10
         version: 1.2.10
+      '@iconify-json/material-symbols':
+        specifier: ^1.2.22
+        version: 1.2.22
       '@iconify-json/mdi':
         specifier: ^1.2.1
         version: 1.2.1
       '@iconify-json/ph':
         specifier: ^1.2.2
         version: 1.2.2
+      '@iconify-json/qlementine-icons':
+        specifier: ^1.2.6
+        version: 1.2.6
       '@iconify-json/simple-icons':
         specifier: ^1.2.12
         version: 1.2.12
@@ -1024,6 +1036,12 @@ packages:
   '@iconify-json/carbon@1.2.5':
     resolution: {integrity: sha512-aI3TEzOrUDGhs74zIT3ym/ZQBUEziyu8JifntX2Hb4siVzsP5sQ/QEfVdmcCUj37kQUYT3TYBSeAw2vTfCJx9w==}
 
+  '@iconify-json/fluent-mdl2@1.2.1':
+    resolution: {integrity: sha512-zFgd1V9r0a+mqA46Z4mOoSf6PbQbhYnY9Uhtpjl3xvw03doNolh4apMtsZoLlC/Y7wO2uj306MgziaqwWdNMwg==}
+
+  '@iconify-json/fluent@1.2.23':
+    resolution: {integrity: sha512-xSN0Qmg1YiHXhnF64+ghINT32SA8mNsoryjgG86jDmcmEePCdsx55Z4qNDnfzNGECfSx1M88h3y4DEA1og/oNg==}
+
   '@iconify-json/gravity-ui@1.2.5':
     resolution: {integrity: sha512-7uf4xG2ijmcte4AqPpzNTqnEBqxvHBKW/gI0VTZeP0nLtZSvoCybNt5QsJ7f/xyrIQDgCJ4usEmRaX7G86NueA==}
 
@@ -1033,11 +1051,17 @@ packages:
   '@iconify-json/lucide@1.2.10':
     resolution: {integrity: sha512-cR1xpRJ4dnoXlC0ShDjzbrZyu+ICH4OUaYl7S51MhZUO1H040s7asVqv0LsDbofSLDuzWkHCLsBabTTRL0mCUg==}
 
+  '@iconify-json/material-symbols@1.2.22':
+    resolution: {integrity: sha512-raleOIRt8iPtwAkDzmw/c5zb06nIaicsYs5bZ3yfRjBxuYT/UYNa2ZFQQMl3uuTTiZuUXwFa1M8PJW3CFRAN0w==}
+
   '@iconify-json/mdi@1.2.1':
     resolution: {integrity: sha512-dSkQU78gsZV6Yxnq78+LuX7jzeFC/5NAmz7O3rh558GimGFcwMVY/OtqRowIzjqJBmMmWZft7wkFV4TrwRXjlg==}
 
   '@iconify-json/ph@1.2.2':
     resolution: {integrity: sha512-PgkEZNtqa8hBGjHXQa4pMwZa93hmfu8FUSjs/nv4oUU6yLsgv+gh9nu28Kqi8Fz9CCVu4hj1MZs9/60J57IzFw==}
+
+  '@iconify-json/qlementine-icons@1.2.6':
+    resolution: {integrity: sha512-jUKUGXrXXjUw7rVBEzCeKco9gq03yRGmhxVP9n1A3YyCRWOmxoxotXDAgQIdeHJNvD8TyO0tu2LrS1oLtQ+doA==}
 
   '@iconify-json/simple-icons@1.2.12':
     resolution: {integrity: sha512-lRNORrIdeLStShxAjN6FgXE1iMkaAgiAHZdP0P0GZecX91FVYW58uZnRSlXLlSx5cxMoELulkAAixybPA2g52g==}
@@ -4803,6 +4827,14 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/fluent-mdl2@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fluent@1.2.23':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/gravity-ui@1.2.5':
     dependencies:
       '@iconify/types': 2.0.0
@@ -4815,11 +4847,19 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/material-symbols@1.2.22':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/mdi@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
   '@iconify-json/ph@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/qlementine-icons@1.2.6':
     dependencies:
       '@iconify/types': 2.0.0
 

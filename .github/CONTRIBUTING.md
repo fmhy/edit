@@ -56,14 +56,15 @@ You can do one of the following:
 
 ## Making changes
 
+> [!TIP]
+> The easiest way is to join our [Discord](https://rentry.co/fmhy-invite) to submit sites or any changes.
+
 If you want to make changes with instant site feedback, or are simply going to work with the site, you can do so with these 3 ways:
 
 - [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpod-or-github-codespaces)
 - [Using the GitHub editor](#using-the-github-editor)
 - [Manually setting up a development environment](#manually-setting-up-a-development-environment)
 
-> [!TIP]
-> You can just use our [💬 Discord](https://rentry.co/fmhy-invite) to send us sites or any changes.
 
 ### Using Gitpod or GitHub Codespaces
 
