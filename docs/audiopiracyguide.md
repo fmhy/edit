@@ -204,6 +204,8 @@
 * [Campus FM](https://www.campus-fm.com/) - College Radio
 * [RadioSide](https://radioside.com/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
+* [Radio Dyne.org](https://radio.dyne.org/) - Hacker collective radio directory
+* [Basspistol Radio](https://radio.basspistol.com) - Ringing freedom since 2010
 
 ***
 
