@@ -275,7 +275,7 @@
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
-* [Axekin](https://www.axekin.com/) - ROMs / Use Translator
+* [Axekin](https://www.axekin.com/) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
