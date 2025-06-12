@@ -94,7 +94,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
-* [Mimi](https://mimi-panda.com/) - Turn photos into coloring book sketch
+* [Mimi](https://mimi-panda.com/) - Turn Photos into Coloring Book Sketch
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
