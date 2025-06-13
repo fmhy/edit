@@ -128,7 +128,8 @@
 * [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
-* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
+* [Graphite](https://graphite.rs/) - Vector Editors / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
+* [VectorInk](https://vectorink.io/) - Vector Graphics Editor / iOS, Web
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing / Web
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting / Web
@@ -143,6 +144,7 @@
 * [Concepts](https://concepts.app/) - Drawing / Sketching / Windows, Android, iOS
 * [Magma](https://magma.com/), [DrawPile](https://drawpile.net/) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool / Web
+* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / Web / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid-Based Drawings / Web / [GitHub](https://github.com/maxwellito/minimator/)
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
@@ -216,34 +218,28 @@
 
 ***
 
-# ► Design Resources
+# ► Design Resources / Ideas
 
-* 🌐 **[Awesome Design](https://github.com/goabstract/Awesome-Design-Tools)**, [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) or [pilssken](https://pilssken.neocities.org/gainz/) - Design Resources
-* 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
-* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [SMPoster](https://www.smposter.com/), [AnotherGraphic](https://anothergraphic.org/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Examples / Inspiration
-* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* 🌐 **[Art Gainz](https://pilssken.neocities.org/gainz/)*** or [Evernote.Design](https://www.evernote.design/) - Design Resources
+* ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
+* ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
+* [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
+* [SMPoster](https://www.smposter.com/) - Poster Designs
+* [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
+* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 
 ***
 
 ## ▷ Design Apps
 
-* ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
-* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
-* [lunacy](https://icons8.com/lunacy) - Design App
-* [ArtBoard](https://artboard.studio/) - Design App
-* [VistaCreate](https://create.vista.com/) - Design App
-* [PosterMyWall](https://www.postermywall.com/) - Design App
-* [Kittl](https://app.kittl.com/) - Design App
-* [Kosmik](https://www.kosmik.app/) - Design Asset Manager
-* [Venngage](https://venngage.com/) - Infographic Design
-* [CoverView](https://coverview.vercel.app/) - Blog Banner Design
-* [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
-* [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
-* [Pixelied](https://pixelied.com/) - Online Design Tool
-* [Evernote.Design](https://www.evernote.design/) - Online Design Tools
-* [Graphite](https://graphite.rs/) or [Recraft](https://www.recraft.ai/) - Vector Editors
-* [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
+* ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / Windows, Mac, Web / [Giveaways](https://rentry.co/FMHYBase64#canva)
+* [lunacy](https://icons8.com/lunacy) - Design App / Windows, Mac, Linux
+* [VistaCreate](https://create.vista.com/) - Design App / Web
+* [blush](https://blush.design/) - Illustration Design / Web
+* [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design / Web
+* [Pixelied](https://pixelied.com/) - Online Design Tool / Web
 
 ***
 
