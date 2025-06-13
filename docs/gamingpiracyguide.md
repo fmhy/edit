@@ -102,6 +102,7 @@
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
 * [Best Old Games](https://www.bestoldgames.net/) - DOS Games
 * [DOSGames](https://dosgames.com/) - DOS Games
+* [FreeDOSGames](https://www.freedosgames.de/) - DOS Games
 * [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games
 * [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
 * [Classic Games](https://classicdosgames.com/) - DOS Games

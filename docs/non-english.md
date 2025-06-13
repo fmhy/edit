@@ -1761,7 +1761,7 @@
 * [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga
 * [Nirvana Manga](https://nirvanamanga.com/) - Manga
-* [Tortuga-ceviri](https://tortuga-ceviri.com/) - Manga / [Disocrd](https://discord.gg/bSxwMNM9mm)
+* [Tortuga-ceviri](https://tortugaceviri.com/) - Manga / [Disocrd](https://discord.gg/bSxwMNM9mm)
 * [SadScans](http://sadscans.com) - Manga / [Discord](https://discord.gg/sQ5M2fFQ45)
 * [Raindrop](https://www.raindropteamfan.com/) - Manga
 * [Glory Manga](https://glorymanga.com/) - Manga
