@@ -439,16 +439,14 @@
 
 ## ▷ Map Creators / Editors
 
+* ↪️ **[D&D Creator Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_d.26amp.3Bd_creator_tools)**
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
 * [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Generator
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
 * [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Medieval Fantasy City Generator
-* [donjon](https://donjon.bin.sh/) - RPG Resources / Tools
 * [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
 * [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
 * [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
@@ -456,7 +454,6 @@
 * [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
-* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Single-page Dungeon Map Generator
 
 ***
 
@@ -977,19 +974,17 @@
 
 ## ▷ Regex Tools
 
-* **Note** - You can use AI chatbots like ChatGPT to create complex regex patterns more easily.
+* **Note** - You can use [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
 
 ***
 
-* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
-* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/), [Regexper](https://regexper.com/) - Regex Visualizer
-* ⭐ **[RegexLearn](https://regexlearn.com/)**, [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
-* ⭐ **[RegExr](https://regexr.com/)**, [Rubular](https://rubular.com/) or [Regex101](https://regex101.com/) - Regex Editors
-* ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
-* [RegexOne](https://regexone.com/) - Regex Practice
-* [iHateRegex](https://ihateregex.io/) - Regex Patterns
+* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Tools & Resources
+* ⭐ **[Regex Vis](https://regex-vis.com/)** - Regex Visualizer
+* ⭐ **[regex101](https://regex101.com/)** or [RegExr](https://regexr.com/) - Regex Editors
+* [RegexLearn](https://regexlearn.com/), [RegexOne](https://regexone.com/), [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Regex Learning / Practice Resources
+* [Regex Syntax Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) - Regex Cheatsheet (JS Flavor)
+* [iHateRegex](https://ihateregex.io/) - Premade Regex Patterns List
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
-* [PyRegex](http://www.pyregex.com/) - Python Regex Playground
 
 ***
 

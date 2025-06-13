@@ -426,7 +426,7 @@
 
 ## ▷ Rubiks Cube
 
-* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
+* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
 * ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
 * [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types App / Windows
@@ -495,6 +495,7 @@
 
 * 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/) - Board Game Index
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+* ⭐ **[Roll20](https://roll20.net/)** or [Rolisteam](https://rolisteam.org/) - Online Virtual Tabletop Platforms
 * [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
 * [lishogi.org](https://lishogi.org/) - Shogi
 * [Online GO](https://online-go.com/) - Multiplayer GO
@@ -530,32 +531,21 @@
 
 ## ▷ Dungeons & Dragons
 
-* 🌐 **[How to Play Dungeons and Dragons](https://www.dnd-compendium.com/player-guides/newbie-guides)**
-* ⭐ **[DnDBeyond](https://www.dndbeyond.com/)** – Official Digital Toolset for 5E 🔃
-* ⭐ **[Roll20](https://roll20.net/)** – Online VTT (Virtual Tabletop) Platform 🔃
-* ⭐ **[5etools](https://5e.tools/)** – Comprehensive 5E Rule & Content Reference 🔃
-* ⭐ **[Kobold Fight Club](https://kobold.club/)** – Encounter Builder & Balancer  
-* ⭐ **[Donjon](https://donjon.bin.sh/)** – Procedural Generator Collection 🔃
-* [TetraCube](https://tetra-cube.com/dnd/dnd-statblock.html) – Monster Statblock Generator  
-* [D&D Compendium](https://www.dnd-compendium.com/) – Curated Index of D&D Resources  
-* [RPGBot](https://rpgbot.net/) – Optimization Guides & Class Builds  
-* [CaveTools](https://cavetools.app/) – Modular Encounter and Session Builder  
-* [GM Binder](https://www.gmbinder.com/) – Homebrew Document Designer 🔃
-* [Homebrewery](https://homebrewery.naturalcrit.com/) – Make Official-Looking PDF Content 🔃
-* [D&D Wiki](https://www.dandwiki.com/) – Fan-Made Homebrew Archive  
-* [World Anvil](https://www.worldanvil.com/) – Campaign Worldbuilding Suite 🔃
-* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) – Procedural Map Creator 🔃
-* [One Page Dungeon Generator](https://watabou.itch.io/one-page-dungeon) – Minimal Dungeon Creator 🔃
-* [Scabard](https://www.scabard.com/) – Campaign Wiki & Session Planner  
-* [Tabletop Audio](https://tabletopaudio.com/) – Free Immersive Soundtracks for TTRPGs 🔃
-* [Inkarnate](https://inkarnate.com/) – Custom Map Maker With Drag-n-Drop Editor 🔃
-* [DungeonFog](https://www.dungeonfog.com/) – Advanced Map Builder & Scene Preparer  
-* [Avrae Bot](https://avrae.io/) – Discord Bot for D&D Automation
+* ↪️ **[D&D Creator Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_d.26amp.3Bd_creator_tools)**
+* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** - D&D Tools & Learning Resources
+* ⭐ **[5etools](https://5e.tools/)** - 5E Rules & Content Reference
+* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Digital Toolset for 5E
+ ---
+* ⭐ **[Kobold Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
+* [RPGBot](https://rpgbot.net/) - Optimization Guides & Class Builds
+* [GM Binder](https://www.gmbinder.com/) - Homebrew Document Designer
+* [D&D Wiki](https://www.dandwiki.com/) - Fan-Made Homebrew Archive
+* [World Anvil](https://www.worldanvil.com/) - Campaign Worldbuilding Suite
+* [Scabard](https://www.scabard.com/) - Campaign Wiki & Session Planner
+* [Avrae](https://avrae.io/) - Discord Bot for D&D Automation
 ---
 from tabletop tools:
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - D&D 4e/5e Books
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/) - AD&D / D&D Resources / [World Building Checklist](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html)
 * [The Acaeum](https://www.acaeum.com/) - D&D Database
 * [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - D&D Rules
@@ -612,7 +602,7 @@ from tabletop tools:
 * [Taiko Web](https://cjdgrevival.com/) - Taiko no Tatsujin / Rhythm Game
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Slope Plus](https://coweggs.itch.io/slope-plus) - Downhill Ball Game
