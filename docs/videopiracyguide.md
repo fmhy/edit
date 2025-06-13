@@ -629,6 +629,7 @@
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
 * [Fanedit.org](https://fanedit.org/) - Fanedit Community / Sign-Up Required / DM Editors for Downloads
 * [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
+* [NetNaija.biz](https://netnaija.biz) - Nigerian site offering movies, series, music, and more.
 
 ***
 
