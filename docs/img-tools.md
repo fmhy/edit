@@ -216,12 +216,15 @@
 
 ***
 
-# ► Design Resources
+# ► Design Resources / Ideas
 
-* 🌐 **[Awesome Design](https://github.com/goabstract/Awesome-Design-Tools)**, [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) or [pilssken](https://pilssken.neocities.org/gainz/) - Design Resources
-* 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
-* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [SMPoster](https://www.smposter.com/), [AnotherGraphic](https://anothergraphic.org/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Examples / Inspiration
-* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* 🌐 **[Art Gainz](https://pilssken.neocities.org/gainz/)** - Design Resources
+* ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
+* ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
+* [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
+* [SMPoster](https://www.smposter.com/) - Poster Designs
+* [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
+* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 
 ***
