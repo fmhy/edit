@@ -15,6 +15,7 @@
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
+* [SaaS Explainer Videos](https://saasexplainervideos.com/) - Learn how to improve your product pitch
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
 
 ***
