@@ -654,30 +654,28 @@
 
 ## ▷ Image Viewers
 
-* ⭐ **[IrfanView](https://www.irfanview.com/)**
-* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
-* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
-* ⭐ **[qView](https://interversehq.com/qview/)**
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
-* ⭐ **[Digikam](https://www.digikam.org/)**
-* ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
-* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
-* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
-* [qimgv](https://github.com/easymodo/qimgv)
-* [oculante](https://github.com/woelper/oculante)
-* [PhotoQt](https://github.com/luspi/photoqt)
-* [PicView](https://picview.org/)
-* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
-* [Image Eye](https://www.fmjsoft.com/imageeye.html)
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [Fragment](https://www.fragmentapp.info/)
-* [HoneyView](https://en.bandisoft.com/honeyview/)
-* [picturama](https://picturama.github.io/)
-* [narrative](https://narrative.so/)
-* [G'MIC](https://gmic.eu/)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
-* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers
-* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
+* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
+* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)** / Windows
+* ⭐ **[FastStone](https://www.faststone.org/index.htm)** / Windows
+* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, Mac, Linux / [GitHub](https://github.com/jurplel/qView)
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)** / Windows, Mac, Linux
+* ⭐ **[Digikam](https://www.digikam.org/)** / Windows, Mac, Linux 
+* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows / [Discord](https://discord.com/invite/tWjbynH2X8) / [GitHub](https://github.com/d2phap/ImageGlass) 
+* [nomacs](https://nomacs.org/) / Windows, Mac, Linux / [GitHub](https://github.com/nomacs/nomacs)
+* [PhotoQt](https://photoqt.org/) / Windows, Mac, Linux / [GitLab](https://gitlab.com/lspies/photoqt)
+* [qimgv](https://github.com/easymodo/qimgv) / Windows, Mac, Linux
+* [oculante](https://github.com/woelper/oculante) / Windows, Mac, Linux
+* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, Mac, Linux
+* [Fragment](https://www.fragmentapp.info/) / Windows, Mac, Linux
+* [PicView](https://picview.org/) / Windows / [GitHub](https://github.com/Ruben2776/PicView)
+* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / Windows / [GitHub](https://github.com/ModuleArt/quick-picture-viewer)
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
+* [G'MIC](https://gmic.eu/) / Windows, Linux / [GitHub](https://github.com/GreycLab/gmic)
+* [BeeRef](https://beeref.org/) Reference Image Viewer / Windows, Mac, Linux [GitHub](https://github.com/rbreu/beeref)
+* [PureRef](https://www.pureref.com/) - Reference Image Viewer / Windows, Mac, Linux
+* [HDRView](https://github.com/wkjarosz/hdrview) - HDR Focused Imager Viewer / Windows, Mac, Linux, Web
+* [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewer / Windows, Mac, Linux
 
 ***
 
