@@ -255,7 +255,6 @@
 ## ▷ Linux Image
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer

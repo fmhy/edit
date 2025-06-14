@@ -342,7 +342,6 @@
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
-* [Uploadev](https://uploadev.org/) - 10GB / 180 Days After Last Download w/ Account
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
@@ -364,7 +363,7 @@
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
-* [Clicknupload](https://clicknupload.co/), [2](https://clicknupload.click) - 10GB / 8 Days / Account Required
+* [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Account Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 3 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Discord](https://discord.gg/2yUEQPxTTU) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders

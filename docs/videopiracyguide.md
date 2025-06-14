@@ -56,7 +56,6 @@
 * [catflix](https://catflix.su/) - Movies / TV
 * [Soaper](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
-* [ZILLAXR](https://zilla-xr.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/ynfvjgHrBd)
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Discord](https://l.cinemadeck.com/discord)
 * [Wooflix](https://wooflix.tv/) - Movies / TV / Anime / 720p
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime

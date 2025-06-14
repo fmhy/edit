@@ -651,7 +651,7 @@
 
 ## ▷ Streaming
 
-* [moviedrive](https://moviedrive.hu/kezdolap/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [moviedrive](https://moviedrive.hu/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
 * [filmezek](https://filmezek.com/) - Movies

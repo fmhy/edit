@@ -49,7 +49,6 @@
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
 * [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -561,7 +560,6 @@
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [HealthMode](https://www.healthmode.app/), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
