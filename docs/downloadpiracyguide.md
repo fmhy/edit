@@ -33,7 +33,6 @@
 ***
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
@@ -44,7 +43,6 @@
 * [Merlin Warez](https://merlinwz.com/) - Video / Audio / Books / Audiobooks / Comics / Magazines
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / ROMs / Books / [Discord](https://discord.gg/kf9FKQx)
 * [DownDuck](https://www.downduck.com/) - Video / Audio / Books / Magazines
-* [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / ROMs / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [AyakaLounge](https://ayakalounge.me/) - Video / Audio / ROMs
@@ -52,7 +50,6 @@
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
 * [WarezLoad](https://warezload.net/index.php) - Video / Audio / Books
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / NSFW
-* [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Books / Leech Required
 * [Leaker](https://leaker.me/) - Video / Audio
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
@@ -84,7 +81,6 @@
 * [Meawfy](https://meawfy.com/) - Mega, GoFile and MediaFire Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
-* [fidigger](https://fidigger.com/)
 * [filesearch.link](https://filesearch.link/)
 * [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
