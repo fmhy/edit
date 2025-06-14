@@ -684,22 +684,19 @@
 ## ▷ Self-Hosted Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-* [Immich](https://immich.app/) / [GitHub](https://github.com/immich-app/immich)
-* [Damselfly](https://github.com/Webreaper/Damselfly)
-* [HomeGallery](https://home-gallery.org/)
-* [LibrePhotos](https://github.com/LibrePhotos/librephotos)
-* [Lychee](https://lycheeorg.github.io/)
-* [Photoprism](https://github.com/photoprism/photoprism)
-* [Photoview](https://github.com/photoview/photoview)
-* [Photonix](https://photonix.org/)
-* [photos](https://github.com/nextcloud/photos/)
-* [imagestore](https://github.com/gregordr/imagestore)
-* [Memories](https://memories.gallery/)
-* [Piwigo](https://piwigo.org/)
-* [PiGallery 2](https://bpatrik.github.io/pigallery2/)
-* [PicoShare](https://github.com/mtlynch/picoshare)
-* [Up1](https://github.com/Upload/Up1)
-* [Chevereto](https://chevereto.com/)
+* ⭐ **[Immich](https://immich.app/)** / All Platforms / [Discord](https://discord.com/invite/cHD2af9DbA) / [GitHub](https://github.com/immich-app/immich)
+* [Memories](https://memories.gallery/) / All Platforms / [Discord](https://discord.com/invite/7Dr9f9vNjJ) / [GitHub](https://github.com/pulsejet/memories)
+* [HomeGallery](https://home-gallery.org/) / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/kbvmvadCwe) / [GitHub](https://github.com/xemle/home-gallery)
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos) / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/xwRvtSDGWb)
+* [Lychee](https://lycheeorg.github.io/) / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/JMPvuRQcTf) / [GitHub](https://github.com/LycheeOrg/Lychee)
+* [Photoprism](https://www.photoprism.app/) / All Platforms / [GitHub](https://github.com/photoprism/photoprism)
+* [Photoview](https://photoview.github.io/) / All Platforms / [GitHub](https://github.com/photoview/photoview)
+* [imagestore](https://github.com/gregordr/imagestore) / Windows, Mac, Linux, Web 
+* [Damselfly](https://github.com/Webreaper/Damselfly) / Windows, Mac, Linux
+* [Piwigo](https://piwigo.org/) / All Platforms / [GitHub](https://github.com/Piwigo/Piwigo)
+* [PiGallery 2](https://bpatrik.github.io/pigallery2/) / All Platforms / [GitHub](https://github.com/bpatrik/pigallery2)
+* [PicoShare](https://github.com/mtlynch/picoshare) / All Platforms 
+* [Chevereto](https://chevereto.com/) / All Platforms
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
