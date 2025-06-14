@@ -522,17 +522,17 @@
 
 ## ▷ Chess
 
-* ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
-* ⭐ **[lichess](https://lichess.org/)**, [PyChess](https://www.pychess.org/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
-* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
+* ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+* ⭐ **[lichess](https://lichess.org/)**, [PyChess](https://www.pychess.org/), [GameKnot](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
+* ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
-* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Chess Base](https://www.chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
+* [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
+* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [playlaser.xyz](https://playlaser.xyz/) - Alternative-Style Chess
+* [Chess Base](https://www.chessbase.in/), [2](https://en.chessbase.com/) - Indian Chess News
 
 ***
 
