@@ -500,6 +500,11 @@
 * [lishogi.org](https://lishogi.org/) - Shogi
 * [Online GO](https://online-go.com/) - Multiplayer GO
 * [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* [Colonist](https://colonist.io/) - Settlers of Catan-Style Board Game
+* [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Tabletop Game / [Discord](https://discord.gg/KM2ggJtkMr)
+* [Party Project](https://char64.itch.io/partyproject) - Mario Party-Style Tabletop Games
+* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Tabletop Games
+* [PlayOK](https://www.playok.com/) - Multiplayer Tabletop Games
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games
 * [Tabletopia](https://tabletopia.com/) - Online Board Games
@@ -531,44 +536,42 @@
 
 ## ▷ Dungeons & Dragons
 
-* ↪️ **[D&D Creator Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_d.26amp.3Bd_creator_tools)**
+* ↪️ **[]()**
 * ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** - D&D Tools & Learning Resources
-* ⭐ **[5etools](https://5e.tools/)** - 5E Rules & Content Reference
+* ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content Reference
 * ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Digital Toolset for 5E
- ---
-* ⭐ **[Kobold Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
-* [RPGBot](https://rpgbot.net/) - Optimization Guides & Class Builds
+* ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
+* [RPGBOT](https://rpgbot.net/) - Optimization Guides & Class Builds
+---
+* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
+* [NaturalCrit](https://naturalcrit.com/) - Make Authentic-Looking 5E Homebrews & Badges
 * [GM Binder](https://www.gmbinder.com/) - Homebrew Document Designer
 * [D&D Wiki](https://www.dandwiki.com/) - Fan-Made Homebrew Archive
 * [World Anvil](https://www.worldanvil.com/) - Campaign Worldbuilding Suite
 * [Scabard](https://www.scabard.com/) - Campaign Wiki & Session Planner
 * [Avrae](https://avrae.io/) - Discord Bot for D&D Automation
----
-from tabletop tools:
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
+* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/) - AD&D / D&D Resources / [World Building Checklist](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html)
-* [The Acaeum](https://www.acaeum.com/) - D&D Database
-* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - D&D Rules
 
 ***
 
 ## ▷ Card Games
 
-* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
-* [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
-* [gTOONS](https://gtoons.app/) - Cartoon Network Strategy Card Game Revival / [Discord](https://discord.gg/KM2ggJtkMr)
-* [BlackReds](https://blacksreds.com/) - Multiplayer Card Games
-* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
-* [Playok](https://www.playok.com/) - Multiplayer Card Games
-* [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
-* [PictureCards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [AllBad.Cards](https://bad.cards/) or [Pretend You're](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity Online
-* [Cards Against Humanity](https://www.cardsagainsthumanity.com/#downloads) - Printable Cards Against Humanity
-* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Online Solitaire
-* [PySolFC](https://pysolfc.sourceforge.io/) - Downloadable Solitaire / [GitHub](https://github.com/shlomif/PySolFC)
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
+* ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
+* ⭐ **[Codenames](https://codenames.game/)** - Party Card Game
+* [CardGames.io](https://cardgames.io/) - Multiplayer Card Games
+* [247Games](https://www.247games.com/) - Multiplayer Card Games
+* [CardzMania](https://www.cardzmania.com/) - Multiplayer Card Games
+* [BlacksReds](https://blacksreds.com/) - Multiplayer Card Games
+* [PlayOK](https://www.playok.com/) - Multiplayer Card Games
+* [PlayingCards.io](https://playingcards.io/) - Multiplayer Card Games
+* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity
+* [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
+* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
+* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
+* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
 
 ***
 
@@ -681,8 +684,7 @@ from tabletop tools:
 * ⭐ **[Eaglercraft](https://eaglercraft.com/)**, [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eaglercraft-note) / [Site List](https://deev.is/)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://servers.eaglercraft.com/)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
-* ⭐ **[Codenames](https://codenames.game/)** - Party Card Games
-* ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
+* ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[skribbl](https://skribbl.io/)**, [DrawBattle](https://drawbattle.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) or [MiniBlox](https://miniblox.io/) - Online Minecraft Clones

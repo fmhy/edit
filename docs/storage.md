@@ -186,18 +186,6 @@
 
 ***
 
-## D&D Creator Tools
-
-* ⭐ **[Donjon](https://donjon.bin.sh/)** - Procedural Generator Collection
-* [TetraCube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
-* [NaturalCrit](https://naturalcrit.com/) - Make Authentic-Looking 5E Homebrews & Badges
-* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural Map Creator
-* [One Page Dungeon Generator](https://watabou.itch.io/one-page-dungeon) - Minimal Dungeon Creator
-* [Inkarnate](https://inkarnate.com/) - Custom Map Maker With Drag-n-Drop Editor
-* [DungeonFog](https://www.dungeonfog.com/) - Advanced Map Builder & Scene Preparer
-
-***
-
 ## Encrypted XMPP Servers
 
 [Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [404.city](https://404.city/)

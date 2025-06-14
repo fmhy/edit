@@ -943,7 +943,7 @@
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
-* [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
+* [Map Generator](https://emptybuttons.itch.io/map-generator) - TTRPG Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
-* [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
+* [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
 * [Untap.in](https://untap.in/) - Test Card Game Decks
