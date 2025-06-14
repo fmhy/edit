@@ -700,7 +700,6 @@
 * [TechBooksFree](https://techbooksforfree.com/)
 * [Ebooks-it](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
-* [free-programming-books](https://github.com/chrislgarry/free-programming-books)
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [GoalKicker](https://goalkicker.com/)
 * [LetMeRead](https://www.letmeread.net/) - Has NSFW Ads

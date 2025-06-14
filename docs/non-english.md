@@ -324,7 +324,7 @@
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [NG Tech](https://ng-tech.icu/) - Documents
-* [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
+* [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [Banshujiang](http://www.banshujiang.cn/) - Programming Books
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
 * [owlook](https://www.owlook.com.cn/) - Chinese Web Novel Search / [GitHub](https://github.com/howie6879/owllook)
@@ -480,7 +480,7 @@
 * [canalsport](https://canalsport.ru/) - Live Sports
 * [JokerTV](https://jokertv.ru/) - Live Football
 * [remontadatv](https://remontadatv.ru/) - Live Football
-* [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
+* [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p 
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 * [Grafikart](https://grafikart.fr/) - Programming Courses
@@ -656,7 +656,7 @@
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
 * [filmezek](https://filmezek.com/) - Movies
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
-* [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/xcgeYp3)
+* [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/blackfire)
 
 ***
 
@@ -1748,7 +1748,7 @@
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/), [AnimeciX](https://anm.cx/), [SeiCode](https://seicode.net/), [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [CanlıTV](https://www.canlitv.me/) - Live TV
-* [KralBozguncu](https://discord.gg/7rVwCEsZv9) or [Bozguncu Kirathanesi](https://discord.com/invite/Bzm9pgH9QA) - Live Football
+* [Bozguncu Kirathanesi](https://discord.com/invite/Bzm9pgH9QA) - Live Football
 
 ## ▷ Reading / Okuma
 

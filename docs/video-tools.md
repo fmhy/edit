@@ -199,7 +199,6 @@
 * [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
 * [KikoPlay](https://kikoplay.fun/) - Video Player
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
-* [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
 * [PlayVideo](https://playvideos.pages.dev/) - Google Drive Video Player
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
