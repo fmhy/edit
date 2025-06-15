@@ -790,7 +790,6 @@
 
 * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
 * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
-* [RPGBOT](https://rpgbot.net/) - RPG / TTRPG Tools & Learning Resources
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
 * [Dynast](https://dynast.io/) - Survival Browser Game
