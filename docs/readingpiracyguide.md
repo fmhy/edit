@@ -158,6 +158,10 @@
 * [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
 * [Esoteric Archive](https://esotericarchives.com/) - Esoterica
 * [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
+* [magZtore](https://t.me/magZtore) - Esoterica / Telegram
+* [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
+* [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
+* [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism

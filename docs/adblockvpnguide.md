@@ -366,6 +366,7 @@
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[How to Bind VPN to Client](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
+* ⭐ **[Tailscale](https://tailscale.com/)** or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [WGDashboard](https://donaldzou.github.io/WGDashboard-Documentation/) - WireGuard Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
 * [OpenVPN](https://openvpn.net/) or [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnels
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
@@ -385,7 +386,7 @@
 ## ▷ Proxy Apps
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Self-Hosted Proxy Client
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
+* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers / [Privacy Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#v2nodes)
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service / [Privacy Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hola-proxy-note)
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions

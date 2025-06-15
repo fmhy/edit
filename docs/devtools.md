@@ -191,7 +191,6 @@
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
 * [Gel](https://www.geldata.com/) - SQL Alternative
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
-* [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
 
 ***
@@ -327,7 +326,7 @@
 
 ## ▷ CLI Tools
 
-* ↪️ **[CLI Cheat Sheets](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
+* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [Charm](https://charm.sh/) - Add Backend to Terminal-Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
@@ -417,9 +416,27 @@
 
 ***
 
+## ▷ Game Assets
+
+* [Itch.io Assets](https://itch.io/game-assets/free) - Free Game Assets
+* [Kenney](https://www.kenney.nl/) - Free Game Assets
+* [Dev Assets](https://devassets.com/) - Free Game Assets
+* [Quaternius](https://quaternius.com/) - Free Game Assets
+* [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
+* [Game-icons](https://game-icons.net/) - Game Icons
+* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
+* [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files
+* [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
+* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
+* [GameDev Market](https://www.gamedevmarket.net/) - Assets for Indie Developers
+* [OpenGameArt.org](https://opengameart.org/) - Game Art Community
+* [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
+* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
+
+***
+
 ## ▷ Asset Creation
 
-* ↪️ **[Download Game Assets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_assets)**
 * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
 * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
@@ -731,7 +748,7 @@
 ## ▷ React
 
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [ReactBits](https://www.reactbits.dev/), [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
+* [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Refine](https://refine.dev/) - React App Builders
@@ -877,7 +894,7 @@
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
-* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
+* ⭐ **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
@@ -1019,7 +1036,7 @@
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
 * [tiny.pictures](https://tiny.pictures/) - Image Optimization
 * [Ihancer](https://ihancer.com) - Image Optimization
-* [Waifu2x](https://waifu2x.booru.pics) - Image Optimization
+* [Waifu2x](https://www.waifu2x.net/) - Image Optimization
 * [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization
 * [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
 
@@ -1140,7 +1157,6 @@
 * [mitmproxy](https://mitmproxy.org/) - Analyze and modify HTTPS traffic / [OpenAPI Converter](https://github.com/alufers/mitmproxy2swagger) / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
-* [Tailscale](https://tailscale.com/) - Secure Network VPN
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
 * [BadSSL](https://badssl.com/) - Test Clients Against Bad SSL Configs
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)

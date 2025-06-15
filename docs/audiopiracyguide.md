@@ -97,6 +97,7 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes / Streaming
+* [BBC Essential Mix](https://rentry.co/FMHYBase64#bbc-essential) - BBC Essential Mix / 1993-2023 / Torrent
 * [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archive / DJ Mixes / Streaming
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
@@ -438,6 +439,7 @@
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit with VPN
 * [QMusic](https://rentry.co/FMHYBase64#qmusic) - MP3 / FLAC
+* [opendir](https://rentry.co/FMHYBase64#opendir) - MP3
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -485,7 +487,7 @@
 * [1Techno](https://1techno.org/) - Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
 * [oVPN DJ Mixes](https://rentry.co/FMHYBase64#ovpn-dj-mixes) - DJ Mixes
-* [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archive / DJ Mixes
+* [MiroPPB](https://miroppb.com/) / [DL Script](https://pastebin.com/raw/GZ7AvbwV) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [LOA2K](https://loa2k.neocities.org/) or [Nu Guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
 * [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
 * [EssentialHouse](https://essentialhouse.club/) - House / MP3
@@ -531,10 +533,10 @@
 * [TheMixingBowl](https://themixingbowl.org/) - Forum / Mixes / MP3 / Sign-Up Required
 * [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3 320kb / FLAC
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
-* [the /kpg/ torrent](https://kpgtorrent.neocities.org/) - 900GB+ K-Pop Torrent File / MP3 320kb / FLAC
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3 / Various Bitrates
 * [TorrentTech](https://torrents.torrentech.org/) - Electronic / MP3 320kb / Sign-Up Required / [Zip File](https://rentry.co/FMHYBase64#torrenttech-zip)
 * [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
+* [the /kpg/ torrent](https://rentry.co/FMHYBase64#kpop-torrent) - K-Pop / MP3 320kb / FLAC
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 * [NFO DB](https://nfodb.net.ru/) - MP3 NFO Database
 * [PreDB.eu](https://predb.eu) - Music PreDB

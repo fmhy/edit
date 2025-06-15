@@ -26,7 +26,7 @@
 * [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/) - Movies / TV / Anime / [Discord](https://discord.gg/MhuUqxwy)
 * [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
-* [Asgard Stream](https://asgard-stream.pages.dev/) - Movies / TV / Anime / [Telegram](https://t.me/asgardstream)
+* [Asgard Stream](https://asgardstream.xyz/) - Movies / TV / Anime / [Telegram](https://t.me/asgardstream)
 * [uira.live](https://uira.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5ACWhK4Dzf)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Watch Parties / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
@@ -368,6 +368,7 @@
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [time4tv.top](https://time4tv.top/) - TV / Sports
+* [USTVGo](https://ustvgo.click/) - TV / Sports / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7)
 * [LiveHDTV](https://www.livehdtv.com/) - TV
 * [IPTV Play](https://iptvplay.stream/live-tv) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
@@ -482,6 +483,7 @@
 * [OvertakeFans](https://overtakefans.com/) - Motorsports Replays / [Discord](https://discord.gg/ZKwTUbdbmc)
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
+* [opendir](https://rentry.co/FMHYBase64#opendir) - Motorsports Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
 
 ***
@@ -634,6 +636,7 @@
 ## ▷ Drives / Directories
 
 * ⭐ **[Scloud](https://rentry.co/FMHYBase64#scloud)** - Movies / TV / 4K / [Telegram](https://t.me/scloudmediahub)
+* ⭐ **[Acer Movies](https://rentry.co/FMHYBase64#acermovies)** - Movies / TV / Anime
 * ⭐ **[111477](https://rentry.co/FMHYBase64#directory-111477)** - Movies / TV / Anime / [Discord](https://discord.gg/YjkP4pANpg)
 * ⭐ **[PK Movies](https://rentry.co/FMHYBase64#pk-movies)** - Movies / TV / Anime
 * ⭐ **[DramaSuki](https://rentry.co/fmhybase64#dramasuki)** - Asian Drama
@@ -642,6 +645,7 @@
 * [⁠T4TSA](https://t4tsa.cc/) - Movies / TV / Telegram
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
+* [opendir](https://rentry.co/FMHYBase64#opendir) - Stand Up Comedy
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
 
 ***

@@ -36,7 +36,7 @@
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement
+* [G-Helper](https://github.com/seerge/g-helper) - Amoury Crate Replacement for ASUS Laptops
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lenovo Vantage Replacement
 
 ***
