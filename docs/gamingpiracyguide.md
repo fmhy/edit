@@ -526,29 +526,25 @@
 * [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [Pokemon Chess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [playlaser.xyz](https://playlaser.xyz/) - Alternative-Style Chess
-* [Chess Base](https://www.chessbase.in/), [2](https://en.chessbase.com/) - Indian Chess News
+* [ChessBase](https://www.chessbase.in/) / [English](https://en.chessbase.com/) - Indian Chess News
 
 ***
 
 ## ▷ Dungeons & Dragons
 
-* ↪️ **[D&D Map Creators / Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
-* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** - D&D Tools & Learning Resources
+* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)** - Map Building, Campaign Managers, Worldbuilding Suites, etc.
+* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
 * ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
 * ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Digital Toolset for 5E
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
-* [RPGBOT](https://rpgbot.net/) - Optimization Guides & Class Builds
----
 * [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
+* [D&D Wiki](https://www.dandwiki.com/) - Fan-Made D&D Homebrew Wiki
 * [NaturalCrit](https://naturalcrit.com/) - Make Authentic-Looking 5E Homebrews & Badges
 * [GM Binder](https://www.gmbinder.com/) - Homebrew Document Designer
-* [D&D Wiki](https://www.dandwiki.com/) - Fan-Made Homebrew Archive
-* [World Anvil](https://www.worldanvil.com/) - Campaign Worldbuilding Suite
-* [Scabard](https://www.scabard.com/) - Campaign Wiki & Session Planner
-* [Avrae](https://avrae.io/) - Discord Bot for D&D Automation
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager
+* [Avrae](https://avrae.io/) - D&D Automation Discord Bot
+---
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/) - AD&D / D&D Resources / [World Building Checklist](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html)
 
 ***
@@ -563,8 +559,8 @@
 * [BlacksReds](https://blacksreds.com/) - Multiplayer Card Games
 * [PlayOK](https://www.playok.com/) - Multiplayer Card Games
 * [PlayingCards.io](https://playingcards.io/) - Multiplayer Card Games
-* [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Tabletop Game / [Discord](https://discord.gg/KM2ggJtkMr)
-* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity
+* [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Card Game / [Discord](https://discord.gg/KM2ggJtkMr)
+* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
@@ -793,6 +789,8 @@
 ## ▷ RPGs
 
 * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
+* ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
+* [RPGBOT](https://rpgbot.net/) - RPG / TTRPG Tools & Learning Resources
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
 * [Dynast](https://dynast.io/) - Survival Browser Game
