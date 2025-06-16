@@ -27,6 +27,7 @@
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
+* [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
 
 ***
 
@@ -79,7 +80,7 @@
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux 
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
@@ -271,8 +272,8 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
-* [Emby](https://emby.media/) - Media Server
 * [Plex](https://www.plex.tv/) - Media Server
+* [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
@@ -408,8 +409,6 @@
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
 * ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up Required
-* [VideoToolbox](https://www.videotoolbox.com/) - Sign-Up Required
-* [VideoInu](https://videoinu.com/) - Works Offline
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
@@ -505,7 +504,6 @@
 * [Videvo](https://www.videvo.net/) - Stock Videos
 * [veed.io](https://www.veed.io/videos) - Stock Videos
 * [VidsPlay](https://www.vidsplay.com/) - Stock Videos
-* [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Stock Videos
 * [MixKit](https://mixkit.co/) - Stock Videos
 * [ineedfx](https://ineedfx.com/) - Stock Videos
 * [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos

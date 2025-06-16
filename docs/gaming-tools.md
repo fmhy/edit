@@ -43,8 +43,8 @@
 ## ▷ Game Launchers
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
+* ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** (closed source) / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) - Game Libraries / Launchers
-* [Ascendara](https://ascendara.app/) - Game Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
@@ -91,7 +91,6 @@
 
 * ⭐ **[DS4Windows](https://github.com/TRARS/DS4Windows)** / [2](https://github.com/schmaldeo/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#steam-controller-support)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
-* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
 * [JoyToKey](https://joytokey.net/en/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
@@ -193,8 +192,8 @@
 
 # ► Tracking / Databases
 
-* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#glitchwave-note)
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#glitchwave-note)
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database
 * [IGDB](https://www.igdb.com/) - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database
@@ -223,7 +222,7 @@
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
 * [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
-* [Co-Optimu](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
+* [Co-Optimus](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
@@ -241,7 +240,7 @@
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
 * ⭐ **[AcclaimedVideoGames](https://www.acclaimedvideogames.com/)** or **[VideoGameCanon](https://www.videogamecanon.com/)** - Game Top 1000 List
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
-* ⭐ **[TasteDive](https://tastedive.com/games)**, [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/games)** or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Game Recommendation Guides
 * [Board Game Breakdown](https://boardgamebreakdown.com/) - Board Game Reviews
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
@@ -346,7 +345,6 @@
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
 * 🌐 **[⁠CoD All](https://gitlab.com/xifil/cod-all)** - CoD Multiplayer Mod Index
 * ⭐ **[Plutonium](https://plutonium.pw/)** - COD BO1/BO2, MW3 and WaW Multiplayer Client / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
-* [AlterWare](https://alterware.dev/) - COD MW2 (2009), MW3, BO3, AW and Ghosts Multiplayer Client / [Discord](https://discord.gg/2ETE8engZM) / [GitHub](https://github.com/mxve/alterware-launcher)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
@@ -524,7 +522,7 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
+* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)** or [Image Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)
@@ -900,7 +898,7 @@
 ## ▷ Terraria Tools
 
 * ⭐ **[Terraria Wiki](https://terraria.wiki.gg/)** or [Terranion](https://yal.cc/r/terranion/) - Terraria Wikis
-* [tShock](https://github.com/Pryaxis/TShock) - Terraria Server Tools / [Plugins](https://github.com/Pryaxis/Plugins)
+* [tShock](https://github.com/Pryaxis/TShock) - Terraria Server Tools
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
