@@ -721,6 +721,7 @@
 
 * 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
 * ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
+* [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 * [RPGBOT](https://rpgbot.net/) - RPG / TTRPG Tools & Learning Resources
 * [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
 * [Tabletop Audio](https://tabletopaudio.com/) - Immersive Soundtracks for TTRPGs
@@ -739,7 +740,7 @@
 
 * ⭐ **[donjon](https://donjon.bin.sh/)** - Procedural Generators Collection
 * ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
-* [watabou](https://watabou.itch.io/) - Generators for Fantasy, Dungeons, and More
+* [watabou](https://watabou.itch.io/) - Generators for Fantasy Worlds, Dungeons, and More
 ---
 * [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - TTRPG Map Generator

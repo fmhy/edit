@@ -502,7 +502,6 @@
 * [Screentop](https://screentop.gg/) - Online Tabletop Games / [Discord](https://discord.gg/wva8ebh)
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Account Required
-* [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 * [MahjongFun](https://www.mahjongfun.com/), [Mahjong 4 Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
 * [lishogi.org](https://lishogi.org/) - Shogi
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO
@@ -532,23 +531,6 @@
 
 ***
 
-## ▷ Dungeons & Dragons
-
-* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)** - Map Building, Campaign Managers, Worldbuilding Suites, etc.
-* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
-* ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
-* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Digital Toolset for 5E
-* ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
-* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
-* [D&D Wiki](https://www.dandwiki.com/) - Fan-Made D&D Homebrew Wiki
-* [NaturalCrit](https://naturalcrit.com/) - Make Authentic-Looking 5E Homebrews & Badges
-* [GM Binder](https://www.gmbinder.com/) - Homebrew Document Designer
-* [Avrae](https://avrae.io/) - D&D Automation Discord Bot
----
-* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/) - AD&D / D&D Resources / [World Building Checklist](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html)
-
-***
-
 ## ▷ Card Games
 
 * ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
@@ -563,10 +545,14 @@
 * [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
-* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
+* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+
+***
+
+## ▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
 
 ***
 
