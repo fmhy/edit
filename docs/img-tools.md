@@ -128,8 +128,9 @@
 * [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
-* [Graphite](https://graphite.rs/) - Vector Editors / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
-* [VectorInk](https://vectorink.io/) - Vector Graphics Editor / iOS, Web
+* [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
+* [⁠Vectorpea](https://www.vectorpea.com/) - Vector Editor / Web
+* [VectorInk](https://vectorink.io/) - Vector Editor / iOS, Web
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing / Web
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting / Web
