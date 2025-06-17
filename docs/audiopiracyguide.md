@@ -403,7 +403,6 @@
 ***
 
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
-* ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Frontend](https://artistgrid.netlify.app/) / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
@@ -455,7 +454,6 @@
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [SongStems](https://songstems.net/) - STEM Files
 * [BitMidi](https://bitmidi.com/), [Geocities Midis](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
-* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/kQUQkuwSaT) - Music Hoarding Community / [Wiki](https://wiki.musichoarders.xyz/)
 
 ***
@@ -539,6 +537,28 @@
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
 * [NFO DB](https://nfodb.net.ru/) - MP3 NFO Database
 * [PreDB.eu](https://predb.eu) - Music PreDB
+
+***
+
+# ► Royalty Free Music
+
+* ⭐ **[NCS](https://ncs.io/)** - Copyright Free Music
+* ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - Music / Sound Effects
+* [UppBeat](https://uppbeat.io/) - Music for Creators
+* [BenSound](https://www.bensound.com/) - Popular Library
+* [Unminus](https://www.unminus.com/) - Professional Tracks
+* [FreePD](https://freepd.com/) - Public Domain Music
+* [Free Music Archive](https://freemusicarchive.org/) - Curated Library
+* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library
+* [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
+* [Fugue](https://icons8.com/music) - Music for Creators
+* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library
+* [tunetank](https://tunetank.com/) - Music for Videos
+* [purple-planet](https://www.purple-planet.com/) - Duo Composers
+* [freemusicpublicdomain](https://www.freemusicpublicdomain.com/) - Public Domain Tracks
+* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library
+* [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
+* [Sampld](https://sampld.app/) - Sample Finder
 
 ***
 
