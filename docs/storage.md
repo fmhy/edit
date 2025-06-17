@@ -372,16 +372,6 @@
 
 ***
 
-## Google Piracy Discussion Groups
-
-* https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
-* https://groups.google.com/forum/#!forum/sammytorrents
-* https://groups.google.com/g/rdrivelinks
-* https://groups.google.com/g/torrentleech-gdrive
-* https://groups.google.com/g/monarch-cloud
-
-***
-
 ## Instagram Viewers / Downloaders
 
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
