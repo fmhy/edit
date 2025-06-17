@@ -895,6 +895,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* [Zola Analytics](https://www.zolaanalytics.com/) - Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds.
 
 ***
 
