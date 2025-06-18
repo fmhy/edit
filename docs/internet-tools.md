@@ -546,6 +546,7 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager
+* [HyperURLs.com](https://hyperurls.com?ref=edit) - Web-Based Manager & Chrome Extension
 * [Start.me](https://about.start.me/) - Web-Based Manager
 * [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
 * [wallabag](https://wallabag.org/) - Web-Based Manager
