@@ -115,6 +115,7 @@
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
+* [EKHOS AI](https://ekhos.ai/) - AI Transcription Tool
 
 ***
 
