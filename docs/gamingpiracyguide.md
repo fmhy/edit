@@ -650,7 +650,6 @@
 * [TextAventures](http://textadventures.co.uk/) - User-Made Text Adventures
 * [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/) or [Level 13](https://nroutasuo.github.io/level13/) - Individual Adventures
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROMs
-* [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
 * [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
 
 ***
@@ -797,7 +796,6 @@
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
 * [Incremancer](https://incremancer.gti.nz/) or [Danemancer](https://cirusdane.github.io/incremancer/) - Incremental Zombie Game
 * [A Dark Room](https://adarkroom.doublespeakgames.com/) - Dark Room Survival Game
-* [The Fed](https://thefed.app/) - Incremental Banking Game
 * [WarClicks](https://warclicks.com/) - Incremental War Game
 * [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
