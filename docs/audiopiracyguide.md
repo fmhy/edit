@@ -84,6 +84,7 @@
 * 🌐 **[365 Radio](https://365.ilysm.nl/)** - List of YouTube DJ Channels
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/FMHYBase64#bbc-essential)** - BBC Essential Mix
 * ⭐ **[MiroPPB](https://miroppb.com/)** / [DL Script](https://pastebin.com/raw/GZ7AvbwV) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -97,7 +98,6 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes / Streaming
-* [BBC Essential Mix](https://rentry.co/FMHYBase64#bbc-essential) - BBC Essential Mix / 1993-2023 / Torrent
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
