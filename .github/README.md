@@ -4,7 +4,7 @@
 
 <p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
-**This site does not store any files on our server, we only link to external websites.**
+<p align="center"> **This site does not store any files on our server, we only link to external websites.**</p>
 
 ## 📖 Wiki
 
