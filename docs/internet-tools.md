@@ -28,8 +28,6 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
-* [NeverSSL](http://neverssl.com/) - Fix Public Wi-Fi Login Pages
-* [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
 * [MAC Address](https://macaddress.io/) - MAC Address Lookup
 * [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
@@ -60,7 +58,7 @@
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
-* ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
+* ⭐ **[wallabag](https://wallabag.org/)**  or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
@@ -323,7 +321,7 @@
 * [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
-* [Backlink Tool](https://backlinktool.io/) or [IndexKings](http://www.indexkings.com/) - URL Indexer
+* [IndexKings](http://www.indexkings.com/) - URL Indexer
 
 ***
 
@@ -628,7 +626,6 @@
 * [Omni](https://github.com/alyssaxuu/omni) - Browser Quick Launcher
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
-* [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
@@ -858,6 +855,7 @@
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
 * [MetaOSINT](https://metaosint.github.io/) - OSINT Search Tool / [GitHub](https://github.com/MetaOSINT/MetaOSINT.github.io/)
+* [Mitaka](https://github.com/ninoseki/mitaka) - OSINT Search Extension
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - OSINT Guides

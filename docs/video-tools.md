@@ -22,7 +22,6 @@
 ## ▷ Disc Utilities
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
@@ -79,7 +78,7 @@
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux 
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
@@ -199,8 +198,8 @@
 * [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
 * [KikoPlay](https://kikoplay.fun/) - Video Player
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
-* [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
 * [PlayVideo](https://playvideos.pages.dev/) - Google Drive Video Player
+* [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
@@ -272,8 +271,8 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
-* [Emby](https://emby.media/) - Media Server
 * [Plex](https://www.plex.tv/) - Media Server
+* [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
@@ -409,8 +408,6 @@
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
 * ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up Required
-* [VideoToolbox](https://www.videotoolbox.com/) - Sign-Up Required
-* [VideoInu](https://videoinu.com/) - Works Offline
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
@@ -483,8 +480,8 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [Spritesheet Generator](https://sprite-gen.xvx.sh/) - Spritesheet Generator / [Source Code](https://gitea.directonline.io/noxious/spritesheet-generator)
+* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [JPixel](https://emad.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator / [Source Code](https://git.xvx.sh/root/spritesheet-generator)
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Viggle](https://viggle.ai/) / [Discord](https://discord.com/invite/viggle) or [Picrew](https://picrew.me/) - Animated Character Creators
@@ -506,7 +503,6 @@
 * [Videvo](https://www.videvo.net/) - Stock Videos
 * [veed.io](https://www.veed.io/videos) - Stock Videos
 * [VidsPlay](https://www.vidsplay.com/) - Stock Videos
-* [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Stock Videos
 * [MixKit](https://mixkit.co/) - Stock Videos
 * [ineedfx](https://ineedfx.com/) - Stock Videos
 * [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos

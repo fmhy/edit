@@ -6,6 +6,8 @@
 
 # ► Linux Guides
 
+* ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)** - Linux Guides
+* ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** - Linux Guides
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
@@ -255,7 +257,6 @@
 ## ▷ Linux Image
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
@@ -289,7 +290,7 @@
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
-* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
+* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [Native Linux Games](https://rentry.co/FMHYBase64#native-linux-games) - Linux Games
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
@@ -307,6 +308,7 @@
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games Launcher / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
+* [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
@@ -374,7 +376,7 @@
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager
 * [gopass](https://www.gopass.pw/) - CLI Password Manager
 * [KGet](https://apps.kde.org/kget/), [Varia](https://github.com/giantpinkrobots/varia) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Managers
-* [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
+* [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
 * [maestral](https://maestral.app/) - Dropbox Client
 * [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
@@ -551,7 +553,6 @@
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)** - Screenshot Tools
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client / [GitHub](https://github.com/Dimillian/IceCubesApp)
 * [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
@@ -618,6 +619,7 @@
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
+* [Mac App Store](https://macappstre.com/)
 * [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Mac Torrents](https://www.torrentmac.net/)

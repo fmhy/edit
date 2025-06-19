@@ -133,7 +133,7 @@
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
 * [Disable Recall](https://rentry.co/b88ixo8f) - Disable Microsoft Recall on Windows 11
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
-* [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+* [Team Elite](https://www.te-home.net/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer Protocol](https://surferprotocol.org/) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
@@ -221,7 +221,7 @@
 
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
 * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
-* ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/), [3](https://tor.calyxinstitute.org/) - Onion-Routed Browser / [TG Downloads](https://t.me/gettor_bot) / [Telegram](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
+* ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/) - Onion-Routed Browser / [TG Downloads](https://t.me/gettor_bot) / [Telegram](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
 * [LibreWolf](https://librewolf.net/) - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
@@ -345,18 +345,14 @@
 
 # ► VPN
 
-* **Note** - For torrenting, it's recommended to use WARP, or a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
-
-***
-
 * 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Map
-* ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
-* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/FMHYBase64#warp-wireguard) / [Alt Clients](https://github.com/ViRb3/wgcf) / [Mobile](https://github.com/bepass-org/oblivion) / [Desktop](https://github.com/bepass-org/oblivion-desktop)
+* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/FMHYBase64#warp-wireguard) / [Alt Clients](https://github.com/ViRb3/wgcf) / [Mobile Alt](https://github.com/bepass-org/oblivion) / [Desktop Alt](https://github.com/bepass-org/oblivion-desktop)
 * ⭐ **[Windscribe](https://windscribe.com)** -  Free / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[Proton VPN](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator) / [GitHub](https://github.com/riseupnet)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
+* ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [ESET VPN](https://rentry.co/FMHYBase64#eset) - Free / Unlimited
@@ -370,6 +366,7 @@
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[How to Bind VPN to Client](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
+* ⭐ **[Tailscale](https://tailscale.com/)**, [⁠Nebula](https://github.com/slackhq/nebula), [⁠Headscale](https://github.com/juanfont/headscale) or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [WGDashboard](https://donaldzou.github.io/WGDashboard-Documentation/) - WireGuard Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
 * [OpenVPN](https://openvpn.net/) or [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnels
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
@@ -388,8 +385,7 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Self-Hosted Proxy Client
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
+* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - V2Ray / Shadowsock / Hysteria / Naive Proxy Client / Windows, Mac, Linux
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service / [Privacy Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hola-proxy-note)
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
@@ -398,9 +394,9 @@
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Proxy / [GitHub](https://github.com/0xERR0R/blocky)
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
-* [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
-* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Self-Hosted Proxy Sites
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* [Hiddify](https://hiddify.com/) - V2Ray / Shadowsock / Wireguard / SSH Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
+* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Open Source Web Proxy
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Reverse Proxy UI/ [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
@@ -434,11 +430,11 @@
 * ⭐ **[Censorship Bypass Guide](https://2305878273.7844380499.cfd/)** - Censorship Bypass Guide
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** or [⁠Net4people](https://github.com/net4people/bbs/issues) - Censorship Discussion
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
-* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [GitHub](https://github.com/Psiphon-Inc/psiphon)
 * [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
-* [Hysteria](https://v2.hysteria.network/) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
-* [Project X](https://github.com/XTLS/Xray-core) - Anti-Censorship Client and Self-Hosted Server / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
+* [Hysteria](https://v2.hysteria.network/) - Speed-Focused Censorship Bypass Proxy / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
+* [Project X](https://github.com/XTLS/Xray-core) - Anti-Censorship Client / Server Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [sing-box](https://sing-box.sagernet.org/) - Anti-Censorship Client / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
+* [Shadowsocks](https://shadowsocks.org/) - Simple Proxy Protocol to Bypass Censorship / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)

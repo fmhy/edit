@@ -9,7 +9,7 @@
 * ⭐ **[AyuGram](https://t.me/ayugramchat)** / [Docs](https://docs.ayugram.one/)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel)
 
-[Nekogram](https://nekogram.app/), [Momogram](https://github.com/dic1911/Momogram), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Turrit](https://play.google.com/store/apps/details?id=org.telegram.group), [Nicegram](https://nicegram.app/), [Octogram](https://octogramapp.github.io/), [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
+[Nekogram](https://nekogram.app/) / [GitHub](https://github.com/Nekogram/Nekogram/), [Momogram](https://github.com/dic1911/Momogram), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Turrit](https://play.google.com/store/apps/details?id=org.telegram.group), [Nicegram](https://nicegram.app/), [Octogram](https://octogramapp.github.io/)
 
 ***
 
@@ -39,9 +39,8 @@
 ## Background Removers
 
 * ⭐ **[BG Bye](https://bgbye.fyrean.com/)**
-* ⭐ **[pixelcut](https://www.pixelcut.ai/)**
 
-[ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [BRIAAI](https://briaai-bria-rmbg-2-0.hf.space/), [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy), [BRIA-RMBG](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4), [remove.bg](https://www.remove.bg/)
+[ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [BRIAAI](https://briaai-bria-rmbg-2-0.hf.space/), [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy), [BRIA-RMBG](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4), [remove.bg](https://www.remove.bg/), [pixelcut](https://www.pixelcut.ai/)
 
 ### Object Removers
 
@@ -80,7 +79,6 @@
 * [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g)
 * [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 * [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html)
-* [ChemistryScore](https://chemistryscore.com/)
 * [PeriodicVideos](http://www.periodicvideos.com/)
 
 ***
@@ -100,7 +98,7 @@
 * ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
 * [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
 
-[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](https://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
+[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
 
 ### Album Art
 
@@ -160,7 +158,7 @@
 
 ## Digital Brushes
 
-[brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes), [BrushBase](https://t.me/brushbase)
+[wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes), [BrushBase](https://t.me/brushbase)
 
 ***
 
@@ -213,6 +211,7 @@
 
 ## Free VPN Configs
 
+* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers / [Privacy Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#v2nodes)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
@@ -328,25 +327,6 @@
 
 ***
 
-## Game Assets
-
-* [Itch.io Assets](https://itch.io/game-assets/free) - Free Game Assets
-* [Kenney](https://www.kenney.nl/) - Free Game Assets
-* [Dev Assets](https://devassets.com/) - Free Game Assets
-* [Quaternius](https://quaternius.com/) - Free Game Assets
-* [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
-* [Game-icons](https://game-icons.net/) - Game Icons
-* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
-* [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files
-* [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
-* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
-* [GameDev Market](https://www.gamedevmarket.net/) - Assets for Indie Developers
-* [OpenGameArt.org](https://opengameart.org/) - Game Art Community
-* [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
-* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
-
-***
-
 ## Geometry Dash Demon Lists
 
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
@@ -389,16 +369,6 @@
 * [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS
 * [macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers) - Contains Prebuilt EFI for Systems
 * [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized macOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
-
-***
-
-## Google Piracy Discussion Groups
-
-* https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
-* https://groups.google.com/forum/#!forum/sammytorrents
-* https://groups.google.com/g/rdrivelinks
-* https://groups.google.com/g/torrentleech-gdrive
-* https://groups.google.com/g/monarch-cloud
 
 ***
 
@@ -449,7 +419,7 @@
 
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Gilles Castel](https://castel.dev/) - Homework & Note Writing Guides
-* [Lyx](https://www.lyx.org/), [Overleaf](https://www.overleaf.com/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Overleaf](https://www.overleaf.com/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
 * [Typst](https://typst.app/home) / [GitHub](https://github.com/typst/typst) or [R Markdown](https://rmarkdown.rstudio.com/) - LaTeX Alternatives
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
@@ -488,18 +458,9 @@
 ### Animal Cams
 
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
-* [The Fish Doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Help Fish Migrate
+* [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
 
 [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams)
-
-***
-
-## Magic / Esoteric Telegram Ebooks
-
-* https://t.me/magZtore
-* https://t.me/WonderlandLibraryOfMagicBooks
-* https://t.me/spiritualbooks
-* https://t.me/synchroncity1111
 
 ***
 
@@ -567,7 +528,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[The Retro Saga](https://weplayretro.games/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/), [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/), [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en), [ROM.so](https://rom.so/)
+[The Retro Saga](https://weplayretro.games/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/), [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/), [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en), [ROM.so](https://rom.so/)
 
 ***
 
@@ -635,7 +596,7 @@
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [pikpng](https://www.pikpng.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [pikpng](https://www.pikpng.com/)
 
 ***
 
@@ -677,15 +638,6 @@
 * ⭐ **[iFunny](https://ifunny.co/)**
 
 [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com/), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/), [z0r](https://z0r.de/), [MemeDroid](https://www.memedroid.com/), [ChatPic](https://chatpic.org/) (some nsfw)
-
-***
-
-## Royalty Free Music
-
-* ⭐ **[NCS](https://ncs.io/)**
-* ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)**
-
-[FreePD](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/), [Incompetech Music](https://incompetech.com/music/royalty-free/music.html), [mobygratis](https://mobygratis.com/), [Tobu](https://tobu.io/)
 
 ***
 
@@ -742,8 +694,7 @@
 
 ## Spotify Playlist Generators
 
-[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [RadioNewify](https://radionewify.com/), [Predominantly](https://predominant.ly/), [Moodify](https://moodify.app/)
-
+[Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [RadioNewify](https://radionewify.com/), [Predominantly](https://predominant.ly/)
 ***
 
 ## Survival
@@ -808,7 +759,6 @@
 
 * [QBit to Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [How-To](https://rentry.co/TorrentColab) - Google Colab
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
-* [TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram) - Telegram Bot
 
 ***
 
@@ -816,7 +766,7 @@
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
 * [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [Tackling TS](https://exploringjs.com/ts/book/index.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
 * [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
 
@@ -831,11 +781,11 @@
 * ⭐ **[Coursevania](https://coursevania.com/)** / [Telegram](https://t.me/Coursevania)
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 * [Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Course Enrollment
-* [UdemyBot](https://github.com/gautamajay52/UdemyBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
+* [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Techlinks](https://www.techlinks.in/udemy-free-coupons), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
 
 ### Udemy TG Channels
 

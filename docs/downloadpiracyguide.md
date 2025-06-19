@@ -45,7 +45,6 @@
 * [DownDuck](https://www.downduck.com/) - Video / Audio / Books / Magazines
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
-* [AyakaLounge](https://ayakalounge.me/) - Video / Audio / ROMs
 * [1DDL](https://1ddl.org/) - Video / Audio / Books / Comics / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
 * [WarezLoad](https://warezload.net/index.php) - Video / Audio / Books
@@ -127,7 +126,6 @@
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
-* [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [Softlay](https://www.softlay.com/downloads/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
@@ -263,10 +261,10 @@
 
 * 🌐 **[LeechListing](https://www.leechlisting.com/)** or [Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Leech Lists
 * 🌐 **[Debrid Services Comparison](https://debrid-services-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required
 * ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid Debrid Service / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/), [rmz.cr](https://rmz.cr/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
-* [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leeches
 * [FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 

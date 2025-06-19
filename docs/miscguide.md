@@ -49,7 +49,6 @@
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
 * [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -77,7 +76,7 @@
 
 ## ▷ Free Games
 
-* ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
@@ -138,7 +137,7 @@
 * [MyFridgeHome](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [FoodSubs](https://foodsubs.com/) - Ingredient Substitutions Database
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
-* [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
+* [Fit Men Cook](https://fitmencook.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
 * [Epicurious](https://www.epicurious.com/) - Recipe Search / Index
@@ -474,7 +473,7 @@
 * [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 
 ***
 
@@ -561,7 +560,6 @@
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [HealthMode](https://www.healthmode.app/), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
@@ -730,7 +728,7 @@
 * ⭐ **[4-Day Week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiring.cafe/), [JobsFromSpace](https://www.jobsfromspace.com/), [PromptYourJob](https://promptyourjob.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiring.cafe/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
 * [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
@@ -970,12 +968,11 @@
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) (discord) - Laptop Suggestions
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
-* [HackersBoard](https://hackerboards.com/) - Single Board Computer Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
 * [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [sven dpi](https://www.sven.de/dpi/) or [screensiz.es](https://screensiz.es/) - Screen / Monitor Size Comparisons
+* [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [/r/Headphones Guide](https://sites.google.com/view/quipa/assistants), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://crinacle.com/) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide

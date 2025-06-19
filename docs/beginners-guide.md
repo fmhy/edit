@@ -10,7 +10,7 @@
 
 > How important is using an adblocker?
 
-Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so it's important to always have an adblocker.
+Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly coloured, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker.
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://fmhy.net/internet-tools#redirect-bypass)** to skip annoying countdowns.
 
@@ -57,7 +57,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [OuterTune](https://github.com/OuterTune/OuterTune) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -117,7 +117,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
-!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
+!!!note Be aware that unofficial sources often re-upload M0nkrus's repacks, sometimes with added malware. Always verify you are downloading from M0nkrus's actual site, which we link on FMHY before downloading anything. Do not trust search engine results blindly for such specific repackers.
 
 ***
 
@@ -125,7 +125,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 > Do I need a VPN to torrent?
 
-Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** to your torrent client to avoid leaks from accidental disconnects. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
 
 > What is Port Forwarding? Do I need it?
 

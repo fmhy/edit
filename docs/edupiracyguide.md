@@ -176,7 +176,6 @@
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** or [Oldest](https://www.oldest.org/) - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
-* [HistoryMaps](https://history-maps.com/) - Learn History Visually
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Museo](https://museo.app/) - Museum Search
@@ -321,7 +320,7 @@
 * [DevinKorwin Color Guide](https://x.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
-* [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
+* [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
 * [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
 * [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 
@@ -483,9 +482,9 @@
 * [Astrogeology](https://astrogeology-usgs.hub.arcgis.com/pages/map-search) - Planetary Maps
 * [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) / [Old Versions](https://forum.spaceengine.org/viewtopic.php?t=182) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
-* [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
+* [⁠WikiSky](https://www.wikisky.org/) or [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualizations
 * [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
-* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
+* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image quar fViewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
@@ -595,7 +594,7 @@
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
@@ -814,7 +813,6 @@
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
-* [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - Korean Learning Courses
 * [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
@@ -1041,7 +1039,7 @@
 * [Typing.io](https://typing.io/) or [Silver Dev's WPM](https://wpm.silver.dev/) - Typing Practice for Programming / Sign-Up Required
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Python Guides
 * [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
+* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery), [⁠Genepy](https://genepy.org/) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Learn C](https://www.learn-c.org/) - C Tutorial
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [GitHub](https://github.com/isocpp/CppCoreGuidelines)
@@ -1098,7 +1096,6 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
-* [HTML DOM](https://phuoc.ng/collection/html-dom/) - Learn DOM Manipulation
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Pixactly](https://pixact.ly/) - Test Pixel Dimension Orientation
 
@@ -1200,7 +1197,7 @@
 * [Deceptive Patterns](https://www.deceptive.design/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
 * [HTML Dog](https://htmldog.com/) or [Front Tips](https://front.tips/) - Frontend Tutorials & Examples
-* [FrontEndMentor](https://www.frontendmentor.io/), [Phuoc](https://phuoc.ng/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
+* [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
 
@@ -1239,6 +1236,7 @@
 * ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[/r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
+* [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book

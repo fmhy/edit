@@ -17,7 +17,7 @@
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o4-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / Qwen3-235B-A22B / Qwen3-32B
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Grok](https://grok.com/)** - X.com Chatbot / Grok 2 (30 Hourly) / Grok 3 (18 Per Two Hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[LMArena](https://lmarena.ai)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Mistral Large 24.11 / [Discord](https://discord.gg/mistralai)
@@ -43,7 +43,7 @@
 * [SambaNova](https://sambanova.ai/) - Deepseek-R1 / Qwen QwQ-32B / DeepSeek-V3-0324 / Multiple Chatbots / Enter Fake Info
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
 * [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
-* [MiniMax AI](https://chat.minimax.io/) - Deepseek-R1 / MiniMax-Text-01 Chatbot w/ Large Token Context Window / [GitHub](https://github.com/MiniMax-AI/MiniMax-01)
+* [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [GitHub](https://github.com/MiniMax-AI/MiniMax-01)
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/), [Onyx](https://www.onyx.app/) / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
@@ -297,8 +297,8 @@
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen 3 / Imagen 4 (Gemini) / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**, [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) or [FLUX-Pro-Unlimited](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited) / Unlimited / No Sign-Up
-* ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** / Unlimited
 * ⭐ **[Grok](https://grok.com/)** / 25 Per 2 Hours / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* [ComfyUI Online](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Dezgo](https://dezgo.com/) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * [Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
 * [Microsoft Designer](https://designer.microsoft.com/image-creator), [2](https://www.bing.com/images/create) / Unlimited
@@ -345,7 +345,7 @@
 * [PixAI](https://pixai.art/) / 5 Daily / [Discord](https://discord.com/invite/pixai)
 * [FluxPro](https://fluxpro.art/) / 1 Daily / [Discord](https://discord.gg/YMmUAvtRva)
 * [Vivago](https://vivago.ai/) / 15 Daily / No Sign-Up
-* [Krea](https://www.krea.ai/) / 10 Daily / No Sign-Up / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Krea](https://www.krea.ai/) / Unlimited / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Whisk](https://labs.google/fx/en/tools/whisk) - Use Images as Prompts
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender

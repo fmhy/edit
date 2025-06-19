@@ -53,6 +53,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
 
+* *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
+
 * *"I love FMHY's wiki, to the point I can't use the internet without it."*
 
 * *"In this age of the internet, search engines are getting worse to find stuff we searching for. This site has helped me not only the when I can't find something on search engines, but also to find new stuff I didn't know existed. I go here first before I consult google. Thank you and everyone for your hard work. Don't loose this site, no matter the cost."*
