@@ -331,7 +331,7 @@
 * [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs / Official Site
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
-* [NetBoot](https://netboot.xyz/) - Boot Operating Systems without ISOs
+* [NetBoot](https://netboot.xyz/) - iPXE Network Boot
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***

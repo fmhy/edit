@@ -482,9 +482,9 @@
 * [Astrogeology](https://astrogeology-usgs.hub.arcgis.com/pages/map-search) - Planetary Maps
 * [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) / [Old Versions](https://forum.spaceengine.org/viewtopic.php?t=182) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
-* [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
+* [⁠WikiSky](https://www.wikisky.org/) or [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualizations
 * [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
-* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
+* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image quar fViewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums

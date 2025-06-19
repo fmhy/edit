@@ -145,7 +145,7 @@
 ## ▷ Anime Streaming
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites)** / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku), [The Index](https://theindex.moe/library/anime) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/), [2](https://everythingmoe.org/) / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[AnimeKai](https://animekai.to/)**, [2](https://animekai.bz/), [3](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [X](https://x.com/animekai_to) / [Discord](https://discord.com/invite/at5d9rkfUy)
+* ⭐ **[AnimeKai](https://animekai.to/)**, [2](https://animekai.bz/), [3](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [X](https://x.com/animekai_to) / [Status](https://animekai.me/) / [Discord](https://discord.com/invite/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)** - Hard Subs / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
@@ -425,6 +425,7 @@
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
+* [SoccerDoge](https://soccerdoge.com/) - Football
 * [Boxing-100](https://boxing-100.com/) - Boxing / Aggregator
 * [CricHD](https://crichd.at/) - Cricket / Aggregator
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator

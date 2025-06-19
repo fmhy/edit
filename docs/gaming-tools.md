@@ -309,7 +309,6 @@
 * [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer
 * [Steam Link Dropdown](https://greasyfork.org/en/scripts/523078) - Add Piracy Site Links to Steam Store
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation

@@ -76,7 +76,7 @@
 
 ## ▷ Free Games
 
-* ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
