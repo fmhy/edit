@@ -53,7 +53,7 @@ export default defineConfig({
       'meta',
       {
         name: 'msvalidate.01',
-        content: '55ae5a0600A8C7827B59CFD506D76DC2'
+        content: 'F3028112EF6F929B562F4B18E58E3691'
       }
     ],
     // Google site verification
