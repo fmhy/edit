@@ -1,0 +1,253 @@
+/* FMHY_THEMES_APPLIED_STATIC_FILE_V2 */
+
+:root, html[data-theme="swarm"] :root {
+  --vp-c-brand-50: hsl(210, 75%, 97%);
+  --vp-c-brand-100: hsl(206, 68%, 93%);
+  --vp-c-brand-200: hsl(208, 66%, 87%);
+  --vp-c-brand-300: hsl(206, 65%, 78%);
+  --vp-c-brand-400: hsl(207, 65%, 68%);
+  --vp-c-brand-500: hsl(211, 63%, 61%);
+  --vp-c-brand-600: hsl(215, 57%, 53%);
+  --vp-c-brand-700: hsl(218, 53%, 48%);
+  --vp-c-brand-800: hsl(220, 48%, 40%);
+  --vp-c-brand-900: hsl(219, 44%, 33%);
+  --vp-c-brand-950: hsl(220, 40%, 21%);
+  --vp-c-brand-1: hsl(211, 63%, 61%);
+  --vp-c-brand-2: hsl(215, 57%, 53%);
+  --vp-c-brand-3: hsl(220, 48%, 40%);
+  --vp-c-brand-soft: hsl(207, 65%, 68%);
+}
+
+.dark, html[data-theme="swarm"] .dark {
+  --vp-c-brand-50: hsl(220, 40%, 21%);
+  --vp-c-brand-100: hsl(219, 44%, 33%);
+  --vp-c-brand-200: hsl(220, 48%, 40%);
+  --vp-c-brand-300: hsl(218, 53%, 48%);
+  --vp-c-brand-400: hsl(215, 57%, 53%);
+  --vp-c-brand-500: hsl(211, 63%, 61%);
+  --vp-c-brand-600: hsl(207, 65%, 68%);
+  --vp-c-brand-700: hsl(206, 65%, 78%);
+  --vp-c-brand-800: hsl(208, 66%, 87%);
+  --vp-c-brand-900: hsl(206, 68%, 93%);
+  --vp-c-brand-950: hsl(210, 75%, 97%);
+  --vp-c-brand-1: hsl(207, 65%, 68%);
+  --vp-c-brand-2: hsl(211, 63%, 61%);
+  --vp-c-brand-3: hsl(218, 53%, 48%);
+  --vp-c-brand-soft: hsl(206, 65%, 78%);
+}
+
+html[data-theme="turquoise"] :root {
+  --vp-c-brand-50: hsl(184, 89%, 96%);
+  --vp-c-brand-100: hsl(186, 88%, 90%);
+  --vp-c-brand-200: hsl(185, 85%, 82%);
+  --vp-c-brand-300: hsl(187, 85%, 69%);
+  --vp-c-brand-400: hsl(188, 78%, 60%);
+  --vp-c-brand-500: hsl(188, 86%, 43%);
+  --vp-c-brand-600: hsl(191, 84%, 36%);
+  --vp-c-brand-700: hsl(192, 75%, 31%);
+  --vp-c-brand-800: hsl(194, 64%, 27%);
+  --vp-c-brand-900: hsl(197, 59%, 24%);
+  --vp-c-brand-950: hsl(197, 71%, 15%);
+  --vp-c-brand-1: hsl(188, 86%, 43%);
+  --vp-c-brand-2: hsl(191, 84%, 36%);
+  --vp-c-brand-3: hsl(194, 64%, 27%);
+  --vp-c-brand-soft: hsl(188, 78%, 60%);
+}
+
+html[data-theme="turquoise"] .dark {
+  --vp-c-brand-50: hsl(197, 71%, 15%);
+  --vp-c-brand-100: hsl(197, 59%, 24%);
+  --vp-c-brand-200: hsl(194, 64%, 27%);
+  --vp-c-brand-300: hsl(192, 75%, 31%);
+  --vp-c-brand-400: hsl(191, 84%, 36%);
+  --vp-c-brand-500: hsl(188, 86%, 43%);
+  --vp-c-brand-600: hsl(188, 78%, 60%);
+  --vp-c-brand-700: hsl(187, 85%, 69%);
+  --vp-c-brand-800: hsl(185, 85%, 82%);
+  --vp-c-brand-900: hsl(186, 88%, 90%);
+  --vp-c-brand-950: hsl(184, 89%, 96%);
+  --vp-c-brand-1: hsl(188, 78%, 60%);
+  --vp-c-brand-2: hsl(188, 86%, 43%);
+  --vp-c-brand-3: hsl(192, 75%, 31%);
+  --vp-c-brand-soft: hsl(187, 85%, 69%);
+}
+
+html[data-theme="carnation"] :root {
+  --vp-c-brand-50: hsl(0, 86%, 97%);
+  --vp-c-brand-100: hsl(0, 93%, 94%);
+  --vp-c-brand-200: hsl(0, 96%, 89%);
+  --vp-c-brand-300: hsl(0, 94%, 82%);
+  --vp-c-brand-400: hsl(0, 91%, 71%);
+  --vp-c-brand-500: hsl(0, 84%, 60%);
+  --vp-c-brand-600: hsl(0, 72%, 51%);
+  --vp-c-brand-700: hsl(0, 74%, 42%);
+  --vp-c-brand-800: hsl(0, 70%, 35%);
+  --vp-c-brand-900: hsl(0, 63%, 31%);
+  --vp-c-brand-950: hsl(0, 75%, 15%);
+  --vp-c-brand-1: hsl(0, 84%, 60%);
+  --vp-c-brand-2: hsl(0, 72%, 51%);
+  --vp-c-brand-3: hsl(0, 70%, 35%);
+  --vp-c-brand-soft: hsl(0, 91%, 71%);
+}
+
+html[data-theme="carnation"] .dark {
+  --vp-c-brand-50: hsl(0, 75%, 15%);
+  --vp-c-brand-100: hsl(0, 63%, 31%);
+  --vp-c-brand-200: hsl(0, 70%, 35%);
+  --vp-c-brand-300: hsl(0, 74%, 42%);
+  --vp-c-brand-400: hsl(0, 72%, 51%);
+  --vp-c-brand-500: hsl(0, 84%, 60%);
+  --vp-c-brand-600: hsl(0, 91%, 71%);
+  --vp-c-brand-700: hsl(0, 94%, 82%);
+  --vp-c-brand-800: hsl(0, 96%, 89%);
+  --vp-c-brand-900: hsl(0, 93%, 94%);
+  --vp-c-brand-950: hsl(0, 86%, 97%);
+  --vp-c-brand-1: hsl(0, 91%, 71%);
+  --vp-c-brand-2: hsl(0, 84%, 60%);
+  --vp-c-brand-3: hsl(0, 74%, 42%);
+  --vp-c-brand-soft: hsl(0, 94%, 82%);
+}
+
+html[data-theme="cerise"] :root {
+  --vp-c-brand-50: hsl(350, 86%, 97%);
+  --vp-c-brand-100: hsl(352, 85%, 95%);
+  --vp-c-brand-200: hsl(347, 84%, 90%);
+  --vp-c-brand-300: hsl(348, 83%, 82%);
+  --vp-c-brand-400: hsl(348, 82%, 71%);
+  --vp-c-brand-500: hsl(346, 77%, 57%);
+  --vp-c-brand-600: hsl(343, 67%, 50%);
+  --vp-c-brand-700: hsl(342, 71%, 41%);
+  --vp-c-brand-800: hsl(340, 68%, 35%);
+  --vp-c-brand-900: hsl(338, 65%, 30%);
+  --vp-c-brand-950: hsl(339, 75%, 16%);
+  --vp-c-brand-1: hsl(346, 77%, 57%);
+  --vp-c-brand-2: hsl(343, 67%, 50%);
+  --vp-c-brand-3: hsl(340, 68%, 35%);
+  --vp-c-brand-soft: hsl(348, 82%, 71%);
+}
+
+html[data-theme="cerise"] .dark {
+  --vp-c-brand-50: hsl(339, 75%, 16%);
+  --vp-c-brand-100: hsl(338, 65%, 30%);
+  --vp-c-brand-200: hsl(340, 68%, 35%);
+  --vp-c-brand-300: hsl(342, 71%, 41%);
+  --vp-c-brand-400: hsl(343, 67%, 50%);
+  --vp-c-brand-500: hsl(346, 77%, 57%);
+  --vp-c-brand-600: hsl(348, 82%, 71%);
+  --vp-c-brand-700: hsl(348, 83%, 82%);
+  --vp-c-brand-800: hsl(347, 84%, 90%);
+  --vp-c-brand-900: hsl(352, 85%, 95%);
+  --vp-c-brand-950: hsl(350, 86%, 97%);
+  --vp-c-brand-1: hsl(348, 82%, 71%);
+  --vp-c-brand-2: hsl(346, 77%, 57%);
+  --vp-c-brand-3: hsl(342, 71%, 41%);
+  --vp-c-brand-soft: hsl(348, 83%, 82%);
+}
+
+html[data-theme="meadow"] :root {
+  --vp-c-brand-50: hsl(148, 71%, 96%);
+  --vp-c-brand-100: hsl(148, 73%, 90%);
+  --vp-c-brand-200: hsl(150, 70%, 80%);
+  --vp-c-brand-300: hsl(154, 66%, 67%);
+  --vp-c-brand-400: hsl(156, 59%, 52%);
+  --vp-c-brand-500: hsl(158, 77%, 42%);
+  --vp-c-brand-600: hsl(159, 86%, 30%);
+  --vp-c-brand-700: hsl(161, 85%, 24%);
+  --vp-c-brand-800: hsl(161, 80%, 20%);
+  --vp-c-brand-900: hsl(162, 79%, 16%);
+  --vp-c-brand-950: hsl(164, 83%, 9%);
+  --vp-c-brand-1: hsl(158, 77%, 42%);
+  --vp-c-brand-2: hsl(159, 86%, 30%);
+  --vp-c-brand-3: hsl(161, 80%, 20%);
+  --vp-c-brand-soft: hsl(156, 59%, 52%);
+}
+
+html[data-theme="meadow"] .dark {
+  --vp-c-brand-50: hsl(164, 83%, 9%);
+  --vp-c-brand-100: hsl(162, 79%, 16%);
+  --vp-c-brand-200: hsl(161, 80%, 20%);
+  --vp-c-brand-300: hsl(161, 85%, 24%);
+  --vp-c-brand-400: hsl(159, 86%, 30%);
+  --vp-c-brand-500: hsl(158, 77%, 42%);
+  --vp-c-brand-600: hsl(156, 59%, 52%);
+  --vp-c-brand-700: hsl(154, 66%, 67%);
+  --vp-c-brand-800: hsl(150, 70%, 80%);
+  --vp-c-brand-900: hsl(148, 73%, 90%);
+  --vp-c-brand-950: hsl(148, 71%, 96%);
+  --vp-c-brand-1: hsl(156, 59%, 52%);
+  --vp-c-brand-2: hsl(158, 77%, 42%);
+  --vp-c-brand-3: hsl(161, 85%, 24%);
+  --vp-c-brand-soft: hsl(154, 66%, 67%);
+}
+
+html[data-theme="merlin"] :root {
+  --vp-c-brand-50: hsl(46, 92%, 95%);
+  --vp-c-brand-100: hsl(46, 97%, 88%);
+  --vp-c-brand-200: hsl(46, 98%, 77%);
+  --vp-c-brand-300: hsl(45, 98%, 64%);
+  --vp-c-brand-400: hsl(45, 96%, 53%);
+  --vp-c-brand-500: hsl(45, 93%, 47%);
+  --vp-c-brand-600: hsl(45, 96%, 40%);
+  --vp-c-brand-700: hsl(46, 92%, 33%);
+  --vp-c-brand-800: hsl(45, 81%, 29%);
+  --vp-c-brand-900: hsl(45, 73%, 26%);
+  --vp-c-brand-950: hsl(45, 83%, 14%);
+  --vp-c-brand-1: hsl(45, 93%, 47%);
+  --vp-c-brand-2: hsl(45, 96%, 40%);
+  --vp-c-brand-3: hsl(45, 81%, 29%);
+  --vp-c-brand-soft: hsl(45, 96%, 53%);
+}
+
+html[data-theme="merlin"] .dark {
+  --vp-c-brand-50: hsl(45, 83%, 14%);
+  --vp-c-brand-100: hsl(45, 73%, 26%);
+  --vp-c-brand-200: hsl(45, 81%, 29%);
+  --vp-c-brand-300: hsl(46, 92%, 33%);
+  --vp-c-brand-400: hsl(45, 96%, 40%);
+  --vp-c-brand-500: hsl(45, 93%, 47%);
+  --vp-c-brand-600: hsl(45, 96%, 53%);
+  --vp-c-brand-700: hsl(45, 98%, 64%);
+  --vp-c-brand-800: hsl(46, 98%, 77%);
+  --vp-c-brand-900: hsl(46, 97%, 88%);
+  --vp-c-brand-950: hsl(46, 92%, 95%);
+  --vp-c-brand-1: hsl(45, 96%, 53%);
+  --vp-c-brand-2: hsl(45, 93%, 47%);
+  --vp-c-brand-3: hsl(46, 92%, 33%);
+  --vp-c-brand-soft: hsl(45, 98%, 64%);
+}
+
+html[data-theme="blue-violet"] :root {
+  --vp-c-brand-50: hsl(227, 100%, 96%);
+  --vp-c-brand-100: hsl(231, 100%, 94%);
+  --vp-c-brand-200: hsl(231, 100%, 88%);
+  --vp-c-brand-300: hsl(233, 100%, 82%);
+  --vp-c-brand-400: hsl(237, 98%, 74%);
+  --vp-c-brand-500: hsl(242, 91%, 64%);
+  --vp-c-brand-600: hsl(246, 82%, 59%);
+  --vp-c-brand-700: hsl(248, 63%, 51%);
+  --vp-c-brand-800: hsl(246, 59%, 41%);
+  --vp-c-brand-900: hsl(245, 52%, 34%);
+  --vp-c-brand-950: hsl(247, 51%, 20%);
+  --vp-c-brand-1: hsl(242, 91%, 64%);
+  --vp-c-brand-2: hsl(246, 82%, 59%);
+  --vp-c-brand-3: hsl(246, 59%, 41%);
+  --vp-c-brand-soft: hsl(237, 98%, 74%);
+}
+
+html[data-theme="blue-violet"] .dark {
+  --vp-c-brand-50: hsl(247, 51%, 20%);
+  --vp-c-brand-100: hsl(245, 52%, 34%);
+  --vp-c-brand-200: hsl(246, 59%, 41%);
+  --vp-c-brand-300: hsl(248, 63%, 51%);
+  --vp-c-brand-400: hsl(246, 82%, 59%);
+  --vp-c-brand-500: hsl(242, 91%, 64%);
+  --vp-c-brand-600: hsl(237, 98%, 74%);
+  --vp-c-brand-700: hsl(233, 100%, 82%);
+  --vp-c-brand-800: hsl(231, 100%, 88%);
+  --vp-c-brand-900: hsl(231, 100%, 94%);
+  --vp-c-brand-950: hsl(227, 100%, 96%);
+  --vp-c-brand-1: hsl(237, 98%, 74%);
+  --vp-c-brand-2: hsl(242, 91%, 64%);
+  --vp-c-brand-3: hsl(248, 63%, 51%);
+  --vp-c-brand-soft: hsl(233, 100%, 82%);
+}

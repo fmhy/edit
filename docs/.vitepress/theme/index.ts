@@ -22,6 +22,7 @@ import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 
 import './style.scss'
+import './generated-fmhy-themes.css' // Re-add the import
 import 'virtual:uno.css'
 
 import Feedback from './components/Feedback.vue'

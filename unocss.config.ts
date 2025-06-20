@@ -23,6 +23,7 @@ import {
   presetUno,
   transformerDirectives
 } from 'unocss'
+import { fmhyThemePreset } from './docs/.vitepress/theme/unocss-theme-plugin' // Will use fmhyThemePreset from the plugin file which is now a debug version
 
 const colorScales = [
   '50',
@@ -97,6 +98,7 @@ export default defineConfig({
     ...createColorRules('border')
   ],
   presets: [
+    fmhyThemePreset(), // This function now returns the debug preset object
     presetUno(),
     presetAttributify(),
     presetIcons({

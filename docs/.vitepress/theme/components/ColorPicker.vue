@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { colors } from '@fmhy/colors'
-import { useStorage, useStyleTag } from '@vueuse/core'
-import { watch } from 'vue'
+import { useStorage, useColorMode } from '@vueuse/core'
+import { watch, onMounted } from 'vue'
 
 const colorScales = [
   '50',
@@ -24,38 +24,30 @@ const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
 ) as Array<ColorNames>
 
-const { css } = useStyleTag('', { id: 'brand-color' })
+// Get the dark mode reactive variable
+const { store: darkMode } = useColorMode()
 
-const updateThemeColor = (colorName: ColorNames) => {
-  const colorSet = colors[colorName]
-
-  const cssVars = colorScales
-    .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
-    .join('\n    ')
-
-  css.value = `
-    :root {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[500]};
-      --vp-c-brand-2: ${colorSet[600]};
-      --vp-c-brand-3: ${colorSet[800]};
-      --vp-c-brand-soft: ${colorSet[400]};
-    }
-
-    .dark {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[400]};
-      --vp-c-brand-2: ${colorSet[500]};
-      --vp-c-brand-3: ${colorSet[700]};
-      --vp-c-brand-soft: ${colorSet[300]};
-    }
-  `
+const updateThemeAttribute = (colorName: ColorNames) => {
+  if (typeof document !== 'undefined') {
+    document.documentElement.setAttribute('data-theme', colorName)
+  }
 }
 
-// Initialize theme color
-updateThemeColor(selectedColor.value)
+// Initialize theme attribute and watch for changes
+onMounted(() => {
+  updateThemeAttribute(selectedColor.value)
+})
 
-watch(selectedColor, updateThemeColor)
+watch(selectedColor, (newColor) => {
+  updateThemeAttribute(newColor)
+})
+
+// Watch for dark mode changes to re-apply data-theme if needed,
+// though UnoCSS preflights should handle this.
+// This is more of a safeguard or if specific overrides might be needed later.
+watch(darkMode, () => {
+  updateThemeAttribute(selectedColor.value)
+})
 
 const normalizeColorName = (colorName: string) =>
   colorName.replaceAll(/-/g, ' ').charAt(0).toUpperCase() +
