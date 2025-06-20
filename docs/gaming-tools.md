@@ -130,6 +130,7 @@
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) - Thunderstore / BepInEx Unity Mod Managers
 * [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
+* [Mod Sharing](https://stellarblademod.com/) - A curated sanctuary for Stellar Blade enthusiasts to explore, share, and celebrate the finest modifications
 
 ***
 
