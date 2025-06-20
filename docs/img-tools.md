@@ -18,6 +18,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photorealistic Landscapes
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [FLuxChat](https://fluxkontext.chat/) - Smart Image Editor
 
 ***
 
