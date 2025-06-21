@@ -297,6 +297,7 @@
 * [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
 * [35mm](https://35mm.online/en) - Polish Film Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
+  [manija.net](https://manija.net) - Latvian, Lithuanian, Estonian streaming site
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
 * [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
