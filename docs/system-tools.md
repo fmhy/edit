@@ -74,7 +74,7 @@
 * ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/marticliment/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
@@ -373,7 +373,7 @@
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/), [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
-* [Hardforum](https://hardforum.com/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
+* [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
 
 ***
 

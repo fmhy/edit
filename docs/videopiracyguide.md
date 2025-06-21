@@ -20,6 +20,7 @@
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/), [4](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://flixer.su/discord)
+* ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FekgaSAtJa)
 * [FlickyStream](https://flickystream.net) - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
 * [1Shows](https://www.1shows.ru/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [Asgard Stream](https://asgard-stream.pages.dev/) - Movies / TV / Anime / Auto-Next / [Status](https://asgardstream-status.pages.dev/) / [Telegram](https://t.me/asgardstream)
@@ -27,7 +28,6 @@
 * [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/PP3MAAQCrM)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [uira.live](https://uira.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5ACWhK4Dzf)
-* [BEECH](https://beech.watch/) or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MhuUqxwy)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Watch Parties / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
@@ -425,7 +425,7 @@
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
-* [SoccerDoge](https://soccerdoge.com/) - Football
+* [Soccerdoge](https://soccerdoge.com/) - Football
 * [Boxing-100](https://boxing-100.com/) - Boxing / Aggregator
 * [CricHD](https://crichd.at/) - Cricket / Aggregator
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
@@ -605,6 +605,7 @@
 * [ShareBB](https://sharebb.me/) - Movies / TV
 * [SD Toons](https://sdtoons.in) - Movies / TV / Anime
 * [PrivateMovieZ](https://privatemoviez.help/) - Movies / TV
+* [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
 * [Bollywood.eu](https://bollywood.eu.org/) - Movies / Telegram Required
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/), [2](https://fzmovies.net/) - Movies / 720p
@@ -639,7 +640,6 @@
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
 * [opendir](https://rentry.co/FMHYBase64#opendir) - Stand Up Comedy
-* [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
 
 ***
 

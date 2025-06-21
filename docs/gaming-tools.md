@@ -182,6 +182,7 @@
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
+* [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
@@ -329,7 +330,7 @@
 * ⭐ **[Online Fix](https://online-fix.me/)** - Online / LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Dedicated Servers / LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[ZeroTier](https://www.zerotier.com/)** - LAN Multiplayer Fix
-* [Radmin](https://www.radmin-vpn.com/) -  - Dedicated Servers / LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
+* [Radmin](https://www.radmin-vpn.com/) - Dedicated Servers / LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - Dedicated Servers / LAN Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
@@ -560,7 +561,7 @@
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
-* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
+* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Extras](https://geyserextras.letsgoaway.dev/) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
@@ -695,7 +696,6 @@
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
-* [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info / Tools
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
@@ -879,7 +879,7 @@
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or **[RoMonitor Stats](https://romonitorstats.com/)** - Roblox Experience Stats
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)**, [⁠Voidstrap](https://voidstrapweb.netlify.app/) or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
+* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
