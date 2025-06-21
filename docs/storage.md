@@ -522,7 +522,7 @@
 
 ## Multi-Console Browser Emulators
 
-* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems)
+* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems) / [Github](https://github.com/EmulatorJS/EmulatorJS/)
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)**
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
