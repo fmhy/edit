@@ -499,6 +499,7 @@
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Mac
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
+* ⭐ **[LEGO Island](https://isle.pizza)** - Fully Playable LEGO Island (1997) / [GitHub](https://github.com/isledecomp/isle-portable)
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [Tetris](https://tetris.com/), [⁠LazyTetris](https://lazytetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
