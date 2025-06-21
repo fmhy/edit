@@ -181,6 +181,7 @@
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
+* [isle](https://github.com/isledecomp/isle) / [isle-portable](https://github.com/isledecomp/isle-portable) / [Web](https://isle.pizza/) - LEGO Island (1997) Decompilation & Cross-Platform Port
 
 ***
 
