@@ -279,25 +279,24 @@
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
 * ⭐ **[SpaceDrop](https://spacedrop.app/)**
-* [Surge](https://getsurge.io/) - P2P App
-* [Wormhole](https://wormhole.app/)
-* [ToffeeShare](https://toffeeshare.com/)
+* [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
+* [Wormhole](https://wormhole.app/) / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)
+* [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
-* [FilePizza](https://file.pizza/)
+* [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
 * [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
 * [TransferNow](https://www.transfernow.net/en)
-* [Horizon Send](https://send.hrzn.cool/)
+* [Horizon Send](https://send.hrzn.cool/) / [GitHub](https://github.com/httpjamesm/horizon-send)
 * [Salad Room](https://saladroom.net/)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
-* [LIGHTNING SHARE](https://lightning-share.vercel.app/)
+* [LIGHTNING SHARE](https://lightning-share.vercel.app/) / [GitHub](https://github.com/chroline/lightning-share)
 * [rDrop](https://rdrop.link/)
-* [WebDrop](https://webdrop.space/)
+* [WebDrop](https://webdrop.space/) / [GitHub](https://github.com/subins2000/WebDrop)
 * [MyAirBridge.com](https://www.myairbridge.com/)
 * [Sprend](https://sprend.com/)
-* [WebWormhole](https://webwormhole.io/)
-* [EchoDuck](https://oglama.com/)
-* [FileLove](https://file.love/)
+* [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
+* [FileLove](https://file.love/) / [GitHub](https://github.com/midzer/filelove/)
 
 ***
 

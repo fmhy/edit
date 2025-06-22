@@ -1266,10 +1266,6 @@
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles
 
-## ▷ Reading
-
-* [lib2life](https://bcub.ro/lib2life/) - Historical Documents
-
 ***
 
 # ► Russian / Русский

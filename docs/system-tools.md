@@ -340,6 +340,7 @@
 
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * ⭐ **[YUMI](https://yumiusb.com/)**, [2](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives
+* [⁠balenaEtcher](https://etcher.balena.io/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
