@@ -1046,6 +1046,7 @@
 * [Parcel](https://apps.apple.com/app/id375589283) or [Aftership](https://apps.apple.com/app/id507014023) - Delivery Tracker
 * [KeyPad](https://apps.apple.com/app/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Stikdebug](https://apps.apple.com/us/app/stikdebug/id6744045754) - Enables JIT / Need for Emulators
+* [Mooji](https://www.moojiapp.com) - Status Sharing for Apple Watch
 
 ***
 
