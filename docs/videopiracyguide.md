@@ -175,6 +175,10 @@
 
 ## ▷ TV Streaming
 
+* **Note** - Keep in mind sites listed in the main streaming section above also contain TV shows. The sites in this section below are simply sites that have exclusively TV, but that doesn't necessarily mean they're better for TV than normal streaming sites.
+
+***
+
 * ⭐ **[Best Series](https://bstsrs.in/)**, [2](https://topsrs.day/), [3](https://srstop.link/) - TV / Anime
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime / 720p / [Telegram](https://t.me/+tPEqeXLobAo4YTZh)
 * ⭐ **[NOXX](https://noxx.to/)** - TV
@@ -655,7 +659,7 @@
 
 # ► Torrent Apps
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting.
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8) if it allows.
 
 ***
 
