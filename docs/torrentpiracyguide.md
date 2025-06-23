@@ -15,7 +15,7 @@
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/), [2](https://x1337x.cc/) - Video / Audio / NSFW
-* 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about), [3](https://ibb.co/py0RCz9) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
+* 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about), [3](https://ibb.co/py0RCz9) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
@@ -28,7 +28,7 @@
 
 ## ▷ Aggregators
 
-**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/) page.
+**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page.
 
 ***
 
@@ -97,7 +97,6 @@
 * [Instant.io](https://instant.io/) - Stream Torrents in Browser
 * [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [BitFord](https://github.com/astro/bitford) - Chrome
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
@@ -128,10 +127,10 @@
 
 * ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - 2GB / Sign-Up Required
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB / Sign-Up Required
 * [Bitport](https://bitport.io/welcome) - 1GB / 1 Daily Download / Sign-Up Required
-* [TorBox](https://torbox.app/) - 10GB / 10 Monthly Downloads / Sign-Up Required
 * [ZBIGZ](https://zbigz.com/) - 1GB / Sign-Up Required / 150KBps Limit
 * [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream / Self-Hosted
 

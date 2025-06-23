@@ -127,7 +127,6 @@
 * ⭐ **[Picocrypt](https://github.com/Picocrypt/Picocrypt)** - Lightweight File Encrypter
 * [age](https://github.com/FiloSottile/age) - File Encrypter
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
-* [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
 ***
@@ -280,48 +279,46 @@
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
 * ⭐ **[SpaceDrop](https://spacedrop.app/)**
-* [Surge](https://getsurge.io/) - P2P App
-* [Wormhole](https://wormhole.app/)
-* [ToffeeShare](https://toffeeshare.com/)
+* [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
+* [Wormhole](https://wormhole.app/) / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)
+* [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
-* [FilePizza](https://file.pizza/)
+* [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
 * [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
 * [TransferNow](https://www.transfernow.net/en)
-* [Horizon Send](https://send.hrzn.cool/)
+* [Horizon Send](https://send.hrzn.cool/) / [GitHub](https://github.com/httpjamesm/horizon-send)
 * [Salad Room](https://saladroom.net/)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
-* [LIGHTNING SHARE](https://lightning-share.vercel.app/)
+* [LIGHTNING SHARE](https://lightning-share.vercel.app/) / [GitHub](https://github.com/chroline/lightning-share)
 * [rDrop](https://rdrop.link/)
-* [WebDrop](https://webdrop.space/)
+* [WebDrop](https://webdrop.space/) / [GitHub](https://github.com/subins2000/WebDrop)
 * [MyAirBridge.com](https://www.myairbridge.com/)
 * [Sprend](https://sprend.com/)
-* [WebWormhole](https://webwormhole.io/)
-* [EchoDuck](https://oglama.com/)
-* [FileLove](https://file.love/)
+* [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
+* [FileLove](https://file.love/) / [GitHub](https://github.com/midzer/filelove/)
 
 ***
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Storage Size / File Size / Expiry.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: File Size / Expiry.
 
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Cold Storage Bypass](https://greasyfork.org/en/scripts/527711) / [Manager Export](https://greasyfork.org/en/scripts/515250)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per File / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
-* ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
+* ⭐ **[Files.vc](https://files.vc/)** - 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
-* ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
-* [Send.now](https://send.now/) - 100GB / 100GB per File / 30 Days After Last Download
+* [Send.now](https://send.now/) - 100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) / 20GB / 90 Days / Owned by Mega.nz
-* [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days w/ Account)
+* [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
-* [Fastupload.io](https://fastupload.io/en) - Unlimited / 30 Days (60 Days w/ Account)
+* [Fastupload.io](https://fastupload.io/) - 50GB / 30 Days (60 Days w/ Account)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
@@ -342,7 +339,6 @@
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
-* [Uploadev](https://uploadev.org/) - 10GB / 180 Days After Last Download w/ Account
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
@@ -364,7 +360,7 @@
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
-* [Clicknupload](https://clicknupload.co/), [2](https://clicknupload.click) - 10GB / 8 Days / Account Required
+* [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Account Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 3 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Discord](https://discord.gg/2yUEQPxTTU) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
@@ -384,7 +380,6 @@
 * ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
 * [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Account Required for Sharing
-* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
@@ -401,7 +396,6 @@
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
-* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 * [SeaFile](https://www.seafile.com/en/home/) - Self-Hosted Cloud Storage
 
@@ -425,17 +419,15 @@
 ## ▷ Google Drive Tools
 
 * ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
-* [Any File to Google Drive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to Google Drive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via Google Drive
 * [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [Google Drive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
-* [Google Drive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
 * [gdurl](https://gdurl.com/), [GDrive Link Generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic](https://github.com/CloudflareHackers/GDriveWebAppPublic) - GDrive Link Generators / Host Direct Links
-* [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
+* [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
 * [DriveRename](https://driverename.iblogbox.com/) - Bulk Google Drive File Rename

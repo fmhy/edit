@@ -29,7 +29,6 @@
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [NeverSSL](http://neverssl.com/) - Fix Public Wi-Fi Login Pages
-* [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
 * [MAC Address](https://macaddress.io/) - MAC Address Lookup
 * [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
@@ -60,10 +59,9 @@
 * ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
-* ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
+* ⭐ **[wallabag](https://wallabag.org/)**  or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
-* [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
@@ -324,7 +322,7 @@
 * [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
-* [Backlink Tool](https://backlinktool.io/) or [IndexKings](http://www.indexkings.com/) - URL Indexer
+* [IndexKings](http://www.indexkings.com/) - URL Indexer
 
 ***
 
@@ -443,7 +441,7 @@
 ## ▷ Email Clients
 
 * ⭐ **[Betterbird](https://www.betterbird.eu/)**
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
 * [Outlook](https://outlook.live.com/owa/)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail)
@@ -629,7 +627,6 @@
 * [Omni](https://github.com/alyssaxuu/omni) - Browser Quick Launcher
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
-* [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
@@ -695,6 +692,7 @@
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Bookmark Manager
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch/)** or [Context Search Web](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
+* ⭐ **[Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/)** - Select & Open Multiple Links at Once
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
@@ -774,7 +772,6 @@
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336)
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
 * [Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - Discover Userscripts for Current Webpage
-* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me"
 * [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
@@ -859,6 +856,7 @@
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
 * [MetaOSINT](https://metaosint.github.io/) - OSINT Search Tool / [GitHub](https://github.com/MetaOSINT/MetaOSINT.github.io/)
+* [Mitaka](https://github.com/ninoseki/mitaka) - OSINT Search Extension
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - OSINT Guides

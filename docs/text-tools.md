@@ -144,6 +144,7 @@
 ***
 
 * ⭐ **[LanguageTool](https://languagetool.org/)**
+* [Harper](https://writewithharper.com/) / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
@@ -220,7 +221,7 @@
 
 * ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools)**
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / [Discord](https://discord.gg/obsidianmd)
-* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [ChatGPT Addon](https://github.com/vasilecampeanu/obsidian-weaver) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
+* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Publish Notes](hhttps://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [ChatGPT Addon](https://github.com/vasilecampeanu/obsidian-weaver) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Notion](https://www.notion.com/)** - Note-Taking
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/)
 * ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [GitHub](https://github.com/streetwriters/notesnook)
@@ -237,7 +238,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
 * [Papers.IM](https://papers.im/) - Note-Taking
-* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) / [GitHub](https://github.com/laurent22/joplin)
+* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
@@ -396,7 +397,7 @@
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#ticktick)
 * ⭐ **[Super Productivity](https://super-productivity.com/)**
-* [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
+* [Columns](https://columns.app/) - Checklists
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
 * [SuperList](https://www.superlist.com/)

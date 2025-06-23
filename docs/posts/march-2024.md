@@ -50,8 +50,6 @@ in seeing all minor changes you can follow our
 - Our Minecraft Server is now live. Click
   **[here](https://fmhy.net/posts/minecraft-server)** to join.
 
-- Moved `fmhy.tk` to `old.fmhy.net`
-
 ---
 
 ### Stars Added ⭐

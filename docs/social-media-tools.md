@@ -35,6 +35,7 @@
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
+* [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
@@ -75,8 +76,7 @@
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4)
-* [Legcord](https://github.com/Legcord/Legcord) - Discord Client / Lightweight / [Discord](https://discord.gg/TnhxcqynZ2)
-* [GoofCord](https://github.com/Milkshiift/GoofCord) - Privacy-Focused Legcord Fork
+* [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
@@ -104,7 +104,7 @@
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
 * [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
-* [Nelly](https://nelly.tools/tags), [mgcounts](https://tags.mgcounts.com/) / [Discord](https://discord.gg/32pxDuSxS7) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
+* [mgcounts](https://tags.mgcounts.com/) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
 * [Emoji List](https://discords.com/emoji-list), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
@@ -112,7 +112,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
-* [Music Presence](https://github.com/ungive/discord-music-presence) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence)
+* [Music Presence](https://musicpresence.pocha.moe/) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
@@ -218,12 +218,12 @@
 
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search Engines
 * ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
-* ⭐ **[Undelete](https://undelete.pullpush.io/)** or [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
+* [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
 * [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
-* [Expanse](https://github.com/aplotor/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Rareddit](https://www.rareddit.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
+* [redarcs](https://the-eye.eu/redarcs/) or [Rareddit](https://www.rareddit.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
@@ -255,7 +255,6 @@
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSEs
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
 * [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
-* [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
@@ -288,10 +287,8 @@
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - Google Drive Upload Bots
-* [SearchX](https://github.com/iamLiquidX/SearchX) - Google Drive Search Bot
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
-* [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot) or [pdfbot](https://t.me/pdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
@@ -361,7 +358,7 @@
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
-* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://vorapis.pages.dev/#/join_community) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout / [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://vorapis.pages.dev/#/join_community) - Restore Classic YouTube Layout / [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
 * [Non-Rounded Design](https://greasyfork.org/en/scripts/453802) - Revert YouTube's New Rounded Design
 * [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [Tabview YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
@@ -536,7 +533,7 @@
 ## ▷ Twitch Downloaders
 
 * [ClipsGameLab](https://clipsgamelab.github.io/#/download), [Twiclips](https://twiclips.com/) or [clipsey](https://clipsey.com/) - Video Downloaders
-* [twitch-dl](https://github.com/ihabunek/twitch-dl), [twitch-downloader](https://github.com/jybp/twitch-downloader) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - CLI Video Downloaders
+* [twitch-dl](https://github.com/ihabunek/twitch-dl), [twitch-downloader](https://github.com/jybp/twitch-downloader) - CLI Video Downloaders
 * [Twitch Downloader](https://github.com/lay295/TwitchDownloader) or [TwitchLink](https://twitchlink.github.io/) - Desktop Video Downloaders
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover / View / Download Twitch Videos
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages
@@ -590,7 +587,7 @@
 
 # ► Facebook Tools
 
-* ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)** - Facebook Filters
+* ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * [Caprine](https://github.com/sindresorhus/caprine) - Facebook Desktop Messenger
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
@@ -726,7 +723,6 @@
 * [Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) or [Reply All](https://gitlab.com/lucadou/4chan-reply-all) - Mass Reply on 4chan
 * [Anon Files Names](https://greasyfork.org/en/scripts/435220) - Anonymizes File Names
 * [4chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
-* [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator
 * [4chan Captcha Solver](https://github.com/drunohazarb/4chan-captcha-solver) - Auto Captcha Solvers
 * [Bypass Derefer](https://greasyfork.org/en/scripts/451259) - Remove Link Derefer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
