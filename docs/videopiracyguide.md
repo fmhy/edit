@@ -330,7 +330,7 @@
 
 * ⭐ **[TheTVApp](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
 * ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports
-* ⭐ **[DaddyLive](https://daddylive.mp/)** - TV / Sport / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Telegram](https://t.me/dlhdlive)
+* ⭐ **[DaddyLive](https://daddylive.dad/)** - TV / Sport / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Telegram](https://t.me/dlhdlive)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
