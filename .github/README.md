@@ -4,13 +4,12 @@
 
 <p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
-<p align="center"> This site does not host any files.</p>
-
 ## 📖 Wiki
 
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
 - Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+- Neither the site or github host any files
 
 ## 🗺️ Emoji Legend
  
