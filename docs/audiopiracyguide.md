@@ -37,6 +37,7 @@
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
+* [Infinitunes](https://tunes.youplex.site/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
