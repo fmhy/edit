@@ -819,6 +819,7 @@
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html) - Image EXIF Data Editors
 * [Base64 Image](https://www.base64-image.de/) - Encode / Decode Images
+* [Blurbackground AI](https://blurbackground.ai/) - Blurbackground.AI is a free online tool to edit background swiftly.
 
 ***
 
