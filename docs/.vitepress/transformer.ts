@@ -318,38 +318,32 @@ const transformLinks = (text: string): string =>
       {
         name: 'Windows',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Windows(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
+        replace: ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
       },
       {
         name: 'Mac',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Mac(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
+        replace: ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
       },
       {
         name: 'Linux',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Linux(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
+        replace: ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
       },
       {
         name: 'Android',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Android(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="Android" class="i-material-symbols:android" /> '
+        replace: ' <div alt="Android" class="i-material-symbols:android" /> '
       },
       {
         name: 'iOS',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)iOS(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="iOS" class="i-simple-icons:ios" /> '
+        replace: ' <div alt="iOS" class="i-simple-icons:ios" /> '
       },
       {
         name: 'Web',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
-        replace:
-          ' <div alt="Web" class="i-fluent:globe-32-filled" /> '
+        replace: ' <div alt="Web" class="i-fluent:globe-32-filled" /> '
       }
     ])
     .getText()
