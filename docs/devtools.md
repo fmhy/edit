@@ -454,12 +454,10 @@
 
 ## ▷ Map Creators / Editors
 
-* ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
-* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
-* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+* ⭐ **[Sprite Fusion](https://www.spritefusion.com/)** / [Discord](https://discord.gg/8sCEAspmBV), [Tiled](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Tilemap Editors
+* [LDtk](https://ldtk.io/) or [OGMO Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
 * [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
 
 ***

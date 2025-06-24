@@ -726,28 +726,26 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rule / Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
-* [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
+* [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
 * [Untap.in](https://untap.in/) - Test Card Game Decks
 
 ***
 
-## ▷ RPG / TTRPG Builders
+## ▷ RPG Worldbuilding
 
-* ⭐ **[donjon](https://donjon.bin.sh/)** - Procedural Generators Collection
 * ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
+* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Notebook.ai](https://www.notebook.ai/) - RPG / Fantasy Storywriting Tools
+* ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
+* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
+* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - RPG Software & Accessories
+* [RPTools](https://www.rptools.net/) - 
+* [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Account Required
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Account Required
+* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
 * [watabou](https://watabou.itch.io/) - Generators for Fantasy Worlds, Dungeons, and More
----
-* [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
-* [Map Generator](https://emptybuttons.itch.io/map-generator) - TTRPG Map Generator
-* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural Map Creator
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
-* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Builder
-* [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
-* [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
-* [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
-* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
+* [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town Generator w/ NPC Backstories
 
 ***
 
