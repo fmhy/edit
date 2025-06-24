@@ -284,7 +284,7 @@
 * [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Sign-Up & Phone # / SMS Generators Work
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
-
+* [Dreamlux](https://dreamlux.ai/) - AI Video generator providing hundreds of fun video effects
 ***
 
 # ► Image Generation
