@@ -516,6 +516,8 @@
 * [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
 * [Magazine Rack](https://archive.org/details/magazine_rack) - Archive.org
 * [Computer Magazines](https://archive.org/details/computermagazines) - Archive.org
+* [Ebooksyard](https://ebooksyard.com/) - VK
+* [Freemagazines](https://freemagazines.net/) - VK
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
