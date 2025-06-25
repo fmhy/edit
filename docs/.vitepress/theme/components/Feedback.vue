@@ -266,7 +266,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             placeholder="What a lovely wiki!"
           />
           <p class="desc mb-2">
-            Add your Discord handle if you would like a response, or if we need more information from you, otherwise join our
+            Add your Discord handle if you would like a response, or if we need
+            more information from you, otherwise join our
             <a
               class="text-primary text-underline font-semibold"
               href="https://rentry.co/FMHY-Invite/"

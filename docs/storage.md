@@ -30,7 +30,7 @@
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
-* [Logo Makr](https://logomakr.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
+* [Logo Makr](https://logomakr.com/), [⁠FreeLogoMaker](https://myfreelogomaker.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
 * [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
 * [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos Based on Project Name & Style
 
@@ -165,7 +165,7 @@
 
 * ⭐ **[OISD](https://oisd.nl/)**
 
-[hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [1Hosts](https://o0.pages.dev/)
+[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [1Hosts](https://o0.pages.dev/)
 
 ***
 
@@ -668,7 +668,7 @@
 * ⭐ **[SMSPool](https://www.smspool.net/free-sms-verification)**
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
-* ⭐ **[mianfeijiema](https://mianfeijiema.com/)**
+* ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**

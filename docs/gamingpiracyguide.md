@@ -39,7 +39,6 @@
 * [Games4U](https://games4u.org/) - Download / Use Adblock
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
-* [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
@@ -58,6 +57,7 @@
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download / PW: `gnarly`
 * [Masquerade Repacks](https://discord.com/invite/HP5sQ6c) or [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
+* [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [Xatab Repacks](https://byxatab.com/) - Torrent
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
@@ -140,7 +140,6 @@
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [Unleashed Recompiled](https://rentry.co/FMHYBase64#unleashed-recompiled) - Sonic Unleashed PC Port
 * [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878), [2](https://sonic3air.boards.net/board/6/mod-releases) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [GitLab](https://git.do.srb2.org/STJr/SRB2)
@@ -254,7 +253,7 @@
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
-* [⁠Romm](https://github.com/rommapp/romm) - Self-Hosted ROM Manager
+* [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [GitHub](https://github.com/rommapp/romm)
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
@@ -498,7 +497,7 @@
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Mac
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
-* ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
+* ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Browser Marble Blast
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [Tetris](https://tetris.com/), [⁠LazyTetris](https://lazytetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
@@ -509,6 +508,7 @@
 * [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) - Snake Style Games
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [⁠LEGO Island Web Port](https://isle.pizza/) - Browser LEGO Island
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [OpenLara](http://xproger.info/projects/OpenLara/) - Browser Tomb Raider / [GitHub](https://github.com/XProger/OpenLara)
@@ -720,6 +720,7 @@
 * [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
 * [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
+* [⁠OFF](https://off.zchr.org/) - Browser RPG
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 * [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
@@ -741,6 +742,7 @@
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
 * [Playok](https://www.playok.com/) - Multiplayer Card Games
 * [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
+* [⁠PlayLethal](https://playlethal.fun/) - Single Turn Card Game
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
 * [PictureCards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [AllBad.Cards](https://bad.cards/) or [Pretend You're](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Cards Against Humanity Online
@@ -772,7 +774,7 @@
 * [Warzone](https://www.warzone.com/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
-* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
+* [Chesses](https://pippinbarr.com/chesses/), [ChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [Echo Chess](https://echochess.com/) - Morph Style Chess / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
