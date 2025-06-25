@@ -348,6 +348,7 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb
+* [Apple Music Downloader](https://aaplmusicdownloader.com/) - Apple Music / 256kb / M4A / 3 Daily Downloads (Bypass Via Incognito)
 
 ***
 
