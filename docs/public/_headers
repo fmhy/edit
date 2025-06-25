@@ -1,2 +1,6 @@
+/*
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none';
+
 https://cdn.jsdelivr.net/*
   Cache-Control: max-age=31536000
