@@ -957,17 +957,17 @@
 
 ## ▷ Dungeons & Dragons
 
-* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Building, Campaign Managers, Worldbuilding Suites, etc.
+* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
 * ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
 * ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
-* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Digital Toolset for 5E
+* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
-* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
-* [D&D Wiki](https://www.dandwiki.com/) - Fan-Made D&D Homebrew Wiki
-* [NaturalCrit](https://naturalcrit.com/) - Make Authentic-Looking 5E Homebrews & Badges
-* [GM Binder](https://www.gmbinder.com/) - Homebrew Document Designer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
+* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
+* [NaturalCrit](https://naturalcrit.com/) or [GM Binder](https://www.gmbinder.com/) - 5E Homebrew Document Editors
+* [D&D Wiki](https://www.dandwiki.com/) - D&D Homebrew Wiki
 
 ***
 
