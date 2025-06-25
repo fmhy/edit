@@ -35,6 +35,7 @@
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
+* [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [rlsbb](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Video / Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Books

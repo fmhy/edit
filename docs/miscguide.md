@@ -99,7 +99,7 @@
 * [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Games / Android App
-* [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings)
+* [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
 ***
@@ -162,7 +162,6 @@
 * ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guide
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
@@ -447,7 +446,6 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
-* [Unclutter](https://unclutter.it/) - Feed Managers / Readers
 * [News as Facts](https://newsasfacts.com/) - Wiki-Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Attabit](https://attabit.com/) - News Summaries
@@ -547,7 +545,6 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Meditation Infographic](https://i.ibb.co/BNWDCbS/2552-IIB-Meditation.png) - Meditation Techniques
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
@@ -891,7 +888,7 @@
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
-* [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
+* [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
@@ -1219,10 +1216,11 @@
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [TheOfficeStareMachine](http://theofficestaremachine.com/) - The Office Video Emotion Search
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps
+* [⁠Flipnote Studio Scratch](https://turbowarp.org/382497241) - Web-based Flipnote Studio
 * [Sudomemo](https://www.sudomemo.net/) or [Kaeru Gallery](https://gallery.kaeru.world/) - DS Flipnote Studio Galleries
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
-* [ThisPersonNotExist](https://thispersonnotexist.org/), [Who the Fook is That Guy](https://whothefookisthatguy.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
+* [ThisPersonNotExist](https://thispersonnotexist.org/), [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/), [Who the Fook is That Guy](https://whothefookisthatguy.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [Different Strokes](https://scottts.itch.io/different-strokes) - Online User-Made Art Gallery
 * [Creative Uncut](https://www.creativeuncut.com/) - Video Game Art
