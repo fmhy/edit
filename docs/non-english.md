@@ -600,7 +600,7 @@
 * [GreekTV](https://greektv.app/) - IPTV
 * [NetNix](https://netnix.tv/) - Live TV
 * [stokourbeti](https://stokourbeti.online/) - Live Sports
-* [GreekSport](https://greeksport.pages.dev/) - Live Sports
+* [GreekSport](https://greeksport.netlify.app/) - Live Sports
 * [SportOnTV](https://sportontv.xyz/) - Live Sports / [Discord](https://discord.gg/YhQPSSMps2)
 * [Foothubhd](https://foothubhd.online/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
 * [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
