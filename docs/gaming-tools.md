@@ -784,7 +784,7 @@
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[HLTV](https://www.hltv.org/)** or [Dust2](https://www.dust2.us/) - Counter-Strike News
-* ⭐ **[CS Demo Manager](https://cs-demo-manager.com/)** - Counter-Strike Demo manager
+* ⭐ **[CS Demo Manager](https://cs-demo-manager.com/)** - Counter-Strike Demo Manager
 * ⭐ **[Faceit](https://www.faceit.com/)** - Matchmaking Client
 * ⭐ **[CSNADES](https://csnades.gg/)** or [CS2Util](https://www.cs2util.com/) - CS2 Nade Lineups
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
