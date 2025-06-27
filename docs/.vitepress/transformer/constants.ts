@@ -22,7 +22,7 @@ interface Header {
 export const headers: Header = {
   'adblockvpnguide.md': {
     title: 'Adblocking / Privacy',
-    description: "Adblocking, Privacy, VPNs, Proxies, Antiviruses"
+    description: 'Adblocking, Privacy, VPNs, Proxies, Antiviruses'
   },
   'ai.md': {
     title: 'Artificial Intelligence',
@@ -139,7 +139,8 @@ export const excluded = [
   'single-page',
   'feedback.md',
   'index.md',
-  'sandbox.md'
+  'sandbox.md',
+  'startpage.md'
 ]
 
 export function getHeader(id: string) {

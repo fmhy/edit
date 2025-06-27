@@ -34,7 +34,7 @@
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)** - Browser Music / Uses Qobuz / Lossless
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
-* [Spotify Web Client](https://open.spotify.com/) - Browser Music
+* [Spotify Web Player](https://open.spotify.com/) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -61,7 +61,7 @@
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
 * [Mirlo](https://mirlo.space/) - Free Music Release Platform
-* [Newground Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
+* [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
 * [Audius](https://audius.co/) - User Made Music
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [Youtaite](https://www.youtaite.com/) - Youtaite Resources / Songs
@@ -84,6 +84,7 @@
 * 🌐 **[365 Radio](https://365.ilysm.nl/)** - List of YouTube DJ Channels
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/FMHYBase64#bbc-essential)** - BBC Essential Mix / [Discovery Guide](https://rentry.co/musicdiscovery#bbc-radio-1-essential-mix)
 * ⭐ **[MiroPPB](https://miroppb.com/)** / [DL Script](https://pastebin.com/raw/GZ7AvbwV) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -97,7 +98,6 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes / Streaming
-* [BBC Essential Mix](https://rentry.co/FMHYBase64#bbc-essential) - BBC Essential Mix / 1993-2023 / Torrent
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
@@ -281,7 +281,6 @@
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below / [Installer Archive](https://loadspot.pages.dev/)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
-* [Spotify Web Client](https://open.spotify.com/) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
 
 ***
 
@@ -515,7 +514,7 @@
 
 # ► Audio Torrenting
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting.
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8) if it allows.
 
 ***
 
@@ -585,6 +584,7 @@
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
+* [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks
 * [GameOST](https://gameost.net/) - Game Soundtracks / MP3
 * [exotica](https://www.exotica.org.uk/) - Amiga Games Soundtracks
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
@@ -702,7 +702,7 @@
 * [Vocaroo](https://vocaroo.com/) - Online Voice Recorder
 * [Tunebat](https://tunebat.com/) or [QO & SPECTRE](https://docs.google.com/spreadsheets/u/0/d/1QEvWoGa10BctJ1yqDgZl3IoY8bhB3AwbHzgCHjJ5neI/htmlview) - Music Key / BPM Databases
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) - Karaoke App
-* [X-Minus](https://x-minus.pro/) or [LRC Maker](https://lrcmaker.com/) - Create Karaoke Songs
+* [X-Minus](https://x-minus.pro/) or [LRC Maker](https://lrcmaker.com/) - Create / Find Karaoke Songs
 * [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
@@ -795,6 +795,7 @@
 
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)**, [Intellectual](https://intellectual.insprill.net/) or [genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [Lyricsify](https://www.lyricsify.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
+* [⁠Lyrical Nonsense](https://www.lyrical-nonsense.com/global/) - Japanese Song Lyrics
 * [Lyricify](https://github.com/WXRIW/Lyricify-App) - Lyrics Desktop App
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
@@ -960,6 +961,7 @@
 * [AirWindows](https://www.airwindows.com/) - Plugins / [Consolidated](https://www.airwindows.com/consolidated/)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher (Deep Fry) Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
+* [Oi, Grandad!](https://github.com/publicsamples/Oi-Grandad) - 4 Voice Granular Synth
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 

@@ -76,8 +76,7 @@
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4)
-* [Legcord](https://github.com/Legcord/Legcord) - Discord Client / Lightweight / [Discord](https://discord.gg/TnhxcqynZ2)
-* [GoofCord](https://github.com/Milkshiift/GoofCord) - Privacy-Focused Legcord Fork
+* [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
@@ -219,7 +218,7 @@
 
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search Engines
 * ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
-* ⭐ **[Undelete](https://undelete.pullpush.io/)** or [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
+* [Reveddit](https://www.reveddit.com/) - View Deleted Reddit Posts / Comments
 * [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)

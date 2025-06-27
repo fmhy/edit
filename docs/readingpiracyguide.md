@@ -8,7 +8,6 @@
 
 * 🌐 **[Open Slum](https://open-slum.org/)** - Book Site Index / Uptime Tracking
 * ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/), [4](https://welib.org/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
-* ⭐ **[Library Genesis](https://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) - Books / Comics / Educational / [Apps / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/), [4](https://lite.bookracy.ru/) / [Download Buttons](https://greasyfork.org/en/scripts/536768) / [Mirrors](https://rentry.co/bookracy) / [Subreddit](https://reddit.com/r/bookracy) / [Telegram](https://t.me/bookracy)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / Sign-Up / [Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
@@ -247,7 +246,7 @@
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Readest](https://readest.com/) - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
@@ -432,7 +431,6 @@
 * [MovieMaze](https://moviemaze.cc/explore/manga)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaTown](https://www.mangatown.com/)
-* [Shiroko](https://shiroko.co/)
 * [MangaHasu](https://mangahasu.me/)
 * [mangapill](https://mangapill.com/)
 * [Webtoon](https://www.webtoons.com/)
@@ -463,6 +461,7 @@
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/) / Allows Downloads
+* [⁠NovelFire](https://novelfire.net/)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [Just Light Novels](https://www.justlightnovels.com/) / Allows Downloads
 * [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/)
@@ -474,7 +473,6 @@
 * [WTR-LAB](https://wtr-lab.com/) / Sign-Up Required for AI Translations
 * [WuxiaSpot](https://www.wuxiaspot.com/)
 * [WebNovel.com](https://www.webnovel.com/)
-* [⁠NovelFire](https://novelfire.net/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Wordrain69](https://wordrain69.com/)
 * [Wuxiabox](https://www.wuxiabox.com/)
@@ -597,6 +595,7 @@
 * [eBookRoom](https://t.me/eBookRoom)
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [SuperKuh](http://erewhon.superkuh.com/library/)
+* [⁠InfoBooks](https://www.infobooks.org/)
 * [Non-Fiction](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
 * [E-Books Directory](https://www.e-booksdirectory.com/)
@@ -794,7 +793,6 @@
 * [qDoc](https://idoc.tips/) - Document Search
 * [Dirzon](https://www.dirzon.com/Doc/SearchAsync) - Document Search
 * [PDFHost](https://pdfhost.io/) - Document Search
-* [KUNDOC](https://c.coek.info/) - Science / Articles
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Academic Journals](https://academicjournals.org/) - Science / Articles
 * [Dataone](https://www.dataone.org/) - Datasets
