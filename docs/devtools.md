@@ -1209,7 +1209,7 @@
 
 * ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [zettlr](https://www.zettlr.com/)
+* [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
 * [Dillinger](https://dillinger.io/)
 * [MarkdownTools](https://www.markdowntools.com/)
 * [Glow](https://github.com/charmbracelet/glow)
