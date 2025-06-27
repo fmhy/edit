@@ -817,7 +817,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingunity.cam/) - Movies / TV
+* [StreamingCommunity](https://streamingunity.shop/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.gent/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.living/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
