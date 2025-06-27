@@ -542,19 +542,19 @@
 
 * ⭐ **[NCS](https://ncs.io/)** - Copyright Free Music
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - Music / Sound Effects
-* [UppBeat](https://uppbeat.io/) - Music for Creators
-* [BenSound](https://www.bensound.com/) - Popular Library
+* [UppBeat](https://uppbeat.io/) - Music for Creators / Freemium
+* [BenSound](https://www.bensound.com/) - Popular Library / Freemium
 * [Unminus](https://www.unminus.com/) - Professional Tracks
-* [FreePD](https://freepd.com/) - Public Domain Music
+* [FreePD](https://freepd.com/) - Public Domain Music / CC0 License
 * [Free Music Archive](https://freemusicarchive.org/) - Curated Library
-* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library
+* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library / CC0 License
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
 * [Fugue](https://icons8.com/music) - Music for Creators
-* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library
+* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
 * [tunetank](https://tunetank.com/) - Music for Videos
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [freemusicpublicdomain](https://www.freemusicpublicdomain.com/) - Public Domain Tracks
-* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library
+* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
 * [Sampld](https://sampld.app/) - Sample Finder
 
