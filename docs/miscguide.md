@@ -617,8 +617,8 @@
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Eat This Much](https://www.eatthismuch.com/), [Mealime](https://www.mealime.com/) or [MealPrepPro](https://mealpreppro.com/) / [Android](https://play.google.com/store/apps/details?id=com.nibbleapps.meal_prep_pro) - Meal Prep & Planning Apps / Android, iOS
+* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
@@ -1444,7 +1444,6 @@
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
-* [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs

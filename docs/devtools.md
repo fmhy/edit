@@ -352,7 +352,7 @@
 * 🌐 **[Streaming Site APIs](https://rentry.co/FMHYBase64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
-* 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs 
+* 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** / [2](https://cas.zukijourney.com/), [FreeAPIProviders](https://rentry.co/freeapiproviders) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[Countless](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
@@ -455,24 +455,11 @@
 
 ## ▷ Map Creators / Editors
 
-* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
-* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+* ⭐ **[Sprite Fusion](https://www.spritefusion.com/)** / [Discord](https://discord.gg/8sCEAspmBV), [Tiled](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Tilemap Editors
+* [LDtk](https://ldtk.io/) or [OGMO Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Generator
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
-* [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Medieval Fantasy City Generator
-* [donjon](https://donjon.bin.sh/) - RPG Resources / Tools
-* [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
-* [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
-* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
-* [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
 * [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
-* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
-* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Single-page Dungeon Map Generator
 
 ***
 
