@@ -564,7 +564,7 @@
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / Right Click to Save
 * [downloads-anymovies](https://www.downloads-anymovies.co/) - Movies / Right Click to Save
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
-* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV 
+* [⁠Cinemalux](https://cinemalux.store/) - Movie / TV
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [UHDMovies](https://modlist.in/?type=uhdmovies) - Movies / 4K
 * [⁠4KHDHub](https://4khdhub.fans/) - Movies / TV / 4K
