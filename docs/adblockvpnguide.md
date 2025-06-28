@@ -118,7 +118,7 @@
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
-* [FileScan](https://www.filescan.io/) - Online File Scanner / [GitHub](https://github.com/filescanio)
+* [Filescan.io](https://www.filescan.io/) - Online File Scanner / [GitHub](https://github.com/filescanio) / [X](https://x.com/filescan_itsec)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
 
 ***
