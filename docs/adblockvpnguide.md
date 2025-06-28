@@ -138,7 +138,7 @@
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer Protocol](https://surferprotocol.org/) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
-* [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
+* [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check / [X](https://x.com/FSecure)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
