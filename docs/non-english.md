@@ -819,7 +819,7 @@
 ## ▷ Streaming
 
 * [StreamingCommunity](https://streamingunity.shop/it) - Movies / TV
-* [Altadefinizione](https://https://altadefinizionegratis.vip/) - Movies / Sub / Dub / 1080p / 4K
+* [Altadefinizione](https://altadefinizionegratis.vip/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
