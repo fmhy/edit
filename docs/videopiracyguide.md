@@ -40,6 +40,7 @@
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
+* [Redflix](https://redflix.co/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [Purplix](https://neoxa.transdev.pw/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)

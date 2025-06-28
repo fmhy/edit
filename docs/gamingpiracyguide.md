@@ -52,6 +52,7 @@
 ***
 
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/) / [Unofficial Discord](https://discord.gg/Up3YARe4RW)
+* ⭐ **[KaOsKrew](https://rentry.co/FMHYBase64#kaoskrew)** - Torrent
 * ⭐ **[DODI Repacks](https://rentry.co/FMHYBase64#dodi)** - Torrent / [Lootlink Bypass](https://rentry.co/lootlink) / **[Site Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dodi-warning)** / [Discord](https://discord.gg/D9WU7C9FSE)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames)
@@ -227,7 +228,7 @@
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Switch Emulation](https://rentry.co/FMHYBase64#switch-emulation) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
-* [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides
+* [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
@@ -270,9 +271,9 @@
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
-* ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/axekin)
+* ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs / [Restore Downloads](https://greasyfork.org/en/scripts/495800)
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
@@ -318,7 +319,7 @@
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
-* [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
+* [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) - Sonic Fan Games + Mods
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
 ***
@@ -400,6 +401,7 @@
 # ► Puzzle Games
 
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
+* [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes

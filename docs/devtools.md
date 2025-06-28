@@ -942,7 +942,7 @@
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [⁠FreeDomain](https://domain.digitalplat.org/) / [GitHUb](https://github.com/DigitalPlatDev/FreeDomain), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains / Domains
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
