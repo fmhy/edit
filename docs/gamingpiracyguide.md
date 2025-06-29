@@ -355,6 +355,10 @@
 * [Pokemerald](https://pokemerald.com/) - Pokémon ROM Mods
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
+* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
+* [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
+* [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
+* [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
 
@@ -417,10 +421,6 @@
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
-* [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
-* [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
-* [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods 
 
 ***
 

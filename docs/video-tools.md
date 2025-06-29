@@ -219,7 +219,6 @@
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/), [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
-* [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
 * [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://x.com/getmetastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player

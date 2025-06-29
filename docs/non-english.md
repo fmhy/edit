@@ -269,7 +269,6 @@
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
-* [zhonghuadiancang](https://www.zhonghuadiancang.com/) - Classic Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
@@ -709,7 +708,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[StreamBlasters](https://www.streamblasters.party/)** - Movies / TV / Sub / Dub / 720p / 1080p / 4K / Anime / Indian Languages (Use basic Ublock Origin Lite Ad filter)
 * ⭐ **[Cineby](https://www.cineby.app/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[HydraHD](https://hydrahd.ac/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
@@ -733,7 +731,6 @@
 * [jattfilms](https://jattfilms.cfd/) - Movies / TV / Dub / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
-* [aFimlyWap](https://www.afilmywap.dad/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720pp
@@ -1282,7 +1279,7 @@
 * [EDA](https://eda.ru/) - Recipes
 * [Songs Pro](https://songspro.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
-* [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
+* [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
 * [GitFlic](https://gitflic.ru/) - GitHub Alternative
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
 * [RG.RU](https://rg.ru/) - News / [Telegram](https://t.me/rgrunews)

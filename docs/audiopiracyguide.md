@@ -88,7 +88,6 @@
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
 * [DimeADozen](http://www.dimeadozen.org/) - Concert Recordings / Torrents
-* [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Concert Recordings / Torrents
 * [Guitars101](https://www.guitars101.com/) - Concert Recordings / Bootlegs
 * [TheTradersDen](http://www.thetradersden.org/) - Concert Recordings / Torrents
 * [Lossless Legs](https://www.shnflac.net/) - Concert Recordings / Torrents
