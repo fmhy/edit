@@ -407,12 +407,7 @@
 * [DropReference](https://dropreference.com/) - PC Building Site
 * [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
 * [Remonterletemps](https://remonterletemps.ign.fr) - France Geographic / Forestry Info and Maps
-* [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
-* [Movie to Review](https://filmarevoirnad.blogspot.com/) - Classic French Movies
-* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
-* [FRDownMags](https://fr.downmagaz.net/) - Magazines
-* [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
-* [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
+* [nooSFere](https://www.noosfere.org/) - Science Fiction Media Database
 * [Deal Labs](https://www.dealabs.com/) - Track Deals
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
@@ -425,6 +420,8 @@
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
 * [Abandonware Magazines](https://www.abandonware-magazines.org/) - Retro Computer / Games Magazines
+* [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
+* [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [Abandonware Videos](https://www.abandonware-videos.org/) - Retro Game Related Videos
 
 ## ▷ Torrenting
@@ -447,6 +444,9 @@
 * [Sadisflix](https://sadisflix.ing/) - Movies / TV / Anime / Dub / 1080p / Use Adblocker / [Telegram](https://t.me/sadisflix)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
+* [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
+* [Movie to Review](https://filmarevoirnad.blogspot.com/) - Classic French Movies
+* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / French VPN Required for Some Content
 * [french-streaming](https://www.french-streaming.tv) - Movies / TV / Anime
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
@@ -490,6 +490,7 @@
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
 * [SushiScan](https://sushiscan.net/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
+* [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [ORAEDES](https://oraedes.fr/) - Occult / Esoteric
 
 ***
