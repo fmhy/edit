@@ -395,6 +395,7 @@
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
+* [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods 
 
 ***
 
