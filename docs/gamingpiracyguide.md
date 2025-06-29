@@ -14,7 +14,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/?section=game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
-* ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+* ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
@@ -93,20 +93,18 @@
 * [File Hunter](https://www.file-hunter.com/) - MSX Games
 * [Old-Games](https://www.old-games.ru/) - Abandonware
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
-* [Flashtro](https://flashtro.com/) - Abandonware
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
-* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games
+* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games / Has Online
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
-* [Best Old Games](https://www.bestoldgames.net/) - DOS Games
-* [DOSGames](https://dosgames.com/) - DOS Games
+* [Best Old Games](https://www.bestoldgames.net/) - DOS Games / Has Online
+* [DOSGames](https://dosgames.com/) - DOS Games / Has Online
 * [FreeDOSGames](https://www.freedosgames.de/) - DOS Games
-* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games
+* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games / Has Online
 * [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
-* [Classic Games](https://classicdosgames.com/) - DOS Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
@@ -200,6 +198,7 @@
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
 * [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF) - PDF Games
 * [PyGames](https://www.pygame.org/) - Python Games
+* [Flashtro](https://flashtro.com/) - Cracker Intros
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
 
@@ -319,6 +318,7 @@
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
+* [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
 * [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) - Sonic Fan Games + Mods
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
@@ -346,6 +346,7 @@
 * [Egg NS](https://eggnsemulator.com/nintendo-switch-roms) - ROMs / Switch
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
+* [SM64ROMHacks](https://rentry.co/FMHYBase64#sm64romhacks) - Super Mario 64 Mods
 * [MFGG](https://mfgg.net/) - Super Mario Fan Games / Mods / [Discord](https://discord.gg/jchgfw5)
 * [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) - Super Mario Bros. DS / Wii Mods
 * [SMW Hacks](https://rentry.co/FMHYBase64#smw-hacks) or [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
@@ -374,9 +375,33 @@
 ## ▷ Browser Emulators
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
-* ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
+* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems)
+* ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
+* ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
+* ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator
+* [Retro Games.oml](https://www.retrogames.onl/) - Multi-Console Browser Emulator
+* [ClassicGames](https://www.classicgames.me/) - Retro-Console Browser Emulator
+* [RetroGames.cc](https://www.retrogames.cc/) - Retro-Console Browser Emulator
+* [PlayRetroGames](https://www.playretrogames.com/) - Retro-Console Browser Emulator
+* [RetroGames](https://www.retrogames.cz/) - Retro-Console Browser Emulator
+* [PlayRetroGames](https://playretrogames.net/) - Retro-Console Browser Emulator
+* [Vizzed](https://www.vizzed.com/) - Multi-Console Browser Emulator
+* [PlayEmulator](https://playemulator.online/) - Multi-Console Browser Emulator
+* [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro-Console Browser Emulator
+* [Tiny8bit](https://floooh.github.io/tiny8bit/) - Retro-Console Browser Emulator
+* [Play Classic Games](https://playclassic.games/) - Retro-Console Browser Emulator
+* [OldGameShelf](https://oldgameshelf.com/) - Retro-Console Browser Emulator
+* [Virtual Consoles](https://virtualconsoles.com/) - Retro-Console Browser Emulator
+* [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console Browser Emulator
+* [WebRCade](https://play.webrcade.com/) - Retro-Console Browser Emulator
+* [EmuGames](https://www.emugames.net/) - Multi-Console Browser Emulator
+* [Online.OldGames](https://online.oldgames.sk/) - Multi-Console Browser Emulator
+* [ClassicReload](https://classicreload.com/) - Multi-Console Browser Emulator
+* [Retro Games Bot](https://retrogamesbot.com/) - Retro-Console Browser Emulator
+* [rom.so](https://rom.so/) - Multi-Console Browser Emulator / Sign-up Required
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
+* [Aurora](https://skitty.xyz/aurora/) - Nintendo / Sega Console Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
 * [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators

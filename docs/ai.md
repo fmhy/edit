@@ -298,6 +298,7 @@
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**, [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) or [FLUX-Pro-Unlimited](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up
 * ⭐ **[Grok](https://grok.com/)** / 20 Per 2 Hours / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[GPT1Image](https://gpt1image.exomlapi.com/)** -  Unlimited / GPT-Image-1
 * [ComfyUI Online](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Dezgo](https://dezgo.com/) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * [Bing Create](https://www.bing.com/images/create) / Unlimited
@@ -317,7 +318,6 @@
 * [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [ChatGLM](https://chatglm.cn/) / Unlimited
 * [Meta AI](https://www.meta.ai/icebreakers/imagine/) / Unlimited
-* [GPT1Image](https://gpt1image.exomlapi.com/) -  Unlimited / GPT-Image-1
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
@@ -370,7 +370,7 @@
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)**, [sdg-link](https://rentry.co/sdg-link), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[Civitai](https://civitai.com/)** - SD Model Index / [Subreddit](https://www.reddit.com/r/civitai/) / [Discord](https://discord.gg/UwX5wKwm6c) / [GitHub](https://github.com/civitai/civitai)
-* 🌐 **[promptoMANIA](https://promptomania.com/)** - Prompt Indexes
+* 🌐 **[promptoMANIA](https://promptomania.com/)** or [⁠Prompy](https://www.prompy.me/) - Prompt Indexes
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb)
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Extension for Automatic1111

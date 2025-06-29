@@ -435,7 +435,7 @@
 
 * ⭐ **[VF-Stream](https://films.vfstream.eu/)** - Movies / TV / Anime
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Discord](https://discord.gg/2wSpDJjbvP)
+* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime
 * ⭐ **[Frembed](https://frembed.store/)** - Movies / TV / Anime / API
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Darkiworld](https://darkiworld2025.com/) - Movies / TV / Anime
@@ -460,7 +460,7 @@
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [animesultra](https://v6.animesultra.net/) - Anime / Sub / Dub
-* [ryokaianime](https://ryokaianime.fr/) - Anime / Dub / [Discord](https://discord.gg/JXpm5cZrtC)
+* [ryokaianime](https://ryokaianime.fr/) - Anime / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
@@ -1705,11 +1705,9 @@
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/), [AnimeciX](https://anm.cx/), [SeiCode](https://seicode.net/), [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [CanlıTV](https://www.canlitv.me/) - Live TV
-* [Bozguncu Kirathanesi](https://discord.com/invite/Bzm9pgH9QA) - Live Football
 
 ## ▷ Reading / Okuma
 
-* ⭐ **[Kitap Botu](https://t.me/Kitap778bot)** - The largest Turkish PDF/EPUB/MOBI archive in the world
 * 🌐 **[Turkish PDF Channels](https://new2.telemetr.io/en/catalog/turkey/books?page=1&sort=participants_growth_7_days)** - Most popular Turkish PDF channels in Telegram
 * [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
 * [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books

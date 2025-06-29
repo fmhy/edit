@@ -63,7 +63,7 @@
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [/r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)**, [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling
+* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)** or [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
@@ -252,7 +252,6 @@
 # ► Steam / Epic
 
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**, [steam.tools](https://steam.tools/) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
-* ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
@@ -314,6 +313,21 @@
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
 * [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#steam-currency-converter-note) - Steam Currency Converter
+
+***
+
+## ▷ Steam Workshop Downloaders
+
+* ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
+* ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
+* [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
+* [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
+* [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
+* [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
+* [Wallpaper EngineWorkshop Downloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
+* [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
+* [ggntw](https://ggntw.com/steam) - Web-Based
+* [Skymods](https://catalogue.smods.ru) - Web-Based
 
 ***
 

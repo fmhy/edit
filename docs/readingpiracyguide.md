@@ -517,6 +517,7 @@
 * [Computer Magazines](https://archive.org/details/computermagazines) - Archive.org
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
+* [⁠EBooksYard](https://ebooksyard.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile

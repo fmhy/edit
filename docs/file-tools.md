@@ -220,15 +220,12 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**
-* [PDF24](https://www.pdf24.org/)
+* ⭐ *[PDF24](https://www.pdf24.org/)**
+* [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
-* [PrivatePDF](https://photown.github.io/private-pdf/)
-* [PDFBox](https://pdfbox.apache.org/)
-* [OpenPDF](https://github.com/LibrePDF/OpenPDF)
-* [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+* [Stirling-PDF](https://stirlingpdf.io/) / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ***
 
@@ -286,7 +283,7 @@
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Cold Storage Bypass](https://greasyfork.org/en/scripts/527711) / [Manager Export](https://greasyfork.org/en/scripts/515250)
+* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Files.vc](https://files.vc/)** - 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)

@@ -102,7 +102,7 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[PhotoMosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
+* ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [InColor](https://www.myheritage.com/incolor) - Image Colorization / Sign-Up Required
 * [PhotoJoiner](https://www.photojoiner.com/) - Collage Maker
@@ -144,6 +144,7 @@
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [SumoPaint](https://sumopaint.com/) - Browser Painting / Web
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
+* [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
 * [⁠Vectorpea](https://www.vectorpea.com/) - Vector Editor / Web
 * [VectorInk](https://vectorink.io/) - Vector Editor / iOS, Web

@@ -276,7 +276,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/) - Abandoned Places Map / [Discord](https://discord.gg/J9VUjqcSNB)
+* [Urbex](https://urbexology.com/) - Abandoned Places Map
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
@@ -1433,7 +1433,7 @@
 * [Roller Coaster Database](https://rcdb.com/) - World Roller Coasters
 * [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
 * [ConWorld](https://wiki.conworld.org/) - Constructed Worlds Wiki
-* [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) - Aesthetics Wiki / [Discord](https://discord.gg/mEWddNCAqv) / [Subreddit](https://www.reddit.com/r/aesthetic/)
+* [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) - Aesthetics Wiki / [Subreddit](https://www.reddit.com/r/aesthetic/)
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)

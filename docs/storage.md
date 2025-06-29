@@ -36,20 +36,6 @@
 
 ***
 
-## Background Removers
-
-* ⭐ **[BG Bye](https://bgbye.fyrean.com/)**
-
-[ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [BRIAAI](https://briaai-bria-rmbg-2-0.hf.space/), [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy), [BRIA-RMBG](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4), [remove.bg](https://www.remove.bg/), [pixelcut](https://www.pixelcut.ai/)
-
-### Object Removers
-
-* ⭐ **[ObjectRemover](https://objectremover.com/)**
-
-[Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/), [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything)
-
-***
-
 ## Browser Startpages
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
@@ -517,19 +503,6 @@
 * [FiberMC](https://www.fibermc.com/)
 * [ModpackIndex](https://www.modpackindex.com/)
 
-***
-
-## Multi-Console Browser Emulators
-
-* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems)
-* ⭐ **[Eclipse](https://eclipseemu.me/play/)**
-* ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)**
-
-[The Retro Saga](https://weplayretro.games/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/), [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/), [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en), [ROM.so](https://rom.so/)
-
-***
-
 ## Multireddits
 
 [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/) / [2](https://www.reddit.com/user/nbatman/m/random2/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://www.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Mysteries](https://www.reddit.com/user/nbatman/m/mysteries/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Minimalism](https://www.reddit.com/user/rainbowlemon/m/minimalist_lifestyle/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories), [Chess](https://www.reddit.com/user/korfor/m/chess/), [Engineering](https://www.reddit.com/user/nbatman/m/engineering/)
@@ -671,22 +644,6 @@
 * ⭐ **[tempsmss](https://tempsmss.com/)**
 
 [Yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [FreePhoneNum](https://freephonenum.com/), [ReceiveSMSOnline](https://receivesmsonline.me/), [ReceiveFreeSMS](http://receivefreesms.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/), [SMS Activate](https://sms-activate.io/freeNumbers)
-
-***
-
-## Steam Workshop Downloaders
-
-### Websites
-
-[Steamworkshop.download](http://steamworkshop.download/), [ggntw](https://ggntw.com/steam), [Skymods](https://catalogue.smods.ru)
-
-### Programs
-
-* ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
-* ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
-* [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
-
-[Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader), [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader), [Wallpaper EngineWorkshop Downloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
 
 ***
 

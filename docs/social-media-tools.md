@@ -441,8 +441,8 @@
 
 ## ▷ YouTube Search
 
-* 🌐 **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Index
-* ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover YouTube Channels
+* 🌐 **[YT Channel Spreadsheet](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE/)** or **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Index
+* ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover / Search YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Clip / Phrase Search Engines

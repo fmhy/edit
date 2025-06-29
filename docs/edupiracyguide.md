@@ -771,7 +771,7 @@
 * [Spellcheck](https://spellcheck.xyz) - English Spelling Game
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
 * [EnglishCentral](https://www.englishcentral.com/), [EngVid](https://www.engvid.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
-* [ItsAllInEnglish](https://t.me/itsallinenglishs), [Frenglish](https://frenglish.ru/) or [English E-Reader](https://english-e-reader.net/) - English Learning Books
+* [Frenglish](https://frenglish.ru/) or [English E-Reader](https://english-e-reader.net/) - English Learning Books
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
 * [TalkEnglish](https://www.talkenglish.com/) or [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - Improve Spoken English
 * [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
@@ -1362,7 +1362,7 @@
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - Practice / Study Material
 * ⭐ **[JEE Hub](https://jeehub.vercel.app/)** - JEE / NEET PYQs
-* [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archive
+* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
