@@ -413,7 +413,7 @@
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
-* [Phantom](https://phantom.lol/)
+* [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
 * [Delusionz](https://delusionz.xyz/)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
