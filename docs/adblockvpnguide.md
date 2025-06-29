@@ -366,7 +366,7 @@
 * ⭐ **[How to Bind VPN to Client](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
 * ⭐ **[Tailscale](https://tailscale.com/)**, [⁠Nebula](https://github.com/slackhq/nebula), [⁠Headscale](https://github.com/juanfont/headscale) or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
-* [WGDashboard](https://donaldzou.github.io/WGDashboard-Documentation/) - WireGuard Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
+* [WGDashboard](https://wgdashboard.dev/) - WireGuard and Amnezia Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard) / [Subreddit](https://www.reddit.com/r/WGDashboard/)
 * [OpenVPN](https://openvpn.net/) or [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnels
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
 * [VpnHood](https://github.com/vpnhood/VpnHood), [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/) - Self-Hosted VPNs
