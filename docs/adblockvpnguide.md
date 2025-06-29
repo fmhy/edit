@@ -415,7 +415,7 @@
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
-* [Delusionz](https://delusionz.xyz/)
+* [Delusionz](https://delusionz.xyz/) / [Discord](https://discord.com/invite/Dpj8C8SAmH)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
