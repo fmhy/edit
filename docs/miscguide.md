@@ -1293,6 +1293,7 @@
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** or [geneticars](https://geneticars.vercel.app/) - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
+* ⭐ **[daedalOS](https://github.com/DustinBrett/daedalOS)** / **[Web](https://dustinbrett.com/)** - Full Browser Based Windows 10 Desktop Environment
 * [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
 * [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe
