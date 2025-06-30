@@ -225,7 +225,7 @@
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/)
 * ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [GitHub](https://github.com/streetwriters/notesnook)
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [GitHub](https://github.com/anyproto/anytype-ts)
-* ⭐ **[Logseq](https://logseq.com/)** - Outlining
+* ⭐ **[Logseq](https://logseq.com/)** - Outlining / [GitHub](https://github.com/logseq/logseq)
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Flotes](https://flotes.app/) - Markdown Note-Taking
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking
