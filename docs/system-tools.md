@@ -188,6 +188,7 @@
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+* [QEMU-iOS](https://github.com/devos50/qemu-ios) - QEMU-Based Emulator for Legacy iPod Touch Devices
 
 ***
 
