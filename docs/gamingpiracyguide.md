@@ -179,6 +179,7 @@
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
+* [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) / [Web](https://phoboslab.org/wipegame/) - wipEout (1995) Web Port
 
 ***
 
