@@ -384,6 +384,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator
+* ⭐ **[SkyEmu](https://web.skyemu.app/)** / **[Dev](https://web.skyemu.app/branch/dev/)** - GameBoy, GBC, GBA & DS emulator / **[GitHub](https://github.com/skylersaleh/SkyEmu)** / **[Discord](https://discord.gg/tnUEtmJgA5)**
 * [Retro Games.oml](https://www.retrogames.onl/) - Multi-Console Browser Emulator
 * [ClassicGames](https://www.classicgames.me/) - Retro-Console Browser Emulator
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro-Console Browser Emulator
