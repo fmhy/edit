@@ -53,7 +53,7 @@ export default defineConfig({
       'meta',
       {
         name: 'msvalidate.01',
-        content: '55ae5a0600A8C7827B59CFD506D76DC2'
+        content: 'F3028112EF6F929B562F4B18E58E3691'
       }
     ],
     // Google site verification
@@ -152,7 +152,9 @@ export default defineConfig({
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>`
+      copyright:
+        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>` +
+        `<br/> This site does not host any files.`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',

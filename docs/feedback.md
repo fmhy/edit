@@ -46,12 +46,14 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
-  
+
 * *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to fmhy I have access to nearly everything."*
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 
 * *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
+
+* *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
 
 * *"I love FMHY's wiki, to the point I can't use the internet without it."*
 

@@ -21,6 +21,7 @@ import {
   presetAttributify,
   presetIcons,
   presetUno,
+  presetWebFonts,
   transformerDirectives
 } from 'unocss'
 
@@ -94,16 +95,44 @@ export default defineConfig({
     // Color scale utilities
     ...createColorRules('text'),
     ...createColorRules('bg'),
-    ...createColorRules('border')
+    ...createColorRules('border'),
+
+    [
+      'kbd',
+      {
+        display: 'inline-block',
+        padding: '0.2em 0.4em',
+        fontSize: '0.75em',
+        fontWeight: '500',
+        lineHeight: '1',
+        color: 'var(--vp-c-text-1)',
+        backgroundColor: 'rgb(var(--vp-c-bg-alt))',
+        borderRadius: '4px'
+      }
+    ]
   ],
   presets: [
     presetUno(),
     presetAttributify(),
     presetIcons({
+      autoInstall: true,
       scale: 1.2,
       extraProperties: {
         display: 'inline-block',
         'vertical-align': 'middle'
+      },
+      collections: {
+        custom: {
+          privateersclub: () =>
+            fetch('https://megathread.pages.dev/favicon.svg').then((r) =>
+              r.text()
+            )
+        }
+      }
+    }),
+    presetWebFonts({
+      fonts: {
+        mono: 'Geist Mono'
       }
     })
   ],
