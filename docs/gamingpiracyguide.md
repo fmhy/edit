@@ -179,6 +179,7 @@
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
+* [SM64 Web](https://notan127.github.io/SM64-PC-Port-WebGL/) - Browser Super Mario 64 Port / [GitHub](https://github.com/NotAn127/SM64-PC-Port-WebGL)
 
 ***
 
