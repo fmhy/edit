@@ -44,7 +44,7 @@
 * 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
-* ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [X](https://x.com/The_Pi_Hole)
+* ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [X](https://x.com/The_Pi_Hole) / [GitHub](https://github.com/pi-hole)
 * ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
@@ -117,7 +117,7 @@
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
-* [FileScan](https://www.filescan.io/) - Online File Scanner / [GitHub](https://github.com/filescanio)
+* [Filescan.io](https://www.filescan.io/) - Online File Scanner / [GitHub](https://github.com/filescanio) / [X](https://x.com/filescan_itsec)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
 
 ***
@@ -137,7 +137,7 @@
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer Protocol](https://surferprotocol.org/) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
-* [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
+* [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check / [X](https://x.com/FSecure)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
@@ -412,9 +412,9 @@
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Free Proxy](https://freeproxy.win/), [2](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
-* [Phantom](https://phantom.lol/)
+* [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
-* [Delusionz](https://delusionz.xyz/)
+* [Delusionz](https://delusionz.xyz/) / [Discord](https://discord.com/invite/Dpj8C8SAmH)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Google Translate](https://translate.google.com/) / [Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
