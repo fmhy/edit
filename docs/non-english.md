@@ -821,10 +821,10 @@
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
 * [CB01](https://cb01net.com/) - Movies / TV
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
-* [AnimeUnity](https://www.animeunity.so/) - Anime / Dub
+* [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p
+* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
-* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / 1080p
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
