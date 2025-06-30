@@ -323,6 +323,7 @@
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [IndexKings](http://www.indexkings.com/) - URL Indexer
+* [Url Opener](https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en) - Open multiple urls with one click
 
 ***
 
