@@ -380,7 +380,7 @@
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
-* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems)
+* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems) / [Github](https://github.com/EmulatorJS/EmulatorJS/)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator
