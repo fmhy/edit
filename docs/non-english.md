@@ -834,7 +834,7 @@
 * [MangaWorld](https://www.mangaworld.nz/) - Manga
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
-* [efpfanfic](https://efpfanfic.net/) - Fanfiction
+* [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
 
 ***
 
