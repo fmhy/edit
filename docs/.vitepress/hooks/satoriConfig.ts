@@ -51,13 +51,15 @@ const fonts: SatoriOptions['fonts'] = [
 ]
 
 export default defineSatoriConfig({
-  width: 1200,
-  height: 628,
+  width: 1800,
+  height: 900,
   fonts,
   props: {
     title: 'Title',
     description:
       'Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.',
-    dir: '/j'
+    dir: '/j',
+    // I almost killed myself for this shit
+    image: 'https://i.fmhy.net/og-base.jpg'
   }
 })

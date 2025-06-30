@@ -102,12 +102,13 @@ async function generateImage({
 
   // consola.info(url, title, description)
   const options: SatoriOptions = {
-    width: 1200,
-    height: 628,
+    width: 1800,
+    height: 900,
     fonts,
     props: {
       title,
-      description
+      description,
+      image: 'https://i.fmhy.net/og-base.jpg'
     }
   }
 

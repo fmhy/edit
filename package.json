@@ -17,7 +17,7 @@
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache --check .",
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
@@ -75,6 +75,9 @@
         "@algolia/client-search",
         "search-insights"
       ]
-    }
+    },
+    "onlyBuiltDependencies": [
+      "vue-demi"
+    ]
   }
 }
