@@ -179,6 +179,9 @@
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
+* [Qwasm](https://qwasm.m-h.org.uk/) - Quake WebAssembly Port / [GitHub](https://github.com/GMH-Code/Qwasm)
+* [Qwasm2](https://qwasm2.m-h.org.uk/) - Quake 2 WebAssembly Port / [GitHub](https://github.com/GMH-Code/Qwasm2)
+* [Dwasm](https://dwasm.m-h.org.uk/) - DOOM WebAssembly Port / [GitHub](https://github.com/GMH-Code/Dwasm)
 
 ***
 
