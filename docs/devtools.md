@@ -930,7 +930,6 @@
 
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [⁠servers.fyi](https://www.servers.fyi/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * ↪️ **[Domain Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
 * ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/), [Checkmate](https://github.com/bluewave-labs/Checkmate) or [24x7](https://www.site24x7.com/tools.html) - Site / Server Uptime Monitors
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
@@ -957,6 +956,104 @@
 * [WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
+
+***
+
+## ▷  Dynamic Page Hosting
+
+* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)**
+* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB Storage / 100GB Bandwidth / Unlimited DB
+* ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB Storage / Unlimited Bandwidth / 16 DB / Limited Registration
+* ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB Storage / Unlimited Bandwidth / Unlimited DB
+* ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB Storage / Unlimited Bandwidth / 2 DB
+* [InfinityFree](https://infinityfree.com/) - 5GB Storage / Unlimited Bandwidth / 400 DB
+* [byet.host](https://byet.host/free-hosting) - 1GB Storage / 50GB Bandwidth / 5 DB
+* [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [GoogieHost.com](https://googiehost.com/) - 1GB Storage / 100GB Bandwidth / 2 DB
+* [Freehostia.com](https://www.freehostia.com/) - 250MB Storage / 6GB Bandwidth / 1 DB
+* [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB Storage / 4GB Bandwidth / 1 DB
+* [Batcave.net](https://batcave.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [100WebSpace.com](https://www.100webspace.com/) - 100MB Storage / 3GB Bandwidth / 1 DB
+* [50Webs.com](https://www.50webs.com/) - 500MB Storage / 5GB Bandwidth / 0 DB
+* [Somee.com](https://somee.com/) - 150MB Storage / 5GB Bandwidth / 1 DB
+* [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [WebFreeHosting.net](https://webfreehosting.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Biz.ly](https://www.biz.ly/) - 50MB Storage / 1GB Bandwidth / 0 DB
+* [biz.ht](https://biz.ht/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Freehostspace.com](https://www.freehostspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [RUNHOSTING.com](https://runhosting.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [FreeSiteHosting.com](https://freesitehosting.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Freehostpro.com](https://www.freehostpro.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Redwebhost.com](https://www.redwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Tekcities.com](https://www.tekcities.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [125mb.com](https://www.125mb.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [biz.nf](https://www.biz.nf/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [ATSPACE](https://www.atspace.com/) - 1GB Storage / Unlimited Bandwidth / 1 DB
+* [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+* [Leprd](https://leprd.space/) - 1GB Storage / 10GB Bandwidth / Unlimited DB / Limited Registration
+* [x10hosting](https://x10hosting.com/) - 500MB Storage / Unlimited Bandwidth / 2 DB
+* [Profreehost](https://profreehost.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+* [Render](https://render.com/)
+* [pythonanywhere](https://www.pythonanywhere.com/)
+* [IBM Cloud](https://www.ibm.com/cloud/free)
+* [Fleek](https://fleek.xyz/)
+* [Stormkit](https://www.stormkit.io/)
+
+***
+
+## ▷ Static Page Hosting
+
+* ⭐ **[surge](https://surge.sh/)**
+* ⭐ **[Hugo](https://gohugo.io/)**
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
+* ⭐ **[GitHub Pages](https://pages.github.com/)**
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
+* ⭐ **[Sourcehut Pages](https://srht.site/)**
+* ⭐ **[Neocities](https://neocities.org/)**
+* ⭐ **[nekoweb](https://nekoweb.org/)**
+* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
+* [Web 1.0 Hosting](https://web1.0hosting.net/)
+* [Codeberg Pages](https://codeberg.page/)
+* [⁠pages.gay](https://pages.gay/)
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
+* [DropPages](https://droppages.com/)
+* [W3Schools Spaces](https://www.w3schools.com/spaces/)
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
+* [Straw.Page](https://straw.page/)
+* [Own Free Website](https://www.own-free-website.com)
+* [itty.bitty](https://itty.bitty.site/)
+* [Staclo](https://staclo.host/)
+* [mmm](https://mmm.page/)
+* [Temper](https://temper.one/)
+* [GitBook](https://www.gitbook.com/)
+* [Kinsta](https://kinsta.com/static-site-hosting/)
+* [Pelican](https://getpelican.com/)
+* [Reocities](https://www.reocities.xyz/)
+* [yay.boo](https://yay.boo/)
+* [Publii](https://getpublii.com/)
+
+***
+
+## ▷ Website Builders
+
+* **Note** - These are generally made for businesses only.
+
+***
+
+* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
+* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
+* [Flounder](https://flounder.online/) - Website Building Discussion
+* [site123](https://www.site123.com/)
+* [tilda](https://tilda.cc/)
+* [bravenet](https://www.bravenet.com/)
+* [cargo](https://cargo.site/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
 
 ***
 

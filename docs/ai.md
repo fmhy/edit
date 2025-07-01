@@ -213,7 +213,7 @@
 * 🌐 **[⁠LLM Explorer](https://llm-explorer.com/)** or [LifeArchitect](https://lifearchitect.ai/models-table/) - LLM Databases / Indexes
 * 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
 * 🌐 **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
-* [Perchance](https://perchance.org/generators) / [Discord](https://discord.gg/43qAQEVV9a) or [WebSim](https://websim.ai/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
+* [Perchance](https://perchance.org/generators) / [Discord](https://discord.gg/43qAQEVV9a) or [WebSim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
@@ -295,7 +295,7 @@
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Imagen 3 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Gemini](https://gemini.google.com/) - Imagen 4 + Ultra / Imagen 3 / Unlimited / Region-Based / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**, [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) or [FLUX-Pro-Unlimited](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up
+* ⭐ **[Flux AI Playground](https://flux.exomlapi.com/)**, [FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell), [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) or [FLUX-Pro-Unlimited](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up
 * ⭐ **[Grok](https://grok.com/)** / 20 Per 2 Hours / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[GPT1Image](https://gpt1image.exomlapi.com/)** - Unlimited / GPT-Image-1
 * [ComfyUI Online](https://www.runcomfy.com/comfyui-web) / Unlimited
