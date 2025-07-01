@@ -343,6 +343,7 @@
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [lmao.love](https://lmao.love/channels/) - TV / Sports
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
+* [StreamHub](https://thestreamhub.xyz/live_tv) - TV / Sports
 * [Rive Live](https://rivestream.org/iptv) - TV / Sports
 * [AlienFlix TV](https://alienflix.net/live) - TV
 * [NTV](https://ntvstream.cx/) - TV / Sports
