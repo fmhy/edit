@@ -926,7 +926,116 @@
 
 ***
 
-## ▷ Hosting Tools
+## ▷ Website Builders
+
+* **Note** - These are generally made for businesses only.
+
+***
+
+* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
+* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
+* [Flounder](https://flounder.online/) - Website Building Discussion
+* [site123](https://www.site123.com/)
+* [tilda](https://tilda.cc/)
+* [bravenet](https://www.bravenet.com/)
+* [cargo](https://cargo.site/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
+
+***
+
+## ▷ WordPress Tools
+
+* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
+* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
+* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
+* [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
+* [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
+* [faustjs](https://faustjs.org) - WordPress Framework
+* [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
+* [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
+* [UUID Tools](https://www.uuidtools.com/) - UUID Generator
+
+***
+
+## ▷ Regex Tools
+
+* **Note** - You can use [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
+
+***
+
+* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Tools & Resources
+* ⭐ **[Regex Vis](https://regex-vis.com/)** - Regex Visualizer
+* ⭐ **[regex101](https://regex101.com/)** or [RegExr](https://regexr.com/) - Regex Editors
+* [RegexLearn](https://regexlearn.com/), [RegexOne](https://regexone.com/), [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Regex Learning / Practice Resources
+* [Regex Syntax Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) - Regex Cheatsheet (JS Flavor)
+* [iHateRegex](https://ihateregex.io/) - Premade Regex Patterns List
+* [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
+
+***
+
+## ▷ Benchmark Tools
+
+* 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
+* ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [Geofetcher](https://geofetcher.appsinprogress.com/) or [GTmetrix](https://gtmetrix.com/) - Test Webpage Speed
+* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
+* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
+* [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
+* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
+* [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
+* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
+* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
+* [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
+* [Testmail](https://testmail.app/) - Site Signup Test
+* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+* [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
+* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
+
+***
+
+## ▷ Image Optimization
+
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* [RIOT](https://riot-optimizer.com/) - Image Optimization
+* [YOGA](https://yoga.flozz.org/) - Image Optimization
+* [ImageFoo](https://imagefoo.com/) - Image Optimization
+* [tiny.pictures](https://tiny.pictures/) - Image Optimization
+* [Ihancer](https://ihancer.com) - Image Optimization
+* [Waifu2x](https://www.waifu2x.net/) - Image Optimization
+* [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization
+* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
+
+***
+
+## ▷ SVG Tools
+
+* ↪️ **[SVG / Vector Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
+* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
+* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
+* [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
+* [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
+* [SVGX](https://svgx.app/) - SVG Assets Manager
+* [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
+* [svgco](https://svgco.de/) or [IMG to SVG](https://img-to-svg.com/) - Image to SVG Converter
+* [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
+* [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
+* [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
+* [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
+* [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
+* [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
+* [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
+* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
+* [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
+* [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
+* [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
+
+***
+
+# ► Hosting Tools
 
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [⁠servers.fyi](https://www.servers.fyi/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
@@ -1036,115 +1145,6 @@
 * [Reocities](https://www.reocities.xyz/)
 * [yay.boo](https://yay.boo/)
 * [Publii](https://getpublii.com/)
-
-***
-
-## ▷ Website Builders
-
-* **Note** - These are generally made for businesses only.
-
-***
-
-* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
-* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
-* [Flounder](https://flounder.online/) - Website Building Discussion
-* [site123](https://www.site123.com/)
-* [tilda](https://tilda.cc/)
-* [bravenet](https://www.bravenet.com/)
-* [cargo](https://cargo.site/)
-* [Mobirise](https://mobirise.com/)
-* [Silex](https://www.silex.me/)
-
-***
-
-## ▷ WordPress Tools
-
-* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
-* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
-* ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
-* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
-* [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
-* [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
-* [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
-* [faustjs](https://faustjs.org) - WordPress Framework
-* [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
-* [UUID Tools](https://www.uuidtools.com/) - UUID Generator
-
-***
-
-## ▷ Regex Tools
-
-* **Note** - You can use [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
-
-***
-
-* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Tools & Resources
-* ⭐ **[Regex Vis](https://regex-vis.com/)** - Regex Visualizer
-* ⭐ **[regex101](https://regex101.com/)** or [RegExr](https://regexr.com/) - Regex Editors
-* [RegexLearn](https://regexlearn.com/), [RegexOne](https://regexone.com/), [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Regex Learning / Practice Resources
-* [Regex Syntax Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) - Regex Cheatsheet (JS Flavor)
-* [iHateRegex](https://ihateregex.io/) - Premade Regex Patterns List
-* [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
-
-***
-
-## ▷ Benchmark Tools
-
-* 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
-* ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [Geofetcher](https://geofetcher.appsinprogress.com/) or [GTmetrix](https://gtmetrix.com/) - Test Webpage Speed
-* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
-* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
-* [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
-* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
-* [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
-* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
-* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
-* [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
-* [Testmail](https://testmail.app/) - Site Signup Test
-* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
-* [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
-* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
-
-***
-
-## ▷ Image Optimization
-
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* [RIOT](https://riot-optimizer.com/) - Image Optimization
-* [YOGA](https://yoga.flozz.org/) - Image Optimization
-* [ImageFoo](https://imagefoo.com/) - Image Optimization
-* [tiny.pictures](https://tiny.pictures/) - Image Optimization
-* [Ihancer](https://ihancer.com) - Image Optimization
-* [Waifu2x](https://www.waifu2x.net/) - Image Optimization
-* [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization
-* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
-
-***
-
-## ▷ SVG Tools
-
-* ↪️ **[SVG / Vector Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
-* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
-* [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
-* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
-* [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
-* [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
-* [SVGX](https://svgx.app/) - SVG Assets Manager
-* [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
-* [svgco](https://svgco.de/) or [IMG to SVG](https://img-to-svg.com/) - Image to SVG Converter
-* [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
-* [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
-* [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
-* [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
-* [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
-* [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
-* [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
-* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
-* [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
-* [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
-* [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 
 ***
 
