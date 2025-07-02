@@ -35,6 +35,12 @@ Turn FMHY into Bookmarks
 
 ---
 
+### [FMHY Goggles](https://github.com/fmhy/bookmarks#goggle)
+
+Search FMHY using Brave Goggles
+
+---
+
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
 Search markdown via python script
