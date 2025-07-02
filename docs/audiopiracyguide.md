@@ -329,6 +329,7 @@
 * [Kira](https://kira.vercel.app/) - Browse by Country / [GitLab](https://gitlab.com/timrossback/kira)
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create Artist RSS Feeds
+* [Unheard.FM](https://unheard.fm/) – Music Discovery You Control, with No Repeats
 
 ***
 
