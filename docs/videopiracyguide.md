@@ -117,7 +117,7 @@
 ## ▷ Anime Streaming
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites)** / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku), [The Index](https://theindex.moe/library/anime) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/), [2](https://everythingmoe.org/) / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[AnimeKai](https://animekai.bz/)**, [2](https://animekai.cc/), [3](https://animekai.ac/) or [AniGo](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [X](https://x.com/animekai_to) / [Status](https://animekai.me/) / [Discord](https://discord.com/invite/at5d9rkfUy)
+* ⭐ **[AnimeKai](https://animekai.to/)**, [2](https://animekai.cc/), [3](https://animekai.ac/), [4](https://animekai.bz/) or [AniGo](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [X](https://x.com/animekai_to) / [Status](https://animekai.me/) / [Discord](https://discord.com/invite/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)** - Hard Subs / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
@@ -136,7 +136,7 @@
 * [Anixl](https://anixl.to/) - Sub / Dub / [Discord](https://discord.gg/prmJz2av76)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
-* [RiveKun](https://rivekun.rivestream.org/) - Sub / Dub / Auto-Next
+* [RiveKun](https://rivekun.rivestream.org/), [2](https://rivekun.pages.dev/) - Sub / Dub / Auto-Next
 * [Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
 * [AniHQ](https://anihq.to/) - Sub / Dub
@@ -144,7 +144,7 @@
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p / [Discord](https://discord.com/invite/U56ZMrD)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
-* [⁠Gojo](https://gojo.live/) - Sub / Dub
+* [Animetsu](https://animetsu.to/) - Sub / Dub
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub
 * [Lucifer Donghua](https://luciferdonghua.in/) - Donghua / Sub / [Telegram](https://telegram.me/luciferdonghuaz)
 * [LMANIME](https://lmanime.com/) - Donghua / Sub
