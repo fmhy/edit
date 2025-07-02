@@ -62,3 +62,9 @@ Multi-site search engines
 ### [Dupe Checker](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
+
+--
+
+### Search Page Backups
+
+[FMHY.net](https://fmhy.net/posts/search) / [Reddit](https://redd.it/105xraz)
