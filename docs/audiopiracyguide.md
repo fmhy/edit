@@ -506,7 +506,6 @@
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
-* [MikuDB](https://mikudb.moe/) - Vocaloid / MP3
 
 ***
 
@@ -580,7 +579,7 @@
 * ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader)
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
-* [⁠Chiptune Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web
+* [⁠Chiptune Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks
