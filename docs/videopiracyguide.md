@@ -13,7 +13,7 @@
 * ⭐ **[P-Stream](https://pstream.org/)** / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
 * ⭐ **[Cineby](https://www.cineby.app/)**, [2](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.cat/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
-* ⭐ **[XPrime](https://xprime.tv/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
+* ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[Bludclart](https://watch.bludclart.com/)**, [2](https://watch.streamflix.one/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Add Sources](https://greasyfork.org/en/scripts/538940)
 * ⭐ **[Cinemaos](https://cinemaos.live/)**, [2](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)

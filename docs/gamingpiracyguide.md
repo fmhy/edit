@@ -554,7 +554,6 @@
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
 * [Pokemon Chess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [playlaser.xyz](https://playlaser.xyz/) - Alternative-Style Chess
 * [ChessBase](https://www.chessbase.in/) / [English](https://en.chessbase.com/) - Indian Chess News
 
 ***
