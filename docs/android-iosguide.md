@@ -132,7 +132,7 @@
 
 * 🌐 **[ReVanced Mega](https://xdaforums.com/t/app-guides-unofficial-revanced-megathread.4523967/)** - ReVanced Resources / Megathread
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
-* ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * ⭐ **[ReVanced Obtainium Guide](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7)** - Update ReVanced Apps Automatically
 * [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/)
 * [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
@@ -769,7 +769,7 @@
 # ► Android Audio
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
-* ⭐ **[ReVanced Manager](https://revanced.app/)** / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager), [xManager](https://www.xmanagerapp.com/) / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
+* ⭐ **[ReVanced Manager](https://revanced.app/)** / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager), [xManager](https://www.xmanagerapp.com/) / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad-Free Spotify
 * ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
 * ⭐ **[Poweramp Equalizer](https://rentry.co/FMHYBase64#poweramp-equalizer)** / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
@@ -964,7 +964,7 @@
 
 ## ▷ Android YouTube Apps
 
-* ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes

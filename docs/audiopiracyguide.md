@@ -13,7 +13,7 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_clients)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
-* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Features](https://rentry.co/FMHYBase64#dzunlock)
+* [Deezer](https://www.deezer.com/) - Streaming
 * [Moosync](https://moosync.app/) - YouTube / Spotify / Last.fm / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -580,6 +580,7 @@
 * ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader)
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
+* [⁠Chiptune Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks

@@ -1026,6 +1026,8 @@
 * [systemd-by-example](https://systemd-by-example.com/) - systemd Learning
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
+* [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
+* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
 * [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
@@ -1245,6 +1247,7 @@
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
 * [Web Game Dev](https://www.webgamedev.com/) - Game Dev Guides / [Discord](https://discord.com/invite/5Z28wjTeyh)
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Dev Tutorials
+* [Level Design Book](https://book.leveldesignbook.com/) - Level Design Guide / Book
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [Shadertoy](https://www.shadertoy.com/) - Real-Time Shader Dev Platform
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
@@ -1360,7 +1363,7 @@
 
 * 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - Practice / Study Material
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures

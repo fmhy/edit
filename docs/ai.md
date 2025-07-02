@@ -20,7 +20,6 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots / Qwen3-235B-A22B / Qwen3-32B
-* ⭐ **[HuggingChat](https://huggingface.co/chat/)** - DeepSeek-R1-Distill-Qwen-32B / Qwen QwQ-32B / Qwen3-235B-A22B / Multiple Open-Source Chatbots / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [GitHub](https://github.com/huggingface/chat-ui)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/)
 * [⁠ISH](https://ish.junioralive.in/) - o1 / Grok 3 / DeepSeek R1 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Mistral](https://chat.mistral.ai) - Mistral Large 24.11 / [Discord](https://discord.gg/mistralai)
@@ -29,7 +28,7 @@
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o4-Mini / No Sign-Up
 * [FreePass](https://freepass.ai/) - Multiple Chatbots
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
-* [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
+* [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Hugging Face](https://huggingface.co/spaces/MiniMaxAI/MiniMax-M1) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot
 * [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
@@ -249,7 +248,6 @@
 
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
 * [Scrip AI](https://scripai.com/) (No Sign-Up), [INK](https://app.inkforall.com/tools), [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
-* [NovelAI](https://novelai.net/) - Story Writing AI / No Sign-Up / [Limit Bypass](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#novelai-bypass), [2](https://greasyfork.org/en/scripts/448926) / [Discord](https://discord.com/invite/novelai)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant

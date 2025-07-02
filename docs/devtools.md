@@ -385,9 +385,7 @@
 * 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
-* ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Text Complation](https://github.com/molbal/llm-text-completion-finetune) or [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Complation
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
@@ -830,11 +828,20 @@
 
 ***
 
-## ▷ Website Generators
+## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
+* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
+* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
 * ⭐ **[Docusaurus](https://github.com/facebook/docusaurus)**, [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
+* [Flounder](https://flounder.online/) - Website Building Discussion
+* [site123](https://www.site123.com/) - Website Builder
+* [tilda](https://tilda.cc/) - Website Builder
+* [bravenet](https://www.bravenet.com/) - Website Builder
+* [cargo](https://cargo.site/) - Website Builder
+* [Mobirise](https://mobirise.com/) - Website Builder
+* [Silex](https://www.silex.me/) - Website Builder
 * [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
 * [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
 * [Barely](https://github.com/charludo/barely) - Python Static Website Generator
@@ -923,24 +930,6 @@
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
-
-***
-
-## ▷ Website Builders
-
-* **Note** - These are generally made for businesses only.
-
-***
-
-* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
-* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
-* [Flounder](https://flounder.online/) - Website Building Discussion
-* [site123](https://www.site123.com/)
-* [tilda](https://tilda.cc/)
-* [bravenet](https://www.bravenet.com/)
-* [cargo](https://cargo.site/)
-* [Mobirise](https://mobirise.com/)
-* [Silex](https://www.silex.me/)
 
 ***
 

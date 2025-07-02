@@ -615,6 +615,7 @@
 * [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
 * [Mac App Store](https://macappstre.com/)
+* [Antibiotic's](https://t.me/AntibioticsChannel)
 * [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
