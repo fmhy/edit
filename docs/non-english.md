@@ -1607,11 +1607,11 @@
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
+* [Bibliotecasecreta](http://bibliotecasecreta.nl/) - Telegram Book Bot
 * [LectuEpub](https://lectuepub4.com/) - Books
 * [LectuEpubGratis](https://lectuepubgratis3.com/) - Books
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
-* [Bibliotecasecreta](http://bibliotecasecreta.nl/) - Telegram Book Bot
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
