@@ -227,7 +227,6 @@
 * [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
-* [NZBKing](https://nzbking.com/)
 * [g4u](https://g4u.to/) - Download Games via Usenet / PW: `404`
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials

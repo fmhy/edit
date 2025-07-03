@@ -877,7 +877,6 @@
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles
 * [JustSubtitles](https://justsubtitles.com/), [2](https://subss.vercel.app/) - Subtitles
-* [My Subs](https://my-subs.co/) - Subtitles
 * [IndexSubtitle](https://indexsubtitle.cc/) - Subtitles
 * [YifySubtitles](https://yifysubtitles.ch/) - Subtitles
 * [YTS Subs](https://yts-subs.com/) - Subtitles

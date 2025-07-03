@@ -796,7 +796,6 @@
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [Motion](https://motion.dev/) - Animation Library
-* [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
