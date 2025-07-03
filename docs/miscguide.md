@@ -34,6 +34,7 @@
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [sourcehut](https://sr.ht/) - Public Project Index
+* [Lead Generation Tools](https://www.lead-generation.tools) - Handpicked Collection Of Lead Generation Tool
 
 ***
 
