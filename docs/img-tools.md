@@ -406,6 +406,7 @@
 * [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
 * [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
 * [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free
+* [AI Scribbles](https://aiscribbles.com) - AI Generated Stock Images / CC-BY-SA
 * [themeisle](https://mystock.themeisle.com/) - Stock Photos / CC0
 * [PxHere](https://pxhere.com/) - Stock Photos / CC0
 * [focastock](https://focastock.com/) - Stock Photos / CC0
