@@ -153,7 +153,7 @@ export default defineConfig({
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
       copyright:
-        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>` +
+        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
         `<br/> This site does not host any files.`
     },
     editLink: {
