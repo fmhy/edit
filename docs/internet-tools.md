@@ -317,7 +317,7 @@
 * [QRcodly](https://www.qrcodly.de/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2QR](https://2qr.info/) or [Link to QR](https://link-to-qr.com/) - QR Code Generator for URLs / Text
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
-* [Open Bulk URL](https://openbulkurl.com/), [Open URL](https://openurl.online/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
+* [Open Bulk URL](https://openbulkurl.com/), [Open URL](https://openurl.online/) , [OpenAllURLs](https://www.openallurls.com/) or [Open All Web](https://www.openallweb.top) - Bulk Open URLs
 * [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
