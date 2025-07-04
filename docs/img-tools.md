@@ -782,6 +782,7 @@
 * [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks) - Create Screenshot Mockups of Websites
 * [paste.photos](https://www.paste.photos/) - Paste Image to Download
 * [How to Screenshot](https://screenshot.help/) - Multi-Platform Screenshot Tutorials
+* [Savvyshot](https://savvyshot.app/) - Shareable screenshot editor
 
 ***
 
