@@ -30,7 +30,7 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Hugging Face](https://huggingface.co/spaces/MiniMaxAI/MiniMax-M1) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
 * [Kimi](https://kimi.ai/) - Kimi 1.5 Chatbot
-* [⁠Dot](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Rednote / Xiaohongshu Chatbot
+* [⁠Dots](https://huggingface.co/spaces/rednote-hilab/dots-demo) -  Xiaohongshu Chatbot / No Sign-Up
 * [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [Groq](https://groq.com/) - Qwen QwQ-32B / Deepseek-R1-Distill / Multiple Chatbots / [Discord](https://discord.gg/invite/groq)
