@@ -211,6 +211,7 @@
 * [Scored](https://communities.win/) - User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
 * [Discuit](https://discuit.org/) - Centralized Reddit Alt with User Control
+* [SubHarbor](https://subharbor.com/) - Subreddit fallback & alternative links
 
 ***
 
