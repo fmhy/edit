@@ -469,7 +469,7 @@
 
 ## ▷ Minesweeper
 
-* ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) / [Github](https://github.com/GoogleChromeLabs/proxx) - Play Minesweeper
+* ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
 * [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki
 * [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
@@ -503,7 +503,7 @@
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
-* [Linxicon](https://linxicon.com/) - Word Connection Game / [Discord](https://discord.gg/Xpyy8dCr9g)
+* [Linxicon](https://linxicon.com/) - Word Connection Game
 * [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
 * [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
 * [Fusele](https://fusele.netlify.app/) - Wordle Variant
@@ -552,7 +552,7 @@
 * [Chesses](https://pippinbarr.com/chesses/), [TheChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns / [Reddit](https://www.reddit.com/r/kfchess/)
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
 * [Pokemon Chess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [playlaser.xyz](https://playlaser.xyz/) - Alternative-Style Chess
 * [ChessBase](https://www.chessbase.in/) / [English](https://en.chessbase.com/) - Indian Chess News
@@ -571,12 +571,12 @@
 * [PlayingCards.io](https://playingcards.io/) - Multiplayer Card Games
 * [Lethal](https://playlethal.fun/) - Single Turn Card Game / [Discord](https://discord.gg/2sev8HA9sd)
 * [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Card Game / [Discord](https://discord.gg/KM2ggJtkMr)
-* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) / [Reddit](https://reddit.com/r/allbadcards) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
+* [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) / [Github](https://github.com/tonyspiro/blackjack) - Online Blackjack
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 
 ***
@@ -650,15 +650,15 @@
 * [Y8](https://www.y8.com/) - Browser Games
 * [Vapor](https://vapor.my/) - Browser Games / [Discord](https://discord.com/invite/ASJxkzaE3G)
 * [Poki](https://poki.com/) - Browser Games
-* [Crazy Games](https://www.crazygames.com/) - Browser Games / [Discord](https://discord.com/invite/crazygames)
+* [Crazy Games](https://www.crazygames.com/) - Browser Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Games
-* [Deepnight](https://deepnight.net/) - Browser Games / [Github](https://github.com/deepnight)
+* [Deepnight](https://deepnight.net/) - Browser Games
 * [Nicky Case](https://ncase.me/) - Browser Games
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
 * [watabou](https://watabou.itch.io/) - Browser Games
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
 * [Miniplay](https://www.miniplay.com/) - Browser Games
-* [GTube](https://gtube.net/), [2](https://gtube.lat/), [3](https://gtube.buzz/), [4](https://gtube.pics/), [5](https://gtube.autos/) / [Discord](https://discord.gg/wGB3pd3bQk) - Browser Games
+* [GTube](https://gtube.net/), [2](https://gtube.lat/), [3](https://gtube.buzz/), [4](https://gtube.pics/), [5](https://gtube.autos/) - Browser Games
 * [Yandex Games](https://yandex.com/games/) - Browser Games
 * [Arkadium](https://www.arkadium.com/) - Browser Games
 * [classroom-6x](https://www.classroom-6-x.games/) - Browser Games
