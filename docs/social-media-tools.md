@@ -431,7 +431,7 @@
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
-* [YTI](https://youtubethumbnailimage.com/), [YTThumbnailHD](https://ytthumbnailhd.com/), [Get Thumbs](https://boingboing.net/features/getthumbs), [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) or [thumbnail-download](https://thumbnail-download.com/) - Download Video Thumbnails
+* [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
 * [YT Subtitle Downloader](https://greasyfork.org/en/scripts/520194) - Download Video Subtitles
 
