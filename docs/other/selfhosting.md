@@ -111,7 +111,7 @@ pnpm api:preview
 
 #### Step 6: Deploy
 
-See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for more information.
+See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for more info.
 
 #### Environment Variables
 
@@ -122,11 +122,11 @@ You may want to disable NSFW content (sidebar entry, page contents) and/or the A
 
 #### Troubleshooting
 
-1. If you encounter Node.js version issues, ensure you're using Node.js 21+
+1. If you encounter Node.js version issues, make sure you're using Node.js 21+
 2. For pnpm-related issues, make sure you're using pnpm 9+
-3. Clear the cache if you encounter build issues:
-   ```bash
-   rm -rf docs/.vitepress/cache
-   rm -rf docs/.vitepress/dist
-   pnpm install
-   ```
+3. If you encounter build issues, try clearing cache:
+    ```bash
+    rm -rf docs/.vitepress/cache
+    rm -rf docs/.vitepress/dist
+    pnpm install
+    ```
