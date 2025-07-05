@@ -1,153 +1,97 @@
-# How to Edit FMHY
+# How to Contribute to FMHY
 
-There are multiple ways you can contribute to this repository:
-- [Link submissions](#submitting-a-link)
-- [Reporting a site](#reporting-a-site)
-- [Changes to the website itself](#making-changes)
-- [Finding new sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/)
+> [!INFO] NOTE
+> Some of these steps are easier if you're in our [Discord](https://rentry.co/fmhy-invite). It opens every Friday.
 
-## Submitting a Link
+Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this: 
 
-> [!NOTE]
-> If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/edit/issues)** or reach out to us on **[Discord](https://rentry.co/fmhy-invite)** rather than making a Pull Request.
+- [Link Submissions](#additions)
+- [Reporting an Existing Site](#reporting-a-site)
+- [How to Edit and Preview Changes](#making-changes)
+- [Finding New Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/)
 
-1. Before submitting a link, please **[search](https://redd.it/105xraz)** to make sure it's not already in the wiki.
+## Submissions
 
-2. The order of priority is: **Site > Git Repository > Store Link**
-Please only use the store link if there's neither a site nor a Git repository available for the app/extension you'd like to submit.
+> [!INFO] NOTE
+> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://rentry.co/fmhy-invite) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
-3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
+### Adding a Site
 
-4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
+Before submitting a link, please [Search](https://redd.it/105xraz) to make sure it's not already added. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
 
-#### Don't Submit:
+You can optionally include socials, tools, or any other additional info alongside the entry.
 
-**🕹️ Emulators**:
-They're already on the **[Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)**.
+Reach out via the feedback system on any page of the site, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite). Avoid opening pull requests, as all additions have to first go through our testing process on Discord.
 
-**🌐 Normal Web Browsers**
-They're already on the **[Browser Index](https://github.com/nerdyslacker/desktop-web-browsers)**, though we accept privacy-based ones.
+**Don't submit any of the following:**
+- **🕹️ Emulators** - Already listed on the [Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
+- **🌐 Web Browsers** - Already listed on [Comparison and Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal Android browsers.
+- **🔻 Leeches** - Unless already listed on existing [Leech Lists](../downloadpiracyguide#leeches-debrid), don't submit these.
+- **🐧 Linux Distros** - They're already on [DistroWatch](https://distrowatch.com/).
+- **🌍 Non-english Software** - We don't add non-english software/APK sites unless they have a very good reputation.
+- **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
+- **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.
+- **🎮 Multiplayer Hacks** - Don't submit any hacks or exploits that give an unfair advantage in multiplayer games.
+- **🖥️ Custom OS's** - We don't recommend people use these.
 
-**🔻 Leeches**:
-They're already on the **[File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)**.
+### Reporting a Site
 
-**🐧 Distros**:
-They're already on **[DistroWatch](https://distrowatch.com/)**.
+> [!INFO] NOTE
+> If it's urgent, you're allowed to request an invite via our feedback system.
 
-**🎲 Mining / Betting Sites**:
-Don't post anything related to betting, mining, BINs, CCs, etc.
+For changes to existing entries, follow these steps:
 
-**🎮 Multiplayer Game Hacks**:
-Don't post any hacks/exploits that give unfair advantages in multiplayer games.
+- Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+- Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
+- If you'd like to report a site removal or star change, you must include details for why you think the site(s) in question should be changed.
 
-**🖥️ Custom Operating Systems**
-We don't recommend  people use these.
+### Formatting Rules
 
-## Reporting a Site
+The wiki will always have some variation either due to exceptions being made, the layout/structure, or the flexible nature of markdown itself.
 
-> [!TIP]
-> If you want to make bigger changes to the wiki, such as debloating or restructuring a page/section, please discuss those changes with us via **[Discord](https://rentry.co/fmhy-invite)** before making a **[Pull Request](https://github.com/fmhy/edit/pulls)**.
+For these reasons, there are too many conditions and nuances to satisfy to make an easy-to-follow guide. However, you can generally get an idea by looking at how existing links are structured.
 
-You can do one of the following:
+If you're unsure, ask in the wiki channels on [Discord](https://rentry.co/fmhy-invite) and wait for a staff member to reply.
 
-- Reach out via the feedback system on any page of our [Website](https://fmhy.net/), or on **[Discord](https://rentry.co/fmhy-invite)** if you'd like to discuss your report.
+## Making Changes
 
-- Open an **[Issue](https://github.com/fmhy/edit/issues)** or a **[Pull Request](https://github.com/fmhy/edit/pulls)** and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+Instructions on various ways to edit the wiki and preview changes. 
 
-## Making changes
+### GitHub Codespaces
 
-> [!TIP]
-> The easiest way is to join our [Discord](https://rentry.co/fmhy-invite) to submit sites or any changes.
-
-If you want to make changes with instant site feedback, or are simply going to work with the site, you can do so with these 3 ways:
-
-- [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpod-or-github-codespaces)
-- [Using the GitHub editor](#using-the-github-editor)
-- [Manually setting up a development environment](#manually-setting-up-a-development-environment)
-
-
-### Using Gitpod or GitHub Codespaces
-
-You can use either [gitpod.io](https://gitpod.io/) or [GitHub Codespaces](https://github.com/features/codespaces) to edit the wiki.
-
-Follow these steps:
+To use [GitHub Codespaces](https://github.com/features/codespaces), follow these steps:
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Now, to make changes, you can either use gitpod.io or GitHub Codespaces.
+2. Now, click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
 
-#### Gitpod.io
+3. Make your changes.
 
-Login to your Gitpod account and click on the "New Workspace" button. Then select your fork and you should be in your gitpod workspace.
+4. To close the workspace, click the "Code" button in the top right corner, then click "Stop Codespace" and hit enter.
 
-To close the workspace, click on the "Gitpod" button at the bottom left corner then type "Stop Workspace" and hit enter.
+### GitHub Editor
 
-#### GitHub Codespaces
-
-Click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
-
-To close the workspace, click on the "Code" button at the top right corner then click on "Stop Codespace" and hit enter.
-
-### Using the GitHub editor
-
-1. Fork the repository by clicking the "Fork" button in the top right corner. You can open your repository in a VSCode-like environment by pressing `.` (dot) in your fork's homepage which will take you to `github.dev`.
-
-2. Find the file you want to edit. Find the "Edit" icon (of a pencil) and click on it.
-Select edit button and make your changes.
-![Select edit button](https://i.imgur.com/lnQfeo3.png)
-
-3. Scroll down and select "Propose changes", and "Create Pull Request" on the next page, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
-
-![propose changes](https://i.imgur.com/IaSJvnO.png)
-![create pull request](https://i.imgur.com/z5Za72l.png)
-
-### Manually setting up a development environment
-
-#### Manual
+You can use the build-in web editor in two ways:
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed. Alternatively, `pnpm` has `pnpm env` you can use to manage Node.
+2. Now, you can open it in a VSCode-like environment by pressing `.` (period) on your fork's homepage, which will take you to `github.dev`.
 
-3. Clone your forked repository to your local machine.
+**OR**
 
-4. Open the cloned repository in your editor of choice. Find the file you want to work on, make changes.
+1. Find the file you want to edit, look for the "Edit" icon (of a pencil) and click on it, then make your changes.
 
-5. Add your changes with git (`git add <file>`) and commit (`git commit -m "commit message"`), then push them (`git push`).
+    ![Select edit button](https://i.imgur.com/lnQfeo3.png)
 
-6. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+2. When you're done, click "Commit Changes..." then "Propose changes". Optionally add a commit description.
 
-#### Nix
+3. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes and provide details if needed, then hit submit.
 
-You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
+### Local Instance
 
-1. Fork the repository by clicking the "Fork" button in the top right corner and clone your forked repository to your local machine.
+> [!INFO] NOTE
+> Making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
 
-2. Run `nix flake update` to update the flake lock file.
+If you're going to work on the site itself, or simply want to make changes with instant site feedback, you can setup a development environment and run FMHY locally.
 
-3. Run `nix develop` to enter the development environment.
-
-4. Make changes.
-
-5. Exit the development environment by running `exit`.
-
-6. Commit your changes and push them to your forked repository.
-
-7. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
-
-
-#### Keeping Your Fork Updated
-
-To keep your fork up to date with the main repository:
-
-```bash
-# Add the upstream remote (only needed once)
-git remote add upstream https://github.com/fmhy/edit.git
-
-# Fetch upstream changes
-git fetch upstream
-
-# Merge upstream changes into your local main branch
-git checkout main
-git merge upstream/main
-```
+More info on selfhosting can be found [here](/other/selfhosting.md).
