@@ -841,6 +841,7 @@
 * [Mobirise](https://mobirise.com/) - Website Builder
 * [Temper](https://temper.one/) - Website Builder
 * [Silex](https://www.silex.me/) - Website Builder
+* [Publii](https://getpublii.com/) - Website Builder
 * [mmm](https://mmm.page/) - Website Builder
 * [Straw.Page](https://straw.page/) - Website Builder
 * [Own Free Website](https://www.own-free-website.com) - Website Builder
@@ -1108,30 +1109,28 @@
 
 ## ▷ Static Page Hosting
 
-* ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[Hugo](https://gohugo.io/)**
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
-* ⭐ **[GitHub Pages](https://pages.github.com/)**
-* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
-* ⭐ **[Sourcehut Pages](https://srht.site/)**
-* ⭐ **[Neocities](https://neocities.org/)**
-* ⭐ **[nekoweb](https://nekoweb.org/)**
-* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
-* [Web 1.0 Hosting](https://web1.0hosting.net/)
-* [Codeberg Pages](https://codeberg.page/)
-* [⁠pages.gay](https://pages.gay/)
-* [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
-* [DropPages](https://droppages.com/)
-* [W3Schools Spaces](https://www.w3schools.com/spaces/)
-* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [itty.bitty](https://itty.bitty.site/)
-* [Staclo](https://staclo.host/)
-* [GitBook](https://www.gitbook.com/)
-* [Kinsta](https://kinsta.com/static-site-hosting/)
-* [Reocities](https://www.reocities.xyz/)
-* [yay.boo](https://yay.boo/)
-* [Publii](https://getpublii.com/)
+* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
+* ⭐ **[Hugo](https://gohugo.io/)**  - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Discord](https://discord.gg/cloudflaredev) / [Tunnel Client](https://github.com/cloudflare/cloudflared)  - Unlimited Storage (20MB Each) / Unlimited Bandwidth / Custom Domain Supported 
+* ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth / Custom Domain Supported
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth / Custom Domain Supported
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth / Custom Domain Supported 
+* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth / Custom Domain Supported
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / 200GB Bandwidth / Custom Domain Unsupported
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / Custom Domain Supported 
+* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
+* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth / Custom Domain Supported
+* [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth / Custom Domain Supported
+* [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth / Custom Domain Supported
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth / Custom Domain Supported
+* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth / Custom Domain Supported
+* [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / Custom Domain Unsupported
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / Custom Domain Unsupported
+* [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / Custom Domain Unsupported
+* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / Custom Domain Support Unspecified
+* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / Custom Domain Unsupported
+* [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / Custom Domain Unsupported
+* [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / Custom Domain Unsupported
 
 ***
 
