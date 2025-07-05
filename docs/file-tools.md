@@ -221,7 +221,7 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ *[PDF24](https://www.pdf24.org/)**
+* ⭐ **[PDF24](https://www.pdf24.org/)**
 * [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
@@ -288,6 +288,7 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Files.vc](https://files.vc/)** - 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) / 20GB / 90 Days / Owned by Mega.nz

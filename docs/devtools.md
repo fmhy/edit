@@ -839,7 +839,11 @@
 * [bravenet](https://www.bravenet.com/) - Website Builder
 * [cargo](https://cargo.site/) - Website Builder
 * [Mobirise](https://mobirise.com/) - Website Builder
+* [Temper](https://temper.one/) - Website Builder
 * [Silex](https://www.silex.me/) - Website Builder
+* [mmm](https://mmm.page/) - Website Builder
+* [Straw.Page](https://straw.page/) - Website Builder
+* [Own Free Website](https://www.own-free-website.com) - Website Builder
 * [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
 * [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
 * [Barely](https://github.com/charludo/barely) - Python Static Website Generator
@@ -847,6 +851,7 @@
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
 * [8b](https://8b.com/) - Simple Online Website Builder
 * [Potion](https://potion.so/) - Notion Website Builder
+* [Pelican](https://getpelican.com/) - Static Site Generator
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
@@ -1120,15 +1125,10 @@
 * [DropPages](https://droppages.com/)
 * [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [Straw.Page](https://straw.page/)
-* [Own Free Website](https://www.own-free-website.com)
 * [itty.bitty](https://itty.bitty.site/)
 * [Staclo](https://staclo.host/)
-* [mmm](https://mmm.page/)
-* [Temper](https://temper.one/)
 * [GitBook](https://www.gitbook.com/)
 * [Kinsta](https://kinsta.com/static-site-hosting/)
-* [Pelican](https://getpelican.com/)
 * [Reocities](https://www.reocities.xyz/)
 * [yay.boo](https://yay.boo/)
 * [Publii](https://getpublii.com/)
