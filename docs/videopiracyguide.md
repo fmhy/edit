@@ -385,6 +385,7 @@
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://www.totalsportek.to/), [2](https://totalsportek.me/), [3](https://buffstreams.app/) - Stream Aggregator
 * [SportsLive](https://sportslive.me/)
+* [StarStreams](https://starstreams.pro/) - Rare MMA Events / Soccer / F1 / more (CZ/SK/PL/EN streams)
 * [CricHD.to](https://crichd.to/), [2](https://crichd.at/), [3](https://crichd.com.co/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
 * [Strims](https://strimsy.top/)
@@ -396,7 +397,6 @@
 * [BuffStream](https://app.buffstream.io/)
 * [TopSport](https://topsport.live/), [2](https://sport4all.live/)
 * [LiveMatches](https://livematches.net/) - Live Events
-* [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
 * [Soccerdoge](https://soccerdoge.com/) - Football
