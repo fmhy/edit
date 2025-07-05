@@ -1109,21 +1109,21 @@
 
 ## ▷ Static Page Hosting
 
-* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
-* ⭐ **[Hugo](https://gohugo.io/)**  - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Discord](https://discord.gg/cloudflaredev) / [Tunnel Client](https://github.com/cloudflare/cloudflared)  - Unlimited Storage (20MB Each) / Unlimited Bandwidth / Custom Domain Supported 
-* ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth / Custom Domain Supported
-* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth / Custom Domain Supported
-* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth / Custom Domain Supported 
-* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth / Custom Domain Supported
+* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth 
+* ⭐ **[Hugo](https://gohugo.io/)**  - Unlimited Storage / Unlimited Bandwidth
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Discord](https://discord.gg/cloudflaredev) / [Tunnel Client](https://github.com/cloudflare/cloudflared)  - Unlimited Storage (20MB Each) / Unlimited Bandwidth
+* ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
+* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / 200GB Bandwidth / Custom Domain Unsupported
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / Custom Domain Supported 
-* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth / Custom Domain Supported
-* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth / Custom Domain Supported
-* [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth / Custom Domain Supported
-* [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth / Custom Domain Supported
-* [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth / Custom Domain Supported
-* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth / Custom Domain Supported
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth
+* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth
+* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
+* [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
+* [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth
+* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth
 * [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / Custom Domain Unsupported
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / Custom Domain Unsupported
 * [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / Custom Domain Unsupported
