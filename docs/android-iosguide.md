@@ -1172,6 +1172,7 @@
 * [Decrypted App Store](https://armconverter.com/decryptedappstore), [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) or [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
 * [AppSnake](https://appsnake.cypwn.xyz/) - Check if Unlockers Work on App
 * [Calvink19](https://calvink19.co/patch) - App Patches for iOS Legacy Devices
+* [akwebguide](https://www.akwebguide.com) - Unlocked Apple ID service for a variety of paid applications
 
 ***
 
