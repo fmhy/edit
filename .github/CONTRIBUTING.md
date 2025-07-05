@@ -57,18 +57,6 @@ If you're unsure, ask in the wiki channels on [Discord](https://rentry.co/fmhy-i
 
 Instructions on various ways to edit the wiki and preview changes. 
 
-### GitHub Codespaces
-
-To use [GitHub Codespaces](https://github.com/features/codespaces), follow these steps:
-
-1. Fork the repository by clicking the "Fork" button in the top right corner.
-
-2. Now, click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
-
-3. Make your changes.
-
-4. To close the workspace, click the "Code" button in the top right corner, then click "Stop Codespace" and hit enter.
-
 ### GitHub Editor
 
 You can use the build-in web editor in two ways:
@@ -86,6 +74,18 @@ You can use the build-in web editor in two ways:
 2. When you're done, click "Commit Changes..." then "Propose changes". Optionally add a commit description.
 
 3. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes and provide details if needed, then hit submit.
+
+### GitHub Codespaces
+
+To use [GitHub Codespaces](https://github.com/features/codespaces), follow these steps:
+
+1. Fork the repository by clicking the "Fork" button in the top right corner.
+
+2. Now, click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
+
+3. Make your changes.
+
+4. To close the workspace, click the "Code" button in the top right corner, then click "Stop Codespace" and hit enter.
 
 ### Local Instance
 
