@@ -40,6 +40,7 @@
 * [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
+* [anslayerweb](https://anslayerweb.com/) - Anime
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [ristoanime](https://ristoanime.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
