@@ -35,6 +35,12 @@ Turn FMHY into Bookmarks
 
 ---
 
+### [FMHY Goggles](https://github.com/fmhy/bookmarks#goggle)
+
+Search FMHY using Brave Goggles
+
+---
+
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
 Search markdown via python script
@@ -56,3 +62,9 @@ Multi-site search engines
 ### [Dupe Checker](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
+
+--
+
+### Search Page Backups
+
+[FMHY.net](https://fmhy.net/posts/search) / [Reddit](https://redd.it/105xraz)
