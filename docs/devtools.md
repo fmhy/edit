@@ -47,6 +47,7 @@
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
+* ⭐ **[FILECONV](https://fileconv.online/uuid-generator)** - Online UUID generator
 * [Slidev](https://sli.dev/) - Developer Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Dev Emoji List](https://gist.github.com/oliveratgithub/0bf11a9aff0d6da7b46f1490f86a71eb) - Emoji-List with Names, Shortcodes, Unicode & HTML Entities
