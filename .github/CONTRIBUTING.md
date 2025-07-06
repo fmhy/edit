@@ -28,7 +28,7 @@ Reach out via the feedback system on any page of the site, by opening an [Issue]
 - **🌐 Web Browsers** - Already listed on [Comparison and Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal Android browsers.
 - **🔻 Leeches** - Unless already listed on existing [Leech Lists](../downloadpiracyguide#leeches-debrid), don't submit these.
 - **🐧 Linux Distros** - They're already on [DistroWatch](https://distrowatch.com/).
-- **🌍 Non-english Software** - We don't add non-english software/APK sites unless they have a very good reputation.
+- **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
 - **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
 - **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.
 - **🎮 Multiplayer Hacks** - Don't submit any hacks or exploits that give an unfair advantage in multiplayer games.
