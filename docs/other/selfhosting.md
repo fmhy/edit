@@ -86,7 +86,6 @@ You will need to update:
   - `hero.name`
   - `hero.tagline`
 
-
 To build the project for production:
 
 ```bash
