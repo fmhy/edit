@@ -17,13 +17,15 @@ Here you'll find some general guidelines for those who would like to start contr
 
 ### Adding a Site
 
-Before submitting a link, please [Search](https://redd.it/105xraz) to make sure it's not already added. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
+For submitting new links, follow these steps:
 
-You can optionally include socials, tools, or any other additional info alongside the entry.
-
-Reach out via the feedback system on any page of the site, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite). Avoid opening pull requests, as all additions have to first go through our testing process on Discord.
+- Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
+- Before submitting a link, make sure it's not already added. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
+- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
+- You can optionally include socials, tools, or any other additional info alongside the entry.
 
 **Don't submit any of the following:**
+
 - **🕹️ Emulators** - Already listed on the [Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
 - **🌐 Web Browsers** - Already listed on [Comparison and Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal Android browsers.
 - **🔻 Leeches** - Unless already listed on existing [Leech Lists](../downloadpiracyguide#leeches-debrid), don't submit these.
@@ -44,6 +46,14 @@ For changes to existing entries, follow these steps:
 - Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
 - If you'd like to report a site removal or star change, you must include details for why you think the site(s) in question should be changed.
+
+### Link Testing
+
+All additions have to first go through our testing process on [Discord](https://rentry.co/fmhy-invite).
+
+You can help us test new sites to figure out their use-case, safety, and whether they'd be a good fit for the wiki.
+
+Keep in mind certain sites (such as piracy sites) require more testing/vetting before they can be added.
 
 ### Formatting Rules
 
