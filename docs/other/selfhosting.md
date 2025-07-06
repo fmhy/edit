@@ -74,7 +74,7 @@ The development server will start at `http://localhost:5173` by default.
 #### Step 4: Building for Production
 
 You will need to update:
-- the `meta` constant in `docs/.vitepress/constants.ts`
+- `meta`: Constant in `docs/.vitepress/constants.ts`
   - `name`: Name of your instance
   - `hostname`: Your domain
   - `description`: Description of your instance
@@ -87,7 +87,7 @@ You will need to update:
   - `hero.tagline`
 
 
-To build the project for production:
+To build an instance for production:
 
 ```bash
 # Build the documentation site
@@ -115,18 +115,20 @@ See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for mor
 
 #### Environment Variables
 
-You may want to disable NSFW content (sidebar entry, page contents) and/or the API component for Feedback:
+There are a few variables you can change if you wish to disable them:
 
-- `FMHY_BUILD_NSFW` - Disables NSFW content (experimental)
-- `FMHY_BUILD_API` - Disables the API component
+- `FMHY_BUILD_NSFW` - NSFW sidebar entry (experimental)
+- `FMHY_BUILD_API` - API component for feedback system.
 
 #### Troubleshooting
 
-1. If you encounter Node.js version issues, make sure you're using Node.js 21+
-2. For pnpm-related issues, make sure you're using pnpm 9+
+1. If you encounter Node.js version issues, ensure you're using Node.js 21+
+2. For pnpm-related issues, ensure you're using pnpm 9+
 3. If you encounter build issues, try clearing cache:
     ```bash
+    # Linux
     rm -rf docs/.vitepress/cache
-    rm -rf docs/.vitepress/dist
-    pnpm install
+
+    # PowerShell
+    rm -r -fo docs/.vitepress/cache
     ```
