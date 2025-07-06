@@ -70,6 +70,7 @@
 
 * ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
 * ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - Background Remover
+* ⭐ **[FILECONV](https://fileconv.online/remove-bg)** - Free Background Remover
 * ⭐ **[BG Bye](https://bgbye.fyrean.com/)**, [2](https://fyrean.itch.io/bgbye-background-remover) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
@@ -610,6 +611,7 @@
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Caesium Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 * ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
 * ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
+* ⭐ **[FILECONV](https://fileconv.online/image-compressor)** - Batch Compressor / 20 images / 10MB
 * [optimize.photos](https://optimize.photos/) - Batch Compressor
 * [CompressImage](https://compressimage.io/) - Batch Compressor
 * [CrushImage](https://crushimage.com/) - Batch Compressor
@@ -627,6 +629,7 @@
 
 * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
 * ⭐ **[minipic](https://minipic.app/)**
+* ⭐ **[FILECONV](https://fileconv.online/image-converter)** - Multi-Format Converters
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)
 * [ImageConvert](https://imageconvert.org/)
