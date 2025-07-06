@@ -517,7 +517,7 @@
 ***
 
 ## ▷ Email Aliasing
-
+* 🌐 **[Email Aliasing Comparison](https://email-aliasing-comparison.netlify.app/)** - Comparison of pricing, features, and security of email alias providers. / [GitHub](https://github.com/fynks/email-aliasing-comparison#email-aliasing-comparison)
 * ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
