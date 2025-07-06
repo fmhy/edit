@@ -45,7 +45,7 @@ For changes to existing entries, follow these steps:
 
 - Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
-- If you'd like to report a site removal or star change, you must include details for why you think the changes you're suggesting should be accepted.
+- If you'd like to report a site removal or star change, you must include details as to why.
 
 ### Link Testing
 
