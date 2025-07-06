@@ -87,7 +87,7 @@ You will need to update:
   - `hero.tagline`
 
 
-To build an instance for production:
+To build the project for production:
 
 ```bash
 # Build the documentation site
