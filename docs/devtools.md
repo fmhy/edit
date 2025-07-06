@@ -1116,21 +1116,21 @@
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / 200GB Bandwidth / Custom Domain Unsupported
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / Unlimited Bandwidth / No Custom Domain
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://i.imgur.com/yGxjKfz.png)
 * ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
 * [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
 * [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
 * [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth
 * [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth
-* [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / Custom Domain Unsupported
-* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / Custom Domain Unsupported
-* [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / Custom Domain Unsupported
-* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / Custom Domain Support Unspecified
-* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / Custom Domain Unsupported
-* [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / Custom Domain Unsupported
-* [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / Custom Domain Unsupported
+* [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
+* [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / No Custom Domain
+* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domai
+* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / No Custom Domain
+* [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
+* [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
 
 ***
 

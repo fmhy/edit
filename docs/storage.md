@@ -524,16 +524,6 @@
 
 ***
 
-## Site Legitimacy Check
-
-* ⭐ **[URL Void](https://www.urlvoid.com/)**
-* ⭐ **[urlscan.io](https://urlscan.io/)**
-* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
-
-[ThreatStop](https://www.threatstop.com/check-ioc), [Scamadviser](https://www.scamadviser.com/), [IsLegitSite](https://www.islegitsite.com/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/)
-
-***
-
 ## SMS Verification Sites
 
 * ⭐ **[SMSPool](https://www.smspool.net/free-sms-verification)**

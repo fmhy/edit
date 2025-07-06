@@ -174,7 +174,7 @@
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Discord](https://discord.gg/aA8scTvZ6B)
 * [Etterna](https://etternaonline.com/) or [Quaver](https://quavergame.com/) / [Discord](https://discord.gg/quaver) / [GitHub](https://github.com/Quaver) - O2Jam Clones
-* [osu!](https://osu.ppy.sh/home) / [](https://discord.gg/ppy) / [GitHub](https://github.com/ppy), [osu!droid](https://osudroid.moe/) / [Discord](https://discord.gg/fAq9em8) / [GitHub](https://github.com/osudroid/osu-droid) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) / [Discord](https://discord.gg/3UQnt7X) - Osu! Tatakae! Ouendan Clones
+* [osu!](https://osu.ppy.sh/home) / [Discord](https://discord.gg/ppy) / [GitHub](https://github.com/ppy), [osu!droid](https://osudroid.moe/) / [Discord](https://discord.gg/fAq9em8) / [GitHub](https://github.com/osudroid/osu-droid) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) / [Discord](https://discord.gg/3UQnt7X) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone / [GitHub](https://github.com/Cytoid/)
@@ -326,7 +326,7 @@
 
 ## ▷ Nintendo ROMs
 
-* ⭐ **[hShop](https://hshop.erista.me/)** or [3DS ROMS](https://3dsroms.org) - ROMs / 3DS / [Discord](https://discord.gg/dYKm279)
+* ⭐ **[hShop](https://hshop.erista.me/)** / [Discord](https://discord.gg/dYKm279) or [3DS ROMS](https://3dsroms.org) - ROMs / 3DS
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
@@ -356,6 +356,7 @@
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYBase64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
+* [⁠SMB Arena](https://www.smbarena.com/) - Super Mario Bros. 1 Mods
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
 * [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods
