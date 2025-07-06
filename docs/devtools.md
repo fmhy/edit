@@ -771,7 +771,7 @@
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev YouTube Channel Indexes
 * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
-* ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
+* ⭐ **[Ray.st](https://ray.st/)**, [BuiltWith](https://builtwith.com/) or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
 * [DataNodes](https://datanodes.to/) - Webmasters Only File Host / [Discord](https://discord.gg/mKyBMyeKvh)
@@ -791,12 +791,10 @@
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [Transform](https://transform.tools/) - Polyglot Web Converter
-* [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Privacy-Based Captcha Systems
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [Motion](https://motion.dev/) - Animation Library
-* [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
@@ -841,7 +839,12 @@
 * [bravenet](https://www.bravenet.com/) - Website Builder
 * [cargo](https://cargo.site/) - Website Builder
 * [Mobirise](https://mobirise.com/) - Website Builder
+* [Temper](https://temper.one/) - Website Builder
 * [Silex](https://www.silex.me/) - Website Builder
+* [Publii](https://getpublii.com/) - Website Builder
+* [mmm](https://mmm.page/) - Website Builder
+* [Straw.Page](https://straw.page/) - Website Builder
+* [Own Free Website](https://www.own-free-website.com) - Website Builder
 * [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
 * [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
 * [Barely](https://github.com/charludo/barely) - Python Static Website Generator
@@ -849,6 +852,7 @@
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
 * [8b](https://8b.com/) - Simple Online Website Builder
 * [Potion](https://potion.so/) - Notion Website Builder
+* [Pelican](https://getpelican.com/) - Static Site Generator
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
@@ -1105,35 +1109,28 @@
 
 ## ▷ Static Page Hosting
 
-* ⭐ **[surge](https://surge.sh/)**
-* ⭐ **[Hugo](https://gohugo.io/)**
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
-* ⭐ **[GitHub Pages](https://pages.github.com/)**
-* ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
-* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
-* ⭐ **[Sourcehut Pages](https://srht.site/)**
-* ⭐ **[Neocities](https://neocities.org/)**
-* ⭐ **[nekoweb](https://nekoweb.org/)**
-* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
-* [Web 1.0 Hosting](https://web1.0hosting.net/)
-* [Codeberg Pages](https://codeberg.page/)
-* [⁠pages.gay](https://pages.gay/)
-* [GitLab Pages](https://docs.gitlab.com/user/project/pages/)
-* [DropPages](https://droppages.com/)
-* [W3Schools Spaces](https://www.w3schools.com/spaces/)
-* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
-* [Straw.Page](https://straw.page/)
-* [Own Free Website](https://www.own-free-website.com)
-* [itty.bitty](https://itty.bitty.site/)
-* [Staclo](https://staclo.host/)
-* [mmm](https://mmm.page/)
-* [Temper](https://temper.one/)
-* [GitBook](https://www.gitbook.com/)
-* [Kinsta](https://kinsta.com/static-site-hosting/)
-* [Pelican](https://getpelican.com/)
-* [Reocities](https://www.reocities.xyz/)
-* [yay.boo](https://yay.boo/)
-* [Publii](https://getpublii.com/)
+* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth 
+* ⭐ **[Hugo](https://gohugo.io/)**  - Unlimited Storage / Unlimited Bandwidth
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Discord](https://discord.gg/cloudflaredev) / [Tunnel Client](https://github.com/cloudflare/cloudflared)  - Unlimited Storage (20MB Each) / Unlimited Bandwidth
+* ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
+* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / Unlimited Bandwidth / No Custom Domain
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://i.imgur.com/yGxjKfz.png)
+* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth
+* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
+* [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
+* [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
+* [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth
+* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth
+* [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
+* [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / No Custom Domain
+* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domai
+* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / No Custom Domain
+* [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
+* [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
 
 ***
 
