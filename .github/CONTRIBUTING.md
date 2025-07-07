@@ -71,9 +71,9 @@ Instructions on various ways to edit the wiki and preview changes.
 
 You can use the build-in web editor in two ways:
 
-1. Find the file you want to edit, look for the "Edit" icon (of a pencil) and click on it, then make your changes.
+1. Find the file you want to edit, look for the edit icon (of a pencil) and click on it, then make your changes.
 
-    ![Edit Button](https://i.imgur.com/lnQfeo3.png)
+    ![Edit Button](https://files.catbox.moe/7w3hnm.png)
 
 2. When you're done, click "Commit Changes..." then "Propose changes". Optionally add a commit description.
 
@@ -81,9 +81,9 @@ You can use the build-in web editor in two ways:
 
 **OR**
 
-1. Fork the repository by clicking the "Fork" button in the top right corner.
+1. Fork the repository by clicking the "Fork" button in the top right.
 
-2. Navigate to your fork's homepage and pressing the `.` (period) key on your keyboard. This will open the repository in a VSCode-like environment on `github.dev`.
+2. Navigate to your fork's homepage and press the `.` (period) key on your keyboard. This will open the repository in a VSCode-like environment on `github.dev`.
 
 3. Make your changes, then commit via the source control tab.
     
@@ -93,23 +93,30 @@ You can use the build-in web editor in two ways:
 
 5. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes, then hit submit.
 
-### GitHub Codespaces
+### Dev Environment
 
-To use [GitHub Codespaces](https://github.com/features/codespaces), follow these steps:
+If you're going to work on the site itself, or simply want to preview the site and any changes, you can setup a development environment.
 
-1. Fork the repository by clicking the "Fork" button in the top right corner.
+#### GitHub Codespaces
+
+This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). To use Codespaces, follow these steps:
+
+1. Fork the repository by clicking the "Fork" button in the top right.
 
 2. Navigate to your fork's homepage and click on the green "Code" button above your repository, open "Codespaces" tab and click "Create codespace".
 
-3. Once it has loaded, make your changes and commit.
+4. You may have to wait ~5-10 mins for the codespace to load.
 
-4. To close the workspace, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
+    ![Codespace Status](https://files.catbox.moe/5bp38f.png)
 
-### Local Instance
+3. Once it has loaded, run `pnpm i && pnpm docs:dev` to start the preview and click the blue "Open in Browser" button in the bottom right.
 
-> [!INFO] NOTE
-> Making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+4. Make your changes and commit.
 
-If you're going to work on the site itself, or simply want to make changes with instant site feedback, you can setup a development environment and run FMHY locally.
+4. To close it, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
 
-More info on selfhosting can be found [here](/other/selfhosting.md).
+#### Local Instance
+
+Note that making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+
+More info on manual setup can be found [here](/other/selfhosting.md).
