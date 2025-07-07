@@ -95,7 +95,7 @@ You can use the build-in web editor in two ways:
 
 ### Dev Environment
 
-If you're going to work on the site itself, or simply want to preview the site and any changes, you can setup a development environment.
+If you're going to work on the site itself, or simply want to preview the site and any changes, you can do so by setting up a development environment.
 
 #### GitHub Codespaces
 
@@ -105,15 +105,15 @@ This creates an environment in the browser [(with 60h/month free quota)](https:/
 
 2. Navigate to your fork's homepage and click on the green "Code" button above your repository, open "Codespaces" tab and click "Create codespace".
 
-4. You may have to wait ~5-10 mins for the codespace to load.
+3. You may have to wait ~5-10 minutes for the codespace to load.
 
     ![Codespace Status](https://files.catbox.moe/5bp38f.png)
 
-3. Once it has loaded, run `pnpm i && pnpm docs:dev` to start the preview and click the blue "Open in Browser" button in the bottom right.
+4. Once it has loaded, run `pnpm i && pnpm docs:dev` to start the preview. Then when it appears, click "Open in Browser" in the bottom right.
 
-4. Make your changes and commit.
+5. Make your changes and commit.
 
-4. To close it, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
+6. To close it, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
 
 #### Local Instance
 
