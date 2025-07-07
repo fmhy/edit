@@ -424,7 +424,7 @@
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * ⭐ **[AMP4](https://amp4.cc/)** - YouTube Downloader / Online
 * [Stacher](https://stacher.io/), [oleksis youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) or [StefanLobbenmeier youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Cross-Platform YT-DL GUIs
-* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
 * [EZMP3](https://ezmp3.cc/) - YouTube Downloader / Online
