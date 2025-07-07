@@ -15,15 +15,6 @@ Here you'll find some general guidelines for those who would like to start contr
 > [!INFO] NOTE
 > For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://rentry.co/fmhy-invite) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
-### Adding a Site
-
-For submitting new links, follow these steps:
-
-- Before submitting a link, make sure it's not already added. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
-- You can optionally include socials, tools, or any other additional info alongside the entry.
-- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
-- Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
-
 **Don't submit any of the following:**
 
 - **🕹️ Emulators** - Already listed on the [Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
@@ -36,6 +27,15 @@ For submitting new links, follow these steps:
 - **🎮 Multiplayer Hacks** - Don't submit any hacks or exploits that give an unfair advantage in multiplayer games.
 - **🖥️ Custom OS's** - We don't recommend people use these.
 
+### Adding a Site
+
+For submitting new links, follow these steps:
+
+- Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
+- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
+- You can optionally include socials, tools, or any other additional info alongside the entry.
+- Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
+
 ### Reporting a Site
 
 > [!INFO] NOTE
@@ -45,7 +45,7 @@ For changes to existing entries, follow these steps:
 
 - Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
-- If you'd like to report a site removal or star change, you must include details as to why.
+- If you'd like to report a site removal or star change, you must include details as to why your changes should be accepted.
 
 ### Link Testing
 
