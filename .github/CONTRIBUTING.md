@@ -71,19 +71,27 @@ Instructions on various ways to edit the wiki and preview changes.
 
 You can use the build-in web editor in two ways:
 
-1. Fork the repository by clicking the "Fork" button in the top right corner.
-
-2. Now, you can open it in a VSCode-like environment by pressing `.` (period) on your fork's homepage, which will take you to `github.dev`.
-
-**OR**
-
 1. Find the file you want to edit, look for the "Edit" icon (of a pencil) and click on it, then make your changes.
 
-    ![Select edit button](https://i.imgur.com/lnQfeo3.png)
+    ![Edit Button](https://i.imgur.com/lnQfeo3.png)
 
 2. When you're done, click "Commit Changes..." then "Propose changes". Optionally add a commit description.
 
-3. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes and provide details if needed, then hit submit.
+3. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes, then hit submit.
+
+**OR**
+
+1. Fork the repository by clicking the "Fork" button in the top right corner.
+
+2. Navigate to your fork's homepage and pressing the `.` (period) key on your keyboard. This will open the repository in a VSCode-like environment on `github.dev`.
+
+3. Make your changes, then commit via the source control tab.
+    
+    ![Source Control](https://files.catbox.moe/pa571v.png)
+
+4. Back on your fork's homepage, click "Contribute" then "Open pull request".
+
+5. You should now see a comparison page showing all your edits. Click "Create pull request", fill in the box describing your changes, then hit submit.
 
 ### GitHub Codespaces
 
@@ -91,11 +99,11 @@ To use [GitHub Codespaces](https://github.com/features/codespaces), follow these
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Now, click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
+2. Navigate to your fork's homepage and click on the green "Code" button above your repository, open "Codespaces" tab and click "Create codespace".
 
-3. Make your changes.
+3. Once it has loaded, make your changes and commit.
 
-4. To close the workspace, click the "Code" button in the top right corner, then click "Stop Codespace" and hit enter.
+4. To close the workspace, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
 
 ### Local Instance
 
