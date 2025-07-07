@@ -37,6 +37,8 @@
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [egybest](https://egybest.la/) - Movies / TV / Anime
+* [BahyFilms 1](https://eg.bahyfilms.com/) - Movies / TV / Anime / Sub / 1080p
+* [BahyFilms 2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / 1080p
 * [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
