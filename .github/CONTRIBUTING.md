@@ -1,4 +1,4 @@
-# How to Contribute to FMHY
+# Contribute Guide
 
 > [!INFO] NOTE
 > Some of these steps are easier if you're in our [Discord](https://rentry.co/fmhy-invite). It opens every Friday.
@@ -117,6 +117,6 @@ This creates an environment in the browser [(with 60h/month free quota)](https:/
 
 #### Local Instance
 
-Making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+Making changes on a local repository may require a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
 
 More info on manual setup can be found [here](/other/selfhosting).
