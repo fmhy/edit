@@ -113,10 +113,10 @@ This creates an environment in the browser [(with 60h/month free quota)](https:/
 
 5. Make your changes and commit.
 
-6. To close it, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
+6. To shut it down, click the "Code" button again and look for the `...` dropdown next to your codespace, then click "Stop codespace".
 
 #### Local Instance
 
-Note that making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+Making changes on a local repository requires a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
 
-More info on manual setup can be found [here](/other/selfhosting.md).
+More info on manual setup can be found [here](/other/selfhosting).
