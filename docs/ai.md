@@ -318,7 +318,8 @@
 * [Unstable Diffusion](https://www.unstability.ai/) / 52 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
 * [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
-* [Genspark](https://www.genspark.ai/) - Unlimited / Flux Schnell
+* [Genspark](https://www.genspark.ai/) / Unlimited / Flux Schnell
+* [⁠ISH](https://ish.junioralive.in/) / Unlimited / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Raphael](https://raphael.app/) / Unlimited / No Sign-Up / Uses Flux.1
 * [CGDream](https://cgdream.ai/) / 770 SDXL / 450 Fast FLUX / 150 FLUX Dev Monthly
 * [Hailuo AI](https://hailuoai.video/) - 100 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)

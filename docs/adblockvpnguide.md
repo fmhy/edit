@@ -49,12 +49,12 @@
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
+* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Video](https://youtu.be/WUG57ynLb8I)
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking / [GitHub](https://github.com/zoonderkins/blahdns)
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
 * [Tiarap](https://doh.tiar.app/) - DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)
-* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Video](https://youtu.be/WUG57ynLb8I)
 * [AdGuard DNS](https://adguard-dns.io/) - Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * [Control D](https://controld.com/free-dns) - Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [NxFilter](https://nxfilter.org/) - Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)
@@ -123,13 +123,13 @@
 
 ## ▷ Site Legitimacy Check
 
-**⭐ [URL Void](https://www.urlvoid.com/)**
-**⭐ [URLScan](https://urlscan.io/)**
-**⭐ [Trend Micro](https://global.sitesafety.trendmicro.com/)**
-[ScamAdviser](https://www.scamadviser.com/)
-[IsLegitSite](https://www.islegitsite.com/)
-[ZScaler](https://zulu.zscaler.com/)
-[Talos](https://talosintelligence.com/)
+* **⭐ [URL Void](https://www.urlvoid.com/)**
+* **⭐ [URLScan](https://urlscan.io/)**
+* **⭐ [Trend Micro](https://global.sitesafety.trendmicro.com/)**
+* [ScamAdviser](https://www.scamadviser.com/)
+* [IsLegitSite](https://www.islegitsite.com/)
+* [ZScaler](https://zulu.zscaler.com/)
+* [Talos](https://talosintelligence.com/)
 
 ***
 
