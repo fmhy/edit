@@ -552,6 +552,7 @@
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
+* [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI

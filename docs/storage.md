@@ -266,14 +266,6 @@
 
 ***
 
-## Internet Archive Tools
-
-* [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books to PDF
-* [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
-* [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
-
-***
-
 ## Japanese Learning Sites
 
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
