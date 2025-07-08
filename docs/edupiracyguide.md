@@ -980,7 +980,6 @@
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)** - Python Learning Resources
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
-* ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) - Git Command Lists
 * ⭐ **[OpenVim](https://openvim.com/)** or [Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
@@ -1036,6 +1035,22 @@
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) or [Practical Deep Learning](https://course.fast.ai/) - Machine / Deep Learning Courses
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
+
+***
+
+## ► Coding Tutorials
+
+* 🌐 **[Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)**,  - Learn Code By Doing Projects
+* ⭐ **[W3Schools](https://www.w3schools.com/)** - Web Dev Tutorials / [Discord](https://discord.com/invite/w3schools) / [Offline Version](https://github.com/Ja7ad/W3Schools) 
+* ⭐ **[Build your own X](https://codecrafters.io)** - Advanced Coding Tutorials / [GitHub](https://github.com/codecrafters-io/build-your-own-x) / [Discord](https://discord.gg/DeqUD2P)
+* ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/) or [Ultimate Programming All-in-One Tutorials](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) - General Coding Tutorials
+* [zetcode](https://zetcode.com/) - Golang / Python / C# / Java / Javascript
+* [Guru99](https://www.guru99.com/) - Python / Java / SQL
+* [Codelabs](https://codelabs.developers.google.com/) - Advanced Coding Tutorials
+* [Tpoint Tech](https://www.tpointtech.com/) - General/Advanced Coding Tutorials / [Telegram](https://t.me/tpointtech)
+* [Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/) - Programming Ebooks
+* [Python Tutor](https://pythontutor.com/) - Run Code Online
+* [calmcode](https://calmcode.io/) - Coding Tools
 
 ***
 
