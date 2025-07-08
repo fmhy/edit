@@ -17,6 +17,7 @@ Here you'll find some general guidelines for those who would like to start contr
 
 **Don't submit any of the following:**
 
+- **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select [VPNs](/adblockvpnguide#vpn) and [Debrid](/downloadpiracyguide#leeches-debrid).
 - **🕹️ Emulators** - Already listed on the [Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
 - **🌐 Web Browsers** - Already listed on [Comparison and Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal Android browsers.
 - **🔻 Leeches** - Unless already listed on existing [Leech Lists](../downloadpiracyguide#leeches-debrid), don't submit these.
