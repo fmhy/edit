@@ -903,6 +903,7 @@
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Discovery / Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
+* [LandOfReaders](https://www.landofreaders.com/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
