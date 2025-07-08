@@ -155,7 +155,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### Important Links
 
-* **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Langauge
+* **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Languages
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode encrypted base64 links
