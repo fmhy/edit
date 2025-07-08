@@ -5,22 +5,17 @@ description: This guide will help you set up and run your own instance of FMHY l
 
 # Selfhosting
 
-This guide will help you set up and run your own instance of FMHY locally.
-
 :::warning
 Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given below.
 :::
 
-#### Prerequisites
+This guide will help you set up and run your own instance of FMHY locally.
 
 ### Docker (Experimental)
 
-You will need to install Docker and Docker Compose run your own instance of FMHY locally.
+To run a local instance, you will need to install [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/).
 
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-
-After installing Docker and Docker Compose, run the following commands:
+After installing both, run the following commands:
 
 ```bash
 git clone https://github.com/fmhy/edit.git
@@ -28,13 +23,24 @@ cd edit
 sudo docker compose up --build
 ```
 
-It should take a few minutes to build the image and start the container, running at port 4173.
+It might take a few minutes to build the image and start the container, running at port 4173.
+
+### Nix Flake
+
+You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
+
+1. Fork the repository and clone it to your local machine with `git clone https://github.com/fmhy/edit.git`.
+2. Run `nix flake update` to update the flake lock file.
+3. Run `nix develop` to enter the development environment.
+4. Make your changes.
+5. Exit the development environment by running `exit`.
 
 ### Manually
 
+You will need to install the following:
 - [Git](https://git-scm.com/downloads)
-- [Node.js](https://nodejs.org/en/download/) - Use the latest available LTS, doesn't matter much
-- [pnpm 9.12.2 or newer](https://pnpm.io/installation)
+- [Node.js](https://nodejs.org/en/download/) - Use latest available LTS release.
+- [pnpm 9.12.2+](https://pnpm.io/installation)
 
 #### Step 1: Clone the Repository
 
@@ -68,7 +74,7 @@ The development server will start at `http://localhost:5173` by default.
 #### Step 4: Building for Production
 
 You will need to update:
-- the `meta` constant in `docs/.vitepress/constants.ts`
+- `meta`: Constant in `docs/.vitepress/constants.ts`
   - `name`: Name of your instance
   - `hostname`: Your domain
   - `description`: Description of your instance
@@ -79,7 +85,6 @@ You will need to update:
   - `description`
   - `hero.name`
   - `hero.tagline`
-
 
 To build the project for production:
 
@@ -105,22 +110,24 @@ pnpm api:preview
 
 #### Step 6: Deploy
 
-See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for more information.
+See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for more info.
 
 #### Environment Variables
 
-You may want to disable NSFW content (sidebar entry, page contents) and/or the API component for Feedback:
+There are a few variables you can change if you wish to disable them:
 
-- `FMHY_BUILD_NSFW` - Disables NSFW content (experimental)
-- `FMHY_BUILD_API` - Disables the API component
+- `FMHY_BUILD_NSFW` - NSFW sidebar entry (experimental)
+- `FMHY_BUILD_API` - API component for feedback system.
 
 #### Troubleshooting
 
 1. If you encounter Node.js version issues, ensure you're using Node.js 21+
-2. For pnpm-related issues, make sure you're using pnpm 9+
-3. Clear the cache if you encounter build issues:
-   ```bash
-   rm -rf docs/.vitepress/cache
-   rm -rf docs/.vitepress/dist
-   pnpm install
-   ```
+2. For pnpm-related issues, ensure you're using pnpm 9+
+3. If you encounter build issues, try clearing cache:
+    ```bash
+    # Linux
+    rm -rf docs/.vitepress/cache
+
+    # PowerShell
+    rm -r -fo docs/.vitepress/cache
+    ```
