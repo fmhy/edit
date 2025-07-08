@@ -569,7 +569,7 @@
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
-
+* [Intermittent Fasting Calculator](https://intermittentfastingcalculator.org/) - Plan your next meal and fasting window
 ***
 
 ## ▷ Workout / Exercise
