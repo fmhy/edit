@@ -899,7 +899,7 @@
 
 ## ▷ Sign Language
 
-* [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
+* [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [HandSpeak](https://www.handspeak.com/) - Sign Language Dictionaries / Videos
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet
 * [Signs](https://signs-ai.com/) - Sign Language Learning AI
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
