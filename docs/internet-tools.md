@@ -70,23 +70,17 @@
 
 ## ▷ Link in Bio
 
-* ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
-* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Unlimited / Self-Hosted
 * ⭐ **[Bio Link](https://bio.link/)** - Unlimited / Custom URLs
-* [LinkBun](https://linkbun.io) - Unlimited / Custom URLs
-* [Lynk](https://lynk.id/) - Unlimited / Custom URLs
-* [ContactInBio](https://www.contactinbio.com/) - Unlimited / Custom URLs
-* [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
-* [ammo.lol](https://ammo.lol/) - Unlimited / Custom URLs
+* ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
+* ⭐ **[Linkstack](https://linkstack.org)** or **[LittleLink](https://littlelink.io/)** - Unlimited / Self-Hosted / Custom URLs
+* ⭐ **[Carrd](https://carrd.co/)** - Unlimited / Custom URLs / Multiple Designs
+* [Beacons](https://beacons.ai/) - Unlimited / Custom URLs
 * [Mylinx](https://mylinx.cc/) - Unlimited / Custom URLs
+* [Taplink](https://taplink.at/) - Unlimited / Custom URLs
+* [BioSites](https://biosites.com/) - Unlimited / Custom URLs
 * [Linkr](https://linkr.com/) - Unlimited / Custom URLs
-* [Beacons](https://beacons.ai/) - Unlimited
-* [Carrd](https://carrd.co/) - Unlimited
-* [Ayo](https://ayo.so/) - Unlimited
-* [Taplink](https://taplink.at/) - Unlimited
-* [milkshake](https://milkshake.app/) - Unlimited
-* [seemless](https://www.linkinbio.website/) - Unlimited / Instagram & TikTok Embeds
-* [AnyImage](https://anyimage.io/) - Create Social Card Links
+* [milkshake](https://milkshake.app/) - Unlimited / Custom URLs
+* [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
 
 ***
 
@@ -481,7 +475,6 @@
 * [MailTicking](https://www.mailticking.com/) - Gmail / 2 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
-* [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
 * [NanoMail](https://nano-mail.vercel.app/) - Forever / 7 Days / 1 Domain
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
@@ -506,7 +499,7 @@
 * [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
-* [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
+* [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
 * [MinuteInbox](https://minuteinbox.com/), [TempMailGenerator](https://tempmailgenerator.org/), [10minemail.com](https://10minemail.com/), [10minutemail.com](https://10minutemail.com/) or [Linshi Email](https://www.linshi-email.com/en) - 10 Minute Lifespan Emails
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
