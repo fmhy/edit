@@ -474,6 +474,7 @@
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** or [Sub-Vod](https://www.sub-vod.fr/) - Watch Sub Only Twitch Videos
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
+* [⁠Twitch Gearbox](https://gearbox.crunchprank.net/twitch/filter.php) - Twitch Advanced Search 
 * [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [Twitch Clip Search](https://www.twitch-clip-search.com/) - Search for Clips
@@ -603,8 +604,6 @@
 
 # ► Instagram Tools
 
-* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
-* 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord / [GitHub](https://github.com/Wikidepia/InstaFix)
 * [Proxigram](https://codeberg.org/proxigram/proxigram) or [Imginn](https://imginn.com) - Instagram Frontends

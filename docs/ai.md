@@ -15,7 +15,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Google Chatbots / [Subreddit](https://www.reddit.com/r/Bard/) / [CLI](https://github.com/google-gemini/gemini-cli) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o4-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
@@ -140,7 +140,7 @@
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Trae](https://www.trae.ai/) - Coding AI
-* [Cline](https://cline.bot/) - Coding AI / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline)
+* [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Coding AI 
 * [Cursor](https://rentry.co/FMHYBase64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [Qodo](https://www.qodo.ai/) - Coding AI
@@ -271,7 +271,7 @@
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Unlimited / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
 * [PixVerse](https://pixverse.ai/) - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
-* [Wan AI](https://wan.video/) / 10 Daily
+* [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video
 * [LensGo](https://lensgo.ai/) - 5 Daily / [Discord](https://discord.com/invite/CHMhrByFJS)
 * [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [Pika](https://www.pika.art/) - 5 Monthly / [Discord](https://discord.com/invite/pika)
@@ -320,6 +320,7 @@
 * [SeaArt](https://www.seaart.ai/) / 40 Daily / [Discord](https://discord.com/invite/gUHDU644vU)
 * [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
 * [Genspark](https://www.genspark.ai/) / Unlimited / Flux Schnell
+* [⁠Remade AI](https://app.remade.ai/) - 40 GPT-Image-1 / 40 Imagen 4 / 80 Flux Kontext
 * [Raphael](https://raphael.app/) / Unlimited / No Sign-Up / Uses Flux.1
 * [CGDream](https://cgdream.ai/) / 770 SDXL / 450 Fast FLUX / 150 FLUX Dev Monthly
 * [Hailuo AI](https://hailuoai.video/) - 100 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)

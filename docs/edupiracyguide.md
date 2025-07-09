@@ -386,7 +386,7 @@
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Citywalki](https://www.citywalki.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
+* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Portal Generator](https://flavourmachine.com/portal-generator/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Citywalki](https://www.citywalki.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
@@ -466,7 +466,7 @@
 * [Nights on Earth](https://nightsonearth.com/) - Astronomical Event Calendar
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
-* [⁠Next Spaceflight](https://nextspaceflight.com/), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
+* [⁠Next Spaceflight](https://nextspaceflight.com/) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [SunCalc](https://www.suncalc.org/), [ShadeMap](https://shademap.app/) or [MoonCalc](https://www.mooncalc.org/) - Sun / Moon Position
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
@@ -742,7 +742,15 @@
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [Alphabetpedia](https://www.alphabetpedia.com/) - Multiple Language Alphabets
+* [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
+* [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
+* [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
+* [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
+* [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
+* [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
+* [Asian Script Differentiation Guide](https://i.ibb.co/f1YwHBM/50cb83cedf34.png)
 
 ***
 
@@ -855,6 +863,7 @@
 * ⭐ **[StudySpanish](https://studyspanish.com/)** or [LibreLingo](https://librelingo.app/) - Learn Spanish
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [SpanishChecker](https://spanishchecker.com/) - Spanish Grammar Check
+* [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [DreamingSpanish](https://www.dreamingspanish.com/) - Spanish Learning Videos
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
@@ -888,20 +897,12 @@
 
 ***
 
-## ▷ Other Languages
+## ▷ Sign Language
 
-* [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet
 * [Signs](https://signs-ai.com/) - Sign Language Learning AI
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
-* [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
-* [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
-* [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
-* [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
-* [Asian Script Differentiation Guide](https://i.ibb.co/f1YwHBM/50cb83cedf34.png)
-* [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
-* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
 
 ***
 

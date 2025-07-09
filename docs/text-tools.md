@@ -234,7 +234,7 @@
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / [GitHub](https://github.com/vnotex/vnote)
 * [Tiddly](https://tiddlywiki.com/) - Info Manager / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Trilium](https://github.com/zadam/trilium) - Info Manager
+* [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
 * [Org-roam](https://www.orgroam.com/) - Info Manager
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [UseMemos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)

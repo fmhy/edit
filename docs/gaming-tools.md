@@ -319,7 +319,6 @@
 ## ▷ Steam Workshop Downloaders
 
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
-* ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
 * [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
@@ -494,7 +493,7 @@
 
 ## ▷ Playstation Homebrew
 
-* 🌐 **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* 🌐 **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -678,7 +677,7 @@
 * [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
 * [MSkins](https://mskins.net/en) - Skin Grabber
 * [Ely.by](https://ely.by/) - Skin System / Authorization
-* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/) - Minecraft Skin Editor
+* [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [Minecraft Heads](https://minecraft-heads.com/) - Custom Minecraft Heads
 * [PVPRP](https://pvprp.com/) - PVP Texture Packs
@@ -692,6 +691,7 @@
 * [Mine-imator](https://www.mineimator.com/) - Animation Tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [GitHub](https://github.com/stuffbydavid/Mine-imator) / [Discord](https://discord.com/invite/GxFp6xv)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [GitHub](https://github.com/chunky-dev/chunky) / [Discord](https://discord.com/invite/VqcHpsF)
 * [Block Display](https://block-display.com/) - Design / Share Block Display Models / [Discord](https://discord.gg/VCeHfSd6Xa)
+* [Blockbench](https://www.blockbench.net/) - Low Poly 3D Editor
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)

@@ -306,7 +306,7 @@
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
-* ⭐ **[portainer](https://portainer.io/)**, [yacht](https://yacht.sh/), [DockGE](https://dockge.kuma.pet/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
+* ⭐ **[portainer](https://portainer.io/)**, [DockGE](https://dockge.kuma.pet/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
@@ -464,7 +464,7 @@
 # ► IDEs / Code Editors
 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
-* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extention Marketplace](https://rentry.co/vscodiumguide)
+* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extensions Marketplace](https://rentry.co/vscodiumguide)
 * ⭐ **[JetBrains](https://jetbrains.com/)** / [Unlock](https://rentry.co/FMHYBase64#jetbrains)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
@@ -831,6 +831,7 @@
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
 * ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
 * ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
+* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Static Site Generator
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
 * ⭐ **[Docusaurus](https://github.com/facebook/docusaurus)**, [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
 * [Flounder](https://flounder.online/) - Website Building Discussion
@@ -852,6 +853,7 @@
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
 * [8b](https://8b.com/) - Simple Online Website Builder
 * [Potion](https://potion.so/) - Notion Website Builder
+* [GitBook](https://www.gitbook.com/) - Static Site Generator
 * [Pelican](https://getpelican.com/) - Static Site Generator
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
@@ -1117,7 +1119,6 @@
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://i.imgur.com/yGxjKfz.png)
-* ⭐ **[Eleventy](https://11ty.dev/)** / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy) - Unlimited Storage / Unlimited Bandwidth
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
 * [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
 * [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
@@ -1125,8 +1126,7 @@
 * [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth
 * [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
-* [GitBook](https://www.gitbook.com/) - Unspecified Storage / Unlimited Bandwidth / No Custom Domain
-* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domai
+* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
 * [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / No Custom Domain
 * [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
 * [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
