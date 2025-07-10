@@ -189,7 +189,7 @@
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Qdrant](https://qdrant.tech/) - Vector Database
-* [SQL Cheat Sheet](https://pixvid.org/images/2025/07/08/eIbiN.png) - SQL Cheat Sheet
+* [SQL Cheat Sheet](https://files.catbox.moe/5q57h3.png) - SQL Cheat Sheet
 * [Gel](https://www.geldata.com/) - SQL Alternative
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [franchise](https://franchise.cloud/) - SQL Notebook
