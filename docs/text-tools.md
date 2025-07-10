@@ -185,10 +185,10 @@
 ## ▷ Typing Lessons
 
 * ⭐ **[Monkeytype](https://monkeytype.com/)** - Customizable Typing Tests / [Discord](https://discord.com/invite/monkeytype) / [GitHub](https://github.com/monkeytypegame/monkeytype)
+* ⭐ **[keybr](https://www.keybr.com/)** - Customizable Typing Tests / [GitHub](https://github.com/aradzie/keybr.com)
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
-* [keybr](https://www.keybr.com/) - Typing Practice
-* [CyberType](https://cybertype.app/) - Typing Practice
+* [CyberType](https://cybertype.app/) - Typing Practice / [GitHub](https://github.com/MananTank/cybertype)
 * [Typing.com](https://www.typing.com/) - Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires JavaScript Enabled

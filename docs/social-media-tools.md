@@ -266,7 +266,7 @@
 ## ▷ Telegram Clients
 
 * ↪️ **[Android Telegram Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_telegram_clients)**
-* ⭐ **[AyuGram](https://docs.ayugram.one/desktop/)** - Desktop Client / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
+* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Materialgram](https://kukuruzka165.github.io/materialgram/)** - Desktop Client / Portable
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * ⭐ **[Telegram WebK](https://webk.telegram.org/)** / [Telegram WebA](https://weba.telegram.org/) - Web Apps
@@ -387,6 +387,7 @@
 * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored Video Segments / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[polsy.org.uk](https://polsy.org.uk/stuff/ytrestrict.cgi)** - Video Region Restriction Checker
+* [⁠YouTube No Translation](https://youtube-no-translation.vercel.app/) - Disable YouTube Auto Translations / [GitHub](https://github.com/YouG-o/YouTube_No_Translation)
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Remembers Where You Left Off in Video
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate, Zoom, & Mirror Videos

@@ -481,6 +481,7 @@
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
 * [Artic Base](https://github.com/PabloMK7/ArticBaseServer) - Play Physical 3DS Games on Citra
+* [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS) - Download DS / DSiware Games Directly on Devices  / [CrocDB Support](https://github.com/cavv-dev/crocdb-to-kekatsu)
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
