@@ -160,8 +160,8 @@
 ## ▷ Drinks
 
 * ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
-* ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guide
-* [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
+* ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guides
+* ⭐ **[Beanconqueror](https://beanconqueror.com/)** - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
@@ -927,7 +927,7 @@
 * [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
-* [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores across Europe
+* [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [PicClick](https://picclick.com/) - Ebay Quick Search
@@ -1363,7 +1363,7 @@
 * [Corruption Loops](https://corruptionloops.alexbainter.com/) - Generative Unique Ambient Music
 * [Abundant Music](https://pernyblom.github.io/abundant-music/) - Procedural Music Editor
 * [typedrummer](http://typedrummer.com/) - Drum by Typing
-* [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer
+* [Soundscape](https://soundscape.world/) - 6rBuilder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
 * [Patatap](https://www.patatap.com/) - Type to Create Melodies / Moving Shapes
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App

@@ -234,7 +234,7 @@
 
 # ► Design Resources / Ideas
 
-* 🌐 **[Art Gainz](https://pilssken.neocities.org/gainz/)*** or [Evernote.Design](https://www.evernote.design/) - Design Resources
+* 🌐 **[Art Gainz](https://pilssken.neocities.org/gainz/)** or [Evernote.Design](https://www.evernote.design/) - Design Resources
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 * ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
@@ -434,7 +434,7 @@
 
 ## ▷ Art / Illustrations
 
-* ⭐ **[Kemono](https://kemono.su/posts?tag=)** - Patreon Content / **Some NSFW** / Use Adblock
+* ⭐ **[Kemono](https://kemono.su/posts?tag=)** - Patreon Content / **Some NSFW** / Use Adblock / [Patreon Buttons](https://greasyfork.org/en/scripts/483259)
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Frontend Instances](https://git.macaw.me/skunky/SkunkyArt/src/branch/master/INSTANCES.md)
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
@@ -623,6 +623,7 @@
 
 * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
 * ⭐ **[minipic](https://minipic.app/)**
+* [⁠OfflineConvert](https://www.offlineconvert.com/)
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)
 * [ImageConvert](https://imageconvert.org/)
@@ -764,7 +765,7 @@
 
 ## ▷ Screenshot Tools
 
-* ⭐ **[ShareX](https://getsharex.com/)** / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) - Screenshot & Screen Recorder Tool
+* ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot)
 * ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [yaass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
 * [Greenshot](https://getgreenshot.org/)
