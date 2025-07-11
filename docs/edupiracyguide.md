@@ -764,7 +764,7 @@
 * [Conversation Exchange](https://www.conversationexchange.com/)
 * [RhinoSpike](https://rhinospike.com/)
 * [HiNative](https://hinative.com/)
-* [LangX](https://Langx.io/)
+* [LangX](https://Langx.io/) / [GitHub](https://github.com/langx/langx)
 * [Polyglot](https://polyglotclub.com/)
 * [ISODN Linguistics](https://discord.gg/8RVtshPPTh) - ISODN Linguistics Discord Community
 

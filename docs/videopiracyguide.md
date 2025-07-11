@@ -416,6 +416,7 @@
 * [SportsLive](https://sportslive.me/)
 * [CricHD.to](https://crichd.to/), [2](https://crichd.at/), [3](https://crichd.com.co/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
+* [Strumyk](https://strumyk.in/)
 * [SportOnTV](https://sportontv.xyz/), [2](https://sotmatches.netlify.app/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [Sports Plus](https://en12.sportplus.live/)
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
@@ -669,6 +670,7 @@
 * ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
+* [animepahe](https://animepahe.ru/) - Hard Subs / Dub / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](https://anime7.download/) - Sub
 * [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Signup Required

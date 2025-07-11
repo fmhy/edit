@@ -586,7 +586,7 @@
 * ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader)
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
-* [⁠Chiptune Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
+* [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks
@@ -884,7 +884,7 @@
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [G-MEH](https://g-meh.com/) - Audio Editors / [Discord](https://discord.com/invite/g-meh)
 * [Zrythm](https://www.zrythm.org/en/index.html) - Digital Audio Workstation
-* [LMMS](https://lmms.io/) - Digital Audio Workstation / [Discord](https://discord.com/invite/PruNxpG)
+* [LMMS](https://lmms.io/) - Digital Audio Workstation / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS)
 * [Waveform](https://www.tracktion.com/products/waveform-free) - Digital Audio Workstation
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software

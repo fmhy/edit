@@ -59,7 +59,6 @@
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
-* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
@@ -443,7 +442,6 @@
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * [/r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
-* [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers

@@ -87,7 +87,6 @@
 ## ▷ File Managers
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
-* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - File Manager
 * [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
