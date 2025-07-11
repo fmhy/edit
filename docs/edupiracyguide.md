@@ -83,6 +83,7 @@
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [firerip](https://rentry.co/FMHYBase64#firerip) - Fireship.io Course Downloader
+* [Calculadora Alicia](https://www.calculadora-alicia.net) - Educational Tool - Interactive Calculator for Kids
 
 ***
 
