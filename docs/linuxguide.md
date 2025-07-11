@@ -73,17 +73,6 @@
 
 ***
 
-## ▷ Raspberry Pi
-
-* [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
-* [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
-* [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
-* [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
-* [Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
-
-***
-
 # ► Linux Apps
 
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
@@ -476,6 +465,17 @@
 * [atuin](https://atuin.sh/) - Shell History Management / [GitHub](https://github.com/atuinsh/atuin)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://pipeseroni.github.io/) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
+
+***
+
+## ▷ Raspberry Pi
+
+* [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
+* [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
+* [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
+* [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
+* [Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
 
 ***
 

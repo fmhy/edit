@@ -18,10 +18,10 @@ Here you'll find some general guidelines for those who would like to start contr
 **Don't submit any of the following:**
 
 - **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/adblockvpnguide#vpn) and [Debrid](/downloadpiracyguide#leeches-debrid).
-- **🕹️ Emulators** - Already listed on the [Game Tech Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
-- **🌐 Web Browsers** - Already listed on [Comparison and Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal mobile browsers.
-- **🔻 Leeches** - Unless already listed on existing [Leech Lists](../downloadpiracyguide#leeches-debrid), don't submit these.
-- **🐧 Linux Distros** - They're already on [DistroWatch](https://distrowatch.com/).
+- **🕹️ Emulators** - Already listed on [Index Sites](/gamingpiracyguide#emulators).
+- **🌐 Web Browsers** - Already listed on [Comparison / Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal mobile browsers.
+- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloadpiracyguide#leeches-debrid), don't submit these.
+- **🐧 Linux Distros** - Already listed on [Index Sites](/linuxguide#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
 - **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
 - **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.

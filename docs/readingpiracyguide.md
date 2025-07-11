@@ -35,7 +35,7 @@
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
 * [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
-* irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
+* irc://irc.irchighway.net/ebooks / [Request Guide](https://pastebin.com/w08SFvy5)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
 
 ***
@@ -955,5 +955,5 @@
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
 * [HowLongToRead](https://howlongtoread.com/) or [ReadingLength](https://www.readinglength.com/) - Find Book Lengths / Reading Times
 * [BTW](https://booktriggerwarnings.com/) - Book Trigger Warnings
-* [DIY Book Scanner](https://diybookscanner.org/) - How to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
+* [DIY Book Scanner](https://diybookscanner.org/) - How to Scan Books
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
