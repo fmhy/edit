@@ -17,7 +17,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photorealistic Landscapes
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
-
+* [RestorePhotos](https://restorephoto.net/) - Expertly Restore Old, Damaged, Faded Photos / [Discord](https://discord.gg/aQJAh8aKvD)
 ***
 
 ## ▷ Editing Software
