@@ -735,6 +735,7 @@
 
 * 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
 * ⭐ **[IFDB](https://ifdb.org/)** - Text Adventures
+* [Mudlet](https://www.mudlet.org/) - Text Adventure Platform / [GitHub](https://github.com/Mudlet/Mudlet) / [Discord](https://discordapp.com/invite/kuYvMQ9)
 * [IFWizz](https://ifwizz.de/if-en.html) - Text Adventures
 * [IFArchive](https://www.ifarchive.org/) - Text Adventures
 * [Web Adventures](https://www.web-adventures.org/) - Text Adventures
