@@ -130,7 +130,7 @@
 
 ## ▷ ReVanced Tools
 
-* **Note** - This section contains both official, and unofficial ReVanced related projects. You're free to use whichever you'd like, but keep in mind its a open-source project, so if you're a developer, please consider contributing to the **[official projects](https://github.com/ReVanced)** over unofficial ones.
+* **Note** - If you're a developer, please consider contributing to the **[official projects](https://github.com/ReVanced)** over unofficial ones.
 
 ***
 
@@ -373,7 +373,7 @@
 
 * ↪️ **[Android Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
 * ⭐ **[MacroDroid](https://rentry.co/FMHYBase64#macrodroid)** / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://rentry.co/FMHYBase64#tasker) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
-* ⭐ **[Unified Remote](https://rentry.co/FMHYBase64#unified-remote)**, [2](https://www.unifiedremote.com/) - Universal Remotes
+* ⭐ **[Unified Remote](https://rentry.co/FMHYBase64#unified-remote)**, [2](https://www.unifiedremote.com/) - Control PC with App
 * [Toolbox](https://github.com/Koizeay/Toolbox), [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) or [fooView](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - Multi-Tool Apps
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
