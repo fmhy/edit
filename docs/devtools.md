@@ -1278,6 +1278,7 @@
 
 * ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
+* ⭐ **[StackEdit](https://stackedit.io/)** / [GitHub](https://github.com/benweet/stackedit)
 * [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
 * [Dillinger](https://dillinger.io/)
 * [MarkdownTools](https://www.markdowntools.com/)
