@@ -476,7 +476,6 @@
 
 ## ▷ Aggregators
 
-* ⭐ **[Ground News](https://ground.news/)** / [Limit Bypass](https://greasyfork.org/en/scripts/527370)
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [Upstract](https://upstract.com/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
