@@ -130,6 +130,10 @@
 
 ## ▷ ReVanced Tools
 
+* **Note** - This section contains both official, and unofficial ReVanced related projects. You're free to use whichever you'd like, but keep in mind its a open-source project, so if you're a developer, please consider contributing to the **[official projects](https://github.com/ReVanced)** over unofficial ones.
+
+***
+
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * ⭐ **[ReVanced Obtainium Guide](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7)** - Update ReVanced Apps Automatically / Unofficial
@@ -437,7 +441,7 @@
 * [Ceno Browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
 * [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Docs](https://wgtunnel.com/docs/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
-* [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client
+* [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oblivion-translate)
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
