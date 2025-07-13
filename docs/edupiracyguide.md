@@ -73,6 +73,7 @@
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
+* [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [OneHack](https://onehack.us/) - Courses / [Telegram](https://t.me/Official_OneHack)
@@ -83,17 +84,6 @@
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [firerip](https://rentry.co/FMHYBase64#firerip) - Fireship.io Course Downloader
-
-***
-
-## ▷ Torrenting
-
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting.
-
-***
-
-* [FreeCourseSite](https://freecoursesite.com/) - Courses
-* [Docspedia](https://docspedia.world/) - Courses / Sign-Up Required
 
 ***
 
@@ -749,7 +739,7 @@
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
-* [Itchy Feet](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
+* [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
 ***
 

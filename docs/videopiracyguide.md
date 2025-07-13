@@ -475,7 +475,7 @@
 * [Time Soccer TV](https://timesoccertv.com/) - Football Replays
 * [Full Match](https://fullmatch.info/) - Football Replays
 * [SoccerFull](https://soccerfull.net/) - Football Replays
-* [RUTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
+* [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 * [WatchProWrestling](https://watchprowrestlings.live/) - MMA / Wrestling Replays
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays

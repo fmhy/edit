@@ -210,7 +210,7 @@
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
-* [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
+* [World Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plantmaps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
 * [SeedFinder](https://seedfinder.eu/en) - 35500+ Strain Database
 

@@ -126,7 +126,7 @@
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [Awesome Linux Minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - FOSS Software
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
-* [FOSS Linux Programs](https://files.catbox.moe/o99qyz.jpg) - FOSS Software Chart
+* [Open Source Linux Programs](https://files.catbox.moe/o99qyz.jpg) - FOSS Software Chart
 * [Rim's Linux Wiki](https://rlw.pages.dev/), [2](https://rimswiki.xyz/) - Linux Software / Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * [KDE Applications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE Apps & Themes
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
@@ -189,7 +189,7 @@
 * ⭐ **[mpv](https://mpv.io/)** or [VLC](https://www.videolan.org/) - Video Players
 * ⭐ **[Haruna](https://apps.kde.org/haruna/)** or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV Frontends
 * ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive) or [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editors
-* [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use VPN
+* [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor

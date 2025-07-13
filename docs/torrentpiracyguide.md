@@ -4,11 +4,11 @@
 ***
 ***
 
-# ► Torrent Sites
-
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page, and remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+* **Warning** - It's best to avoid torrent sites for software and games, including aggregators that use multiple sources, with the exception of a few listed below. Instead use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
+
+# ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
@@ -28,10 +28,6 @@
 ***
 
 ## ▷ Aggregators
-
-**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid sites and uploaders listed on the [Unsafe Sites](https://fmhy.net/unsafesites) page.
-
-***
 
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
 * ⭐ **[Knaben](https://knaben.org/)**
@@ -67,7 +63,7 @@
 
 ***
 
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
+## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_downloading)
 
 ***
 
