@@ -1736,7 +1736,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[UzTracker.net](https://uztracker.net) - Movies / Adobe / Software / ... / [Note](https://pastes.fmhy.net/ZoKuWZ) / [Rules](https://pastes.fmhy.net/lsM4c3)
+* ⭐ **[UzTracker.net](https://uztracker.net)** - Movies / Adobe / Software / ... / [Note](https://pastes.fmhy.net/ZoKuWZ) / [Rules](https://pastes.fmhy.net/lsM4c3)
 * [AsilMedia](http://asilmedia.org/) - Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar) / VPN Required
 
 ## ▷ Streaming
