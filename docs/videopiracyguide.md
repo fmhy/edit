@@ -260,6 +260,7 @@
 * [Watch Cartoon Online](https://www.watchcartoononline.com/) - TV / Movies / Anime
 * [FunnierMoments](https://www.funniermoments.net/) - TV
 * [SuperCartoons](https://www.supercartoons.net/) - Classic / TV
+* [b98](https://www.b98.tv) - Classic / TV
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
