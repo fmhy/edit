@@ -183,6 +183,8 @@
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
 * [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI Piracy Guide / Resources
+* [AI Prompt Testing Platform](https://langfa.st/) — AI Prompt Testing Platform
+
 
 ***
 
