@@ -301,7 +301,7 @@
 # ► URL Tools
 
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Multi-Tool Firefox Extension for URLs
+* ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Multi-Tool Firefox Extension for URLs / [Full Tools List](https://files.catbox.moe/s7s4pv.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
 * ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** / [GitHub](https://github.com/lyqht/mini-qr), [AI QRCode](https://openart.ai/apps/ai_qrcode) or [QArt Coder](https://research.swtch.com/qr/draw/) - Create Custom QR Code Art
