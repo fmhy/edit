@@ -481,6 +481,7 @@
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Mozberg](https://mozberg.com/) - News Search
 * [NewsMinimalist](https://www.newsminimalist.com/) - AI News Aggregator
+* [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
 * [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
