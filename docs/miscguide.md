@@ -45,7 +45,7 @@
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
@@ -101,6 +101,19 @@
 * [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Games / Android App
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
+
+***
+
+## ▷ Assistance / Charity
+
+* ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - Find Free or Reduced-Cost Resources / US Only 
+* [/r/Assistance](https://www.reddit.com/r/Assistance/) - Assistance / Donation Subreddit
+* [/r/borrow](https://www.reddit.com/r/borrow/) - Assistance / Donation Subreddit
+* [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddit
+* [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
+* [BeMyEyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
+* [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
+* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
 
 ***
 
@@ -477,14 +490,14 @@
 ## ▷ Aggregators
 
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
-* [Upstract](https://upstract.com/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Mozberg](https://mozberg.com/) - News Search
 * [NewsMinimalist](https://www.newsminimalist.com/) - AI News Aggregator
-* [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
+* [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
+* [Ground.news](https://ground.news/) - Signup Required
+* [Upstract](https://upstract.com/)
 * [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)
-* [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [NewsNow](https://www.newsnow.co.uk/)
 * [SkimFeed](https://skimfeed.com/)
 * [Google News](https://news.google.com/)
@@ -1042,8 +1055,6 @@
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
 * ⭐ **[endoflife.date](https://endoflife.date/)** - Tool / Tech End of Life Index
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
-* ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
-* ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
 * [Make it Yourself](https://makeityourself.org/) / [Video](https://youtu.be/TSFJ2OH1PQA) or [Make:](https://makezine.com/) - DIY Projects
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
@@ -1081,8 +1092,6 @@
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
-* [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
-* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
 * [Hots&Cots](https://www.hotscots.app/) - Military Reviews of Barracks / DFAC
 
 ***
@@ -1286,7 +1295,6 @@
 ## ▷ Interactive
 
 * 🌐 **[David.li](https://david.li/)** - Physics Games
-* ↪️ **[Fun Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)**
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Discord](https://discord.gg/ZsrAAByEnr) / [Video](https://youtu.be/iSAKEnRfles)
 * ⭐ **[Sandboxels](https://sandboxels.r74n.com/), [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
@@ -1356,7 +1364,6 @@
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
 * [Pianos.pub](https://pianos.pub/) - Find Public Pianos
-* [⁠Note Block Studio](https://noteblock.studio/) - Minecraft Block Composer / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS)
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
 * [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
@@ -1472,6 +1479,7 @@
 * 🌐 **[Funny / Useless](https://rentry.org/aksry2vc)** - Funny / Useless Websites
 * 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
+* ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
@@ -1479,6 +1487,32 @@
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* [Grant Kot](https://grantkot.com/) - Toys / Games
+* [Oimo](https://oimo.io/works) - Toys / Games
+* [AIDN](https://aidn.jp/) - Toys / Games
+* [Neave](https://codepen.io/neave) / [2](https://neave.com/) - Toys / Games
+* [BoredHumans](https://boredhumans.com/) - Toys / Games
+* [puissant](https://sandwichpuissant.net/) - Toys / Games
+* [Mr.doob](https://mrdoob.com/) - Toys / Games
+* [Bimble Space](https://in.bimble.space/toys) - Toys / Games
+* [Creative Tech Guy](https://creativetechguy.com/) - Toys / Games
+* [Just For Fun](https://justforfun.io/) - Toys / Games
+* [Andrew Marsh](https://andrewmarsh.com/software) - Toys / Games
+* [JenniferDewalt](https://jenniferdewalt.com/) - Toys / Games
+* [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome) - Toys / Games
+* [yezi](https://yezi.itch.io/) - Toys / Games
+* [topster](https://topster.net/) - Toys / Games
+* [p5aholic](https://experiments.p5aholic.me/) - Toys / Games
+* [vole.wtf](https://vole.wtf/) - Toys / Games
+* [WilliamHoza](https://williamhoza.com/misc/) - Toys / Games
+* [Rinkworks](http://www.rinkworks.com/) - Toys / Games
+* [Orteil](https://orteil.dashnet.org/) - Toys / Games
+* [funwebsite](https://funwebsite.fun/) - Toys / Games
+* [Toms.Toys](https://toms.toys/) - Toys / Games
+* [Pointless Sites](https://www.pointlesssites.com/) - Toys / Games
+* [The Scientific Place](https://scientific.place/) - Toys / Games
+* [artistaiden](https://artistaiden.com/) - Toys / Games
+* [ToyBox](https://toybox.toms.toys/) - Toys / Games
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
