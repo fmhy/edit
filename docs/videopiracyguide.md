@@ -317,47 +317,49 @@
 
 * ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Classic / Silent Films
 * [Classic Cinema Online](https://classiccinemaonline.com/) - Classic Films
-* [ClassixApp](https://www.classixapp.com/) - Classic Films
-* [BnWMovies](https://bnwmovies.com/) - Classic Films
 * [The Classic Movies](https://www.the-classic-movies.com/) - Classic Films
 * [WikiFlix](https://wikiflix.toolforge.org/) - Classic Films
 * [RetroFlix](https://retroflix.org/) - Classic Films
-* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films / YouTube
-* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
-* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
-* [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
-* [Wu Tang Collection](https://www.thewutangcollection.com/) - Retro Martial Arts Films
-* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
-* [FootageFarm](https://footagefarm.com/) - Public Domain Films
-* [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
-* [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
+* [FootageFarm](https://footagefarm.com/) or [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
-* [TexasArchive](https://texasarchive.org/) - Texas Film Archive
-* [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+
+***
+
+## ▷ Specialty Collections
+
+* ⭐ **[Imperial War Museums](https://www.iwm.org.uk/)** - British & Commonwealth War Footage
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films
+* [The Travel Film Archive](https://travelfilmarchive.com/) - Archival Travel Footage
+* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
+* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
+* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
+* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films Playlists / YouTube
+* [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
+
+***
+
+## ▷ Film Archives
+
+* ⭐ **[USNationalArchives](https://www.youtube.com/@USNationalArchives)** - Movies / Short Films
+* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
+* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [European Film Gateway](https://www.europeanfilmgateway.eu/) - European Film Archive / Use Search
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
-* [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
+* [BFIPlayer](https://player.bfi.org.uk/free) / [Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Institute / UK VPN Required
 * [British Pathé](https://www.britishpathe.com/) or [ColonialFilm](http://www.colonialfilm.org.uk/) - British Video Archives
-* [yfanefa](https://www.yfanefa.com/) - Yorkshire Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
-* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
-* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
-* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
+* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand's Audiovisual Archives
+* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film & Video Archive
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
 * [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
-* [35mm](https://35mm.online/en) - Polish Film Archive
-* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
-* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
-* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
-* [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
-* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
-* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
-* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
+* [35mm](https://35mm.online/en) - Polish Film Archive / [Database](https://filmpolski.pl/fp/index.php)
 
 ***
 
