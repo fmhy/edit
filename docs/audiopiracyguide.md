@@ -785,7 +785,7 @@
 ## ▷ Album Artwork
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**, [Albumart.Digital](https://albumart.digital/) or [bigpictures](https://bigpictures.xyz/) - Album Art Search Engines
-* ⭐ **[SpotifyArt](https://spotify-art.vercel.app/)** or [spotifycover.art](https://www.spotifycover.art/) - Spotify Album Art Downladers / Web
+* ⭐ **[SpotifyArt](https://spotify-art.vercel.app/)** or [spotifycover.art](https://www.spotifycover.art/) - Spotify Album Art Downloaders / Web
 * [Apple Artwork](https://artwork.thekvt.eu.org/) - Apple Music Album Art Downloader
 * [MediUX Album Covers](https://mediux.pro/albums) - Media Soundtrack Album Art
 * [Classic Rock Covers](https://www.classic-rock-covers.com/) - Rock Album Art

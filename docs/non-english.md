@@ -19,7 +19,6 @@
 ## ▷ Downloading / تحميل
 
 * [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
-* [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
@@ -475,7 +474,7 @@
 
 ## ▷ Reading / Lecture
 
-* [Bookys](https://www6.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
+* [Bookys](https://www6.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / Some NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
 * [PDF Prof](https://pdfprof.com/) - Educational Books
@@ -485,7 +484,7 @@
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
 * [SushiScan](https://sushiscan.net/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
-* [FRDownMags](https://fr.downmagaz.net/) - Magazines
+* [FRDownMags](https://fr.downmagaz.net/) - Magazines / Some NSFW
 * [ORAEDES](https://oraedes.fr/) - Occult / Esoteric
 
 ***
@@ -1048,7 +1047,6 @@
 * ⭐ **[Obejrzyj](https://www.obejrzyj.to/)** - Movies / TV
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
-* [Strumyk](https://strumyk.in/) - Live Sports
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Virpe](https://virpe.cc/) - Movies / TV
 * [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
