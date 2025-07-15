@@ -320,6 +320,9 @@
 * [The Classic Movies](https://www.the-classic-movies.com/) - Classic Films
 * [WikiFlix](https://wikiflix.toolforge.org/) - Classic Films
 * [RetroFlix](https://retroflix.org/) - Classic Films
+* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
+* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films Playlists / YouTube
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [FootageFarm](https://footagefarm.com/) or [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
@@ -327,24 +330,12 @@
 
 ***
 
-## ▷ Specialty Collections
-
-* ⭐ **[Imperial War Museums](https://www.iwm.org.uk/)** - British & Commonwealth War Footage
-* [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films
-* [The Travel Film Archive](https://travelfilmarchive.com/) - Archival Travel Footage
-* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
-* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
-* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
-* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
-* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films Playlists / YouTube
-* [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
-
-***
-
 ## ▷ Film Archives
 
 * ⭐ **[USNationalArchives](https://www.youtube.com/@USNationalArchives)** - Movies / Short Films
+* ⭐ **[Imperial War Museums](https://www.iwm.org.uk/)** - British & Commonwealth War Footage
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
+* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
 * [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [European Film Gateway](https://www.europeanfilmgateway.eu/) - European Film Archive / Use Search
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
@@ -355,11 +346,15 @@
 * [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
 * [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand's Audiovisual Archives
 * [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film & Video Archive
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
+* [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
+* [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
 * [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
 * [35mm](https://35mm.online/en) - Polish Film Archive / [Database](https://filmpolski.pl/fp/index.php)
+* [The Travel Film Archive](https://travelfilmarchive.com/) - Archival Travel Footage
 
 ***
 
@@ -551,7 +546,7 @@
 * [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Emby Android TV App
 * [atvTools](https://rentry.co/FMHYBase64#atvtools) - Install Apps, Run ADB, Shell Commands, etc.
-* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
+* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 * [⁠AerialViews](https://github.com/theothernt/AerialViews) - Custom Screensaver App
 
