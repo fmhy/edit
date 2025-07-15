@@ -555,8 +555,7 @@
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
-* [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
-* [Voyager](https://voyager.minedojo.org/) - Minecraft AI
+* [⁠Note Block Studio](https://noteblock.studio/) - Minecraft Block Composer / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
 

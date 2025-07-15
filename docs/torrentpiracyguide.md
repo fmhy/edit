@@ -20,7 +20,7 @@
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
-* [rutor.info](https://rutor.org/), [2](https://rutor.is/), [3](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Sign-Up Required
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies

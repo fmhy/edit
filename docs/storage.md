@@ -143,14 +143,6 @@
 
 ***
 
-## Fun Indexes
-
-* ⭐ **[Neal.fun](https://neal.fun/)**
-
-[Grant Kot](https://grantkot.com/), [Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [artistaiden](https://artistaiden.com/), [ToyBox](https://toybox.toms.toys/)
-
-***
-
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
@@ -172,7 +164,11 @@
 
 ## Free VPN Configs
 
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers / [Privacy Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#v2nodes)
+* **Note** - These servers are community sourced, do not use with sensitive data, or ideally just self-host them if you can.
+
+***
+
+* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
