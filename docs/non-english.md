@@ -106,6 +106,7 @@
 
 ## ▷ Streaming / স্ট্রিমিং
 
+* [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
 * [BanglaFlix](https://banglaflix.com.bd/) - Movies / TV
 * [Bangla IPTV](https://rentry.co/FMHYBase64#bangla-iptv-playlists) - IPTV Playlists
@@ -254,7 +255,7 @@
 
 ## ▷ Reading / 阅读
 
-* ⭐ **[69xinshu](https://69shuba.cx/)** - Fiction
+* ⭐ **[69xinshu](https://www.69shuba.com/)** - Fiction
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
@@ -270,6 +271,24 @@
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
 * [yodu](https://www.yodu.org/) - Books / Light-Novels
+* [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
+* [shuge](https://www.shuge.org/) - Rare / Ancient Books
+* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [quanxue](https://www.quanxue.cn/) - Chinese Historic Text Archives
+* [guoxue](http://www.guoxue.com/) - History / Journals
+* [NG Tech](https://ng-tech.icu/) - Documents
+* [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [Banshujiang](http://www.banshujiang.cn/) - Programming Books
+* [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
+* [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
+* [owlook](https://www.owlook.com.cn/) - Chinese Web Novel Search / [GitHub](https://github.com/howie6879/owllook)
+* [CCams](http://www.ccamc.co/) - Chinese Character Search
+* [CBeta](https://www.cbeta.org/) - Chinese Buddhist Scriptures
+* [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
+* [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
+* [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
+* [Trtag](https://trtag.com/) - Movies / TV Encyclopedia
+
+## ▷ Light Novels
+
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels
@@ -279,13 +298,15 @@
 * [qinkan](https://www.qinkan.net/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [powanjuan](https://powanjuan.cc/) - Light-Novels
-* [Baozimh](https://www.baozimh.com/) - Webtoons
+
+## ▷ Manga
+
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
-* [godamanga.site](https://cocolamanhua.com/) - Manga
+* [godamanga.site](https://godamh.com/) - Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
-* [comicabc.com](https://www.comicabc.com/) - Manga
+* [8comic](https://www.8comic.co) - Manga
 * [tvbsmh](https://www.tvbsmh.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [colamanga](https://www.colamanga.com/) - Manga
@@ -309,21 +330,7 @@
 * [acgn.cc](https://comic.acgn.cc/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Baozimh](https://baozimh.org/) - Manga / Manhua / Manhwa
-* [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
-* [shuge](https://www.shuge.org/) - Rare / Ancient Books
-* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [quanxue](https://www.quanxue.cn/) - Chinese Historic Text Archives
-* [guoxue](http://www.guoxue.com/) - History / Journals
-* [NG Tech](https://ng-tech.icu/) - Documents
-* [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [Banshujiang](http://www.banshujiang.cn/) - Programming Books
-* [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
-* [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
-* [owlook](https://www.owlook.com.cn/) - Chinese Web Novel Search / [GitHub](https://github.com/howie6879/owllook)
-* [CCams](http://www.ccamc.co/) - Chinese Character Search
-* [CBeta](https://www.cbeta.org/) - Chinese Buddhist Scriptures
-* [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
-* [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
-* [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
-* [Trtag](https://trtag.com/) - Movies / TV Encyclopedia
+* [Baozimh](https://www.baozimh.com/) - Webtoons
 
 ***
 
@@ -685,7 +692,6 @@
 * [MKVHub](https://www.mkvhub.hair/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+lTty7fOB6I4yM2M5)
 * [MoviesNation](https://movies.dog/), [2](https://moviesnation.party/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+O88huh3QZ2k2Yjc9)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
-* [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [KatDrama](https://katdrama.com/) - Korean Drama
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p

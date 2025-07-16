@@ -14,19 +14,6 @@
 
 ***
 
-## Avatar / Logo Creators
-
-* ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
-* [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
-* [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
-* [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
-* [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
-* [Logo Makr](https://logomakr.com/), [⁠FreeLogoMaker](https://myfreelogomaker.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
-* [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
-* [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos Based on Project Name & Style
-
-***
-
 ## Browser Startpages
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
@@ -182,20 +169,6 @@
 * [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
-
-***
-
-## Geometry Dash Demon Lists
-
-* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
-* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
-* [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
-* [AREDL](https://aredl.net/) - All Rated Extreme Demons List
-* [UDL](https://udl.pages.dev/) - Unrated Demons List
-* [IDL](https://insanedemonlist.com/) - Insane Demon List
-* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
-* [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
-* [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 
 ***
 
@@ -455,25 +428,6 @@
 
 ***
 
-## Random Image Sites
-
-* ⭐ **[iFunny](https://ifunny.co/)**
-
-[Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com/), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/), [z0r](https://z0r.de/), [MemeDroid](https://www.memedroid.com/), [ChatPic](https://chatpic.org/) (some nsfw)
-
-***
-
-## Scene Release Trackers
-
-* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
-* [CrackWatcher](https://crackwatcher.com/)
-* [/r/RepackWorld](https://reddit.com/r/RepackWorld)
-* [GameStatus](https://gamestatus.info/)
-* [fitgirl_repack](https://t.me/fitgirl_repack)
-* [GitGud](https://discord.gg/APfesEBjjn)
-
-***
-
 ## SMS Verification Sites
 
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
@@ -549,15 +503,6 @@
 
 ***
 
-## Torrent to Google Drive
-
-* **Note** - Use throwaway google accounts with these.
-
-* [QBit to Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [How-To](https://rentry.co/TorrentColab) - Google Colab
-* [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
-
-***
-
 ## TypeScript Tools
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
@@ -576,15 +521,10 @@
 
 * ⭐ **[Coursevania](https://coursevania.com/)** / [Telegram](https://t.me/Coursevania)
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
+* [Udemy FREE](https://t.me/udemyforu), [UdemyRip](https://t.me/udemyrip) or [CGPERS](https://t.me/CGPERS) - Udemy TG Channels
 * [Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Course Enrollment
 * [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
 [discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [/r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
-
-### Udemy TG Channels
-
-* [UdemyRip](https://t.me/udemyrip) - Web Development / Cybersecurity Resources
-* [Udemy FREE](https://t.me/udemyforu) - Development Resources
-* [CGPERS](https://t.me/CGPERS) - 3D Resources

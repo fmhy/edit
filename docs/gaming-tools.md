@@ -36,6 +36,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [CrackWatcher](https://crackwatcher.com/), [/r/RepackWorld](https://reddit.com/r/RepackWorld),  [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -866,9 +867,17 @@
 
 ## ▷ Geometry Dash Tools
 
-* ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
+* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
 * ⭐ **[GDDP](https://gddp.pro/)** or **[GD Demon Ladder](https://gdladder.com/)** - Practice & Improve Your Skills
+* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
+* [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
+* [AREDL](https://aredl.net/) - All Rated Extreme Demons List
+* [IDL](https://insanedemonlist.com/) - Insane Demon List
+* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
+* [UDL](https://udl.pages.dev/) - Unrated Demons List
+* [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
+* [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
