@@ -231,7 +231,7 @@
 
 ## ▷ MPV Tools
 
-* 🌐 **[⁠Awesome-MPV]https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
+* 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
 * 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces

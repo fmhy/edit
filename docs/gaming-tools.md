@@ -36,6 +36,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [CrackWatcher](https://crackwatcher.com/), [/r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -107,6 +108,10 @@
 
 ## ▷ Game Mods
 
+* **Note** - Sites listed in this section only support single player games. We do not support or condone cheating in multiplayer games.
+
+***
+
 * 🌐 **[Big List of Randomizers](https://randomizers.debigare.com/)** - Game Randomizer Index / [Discord](https://discord.com/invite/YREMzGQ3gd) / [GitHub](https://github.com/video-game-randomizers/rando-list)
 * ↪️ **[Game Mods](https://rentry.co/FMHYBase64#game-mods)** - Mods for Individual Games
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
@@ -114,7 +119,7 @@
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Side Scrolling Modding Forum / [Games List](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)**  / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
-* [WeMod](https://www.wemod.com/) - Cheats / Trainer Manager / Single Player Only / [Unlocker](https://rentry.co/FMHYBase64#wemod) / [Discord](https://discord.com/invite/wemod)
+* [WeMod](https://www.wemod.com/) - Mods / Trainer Manager / Single Player Only / [Unlocker](https://rentry.co/FMHYBase64#wemod) / [Discord](https://discord.com/invite/wemod)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
@@ -123,6 +128,7 @@
 * [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
 * [SMods](https://catalogue.smods.ru/) - Game Mods
+* [MrAntiFun](https://mrantifun.net/) - Game Mods
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
 * [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
@@ -395,7 +401,7 @@
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Servers / [Discord](https://discord.gg/MEwBW9U)
 * [SiMPLE](https://team-simple.org/forum/) - Battlefield 1942 Servers / [Discord](https://discord.team-simple.org/)
 * [Overwatch-Server-Selector](https://github.com/foryVERX/Overwatch-Server-Selector) - Overwatch Server Selector
-* [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
+* [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [R1Delta](https://r1delta.net/) - Titanfall 1 Server Revival / [Discord](https://discord.com/invite/AFnMwrvPzV)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)

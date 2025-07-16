@@ -122,9 +122,10 @@
 
 ## ▷ Remote Torrenting
 
-* ↪️ **[Torrent to Google Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_google_drive)**
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - 2GB / Sign-Up Required
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required
+* [QBit to Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [How-To](https://rentry.co/TorrentColab) - Google Colab
+* [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB / Sign-Up Required
 * [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream / Self-Hosted
@@ -154,7 +155,7 @@
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
 * ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
-* ⭐ **[PreDB.net](https://predb.net/)** / [Site List](https://en.wikipedia.org/wiki/Nuke_(warez)#List_of_public_predb_websites), **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
+* ⭐ **[PreDB.net](https://predb.net/)**, **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [⁠mkbrr](https://mkbrr.com/) - Torrent Creator / Manager / [GitHub](https://github.com/autobrr/mkbrr)

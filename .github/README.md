@@ -32,5 +32,5 @@ Here are a few ways you can get involved:
 ## 🔔 Follow
 
 <p>
-  <a href="https://rentry.co/fmhy-invite"><img width="30px" src="./discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.net"><img width="30px" src="./bluesky.svg" alt="Bluesky"></a>
+  <a href="https://rentry.co/fmhy-invite"><img width="30px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.net"><img width="30px" src="./assets/bluesky.svg" alt="Bluesky"></a>
 </p>

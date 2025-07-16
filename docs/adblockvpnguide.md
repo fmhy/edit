@@ -253,7 +253,7 @@
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - 2FA / Android
 * [KeePassXC](https://keepassxc.org/) - 2FA / Windows, Mac, Linux / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
 * [AuthMe](https://authme.levminer.com/) - 2FA / Windows, Mac, Linux / [GitHub](https://github.com/Levminer/authme)
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / Windows, Android / YubiKey Support / [GitHub](https://github.com/Yubico/yubioath-flutter)
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / YubiKey Support / Windows, Android / [GitHub](https://github.com/Yubico/yubioath-flutter)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - 2FA / Linux
 * [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS
 * [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS
@@ -367,9 +367,9 @@
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator) / [GitHub](https://github.com/riseupnet)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
-* [Mullvad VPN](https://mullvad.net/) - Paid / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [GitHub](https://github.com/mullvad)
+* [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
-* [PrivadoVPN](https://privadovpn.com/) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
+* [PrivadoVPN](https://privadovpn.com/software) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [Bitmask](https://bitmask.net/) - Free / Unlimited / [GitLab](https://0xacab.org/leap/bitmask-vpn), [2](https://0xacab.org/leap/bitmask_android)
 
 ***
@@ -410,7 +410,7 @@
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
 * [Hiddify](https://hiddify.com/) - V2Ray / Shadowsock / Wireguard / SSH Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Open Source Web Proxy
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Reverse Proxy UI/ [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 

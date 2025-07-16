@@ -14,7 +14,7 @@
 * ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
-* [Rive](https://rivestream.org/), [2](https://rivestream.net/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* [Rive](https://rivestream.org/), [2](https://rivestream.net/) or [CorsFlix](https://watch.corsflix.net/), [2](https://corsflix.net/), [3](https://watch.corsflix.dpdns.org/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [FlickyStream](https://flickystream.net) - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.com/invite/flickystream)
 * [1Shows](https://www.1shows.ru/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [Netplay](https://netplayz.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
@@ -43,6 +43,7 @@
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Watch Parties / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [Hopfly](https://watch.hopfly.site/) - Movies / TV / Anime
 * [HydraHD](https://hydrahd.sh/) - Movies / TV / Anime / [Status](https://hydrahd.info/)
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [PopcornMovies](https://popcornmovies.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
@@ -104,7 +105,7 @@
 ***
 
 * 🌐 **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Index of movie-web Instances / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
-* ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/p-stream)
+* ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * [justchill.app](https://justchill.app) - Movies / TV / Anime
 * [streamwatch.online](https://streamwatch.online) - Movies / TV / Anime 
 * [streamerflix.xyz](https://streamerflix.xyz) - Movies / TV / Anime 
@@ -227,7 +228,7 @@
 * [AnimeRealms](https://www.animerealms.org/) - Sub / Dub
 * [Anixl](https://anixl.to/) - Sub / Dub / [Discord](https://discord.gg/prmJz2av76)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
-* [Aninow](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
+* [Aninow](https://aninow.tv/), [2](https://aninow.to/) - Sub / Dub / [Discord](https://discord.gg/tydKVrQ3jS)
 * [Rive](https://rivestream.org/), [2](https://rivestream.net/) - Sub / Dub / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [Aniplay](https://aniplay.lol/), [2](https://aniplaynow.live/), [3](https://aniwave.at/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
@@ -317,47 +318,48 @@
 
 * ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Classic / Silent Films
 * [Classic Cinema Online](https://classiccinemaonline.com/) - Classic Films
-* [ClassixApp](https://www.classixapp.com/) - Classic Films
-* [BnWMovies](https://bnwmovies.com/) - Classic Films
 * [The Classic Movies](https://www.the-classic-movies.com/) - Classic Films
 * [WikiFlix](https://wikiflix.toolforge.org/) - Classic Films
 * [RetroFlix](https://retroflix.org/) - Classic Films
-* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films / YouTube
 * [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
+* [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films Playlists / YouTube
+* [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
-* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
-* [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
-* [Wu Tang Collection](https://www.thewutangcollection.com/) - Retro Martial Arts Films
-* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
-* [FootageFarm](https://footagefarm.com/) - Public Domain Films
-* [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
-* [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
+* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
+* [FootageFarm](https://footagefarm.com/) or [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
-* [TexasArchive](https://texasarchive.org/) - Texas Film Archive
-* [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+
+***
+
+## ▷ Film Archives
+
+* ⭐ **[USNationalArchives](https://www.youtube.com/@USNationalArchives)** - Movies / Short Films
+* ⭐ **[Imperial War Museums](https://www.iwm.org.uk/)** - British & Commonwealth War Footage
+* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
+* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
+* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [European Film Gateway](https://www.europeanfilmgateway.eu/) - European Film Archive / Use Search
 * [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
-* [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
+* [BFIPlayer](https://player.bfi.org.uk/free) / [Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Institute / UK VPN Required
 * [British Pathé](https://www.britishpathe.com/) or [ColonialFilm](http://www.colonialfilm.org.uk/) - British Video Archives
 * [yfanefa](https://www.yfanefa.com/) - Yorkshire Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
-* [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
-* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
-* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
+* [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand's Audiovisual Archives
+* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film & Video Archive
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
-* [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
-* [35mm](https://35mm.online/en) - Polish Film Archive
-* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
-* [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
 * [RussianFilmHub](https://russianfilmhub.com/) - Russian Films
 * [Cinemata](https://cinemata.org/) - Asia-Pacific Social Films
-* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
-* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
-* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
+* [Austrian Film Museum](https://www.filmmuseum.at/jart/prj3/filmmuseum/main.jart?rel=en) - Austrian Film Archive
+* [35mm](https://35mm.online/en) - Polish Film Archive / [Database](https://filmpolski.pl/fp/index.php)
+* [TexasArchive](https://texasarchive.org/) - Texas Film Archive
+* [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
+* [The Travel Film Archive](https://travelfilmarchive.com/) - Archival Travel Footage
 
 ***
 
@@ -424,7 +426,6 @@
 * [SportsLive](https://sportslive.me/)
 * [CricHD.to](https://crichd.to/), [2](https://crichd.at/), [3](https://crichd.com.co/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
-* [Strumyk](https://strumyk.in/)
 * [SportOnTV](https://sportontv.xyz/), [2](https://sotmatches.netlify.app/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [Sports Plus](https://en12.sportplus.live/)
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
@@ -549,7 +550,7 @@
 * [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Emby Android TV App
 * [atvTools](https://rentry.co/FMHYBase64#atvtools) - Install Apps, Run ADB, Shell Commands, etc.
-* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) or [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
+* [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 * [⁠AerialViews](https://github.com/theothernt/AerialViews) - Custom Screensaver App
 
@@ -574,7 +575,7 @@
 * ⭐ **[VegaMovies](https://vegamovies.yoga/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.net/) - Movies / TV / Anime/ [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[1Shows](https://www.1shows.ru/)** or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[P-Stream](https://pstream.mov/)** / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
+* ⭐ **[P-Stream](https://pstream.mov/)** / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
 * ⭐ **[Cinemaos](https://cinemaos.live/)**, [2](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / Auto-Next / Watch Parties / / [Discord](https://discord.gg/38yFnFCJnA)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movieparadise-code) / [Leech](https://fastdebrid.com/)
@@ -852,8 +853,6 @@
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
-* [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
-* [GNOD](https://www.gnod.com/) - Movie Recommendations
 * [MovieLens](https://movielens.org/) - Movie Recommendations
 * [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations
