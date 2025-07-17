@@ -80,6 +80,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [DeepDocs](https://deepdocs.dev/) - AI that updates docs when you ship code
 
 ***
 
