@@ -512,7 +512,6 @@
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Modern for Hacker News](https://www.modernhn.com/) - Modern UI Extension
 * [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
-* [Hacker News Highlighter](https://greasyfork.org/en/scripts/39311) - Highlight New Stories Userscript
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
 * [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
