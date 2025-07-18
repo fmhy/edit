@@ -1239,6 +1239,7 @@
 * [Addielamarr](https://publish.obsidian.md/addielamarr/), [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
+* [Web Security Academy](https://portswigger.net/web-security) - Web Security Learning
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides

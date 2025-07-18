@@ -56,7 +56,7 @@
 
 ## ▷ Paywall Bypass
 
-* ⭐ **[Archive.today](https://archive.is/)** - Archived Articles
+* ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)**  or [Ladder](https://github.com/everywall/ladder) - Self-Hosted

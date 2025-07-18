@@ -58,6 +58,7 @@
 * [Yampi](https://yampi.live/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
 * [Lekuluent](https://lekuluent.et/) - Movies / TV / Anime
+* [MoviePluto](https://moviepluto.fun/) - Movies / TV / Anime / [Discord](https://discord.com/invite/ynfvjgHrBd)
 * [Flicker](https://flickermini.pages.dev/), [2](https://flickeraddon.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/flickermini/)
 * [Altair](https://altair.mollusk.top/) or [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP) / [GitHub](https://github.com/ambr0sial/nova/)
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
@@ -320,6 +321,7 @@
 * [The Classic Movies](https://www.the-classic-movies.com/) - Classic Films
 * [WikiFlix](https://wikiflix.toolforge.org/) - Classic Films
 * [RetroFlix](https://retroflix.org/) - Classic Films
+* [moonflix](https://moonflix.com/) - Restored & Colorized Classic Films / Shows
 * [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
 * [FilmsByTheYear](https://www.youtube.com/@FilmsbytheYear/playlists) - Classic Films Playlists / YouTube
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films

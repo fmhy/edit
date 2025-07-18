@@ -29,7 +29,7 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [spotfy.one](https://spotfy.one/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/) or [ytify](https://ytify.netlify.app/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - Browser Music / Uses Qobuz / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/EBKcDZwEHJ)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -347,7 +347,7 @@
 
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/EBKcDZwEHJ)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/)
+* ⭐ **[cobalt](https://cobalt.tools/)** - SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb

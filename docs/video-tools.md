@@ -43,7 +43,6 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
@@ -147,7 +146,7 @@
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
-* [StreamPi](https://stream-pi.com/) or [ODeck](https://github.com/willianrod/ODeck) - ElGato Streamdeck Alternatives
+* [StreamPi](https://stream-pi.com/) - ElGato Streamdeck Alternatives
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 
@@ -372,7 +371,7 @@
 
 * ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 

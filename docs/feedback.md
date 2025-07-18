@@ -47,6 +47,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 
+* *"FMHY genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for fmhy and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appriciated."*
+
 * *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to fmhy I have access to nearly everything."*
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*

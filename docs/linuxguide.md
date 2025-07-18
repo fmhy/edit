@@ -401,7 +401,7 @@
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
 * [HowtoForge](https://www.howtoforge.com/) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
-* [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) or [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin) - Linux Server Management Tools 
+* [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Management Tools 
 * [Proxmox](https://www.proxmox.com/en/) - Self-Hosted Server Tools
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
