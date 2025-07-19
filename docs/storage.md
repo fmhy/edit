@@ -130,7 +130,6 @@
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [DNS for Family](https://dnsforfamily.com/)
-* [ClouDNS](https://www.cloudns.net/)
 * [Hurricane Electric](https://dns.he.net/)
 * [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
@@ -144,7 +143,7 @@
 
 ***
 
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
+* [V2Nodes](https://v2nodes.com/)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
@@ -170,7 +169,7 @@
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
-* [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
+* [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
 * [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 
 ***
