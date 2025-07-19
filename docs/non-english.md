@@ -1727,10 +1727,10 @@
 
 ## ▷ Streaming
 
-* [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use VPN / [Telegram](https://t.me/uaserialchannel)
+* [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
 * [UAKino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
 * [UASerials](https://uaserials.pro/) - Movies / TV / Anime
-* [KinoUKR](https://kinoukr.com/) - Movies / TV / Use VPN
+* [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 
 ***
 
