@@ -43,17 +43,6 @@
 * [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html)
 * [PeriodicVideos](http://www.periodicvideos.com/)
 
-
-***
-
-## Covers / Posters
-
-* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
-* [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
-
-[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
-
-
 ***
 
 ## CSS Framework Tools
@@ -135,11 +124,11 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
+* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)**
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
-* [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 * [DNS for Family](https://dnsforfamily.com/)
 * [ClouDNS](https://www.cloudns.net/)
 * [Hurricane Electric](https://dns.he.net/)
@@ -482,9 +471,7 @@
 
 ## Telegram Anime Downloads
 
-* https://t.me/Anime_Ocean_Backup
 * https://t.me/anidlws
-* https://t.me/for_otaku
 * https://t.me/Any_Animebot
 * https://t.me/myanimetvbot
 

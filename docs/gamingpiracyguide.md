@@ -480,8 +480,8 @@
 
 ## ▷ Crosswords
 
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
-* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
+* ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
+* [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
 * [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords / [Discord](https://discord.gg/PwvKmJE6Xp)
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
@@ -804,7 +804,7 @@
 
 ## ▷ RPGs
 
-* ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_.2F_ttrpg_builders)**
+* ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
 * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)

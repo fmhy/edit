@@ -355,7 +355,6 @@
 * 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexes
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)**
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
-* ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
@@ -469,6 +468,19 @@
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [TEv2](http://te2.tewi.us/) - Share Your Drawings
+
+***
+
+## ▷ Media Covers / Posters
+
+* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music
+* [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
+* [The Poster DB](https://theposterdb.com/) / [Discord](https://discord.com/invite/NARZqQX) / [Subreddit](https://www.reddit.com/r/ThePosterDB), [DVD Covers](https://www.dvd-covers.org/) or [MediUX](https://mediux.pro/) - Movies / TV
+* [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film On Paper](https://www.filmonpaper.com/posters/), [The Poster Collector](https://postercollector.co.uk/) or [IMP Awards](http://www.impawards.com/) - Movies
+* [GameTDB](https://www.gametdb.com/), [The Cover Project](https://www.thecoverproject.net/), [LibRetro Thumbnails](https://thumbnails.libretro.com/) or [Gaming Alexandria](https://www.gamingalexandria.com/wp/#) - Games
+* [Cover Century](https://www.covercentury.com/) - Movies / Games
+* [FanArt](https://fanart.tv/) - Poster Fanart / [Discord](https://discord.gg/r9VufRk)
+* [r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/) - Movie Poster Subreddit
 
 ***
 
@@ -657,7 +669,11 @@
 
 ## ▷ Image to Text / OCR
 
-* ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots)** - Most Chatbots have Built-in Image to Text
+* **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools.
+
+***
+
+* ⭐ **[ImageToText](https://www.imagetotext.info/)** - Online OCR
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross-Platform OCR
@@ -670,7 +686,6 @@
 * [Ocrify](https://ocrify.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
 * [NewOCR](https://www.newocr.com/) - Online OCR
-* [ImageToText](https://www.imagetotext.info/) - Online OCR
 * [OnlineOCR](https://www.onlineocr.net/) - Online OCR
 
 ***
