@@ -100,6 +100,7 @@
 ## ▷ Downloading / ডাউনলোডিং
 
 * [MLSBD](https://mlsbd.shop/) - Movie / TV
+* [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
 ***
@@ -107,6 +108,7 @@
 ## ▷ Streaming / স্ট্রিমিং
 
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
+* [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
 * [BanglaFlix](https://banglaflix.com.bd/) - Movies / TV
 * [Bangla IPTV](https://rentry.co/FMHYBase64#bangla-iptv-playlists) - IPTV Playlists

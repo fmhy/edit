@@ -1069,12 +1069,9 @@
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[TinkerHost.net](https://tinkerhost.net/)** - 5GB Storage / 100GB Bandwidth / Unlimited DB
 * ⭐ **[Serv00.com](https://www.serv00.com/)** - 3GB Storage / Unlimited Bandwidth / 16 DB / Limited Registration
 * ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB Storage / Unlimited Bandwidth / Unlimited DB
 * ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB Storage / Unlimited Bandwidth / 2 DB
-* [InfinityFree](https://infinityfree.com/) - 5GB Storage / Unlimited Bandwidth / 400 DB
-* [byet.host](https://byet.host/free-hosting) - 1GB Storage / 50GB Bandwidth / 5 DB
 * [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [GoogieHost.com](https://googiehost.com/) - 1GB Storage / 100GB Bandwidth / 2 DB
 * [Freehostia.com](https://www.freehostia.com/) - 250MB Storage / 6GB Bandwidth / 1 DB
@@ -1097,6 +1094,7 @@
 * [Tekcities.com](https://www.tekcities.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [Agilityhoster.com](https://www.agilityhoster.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [125mb.com](https://www.125mb.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
+* [TinkerHost.net](https://tinkerhost.net/), [2](https://infinityfree.com/), [3](https://byet.host/free-hosting) - 5GB Storage / 100GB Bandwidth / Unlimited DB
 * [biz.nf](https://www.biz.nf/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [ATSPACE](https://www.atspace.com/) - 1GB Storage / Unlimited Bandwidth / 1 DB
 * [UHostFull.com](https://www.uhostfull.com/) or [UHostAll.com](https://www.uhostall.com/) - 5GB Storage / Unlimited Bandwidth / Unlimited DB

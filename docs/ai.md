@@ -272,7 +272,6 @@
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Unlimited / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
 * [PixVerse](https://pixverse.ai/) - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video
-* [LensGo](https://lensgo.ai/) - 5 Daily / [Discord](https://discord.com/invite/CHMhrByFJS)
 * [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [Pika](https://www.pika.art/) - 5 Monthly / [Discord](https://discord.com/invite/pika)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
