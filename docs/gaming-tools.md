@@ -638,6 +638,7 @@
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
 * [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [GitHub](https://github.com/MCreator/MCreator)
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
+* [Embeddium](https://modrinth.com/mod/embeddium) - FOSS Fork of Sodium licensed under LGPL v3.0 only
 
 ***
 
