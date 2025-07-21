@@ -283,12 +283,13 @@
 # ► Spotify Tools
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://pastebin.com/gAbebbbJ)
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers / [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
-* [LoaderSpot](https://loadspot.pages.dev/) - Official Spotify Installers Archive
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Display Synced Lyrics
 * [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
+* [LoaderSpot](https://loadspot.pages.dev/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
 * [Opslagify](https://opslagify.deruever.nl/) - Find Storage Size of Spotify Library
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
