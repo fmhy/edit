@@ -54,6 +54,7 @@
 * [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
 * [nghmat](https://songs.nghmat.com/) - Music / MP3
+* [kirmalk TV](https://ba.kirmalk.com/) - Movies / TV / Anime / 1080p
 
 ## ▷ Reading / القراءة
 
