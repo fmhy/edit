@@ -482,14 +482,6 @@
 
 ***
 
-## Telegram Anime Downloads
-
-* https://t.me/anidlws
-* https://t.me/Any_Animebot
-* https://t.me/myanimetvbot
-
-***
-
 ## Telegram eBook Download
 
 * [BooksWorld](https://t.me/Books_worldd) - Amharic Audiobooks

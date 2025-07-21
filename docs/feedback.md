@@ -72,5 +72,3 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 * *"Every person I share this sub with is always completely grateful, and it's no wonder why."*
 
 * *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*
-
-* *"I genuinely don’t even have the words to describe how much FMHY has helped me. As someone from a country where affording software, books, or even streaming platforms feels like a luxury, this site feels like a hidden treasure chest. I've been able to explore passions like video editing, reading, and even learning new things—all without breaking the bank. It’s not just the free access—it's the safety, the organization, the sheer amount of effort behind it. It’s become my go-to place for everything. I’ve shared it with my friends, and we literally call it "the internet’s cheat code." Thank you to everyone who works on this y’all are literally changing lives and making the digital world more accessible for people who need it most. Please never stop. This is what the internet should be about."*

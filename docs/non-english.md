@@ -110,7 +110,6 @@
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
-* [BanglaFlix](https://banglaflix.com.bd/) - Movies / TV
 * [Bangla IPTV](https://rentry.co/FMHYBase64#bangla-iptv-playlists) - IPTV Playlists
 
 ***

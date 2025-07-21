@@ -339,7 +339,6 @@
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
-* [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
 
 ***
 
