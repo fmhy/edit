@@ -280,23 +280,27 @@
 
 ***
 
-# ► Spotify Clients
+# ► Spotify Tools
 
-* ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below / [Installer Archive](https://loadspot.pages.dev/)
-* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
+* 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://pastebin.com/gAbebbbJ)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers / [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)
+* [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
+* [LoaderSpot](https://loadspot.pages.dev/) - Official Spotify Installers Archive
+* [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Display Synced Lyrics
+* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
+* [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
+* [Opslagify](https://opslagify.deruever.nl/) - Find Storage Size of Spotify Library
+* [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
+* [Chart My Music](https://www.chartmymusic.com/) - Generate Collages for Spotify Albums
+* [Tierify](https://tierify.app/) - Create Spotify Tier Lists
+* [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
+* [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
+* [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create RSS Feeds of Favorite Artists
 
 ***
 
-## ▷ Spotify Adblockers
-
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity)
-* ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC)
-* [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
-* Spotify Mobile Adblock - [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)
-
-***
-
-## ▷ Spotify Playlists
+## ▷ Playlist Tools
 
 * ↪️ **[Spotify Playlist Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_spotify_playlist_generators)**
 * ⭐ **[exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Playlist Backup
@@ -316,24 +320,6 @@
 * [XM Playlist](https://xmplaylist.com/) - XM Radio Spotify Playlists
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [⁠PlayLost](http://playlost.fm/) - Find Similar Playlists
-
-***
-
-## ▷ Spotify Tools
-
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://pastebin.com/gAbebbbJ)
-* [sptlrx](https://github.com/raitonoberu/sptlrx) or [Versefy](https://versefy.app/) - Lyric Apps
-* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
-* [Random Songs](https://random-song.com/) - Play Random Spotify Songs
-* [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Album Availability
-* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats), [Spotify Stats](https://spotifystats.app/), [Your Spotify](https://github.com/Yooooomi/your_spotify) or [NewTunes](https://newtunes.xyz/) - Listening Stats
-* [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
-* [Tierify](https://tierify.app/) - Tier Lists
-* [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
-* [Kira](https://kira.vercel.app/) - Browse by Country / [GitLab](https://gitlab.com/timrossback/kira)
-* [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
-* [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create Artist RSS Feeds
 
 ***
 
