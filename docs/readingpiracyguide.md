@@ -886,8 +886,8 @@
 
 ## ▷ Curated Recommendations
 
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Curated Books List
-* ⭐ **[Five Books](https://fivebooks.com/)** - Curated Book List
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
+* ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
