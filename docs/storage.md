@@ -438,12 +438,6 @@
 
 ***
 
-## Spotify Playlist Generators
-
-[Spotalike](https://spotalike.com/), [⁠Unheard.FM](https://unheard.fm/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [Predominantly](https://predominant.ly/)
-
-***
-
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
