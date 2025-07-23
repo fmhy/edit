@@ -705,27 +705,25 @@
 
 ## ▷ Audio Players
 
-* ⭐ **[Foobar2000](https://www.foobar2000.org/)**
-* ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
-* ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
-* ⭐ **[AIMP](https://www.aimp.ru/)**
-* ⭐ **[MusicBee](https://getmusicbee.com/)**
-* [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8)
-* [TimeStetch](https://29a.ch/timestretch/) - Web-Based
-* [MusikCube](https://musikcube.com/) - Terminal-Based
-* [XMPlay](https://www.un4seen.com/) - Module-Friendly
+* ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Windows, Mac, Android, iOS / [Components](https://www.foobar2000.org/components) / [Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
+* ⭐ **[WACUP](https://getwacup.com/)** / Windows / [Discord](https://discord.gg/5pVTdbj)
+* ⭐ **[AIMP](https://www.aimp.ru/)** / Windows, Android
+* ⭐ **[MusicBee](https://getmusicbee.com/)** / Windows
+* [Harmonoid](https://harmonoid.com/) / Windows, Mac, Linux, Android / [GitHub](https://github.com/harmonoid/harmonoid) / [Discord](https://discord.gg/2Rc3edFWd8)
+* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, Mac, Linux, Android / [GitHub](https://github.com/clangen/musikcube)
+* [XMPlay](https://www.un4seen.com/) - Module-Friendly / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
-* [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
-* [NCurses++](https://github.com/ncmpcpp/ncmpcpp)
-* [Museeks](https://museeks.io/)
-* [Audacious](https://audacious-media-player.org/)
-* [Strawberry](https://www.strawberrymusicplayer.org/)
-* [Exaile](https://exaile.org/)
-* [quodlibet](https://github.com/quodlibet/quodlibet/)
-* [deadbeef](https://deadbeef.sourceforge.io/)
-* [Swing](https://swingmx.com/) / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
-* [Nora](https://noramusic.netlify.app/) / [GitHub](https://github.com/Sandakan/Nora)
-* [Dopamine](https://digimezzo.github.io/site/)
+* [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
+* [Museeks](https://museeks.io/) / Windows, Mac, Linux / [GitHub](https://github.com/martpie/museeks)
+* [Audacious](https://audacious-media-player.org/) / Windows, Mac, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
+* [Strawberry](https://www.strawberrymusicplayer.org/) / Windows, Mac, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry)
+* [Exaile](https://exaile.org/) / Windows, Mac, Linux / [GitHub](https://github.com/exaile/exaile)
+* [quodlibet](https://github.com/quodlibet/quodlibet/) / Windows, Mac, Linux
+* [deadbeef](https://deadbeef.sourceforge.io/) / Windows, Mac, Linux
+* [Swing](https://swingmx.com/) / Windows, Mac, Linux / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
+* [Nora](https://noramusic.netlify.app/) / Windows, Mac, Linux / [GitHub](https://github.com/Sandakan/Nora)
+* [Dopamine](https://digimezzo.github.io/site/) / Windows, Mac, Linux / [GitHub](https://github.com/digimezzo/dopamine)
+* [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player
 * [LedFx](https://www.ledfx.app/) - LED Music Sync
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices
