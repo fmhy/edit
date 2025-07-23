@@ -68,7 +68,7 @@
 * [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Gemini-2.0-Flash AI Search Engine / AI Agents / Sign-Up Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine
-* [Venice](https://venice.ai/) - LLama 3 AI Search Engine 
+* [Venice](https://venice.ai/) - Llama 3 AI Search Engine 
 * [uncovr](https://uncovr.app/) - GPT-4o-mini / Gemini-2.0-Flash AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.gg/HCShtBqbfV)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine / [GitHub](https://github.com/leptonai/search_with_lepton)

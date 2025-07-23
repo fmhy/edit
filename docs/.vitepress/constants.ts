@@ -166,7 +166,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '❓ FAQs', link: 'https://redd.it/xrxen7' },
       {
         text: '😇 SFW FMHY',
-        link: 'https://fmhy.xyz/'
+        link: 'https://rentry.org/piracy'
       },
       {
         text: '🏠 Selfhosting',
