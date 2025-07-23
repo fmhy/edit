@@ -71,6 +71,8 @@
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
+* [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
+* [⁠Distributed Proofreaders](https://www.pgdp.net/) - Help Digitalize Public Domain Books to Ebooks
 
 ***
 
@@ -668,7 +670,6 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [ToposText](https://topostext.org/) - Historical Greek Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
 * [History Newsboys of 1899](https://rentry.co/FMHYBase64#history-newsboys-of-1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
