@@ -964,7 +964,7 @@
 * [AniLab](https://anilab.to/) - Use [DNS Adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [AnimeChicken](https://animechicken.app/)
-* [Hayase](https://hayase.watch/) / [Discord](https://discord.com/invite/Z87Nh7c4Ac), [Shiru](https://github.com/RockinChaos/Shiru) or [Migu](https://miguapp.pages.dev/) - Stream Anime Torrents
+* [Shiru](https://github.com/RockinChaos/Shiru) or [Migu](https://miguapp.pages.dev/) - Stream Anime Torrents
 
 ***
 
