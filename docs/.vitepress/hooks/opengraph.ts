@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -88,26 +88,27 @@ async function generateImage({
   const _page = getPage(url)
   const title =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.name ?? frontmatter.title
+      ? (frontmatter.hero.name ?? frontmatter.title)
       : frontmatter.title
         ? frontmatter.title
         : _page?.title
 
   const description =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.tagline ?? frontmatter.description
+      ? (frontmatter.hero.tagline ?? frontmatter.description)
       : frontmatter.description
         ? frontmatter.description
         : _page?.description
 
   // consola.info(url, title, description)
   const options: SatoriOptions = {
-    width: 1200,
-    height: 628,
+    width: 1800,
+    height: 900,
     fonts,
     props: {
       title,
-      description
+      description,
+      image: 'https://i.fmhy.net/og-base.jpg'
     }
   }
 

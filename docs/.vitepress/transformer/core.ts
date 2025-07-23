@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -30,8 +30,8 @@ interface Replacer {
 }
 
 export const transformer = (text: string) => {
-  const handler: ProxyHandler = {
-    get(target, prop) {
+  const handler: ProxyHandler<{ text: string }> = {
+    get(target: { text: string }, prop: string | symbol) {
       if (prop === 'transform') {
         return (name: string, transforms: Transform[]): Replacer => {
           consola.debug(`Starting transform ${name} with ${transforms}`)

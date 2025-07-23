@@ -3,7 +3,7 @@ title: How-to Search FMHY
 description: Various tools to help you query FMHY.
 date: 2023-01-07
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -23,12 +23,6 @@ Search engine hosted on FMHY.net
 
 ---
 
-### [old.fmhy.net Search](https://old.fmhy.net/search)
-
-Search engine hosted on old.fmhy.net
-
----
-
 ### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
 
 GitHub page search engine
@@ -38,6 +32,12 @@ GitHub page search engine
 ### [Bookmark HTML](https://github.com/fmhy/bookmarks)
 
 Turn FMHY into Bookmarks
+
+---
+
+### [FMHY Goggles](https://github.com/fmhy/bookmarks#goggle)
+
+Search FMHY using Brave Goggles
 
 ---
 
@@ -59,6 +59,12 @@ Multi-site search engines
 
 ---
 
-### [Dupe Checker](https://github.com/DanFMHY/dupe-checker)
+### [Dupe Checker](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
+
+--
+
+### Search Page Backups
+
+[FMHY.net](https://fmhy.net/posts/search) / [Reddit](https://redd.it/105xraz)

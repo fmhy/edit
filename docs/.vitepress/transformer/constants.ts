@@ -1,5 +1,7 @@
+import { meta } from '../constants'
+
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -20,11 +22,11 @@ interface Header {
 export const headers: Header = {
   'adblockvpnguide.md': {
     title: 'Adblocking / Privacy',
-    description: "Adblocking, Privacy, VPN's, Proxies, Antivirus"
+    description: 'Adblocking, Privacy, VPNs, Proxies, Antiviruses'
   },
   'ai.md': {
     title: 'Artificial Intelligence',
-    description: 'Chat Bots, Text Generators, Image Generators, ChatGPT Tools'
+    description: 'Chatbots, Text Generators, Image Generators, ChatGPT Tools'
   },
   'android-iosguide.md': {
     title: 'Android / iOS',
@@ -137,7 +139,8 @@ export const excluded = [
   'single-page',
   'feedback.md',
   'index.md',
-  'sandbox.md'
+  'sandbox.md',
+  'startpage.md'
 ]
 
 export function getHeader(id: string) {
@@ -146,7 +149,7 @@ export function getHeader(id: string) {
 
   const description = '<p class="text-black dark:text-text-2">'
 
-  const feedback = '<Feedback />'
+  const feedback = meta.build.api ? '<Feedback />' : ''
 
   const data = headers[id]
   let header = '---\n'

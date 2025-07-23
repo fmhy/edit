@@ -3,7 +3,7 @@ title: New Website
 description: Our brand new site (which you're on currently)
 date: 2023-11-12
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -12,11 +12,6 @@ footer: true
 <Post authors="taskylizard" />
 
 ### New URL: https://fmhy.net/
-
-:::info Old Frontend
-You can use https://old.fmhy.net if you'd like to use the
-original version.
-:::
 
 Hey everyone, just wanted to let you all know that we're finally done with the
 new website, and are officially launching it today! I know a lot of different

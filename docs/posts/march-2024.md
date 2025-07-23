@@ -3,7 +3,7 @@ title: Monthly Updates [March]
 description: March 2024 Updates
 date: 2024-03-01
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -49,8 +49,6 @@ in seeing all minor changes you can follow our
 
 - Our Minecraft Server is now live. Click
   **[here](https://fmhy.net/posts/minecraft-server)** to join.
-
-- Moved `fmhy.tk` to `old.fmhy.net`
 
 ---
 

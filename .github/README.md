@@ -9,6 +9,7 @@
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
 - Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+- Neither the site or github host any files
 
 ## 🗺️ Emoji Legend
  

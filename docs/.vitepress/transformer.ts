@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import { basename } from 'pathe'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
-export function transforms(): Plugin {
+export function transformsPlugin(): Plugin {
   return {
     name: 'custom:transform-content',
     enforce: 'pre',
@@ -220,18 +220,18 @@ export function transform(text: string): string {
     .replace(/.25BA_/g, '')
     .replace(/.25B7_/g, '')
     .replace(/_.2F_/g, '-')
+    .replace(/_?.26amp.3B_?/g, '-')
 
   _text = replaceUnderscore(_text)
     .replace(/\/#(\d)/g, '/#_$1') // Prefix headings starting with numbers
     .replace(/#(\d)/g, '#_$1') // Prefix headings starting with numbers
-    .replace(/\/#/g, '#')
+    .replace(/(\]\(\s*)\/\s*(\#[^)\s]*?\s*\))/g, '$1$2')
     .replace(/\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n/gm, '')
     .replace(/# ►/g, '##')
     .replace(/## ▷/g, '###')
     .replace(/####/g, '###')
     // Replace emojis
-    .replace(/🌟/g, ':glowing-star:')
     .replace(/⭐/g, ':star:')
     .replace(/🌐/g, ':globe-with-meridians:')
     .replace(/↪/g, ':repeat-button:')
@@ -285,6 +285,12 @@ const transformLinks = (text: string): string =>
           '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
       {
+        name: 'Source Code',
+        find: /\[Source Code\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><div alt="Source Code" class="i-gravity-ui:code" /></a>'
+      },
+      {
         name: 'Telegram',
         find: /\[Telegram\]\(([^\)]*?)\)/gm,
         replace:
@@ -307,6 +313,37 @@ const transformLinks = (text: string): string =>
         find: /\[.onion\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
+      },
+      // Platform indicators
+      {
+        name: 'Windows',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Windows(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
+      },
+      {
+        name: 'Mac',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Mac(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
+      },
+      {
+        name: 'Linux',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Linux(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
+      },
+      {
+        name: 'Android',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Android(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="Android" class="i-material-symbols:android" /> '
+      },
+      {
+        name: 'iOS',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)iOS(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="iOS" class="i-simple-icons:ios" /> '
+      },
+      {
+        name: 'Web',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
+        replace: ' <div alt="Web" class="i-fluent:globe-32-filled" /> '
       }
     ])
     .getText()

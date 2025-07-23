@@ -18,7 +18,7 @@ import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { transforms } from './transformer'
+import { transformsPlugin } from './transformer'
 
 // @unocss-include
 
@@ -53,7 +53,7 @@ export default defineConfig({
       'meta',
       {
         name: 'msvalidate.01',
-        content: '55ae5a0600A8C7827B59CFD506D76DC2'
+        content: 'F3028112EF6F929B562F4B18E58E3691'
       }
     ],
     // Google site verification
@@ -116,7 +116,7 @@ export default defineConfig({
           filepath: './.cache/imports.json'
         }
       }),
-      transforms(),
+      transformsPlugin(),
       {
         name: 'custom:adjust-order',
         configResolved(c) {
@@ -145,14 +145,16 @@ export default defineConfig({
     config(md) {
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
-      md.use(headersPlugin)
+      meta.build.api && md.use(headersPlugin)
     }
   },
   themeConfig: {
     search,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
-      copyright: `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/pLVXBSh/image.png">Estd 2018.</a>`
+      copyright:
+        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
+        `<br/> This site does not host any files.`
     },
     editLink: {
       pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',

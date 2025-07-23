@@ -1,6 +1,6 @@
 name: Create Issue
 description: 'Help us improve FMHY for everyone'
-title: '<title>'
+title: 'Issue form title'
 body:
   - type: markdown
     attributes:
