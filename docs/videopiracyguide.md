@@ -298,22 +298,21 @@
 
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DramaGo](https://dramago.me/)** - TV / Movies
-* ⭐ **[DramaCool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - TV / Movies
+* ⭐ **[Dramacool](https://dramacool.com.tr/)**, [2](https://dramacool.tools/) - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
-* [KissKH](https://kisskh.ovh/), [2](https://kisskh.co/) - TV / Movies
-* [DramaHood](https://dramahood.top/) - TV / Movies
-* [KissKH.org](https://kisskh.run/) - TV
-* [AsiaFlix](https://asiaflix.net/) - TV / Movies / [Discord](https://discord.com/invite/JTxEVkZWhc)
-* [RiveStream](https://rivestream.org/kdrama) - Korean Drama / TV / Movies
+* [kisskh](https://kisskh.ovh/), [2](https://kisskh.run/), [3](https://kissasian.com.lv/) - TV / Movies
+* [Dramahood](https://dramahood.top/) - TV / Movies
+* [Asiaflix](https://asiaflix.net/) - TV / Movies / [Discord](https://discord.com/invite/JTxEVkZWhc) / [Reddit](https://www.reddit.com/r/Asiaflix/) / [Telegram](https://t.me/asiaflixapp)
+* [Rive](https://rivestream.org/kdrama) - Korean Drama / TV / Movies / [Discord](https://discord.com/invite/6xJmJja8fV)
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [AsianSubs](https://asiansubs.com/) - TV / Movies
 * [KissAsian](https://kissasian.video/) - TV / Movies
 * [KissAsianTV](https://kissasiantv.blog/) - TV / Movies
-* [Drama-Cool](https://drama-cool.pl/), [2](https://dramacool.com.ly/) - TV / Movies
-* [DramaCool.bg](https://dramacool.bg/) - TV / Movies
-* [DramaCool9](https://dramacools9.cam/) - TV / Movies
-* [dramacool](https://dramacool.com.cv/), [2](https://kissasian.com.lv/) - TV / Movies
+* [Dramacool](https://dramacoolk.one/), [2](https://dramacool.com.ly/) - TV / Movies
+* [Dramacool.sr](https://www12.dramacool.sr/) - TV / Movies
+* [Dramacool9](https://dramacools9.cam/) - TV / Movies
+* [dramacool](https://dramacool.com.cv/) - TV / Movies
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
 
 ***
