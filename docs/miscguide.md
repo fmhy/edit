@@ -898,6 +898,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* [Monee](https://monee-app.com) - Budget & Expense Tracker
 
 ***
 
