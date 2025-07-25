@@ -539,6 +539,7 @@
 * [Party Project](https://char64.itch.io/partyproject) - Mario Party-Style Tabletop Games / [Discord](https://discord.gg/nhUQwpGEQR)
 * [Richup.io](https://richup.io/) - Monopoly-Style Board Game / [Discord](https://discord.gg/r6uJ6bq8ZH)
 * [Rally the Troops](https://www.rally-the-troops.com/) - Historical-Style Board Games / [Discord](https://discord.gg/CBrTh8k84A)
+* [18xx](https://18xx.games/) - 18xx Board Games Online / [GitHub](https://github.com/tobymao/18xx)
 * [Hexxagon](https://hexxagon.com/) - Rubies Vs Pearls
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
 
@@ -865,7 +866,6 @@
 ## ▷ Trivia Games
 
 * ⭐ **[GuessTheGame](https://guessthe.game/)** or [Gamedle](https://www.gamedle.wtf/) - Game Guessing Games
-* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme / Trivia
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game

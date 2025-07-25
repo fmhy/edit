@@ -5,7 +5,7 @@
 
 Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this: 
 
-- [Link Submissions](#additions)
+- [Link Submissions](#submissions)
 - [Reporting an Existing Site](#reporting-a-site)
 - [How to Edit and Preview Changes](#making-changes)
 - [Finding New Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/)
