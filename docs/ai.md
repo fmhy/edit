@@ -35,6 +35,7 @@
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [Groq](https://groq.com/) - Qwen QwQ-32B / Deepseek-R1-Distill / Multiple Chatbots / [Discord](https://discord.gg/invite/groq)
+* [⁠Gradient](https://chat.gradient.network/) - Qwen 2.5 & 3 / Utilizes 5 32GB RTX 5090s
 * [NVIDIA NIM](https://build.nvidia.com/) - Deepseek-R1 / Multiple Chatbots / No Sign-Up
 * [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
 * [⁠Ernie](https://ernie.baidu.com/) - Baidu's Chatbot
