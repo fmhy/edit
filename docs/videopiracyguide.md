@@ -694,6 +694,7 @@
 * [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
 * [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
 * [AniconforAnilist](https://github.com/EnArvy/AniconforAnilist) - Anime Folder Cover Automation
+* [Anime Neat](https://www.animeneat.in/) - Sub / Dub / Anime / Batch
 
 ***
 
