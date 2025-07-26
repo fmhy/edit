@@ -310,6 +310,7 @@
 * [imgsys](https://imgsys.org/) / Unlimited / Compare Generators / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Sign-Up
 * [Hotpot](https://hotpot.ai/) / 75 Daily / No Sign-Up
+* [⁠PigenAI](https://pigenai.onrender.com/) / Unlimited
 * [BAGEL](https://demo.bagel-ai.org/) / Unlimited / [GitHub](https://github.com/ByteDance-Seed/Bagel)
 * [Prodia](https://app.prodia.com/playground) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Sign-Up / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#pollinations-note) / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations)
