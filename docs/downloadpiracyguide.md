@@ -125,6 +125,7 @@
 * ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
+* [AppDoze](https://appdoze.net/)
 * [AIOWares](https://www.aiowares.com/)
 * [DownloadHa](https://www.downloadha.com/)
 * [Softlay](https://www.softlay.com/downloads/)
