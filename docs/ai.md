@@ -286,6 +286,7 @@
 * [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Sign-Up & Phone # / SMS Generators Work
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
+* [JoyPix](https://www.joypix.ai/app/) - 12 Monthly / AI Avatar & Video Generator / [GitHub](https://github.com/joypix-ai/joypix)
 
 ***
 
