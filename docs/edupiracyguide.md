@@ -1089,6 +1089,7 @@
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
 * [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/) / [Discord](https://discord.gg/V8jcS8d2H5), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
+* [⁠The Copenhagen Book](https://thecopenhagenbook.com/) - Web App Auth Guidelines
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
 * [WebRTCForTheCurious](https://webrtcforthecurious.com/) - WebRTC Guide / [GitHub](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
 * [backendlore](https://github.com/fpereiro/backendlore) or [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Backend Coding Guides

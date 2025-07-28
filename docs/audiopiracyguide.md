@@ -307,7 +307,7 @@
 ## ▷ Playlist Tools
 
 * ⭐ **[Exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Export Playlists
-* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/, [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
+* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/), [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
 * ⭐ **[spotgen](https://epsil.github.io/spotgen)**, [chat jams](https://www.chatjams.ai/), [Unheard.FM](https://unheard.fm/) or [Chosic](https://www.chosic.com/) - Playlist Generators
 * [Playlist Hospital](https://playlisthospital.com/) - Restore Disabled Songs in Spotify Playlists
 * [Spotlistr](https://www.spotlistr.com/) - Platform-to-Spotify Playlist Converter

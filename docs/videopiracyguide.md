@@ -623,7 +623,6 @@
 * [SeriesVault](https://seriesvault.win/), [2](https://seriesvault.org/) - TV / Anime
 * [FilmFans](https://filmfans.org/) - Movies / 4K
 * [WorldFree4u](https://worldfree4u.moe/) - Movies
-* [Movievilla](https://movievilla.my/) - Movies / TV
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV

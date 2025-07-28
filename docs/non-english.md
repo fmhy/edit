@@ -18,7 +18,9 @@
 
 ## ▷ Downloading / تحميل
 
+* [⁠Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p / [Status](https://ma.bahy-films.com/)
 * [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
+* [⁠My Cima](https://my-cima.video/) - Movies / TV
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
@@ -37,6 +39,7 @@
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [ArabSeed](https://a.asd.homes/main/) -  Movies / TV / Anime
 * [egybest](https://egybest.la/) - Movies / TV / Anime
+* [⁠My Cima](https://my-cima.video/) - Movies / TV
 * [mycima-wecima](https://mycima-wecima.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
