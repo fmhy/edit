@@ -904,6 +904,13 @@
 
 ***
 
+## ▷ Android Video Simulators 
+
+* ⭐ **[Extreme Car Driving Simulator](https://extremcardrivingsimulator.com/)** – Open-world driving simulator
+* ⭐ **[Bus Simulator Indonesia](https://bussimulatorindo.com/)** – Drive Indonesian buses
+    
+***
+
 # ► Android Streaming
 
 * ↪️ **[Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_android_tv)**
