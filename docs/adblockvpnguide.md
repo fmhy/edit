@@ -121,9 +121,9 @@
 
 ## ▷ Site Legitimacy Check
 
-* **⭐ [URL Void](https://www.urlvoid.com/)**
-* **⭐ [URLScan](https://urlscan.io/)**
-* **⭐ [Trend Micro](https://global.sitesafety.trendmicro.com/)**
+* ⭐ **[URL Void](https://www.urlvoid.com/)**
+* ⭐ **[URLScan](https://urlscan.io/)**
+* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
 * [ScamAdviser](https://www.scamadviser.com/)
 * [IsLegitSite](https://www.islegitsite.com/)
 * [ZScaler](https://zulu.zscaler.com/)

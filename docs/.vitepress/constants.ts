@@ -306,7 +306,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       meta.build.nsfw
         ? {
             text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-            link: 'https://rentry.co/NSFW-Checkpoint'
+            link: 'https://rentry.org/NSFW-Checkpoint'
           }
         : {},
       {

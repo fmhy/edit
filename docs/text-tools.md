@@ -67,7 +67,8 @@
 
 ***
 
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**, **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb), [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api) - Translation Sites
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**
+* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
@@ -84,6 +85,8 @@
 * [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
+* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate)
+* [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api)
 * [⁠Qwen3-MT-Demo](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo)
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
@@ -101,6 +104,7 @@
 * [Translator.eu](https://www.translator.eu/)
 * [Textractor](https://github.com/Artikash/Textractor) - Game / Visual Novel Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Sign Language
+* [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Convert Text to Braille
 
 ***
 
