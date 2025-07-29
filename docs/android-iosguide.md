@@ -56,7 +56,7 @@
 
 ## ▷ FOSS APKs
 
-* 🌐 **[AAA](https://github.com/Psyhackological/AAA)**, [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[Android FOSS](https://github.com/offa/android-foss)**, [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [AAA](https://github.com/Psyhackological/AAA) - FOSS App Indexes
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** or [Goodwy](https://github.com/Goodwy?tab=repositories) - Simple FOSS Apps
 * ⭐ **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS App Installer
