@@ -686,7 +686,7 @@
 * [Chrome Mask](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) - Use Chrome-Only Sites on Firefox / [GitHub](https://github.com/denschub/chrome-mask)
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes / Increase Browser Audio
-* [Read Aloud](https://readaloud.app/) - Text to Speech
+* [Read Aloud](https://readaloud.app/) - Text to Speech / [Discord](https://readaloudai.com/discord)
 * [Firefox Stats](https://firefox-stats.com/) - Compare / Analyze Firefox Extensions
 * [PWAsForFirefox](https://pwasforfirefox.filips.si) - Install Progressive Web Apps
 
