@@ -1475,6 +1475,7 @@
 * [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/) or [8values](https://8values.github.io/) - Political Alignment Test
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [Face Shape Detectors](https://www.faceshapedetectors.org/) - Face Shape Detectors
+* [FaceAuraAI Face Shape Detector](https://faceauraai.com/ai-tools/face-shape-detector) – Analyze your facial structure and get personalized style tips.
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
