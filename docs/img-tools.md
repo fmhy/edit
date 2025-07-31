@@ -735,6 +735,7 @@
 * [Lychee](https://lycheeorg.github.io/)
 * [Photoprism](https://github.com/photoprism/photoprism)
 * [Photoview](https://github.com/photoview/photoview)
+* [Ente](https://help.ente.io/self-hosting/)
 * [Photonix](https://photonix.org/)
 * [photos](https://github.com/nextcloud/photos/)
 * [imagestore](https://github.com/gregordr/imagestore)
