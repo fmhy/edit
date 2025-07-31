@@ -58,6 +58,7 @@
 
 * ⭐ **[DistroChooser](https://distrochooser.de/)**
 * ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions) - List of linux distributions
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [ArchiveOS](https://archiveos.org/)
