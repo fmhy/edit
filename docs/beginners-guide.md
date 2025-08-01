@@ -64,7 +64,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Gaming
 
-* **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
+* **Download / Torrent: [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**

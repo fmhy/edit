@@ -88,7 +88,6 @@
 * ⭐ **[Retro eXo](https://www.retro-exo.com/)** - Abandonware / Retro PC Games / Torrents
 * ⭐ **[Zombs-Lair](https://www.zombs-lair.com/)** - Abandonware
 * ⭐ **[VETUSWARE](https://vetusware.com/category/Games/)** - Abandonware
-* ⭐ **[Magipack](https://www.magipack.games)** - Abandonware
 * ⭐ **[CollectionChamber](https://collectionchamber.blogspot.com/)** - Abandonware
 * ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
 * [File Hunter](https://www.file-hunter.com/) - MSX Games
@@ -96,6 +95,7 @@
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
+* [Magipack](https://rentry.co/FMHYBase64#magipack) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
