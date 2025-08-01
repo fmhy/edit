@@ -833,7 +833,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunityz.info/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunityz.info/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [Altadefinizione](https://altadefinizionegratis.life/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub

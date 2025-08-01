@@ -433,19 +433,20 @@
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)** / [GitHub](https://github.com/TrackerControl/tracker-control-android), [Permission Pilot](https://github.com/d4rken-org/permission-pilot) or [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Managers
-* ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
-* ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
-* ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet), [Tarnhelm](https://github.com/lz233/Tarnhelm) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
+* ⭐ **[TrackerControl](https://trackercontrol.org/)** - Tracker Monitor / Controller / [GitHub](https://github.com/TrackerControl/tracker-control-android)
+* ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)**, [VirusTotal](https://docs.virustotal.com/docs/mobile-apps) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
+* ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Clients
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md) or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
+* ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://github.com/Gedsh/InviZible?tab=readme-ov-file#invizible-pro) - Privacy Managers
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
 * [Ceno Browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
-* [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Docs](https://wgtunnel.com/docs/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
+* [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
+* [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
 * [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oblivion-translate)
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides

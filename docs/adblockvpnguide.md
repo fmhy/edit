@@ -379,13 +379,12 @@
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[VPN Binding Guide](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** - Bind VPN to Torrent Client to Avoid ISP Letters
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
+* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
 * ⭐ **[Tailscale](https://tailscale.com/)** or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [⁠Nebula](https://github.com/slackhq/nebula) or [⁠Headscale](https://github.com/juanfont/headscale) - Self-Hosted Secure Network VPN
 * [WGDashboard](https://wgdashboard.dev/) - WireGuard and Amnezia Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard) / [Subreddit](https://www.reddit.com/r/WGDashboard/)
 * [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - VPN Tunnel / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
 * [OpenVPN](https://openvpn.net/) - VPN Tunnel
-* [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - VPN Tunnel / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
 * [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnel
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
 * [VpnHood](https://github.com/vpnhood/VpnHood), [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/) - Self-Hosted VPNs

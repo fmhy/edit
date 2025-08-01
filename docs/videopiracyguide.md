@@ -53,9 +53,9 @@
 * [HydraHD](https://hydrahd.sh/) - Movies / TV / Anime / [Status](https://hydrahd.info/)
 * [Maxflix](https://maxflix.top/) - Movies / TV / Anime
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
+* [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
 * [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
-* [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next
 * [Purplix](https://neoxa.transdev.pw/), [2](https://purplix.transdev.pw/), [3]( https://tv.starnode.host/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [Wooflix](https://www.wooflixtv.co/) - Movies / TV / Anime
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)

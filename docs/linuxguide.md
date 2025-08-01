@@ -326,7 +326,6 @@
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
-* [wireguird](https://github.com/UnnoTed/wireguird) - WireGuard GTK GUI
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
