@@ -19,7 +19,7 @@
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up / [Discord](https://discord.com/invite/go-copilot)
-* ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) or [Qwen3-Demo](https://huggingface.co/spaces/Qwen/Qwen3-Demo) - Alibaba's Chatbots / Qwen3-235B-A22B-Instruct-2507 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen](https://qwen.ai/home)** / [Chat](https://chat.qwen.ai/) - Alibaba's Chatbots / Qwen3-235B-A22B-Instruct-2507 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [⁠ISH](https://ish.junioralive.in/) - o1 / Grok 3 / DeepSeek R1 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
@@ -43,7 +43,6 @@
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot 
 * [⁠Ai2 Playground](https://playground.allenai.org/) - OLMo 2 Chatbot / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
-* [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [Electron Hub](https://www.electronhub.ai/) - Deepseek-R1 / o3-Mini-High / Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
@@ -135,10 +134,7 @@
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Sign-Up / [Discord](https://discord.gg/getpieces)
 * ⭐ **[zed](https://zed.dev/)** - Collaborative Coding AI / [GitHub](https://github.com/zed-industries/zed)
-* [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations / No Sign-Up
-* [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
-* [Telosys](https://www.telosys.org/) - Code Generator / No Sign-Up / [Source Code](https://www.telosys.org/sources.html)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
 * [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI 
 * [imgcook](https://imgcook.com) - Coding AI / No Sign-Up / [GitHub](https://github.com/imgcook/imgcook)
@@ -160,7 +156,6 @@
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Fragments](https://fragments.e2b.dev/) - AI App Builder / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev)
 * [⁠Rork](https://rork.com/) - AI App Builder [Code Export Bypass](https://greasyfork.org/en/scripts/538090)
-* [Composio](https://composio.dev/) - Add Tools to Coding AI / [Discord](https://discord.com/invite/cNruWaAhQk) / [GitHub](https://github.com/ComposioHQ/composio)
 
 ***
 
@@ -393,18 +388,10 @@
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)
 * [Udio](https://www.udio.com/) / [Discord](https://discord.gg/udio)
-* [audio visual generator](https://fredericbriolet.com/avg/) / No Sign-Up
-* [Fake Music Generator](https://www.fakemusicgenerator.com/) / No Sign-Up
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [GitHub](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md)
 * [Sonauto](https://sonauto.ai/) / [Discord](https://discord.gg/pfXar3ChH8)
-* [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM)
-* [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
-* [SOUNDRAW](https://soundraw.io/) / No Sign-Up
-* [Mubert](https://mubert.com/)
-* [AIVA](https://aiva.ai/) / [Discord](https://discordapp.com/invite/ypDnFXN)
-* [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
+* [SOUNDRAW](https://soundraw.io/), [Mubert](https://mubert.com/), [AIVA](https://aiva.ai/) / [Discord](https://discordapp.com/invite/ypDnFXN), [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp) or [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM) - Royalty-Free Background Music
 * [Melobytes](https://melobytes.com/en)
-* [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up
 * [Eapy](https://home.eapy.io/) - MIDI Sample Generator
 * [Pack Generator](https://output.com/products/pack-generator) - Sample Pack Generator
 * [MMAudio](https://hkchengrex.com/MMAudio/) - Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)
@@ -418,18 +405,10 @@
 * [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/uberduck-768215836665446480)
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
 * [ElevenLabs](https://elevenlabs.io/) / No Sign-Up / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
-* [ttsMP3](https://ttsmp3.com/) / No Sign-Up
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
-* [Luvvoice](https://luvvoice.com/) / No Sign-Up
-* [TTSMaker](https://ttsmaker.com/) / No Sign-Up
 * [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) / No Sign-Up
 * [Bark](https://huggingface.co/spaces/suno/bark) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [TTSOpenAI](https://ttsopenai.com/) or [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
-* [AI Speaker](https://ai-speaker.net/) / No Sign-Up
-* [edge-tts](https://github.com/rany2/edge-tts) / No Sign-Up / Python Module
-* [IndexTTS](https://github.com/index-tts/index-tts) / No Sign-Up
-* [Voices](https://www.hailuo.ai/audio/)
-* [TextToSpeech.io](https://texttospeech.io/)
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
 * [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro)
@@ -441,14 +420,11 @@
 * [Fish Audio](https://fish.audio/) / [GitHub](https://github.com/fishaudio)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Sign-Up / [Colab](https://colab.research.google.com/github/gitmylo/audio-webui/blob/master/audio_webui_colab.ipynb) / [Discord](https://discord.gg/NB86C3Szkg)
 * [VanillaVoice](https://www.vanillavoice.com/) / No Sign-Up
-* [TTSFree](https://ttsfree.com/) / No Sign-Up
 * [LOVO](https://lovo.ai/) / [Discord](https://discord.gg/vWHw5ZKEmk)
 * [SoundofText](https://soundoftext.com/) / No Sign-Up
 * [FreeTTS](https://freetts.com/)
 * [Hume](https://www.hume.ai/) / No Sign-Up
-* [Voicemaker](https://voicemaker.in/) / No Sign-Up
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
-* [TTS](https://github.com/coqui-ai/tts) / [Discord](https://discord.gg/5eXr5seRrv)
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing)
 
 ***

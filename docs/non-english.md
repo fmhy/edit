@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - This section can be used to get movies, music, books, courses, etc. but for anything you install, like games, software, or APKs, it's highly recommended to use the English sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind that you can always change the language in the installers.
+* **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus).
 
 ***
 
