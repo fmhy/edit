@@ -833,7 +833,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streaming-community.bio/) - Movies / TV
+* [StreamingCommunity](https://streamingcommunityz.info/) - Movies / TV
 * [Altadefinizione](https://altadefinizionegratis.life/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
