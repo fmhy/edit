@@ -1,7 +1,7 @@
 # Contribute Guide
 
 > [!INFO] NOTE
-> Some of these steps are easier if you're in our [Discord](https://rentry.co/fmhy-invite). It opens every Friday.
+> Some of these steps are easier if you're in our [Discord](https://pastebin.com/raw/n9BfTkjU). It opens every Friday.
 
 Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this: 
 
@@ -13,7 +13,7 @@ Here you'll find some general guidelines for those who would like to start contr
 ## Submissions
 
 > [!INFO] NOTE
-> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://rentry.co/fmhy-invite) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://pastebin.com/raw/n9BfTkjU) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
 **Don't submit any of the following:**
 
@@ -33,7 +33,7 @@ Here you'll find some general guidelines for those who would like to start contr
 For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
-- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
+- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://pastebin.com/raw/n9BfTkjU).
 - You can optionally include socials, tools, or any other additional info alongside the entry.
 - Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
 
@@ -50,7 +50,7 @@ For changes to existing entries, follow these steps:
 
 ### Link Testing
 
-All additions have to first go through our testing process on [Discord](https://rentry.co/fmhy-invite).
+All additions have to first go through our testing process on [Discord](https://pastebin.com/raw/n9BfTkjU).
 
 You can help us test new sites to figure out their use-case, safety, and whether they'd be a good fit for the wiki.
 
@@ -62,7 +62,7 @@ The wiki will always have some variation either due to exceptions being made, th
 
 For these reasons, there are too many conditions and nuances to satisfy to make an easy-to-follow guide. However, you can generally get an idea by looking at how existing links are structured.
 
-If you're unsure, ask in the wiki channels on [Discord](https://rentry.co/fmhy-invite) and wait for a staff member to reply.
+If you're unsure, ask in the wiki channels on [Discord](https://pastebin.com/raw/n9BfTkjU) and wait for a staff member to reply.
 
 ## Making Changes
 
