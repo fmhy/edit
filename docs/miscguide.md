@@ -764,31 +764,13 @@
 
 ## ▷ Resume / Portfolio
 
-* ⭐ **[RX Resume](https://rxresu.me/)** - Resume Maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
-* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
+* ⭐ **[RX Resume](https://rxresu.me/)  / [GitHub](https://github.com/amruthpillai/reactive-resume)**, [FlowCV](https://flowcv.com/) or [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) - Resume Builders
+* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** - Resume Samples
+* [ResumGO](https://www.resumgo.com/) - Resume Templates
+* [⁠YAMLResume](https://yamlresume.dev/)  / [GitHub](https://github.com/yamlresume/yamlresume) or [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv) - YAML Based Resume Builders
+* [IntelligentCV](https://www.intelligentcv.app/) - Resume Builder Mobile App
 * [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
-* [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
-* [CoFolios](https://cofolios.com/) - Portfolio Sharing
-* [⁠YAMLResume](https://yamlresume.dev/) - YAML-Based / [GitHub](https://github.com/yamlresume/yamlresume)
-* [RenderCV](https://rendercv.com/) - YAML-Based / [GitHub](https://github.com/rendercv/rendercv)
-* [Resume Builder](https://resume.haveloc.com/)
-* [ResumeMatcher](https://www.resumematcher.fyi/)
-* [⁠HeyCV](https://heycv.app/)
-* [resumonk](https://www.resumonk.com/)
-* [Resuminator](https://www.resuminator.in/)
-* [flowcv](https://flowcv.com/)
-* [Resumake](https://resumake.io/) / [GitHub](https://github.com/saadq/resumake.io)
-* [resume-nation](https://resume-nation.github.io/)
-* [sajilocv](https://sajilocv.com/)
-* [GotResumeBuilder](https://www.gotresumebuilder.com/)
-* [Resume.com](https://www.resume.com/)
-* [CvResumeNest](https://cvresumenest.com/)
-* [intelligentcv](https://www.intelligentcv.app/)
-* [resumgo](https://www.resumgo.com/)
-* [resumake](https://latexresu.me/)
-* [open-resume](https://www.open-resume.com/)
-* [novoresume](https://novoresume.com/)
-* [ResumeFromSpace](https://resumefromspace.com/)
+* [CoFolios](https://cofolios.com/) - Portfolio Samples
 
 ***
 
