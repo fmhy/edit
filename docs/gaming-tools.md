@@ -335,7 +335,6 @@
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
 * [Wallpaper EngineWorkshop Downloader](https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
-* [ggntw](https://ggntw.com/steam) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
 ***

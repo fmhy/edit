@@ -344,7 +344,6 @@
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
 * [SwitchROM](https://switchrom.net/) - ROMs / Switch
 * [SwitchROM.io](https://switchrom.io/) - ROMs / Switch
-* [Egg NS](https://eggnsemulator.com/nintendo-switch-roms) - ROMs / Switch / **ROMS Only, Emulator Isn't Recommended**
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
 * [SM64ROMHacks](https://rentry.co/FMHYBase64#sm64romhacks) - Super Mario 64 Mods / [Discord](https://discord.com/invite/BYrpMBG)
