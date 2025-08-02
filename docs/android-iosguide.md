@@ -882,7 +882,7 @@
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
 * [Pool Suite](https://play.google.com/store/apps/details?id=net.poolsuite.mobile) - Summer Radio
-* [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - K-Pop Radio
+* [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - J-Pop / K-Pop Radio
 
 ***
 

@@ -1014,7 +1014,7 @@
 * [PSPrices](https://psprices.com/) / [Discord](https://discord.com/invite/hN57zh8Ey2)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [AppAgg](https://appagg.com/) / [Discord](https://discord.gg/XUhs6fcFqQ), [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) or [AppAgg](https://appagg.com/) / [Discord](https://discord.gg/XUhs6fcFqQ) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) or [XB Deals](https://xbdeals.net/) - Game Price Trackers
 
 ***
