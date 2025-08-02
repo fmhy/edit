@@ -655,10 +655,10 @@
 
 ## ▷ Streaming
 
-* [moviedrive](https://moviedrive.hu/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [moviedrive](https://moviedrive.hu/) - Movies / TV / Sub / Dub / 1080p [Discord](https://discord.com/invite/blackfire)
+* [hdmozi](https://hdmozi.hu/) - Movies / TV / Sub / Dub / 1080p [Facebook Group](https://www.facebook.com/groups/3325147607704979)
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
-* [filminvazio](https://filminvazio.cc/) - Movies / TV 
 * [filmezek](https://filmezek.com/) - Movies
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
 * [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/blackfire)
