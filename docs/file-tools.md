@@ -223,6 +223,7 @@
 * [SimplePDF](https://simplepdf.com/)
 * [DPDF](https://dpdf.com/)
 * [Digiparser](https://www.digiparser.com/free-tools/pdf)
+* [FileTools](https://filetools.site/en/pdf-tools)
 
 ***
 
