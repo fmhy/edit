@@ -759,6 +759,7 @@
 * [lookimg](https://lookimg.com/) - 20MB / Forever / Sign-Up Required
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Sign-Up Required
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
+* [Ente](https://ente.io/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Sign-Up Required
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
