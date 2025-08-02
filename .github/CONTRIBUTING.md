@@ -33,9 +33,8 @@ Here you'll find some general guidelines for those who would like to start contr
 For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
-- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://rentry.co/fmhy-invite).
 - You can optionally include socials, tools, or any other additional info alongside the entry.
-- Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
 
 ### Reporting a Site
 
@@ -44,7 +43,7 @@ For submitting new links, follow these steps:
 
 For changes to existing entries, follow these steps:
 
-- Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://rentry.co/fmhy-invite).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
 - If you'd like to report a site removal or star change, you must include details as to why your changes should be accepted.
 
