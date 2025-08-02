@@ -265,6 +265,7 @@
 * ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFPs / Avatars
 * ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
+* [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
@@ -553,10 +554,11 @@
 
 ## ▷ 3D Modeling Tools
 
+* [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
 * [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
-* [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
+* [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
@@ -734,6 +736,7 @@
 * [Lychee](https://lycheeorg.github.io/)
 * [Photoprism](https://github.com/photoprism/photoprism)
 * [Photoview](https://github.com/photoview/photoview)
+* [Ente](https://help.ente.io/self-hosting/)
 * [Photonix](https://photonix.org/)
 * [photos](https://github.com/nextcloud/photos/)
 * [imagestore](https://github.com/gregordr/imagestore)
@@ -745,7 +748,7 @@
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
-* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
 * [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
 * [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
@@ -803,7 +806,7 @@
 * [ScreenshotX](https://screenshotx.com/)
 * [⁠Pilko](https://pilko.studio/) - Video Frame Capture Tool 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
-* [Pika](https://pika.style/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/), [OnPaste](https://onpaste.com/), [Screenstab](https://screenstab.com/editor/) or [Limus](https://limus.netlify.app/) - Screenshot Editors / Mockups
+* [Moocup](https://moocup.jaydip.me/) -  Screenshot Editor / Mockups
 * [Screenshot Guru](https://screenshot.guru/), [Site-Shot](https://www.site-shot.com/) or [Pikwy](https://pikwy.com/) - Take Screenshots of Websites
 * [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks) - Create Screenshot Mockups of Websites
 * [paste.photos](https://www.paste.photos/) - Paste Image to Download

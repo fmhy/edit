@@ -216,7 +216,7 @@
 * [Audacious](https://audacious-media-player.org/) - Audio Player / [GitHub](https://github.com/audacious-media-player)
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
 * [Fooyin](https://www.fooyin.org/) - Audio Player / [GitHub](https://github.com/fooyin/fooyin)
-* [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
+* [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Audio Clients
 * [MOC](http://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
@@ -268,7 +268,7 @@
 * ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
-* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
+* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) -Linux Game Launcher Compatibility Managers 
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
@@ -326,7 +326,6 @@
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
-* [wireguird](https://github.com/UnnoTed/wireguird) - WireGuard GTK GUI
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
@@ -615,7 +614,6 @@
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers
 * [AppsTorrent](https://appstorrent.ru/)
-* [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
 * [Mac App Store](https://macappstre.com/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)

@@ -61,6 +61,7 @@
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10
+* [⁠AppGroup](https://github.com/iandiv/AppGroup) - Create Taskbar App Groups / Folders
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows / [Scan Note](https://github.com/QL-Win/QuickLook/issues/1576#issuecomment-2816980688)
@@ -107,7 +108,7 @@
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing

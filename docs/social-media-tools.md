@@ -89,7 +89,7 @@
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/overlayeddev/overlayed)
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
-* [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
+* [Auto Creavite](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [Discord Decorations](https://discord-decorations.vercel.app/) - Free Discord Avatar Decorations
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Discord Avatar Creator
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
@@ -551,7 +551,7 @@
 ## ▷ Twitter/X Archiving
 
 * [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
-* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloader
+* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest), [⁠twmd](https://github.com/mmpx12/twitter-media-downloader) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloaders
 * [GetVideoBot](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [Pikaso](https://x.com/pikaso_me) - Twitter Screenshot Bot
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive

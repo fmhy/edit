@@ -335,7 +335,6 @@
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
 * [Wallpaper EngineWorkshop Downloader](https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
-* [ggntw](https://ggntw.com/steam) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
 ***
@@ -359,7 +358,7 @@
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
 * [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
-* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
+* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Fixes
 
 ***
 
@@ -369,6 +368,7 @@
 * 🌐 **[⁠CoD All](https://gitlab.com/xifil/cod-all)** - CoD Multiplayer Mod Index
 * ⭐ **[Plutonium](https://plutonium.pw/)** - COD BO1/BO2, MW3 and WaW Multiplayer Client / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
+* [Ezz-BOIII](https://rentry.co/FMHYBase64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4)
@@ -452,7 +452,7 @@
 
 ## ▷ Switch Homebrew
 
-* ↪️ **[Switch Homebrew Guides](https://rentry.co/FMHYBase64#switch-homebrew-guides)**
+* ⭐ **[Switch Homebrew Guides](https://rentry.co/FMHYBase64#switch-homebrew-guides)**
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
@@ -467,14 +467,14 @@
 
 ## ▷ Wii U / Wii Homebrew
 
-* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
-* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
+* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
+* ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [Discord](https://discord.gg/wiilink) / [X](https://x.com/WiiLink24) / [GitHub](https://github.com/WiiLink24)
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
-* [WiiLink](https://wiilink.ca/) - Wii Channel Restoration / [Server](https://wfc.wiilink24.com/) / [Discord](https://discord.gg/wiilink) / [GitHub](https://github.com/WiiLink24)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
@@ -496,8 +496,6 @@
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
-* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
 
@@ -533,6 +531,7 @@
 
 * 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Steam Deck Guide](https://main.steamdeck.guide/), [2](https://steamdeck.guide/) - Steam Deck Guide / Resources / [GitHub](https://github.com/NKkrisz/Steam-Deck-Guide)
 * [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller

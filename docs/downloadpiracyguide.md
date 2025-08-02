@@ -16,7 +16,6 @@
 * [eMule Plus](https://www.emule-project.com/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
-* [dedigger](https://www.dedigger.com/) - Google Drive File Search
 * [lumpysoft](https://lumpysoft.com/) - Search String Builder
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
@@ -80,7 +79,6 @@
 * [Meawfy](https://meawfy.com/) - Mega, GoFile and MediaFire Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
-* [filesearch.link](https://filesearch.link/)
 * [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine

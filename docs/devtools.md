@@ -53,7 +53,7 @@
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/), [SPDX License List](https://spdx.org/licenses/) or [ChooseALicense](https://choosealicense.com/) - License Picking Guides / Lists
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - Generate Privacy Policies
-* [Eternal Terminal](https://eternalterminal.dev/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
+* [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -152,12 +152,15 @@
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
+* [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) or [⁠ChromeXt](https://github.com/JingMatrix/ChromeXt) - Add Dev Tools / Inspect Element to Mobile Browsers
 * [namae](https://namae.dev/) - App Name Availability Check
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
 * [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
+* [ConnectBot](https://connectbot.org/) - Android SSH Client
+* [⁠APKEditor](https://github.com/REAndroid/APKEditor) or [Apktool M](https://maximoff.su/apktool/?lang=en) - APK Editing / Merging
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [⁠CS Android](https://cs.android.com/) - Android Code Search
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
@@ -386,7 +389,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [LLM Text Complation](https://github.com/molbal/llm-text-completion-finetune) or [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Completion
+* [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Completion / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
@@ -980,7 +983,7 @@
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
-* [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
+* [⁠ADG](https://www.accessibility-developer-guide.com/) / [GitHub](https://github.com/Access4all/adg), [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
@@ -1253,6 +1256,7 @@
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
+* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engeineering
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code

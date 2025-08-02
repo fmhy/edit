@@ -225,7 +225,6 @@
 
 ## ▷ Music
 
-* 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
@@ -505,6 +504,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
+* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * [Wolfram MathWorld](https://mathworld.wolfram.com/), [Encyclopedia Of Math](https://encyclopediaofmath.org/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Mathcha](https://www.mathcha.io/), [Corca](https://corca.app/) or [Math Editor](https://math-editor.online/) - Online Math Editors
@@ -788,7 +788,7 @@
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
-* ⭐ **[Animelon](https://animelon.com/)**, [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
+* [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Minato](https://minato-jf.jp/) - Japanese Courses
@@ -1025,7 +1025,7 @@
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
-* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
+* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem](https://files.catbox.moe/b34jd4.pdf) - Machine Learning Problem-Solving Book
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
 * [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
@@ -1039,9 +1039,8 @@
 ## ► Coding Tutorials
 
 * 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)**  - Project Based Learning Resources
-* ⭐ **[W3Schools](https://www.w3schools.com/)** - Web Development Tutorials / [Discord](https://discord.com/invite/w3schools) / [Offline Version](https://github.com/Ja7ad/W3Schools) 
 * ⭐ **[Build your own X](https://codecrafters.io)** - Advanced Coding Tutorials / [GitHub](https://github.com/codecrafters-io/build-your-own-x) / [Discord](https://discord.gg/DeqUD2P)
-* ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
+* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [GeeksforGeeks](https://www.geeksforgeeks.org/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
 * [Guru99](https://www.guru99.com/) - Software / Web Development
 * [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
 * [calmcode](https://calmcode.io/) - Video Tutorials
@@ -1290,7 +1289,7 @@
 * [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
-* [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
+* [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu), [snow.day](https://www.snow.day/) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings

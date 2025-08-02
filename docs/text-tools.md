@@ -43,7 +43,7 @@
 * [dpaste](https://dpaste.org/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/DarrenOfficial/dpaste)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
 * [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
-* [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support / [Source Code](https://git.fuwafuwa.moe/lesderid/pastethingy)
+* [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
@@ -386,7 +386,6 @@
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
-* [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [STARC](https://starc.app/), [WriteSolo](https://www.writersolo.com/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
@@ -460,7 +459,7 @@
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
 * [Bunny Fonts](https://fonts.bunny.net/) - Open Source
-* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Tags](https://goofonts.com/) / [Privacy-Friendly API](https://fonts.coollabs.io/)
+* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
 * [Fontsly](https://fontsly.com/) - Freeware
@@ -515,7 +514,6 @@
 * [Fonts Ninja](https://fonts.ninja/tools) or [WhatFont](https://whatfonttool.com/) - Font Identification Extensions
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
-* [TypeRip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
 * [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Linux Font Manager](https://github.com/FontManager/font-manager) - Font Managers
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Typography Tools
 * [DS-Fusion](https://ds-fusion.github.io/) - AI Typography Generator

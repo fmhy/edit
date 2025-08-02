@@ -312,7 +312,7 @@
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
 * [Open Bulk URL](https://openbulkurl.com/), [Open URL](https://openurl.online/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
 * [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
-* [scrt.link](https://scrt.link/), [Br3f](https://www.br3f.com/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
+* [scrt.link](https://scrt.link/) or [Temporary URL](https://www.temporary-url.com/) - Temporary Single-Use Links
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - File Host Link Auto-Check
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [IndexKings](http://www.indexkings.com/) - URL Indexer
@@ -676,6 +676,7 @@
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Bookmark Cleanup
+* [Bookmark Batch-Updater](https://addons.mozilla.org/en-US/firefox/addon/bookmark-batch-updater/) - Modify Properties of Multiple Bookmarks
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs / [GitHub](https://github.com/cadeyrn/newtaboverride)
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
@@ -686,7 +687,7 @@
 * [Chrome Mask](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) - Use Chrome-Only Sites on Firefox / [GitHub](https://github.com/denschub/chrome-mask)
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes / Increase Browser Audio
-* [Read Aloud](https://readaloud.app/) - Text to Speech
+* [Read Aloud](https://readaloud.app/) - Text to Speech / [Discord](https://readaloudai.com/discord)
 * [Firefox Stats](https://firefox-stats.com/) - Compare / Analyze Firefox Extensions
 * [PWAsForFirefox](https://pwasforfirefox.filips.si) - Install Progressive Web Apps
 
