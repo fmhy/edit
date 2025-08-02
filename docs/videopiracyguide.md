@@ -537,6 +537,7 @@
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
+* [⁠MuTube](https://github.com/Exaphis/mutube) - Ad-free Apple TV YouTube + SponsorBlock  
 * [Playlet](https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet) - Ad-Free YouTube Roku Client / [GitHub](https://github.com/iBicha/playlet)
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
@@ -562,6 +563,7 @@
 * [](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)  / [Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [GitHub](https://github.com/spocky/miproja1/releases) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 * [⁠AerialViews](https://github.com/theothernt/AerialViews) - Custom Screensaver App
+
 
 ***
 

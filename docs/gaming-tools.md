@@ -467,14 +467,14 @@
 
 ## ▷ Wii U / Wii Homebrew
 
-* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
-* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
+* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
+* ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [Discord](https://discord.gg/wiilink) / [GitHub](https://github.com/WiiLink24)
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink2) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
-* [WiiLink](https://wiilink.ca/) - Wii Channel Restoration / [Server](https://wfc.wiilink24.com/) / [Discord](https://discord.gg/wiilink) / [GitHub](https://github.com/WiiLink24)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
@@ -496,8 +496,6 @@
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
-* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
 

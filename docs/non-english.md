@@ -187,7 +187,6 @@
 
 ## ▷ Downloading / 下载
 
-* [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
 * [AnimeNep](https://t.me/AnimeNep) - Anime
 * [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
@@ -314,7 +313,6 @@
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://godamh.com/) - Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
-* [8comic](https://www.8comic.co) - Manga
 * [tvbsmh](https://www.tvbsmh.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [colamanga](https://www.colamanga.com/) - Manga
@@ -484,10 +482,8 @@
 * [molotov.tv](https://www.molotov.tv/) - Live TV
 * [LeFoot](https://lefoot.ru/) - Live Sports
 * [oohquelbut](https://oohquelbut.ru/) - Live Sports
-* [canalsport](https://canalsport.ru/) - Live Sports
 * [JokerTV](https://jokertv.ru/) - Live Football
 * [remontadatv](https://remontadatv.ru/) - Live Football
-* [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p 
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 * [Grafikart](https://grafikart.fr/) - Programming Courses
@@ -850,7 +846,6 @@
 ## ▷ Reading / Leggere
 
 * [LiberLiber](https://liberliber.it/opere/libri/) - Books
-* [MangaWorld](https://www.mangaworld.nz/) - Manga
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 * [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
@@ -920,7 +915,6 @@
 * [A-zmanga](https://www.a-zmanga.net/) - Manga
 * [AsianMediaBlog Manga](https://asiamediablog.com/media/comic/manga/) - Manga
 * [Comic77.com](https://comic77.com/) - Manga
-* [MangaSuika](https://www.mangasuika.com/) - Manga
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [LManga](https://www.lmanga.com/) - Manga
@@ -1834,7 +1828,6 @@
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [chuyenphim18](https://chuyenphim18.site/) - Movies / TV / Anime / Sub / 720p
 * [kkphim](https://kkphim.com/), [2](https://phim.nguonc.com/), [3](https://ophim.movie/) / Movies / TV / Anime / [Ad Script](https://github.com/Hth4nh/PureMovies)
-* [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation / Sub / 1080p
 * [phim.in](https://phim.in.net/) - Anime / Movies / TV / Chinese Animation / Sub / Dub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p

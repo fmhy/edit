@@ -216,7 +216,7 @@
 * [Audacious](https://audacious-media-player.org/) - Audio Player / [GitHub](https://github.com/audacious-media-player)
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
 * [Fooyin](https://www.fooyin.org/) - Audio Player / [GitHub](https://github.com/fooyin/fooyin)
-* [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
+* [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Audio Clients
 * [MOC](http://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players

@@ -109,10 +109,10 @@
 
 * ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - Find Free or Reduced-Cost Resources / US Only
 * [⁠Single Mother Guide](https://singlemotherguide.com/) - Single Mother Government Benefits Guide / US Only
+* [Be My Eyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
 * [/r/Assistance](https://www.reddit.com/r/Assistance/) or [/r/borrow](https://www.reddit.com/r/borrow/) - Assistance / Donation Subreddits
 * [/r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
 * [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
-* [BeMyEyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
 * [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
@@ -459,7 +459,7 @@
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
-* ⭐ **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** - Breaking News
+* ⭐ **[Current Events Wiki](https://en.wikipedia.org/wiki/Portal:Current_events)** - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [News as Facts](https://newsasfacts.com/) - Wiki-Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
@@ -1014,7 +1014,7 @@
 * [PSPrices](https://psprices.com/) / [Discord](https://discord.com/invite/hN57zh8Ey2)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) or [AppGG](https://appagg.com/) / [Discord](https://discord.gg/PpKgSCQr) - Switch Game Price Trackers
+* [AppAgg](https://appagg.com/) / [Discord](https://discord.gg/XUhs6fcFqQ), [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) or [XB Deals](https://xbdeals.net/) - Game Price Trackers
 
 ***
@@ -1510,6 +1510,7 @@
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
+* [LinkRoll](https://satyrs.eu/linkroll) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
 * [Sharkle!](https://sharkle.com/) - Find Random Sites
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
