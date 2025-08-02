@@ -57,18 +57,18 @@
 ## ▷ Archiving / Compression
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver
-* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver / [GitHub](https://github.com/peazip/PeaZip/)
-* ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
+* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver / Windows
+* ⭐ **[PeaZip](https://peazip.github.io/)** - File Archiver / Windows, Mac, Linux / [GitHub](https://github.com/peazip/PeaZip/)
+* ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression / Windows
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
-* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
+* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / Windows / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
 * [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
-* [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
+* [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / Windows / [GitHub](https://github.com/activescott/lessmsi)
 
 ***
 
