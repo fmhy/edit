@@ -726,10 +726,10 @@
 
 ***
 
-## ▷ Self-Hosted Galleries
+## ▷ Offline Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-* [Immich](https://immich.app/) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
@@ -747,10 +747,6 @@
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
-* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
-* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
-* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
-* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
 
@@ -765,6 +761,10 @@
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Sign-Up Required
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
+* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
+* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
+* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
 
 ***
 

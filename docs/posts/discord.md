@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-# Public URL: https://pastebin.com/raw/n9BfTkjU
+# Public URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 ---
 
