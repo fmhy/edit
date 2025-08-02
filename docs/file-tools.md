@@ -37,20 +37,20 @@
 
 ***
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Apps](https://my.jdownloader.org/apps/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
-* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
-* [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
-* [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3) / [GitHub](https://github.com/BrisklyDev/brisk) 
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
-* [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
-* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
-* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
-* [File Centipede](https://filecxx.com/) - Upload / Download Manager
-* [DownThemAll](https://www.downthemall.org/) - Download Management Extension
-* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Apps](https://my.jdownloader.org/apps/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
+* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager / Windows+
+* [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / Windows, Linux / [GitHub](Ws://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
+* [Go Speed](https://gopeed.com/) - Download Manager / Windows, Mac, Linux, Android, iOS / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
+* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / Windows, Mac, Linux / [Discord](https://discord.gg/hGBDWNDHG3) / [GitHub](https://github.com/BrisklyDev/brisk) 
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / Windows, Mac, Linux, Android / [YTDL Addon](https://github.com/meowcateatrat/elephant)
+* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / Windows, Mac, Linux, Android / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
+* [pyLoad](https://pyload.net/) - Lightweight Download Manager / Windows, Mac, Linux / [GitHub](https://github.com/pyload/pyload)
+* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool / Windows, Mac
+* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager / Windows, Mac, Linux
+* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / Windows, Linux
+* [File Centipede](https://filecxx.com/) - Upload / Download Manager / Windows, Linux
+* [DownThemAll](https://www.downthemall.org/) - Download Management Extension / Web
+* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / Windows / [GitHub](https://github.com/erickutcher/httpdownloader)
 
 ***
 
