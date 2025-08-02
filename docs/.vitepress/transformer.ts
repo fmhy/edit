@@ -101,6 +101,15 @@ export const transformGuide = (text: string): string =>
 
 export function transform(text: string): string {
   let _text = text
+    // Remove extra characters
+    .replace(/\/#wiki_/g, '/#')
+    .replace(/#wiki_/g, '/#')
+    .replace(/.25BA_/g, '')
+    .replace(/.25B7_/g, '')
+    .replace(/_?\.2F_?/g, '-')
+    .replace(/_?.26amp.3B_?/g, '-')
+    .replace(/(?<=r\/FREEMEDIA.+)2(?=\))/g, '-1')
+
     // Transform reddit index links
     .replace(
       /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/index\)\*\*\n/gm,
@@ -214,13 +223,6 @@ export function transform(text: string): string {
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/img-tools/g,
       '/img-tools'
     )
-    // Remove extra characters
-    .replace(/\/#wiki_/g, '/#')
-    .replace(/#wiki_/g, '/#')
-    .replace(/.25BA_/g, '')
-    .replace(/.25B7_/g, '')
-    .replace(/_.2F_/g, '-')
-    .replace(/_?.26amp.3B_?/g, '-')
 
   _text = replaceUnderscore(_text)
     .replace(/\/#(\d)/g, '/#_$1') // Prefix headings starting with numbers
@@ -242,23 +244,6 @@ export function transform(text: string): string {
     .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\* \*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
-    // Replace links
-    .replace(
-      /\/storage\/#encode--decode_urls/g,
-      '/storage/#encode--decode-urls'
-    )
-    .replace(/\/devtools\/#machine-learning2/g, '/devtools/#machine-learning-1')
-    .replace(/\/linuxguide#software-sites2/g, '/linuxguide#software-sites-1')
-    .replace(/\/linuxguide#software_sites/g, '/linuxguide#software-sites')
-    .replace(/\/non-english#reading10/g, '/non-english#reading-9')
-    .replace(
-      /\/storage#satellite-.26amp.3B_street_view_maps/g,
-      '/storage#satellite-street-view-maps'
-    )
-    .replace(
-      /(.+?) site or extension\.\n/gm,
-      'Click on the texts to copy them decoded.\n'
-    )
 
   return _text
 }
