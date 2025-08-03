@@ -16,7 +16,7 @@
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
@@ -383,7 +383,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator / [Discord](https://discord.gg/dTCnM2r5e5)
-* [Retro Games.oml](https://www.retrogames.onl/) - Multi-Console Browser Emulator
+* [GAM.ONL](https://gam.onl/), [2](https://www.retrogames.onl/) - Multi-Console Browser Emulator
 * [ClassicGames](https://www.classicgames.me/) - Retro-Console Browser Emulator
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro-Console Browser Emulator
 * [PlayRetroGames](https://www.playretrogames.com/) - Retro-Console Browser Emulator

@@ -132,12 +132,12 @@
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [Discord](https://discord.gg/ESHStjSjD4) / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
-* [Trae](https://www.trae.ai/) - Coding AI
 * [Cursor](https://rentry.co/FMHYBase64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [AI SDK](https://sdk.vercel.ai/) - Coding AI/ [GitHub](https://github.com/vercel/ai)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
+* [Trae](https://www.trae.ai/) - Coding AI / **Warning:** Trae Logs Data Even w/ Telemetry Off
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
 * [Aider](https://aider.chat/) - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)
@@ -402,18 +402,11 @@
 * [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/uberduck-768215836665446480)
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
 * [ElevenLabs](https://elevenlabs.io/) / No Sign-Up / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
-* [ttsMP3](https://ttsmp3.com/) / No Sign-Up
+* [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
-* [Luvvoice](https://luvvoice.com/) / No Sign-Up
-* [TTSMaker](https://ttsmaker.com/) / No Sign-Up
 * [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) / No Sign-Up
 * [Bark](https://huggingface.co/spaces/suno/bark) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [TTSOpenAI](https://ttsopenai.com/) or [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
-* [AI Speaker](https://ai-speaker.net/) / No Sign-Up
-* [edge-tts](https://github.com/rany2/edge-tts) / No Sign-Up / Python Module
-* [IndexTTS](https://github.com/index-tts/index-tts) / No Sign-Up
-* [Voices](https://www.hailuo.ai/audio/)
-* [TextToSpeech.io](https://texttospeech.io/)
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
 * [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro)
@@ -425,14 +418,11 @@
 * [Fish Audio](https://fish.audio/) / [GitHub](https://github.com/fishaudio)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui) / No Sign-Up / [Colab](https://colab.research.google.com/github/gitmylo/audio-webui/blob/master/audio_webui_colab.ipynb) / [Discord](https://discord.gg/NB86C3Szkg)
 * [VanillaVoice](https://www.vanillavoice.com/) / No Sign-Up
-* [TTSFree](https://ttsfree.com/) / No Sign-Up
 * [LOVO](https://lovo.ai/) / [Discord](https://discord.gg/vWHw5ZKEmk)
 * [SoundofText](https://soundoftext.com/) / No Sign-Up
 * [FreeTTS](https://freetts.com/)
 * [Hume](https://www.hume.ai/) / No Sign-Up
-* [Voicemaker](https://voicemaker.in/) / No Sign-Up
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
-* [TTS](https://github.com/coqui-ai/tts) / [Discord](https://discord.gg/5eXr5seRrv)
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing)
 
 ***

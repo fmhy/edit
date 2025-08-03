@@ -471,8 +471,8 @@
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
 * ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
 * ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
-* ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [Discord](https://discord.gg/wiilink) / [X](https://x.com/WiiLink24) / [GitHub](https://github.com/WiiLink24)
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) - Wii Multiplayer Servers
+* ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [GitHub](https://github.com/WiiLink24) / [Discord](https://discord.gg/wiilink) / [X](https://x.com/WiiLink24)
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) / [Discord[(https://discord.gg/wiilink) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
@@ -503,7 +503,7 @@
 
 ## ▷ Playstation Homebrew
 
-* 🌐 **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* ⭐ **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -899,7 +899,7 @@
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) /[GitHub](https://github.com/NotValra/RoValra), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) or [FreeVIPServers](https://freevipservers.net/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes
