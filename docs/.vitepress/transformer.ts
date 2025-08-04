@@ -109,6 +109,7 @@ export function transform(text: string): string {
     .replace(/_?\.2F_?/g, '-')
     .replace(/_?.26amp.3B_?/g, '-')
     .replace(/(?<=r\/FREEMEDIA.+)2(?=\))/g, '-1')
+    .replace(/(?<=r\/FREEMEDIA.+)\.(?=[a-z]+_)/g, '-')
 
     // Transform reddit index links
     .replace(

@@ -132,7 +132,6 @@
 * [AI SDK](https://sdk.vercel.ai/) - Coding AI/ [GitHub](https://github.com/vercel/ai)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
-* [Trae](https://www.trae.ai/) - Coding AI / **Warning:** Trae Logs Data Even w/ Telemetry Off
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
 * [Aider](https://aider.chat/) - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)

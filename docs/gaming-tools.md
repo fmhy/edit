@@ -558,14 +558,15 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
 * [Minecraft Java Servers](https://dankware.onrender.com/minecraft-java-servers) or [Bedrock Servers](https://dankware.onrender.com/minecraft-bedrock-servers) - Server Lists
+* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
+* [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
-* [HueBlocks](https://1280px.github.io/hueblocks-new/), [2](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks-new/)
+* [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
-* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [⁠Note Block Studio](https://noteblock.studio/) - Minecraft Block Composer / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
@@ -611,7 +612,6 @@
 * [GDLauncher](https://gdlauncher.com/) - Launcher
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***
 
