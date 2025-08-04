@@ -56,7 +56,7 @@
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -580,7 +580,6 @@
 
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
-* [Caprine](https://github.com/sindresorhus/caprine) - Facebook Desktop Messenger
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas

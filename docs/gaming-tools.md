@@ -472,7 +472,7 @@
 * ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
 * ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
 * ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [GitHub](https://github.com/WiiLink24) / [Discord](https://discord.gg/wiilink) / [X](https://x.com/WiiLink24)
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) / [Discord[(https://discord.gg/wiilink) - Wii Multiplayer Servers
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) / [Discord](https://discord.gg/wiilink) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
@@ -552,6 +552,7 @@
 * ⭐ **[Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
+* [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
@@ -649,7 +650,7 @@
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * [Amulet](https://www.amuletmc.com/), [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
 * [MineAtlas](http://mineatlas.com/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Minecraft Seeds
-* [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
+* [MinecraftMaps](https://www.minecraftmaps.com/), [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [CTMRepository](https://ctmrepository.com/) - Complete the Monument Maps / [Discord](https://discord.com/invite/G2WVCB3)
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/) - Mapart Schematic / map.dat Generator

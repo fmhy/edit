@@ -27,9 +27,7 @@
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1 Turbo / Baidu's Chatbot
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Discord](https://discord.gg/mistralai)
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
-* [⁠Dots](https://huggingface.co/spaces/rednote-hilab/dots-demo) dots.llm.1 Chatbot / No Sign-Up
-* [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
-* [Pi](https://pi.ai/) - Inflection AI's Chatbot
+* [⁠Dots](https://huggingface.co/spaces/rednote-hilab/dots-demo) - dots.llm.1 Chatbot / No Sign-Up
 * [⁠Ai2 Playground](https://playground.allenai.org/) - OLMo 2 Chatbot / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
 
 ***
@@ -49,10 +47,7 @@
 * [NVIDIA NIM](https://build.nvidia.com/) - Deepseek-R1 / Multiple Chatbots / No Sign-Up
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-4.1
-* [OIChat](https://oi.wr.do/) - Gemini 2.5 Pro / DeepSeek R1 / Qwen QwQ-32B / DeepSeek-V3-0324 / Multiple Chatbots
-* [ChatK](https://chat.oaichat.cc/) or [lobe.wr.do](https://lobe.wr.do/) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
-* [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
-* [Electron Hub](https://www.electronhub.ai/) - Deepseek-R1 / o3-Mini-High / Multiple Chatbots / [Discord](https://discord.com/invite/apUUqbxCBQ)
+* [HiveChat](https://ai.wr.do/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots
 
 ***
 
@@ -160,6 +155,7 @@
 * [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Telegram](https://telegram.me/g4f_channel)
 * [Msty](https://msty.app/) - Download & Run Models Locally / [Discord](https://discord.gg/2QBw6XxkCC)
+* [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Desktop App / [Discord](https://discord.gg/wez8HtpxqQ)
 * [LobeChat](https://lobechat.com/chat) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [Noi](https://noi.nofwl.com/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
 * [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
@@ -356,7 +352,7 @@
 * 🌐 **[Civitai](https://civitai.com/)** - SD Model Index / [Subreddit](https://www.reddit.com/r/civitai/) / [Discord](https://discord.gg/UwX5wKwm6c) / [GitHub](https://github.com/civitai/civitai)
 * 🌐 **[promptoMANIA](https://promptomania.com/)** or [⁠Prompy](https://www.prompy.me/) - Prompt Indexes
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
-* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb)
+* [⁠ImagePromptGuru](https://imagepromptguru.net/) or [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb) - Determine Likely Used Image Prompts 
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Extension for Automatic1111
 * [AI Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)
 * [IOPaint](https://www.iopaint.com/) - Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing) / [GitHub](https://github.com/Sanster/IOPaint)

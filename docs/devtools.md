@@ -786,6 +786,7 @@
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
+* [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Managment Systems
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
 * [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
@@ -803,8 +804,6 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
-* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
@@ -1029,7 +1028,7 @@
 * [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
 * [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
-* [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
+* [AutoTracer](https://www.autotracer.org/) or [⁠vtracer](https://www.visioncortex.org/vtracer/) / [GitHub](https://github.com/visioncortex/vtracer) - Image Vectorizers / Autotracers
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 
 ***
@@ -1050,6 +1049,9 @@
 * [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [AtSameIP](https://atsameip.intercode.ca/) - Find Websites on the Same IP
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
+* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
+* [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms

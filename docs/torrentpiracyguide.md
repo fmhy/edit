@@ -11,7 +11,7 @@
 # ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
-* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
@@ -20,8 +20,8 @@
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
-* [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [UZTracker](https://uztracker.net/) - Video / Audio / Books / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [UZTracker](https://uztracker.net/) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Sign-Up Required
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies

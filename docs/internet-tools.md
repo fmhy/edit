@@ -400,9 +400,6 @@
 * [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
 * [Delta Chat](https://delta.chat/en/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
-* [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
-* [Predicta Search](https://www.predictasearch.com) - Retrieve Info Linked to Email Address and Phone Number
-* [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
 * [Meru](https://github.com/timche/meru) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages

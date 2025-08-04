@@ -284,7 +284,7 @@
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts
@@ -333,7 +333,7 @@
 
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Uses Qobuz / [Desktop App](https://dab.yeet.su/download) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/EBKcDZwEHJ)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[cobalt](https://cobalt.tools/)** - SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/)
+* ⭐ **[cobalt](https://cobalt.tools/)** - SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb
@@ -945,7 +945,7 @@
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
-* [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [HQVst](https://t.me/HQVst) - Telegram
 
 ***

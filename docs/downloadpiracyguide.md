@@ -118,7 +118,7 @@
 * ⭐ **[CracksURL](https://cracksurl.com/)**, [2](https://appsurl.com/) / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)**
-* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
+* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
 * ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
@@ -203,7 +203,7 @@
 * 🌐 **[UsenetTools](http://www.usenettools.net/)**
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/) / [6](https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130)
 * [/r/usenet](https://reddit.com/r/usenet)
-* [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders), [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) - Usenet Uploaders
+* [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) / [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Usenet Uploaders
 
 ***
 
@@ -213,11 +213,11 @@
 * [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZB Meta search
 * [SceneNZBs](https://scenenzbs.com) - Multinational Indexer
-* [nzbplanet](https://nzbplanet.net/)
-* [orionoid](https://orionoid.com/)
+* [NzbPlanet](https://nzbplanet.net/)
+* [Orion](https://orionoid.com/)
 * [binsearch](https://binsearch.info/)
 * [NZB King](https://nzbking.com/)
-* [abnzb](https://www.abnzb.com/)
+* [abNZB](https://www.abnzb.com/)
 * [NZB Index](https://www.nzbindex.com/), [2](https://www.nzbindex.nl/)
 * [Newznab](https://www.newznab.com/)
 * [NZBStars](https://nzbstars.com/)
@@ -226,7 +226,7 @@
 * [NZBFinder](https://nzbfinder.ws/)
 * [g4u](https://g4u.to/) - Download Games via Usenet / PW: `404`
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
-* [althub](https://althub.co.za) - Unlimited Free Trials
+* [altHUB](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
 
 ***
@@ -247,7 +247,7 @@
 
 * ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
 * ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send NZBs to Client
-* [nzbget](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
+* [NZBGet](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 * [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet Telegram Bot
 
@@ -259,7 +259,7 @@
 * 🌐 **[Debrid Services Comparison](https://debrid-services-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required / [Mobile Streaming](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
 * ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid Debrid Service / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/), [rmz.cr](https://rmz.cr/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
+* ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/), [RapidMoviez](https://rmz.cr/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 

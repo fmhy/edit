@@ -120,7 +120,7 @@
 * 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
 * 🌐 **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
 * 🌐 **[FOSS Software Packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - FOSS Software Packages Index
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [Awesome Linux Minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - FOSS Software
@@ -206,7 +206,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
@@ -269,7 +269,7 @@
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) -Linux Game Launcher Compatibility Managers 
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
@@ -344,7 +344,7 @@
 * ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [Fragments](https://apps.gnome.org/Fragments/), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * ⭐ **[Soulseek](https://www.slsknet.org)** - File Sharing App
 * ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - Create WiFi Hotspots
-* [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend
+* [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontend
 * rTorrent Tools - [Extended](http://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
@@ -642,7 +642,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player

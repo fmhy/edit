@@ -6,7 +6,7 @@
 
 # ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** or [awesome-list](https://github.com/topics/awesome-list) - All Awesome Lists
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)**, [Awesome.facts](https://awesome.facts.dev/) or [awesome-list](https://github.com/topics/awesome-list) - All Awesome Lists
 * 🌐 **[lists](https://github.com/jnv/lists)** - List Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
@@ -265,6 +265,10 @@
 ***
 
 ## ▷ Flights
+
+* **Note** - Remember it's always good to cross-check flight prices across multiple providers + the airline's site itself to be sure you're getting the best deal.
+
+***
 
 * ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
@@ -881,7 +885,7 @@
 * 🌐 **[/r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or [Candle](https://gitlab.com/cosmosapps/candle) - Mobile Stock Market Trackers
-* ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [Maybe](https://maybefinance.com/), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
+* ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
 * [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps
 * [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
@@ -1527,7 +1531,7 @@
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
-* [Things to Do](https://randomthingstodo.com/), [HobbyGenerator](https://hobbygenerator.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
+* [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
