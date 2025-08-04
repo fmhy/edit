@@ -431,6 +431,7 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.xyz/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
+* [⁠BINTV](https://www.bintv.fun/) - Stream Aggregator / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://www.totalsportek.to/), [2](https://totalsportek.me/), [3](https://buffstreams.app/) - Stream Aggregator
 * [SportsLive](https://sportslive.me/)
@@ -448,7 +449,6 @@
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
 * [Boxing-100](https://boxing-100.com/) - Boxing / Aggregator
-* [⁠BINTV](https://www.bintv.fun/) - Football / Cricket / Aggregator / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl)
 * [Soccerdoge](https://soccerdoge.com/) - Football
 * [CricHD](https://crichd.at/) - Cricket / Aggregator
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
