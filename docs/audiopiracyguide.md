@@ -29,7 +29,7 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/) or [ytify](https://ytify.netlify.app/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh) or [Nonoki](https://nonoki.com/music/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - Browser Music / Uses Qobuz / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/EBKcDZwEHJ)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
