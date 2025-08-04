@@ -82,7 +82,7 @@
 
 * ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://flixer.su/discord)
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
-* [yFlix](https://yflix.to/), [2](https://1movies.bz/, [3](https://flixtor.mov/), [4](https://solarmovie.fi/) - Movies / TV / Anime / Auto-Next
+* [yFlix](https://yflix.to/), [2](https://1movies.bz/), [3](https://flixtor.mov/), [4](https://solarmovie.fi/) - Movies / TV / Anime / Auto-Next
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
