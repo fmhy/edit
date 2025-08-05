@@ -355,6 +355,7 @@
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Discord](https://discord.gg/2yUEQPxTTU) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
+* [PolyUploader](https://polyuploader.vercel.app) - Open source desktop app for uploading to 130+ hosts
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 
 ***
