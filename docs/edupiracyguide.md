@@ -893,7 +893,8 @@
 * [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Langauge Dictionaries
 * [Signbank](https://auslan.org.au/) - Australian Sign Langauge Dictionary
 * [NZSL](https://nzsl.nz/) - New Zealand Sign Langauge Dictionary
-* [SSC](<https://www.ssc.education.ed.ac.uk/BSL/>) - BSL Academic Term Dictionary
+* [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
+* [BKS](https://bks.org.uk/) - British Key Word Signs
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
 * [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary 
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
@@ -1271,6 +1272,59 @@
 
 ***
 
+# ► Exam Prep
+
+* 🌐 **[IBResources](https://ibresources.in/)** - International Baccalaureate Resources
+* [FreeOnlineTest](https://www.freeonlinetest.in/), [⁠CrackAP](https://www.crackap.com/index.html), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
+* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
+* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
+* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
+* [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
+* [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
+* [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
+* [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
+* [CrackAP](https://www.crackap.com/) - Practice AP Exams
+* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
+* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
+* [Revisely](https://www.revisely.com/) - GCSE Exam Help
+* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
+* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
+* [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
+* [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
+* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
+
+***
+
+## ▷ SAT Testing
+
+* 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
+* [OnePrep](https://oneprep.xyz/) - SAT Practice Exams / Questions
+* [SAT Slayer](https://www.satslayer.org/) / [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
+* [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
+* [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
+* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
+* [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
+* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
+* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
+
+***
+
+## ▷ JEE / NEET
+
+* 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
+* ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
+* [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
+* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
+* [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
+* [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
+* [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
+* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
+
+***
+
 # ► Educational Tools
 
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
@@ -1342,59 +1396,6 @@
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
-
-***
-
-## ▷ Exams / Tests
-
-* 🌐 **[IBResources](https://ibresources.in/)** - International Baccalaureate Resources
-* [FreeOnlineTest](https://www.freeonlinetest.in/), [⁠CrackAP](https://www.crackap.com/index.html), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
-* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
-* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
-* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
-* [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
-* [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
-* [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
-* [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
-* [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
-* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [Revisely](https://www.revisely.com/) - GCSE Exam Help
-* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
-* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
-* [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
-* [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
-* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
-
-***
-
-## ▷ SAT Testing
-
-* 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
-* [OnePrep](https://oneprep.xyz/) - SAT Practice Exams / Questions
-* [SAT Slayer](https://www.satslayer.org/) / [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
-* [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
-* [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
-* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
-* [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
-* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
-* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-
-***
-
-## ▷ JEE / NEET
-
-* 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
-* [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
-* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
-* [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
-* [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
-* [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
-* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 
 ***
 

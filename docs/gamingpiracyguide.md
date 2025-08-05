@@ -365,7 +365,7 @@
 
 ## ▷ Sony ROMs
 
-* ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / Playstation Consoles / [Discord](https://discord.com/invite/rNGrkUY)
+* ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / [Discord](https://discord.gg/BVc63GqV7Y)
@@ -613,6 +613,7 @@
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
+* [Web osu!mania](https://webosumania.com/) - Browser osu!mania Beatmaps / [Discord](https://discord.com/invite/8zfxCdkfTx) / [GitHub](https://github.com/HecticKiwi/Web-Osu-Mania)
 * [Taiko Web](https://cjdgrevival.com/) - Taiko no Tatsujin / Rhythm Game
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game / [GitHub](https://github.com/bemusic/bemuse) / [Discord](https://discord.gg/aB6ucmx)
