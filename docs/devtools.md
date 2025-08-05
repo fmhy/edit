@@ -939,6 +939,7 @@
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
+* [Widget.video](https://widget.video/) - Embed interactive video widgets to your landing page
 
 ***
 
