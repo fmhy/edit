@@ -56,6 +56,8 @@
 * [uguu](https://uguu.se/) - 128MB / 3 Hours
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
+* [Doradrop](http://doradrop.com/) - Unlimited / Embed Support / No Expiry
+
 
 ***
 
