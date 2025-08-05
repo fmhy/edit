@@ -816,7 +816,7 @@
 
 ## ▷ Downloading / Scaricare
 
-* [OverDay](https://overday.org/) / [2](https://overday.info/) / [3](https://overpost.org) / [4](https://overpost.biz) / [5](https://millesimo61.org/) - Courses / Books / [Telegram](https://t.me/Overposting1)
+* [OverDay](https://overday.org/) - Courses / Books / [Telegram](https://t.me/Overposting1) / [Mirrors](https://justpaste.it/OVERPOSTING) / [2](https://filecrypt.co/Container/B25EED8329.html)
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [StreamingCommunity](https://github.com/Arrowar/StreamingCommunity) - Movie / TV / Download Script
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
@@ -829,14 +829,15 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunityz.info/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
-* [Altadefinizione](https://altadefinizionegratis.life/) - Movies / Sub / Dub / 1080p / 4K
+* [StreamingCommunity](https://streamingcommunityz.life/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
+* [Altadefinizione](https://altadefinizione.free/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
-* [CB01](https://cb01net.com/) - Movies / TV
+* [CB01](https://cb01net.buzz/) - Movies / TV
 * [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p
-* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p
+* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeWorldITA2)
+* [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p /[Telegram](https://t.me/AnimeSaturnRedirect)
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
@@ -846,6 +847,7 @@
 ## ▷ Reading / Leggere
 
 * [LiberLiber](https://liberliber.it/opere/libri/) - Books
+* [MangaWorld](https://www.mangaworld.cx/) - Manga / [Telegram](https://t.me/MangaWorldITA)
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 * [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
