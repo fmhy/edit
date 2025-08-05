@@ -391,11 +391,11 @@
 
 ## ▷ QR Code Tools
 
-* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Custom Logo / [GitHub](https://github.com/lyqht/mini-qr)
-* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Custom Logo
-* [QRcodly](https://www.qrcodly.de/) - Generator / Custom Logo
-* [⁠QRCode.Best](https://qrcode.best/) - Generator / Custom Logo
-* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Custom Logo
+* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
+* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
+* [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
+* [⁠QRCode.Best](https://qrcode.best/) - Generator / Customizable
+* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
 * [2QR](https://2qr.info/) - Generator
 * [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
 * [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
