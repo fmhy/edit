@@ -1076,7 +1076,7 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[IPA Apps](https://ipa-apps.me/)** or **[Jailbreaks.app](https://jailbreaks.app/)** or **[Jailbreak Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcZDsbk2j_AL5YCPnwAp6Ovf5xmLRwNK2wXrwGN__FCbkGWz6Be4l5JyHxEOyogjPnVl51nrDVOcC/pubhtml)** - Jailbreaking Tool Indexes
+* 🌐 **[IPA Apps](https://ipa-apps.me/)**, **[Jailbreaks.app](https://jailbreaks.app/)** or **[Jailbreak Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcZDsbk2j_AL5YCPnwAp6Ovf5xmLRwNK2wXrwGN__FCbkGWz6Be4l5JyHxEOyogjPnVl51nrDVOcC/pubhtml)** - Jailbreaking Tool Indexes
 * 🌐 **[Types of Jailbreak](https://ios.cfw.guide/types-of-jailbreak/)** - List of Jailbreak Types
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
