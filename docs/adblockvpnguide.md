@@ -164,7 +164,7 @@
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity / [GitHub](https://github.com/Anon-Planet/thgtoa)
-* [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
+* [Consumer Rights Wiki](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
@@ -413,7 +413,6 @@
 * [Hiddify](https://hiddify.com/) - V2Ray / Shadowsocks / Wireguard / SSH Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Open Source Web Proxy
 * [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
-* [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
 ***
