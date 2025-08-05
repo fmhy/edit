@@ -847,6 +847,7 @@
 ## ▷ Reading / Leggere
 
 * [LiberLiber](https://liberliber.it/opere/libri/) - Books
+* [MangaWorld](https://www.mangaworld.cx/) - Manga / [Telegram](https://t.me/MangaWorldITA)
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 * [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
