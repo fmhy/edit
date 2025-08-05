@@ -1006,6 +1006,7 @@
 ## ▷ Downloading / دانلود
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
+* [EZMUSIC](https://ezmusic.ir/) - Music / MP3
 * [git_ir](https://t.me/git_ir) - Programming Courses
 * [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
