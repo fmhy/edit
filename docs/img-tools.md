@@ -191,6 +191,7 @@
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art without Quality Loss / Web
+* [Pixel Art Generator](https://minecraftgenerator.com/minecraft-pixel-art-generator) - Turn image into pixel art online for free / Web
 
 ***
 
