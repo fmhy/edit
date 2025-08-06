@@ -444,6 +444,7 @@
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 * [NKit](https://wiki.gbatemp.net/wiki/NKit) - Disc Image Processor
+* [Wololo](https://wololo.net/) - Homebrew News
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [NESDev](https://www.nesdev.org/) - NES / SNES Dev Homebrew Guides / Forum
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini / [Discord](https://discord.gg/UUvqsAR)
@@ -504,9 +505,11 @@
 
 ## ▷ Playstation Homebrew
 
-* ⭐ **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* ⭐ **[PS4 Modding](https://www.youtube.com/playlist?list=PLn7ji3VsPy3FRxLrjz5ScpvpTirAxQ3me)** / [2](https://www.youtube.com/playlist?list=PLn7ji3VsPy3GEda6jKRyk7ayyy_05-Hqi) - PS4 Jailbreak Guide
 * ⭐ **[Vita Hacks Guide](https://vita.hacks.guide/)** - Vita Homebrew Guide
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
+* [PSX Place](https://www.psx-place.com/) or [PSX Hax](https://www.psxhax.com/) - Playstation Jailbreak Forums
+* [PSDevWiki](https://www.psdevwiki.com/) - Playstation Developer/Homebrew Wiki
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
