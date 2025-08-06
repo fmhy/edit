@@ -1029,7 +1029,7 @@
 * [Noteful](https://apps.apple.com/app/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
 * [iSH Shell](https://ish.app/) / [GitHub](https://github.com/ish-app/ish) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) / [GitHub](https://github.com/holzschu/a-shell) - Terminal Emulators
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
-* [UTM](https://getutm.app/) / [GitHub](https://github.com/utmapp/UTM) / [Discord](https://discord.gg/UV2RUgD) - Virtual Machines
+* [UTM](https://getutm.app/) - Virtual Machines / [GitHub](https://github.com/utmapp/UTM) / [Discord](https://discord.gg/UV2RUgD)
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
 * [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
 * [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
