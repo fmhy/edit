@@ -18,7 +18,7 @@
 * ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) -  Qwen3-235B-A22B-Instruct-2507 / Qwen3-235B-A22B-Thinking-2507 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / [Discord](https://discord.gg/QR7SARHRxK)
-* [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
+* [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-4o / o3-Mini-High / No Sign-Up / [Discord](https://discord.com/invite/go-copilot)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Hugging Face](https://huggingface.co/spaces/MiniMaxAI/MiniMax-M1) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1) / [Discord](https://discord.com/invite/hailuoai)
@@ -129,6 +129,7 @@
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Cursor](https://rentry.co/FMHYBase64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
+* [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder) - Coding AI
 * [AI SDK](https://sdk.vercel.ai/) - Coding AI/ [GitHub](https://github.com/vercel/ai)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
