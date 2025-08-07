@@ -436,7 +436,7 @@
 
 ***
 
-* ⭐ **[TempMail4u](http://tempmail4u.com/)** - Gmail / Forever / 7 Day / 1 Domains
+* ⭐ **[TempMail4u](https://tempmail4u.com/)** - Gmail / Forever / 7 Day / 1 Domains
 * ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 20+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
