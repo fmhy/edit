@@ -417,7 +417,7 @@
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[ComicK](https://comick.io/)** / [Subreddit](https://reddit.com/r/ComicK/) / [Discord](https://discord.gg/comick)
-* ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Discord](https://discord.gg/mangadex)
+* ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
 * ⭐ **[MangaPark](https://mangapark.net/)** / [Proxies](https://rentry.co/mangapark) / [Discord](https://discord.gg/jctSzUBWyQ)
@@ -451,6 +451,7 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
+* [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
 
 ***
 
@@ -500,7 +501,6 @@
 * [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
-* [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
 
 ***
 

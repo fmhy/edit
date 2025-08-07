@@ -59,12 +59,13 @@
 # ► Free Stuff
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
+* AppAgg Apps - [Windows](https://appagg.com/sale/windows/free/) / [Android](https://appagg.com/sale/android/free/) / [iOS](https://appagg.com/sale/ios/free) / [macOS](https://appagg.com/sale/macos/free/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
-* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / [Extension](https://github.com/a-ton/gpd-bot)
-* [App Sales](https://www.app-sales.net/) - Free / Cheap APKs
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs
-* [AppRaven](https://appraven.net/) - iOS Apps
+* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
+* [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap APKs / Games
+* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs / Games
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs / Games
+* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [/r/FREE](https://reddit.com/r/FREE/)
@@ -79,6 +80,7 @@
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discordapp.com/invite/C3K4bBh)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
+* AppAgg Games - [Steam](https://appagg.com/sale/steam/free/) / [Windows](https://appagg.com/sale/windows-games/free/) [Android](https://appagg.com/sale/android-games/free/) / [iOS](https://appagg.com/sale/ios-games/free/) / [macOS](https://appagg.com/sale/macos-games/free/) / [Xbox](https://appagg.com/sale/xbox/free/)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -91,7 +93,7 @@
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - Games
 * [GamerPower](https://www.gamerpower.com/) - Games
-* [GrabFreeGames](https://grabfreegames.com/) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
+* [GrabFreeGames](https://grabfreegames.com/notifications) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
@@ -1009,19 +1011,19 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/deals/)**
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** / [Discord](https://discordapp.com/invite/C3K4bBh)
-* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
+* ⭐ **[GG.deals](https://gg.deals/deals/)** - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discordapp.com/invite/C3K4bBh)
+* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [Discord](https://github.com/nachoaldamav/egdata)
 * [SteamBase](https://steambase.io/sales) - Steam Sales / [Discord](https://discord.gg/C7fxdbCf6A)
-* [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
+* [/r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales
 * [CheapShark](https://www.cheapshark.com/) - Multi-Store / [Discord](https://discord.com/invite/cheapshark)
 * [PSPrices](https://psprices.com/) - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/hN57zh8Ey2)
-* [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ)
+* [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [/r/GameDeals](https://www.reddit.com/r/gamedeals)
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Price Trackers
 * [PS Deals](https://psdeals.net/) - Playstation Price Tracker
 * [XB Deals](https://xbdeals.net/) - Xbox Price Tracker
 

@@ -674,15 +674,16 @@
 ## ▷ Mac Gaming
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
-* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
+* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games
 * [⁠MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [Discord](https://discord.com/invite/rHJ2uqdquK) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
+* [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac Gaming Compatibility Database
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 
 ***
@@ -695,14 +696,12 @@
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [macOS Adblock Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) - Adguard + Safari Adblock Guide
-* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html), [wBlock](https://github.com/0xCUB3/wBlock) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
-* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
-* [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
-* [wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
+* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
