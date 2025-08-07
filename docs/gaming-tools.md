@@ -37,7 +37,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [CrackWatcher](https://crackwatcher.com/), [/r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [/r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -241,6 +241,7 @@
 * [BoardGameGeek](https://boardgamegeek.com/) or [Kallax](https://kallax.io/) - Board Game Database
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
+* [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 
 ***
@@ -292,7 +293,6 @@
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
 * [Center.Steam](https://center.steam.design/) - Center Steam Text
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
 
 ***
 
@@ -436,6 +436,7 @@
 * [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
+* [Wololo](https://wololo.net/) - Console Modding News
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
 * [/r/XboxModding](https://www.reddit.com/r/XboxModding/) or [/r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [Team Resurgent](https://rentry.co/FMHYBase64#team-resurgent) - Xbox Homebrew Tools
@@ -503,7 +504,10 @@
 
 ## ▷ Playstation Homebrew
 
-* ⭐ **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* ⭐ **[PS4 Modding](https://www.youtube.com/playlist?list=PLn7ji3VsPy3FRxLrjz5ScpvpTirAxQ3me)** / [2](https://www.youtube.com/playlist?list=PLn7ji3VsPy3GEda6jKRyk7ayyy_05-Hqi) - PS4 Jailbreak Guides
+* ⭐ **[Vita Hacks Guide](https://vita.hacks.guide/)** - Vita Jailbreak Guide
+* [⁠PSX Place](https://www.psx-place.com/) or [PSX Hax](https://www.psxhax.com/) - Playstation Homebrew Forums
+* [PSDevWiki](https://www.psdevwiki.com/) - Playstation Dev / Homebrew Wiki
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -513,7 +517,6 @@
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord
 * [⁠/r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
 * [PSBBN Patch](https://rentry.co/FMHYBase64#psbbn-definitive-english-patch) - PSBBN Definitive English Patch
@@ -522,7 +525,6 @@
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
 * [VitaDB](https://www.rinnegatamante.eu/vitadb) - PS Vita Homebrews
-* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
 
 ***
@@ -558,14 +560,15 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
 * [Minecraft Java Servers](https://dankware.onrender.com/minecraft-java-servers) or [Bedrock Servers](https://dankware.onrender.com/minecraft-bedrock-servers) - Server Lists
+* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
+* [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
-* [HueBlocks](https://1280px.github.io/hueblocks-new/), [2](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks-new/)
+* [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
-* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [⁠Note Block Studio](https://noteblock.studio/) - Minecraft Block Composer / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
@@ -574,7 +577,7 @@
 
 ## ▷ Hosting Tools
 
-* 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [Mirror](https://github.com/Myuui/Free-Minecraft-Hosts)
+* 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [GitHub](https://github.com/Myuui/Free-Minecraft-Hosts)
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
@@ -611,7 +614,6 @@
 * [GDLauncher](https://gdlauncher.com/) - Launcher
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***
 
@@ -861,6 +863,7 @@
 * [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
+* [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe) - Custom MKW Tracks
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [CTGPRecords](https://www.youtube.com/@CTGPRecords) - Custom Track Records / Videos
 * [MaxVRList](https://maxvrlist.com/) - VR Leaderboards
@@ -900,7 +903,7 @@
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) /[GitHub](https://github.com/NotValra/RoValra), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) or [FreeVIPServers](https://freevipservers.net/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes

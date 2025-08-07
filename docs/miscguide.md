@@ -48,7 +48,7 @@
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -243,6 +243,7 @@
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
+* [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
@@ -272,7 +273,7 @@
 
 * ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
-* [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
+* [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) / [Calendar View](https://www.secretflying.com/) - Compare / Book Flights
 * [seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -316,7 +317,7 @@
 ## ▷ Navigation / Transport
 
 * ⭐ **[Google Maps](https://www.google.com/maps/)**, [Bing Maps](https://www.bing.com/maps), [Mapy](https://en.mapy.cz/), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) or [Apple Maps](https://beta.maps.apple.com/) - Online / Offline Maps
-* ⭐ **[Comaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) - Offline Maps
+* ⭐ **[Comaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Telegram](https://t.me/OrganicMaps) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
 * [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
@@ -334,6 +335,7 @@
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
 * [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
@@ -474,7 +476,7 @@
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [ArtDaily](https://artdaily.com) - Art News
 * [Codrops](https://tympanus.net/codrops/) - Design News
-* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://fmhy.net/internet-tools#paywall-bypass) / [Mobile](https://rentry.co/FMHYBase64#the-athletic)
+* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://rentry.co/FMHYBase64#the-athletic)
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
@@ -768,7 +770,7 @@
 
 ## ▷ Resume / Portfolio
 
-* ⭐ **[RX Resume](https://rxresu.me/)  / [GitHub](https://github.com/amruthpillai/reactive-resume)**, [FlowCV](https://flowcv.com/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) or [Sheets](https://sheetsresume.com/builder) - Resume Builders
+* ⭐ **[RX Resume](https://rxresu.me/)  / [GitHub](https://github.com/amruthpillai/reactive-resume)**, [FlowCV](https://flowcv.com/), [HeyCV](https://heycv.app/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) or [Sheets](https://sheetsresume.com/builder) - Resume Builders
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** - Resume Samples
 * [ResumGO](https://www.resumgo.com/) - Resume Templates
 * [⁠YAMLResume](https://yamlresume.dev/)  / [GitHub](https://github.com/yamlresume/yamlresume) or [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv) - YAML Based Resume Builders
@@ -916,10 +918,10 @@
 
 ***
 
-* 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
-* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
-* ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
-* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
+* 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List / [GitHub](https://github.com/DefiLlama/chainlist)
+* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Codeberg](https://codeberg.org/pluja/kycnotme)
+* ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure / [Subreddit](https://www.reddit.com/r/WalletScrutiny) / [Discord](https://discord.gg/yCNdcSJw9k) / [GitLab](https://gitlab.com/walletscrutiny/walletScrutinyCom)
+* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager / [Discord](https://discord.rotki.com/) / [GitHub](https://github.com/rotki)
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
@@ -1107,7 +1109,7 @@
 * [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
-* [onlinetools](https://onlinetools.com/) - File Specific Tools
+* [onlinetools](https://onlinetools.com/) - File-Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
@@ -1152,7 +1154,7 @@
 
 * ⭐ **[Cal.com](https://cal.com/)** / [GitHub](https://github.com/calcom/cal.com)
 * [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [LettuceMeet](https://lettucemeet.com), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Date Organizing
-* [Luma](https://lu.ma/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
+* [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
@@ -1430,7 +1432,7 @@
 * [EnigmaLabs](https://enigmalabs.io/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#breeze-wiki-mirrors)
+* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors))
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches

@@ -70,41 +70,20 @@
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)**
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
-* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
-* [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
-* [DeepL](https://www.deepl.com/translator) - AI-Based Translation
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
+* [DeepL](https://www.deepl.com/translator) or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
+* [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
-* [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
-* [Matecat](https://www.matecat.com) - Online Translation Editor
-* [LingoJam](https://lingojam.com/) - Create Translator
-* [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
-* [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
-* [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
-* [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsecodetranslator.com/) - Morse Code / Binary Translators
-* [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
-* [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
-* [ImTranslator](https://imtranslator.net/) - Browser Extension
-* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate)
-* [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate) / [API](https://github.com/vitalets/google-translate-api)
-* [⁠Qwen3-MT-Demo](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo)
-* [Papago](https://papago.naver.com/)
-* [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
-* [ImmersiveTranslate](https://app.immersivetranslate.com/) / [Extension](https://immersivetranslate.com/en/)
-* [Translate.com](https://www.translate.com/)
-* [MyMemory](https://mymemory.translated.net/)
-* [Nice Translator](https://nicetranslator.com/)
-* [Yandex Translator](https://translate.yandex.com/)
 * [Bing Translator](https://www.bing.com/translator)
-* [Reverso](https://www.reverso.net/)
-* [babelfish](https://www.babelfish.com/)
-* [translation2](https://translation2.paralink.com/)
-* [collinsdictionary](https://www.collinsdictionary.com/translator)
-* [translatedict](https://www.translatedict.com/)
-* [Translator.eu](https://www.translator.eu/)
-* [Textractor](https://github.com/Artikash/Textractor) - Game / Visual Novel Translator
-* [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Sign Language
-* [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Convert Text to Braille
+* [Yandex Translator](https://translate.yandex.com/)
+* [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
+* [Reverso](https://context.reverso.net/translation/) - Translations In Context
+* [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
+* [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
+* [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
+* [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
+* [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Braille Translator
+* [LingoJam](https://lingojam.com/) - Translator Creator
 
 ***
 
