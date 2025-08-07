@@ -50,6 +50,7 @@
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
 * [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
 * [uguu](https://uguu.se/) - 128MB / 3 Hours
@@ -81,7 +82,7 @@
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
-* ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
+* ⭐ **[Disc Ripping Guide](https://nullish.cat/blog/disc-rip)**, [2](https://rentry.org/disc-rip) - Disc Ripping Guide
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux
@@ -142,7 +143,6 @@
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
 * [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
-* [Twelve47Studios](https://twelve47studios.com/) - Stream Overlays
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
@@ -263,7 +263,7 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV)
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [Github](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
@@ -350,7 +350,7 @@
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://toolbrew.org/), [2](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Zoom Fix](https://github.com/yt-dlp/yt-dlp/issues/2299) / [Discord](https://discord.gg/H5MNcFW63r)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
@@ -382,7 +382,7 @@
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required
-* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor
+* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor

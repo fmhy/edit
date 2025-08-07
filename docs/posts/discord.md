@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-# Public URL: https://rentry.co/fmhy-invite
+# Public URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 ---
 

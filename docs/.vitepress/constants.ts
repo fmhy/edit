@@ -129,7 +129,7 @@ export const search: DefaultTheme.Config['search'] = {
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
   { icon: 'github', link: 'https://github.com/fmhy/edit' },
-  { icon: 'discord', link: 'https://rentry.co/fmhy-invite' },
+  { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
   {
     icon: 'reddit',
     link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'

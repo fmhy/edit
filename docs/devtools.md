@@ -53,7 +53,7 @@
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/), [SPDX License List](https://spdx.org/licenses/) or [ChooseALicense](https://choosealicense.com/) - License Picking Guides / Lists
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) - Generate Privacy Policies
-* [Eternal Terminal](https://eternalterminal.dev/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
+* [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -152,12 +152,15 @@
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
+* [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) or [⁠ChromeXt](https://github.com/JingMatrix/ChromeXt) - Add Dev Tools / Inspect Element to Mobile Browsers
 * [namae](https://namae.dev/) - App Name Availability Check
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
 * [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
+* [ConnectBot](https://connectbot.org/) - Android SSH Client
+* [⁠APKEditor](https://github.com/REAndroid/APKEditor) or [Apktool M](https://maximoff.su/apktool/?lang=en) - APK Editing / Merging
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [⁠CS Android](https://cs.android.com/) - Android Code Search
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
@@ -258,7 +261,7 @@
 * [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) - Web IDE / [GitHub](https://github.com/zvizvi/GitHub-Web-IDE)
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [Gitification](https://github.com/Gitification-App/gitification) or [CatLight](https://catlight.io/) - GitHub Notifications
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
-* [Pages CMS](https://pagescms.org/) - Content Managment System / [GitHub](https://github.com/pages-cms/pages-cms)
+* [Pages CMS](https://pagescms.org/) - GitHub Content Management System / [GitHub](https://github.com/pages-cms/pages-cms)
 * [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
@@ -386,7 +389,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [LLM Text Complation](https://github.com/molbal/llm-text-completion-finetune) or [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Completion
+* [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Completion / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
@@ -783,6 +786,7 @@
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
+* [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
 * [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
@@ -800,8 +804,6 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
-* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
@@ -980,7 +982,7 @@
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
-* [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
+* [⁠ADG](https://www.accessibility-developer-guide.com/) / [GitHub](https://github.com/Access4all/adg), [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
@@ -1026,7 +1028,7 @@
 * [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
 * [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
-* [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
+* [AutoTracer](https://www.autotracer.org/) or [⁠vtracer](https://www.visioncortex.org/vtracer/) / [GitHub](https://github.com/visioncortex/vtracer) - Image Vectorizers / Autotracers
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 
 ***
@@ -1047,6 +1049,9 @@
 * [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [AtSameIP](https://atsameip.intercode.ca/) - Find Websites on the Same IP
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
+* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
+* [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
@@ -1067,7 +1072,7 @@
 * [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Archivy](https://github.com/archivy/archivy/), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Self-Hosted Wikipedia Alternatives
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
@@ -1253,6 +1258,7 @@
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
+* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engeineering
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code

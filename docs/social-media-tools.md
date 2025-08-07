@@ -7,7 +7,7 @@
 # ► Social Media Tools
 
 * 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
-* ↪️ **[Android Social Media Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)**
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
 * ⭐ **[LiveCounts](https://livecounts.io/)** - Live Social Media Stats
@@ -32,7 +32,7 @@
 ***
 
 * ⭐ **[embeds.video](https://embeds.video/)**, **[x266.mov](https://x266.mov/discord-embed/)**, [stolen.shoes](https://stolen.shoes/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
-* ⭐ **[embedez](https://embedez.com/)** - Social Link Embedder
+* ⭐ **[embedez](https://embedez.com/)** - Social Link Embedder / [X](https://twitter.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp)
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or [Guilded](https://www.guilded.gg/) - Discord Alternatives
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://pastebin.com/PpFhqiMb)
@@ -56,7 +56,7 @@
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -69,7 +69,7 @@
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
-* [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+* [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Vesktop](https://github.com/Vencord/Vesktop) - Web Client w/ Vencord Preinstalled
@@ -89,7 +89,7 @@
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/overlayeddev/overlayed)
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
-* [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
+* [Auto Creavite](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [Discord Decorations](https://discord-decorations.vercel.app/) - Free Discord Avatar Decorations
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Discord Avatar Creator
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
@@ -164,6 +164,7 @@
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
 * [Beleave](https://beleave.virock.org/) or [SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
+* [Bookmarkeddit](https://bookmarkeddit.com/) - Saved Post Manager / Organizer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#bookmarkeddit) / [GitHub](https://github.com/mateussilva98/bookmarkeddit)
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
@@ -358,7 +359,7 @@
 
 ## ▷ Players / Frontends
 
-* ↪️ **[Android YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)**
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Local YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialio](https://materialio.us/) - YouTube Frontends / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
@@ -551,7 +552,7 @@
 ## ▷ Twitter/X Archiving
 
 * [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
-* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloader
+* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest), [⁠twmd](https://github.com/mmpx12/twitter-media-downloader) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloaders
 * [GetVideoBot](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [Pikaso](https://x.com/pikaso_me) - Twitter Screenshot Bot
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
@@ -580,7 +581,6 @@
 
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
-* [Caprine](https://github.com/sindresorhus/caprine) - Facebook Desktop Messenger
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas

@@ -102,6 +102,7 @@
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
+* [⁠Basic Knowledge 101](https://www.basicknowledge101.com/) - Knowledgebase / Topic Learning
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [Stack Exchange](https://stackexchange.com/) or [Quetre](https://quetre.iket.me) - Q&A Communities
@@ -225,7 +226,6 @@
 
 ## ▷ Music
 
-* 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
@@ -505,6 +505,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
+* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
 * [Wolfram MathWorld](https://mathworld.wolfram.com/), [Encyclopedia Of Math](https://encyclopediaofmath.org/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Mathcha](https://www.mathcha.io/), [Corca](https://corca.app/) or [Math Editor](https://math-editor.online/) - Online Math Editors
@@ -522,7 +523,7 @@
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
-* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
+* [Mathispower4u](https://www.mathispower4u.com/), [⁠Andy Math](https://andymath.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations / Problems
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
@@ -788,7 +789,7 @@
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
-* ⭐ **[Animelon](https://animelon.com/)**, [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
+* [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Minato](https://minato-jf.jp/) - Japanese Courses
@@ -893,8 +894,10 @@
 * [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Langauge Dictionaries
 * [Signbank](https://auslan.org.au/) - Australian Sign Langauge Dictionary
 * [NZSL](https://nzsl.nz/) - New Zealand Sign Langauge Dictionary
-* [SSC](<https://www.ssc.education.ed.ac.uk/BSL/>) - BSL Academic Term Dictionary
+* [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
+* [BKS](https://bks.org.uk/) - British Key Word Signs
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
+* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary 
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet / Chromium
@@ -941,7 +944,7 @@
 * [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
 * [Chess Coach](https://rentry.co/FMHYBase64#chess-coach) - Chess Coaching App
 * [Chessercise](https://www.chessercise.xyz/) - Chess Game / Move Analysis
-* [Game Report](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
+* [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
 * [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
 * [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis
@@ -1025,7 +1028,7 @@
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
-* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
+* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem](https://files.catbox.moe/b34jd4.pdf) - Machine Learning Problem-Solving Book
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
 * [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
@@ -1039,9 +1042,8 @@
 ## ► Coding Tutorials
 
 * 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)**  - Project Based Learning Resources
-* ⭐ **[W3Schools](https://www.w3schools.com/)** - Web Development Tutorials / [Discord](https://discord.com/invite/w3schools) / [Offline Version](https://github.com/Ja7ad/W3Schools) 
 * ⭐ **[Build your own X](https://codecrafters.io)** - Advanced Coding Tutorials / [GitHub](https://github.com/codecrafters-io/build-your-own-x) / [Discord](https://discord.gg/DeqUD2P)
-* ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
+* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [GeeksforGeeks](https://www.geeksforgeeks.org/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
 * [Guru99](https://www.guru99.com/) - Software / Web Development
 * [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
 * [calmcode](https://calmcode.io/) - Video Tutorials
@@ -1271,6 +1273,59 @@
 
 ***
 
+# ► Exam Prep
+
+* 🌐 **[IBResources](https://ibresources.in/)** - International Baccalaureate Resources
+* [FreeOnlineTest](https://www.freeonlinetest.in/), [⁠CrackAP](https://www.crackap.com/index.html), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
+* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
+* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
+* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
+* [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
+* [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
+* [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
+* [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
+* [CrackAP](https://www.crackap.com/) - Practice AP Exams
+* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
+* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
+* [Revisely](https://www.revisely.com/) - GCSE Exam Help
+* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
+* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
+* [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
+* [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
+* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
+
+***
+
+## ▷ SAT Testing
+
+* 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
+* ⭐ **[OnePrep](https://oneprep.xyz/)** - SAT Practice Exams / Questions
+* [SAT Slayer](https://www.satslayer.org/) / [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
+* [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
+* [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
+* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
+* [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
+* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
+* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
+
+***
+
+## ▷ JEE / NEET
+
+* 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
+* ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
+* [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
+* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
+* [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
+* [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
+* [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
+* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
+
+***
+
 # ► Educational Tools
 
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
@@ -1290,7 +1345,7 @@
 * [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
-* [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
+* [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu), [snow.day](https://www.snow.day/) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
@@ -1345,57 +1400,13 @@
 
 ***
 
-## ▷ Exams / Tests
-
-* 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
-* 🌐 **[IBResources](https://ibresources.in/)** - International Baccalaureate Resources
-* [FreeOnlineTest](https://www.freeonlinetest.in/), [⁠CrackAP](https://www.crackap.com/index.html), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
-* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
-* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
-* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
-* [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
-* [OnePrep](https://oneprep.xyz/), [SAT Slayer](https://www.satslayer.org/) / [2](https://satslayer.vercel.app/), [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free), [DSATuz](https://t.me/DSATuz) / [Telegram](https://t.me/DSATuzchat) or [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
-* [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
-* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
-* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-* [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
-* [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
-* [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
-* [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
-* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [Revisely](https://www.revisely.com/) - GCSE Exam Help
-* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
-* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
-* [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
-* [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
-* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
-
-***
-
-## ▷ JEE / NEET
-
-* 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
-* [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
-* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEE Archive](https://jee-archive.vercel.app/) - JEE Books Archives
-* [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
-* [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
-* [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
-* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
-
-***
-
 ## ▷ Calculators
 
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
-* ⭐ **[SageCalc](https://sagecalc.com/)**, [CEmu](https://github.com/CE-Programming/CEmu), [TI-84 Online](https://www.ti84-online.com/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
+* [CEmu](https://github.com/CE-Programming/CEmu), [TI-84 Online](https://www.ti84-online.com/) or [ti84calc](https://ti84calc.com/) - TI-84 Calculators
 * [SpeedCrunch](https://speedcrunch.org/) - Advanced Calculator
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
@@ -1449,7 +1460,6 @@
 * ⭐ **[EncycloSearch](https://encyclosearch.org/)** or [EncycloReader](https://encycloreader.org/) - Encyclopedia Search Engines
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [Archivy](https://github.com/archivy/archivy/) - Self-Hosted Wiki
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
 * [IntegralGuide](https://integralguide.com/) - Well-Being Encyclopedia
 * [Britannica](https://www.britannica.com/)

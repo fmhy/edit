@@ -226,7 +226,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             more information from you, otherwise join our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://rentry.co/FMHY-Invite/"
+              href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"
             >
               Discord.
             </a>

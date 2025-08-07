@@ -19,7 +19,7 @@
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) or [Microsoft Community](https://msft.chat/) / [Discord](https://discord.com/invite/microsoft) - Windows Guides
+* [Microsoft Community](https://msft.chat/) - Windows Guides / [Discord](https://discord.com/invite/microsoft)
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
@@ -93,7 +93,7 @@
 * 🌐 **[Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)** - AutoIt Resources
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v)
 * [AutoIt](https://www.autoitscript.com/)
-* [Tinytask](https://www.fosshub.com/TinyTask.html)
+* [Tinytask](https://tinytask.net/)
 * [MacroRecorder](https://www.macrorecorder.com/)
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
@@ -108,7 +108,7 @@
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
@@ -401,7 +401,7 @@
 * [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Start Menu Customization / [Unlock](https://rentry.co/FMHYBase64#startxback)
+* [StartAllBack](https://www.startallback.com/) or [StartIsBack](https://www.startisback.com/) - Start Menu Customization / [Unlock](https://rentry.co/FMHYBase64#startxback)
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization

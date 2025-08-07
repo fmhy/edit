@@ -137,18 +137,17 @@
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix), [Kodachi](https://www.digi77.com/linux-kodachi/) / [GitHub](https://github.com/WMAL/Linux-Kodachi) or [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - Privacy-Based Operating Systems
-* [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
-* [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) or [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
+* [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion / Forums
+* [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [Disable Recall](https://rentry.co/b88ixo8f) - Disable Microsoft Recall on Windows 11
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
-* [Team Elite](https://www.te-home.net/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+* [Team Elite](https://www.te-home.net/) - Security Software
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
 * [Surfer Protocol](https://surferprotocol.org/) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC) / [GitHub](https://github.com/Surfer-Org/Protocol)
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check / [X](https://x.com/FSecure)
 * [GnuPG](https://gnupg.org/) - Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/)
-* [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [burnmynote](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
+* [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
@@ -164,7 +163,7 @@
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity / [GitHub](https://github.com/Anon-Planet/thgtoa)
-* [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
+* [Consumer Rights Wiki](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
@@ -228,6 +227,7 @@
 
 ## ▷ Browser Privacy
 
+* 🌐 **[Browser Privacy Guides](https://www.privacyguides.org/en/desktop-browsers)** - Browser Privacy / Setup Guides
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
 * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/) - Onion-Routed Browser / [TG Downloads](https://t.me/gettor_bot) / [Telegram](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser) / [GitHub](https://github.com/torproject)
@@ -378,13 +378,12 @@
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[VPN Binding Guide](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** - Bind VPN to Torrent Client to Avoid ISP Letters
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
-* ⭐ **[Tailscale](https://tailscale.com/)** or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
+* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
+* ⭐ **[Tailscale](https://tailscale.com/)**, [⁠NetBird](https://netbird.io/) or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [⁠Nebula](https://github.com/slackhq/nebula) or [⁠Headscale](https://github.com/juanfont/headscale) - Self-Hosted Secure Network VPN
 * [WGDashboard](https://wgdashboard.dev/) - WireGuard and Amnezia Manager / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard) / [Subreddit](https://www.reddit.com/r/WGDashboard/)
-* [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - VPN Tunnel / [WireGuard](https://rentry.co/tunnel-to-wg)
-* [OpenVPN](https://openvpn.net/) - VPN Tunnel
 * [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - VPN Tunnel / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
+* [OpenVPN](https://openvpn.net/) - VPN Tunnel
 * [tinc VPN](https://www.tinc-vpn.org/) / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc) - VPN Tunnel
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard VPN with Adblocking Capabilities / [Web UI](https://github.com/10h30/wirehole-ui)
 * [VpnHood](https://github.com/vpnhood/VpnHood), [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/) - Self-Hosted VPNs
@@ -413,7 +412,6 @@
 * [Hiddify](https://hiddify.com/) - V2Ray / Shadowsocks / Wireguard / SSH Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Open Source Web Proxy
 * [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
-* [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
 ***
@@ -442,6 +440,7 @@
 
 ## ▷ Anti-Censorship
 
+* ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_gfw_bypass)**
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** or [⁠Net4people](https://github.com/net4people/bbs/issues) - Censorship Discussion
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)**, [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies

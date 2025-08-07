@@ -84,7 +84,7 @@
 
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Hosted
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Online / Self-Hosted
-* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / [GitHub](https://github.com/upscayl/upscayl) / Self-Hosted
+* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Hosted
@@ -144,6 +144,7 @@
 * [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [SumoPaint](https://sumopaint.com/) - Browser Painting / Web
+* [⁠Wigglypaint](https://wigglypaint.net/) - Browser Painting / Animated Brushes
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
@@ -265,6 +266,7 @@
 * ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFPs / Avatars
 * ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
+* [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
@@ -444,7 +446,7 @@
 
 ## ▷ Art / Illustrations
 
-* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / **Some NSFW** / Use Adblock / [Patreon Buttons](https://greasyfork.org/en/scripts/483259)
+* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / **Some NSFW** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Patreon Buttons](https://greasyfork.org/en/scripts/483259)
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Frontend Instances](https://git.macaw.me/skunky/SkunkyArt/src/branch/master/INSTANCES.md)
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
@@ -553,10 +555,11 @@
 
 ## ▷ 3D Modeling Tools
 
+* [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
 * [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
-* [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
+* [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
@@ -724,16 +727,17 @@
 
 ***
 
-## ▷ Self-Hosted Galleries
+## ▷ Offline Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-* [Immich](https://immich.app/) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
 * [Lychee](https://lycheeorg.github.io/)
 * [Photoprism](https://github.com/photoprism/photoprism)
 * [Photoview](https://github.com/photoview/photoview)
+* [Ente](https://help.ente.io/self-hosting/)
 * [Photonix](https://photonix.org/)
 * [photos](https://github.com/nextcloud/photos/)
 * [imagestore](https://github.com/gregordr/imagestore)
@@ -744,10 +748,6 @@
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
-* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
-* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
-* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
-* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
 
@@ -760,8 +760,14 @@
 * [lookimg](https://lookimg.com/) - 20MB / Forever / Sign-Up Required
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Sign-Up Required
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
+* [Google Photos](https://photos.google.com/) - 200MB / 15GB Cloud / Forever
+* [Ente](https://ente.io/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Sign-Up Required
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
+* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
+* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
+* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Guide for Unlimited Google Photos Storage on Windows
 
 ***
 
@@ -803,7 +809,7 @@
 * [ScreenshotX](https://screenshotx.com/)
 * [⁠Pilko](https://pilko.studio/) - Video Frame Capture Tool 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
-* [Pika](https://pika.style/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/), [OnPaste](https://onpaste.com/), [Screenstab](https://screenstab.com/editor/) or [Limus](https://limus.netlify.app/) - Screenshot Editors / Mockups
+* [Moocup](https://moocup.jaydip.me/) -  Screenshot Editor / Mockups
 * [Screenshot Guru](https://screenshot.guru/), [Site-Shot](https://www.site-shot.com/) or [Pikwy](https://pikwy.com/) - Take Screenshots of Websites
 * [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks) - Create Screenshot Mockups of Websites
 * [paste.photos](https://www.paste.photos/) - Paste Image to Download

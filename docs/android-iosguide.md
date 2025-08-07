@@ -9,14 +9,14 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://fmhy.net/text-tools#translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)**
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
+* ⭐ **[AN1](https://an1.com/)** / [Telegram](https://t.me/android1com)
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note) / [Telegram](https://t.me/liteapks)
 * [Modyolo](https://modyolo.com/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note) / [Telegram](https://t.me/modyolo_official)
 * [Nsane Forums](https://nsaneforums.com/)
-* [Android1](https://an1.com/) / [Telegram](https://t.me/android1com)
 * [Sbenny](https://sbenny.com/) / [Telegram](https://www.reddit.com/r/SbennyOfficial/)
 * [farsroid](https://www.farsroid.com/) / [Telegram](https://t.me/farsroid_official)
 * [APKSum](https://www.apksum.com/)
@@ -123,10 +123,8 @@
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box / [Telegram](https://t.me/+ZiW_7bvq8Sc5MzFl)
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions/) - Install / Merge APKs with Extra Options
-* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [Apktool M](https://maximoff.su/apktool/?lang=en) - APK Editing / Merging
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
-* [APKTool](https://apktool.org/) - APK Reverse Engineering Tool / [GitHub](https://github.com/iBotPeaches/Apktool)
 * [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
 * [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store / [Telegram](https://t.me/rv_magisk)
 * [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) - Beta Release Notifications
@@ -173,7 +171,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
+* [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#instaeclipse-note) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
 * [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
 * [Nobook](https://github.com/ycngmn/Nobook) - Ad-Free Facebook Lite
@@ -202,7 +200,7 @@
 
 # ► Android Device
 
-* 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
+* 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer-Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** - Android Discussion Forum / [Discord](https://discord.com/invite/e4v8qtkcBw)
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [GUI](https://aya.liriliri.io/) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/ismartcoding/plain-docs), [anl](https://anl.ink/), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
@@ -236,9 +234,9 @@
 
 ## ▷ Customization
 
-* ⭐ **[Iconify](https://github.com/Mahmud0808/Iconify)** (root), [RBoard](https://xdaforums.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) (requires shizuku) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * ⭐ **[/r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
 * ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
+* [RBoard](https://xdaforums.com/t/app-rboard-theme-manager.4331445/) (root) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) (requires shizuku) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [PixelXpert](https://github.com/siavash79/PixelXpert) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers / Live Wallpapers
@@ -359,7 +357,6 @@
 * [Orangefox](https://orangefox.download/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
-* [ConnectBot](https://connectbot.org/) - SSH Client
 * [LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework
 * [PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel Phone Flashing GUI
 
@@ -371,8 +368,7 @@
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security & Privacy Hardened Android / Google Pixel Only / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
 * [CalyxOS](https://calyxos.org/) - Privacy-Focused OS
-* [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
-
+* [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf)
 ***
 
 # ► Android Tools
@@ -437,19 +433,22 @@
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)** / [GitHub](https://github.com/TrackerControl/tracker-control-android), [Permission Pilot](https://github.com/d4rken-org/permission-pilot) or [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Managers
-* ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
-* ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
-* ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet), [Tarnhelm](https://github.com/lz233/Tarnhelm) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
+* ⭐ **[TrackerControl](https://trackercontrol.org/)** - Tracker Monitor / Controller / [GitHub](https://github.com/TrackerControl/tracker-control-android)
+* ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)**, [VirusTotal](https://docs.virustotal.com/docs/mobile-apps) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
+* ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Clients
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md) or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
+* ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://github.com/Gedsh/InviZible?tab=readme-ov-file#invizible-pro) - Privacy Managers
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
+* [AFWall+](https://github.com/ukanth/afwall/) (root) or [Rethink App](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * [Ceno Browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
-* [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Docs](https://wgtunnel.com/docs/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
+* [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
+* [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / No Root Required / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-lock) 
+* [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
 * [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oblivion-translate)
 * [Intra](https://getintra.org) - Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
@@ -458,7 +457,6 @@
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
-* [AFWall+](https://github.com/ukanth/afwall/) (root) or [Rethink App](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * [v2rayNG](https://github.com/2dust/v2rayNG) - V2Ray Shadowsocks / Hyteria Proxy Client
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
@@ -472,7 +470,7 @@
 
 ## ▷ Android Internet
 
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyguard](https://github.com/AChep/keyguard-app), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass), [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Keyguard](https://github.com/AChep/keyguard-app), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass), [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[Thunderbird](https://github.com/thunderbird/thunderbird-android)**, [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
@@ -512,13 +510,12 @@
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser / Privacy-Focused
 * [Eruda](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
-* [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 
 ***
 
 ## ▷ Android File Tools
 
-* ↪️ **[Mobile / Desktop Tranfer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
+* ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
 * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Extra Features](https://rentry.co/FMHYBase64#link-1dm), [ADM](https://rentry.co/FMHYBase64#adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * ⭐ **[MiXplorer](https://mixplorer.com/beta/)**, [2](https://mixplorer.com/), [3](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 * ⭐ **[SD Maid SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Unlock Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sd-maid) / [Discord](https://discord.com/invite/8Fjy6PTfXu)
@@ -527,7 +524,7 @@
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** or [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
 * ⭐ **[SyncThing Fork](https://github.com/Catfriend1/syncthing-android)** - File Sync
 * ⭐ **[Pairdrop](https://pairdrop.net/)** - File Sharing / [GitHub](https://github.com/fm-sys/snapdrop-android)
-* ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [File Explorer Compose](https://github.com/Raival-e/File-Explorer-Compose), [MT Manager](https://rentry.co/FMHYBase64#mt-manager) or [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File Managers / Explorers
+* ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [Prism File Explorer Compose](https://github.com/Raival-e/Prism-File-Explorer), [MT Manager](https://rentry.co/FMHYBase64#mt-manager) or [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File Managers / Explorers
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
@@ -541,9 +538,6 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [PDF2Images](https://codeberg.org/oparaskos/android-pdf2images) - PDF to Image Converter
-* [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg) - Package Name Viewer
-* [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 
 ***
@@ -572,10 +566,10 @@
 * [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
-* [Read Aloud AI](https://readaloudai.com/android) - Text to Speech
+* [Read Aloud AI](https://readaloudai.com/android) - Text to Speech / [Discord](https://readaloudai.com/discord)
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
+* [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 
 ***
 
@@ -682,6 +676,7 @@
 ***
 
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** / [Frontends](https://emulation.gametechwiki.com/index.php/Emulators_on_Android#Launcher_Frontends)
+* 🌐 **[GSI List](https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-(GSI)-list)** - Generic System Image Index
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [GitHub](https://github.com/Producdevity/EmuReady)
 * ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Telegram](https://telegram.me/termux24x7) / [Subreddit](https://www.reddit.com/r/termux) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux)
@@ -689,7 +684,6 @@
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/dansfiles)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [JoiPlay](https://joiplay.net/) - RPG Maker Game Interpreter
@@ -738,7 +732,7 @@
 * [tTorrent](https://ttorrent.org/) - Torrent Client
 * [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Torrent Client
 * [TorrServe](https://github.com/YouROK/TorrServe) - Torrent Client
-* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Extra Features](https://rentry.co/FMHYBase64#1dm)
+* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Extra Features](https://rentry.co/fmhybase64#link-1dm)
 * [Trireme](https://github.com/teal77/trireme) - Deluge Client
 * [Transdroid](https://www.transdroid.org) - Manage BitTorrent Clients / [GitHub](https://github.com/erickok/transdroid) / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager
@@ -771,7 +765,7 @@
 * [Openreads](https://github.com/mateusz-bak/openreads), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [WikWok](https://f-droid.org/es/packages/com.github.terrakok.wikwok.androidApp/) - Random Wiki Article Viewer / [Web App](https://terrakok.github.io/WikWok) / [GitHub](https://github.com/terrakok/Wikwok)
-* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen), [Bubble2](https://github.com/edeso/bubble2) or [Seeneva](https://seeneva.app/) - Comic Readers
+* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Bubble2](https://github.com/edeso/bubble2) - Comic Readers
 * [LNReader](https://github.com/LNReader/lnreader), [Ranobe](https://github.com/ranobe-org/ranobe) or [IReader](https://ireaderorg.netlify.app/) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fanfiction
 * [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
@@ -784,6 +778,7 @@
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
+* [LNReader](https://github.com/LNReader/lnreader) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
 * [Kinoko](https://github.com/gsioteam/kinoko) - Manga File Viewer
@@ -803,17 +798,15 @@
 * ⭐ **[AudioRelay](https://rentry.co/FMHYBase64#audio-relay)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
+* [SongSync](https://github.com/Lambada10/SongSync), [Lyricify](https://github.com/WXRIW/Lyricify-App), [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
 * [ytdlnis](https://ytdlnis.org/) - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * [EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
 * [Soundbound App](https://soundbound.app/) - Streaming / Download / [Telegram](https://t.me/soundboundofficial)
-* [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
 * [SaturnMusic](https://github.com/SaturnMusic/) or [Refreezer](https://github.com/DJDoubleD/refreezer) - Deezer / FLAC / Requires Premium (Firehawk52)
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://support.deezer.com/hc/en-gb/articles/115003749449-List-Of-Countries-Deezer-Is-Available-In)
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
@@ -821,9 +814,7 @@
 * [Super Sound](https://play.google.com/store/apps/details?id=com.tianxingjian.supersound) - Audio Editor
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
-* [Muviz](https://www.sparkine.com/muviz/) - Navbar Audio Visualizer
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
-* [SongSync](https://github.com/Lambada10/SongSync), [Lyricify](https://github.com/WXRIW/Lyricify-App), [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Lyrics Apps
 
 ***
 
@@ -831,11 +822,11 @@
 
 * ⭐ **[Poweramp](https://rentry.co/FMHYBase64#poweramp)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
+* ⭐ **[Namida](https://github.com/namidaco/namida)**
 * ⭐ **[VLC for Android](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Foobar2000](https://www.foobar2000.org/apk)**
 * [AIMP](https://www.aimp.ru/?do=download&os=android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
-* [Namida](https://github.com/namidaco/namida)
 * [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 * [Symphony](https://zyrouge.github.io/symphony/)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
@@ -853,11 +844,14 @@
 
 ## ▷ YouTube Music
 
-* ⭐ **[Metrolist](https://github.com/mostafaalagamy/metrolist)**, [OuterTune](https://github.com/OuterTune/OuterTune) or [InnerTune](https://github.com/Malopieds/InnerTune) / [2](https://github.com/z-huang/InnerTune) - YouTube Music Players / Innertune Forks
+* **Note** - YouTube Music has a generous free tier that allows 100,000 songs to be uploaded to the cloud without using storage quota.
+
+***
+
+* ⭐ **[Metrolist](https://github.com/mostafaalagamy/metrolist)**, [OuterTune](https://github.com/OuterTune/OuterTune) or [InnerTune](https://github.com/Malopieds/InnerTune) / [2](https://github.com/z-huang/InnerTune) - YouTube Music Players / Innertune Forks / Audio Players
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
-* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player
 * [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
 
@@ -882,7 +876,7 @@
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
 * [Pool Suite](https://play.google.com/store/apps/details?id=net.poolsuite.mobile) - Summer Radio
-* [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - K-Pop Radio
+* [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - J-Pop / K-Pop Radio
 
 ***
 
@@ -964,7 +958,7 @@
 * ⭐ **[DailyAL](https://github.com/JICA98/DailyAL)**, [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Anikku](https://github.com/komikku-app/anikku) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.gg/F32UjdJZrR)
 * [AnymeX](https://github.com/RyanYuuki/AnymeX) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi)
-* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon)) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
+* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [AniLab](https://anilab.to/) - Use [DNS Adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [Shiru](https://github.com/RockinChaos/Shiru) or [Migu](https://miguapp.pages.dev/) - Stream Anime Torrents
@@ -973,10 +967,10 @@
 
 ## ▷ Android Live TV
 
-* ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player / [Extra Features](https://rentry.co/FMHYBase64#tivimate)
+* ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player
 * [Perfect IPTV Player](https://rentry.co/FMHYBase64#perfect-iptv-player) - IPTV Player
 * [OTTRun](https://www.ottrun.com/) - IPTV Player
-* [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/) - IPTV Player
+* [OTT Navigator](https://rentry.co/FMHYBase64#ott-nav) - IPTV Player
 * [Tiwee](https://github.com/neffex97/Tiwee) - IPTV Player
 * [iMPlayer](https://implayer.tv/) - IPTV Player
 * [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
@@ -994,7 +988,7 @@
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
-* ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, **[ytdlnis](https://github.com/deniscerri/ytdlnis)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://rentry.co/FMHYBase64#snaptube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#snaptube-note) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, **[ytdlnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://rentry.co/FMHYBase64#snaptube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#snaptube-note) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
@@ -1010,7 +1004,7 @@
 # ► iOS Tools
 
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
-* ⭐ **[Bitwarden](https://bitwarden.com/download/apple-iphone-password-manager/)**, **[Keepassium](https://keepassium.com/)**, [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
+* ⭐ **[Bitwarden](https://bitwarden.com/download/apple-iphone-password-manager/)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), **[Keepassium](https://keepassium.com/)**, [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
 * [Toolbox](https://github.com/Koizeay/Toolbox) - Multi-Tool App
@@ -1076,13 +1070,14 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[CFW iOS Guide](https://ios.cfw.guide/)**, **[IPA Apps](https://ipa-apps.me/)**, [Jailbreak Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcZDsbk2j_AL5YCPnwAp6Ovf5xmLRwNK2wXrwGN__FCbkGWz6Be4l5JyHxEOyogjPnVl51nrDVOcC/pubhtml) or [Jailbreaks.app](https://jailbreaks.app/) - Jailbreaking Tool Indexes
+* 🌐 **[IPA Apps](https://ipa-apps.me/)**, **[Jailbreaks.app](https://jailbreaks.app/)** or **[Jailbreak Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcZDsbk2j_AL5YCPnwAp6Ovf5xmLRwNK2wXrwGN__FCbkGWz6Be4l5JyHxEOyogjPnVl51nrDVOcC/pubhtml)** - Jailbreaking Tool Indexes
 * 🌐 **[Types of Jailbreak](https://ios.cfw.guide/types-of-jailbreak/)** - List of Jailbreak Types
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * ⭐ **[/r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * ⭐ **[Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)** - Legacy iOS Devices / Downgrade / Save Blobs / Jailbreak / Bypass
+* [CFW iOS Guide](https://ios.cfw.guide/) - Jailbreaking Guide
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
 * [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1 Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
 * [palera1n](https://palera.in) - 15.0-18.x Semi-Tethered Jailbreak (A8-A11 & T2) / [Guide](https://ios.cfw.guide/installing-palera1n/) / [GitHub](https://github.com/palera1n/palera1n)
@@ -1132,8 +1127,8 @@
 
 ## ▷ iOS Sideloading
 
-* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)**, [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) or [JcionX Guide](https://jcionx.github.io/ios-sideloading/) - Sideloading Guides
-* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Installer](https://github.com/alfiecg24/TrollInstallerX/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
+* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Sideloading Guides
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/)[Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
 * ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Limit Bypass Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#limit-bypass-note) / [Guide](https://docs.sidestore.io/docs/advanced/sparserestore)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
 * ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate
@@ -1154,6 +1149,7 @@
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Adguard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants) (requires patch)
 * ⭐ **[Orion](https://kagi.com/orion/)** - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) - Safari Adblocker
 * [Brave](https://apps.apple.com/app/id1052879175) - Adblock Browser
 * [1Blocker](https://1blocker.com/) - Adblocker
 * [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblocker / Userscript Manager
@@ -1204,7 +1200,7 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[Blatant's IPA Library](https://blatants.fyi/)** - Tweaked Apps / [Chatroom](https://t.me/blatantbruh) / [Telegram](https://t.me/blatants)
+* ⭐ **[Blatant's IPA Library](https://blatants.fyi/)**, [2](https://t.me/blatants) - Tweaked Apps / [Telegram](https://t.me/blatantbruh) 
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [IPA Dark](https://t.me/ipa_dark) - Games
@@ -1241,8 +1237,7 @@
 
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) / [Telegram](https://t.me/SpotilifeIPAs)
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** / [2](https://dvntm0.github.io/) - Streaming / [Discord](https://discord.gg/BhdUyCbgkZ)
-* [Trebel](https://home.trebel.io/) - Streaming
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Ad-Free / Modded YouTube Music / [2](https://dvntm0.github.io/) / [Discord](https://discord.gg/BhdUyCbgkZ)
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
@@ -1282,7 +1277,7 @@
 # ► iOS Streaming
 
 * ⭐ **[Stremio](https://testflight.apple.com/join/fuNfXs3E)** or [Web Stremio](https://web.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
-* ⭐ **[Sora](https://testflight.apple.com/join/uJPzdTTj)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
+* ⭐ **[Sora](https://testflight.apple.com/join/uJPzdTTj)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
@@ -1302,7 +1297,7 @@
 
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
-* [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/), [AniHyou](https://apps.apple.com/app/id1635777325) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
+* [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
 
 ***
 

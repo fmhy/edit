@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: July 2025 Updates ☀️
-    link: /posts/july-2025
+    title: Aug 2025 Updates ✨
+    link: /posts/aug-2025
   image:
     src: /test.png
     alt: FMHY Icon
@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://rentry.co/fmhy-invite
+      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 features:
   - title: Adblocking / Privacy

@@ -37,7 +37,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [CrackWatcher](https://crackwatcher.com/), [/r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [/r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -241,6 +241,7 @@
 * [BoardGameGeek](https://boardgamegeek.com/) or [Kallax](https://kallax.io/) - Board Game Database
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
+* [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 
 ***
@@ -292,7 +293,6 @@
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
 * [Center.Steam](https://center.steam.design/) - Center Steam Text
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
 
 ***
 
@@ -313,7 +313,7 @@
 
 ## ▷ Store Tools
 
-* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/), [Steam250](https://steam250.com/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insight Tools
+* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb), [Steam250](https://steam250.com/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insight Tools
 * [⁠EGData](https://egdata.app/) - Epic Games Insight Tools / [Discord](https://github.com/nachoaldamav/egdata)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
 * [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer
@@ -335,7 +335,6 @@
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
 * [Wallpaper EngineWorkshop Downloader](https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
-* [ggntw](https://ggntw.com/steam) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
 ***
@@ -359,7 +358,7 @@
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
 * [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
-* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
+* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Fixes
 
 ***
 
@@ -369,6 +368,7 @@
 * 🌐 **[⁠CoD All](https://gitlab.com/xifil/cod-all)** - CoD Multiplayer Mod Index
 * ⭐ **[Plutonium](https://plutonium.pw/)** - COD BO1/BO2, MW3 and WaW Multiplayer Client / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
+* [Ezz-BOIII](https://rentry.co/FMHYBase64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4)
@@ -436,6 +436,7 @@
 * [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
+* [Wololo](https://wololo.net/) - Console Modding News
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
 * [/r/XboxModding](https://www.reddit.com/r/XboxModding/) or [/r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [Team Resurgent](https://rentry.co/FMHYBase64#team-resurgent) - Xbox Homebrew Tools
@@ -452,7 +453,7 @@
 
 ## ▷ Switch Homebrew
 
-* ↪️ **[Switch Homebrew Guides](https://rentry.co/FMHYBase64#switch-homebrew-guides)**
+* ⭐ **[Switch Homebrew Guides](https://rentry.co/FMHYBase64#switch-homebrew-guides)**
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
@@ -467,14 +468,14 @@
 
 ## ▷ Wii U / Wii Homebrew
 
-* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
-* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
+* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
+* ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [GitHub](https://github.com/WiiLink24) / [Discord](https://discord.gg/wiilink) / [X](https://x.com/WiiLink24)
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [X](https://x.com/WiiLink24) / [Discord](https://discord.gg/wiilink) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
-* [WiiLink](https://wiilink.ca/) - Wii Channel Restoration / [Server](https://wfc.wiilink24.com/) / [Discord](https://discord.gg/wiilink) / [GitHub](https://github.com/WiiLink24)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
@@ -496,8 +497,6 @@
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
-* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
 
@@ -505,7 +504,10 @@
 
 ## ▷ Playstation Homebrew
 
-* 🌐 **[PS4 Modding](https://youtu.be/u_OsFEHcl5k)** / [2](https://youtu.be/c99oey4lz9Q), [⁠PSX Place](https://www.psx-place.com/), [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Indexes / Guides
+* ⭐ **[PS4 Modding](https://www.youtube.com/playlist?list=PLn7ji3VsPy3FRxLrjz5ScpvpTirAxQ3me)** / [2](https://www.youtube.com/playlist?list=PLn7ji3VsPy3GEda6jKRyk7ayyy_05-Hqi) - PS4 Jailbreak Guides
+* ⭐ **[Vita Hacks Guide](https://vita.hacks.guide/)** - Vita Jailbreak Guide
+* [⁠PSX Place](https://www.psx-place.com/) or [PSX Hax](https://www.psxhax.com/) - Playstation Homebrew Forums
+* [PSDevWiki](https://www.psdevwiki.com/) - Playstation Dev / Homebrew Wiki
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -515,7 +517,6 @@
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord
 * [⁠/r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
 * [PSBBN Patch](https://rentry.co/FMHYBase64#psbbn-definitive-english-patch) - PSBBN Definitive English Patch
@@ -524,7 +525,6 @@
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
 * [VitaDB](https://www.rinnegatamante.eu/vitadb) - PS Vita Homebrews
-* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
 
 ***
@@ -533,6 +533,7 @@
 
 * 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Steam Deck Guide](https://main.steamdeck.guide/), [2](https://steamdeck.guide/) - Steam Deck Guide / Resources / [GitHub](https://github.com/NKkrisz/Steam-Deck-Guide)
 * [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
@@ -553,19 +554,21 @@
 * ⭐ **[Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
+* [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
 * [Minecraft Java Servers](https://dankware.onrender.com/minecraft-java-servers) or [Bedrock Servers](https://dankware.onrender.com/minecraft-bedrock-servers) - Server Lists
+* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
+* [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
-* [HueBlocks](https://1280px.github.io/hueblocks-new/), [2](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks-new/)
+* [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
-* [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [⁠Note Block Studio](https://noteblock.studio/) - Minecraft Block Composer / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS)
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
@@ -574,7 +577,7 @@
 
 ## ▷ Hosting Tools
 
-* 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [Mirror](https://github.com/Myuui/Free-Minecraft-Hosts)
+* 🌐 **[FMHL](https://fmhl.berserk.sbs/)** - Free Minecraft Hosts List / [GitHub](https://github.com/Myuui/Free-Minecraft-Hosts)
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
@@ -611,7 +614,6 @@
 * [GDLauncher](https://gdlauncher.com/) - Launcher
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Omniarchive](https://omniarchive.uk/) - Download Old Minecraft Versions
 
 ***
 
@@ -650,7 +652,7 @@
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * [Amulet](https://www.amuletmc.com/), [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
 * [MineAtlas](http://mineatlas.com/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Minecraft Seeds
-* [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
+* [MinecraftMaps](https://www.minecraftmaps.com/), [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [CTMRepository](https://ctmrepository.com/) - Complete the Monument Maps / [Discord](https://discord.com/invite/G2WVCB3)
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/) - Mapart Schematic / map.dat Generator
@@ -861,6 +863,7 @@
 * [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
+* [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe) - Custom MKW Tracks
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [CTGPRecords](https://www.youtube.com/@CTGPRecords) - Custom Track Records / Videos
 * [MaxVRList](https://maxvrlist.com/) - VR Leaderboards
@@ -900,7 +903,7 @@
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) or [FreeVIPServers](https://freevipservers.net/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes

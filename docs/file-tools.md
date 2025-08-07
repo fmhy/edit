@@ -14,6 +14,7 @@
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
+* [⁠copyparty](https://github.com/9001/copyparty/) - Portable File Server
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
@@ -295,12 +296,13 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
+* ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
+* [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) / Unlimited / 90 Days / Owned by Mega.nz
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
-* [Ranoz](https://ranoz.gg/) - 20GB / 30 Days, Can Extend Forever
+* [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
@@ -308,8 +310,9 @@
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [VikingFile](https://vikingfile.com/) - 500GB / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
+* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Account Required
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
-* [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
+* [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Account Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
@@ -321,19 +324,23 @@
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
+* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Year
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Account Required
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
+* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Account Required
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
+* [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
@@ -375,7 +382,6 @@
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / 1 Month / ~$3 for 2TB
-* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Year
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free

@@ -120,7 +120,7 @@
 * 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
 * 🌐 **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
 * 🌐 **[FOSS Software Packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - FOSS Software Packages Index
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [Awesome Linux Minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - FOSS Software
@@ -206,7 +206,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
@@ -216,7 +216,7 @@
 * [Audacious](https://audacious-media-player.org/) - Audio Player / [GitHub](https://github.com/audacious-media-player)
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
 * [Fooyin](https://www.fooyin.org/) - Audio Player / [GitHub](https://github.com/fooyin/fooyin)
-* [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
+* [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Audio Clients
 * [MOC](http://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
@@ -268,12 +268,12 @@
 * ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
-* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) -Linux Game Launcher Compatibility Managers 
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
-* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [Native Linux Games](https://rentry.co/FMHYBase64#native-linux-games) - Linux Games
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
@@ -326,7 +326,6 @@
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
-* [wireguird](https://github.com/UnnoTed/wireguird) - WireGuard GTK GUI
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
@@ -345,7 +344,7 @@
 * ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [Fragments](https://apps.gnome.org/Fragments/), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * ⭐ **[Soulseek](https://www.slsknet.org)** - File Sharing App
 * ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - Create WiFi Hotspots
-* [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend
+* [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontend
 * rTorrent Tools - [Extended](http://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
@@ -615,7 +614,6 @@
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers
 * [AppsTorrent](https://appstorrent.ru/)
-* [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
 * [Mac App Store](https://macappstre.com/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
@@ -644,7 +642,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
@@ -676,15 +674,16 @@
 ## ▷ Mac Gaming
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
-* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
+* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
-* [SCNLOG](https://scnlog.me/) - Mac Games
+* [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games
 * [⁠MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [Discord](https://discord.com/invite/rHJ2uqdquK) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
+* [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac Gaming Compatibility Database
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 
 ***
@@ -697,14 +696,12 @@
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [macOS Adblock Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) - Adguard + Safari Adblock Guide
-* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html), [wBlock](https://github.com/0xCUB3/wBlock) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
-* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
-* [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
-* [wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
+* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [Streisand](https://streisand.pages.dev/) - Mac Proxy Client
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker

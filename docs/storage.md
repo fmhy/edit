@@ -29,7 +29,7 @@
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Tabiverse](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tabiverse-extensions) / [Discord](https://discord.gg/MUgRGwE)
 
-[mtab](https://github.com/maxhu08/mtab), [Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [materialYouNewTab](https://github.com/XengShi/materialYouNewTab), [Mue](https://github.com/mue/mue)
+[mtab](https://github.com/maxhu08/mtab), [Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [Mue](https://github.com/mue/mue)
 
 ***
 
@@ -200,6 +200,14 @@
 
 ***
 
+## Internet Archive Tools
+
+- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
+- [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
+- [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
+
+***
+
 ## Japanese Learning Sites
 
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
@@ -258,13 +266,13 @@
 
 ## LibGen Tools
 
-[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b)
 
 ***
 
 ## Live Webcams
 
-[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [Worldviewstream](https://worldviewstream.com/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [/r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](https://wxyzwebcams.com/), [snoweye](https://www.snoweye.com/), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/) (Airports), [TFLJamCams](https://www.tfljamcams.net/), [seattlesouthside](https://www.seattlesouthside.com/plan-your-trip/webcams/), [portugal-live](https://www.portugal-live.net/en/webcams.html), [livecamcroatia](https://www.livecamcroatia.com/en), [myrtlebeach](https://www.myrtlebeach.com/webcams/), [sootoday](https://www.sootoday.com/webcams), [interlochen](https://www.interlochen.org/webcasts/live-webcams), [whitehouse cam](https://whitehouse.gov1.info/webcam/), [yellowstone cam](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm), [carowinds](https://www.carowinds.com/live-video), [zellamsee](https://www.zellamsee-kaprun.com/en/live/webcams), [wpri](https://www.wpri.com/live-cams/), [hdontap](https://hdontap.com/), [floridakeyswebcams](https://floridakeyswebcams.tv/), [earthtv](https://www.earthtv.com/en), [geocam](https://www.geocam.ru/en/), [livefromiceland](https://livefromiceland.is/), [world-cam](https://en.world-cam.ru/), [mangolinkworld](https://www.mangolinkworld.com/), [mylivestreams](https://www.mylivestreams.com/live-streaming-cams/), [spain-grancanaria](https://www.spain-grancanaria.com/en/images-videos/webcams.html), [visitlondon](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london), [ctsfl](https://www.ctsfl.us/cams/), [aruba](https://www.aruba.com/us/live-webcams-and-channels), [fogcam](https://www.fogcam.org/), [bigrigtravels](https://bigrigtravels.com/), [lochness](https://www.lochness.co.uk/livecam/), [abbeyroad](https://www.abbeyroad.com/crossing), [camsecure](https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html), [worldlivecamera](https://www.worldlivecamera.com/), [liveworldwebcams](https://liveworldwebcams.com/)
+[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [Worldviewstream](https://worldviewstream.com/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [/r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](https://wxyzwebcams.com/), [snoweye](https://www.snoweye.com/), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/), [TFLJamCams](https://www.tfljamcams.net/), [seattlesouthside](https://www.seattlesouthside.com/plan-your-trip/webcams/), [portugal-live](https://www.portugal-live.net/en/webcams.html), [livecamcroatia](https://www.livecamcroatia.com/en), [myrtlebeach](https://www.myrtlebeach.com/webcams/), [sootoday](https://www.sootoday.com/webcams), [interlochen](https://www.interlochen.org/webcasts/live-webcams), [whitehouse cam](https://whitehouse.gov1.info/webcam/), [yellowstone cam](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm), [carowinds](https://www.carowinds.com/live-video), [zellamsee](https://www.zellamsee-kaprun.com/en/live/webcams), [wpri](https://www.wpri.com/live-cams/), [hdontap](https://hdontap.com/), [floridakeyswebcams](https://floridakeyswebcams.tv/), [earthtv](https://www.earthtv.com/en), [geocam](https://www.geocam.ru/en/), [livefromiceland](https://livefromiceland.is/), [world-cam](https://en.world-cam.ru/), [mangolinkworld](https://www.mangolinkworld.com/), [mylivestreams](https://www.mylivestreams.com/live-streaming-cams/), [spain-grancanaria](https://www.spain-grancanaria.com/en/images-videos/webcams.html), [visitlondon](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london), [ctsfl](https://www.ctsfl.us/cams/), [aruba](https://www.aruba.com/us/live-webcams-and-channels), [fogcam](https://www.fogcam.org/), [bigrigtravels](https://bigrigtravels.com/), [lochness](https://www.lochness.co.uk/livecam/), [abbeyroad](https://www.abbeyroad.com/crossing), [camsecure](https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html), [worldlivecamera](https://www.worldlivecamera.com/), [liveworldwebcams](https://liveworldwebcams.com/)
 
 ### Animal Cams
 
@@ -329,6 +337,8 @@
 * [MC Archive](https://mcarchive.net/)
 * [FiberMC](https://www.fibermc.com/)
 * [ModpackIndex](https://www.modpackindex.com/)
+* [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
+
 
 ## Multireddits
 
@@ -405,7 +415,7 @@
 ## Presentation Tools
 
 * [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal-Based Presentation Tool
-* [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generator
+* [⁠Z.ai](https://chat.z.ai/) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
 
@@ -421,7 +431,7 @@
 
 * ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [AlertProxies](https://alertproxies.com/proxylist)
+[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list)
 
 ***
 
