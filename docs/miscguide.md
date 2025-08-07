@@ -59,13 +59,13 @@
 # ► Free Stuff
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
-* AppAgg Apps - [Windows](https://appagg.com/sale/windows/free/) / [Android](https://appagg.com/sale/android/free/) / [iOS](https://appagg.com/sale/ios/free) / [macOS](https://appagg.com/sale/macos/free/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
+* AppAgg Apps - [Windows](https://appagg.com/sale/windows/free/) / [Android](https://appagg.com/sale/android/free/) / [iOS](https://appagg.com/sale/ios/free) / [macOS](https://appagg.com/sale/macos/free/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg) / [Subreddit](https://www.reddit.com/r/AppAgg/)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
 * [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap APKs / Games
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs / Games
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs / Games
-* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games
+* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / ]Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [/r/FREE](https://reddit.com/r/FREE/)
@@ -80,7 +80,7 @@
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discordapp.com/invite/C3K4bBh)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
-* AppAgg Games - [Steam](https://appagg.com/sale/steam/free/) / [Windows](https://appagg.com/sale/windows-games/free/) [Android](https://appagg.com/sale/android-games/free/) / [iOS](https://appagg.com/sale/ios-games/free/) / [macOS](https://appagg.com/sale/macos-games/free/) / [Xbox](https://appagg.com/sale/xbox/free/)
+* AppAgg Games - [Steam](https://appagg.com/sale/steam/free/) / [Windows](https://appagg.com/sale/windows-games/free/) / [Android](https://appagg.com/sale/android-games/free/) / [iOS](https://appagg.com/sale/ios-games/free/) / [macOS](https://appagg.com/sale/macos-games/free/) / [Xbox](https://appagg.com/sale/xbox/free/) / [Subreddit](https://www.reddit.com/r/AppAgg/)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games

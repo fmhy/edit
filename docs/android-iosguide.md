@@ -538,9 +538,6 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [PDF2Images](https://codeberg.org/oparaskos/android-pdf2images) - PDF to Image Converter
-* [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg) - Package Name Viewer
-* [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 
 ***
@@ -572,7 +569,7 @@
 * [Read Aloud AI](https://readaloudai.com/android) - Text to Speech / [Discord](https://readaloudai.com/discord)
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
+* [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 
 ***
 
@@ -768,7 +765,7 @@
 * [Openreads](https://github.com/mateusz-bak/openreads), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [WikWok](https://f-droid.org/es/packages/com.github.terrakok.wikwok.androidApp/) - Random Wiki Article Viewer / [Web App](https://terrakok.github.io/WikWok) / [GitHub](https://github.com/terrakok/Wikwok)
-* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen), [Bubble2](https://github.com/edeso/bubble2) or [Seeneva](https://seeneva.app/) - Comic Readers
+* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Bubble2](https://github.com/edeso/bubble2) - Comic Readers
 * [LNReader](https://github.com/LNReader/lnreader), [Ranobe](https://github.com/ranobe-org/ranobe) or [IReader](https://ireaderorg.netlify.app/) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fanfiction
 * [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
@@ -781,6 +778,7 @@
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
+* [LNReader](https://github.com/LNReader/lnreader) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
 * [Kinoko](https://github.com/gsioteam/kinoko) - Manga File Viewer
@@ -800,17 +798,15 @@
 * ⭐ **[AudioRelay](https://rentry.co/FMHYBase64#audio-relay)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
+* [SongSync](https://github.com/Lambada10/SongSync), [Lyricify](https://github.com/WXRIW/Lyricify-App), [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
 * [ytdlnis](https://ytdlnis.org/) - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * [EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
 * [Soundbound App](https://soundbound.app/) - Streaming / Download / [Telegram](https://t.me/soundboundofficial)
-* [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
 * [SaturnMusic](https://github.com/SaturnMusic/) or [Refreezer](https://github.com/DJDoubleD/refreezer) - Deezer / FLAC / Requires Premium (Firehawk52)
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://support.deezer.com/hc/en-gb/articles/115003749449-List-Of-Countries-Deezer-Is-Available-In)
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
@@ -818,9 +814,7 @@
 * [Super Sound](https://play.google.com/store/apps/details?id=com.tianxingjian.supersound) - Audio Editor
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
-* [Muviz](https://www.sparkine.com/muviz/) - Navbar Audio Visualizer
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
-* [SongSync](https://github.com/Lambada10/SongSync), [Lyricify](https://github.com/WXRIW/Lyricify-App), [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Lyrics Apps
 
 ***
 
@@ -976,7 +970,7 @@
 * ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player
 * [Perfect IPTV Player](https://rentry.co/FMHYBase64#perfect-iptv-player) - IPTV Player
 * [OTTRun](https://www.ottrun.com/) - IPTV Player
-* [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/) - IPTV Player
+* [OTT Navigator](https://rentry.co/FMHYBase64#ott-nav) - IPTV Player
 * [Tiwee](https://github.com/neffex97/Tiwee) - IPTV Player
 * [iMPlayer](https://implayer.tv/) - IPTV Player
 * [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
@@ -1244,7 +1238,6 @@
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) / [Telegram](https://t.me/SpotilifeIPAs)
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Ad-Free / Modded YouTube Music / [2](https://dvntm0.github.io/) / [Discord](https://discord.gg/BhdUyCbgkZ)
-* [Trebel](https://home.trebel.io/) - Streaming
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
