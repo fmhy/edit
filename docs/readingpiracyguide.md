@@ -683,7 +683,7 @@
 * [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
-* [RadicalScatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
+* [Radical Scatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](https://vangoghletters.org/vg/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
