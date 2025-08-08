@@ -530,10 +530,8 @@
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
 * [Dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
 * [RSAF](https://github.com/chenxiaolong/RSAF) - Add RClone Remotes to Android Storage Framework
-* [aQRoss](https://aqross.app/) - QR Code File Sharing
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) or [Wormhole](https://gitlab.com/lukas-heiligenbrunner/wormhole) - File Sync / Sharing
 * [CrocGUI](https://github.com/howeyc/crocgui) - File Sync / Sharing
-* [qrcp](https://qrcp.sh/) - File Sync / Sharing / [GitHub](https://github.com/claudiodangelis/qrcp)
 * [Disky](https://felixnuesse.de/disky/) - Disk Usage Analyzer / [GitHub](https://github.com/newhinton/disky)
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
@@ -599,7 +597,7 @@
 
 * ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)** - Clock / Alarm
 * [JTX](https://jtx.techbee.at/), [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
-* [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm / QR Code Control
+* [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm with QR Code Control
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps

@@ -119,6 +119,21 @@
 
 ***
 
+## ▷ QR Code Tools
+
+* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
+* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
+* [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
+* [⁠QRCode.Best](https://qrcode.best/) - Generator / Customizable
+* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
+* [2QR](https://2qr.info/) - Generator
+* [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
+* [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
+* [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
+* [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
+
+***
+
 # ► RSS Tools
 
 * 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
@@ -385,19 +400,6 @@
 * [Dr. Link Check](https://www.drlinkcheck.com/)
 * [HTTPStatus](https://httpstatus.io/)
 * [UpDownToday](https://updowntoday.com/)
-
-***
-
-## ▷ QR Code Tools
-
-* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
-* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
-* [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
-* [⁠QRCode.Best](https://qrcode.best/) - Generator / Customizable
-* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
-* [2QR](https://2qr.info/) - Generator
-* [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
-* [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
 
 ***
 

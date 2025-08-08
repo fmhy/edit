@@ -258,9 +258,9 @@
 * [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS
 * [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS
 * [Tofu](https://www.tofuauth.com/) - 2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)
+* [Authenticator](https://authenticator.cc/) - 2FA Browser Extension / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [2FAuth](https://docs.2fauth.app/) - Self-Hosted / Web / [GitHub](https://github.com/Bubka/2FAuth)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden Server Backend / Self-Hosted
-* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 
