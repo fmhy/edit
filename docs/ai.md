@@ -13,7 +13,7 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o4-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-5 / GPT-5 mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) -  Qwen3-235B-A22B-Instruct-2507 / Qwen3-235B-A22B-Thinking-2507 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -24,7 +24,7 @@
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1) / [Discord](https://discord.com/invite/hailuoai)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot
-* [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1 Turbo / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo)
+* [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1 Turbo / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Discord](https://discord.gg/mistralai)
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠Dots](https://huggingface.co/spaces/rednote-hilab/dots-demo) - dots.llm.1 Chatbot / No Sign-Up

@@ -61,11 +61,11 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * AppAgg Apps - [Windows](https://appagg.com/sale/windows/free/) / [Android](https://appagg.com/sale/android/free/) / [iOS](https://appagg.com/sale/ios/free) / [macOS](https://appagg.com/sale/macos/free/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg) / [Subreddit](https://www.reddit.com/r/AppAgg/)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
-* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
-* [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap APKs / Games
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs / Games
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs / Games
-* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / ]Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
+* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
+* [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
+* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap Apps / Games
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
+* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [/r/FREE](https://reddit.com/r/FREE/)
