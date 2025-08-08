@@ -831,9 +831,9 @@
 * [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
 * [CB01](https://cb01net.buzz/) - Movies / TV
-* [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p
-* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeWorldITA2)
-* [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p /[Telegram](https://t.me/AnimeSaturnRedirect)
+* [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
+* [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeWorldITA2) / [Mirrors](https://www.animeworlditalia.com/)
+* [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p /[Telegram](https://t.me/AnimeSaturnRedirect) / [Mirrors](https://www.animesaturn.me/)
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
