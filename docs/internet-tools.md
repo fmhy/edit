@@ -397,6 +397,8 @@
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
 * [2QR](https://2qr.info/) - Generator
 * [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
+* [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
+* [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
 * [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
 
 ***
