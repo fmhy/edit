@@ -173,7 +173,6 @@
 
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - OS Emulators / VMs
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ↪️ **[Hackintosh Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hackintosh)**
 * ⭐ **[VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html)** or **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [MultiPass](https://canonical.com/multipass) / [GitHub](https://github.com/canonical/multipass) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
@@ -189,6 +188,21 @@
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+
+***
+
+## ▷ Hackintosh
+
+* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly.
+
+***
+
+* ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - Hackintosh Building Guides
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide
+* [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - macOS on Unsupported Hardware
+* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS VM with QEMU
+* [Emaculation](https://www.emaculation.com/) - Virtual macOS Environments
+* [Hackintosh Tools](https://rentry.org/hackintosh-tools)
 
 ***
 
