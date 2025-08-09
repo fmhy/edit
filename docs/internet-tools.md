@@ -472,7 +472,7 @@
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
-* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
+* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - 50+ Domains
 * [EduMail](https://edumail.icu/) - 1 Month / 1 Month / 10 Domains
 * [10minutesemail](https://10minutesemail.net/) - 10 Minutes / 1 Domain
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
@@ -483,7 +483,6 @@
 * [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
 * [tempmail.altmails](https://tempmail.altmails.com/) - 1 Day / 1 Day / 1 Domain
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [Tmail](https://tmail.gg/) - 1 Domain
 * [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains

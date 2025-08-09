@@ -534,7 +534,7 @@
 * 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Guide](https://main.steamdeck.guide/), [2](https://steamdeck.guide/) - Steam Deck Guide / Resources / [GitHub](https://github.com/NKkrisz/Steam-Deck-Guide)
-* [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit
+* [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Discord](https://discord.gg/frg5Mmda56)
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
 * [EmuDeck](https://www.emudeck.com/) - Steam Deck Emulator Setup / [Compatibility](https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/) / [Discord](https://discord.com/invite/b9F7GpXtFP)
@@ -559,13 +559,12 @@
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
-* [Minecraft Java Servers](https://dankware.onrender.com/minecraft-java-servers) or [Bedrock Servers](https://dankware.onrender.com/minecraft-bedrock-servers) - Server Lists
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
-* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
+* [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics

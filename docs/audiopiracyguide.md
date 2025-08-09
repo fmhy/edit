@@ -70,7 +70,7 @@
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](https://www.tinfoil.com/) or [American Historical Recordings](https://adpprod2.library.ucsb.edu/) - Phonograph / Gramophone Recordings
+* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/) or [Tinfoil](https://www.tinfoil.com/) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
@@ -421,7 +421,6 @@
 * [Lossless-FLAC](https://lossless-flac.com/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
-* [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit with VPN
 * [QMusic](https://rentry.co/FMHYBase64#qmusic) - MP3 / FLAC
 * [opendir](https://rentry.co/FMHYBase64#opendir) - MP3
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC

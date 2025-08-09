@@ -63,7 +63,7 @@
 
 ## ▷ Translators
 
-* **Note** - Chatbots like Gemini, Claude and GPT-4o can also translate text and are sometimes better than the ones listed below.
+* **Note** - [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
 
 ***
 
@@ -109,7 +109,7 @@
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 Editor](https://nimadez.github.io/base64/) - Encode / Decode Base64
-* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772)** - Auto-Decode B64 Links on Pastebins
+* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding

@@ -215,7 +215,7 @@
 
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_indexes)**
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
@@ -297,7 +297,7 @@
 * [minimalreader](https://www.minimalreader.xyz/)
 * [Litera Reader](https://litera-reader.com/)
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
-* [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
+* [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
 
@@ -308,7 +308,7 @@
 * ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
-* [ToKindle](https://tokindle-home.onrender.com/) or [Send to Kobo/Kindle](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) - Send Ebooks to Kindle
+* [Send to Kobo/Kindle](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) - Send Ebooks to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
@@ -325,7 +325,6 @@
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
-* [Audiobookss](https://audiobookss.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobook.net/)
 * [DigitalBook](https://www.digitalbook.io/)
@@ -391,7 +390,6 @@
 * [ZipComic](https://www.zipcomic.com/)
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
-* [ComicsForAll](https://comicsforall269084760.wordpress.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [GoComics](https://www.gocomics.com/) - Comics Strips / uBO Bypasses Trial Limit
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
@@ -511,7 +509,6 @@
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)** - Novafile
 * ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile / Turbobit
 * ⭐ **[MagazineLib](https://magazinelib.com/)** - VK
-* ⭐ **[MagzDB](http://magzdb.org/j)** - DDL
 * [Calameo](https://calameo.com/) - Online Reading
 * [Magzter](https://www.magzter.com/top-free-magazines) - Online Reading
 * [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
@@ -681,7 +678,6 @@
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
 * [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
-* [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [Radical Scatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
@@ -706,7 +702,6 @@
 * [Essential Programming Books](https://www.programming-books.io/)
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [GoalKicker](https://goalkicker.com/)
-* [LetMeRead](https://www.letmeread.net/) - Has NSFW Ads
 * [Flavio Copes](https://flaviocopes.com/)
 * [WOW! eBook](https://www.wowebook.org/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
@@ -833,7 +828,7 @@
 * [Google Leaks](https://www.zachvorhies.com/google_leaks/) - Leaked Google Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
-* [US Military Manual Collection](https://archive.org/details/m), [MCPEL](https://www.marines.mil/News/Publications/MCPEL/), [Army Pubs](https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
+* [MCPEL](https://www.marines.mil/News/Publications/MCPEL/), [Army Pubs](https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) or [STI](https://sti.nasa.gov/) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary

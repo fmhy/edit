@@ -9,7 +9,7 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY‐Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)**
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
@@ -470,6 +470,7 @@
 
 ## ▷ Android Internet
 
+* ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Keyguard](https://github.com/AChep/keyguard-app), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass), [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[Thunderbird](https://github.com/thunderbird/thunderbird-android)**, [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
@@ -1185,7 +1186,7 @@
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
-* [⁠iOSDecrypted](https://t.me/iosdecrypted) - Modded Social Media Apps
+* [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) - Modded Social Media Apps
 * [IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
@@ -1223,9 +1224,9 @@
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [Chan](https://github.com/moffatman/chan) - 4chan App
-* [IGBeta IPA](https://t.me/igbeta_ipa), [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
+* [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
 * [Swiftgram](https://swiftgram.app/) / [GitHub](https://github.com/Swiftgram/Telegram-iOS) - Telegram Apps
-* [Wabeta IPA](https://t.me/wabeta_ipa) or [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
+* [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 

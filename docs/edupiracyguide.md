@@ -1285,6 +1285,7 @@
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
 * [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
@@ -1345,6 +1346,7 @@
 * [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
+* [⁠Scholarship Roar](https://scholarshiproar.com/) - Scholarship Database
 * [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu), [snow.day](https://www.snow.day/) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
@@ -1369,7 +1371,7 @@
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
-* [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
+* [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer

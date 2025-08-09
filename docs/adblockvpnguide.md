@@ -45,7 +45,7 @@
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [Subreddit](https://reddit.com/r/pihole/) / [X](https://x.com/The_Pi_Hole) / [GitHub](https://github.com/pi-hole)
 * ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/) / [Anti-Telemetry](https://github.com/MoralCode/pihole-antitelemetry) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/)
-* ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
+* ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
 * [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Video](https://youtu.be/WUG57ynLb8I)
@@ -150,7 +150,7 @@
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
-* [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
+* [HiddenVM](https://github.com/aforensics/HiddenVM) - VirtualBox for TailsOS
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 
@@ -370,7 +370,6 @@
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [PrivadoVPN](https://privadovpn.com/software) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
-* [Bitmask](https://bitmask.net/) - Free / Unlimited / [GitLab](https://0xacab.org/leap/bitmask-vpn), [2](https://0xacab.org/leap/bitmask_android)
 
 ***
 
@@ -443,6 +442,7 @@
 * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_gfw_bypass)**
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
 * ⭐ **[No Thought is a Crime](https://ntc.party/)** or [⁠Net4people](https://github.com/net4people/bbs/issues) - Censorship Discussion
+* ⭐ **[sing-box](https://sing-box.sagernet.org/)** - Anti-Censorship Client / Server Core / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)**, [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN / [Android Alt](https://github.com/bepass-org/oblivion)
 * [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
@@ -450,5 +450,4 @@
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [Hysteria](https://v2.hysteria.network/) - Speed-Focused Censorship Bypass Proxy / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
 * [Project X](https://github.com/XTLS/Xray-core) - Anti-Censorship Client / Server Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
-* [sing-box](https://sing-box.sagernet.org/) - Anti-Censorship Client / Server Core / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
 * [Shadowsocks](https://shadowsocks.org/) - Simple Proxy Protocol to Bypass Censorship / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)

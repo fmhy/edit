@@ -228,6 +228,7 @@
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Comparison
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
+* [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
 * [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
@@ -1140,7 +1141,7 @@
 * [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
 * [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
-* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / No Custom Domain
+* [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 * [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
 * [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
 

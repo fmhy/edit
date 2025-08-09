@@ -65,7 +65,7 @@
 * [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap Apps / Games
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
-* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
+* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [/r/FREE](https://reddit.com/r/FREE/)
@@ -788,9 +788,6 @@
 * 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - Remote Friendly Company Index / [GitHub](https://github.com/remoteintech/remote-jobs)
 * ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
-* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
-* [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
-* [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
 * [MTurk](https://www.mturk.com/) - Online Task Work
 * [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
@@ -1013,7 +1010,7 @@
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
 * ⭐ **[GG.deals](https://gg.deals/deals/)** - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discordapp.com/invite/C3K4bBh)
-* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
+* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [Discord](https://github.com/nachoaldamav/egdata)
 * [SteamBase](https://steambase.io/sales) - Steam Sales / [Discord](https://discord.gg/C7fxdbCf6A)
 * [/r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
@@ -1026,6 +1023,7 @@
 * [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Price Trackers
 * [PS Deals](https://psdeals.net/) - Playstation Price Tracker
 * [XB Deals](https://xbdeals.net/) - Xbox Price Tracker
+* [⁠/r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Mac App Price Tracking
 
 ***
 

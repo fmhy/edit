@@ -400,7 +400,7 @@
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
-* [AList](https://alist.nn.ci) - Cloud Storage Manager
+* [OpenList](https://github.com/OpenListTeam/OpenList) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)

@@ -673,7 +673,6 @@
 * ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
-* ⭐ **[Fyvio](https://rentry.co/FMHYBase64#fyvio)** - Movies / TV / 1080p
 * ⭐ **[HDHub4u](https://hdhublist.com/?re=hdhub)** - Movies / TV / 1080p / [Telegram](https://hdhub4u.frl/join-our-group/)
 * ⭐ **[OlaMovies](https://olamovies.help/)** - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -874,7 +873,7 @@
 * [Doujin Music](https://rentry.co/FMHYBase64#doujin-music) - Music / MP3
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
-* [Perfect Dark](http://kasumi.moe/pd/) - P2P App
+* [Perfect Dark](https://perfectdark.benri-tool.net/) - P2P App
 
 ## ▷ Torrenting / トレント
 
@@ -1310,7 +1309,7 @@
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY‐Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
@@ -1813,7 +1812,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p

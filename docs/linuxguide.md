@@ -268,7 +268,7 @@
 * ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
-* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) -Linux Game Launcher Compatibility Managers 
+* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Game Launcher Compatibility Managers 
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
@@ -280,6 +280,7 @@
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod + DLC Unlocker
+* [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options
 * [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - Steam Frontend
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
@@ -449,7 +450,7 @@
 * 🌐 **[The Terminal Directory](https://termui.sh/)** - Terminal Emulators
 * ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/) or [Nushell](https://www.nushell.sh/) - Command Line Shells
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
-* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminal Emulators
+* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm) [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/) or [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux Terminal Emulators
 * ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line Lessons
 * [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts

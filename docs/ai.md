@@ -12,14 +12,14 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-5 / GPT-5 mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [Discord](https://discord.com/invite/go-copilot)
+* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Flash / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-5 / GPT-5 mini Chatbot / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) -  Qwen3-235B-A22B-Instruct-2507 / Qwen3-235B-A22B-Thinking-2507 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen 3 Coder / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 3 Mini Thinking (8 daily) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / [Discord](https://discord.gg/QR7SARHRxK)
 * [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
-* [Microsoft Copilot](https://copilot.microsoft.com) - GPT-4o / o3-Mini-High / No Sign-Up / [Discord](https://discord.com/invite/go-copilot)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1) / [Discord](https://discord.com/invite/hailuoai)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
@@ -57,7 +57,7 @@
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Google AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50) - AI Search Engine / US Only
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
-* [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
+* [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [Hyperspace](https://hyper.space/) - P2P AI Network / [GitHub](https://github.com/hyperspaceai)
 * [PrivateGPT](https://privategpt.dev/) / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt), [NotebookLM](https://notebooklm.google/) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm), [Onyx](https://www.onyx.app/) / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx) or [DocsGPT](https://www.docsgpt.cloud/) / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT) - Document Chatbots / Note-Taking
@@ -151,7 +151,7 @@
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
 * [tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
-* [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
+* [⁠Page Assist](https://github.com/n4ze3m/page-assist), [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Telegram](https://telegram.me/g4f_channel)
 * [Msty](https://msty.app/) - Download & Run Models Locally / [Discord](https://discord.gg/2QBw6XxkCC)
@@ -265,6 +265,7 @@
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Hailuo AI](https://hailuoai.video/) - 3 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
+* [Bing Create](https://www.bing.com/images/create) - Unlimited / Sora / No Image Input
 * [⁠FastVideo](https://fastwan.fastvideo.org/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
 * [Vivago](https://vivago.ai/) - 1 Daily
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
@@ -288,6 +289,7 @@
 * [⁠ISH](https://ish.junioralive.in/) / Unlimited / GPT Image 1 / Flux Kontext (dev) / Editing / [Discord](https://discord.gg/cwDTVKyKJz)
 * [imgsys](https://imgsys.org/) / Unlimited / Compare Generators / No Sign-Up
 * [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
+* [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT-4o
 * [Genspark](https://www.genspark.ai/) / Unlimited / Flux Schnell / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited / 10 GPT Image 1 or Seedream 3.0 Daily / [Discord](https://discord.gg/v6KzUbPeKh)
