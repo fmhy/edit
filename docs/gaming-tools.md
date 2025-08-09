@@ -581,17 +581,17 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * [World Host](https://modrinth.com/mod/world-host) or [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://modrinth.com/mod/lan-server-properties) - Local Server Multiplayer Mods
-* [setup.md](https://setup.md/) - Server Admin Guides / Wiki
-* [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/), [Lodestone](https://lodestone.cc/) / [GitHub](https://github.com/Lodestone-Team/lodestone) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
-* [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
+* [setup.md](https://setup.md/) - Server Admin Guides / Wiki / [Github](https://github.com/setupmd/docs)
+* [CraftyControl](https://craftycontrol.com/) / [Gitlab](https://gitlab.com/crafty-controller/crafty-4), [MCSManager](https://mcsmanager.com/) / [Github](https://github.com/MCSManager/MCSManager), [Lodestone](https://lodestone.cc/) / [GitHub](https://github.com/Lodestone-Team/lodestone) or [Fork](https://www.fork.gg/) / [Github](https://github.com/ForkGG) - Minecraft Server Managers
+* [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers / [Discord](https://discord.com/invite/HvQugYx) / [Github](https://github.com/minekube/connect-java)
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion) / [GitHub](https://github.com/viaversion)
-* [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
-* [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB)
-* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
-* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
-* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Extras](https://geyserextras.letsgoaway.dev/) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
+* [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing / [Github](https://github.com/aternosorg/mclogs-integration)
+* [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB) / [Github](https://github.com/Minestom/Minestom)
+* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds / [Discord](https://discord.com/invite/VdCAUtm) /[Github](https://github.com/MaxMaeder/DriveBackupV2)
+* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [Github](https://github.com/PurpurMC/) or [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [Github](https://github.com/PaperMC/Paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
+* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Discord](https://discord.com/invite/geysermc) / [Github](https://github.com/GeyserMC/Geyser) / [Extras](https://geyserextras.letsgoaway.dev/) / [Github](https://github.com/GeyserExtras/GeyserExtras/) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [Minecraft Server Scanner](https://github.com/MrBruz/Minecraft-Server-Scanner) - Minecraft Server Info
-* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
+* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker / [Github](https://github.com/MoistCatawumpus/minecraft-server-checker)
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Real-Time Updated Server Banners
 
