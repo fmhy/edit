@@ -646,18 +646,29 @@
 
 # ► Hungarian / Magyar
 
-* [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
 * [Turistautak](https://turistautak.hu/) - Hungarian Maps
 
 ## ▷ Streaming
 
-* [moviedrive](https://moviedrive.hu/) - Movies / TV / Sub / Dub / 1080p / [Discord](https://discord.com/invite/blackfire)
+* ⭐ **[MovieDrive](https://moviedrive.hu/)** - Movies / TV / Sub / Dub / 1080p / 720p / 4k / [Discord](https://discord.com/invite/blackfire)
 * [hdmozi](https://hdmozi.hu/) - Movies / TV / Sub / Dub / 1080p
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
 * [filmezek](https://filmezek.com/) - Movies
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
 * [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/blackfire)
+* [Myonlinerádió](https://myonlineradio.hu/) - Radio Stations
+
+## ▷ Torrenting / Torrentezés
+
+* ⭐ **[Ncore](https://ncore.pro/)** - ALL types of torrents / Sub / Dub / 720p / 1080p / 4k / [**Invite Only**](https://ncore.pro/register.php?set_lang=en) / 99% Alive Torrents
+* [BitHUmen](https://bithumen.be/) - Movies / TV / Sub / Dub / 1080p / 720p / **Invite Only** / Mostly Alive Torrents
+* [eStone](https://estone.cc/) - Movies / TV / Sub / Dub / 720p / **Free-Signup** / Mostly slow torrents
+* [iTorrent](https://itorrent.ws/) - Movies / TV / Sub / Dub / 1080p / 720p / **No-signup** / Mostly dead torrents
+* [HunTorrent](https://huntorrent.org/) - Movies / TV / Sub / Dub / 1080p / **ONLY USE FOR CAM TORRENTS** / Other than CAM releases the site is dead / **Sign-Up Required**
+* [DiabloTorrent](https://diablotorrent.net/login) - Movies / TV / Sub / Dub / 1080p / 720p / **Paid Sign-up** / Mostly slow Torrents
+* [Majomparádé](https://majomparade.net) - Movies / TV / Sub / Dub / 720p / **Sign-Up Required** / Mostly dead torrents
+* [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
 
 ***
 
