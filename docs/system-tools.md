@@ -344,7 +344,7 @@
 ## ▷ USB / Bootloaders
 
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives / [GitHub](https://github.com/pbatard/rufus)
-* ⭐ **[YUMI](https://yumiusb.com/)**, [2](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives
+* ⭐ **[Ventoy](https://ventoy.net/)** / [GitHub](https://github.com/ventoy/Ventoy) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ventoy-note) or [YUMI](https://yumiusb.com/), [2](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives / Multi USB
 * [⁠balenaEtcher](https://etcher.balena.io/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer

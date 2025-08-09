@@ -69,9 +69,9 @@
 
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)**
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* ⭐ **[DeepL](https://www.deepl.com/translator)** or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
-* [DeepL](https://www.deepl.com/translator) or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
+* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator)
