@@ -544,7 +544,7 @@
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* [SoftArchive](https://softarchive.download/newspapers/)
+* [SoftArchive](https://softarchive.download/newspapers)
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
