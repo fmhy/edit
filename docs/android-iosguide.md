@@ -428,42 +428,37 @@
 
 ***
 
-## ▷ Android Privacy
+## ▷ Privacy / Anti-Censorship
 
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)** - Tracker Monitor / Controller / [GitHub](https://github.com/TrackerControl/tracker-control-android)
 * ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)**, [VirusTotal](https://docs.virustotal.com/docs/mobile-apps) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
+* ⭐ **[Rethink App](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Clients
-* ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md) or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://github.com/Gedsh/InviZible?tab=readme-ov-file#invizible-pro) - Privacy Managers
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
-* [AFWall+](https://github.com/ukanth/afwall/) (root) or [Rethink App](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
-* [Ceno Browser](https://censorship.no/en/index.html) - Proxy Browser / [GitHub](https://github.com/censorship-no/ceno-browser)
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
 * [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / No Root Required / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-lock) 
 * [WG Tunnel](https://wgtunnel.com/) - WireGuard VPN App / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel/wgtunnel)
-* [Oblivion](https://github.com/bepass-org/oblivion) - Warp Client / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oblivion-translate)
 * [Intra](https://getintra.org) - Proxies
+* [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
+* [TrackerControl](https://trackercontrol.org/) - Tracker Monitor / Controller / [GitHub](https://github.com/TrackerControl/tracker-control-android)
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
-* [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
 * [v2rayNG](https://github.com/2dust/v2rayNG) - V2Ray Shadowsocks / Hyteria Proxy Client
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
-* [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
 * [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) (root) - Hide Applist
-* [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - Clear Android Packages Data
 * [JustUseApp](https://justuseapp.com/) - App Subscription Reviews
 
 ***

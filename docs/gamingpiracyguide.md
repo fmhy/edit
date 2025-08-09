@@ -884,7 +884,7 @@
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
 * [More or Less](https://moreorless.io/) - More or Less Guessing
-* [MusicNerd](https://musicnerd.io/), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
+* [Muzify](https://muzify.com/), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
