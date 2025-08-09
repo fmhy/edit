@@ -591,7 +591,7 @@
 * [Various Books](https://rentry.co/FMHYBase64#various-books-manuals)
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
-* [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
+* [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
@@ -639,8 +639,8 @@
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
-* [Chemistry.com](https://chemistry.com.pk/) - Chemistry / Books
-* [Biology.com](https://biology.com.pk/) - Biology / Books
+* [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
+* [Biology.com.pk](https://biology.com.pk/) - Biology / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
@@ -702,7 +702,7 @@
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
 * [OnlineProgrammingBooks](https://www.onlineprogrammingbooks.com/)
 * [TechBooksFree](https://techbooksforfree.com/)
-* [Ebooks-it](https://ebooks-it.org)
+* [eBooks-IT](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [GoalKicker](https://goalkicker.com/)
@@ -753,7 +753,7 @@
 * [Springer](https://www.springer.com/) - Research Papers
 * [Biomed Central](https://www.biomedcentral.com/) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
-* [RE3Data](https://www.re3data.org/) - Research Data
+* [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
@@ -805,7 +805,7 @@
 * [RPubs](https://rpubs.com/) - R Markdown Data Publishing
 * [DOAJ](https://doaj.org/) - Journals / Articles
 * [Proquest](https://www.proquest.com/) - Journals / Articles
-* [mdpi](https://www.mdpi.com/) - Articles
+* [MDPI](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
 * [E-International Relations](https://www.e-ir.info/) - International Relation Articles
@@ -815,8 +815,8 @@
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
-* [oatd](https://oatd.org/) - Theses / Dissertations
-* [lolmythesis](https://lolmythesis.com/) - Summarized Theses
+* [OATD](https://oatd.org/) - Theses / Dissertations
+* [lol my thesis](https://lolmythesis.com/) - Summarized Theses
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
@@ -872,7 +872,7 @@
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Rating / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Rating / Tracking / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Rating / Releases
-* [listal](https://www.listal.com/) - Book Database
+* [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
@@ -929,10 +929,10 @@
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
-* [kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
+* [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
 * [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [vndb](https://vndb.org/) - Visual Novels
+* [VNDB](https://vndb.org/) - Visual Novels
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 
 ***
@@ -945,7 +945,7 @@
 * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* ⭐ **[papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
+* ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [⁠Scribd DL](https://github.com/rkwyu/scribd-dl), [Scribd Download Script](https://greasyfork.org/en/scripts/535783) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
