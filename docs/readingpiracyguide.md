@@ -267,7 +267,7 @@
 * [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
-* [mupdf](https://mupdf.com/) - PDF / Windows, Linux, Android
+* [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
 * [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
 * [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
 * [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
@@ -275,7 +275,7 @@
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
 * [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
-* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
+* [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
@@ -293,8 +293,8 @@
 * [Readwok](https://readwok.com/)
 * [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html)
 * [Ebook Reader](https://reader.ttsu.app/manage)
-* [epub.js](https://github.com/johnfactotum/foliate-js)
-* [minimalreader](https://www.minimalreader.xyz/)
+* [foliate-js](https://github.com/johnfactotum/foliate-js)
+* [Minimal Reader](https://www.minimalreader.xyz/)
 * [Litera Reader](https://litera-reader.com/)
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
@@ -333,7 +333,7 @@
 * [Book Radio](https://bookradio.vercel.app/)
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.net/)
-* [Litgu.ru](https://litgu.ru/)
+* [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [audiobooks_English](https://t.me/audiobooks_English) - Telegram
 * [Audible (selected)](https://t.me/+GV_tJ_U7em04YjU9) - Telegram
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
@@ -400,7 +400,7 @@
 * [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor Required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
+* [Comics Downloader](https://github.com/Girbons/comics-downloader), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Comic Reader
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Comic Translate](https://github.com/ogkalu2/comic-translate) - Comic Translator
@@ -547,7 +547,7 @@
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* [Sanet.st](https://sanet.st/newspapers/)
+* [SoftArchive](https://softarchive.download/newspapers/)
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
@@ -587,7 +587,7 @@
 * [HathiTrust](https://www.hathitrust.org/)
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
-* [vdoc.pub](https://vdoc.pub/)
+* [VDOC.PUB](https://vdoc.pub/)
 * [Various Books](https://rentry.co/FMHYBase64#various-books-manuals)
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
