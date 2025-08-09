@@ -675,7 +675,7 @@
 ***
 
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** / [Frontends](https://emulation.gametechwiki.com/index.php/Emulators_on_Android#Launcher_Frontends)
-* 🌐 **[GSI List](https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-(GSI)-list)** - Generic System Image Index
+* 🌐 **[GSI List](https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-(GSI)-list)** - Generic System Image Index / [GSI Updates](https://t.me/GsiUpdate)
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [GitHub](https://github.com/Producdevity/EmuReady)
 * ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Telegram](https://telegram.me/termux24x7) / [Subreddit](https://www.reddit.com/r/termux) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux)
