@@ -502,9 +502,8 @@
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based Browser w/ Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
 * ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh)
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser / Privacy-Focused
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - Customizable Browsers Based on Firefox
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Customizable Browsers Based on Firefox
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser / Privacy-Focused
 * [Eruda](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 
 ***

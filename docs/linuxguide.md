@@ -816,5 +816,4 @@
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
-* [pass](https://www.passwordstore.org/) - Unix Password Manager
 * [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 Libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
