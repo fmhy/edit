@@ -186,6 +186,17 @@
 
 ***
 
+## ▷ LaTeX Tools
+
+* ⭐ **[Overleaf](https://www.overleaf.com/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Typst](https://typst.app/home) / [GitHub](https://github.com/typst/typst) - LaTeX Alternative
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
+
+***
+
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
