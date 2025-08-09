@@ -344,7 +344,6 @@
 ## ▷ USB / Bootloaders
 
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives / [GitHub](https://github.com/pbatard/rufus)
-* ⭐ **[Ventoy](https://ventoy.net/)** / [GitHub](https://github.com/ventoy/Ventoy) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ventoy-note) or [YUMI](https://yumiusb.com/), [2](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives / Multi USB
 * [⁠balenaEtcher](https://etcher.balena.io/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
@@ -366,7 +365,7 @@
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [stopupdates10](https://greatis.com/stopupdates10/) or [InControl](https://www.grc.com/incontrol.htm) - Enable / Disable Win 10/11 Updates / Can Cause Breakage
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
-* [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
+* [Extended Win 7 Updates](https://massgrave.dev/tsforge#windows-esu) - Extended Windows 7 Updates
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11

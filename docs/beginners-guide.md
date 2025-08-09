@@ -37,7 +37,8 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 ### Movies / Shows
 
 * **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
-* **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
+* **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
+* **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
 * **Drama Streaming: [DramaGo](https://dramago.me/) / [DramaCool](https://dramacool.com.tr/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**

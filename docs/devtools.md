@@ -1238,10 +1238,10 @@
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
 * [BadSSL](https://badssl.com/) - Test Clients Against Bad SSL Configs
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
-* [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
-* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [Let's Encrypt](https://letsencrypt.org/) or [ZeroSSL](https://zerossl.com/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) - Free SSL Certificates
 * [CertAlert](https://certalert.net/) - TLS/SSL Certificate Expiration Alerts
-* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
+* [acme.sh](https://github.com/acmesh-official/acme.sh) or [Certbot](https://certbot.eff.org/) - Automatically Configure / Renew Certificates
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 

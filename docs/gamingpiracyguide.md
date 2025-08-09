@@ -226,7 +226,7 @@
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://rentry.co/FMHYBase64#emulator-files)**
-* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators
+* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [DAT Files](https://rentry.co/FMHYBase64#ra-dat)
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * [Switch Emulation](https://rentry.co/FMHYBase64#switch-emulation) - Switch Emulator Setup Guides
@@ -504,7 +504,7 @@
 * [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
 * [Linxicon](https://linxicon.com/) - Word Connection Game
 * [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
-* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
+* [⁠Infinite Wordle](https://gregcameron.com/infinite-wordle/) or [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limits
 * [Fusele](https://fusele.netlify.app/) - Wordle Variant
 * [Word500](https://word500.com/) - Wordle + Mastermind
 * [Wordly](https://wordly.org/) - Wordle Clone
