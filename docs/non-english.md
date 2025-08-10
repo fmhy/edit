@@ -52,7 +52,7 @@
 * [maycima](https://maycima.com/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [anime3rb](https://anime3rb.com/) - Anime / Sub
-* [jotorrent](https://www.jotorrent.com/) - Anime / Sign-Ups Open Every Month
+* [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [Flowind](https://flowind.net/) - Cartoons
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
