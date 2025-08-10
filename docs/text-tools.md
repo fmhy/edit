@@ -31,7 +31,7 @@
 
 * 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[GitHub Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* ⭐ **[GitHub Gists](https://gist.github.com/)** - Multi-Syntax / Sign-Up
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)**, [2](https://notebin.de/) - Markdown Support / Syntax Highlighting / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
@@ -130,14 +130,14 @@
 ***
 
 * ⭐ **[LanguageTool](https://languagetool.org/)**
-* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
+* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
-* [EditGPT](https://www.editgpt.app/) - Sign-Up Required
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up Required
-* [Outwrite](https://www.outwrite.com/) - Sign-Up Required
+* [EditGPT](https://www.editgpt.app/) - Sign-Up
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up
+* [Outwrite](https://www.outwrite.com/) - Sign-Up
 
 ***
 
