@@ -42,7 +42,7 @@
 * ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
-* ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos-v3.vercel.app/), [4](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
+* ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [Primeshows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
@@ -580,7 +580,7 @@
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [1Shows](https://www.1shows.ru/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [P-Stream](https://pstream.mov/) / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
-* [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos-v3.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/38yFnFCJnA)
+* [CinemaOS](https://cinemaos.live/download), [2](https://cinemaos.tech/download), [3](https://cinemaos.me/download) - Movies / TV / Anime / [Discord](https://discord.gg/38yFnFCJnA)
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
@@ -678,7 +678,7 @@
 * [animepahe](https://animepahe.ru/) - Hard Subs / Dub / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](https://anime7.download/) - Sub
-* [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Signup Required
+* [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Sign-Up Required
 * [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [myanimetvbot](https://t.me/myanimetvbot), [Any_Animebot](https://t.me/Any_Animebot) or [anidlws](https://t.me/anidlws) - Telegram Anime Download Channels
