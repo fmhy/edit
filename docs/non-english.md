@@ -367,7 +367,7 @@
 
 ## ▷ Reading / Čtení
 
-* [xTrance](https://xtrance.info/) - Books / Download / Account Required
+* [xTrance](https://xtrance.info/) - Books / Download / Sign-Up Required
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 * [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
@@ -463,10 +463,10 @@
 * [french-streaming](https://www.french-streaming.tv) - Movies / TV / Anime
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
-* [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Account
-* [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Requires Account
-* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Account Required
-* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Account Required
+* [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Sign-Up Required
+* [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Sign-Up Required
+* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Sign-Up Required
+* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Sign-Up Required
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [toonanime](https://fr.toonanime.biz/) - Anime / Sub / Dub
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
@@ -790,7 +790,7 @@
 * [Anoboye](https://anoboye.com/) - Anime / Sub
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
-* [Irama Nusantara](https://www.iramanusantara.org/en) - Music / [Downloader](https://irnus-dl.slickerius.com/)
+* [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
 ## ▷ Reading / Membaca
 
@@ -1556,7 +1556,7 @@
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Sign-Up Required / [Telegram](https://t.me/playdedelink)
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Sign-Up Required / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [yaske](https://yaske.ru/) - Movies / TV / [Telegram](https://t.me/wwwyaskeru)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
