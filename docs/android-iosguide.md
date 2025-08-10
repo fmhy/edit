@@ -9,7 +9,7 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY‐Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#captcha-4pda), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html) / [Telegram](https://t.me/real4pda)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)**
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
@@ -367,8 +367,7 @@
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security & Privacy Hardened Android / Google Pixel Only / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
-* [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf)
-
+* [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf
 ***
 
 # ► Android Tools
@@ -1172,7 +1171,7 @@
 * 🌐 **[iOS Console Emulators](https://www.reddit.com/r/EmulationOniOS/wiki/emulators)** - Gaming Emulator Index
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[CodeVN](https://ios.codevn.net/)** / [Telegram](https://t.me/+1qK9KUZlfGs3ZDg1) or [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Orion to Translate
-* [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Orion to Translate / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#4pda-captcha), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
+* [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Orion to Translate / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#captcha-4pda), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [AppDB](https://appdb.to) - App Library
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source

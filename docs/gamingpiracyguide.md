@@ -17,11 +17,11 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup/ [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Signup
 * [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [UnionCrax](https://union-crax.xyz/) - Download / Pre-Installs / [Discord](https://discord.gg/dkVame6BQS)

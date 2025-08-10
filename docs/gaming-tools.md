@@ -303,7 +303,7 @@
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Offline Steam DRM Bypass / DLC Unlocker / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)**, [2](https://github.com/Detanup01/gbe_fork) / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
+* ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** - DLC Unlocker for Origin, EA & Uplay
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
