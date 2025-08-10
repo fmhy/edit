@@ -38,18 +38,18 @@
 ***
 
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Sign-Up
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Sign-Up
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Sign-Up
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
-* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Account Required
+* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Sign-Up
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
-* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Sign-Up
+* [Streamtape](https://streamtape.com/) - 15GB / Sign-Up / [.to](https://streamtape.to/)
 * [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
@@ -381,7 +381,7 @@
 
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
@@ -410,7 +410,7 @@
 
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
-* ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up Required
+* ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
