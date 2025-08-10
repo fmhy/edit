@@ -347,7 +347,7 @@
 * [⁠balenaEtcher](https://etcher.balena.io/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 
 ***
 
