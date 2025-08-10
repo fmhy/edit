@@ -431,7 +431,7 @@
 
 ## SMS Verification Sites
 
-* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
+* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**
