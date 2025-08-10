@@ -343,7 +343,7 @@
 # ► Multiplayer Tools
 
 * ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/)
-* [Liquipedia](https://liquipedia.net/) - Competitive Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
+* [Liquipedia](https://liquipedia.net/) - Competitive Gaming / ESports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 
 ***
@@ -396,7 +396,7 @@
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) or [Pelican](https://pelican.dev/) / [GitHub](https://github.com/pelican-dev/panel) - Game Server Management Panel
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
-* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Sign-Up Required
+* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
@@ -960,7 +960,7 @@
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/), [Master Duel Meta](https://www.masterduelmeta.com/) / [Discord](https://discord.com/invite/masterduelmeta) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists / Metas
-* [Untap.in](https://untap.in/) - Test Card Game Decks / Account Required
+* [Untap.in](https://untap.in/) - Test Card Game Decks / Signup
 
 ***
 
@@ -973,8 +973,8 @@
 * [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
-* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Account Required
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Account Required
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Signup
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Signup
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
 
