@@ -505,7 +505,7 @@
 * [Mozberg](https://mozberg.com/) - News Search
 * [NewsMinimalist](https://www.newsminimalist.com/) - AI News Aggregator
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
-* [Ground.news](https://ground.news/) - Signup Required
+* [Ground.news](https://ground.news/) - Sign-Up
 * [Upstract](https://upstract.com/)
 * [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)
