@@ -960,7 +960,7 @@
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/), [Master Duel Meta](https://www.masterduelmeta.com/) / [Discord](https://discord.com/invite/masterduelmeta) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists / Metas
-* [Untap.in](https://untap.in/) - Test Card Game Decks / Account Required
+* [Untap.in](https://untap.in/) - Test Card Game Decks / Sign-Up Required
 
 ***
 
@@ -973,8 +973,8 @@
 * [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
-* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Account Required
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Account Required
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Sign-Up Required
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Sign-Up Required
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
 
