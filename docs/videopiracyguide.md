@@ -84,7 +84,7 @@
 * ⭐ **[Flixer](https://flixer.su/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://flixer.su/discord)
 * [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
 * [yFlix](https://yflix.to/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
-* [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
+* [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
 * [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
@@ -120,14 +120,14 @@
 * [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies), [FreeGreatMovies](https://www.freegreatmovies.com/), [Voleflix](https://vole.wtf/voleflix/), [OpenCulture](https://www.openculture.com/freemoviesonline), [MoviesFoundOnline](https://moviesfoundonline.com/) or [Official YT Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) (US Only) - YouTube Movie Collections
 * [Freevee](https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
-* [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Sign-Up Required
+* [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Sign-Up
 * [Sling](https://watch.sling.com/) - Movies / TV / Live News / US Only
 * [⁠Mometu](https://watch.mometu.com/) - Movies / TV / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
 * [Fandango](https://athome.fandango.com/content/browse/free) - Movies / TV / US Only
 * [Shout! TV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next
 * [Kanopy](https://kanopy.com/) or [hoopla](https://www.hoopladigital.com/) - Movies / TV / US Only / Library Card Required
-* [Found TV](https://watch.foundtv.com/) - Found Footage Movies / Sign-Up Required
+* [Found TV](https://watch.foundtv.com/) - Found Footage Movies / Sign-Up
 * [7+](https://7plus.com.au/) - Movies / TV / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Filmzie](https://filmzie.com/) - Movies / TV
@@ -533,7 +533,7 @@
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
-* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Sign-Up Required
+* [tvQuickActions](https://rentry.co/FMHYBase64#tvquickactions) - Remote Button Remapper / Sign-Up
 
 ***
 
@@ -638,7 +638,7 @@
 * [RareDoramas](https://www.raredoramas.com/) - Rare JDrama / 480p
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
-* [Fanedit.org](https://fanedit.org/) - Fanedit Community / Sign-Up Required / DM Editors for Downloads
+* [Fanedit.org](https://fanedit.org/) - Fanedit Community / Sign-Up / DM Editors for Downloads
 * [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
 
 ***
@@ -670,7 +670,7 @@
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub / [Bulk Downloader](https://github.com/MaJoRX0/Tokyo-Downloader)
 * ⭐ **[Flugel Anime](https://rentry.co/FMHYBase64#flugel-anime)** - Sub
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / Google Account Required / [Telegram](https://t.me/AnimeKayo)
-* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / Sign-Up Required / [Discord](https://discord.gg/uZ85cbAg4T)
+* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / Sign-Up / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
@@ -678,7 +678,7 @@
 * [animepahe](https://animepahe.ru/) - Hard Subs / Dub / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](https://anime7.download/) - Sub
-* [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Signup Required
+* [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Sign-Up
 * [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [myanimetvbot](https://t.me/myanimetvbot), [Any_Animebot](https://t.me/Any_Animebot) or [anidlws](https://t.me/anidlws) - Telegram Anime Download Channels
@@ -749,7 +749,7 @@
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Rive](https://rivestream.org/)** - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets on Files
-* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up Required
+* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) or [RGShows](https://www.rgshows.me/torrent/) - Multi-Site Search
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
