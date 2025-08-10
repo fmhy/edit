@@ -38,18 +38,18 @@
 ***
 
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Sign-Up Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Sign-Up Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
-* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Account Required
+* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Sign-Up Required
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
-* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Sign-Up Required
+* [Streamtape](https://streamtape.com/) - 15GB / Sign-Up Required / [.to](https://streamtape.to/)
 * [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
