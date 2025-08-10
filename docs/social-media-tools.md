@@ -350,7 +350,7 @@
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
-* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://vorapis.pages.dev/#/join_community) - Restore Classic YouTube Layout / [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://discord.com/invite/tBBZQMscag) - Restore Classic YouTube Layout / [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
 * [Non-Rounded Design](https://greasyfork.org/en/scripts/453802) - Revert YouTube's New Rounded Design
 * [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [Tabview YouTube](https://greasyfork.org/en/scripts/501249) - View Comments / Info in Tab View
