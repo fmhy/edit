@@ -640,7 +640,7 @@
 ## ▷ Downloading / הורדה
 
 * [AnimeBlood](https://animebloodsub.net/) - Anime / Download / Sub
-* [ultsub](https://ultsub.co.il/) - Anime / Sub / [Discord](https://discord.gg/4Bc8b2W) / [Telegram](https://t.me/UltSub)
+* [ultsub](https://ultsub.co.il/) - Anime / Sub / [Telegram](https://t.me/UltSub) / [Discord](https://discord.gg/4Bc8b2W)
 
 ***
 
@@ -678,7 +678,7 @@
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
-* ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Discord](https://dsc.gg/toonshub) / [Telegram](https://t.me/s/toonshubupdates)
+* ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilBlasters](https://www.1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * ⭐ **[TamilMV](https://www.1tamilmv.tube/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
@@ -1536,7 +1536,7 @@
 
 * ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
-* [DonTorrent](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* [DonTorrent](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) / [Telegram](https://t.me/s/DonTorrent)
 * [EliteTorrent](https://www.elitetorrent.wf/) - Movies / TV
 * [Wolfmax4k](https://wolfmax4k.com/) - Movies / TV / 4K / 1080p
 * [Torrenflix](https://www.torrenflix.com/) - Movies / TV
