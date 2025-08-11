@@ -1258,6 +1258,7 @@
 
 ## ▷ iOS Relaxation
 
+* ⭐ **[Mindful Slumber](https://get.mindfulslumber.com)** - Tibetan Dream Yoga / Guided Sleep Meditations
 * ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
