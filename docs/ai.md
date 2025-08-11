@@ -16,8 +16,8 @@
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Flash / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-5 / GPT-5 mini Chatbot / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen 3 Coder / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (15 Daily) / Grok 4 (5 per 12 Hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[Qwen](https://qwen.ai/home)** / [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen 3 Coder / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / [Discord](https://discord.gg/QR7SARHRxK)
 * [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
@@ -333,7 +333,7 @@
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)**, [sdg-link](https://rentry.co/sdg-link), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[Civitai](https://civitai.com/)** - SD Model Index / [Subreddit](https://www.reddit.com/r/civitai/) / [Discord](https://discord.gg/UwX5wKwm6c) / [GitHub](https://github.com/civitai/civitai)
- [⁠Prompy](https://www.prompy.me/) or [promptoMANIA](https://promptomania.com/) - Prompt Indexes
+* [⁠Prompy](https://www.prompy.me/) or [promptoMANIA](https://promptomania.com/) - Prompt Indexes
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * [⁠ImagePromptGuru](https://imagepromptguru.net/) or [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb) - Determine Likely Used Image Prompts 
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Extension for Automatic1111

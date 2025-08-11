@@ -177,6 +177,7 @@
 
 ## ▷ GFW Bypass
 
+* ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
 * [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [ClashVerge](https://www.clashverge.dev/) / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev), [/r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
@@ -692,7 +693,7 @@
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.store/) - Movie / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
-* [OlaMovies](https://olamovies.help/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [OlaMovies](https://olamovies.help/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chrome Required
 * [Fojik](https://fojik.site/) - Movies
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -826,9 +827,9 @@
 * [StreamingCommunity](https://streamingcommunityz.life/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [Altadefinizione](https://altadefinizione.free/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
-* [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Movies / TV
 * [CB01](https://cb01net.buzz/) - Movies / TV
+* [RaiPlay](https://www.raiplay.it/) - Movies / TV / Dub / Italian VPN Required / Signup Unlocks Channel History
 * [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
 * [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeWorldITA2) / [Mirrors](https://www.animeworlditalia.com/)
 * [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p /[Telegram](https://t.me/AnimeSaturnRedirect) / [Mirrors](https://www.animesaturn.me/)
