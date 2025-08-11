@@ -25,7 +25,7 @@
 * [AllBooksWorld](https://allbooksworld.com/) - Books / [Telegram](https://t.me/allbooksworlddotcom)
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books / Download
 * [Library Land](https://library.land/) - Books / Online Reading
-* [BookFrom.net](https://www.bookfrom.net/)  - Books / Online Reading
+* [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [Novel12](https://novel12.com/) - Books / Online Reading
 * [⁠ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
@@ -142,7 +142,7 @@
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
-* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
+* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
@@ -910,7 +910,7 @@
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
-* [Mind Expanding Books](https://mindexpandingbooks.com) / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
+* [Mind Expanding Books](https://mindexpandingbooks.com) - Book Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books

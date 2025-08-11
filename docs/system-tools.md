@@ -52,7 +52,7 @@
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
-* [Kando](https://kando.menu/) - App Launcher / Pie Menu / [GitHub](https://github.com/kando-menu/kando) / [Discord](https://discord.gg/hZwbVSDkhy)
+* [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
@@ -173,7 +173,6 @@
 
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - OS Emulators / VMs
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ↪️ **[Hackintosh Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hackintosh)**
 * ⭐ **[VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html)** or **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [MultiPass](https://canonical.com/multipass) / [GitHub](https://github.com/canonical/multipass) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
@@ -189,6 +188,21 @@
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+
+***
+
+## ▷ Hackintosh
+
+* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly.
+
+***
+
+* ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - Hackintosh Building Guides
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide
+* [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - macOS on Unsupported Hardware
+* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS VM with QEMU
+* [Emaculation](https://www.emaculation.com/) - Virtual macOS Environments
+* [Hackintosh Tools](https://rentry.org/hackintosh-tools)
 
 ***
 
@@ -209,7 +223,7 @@
 ## ▷ Hardware Monitors
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
-* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / [GitLab](https://gitlab.com/coolercontrol/coolercontrol) / [Discord](https://discord.gg/MbcgUFAfhV)
+* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring

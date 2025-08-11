@@ -215,10 +215,10 @@
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
 * ⭐ **[WatchParty](https://www.watchparty.me/)** - Online / Virtual Browser
-* ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
+* ⭐ **[neko](https://neko.m1k1o.net/)** - Docker Virtual Browser / [GitHub](https://github.com/m1k1o/neko)
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/), [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
-* [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://x.com/getmetastream)
+* [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player
 * [VideoTogether](https://2gether.video/en-us/) - App
@@ -263,7 +263,7 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [Github](https://github.com/jellyfin/jellyfin)
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
@@ -282,7 +282,7 @@
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
-* [WatchIt](https://watchit.movie/) / [GitHub](https://github.com/WatchItDev/watchit-app) / [Discord](https://discord.com/invite/4vQG56NuHA) - Media Server
+* [WatchIt](https://watchit.movie/) - Media Server / [Discord](https://discord.com/invite/4vQG56NuHA) / [GitHub](https://github.com/WatchItDev/watchit-app)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Seanime](https://seanime.rahim.app/) - Anime Server
@@ -414,7 +414,7 @@
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
-* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/omni-media/omniclip) / [Discord](https://discord.com/invite/Nr8t9s5wSM)
+* [Omniclip](https://omniclip.app/) / [Discord](https://discord.com/invite/Nr8t9s5wSM) / [GitHub](https://github.com/omni-media/omniclip)
 * [Vididoo](https://vididoo.vercel.app/) - Multitool
 * [VideoCandy](https://videocandy.com/) - Multitool
 * [Video2Edit](https://www.video2edit.com/) - Multitool
