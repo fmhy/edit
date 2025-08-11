@@ -390,7 +390,6 @@
 * [notesGPT](https://usenotesgpt.com/) - AI Voice Notes
 * [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [ChatBox](https://github.com/Bin-Huang/chatbox), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
-* [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/) - Audio Recorder
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Gadgetbridge](https://gadgetbridge.org/) - Gadget Manager / [Supported Devices](https://gadgetbridge.org/gadgets/) / [Codeberg](https://codeberg.org/Freeyourgadget/Gadgetbridge)
