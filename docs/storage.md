@@ -37,7 +37,6 @@
 
 * [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor)
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451)
-* [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
 * [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g)
 * [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 * [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html)

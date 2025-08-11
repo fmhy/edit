@@ -28,6 +28,7 @@
 * [GLoad](https://gload.to/) - Download
 * [Gamesdrive](https://gamesdrive.net/) - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * [SteamGG](https://steamgg.net/) - Download / Pre-Installs / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
+* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#fluxy-rapacks) / [Discord](https://discord.gg/TBs8Te5nwn)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs / [Telegram](https://t.me/appnetica_info) / [Discord](https://discord.gg/TvKnH6P)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / [DDL Guide](https://elenemigos.com/guide) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
@@ -55,7 +56,6 @@
 * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download / PW: `gnarly`
-* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / Torrent / [Discord](https://discord.gg/TBs8Te5nwn)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [DODI Repacks](https://rentry.co/FMHYBase64#dodi) - Torrent / [Lootlink Bypass](https://rentry.co/lootlink) / **[Site Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dodi-warning)** / [Discord](https://discord.gg/D9WU7C9FSE)
@@ -72,6 +72,7 @@
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Sign-Up Required / [Discord](https://discord.gg/wfJs3eJvHa)
+* [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
 * [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
@@ -118,8 +119,8 @@
 ## ▷ Remakes / Ports
 
 * 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
-* 🌐 **[Game Decomps](https://decomps.samidy.com/)**, [2](https://rentry.co/Gamedecomps) / [GitHub](https://github.com/SamidyFR/Game-Decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games), [TheGamingEmporium](https://www.thegamingemporium.com/) or [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) - Game Decompilations
-* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - PC Ports, Decompilations, Remakes, Fan Games and more
+* 🌐 **[Game Decompilations](https://decomps.samidy.com/)**, [2](https://rentry.co/Gamedecomps) / [GitHub](https://github.com/SamidyFR/Game-Decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) or [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) - Game Decompilations
+* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** or [TheGamingEmporium](https://www.thegamingemporium.com/) - PC Ports, Decompilations, Remakes, Fan Games & more
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games

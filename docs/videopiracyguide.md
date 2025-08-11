@@ -11,7 +11,6 @@
 ***
 
 * ⭐ **[Cineby](https://www.cineby.app/)**, [2](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.gd/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * [Rive](https://rivestream.org/), [2](https://rivestream.net/) or [CorsFlix](https://watch.corsflix.net/), [2](https://corsflix.net/), [3](https://watch.corsflix.dpdns.org/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
@@ -40,6 +39,7 @@
 ***
 
 * ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
+* ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/ZKcN9KNdn6)
 * ⭐ **[Hexa](https://hexa.watch/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
 * ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
@@ -365,16 +365,17 @@
 
 * ⭐ **[TheTVApp](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
 * ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports
-* ⭐ **[DaddyLive](https://thedaddy.click/)** - TV / Sports / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
+* ⭐ **[DaddyLive TV](https://thedaddy.dad/24-7-channels.php)** - TV / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [USTVGo](https://ustvgo.click/) - TV / Sports / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7)
 * [LiveHDTV](https://www.livehdtv.com/) - TV
 * [IPTV Play](https://iptvplay.stream/live-tv) - TV / Sports
+* [⁠Globe TV](https://globetv.app/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [lmao.love](https://lmao.love/channels/) - TV / Sports
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
@@ -408,6 +409,7 @@
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[SportyHunter](https://sportyhunter.com/)**, [2](https://nflhunter.com/), [3](https://nhlstreams.io/v1/), [4](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/) / [Discord](https://discord.gg/streamed)
+* ⭐ **[DaddyLive](https://thedaddy.dad/)** - TV / Sports / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
 * ⭐ **[PPV.TO](https://ppv.to/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
 * ⭐ **[Sport7](https://sport7.pro/)** / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/xcdfVwgEx3)
 * ⭐ **[FSTV](https://fstv.us/)** / [Mirrors](https://gofstv.live/) / [Discord](https://discord.gg/j9EfEm4AMW)
@@ -834,7 +836,6 @@
 * ⭐ **[They Shoot Pictures](https://www.theyshootpictures.com/)** - Movie Top 1000 List
 * ⭐ **[FlickMetrix](https://flickmetrix.com/)** or [agoodmovietowatch](https://agoodmovietowatch.com/) - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
-* ⭐ **[TreasureTV](https://www.treasuretv.org/)** - Curated Television List
 * ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
@@ -845,6 +846,7 @@
 * [⁠kudos.wiki](https://kudos.wiki/) - Wikipedia Top 1000 List
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [They Shoot Zombies](https://theyshootzombies.com/) - Horror Movie Top 1000 List
+* [TreasureTV](https://www.treasuretv.org/) - Curated Television List
 * [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings

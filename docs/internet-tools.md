@@ -710,7 +710,6 @@
 * [WebCRX](https://webcrx.io/) - Easily Install Local CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
-* [Darkness](https://darkness.app/) - Dark Mode
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
