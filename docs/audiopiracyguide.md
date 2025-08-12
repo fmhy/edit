@@ -931,7 +931,6 @@
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
 * [Slowed and Reverb](https://slowedandreverb.studio/) - Make Slowed, Reverb and Remixed Songs
 * [BeatMachine](https://beatmachine.branchpanic.me/), [bungee](https://bungee.parabolaresearch.com/bungee-web-demo) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
-* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Visualizer
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 
 ***
