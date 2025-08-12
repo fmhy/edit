@@ -97,6 +97,7 @@
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYBase64#goa-psytrance-livesets) - DJ Livesets
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes / Streaming
+* [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Streaming
 * [⁠TestPressing](https://www.testpressing.org/) - Rare DJ Mixes / Streaming
 * [Rave Recording](https://rentry.co/fmhybase64#rave-library) - Rave Recordings / Archive
 * [Volume](https://volume.com/) - Live Cam Concerts
@@ -579,7 +580,7 @@
 * [⁠8Beats](https://8beats.co/) - Game Music Radio / [Discord](https://discord.gg/EB9CFRacgN)
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
 * [Cirrus Retro](https://cirrusretro.com/) - Game Music Radio
-* [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/) - Game Music Radio
+* [JetSetRadio](https://jetsetradio.live/), [2](https://jetsetradiofuture.live/) - Game Music Radio
 * [Rainwave](https://rainwave.cc/) - Game Music Radio
 * [RPGGamers Radio](http://www.rpgamers.net/radio/) - Game Music Radio
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
