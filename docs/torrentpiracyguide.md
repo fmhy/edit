@@ -29,7 +29,6 @@
 
 ## ▷ Aggregators
 
-* ⭐ **[Voyage](https://fisher.voyage/)** / [Discord](https://discord.gg/3y8uZNt8ud)
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
 * ⭐ **[Knaben](https://knaben.org/)**
