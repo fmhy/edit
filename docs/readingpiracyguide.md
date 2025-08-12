@@ -181,7 +181,6 @@
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
-* [Siva.sh](https://siva.sh/) - Study Hindu Knowledge via Tech / AI
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
 * [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
@@ -190,7 +189,6 @@
 * [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [HolyBooks](https://holybooks.com/) - Religious Texts
-* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
 * [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
 * [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible

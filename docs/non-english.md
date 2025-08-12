@@ -120,7 +120,6 @@
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
 
-
 ***
 
 # ► Bulgarian / Български
