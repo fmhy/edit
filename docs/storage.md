@@ -26,10 +26,11 @@
 ### Customizable New Tab Page
 
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
-* [Tabiverse](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tabiverse-extensions) / [Discord](https://discord.gg/MUgRGwE)
+* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue) - Customizable New Tab
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr) - Minimalist Startpage
+* [Renewed Tab](https://renewedtab.com/) / [GitLab](https://gitlab.com/renewedtab/renewedtab/) / [Discord](https://discord.gg/zYjR54b) - Customizable New Tab
 
-[mtab](https://github.com/maxhu08/mtab), [Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [Mue](https://github.com/mue/mue)
+[mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
 
 ***
 
