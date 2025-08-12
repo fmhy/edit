@@ -341,7 +341,7 @@
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Sign-Up Required
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
-* [NXBrew](https://nxbrew.net/) - ROMs / Switch / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
+* [NXBrew](https://nxbrew.net/) - ROMs / Switch
 * [SwitchROM](https://switchrom.net/) - ROMs / Switch
 * [SwitchROM.io](https://switchrom.io/) - ROMs / Switch
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
