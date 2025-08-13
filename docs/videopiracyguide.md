@@ -249,9 +249,9 @@
 
 ## ▷ Cartoon Streaming
 
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcostream.tv/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/) / [Anti-Adblock Fix](https://pastebin.com/Lq5xwhvH)
 * [KimCartoon](https://kimcartoon.si/) - TV
 * [HiCartoon](https://hicartoon.to/) - TV / Movies
-* [WCO](https://www.wco.tv/), [2](https://www.wcostream.tv/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/)
 * [KissCartoon](https://kisscartoon.nz/) - TV / [Discord](https://discord.gg/YwpgPrWVSH)
 * [TamilToon](https://tamiltoon.net/) - TV / Movies / Anime / Switch Language in Player
 * [Watch Cartoon Online](https://www.watchcartoononline.com/) - TV / Movies / Anime
@@ -590,7 +590,7 @@
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
 * [OlaMovies](https://olamovies.help/) - Movies / TV / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chrome Required
 * [KatMovie4k](https://katworld.net/?type=Katmovie4k) - Movies / TV / 4K
-* [PSArips](https://psa.wf/) - Movies / TV / 4K / Enable `AdGuard – Ads` in uBO
+* [PSArips](https://psa.wf/) - Movies / TV / 4K
 * [DDLBase](https://ddlbase.com/) - Movies / 4K
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [StagaTV](https://www.stagatv.com/) - Movies / TV

@@ -350,7 +350,7 @@
 * [Qwant](https://www.qwant.com/) - Uses Bing (partially) / [Discord](https://discord.com/invite/vjhCHnFMkw)
 * [Swisscows](https://swisscows.com/) - Uses Bing
 * [YaCy](https://yacy.net/) - Decentralized / [GitHub](https://github.com/yacy/yacy_search_server)
-* [Startpage](https://www.startpage.com/) - Uses Google / [Subreddit](https://www.reddit.com/r/StartpageSearch/), [2](https://www.reddit.com/r/startpages/)
+* [Startpage](https://www.startpage.com/) - Uses Google / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted / [GitHub](https://github.com/searxng/searxng)
 
 ***

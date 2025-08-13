@@ -59,7 +59,7 @@
 # ► Free Stuff
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
-* AppAgg Apps - [Windows](https://appagg.com/sale/windows/free/) / [Android](https://appagg.com/sale/android/free/) / [iOS](https://appagg.com/sale/ios/free) / [macOS](https://appagg.com/sale/macos/free/) - Multi-Platform / Apps / [Subreddit](https://www.reddit.com/r/AppAgg/) / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
+* [AppAgg](https://appagg.com/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
 * [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
@@ -80,7 +80,6 @@
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discordapp.com/invite/C3K4bBh)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
-* AppAgg Games - [Steam](https://appagg.com/sale/steam/free/) / [Windows](https://appagg.com/sale/windows-games/free/) / [Android](https://appagg.com/sale/android-games/free/) / [iOS](https://appagg.com/sale/ios-games/free/) / [macOS](https://appagg.com/sale/macos-games/free/) / [Xbox](https://appagg.com/sale/xbox/free/) / [Subreddit](https://www.reddit.com/r/AppAgg/)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -605,7 +604,25 @@
 * [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
+
+***
+
+## ▷ Self Care
+
+* **Warning** - If you can, avoid sites like Amazon. It's best to only buy from official and/or authorized retailers.
+
+***
+
+* ⭐ **[r/SkincareAddiction](https://www.reddit.com/r/SkincareAddiction/wiki/index/)** - Skincare Wiki
+* ⭐ **[Ultimate CG Guide](https://docs.google.com/document/d/1Q6Dj9WAZxlfBhJSyS5on2rw3-if5cOV3oV-dQ3B0AHA)** - Curly Hair Guide / [Subreddit](https://www.reddit.com/r/curlyhair/)
+* ⭐ **[Tressless](https://tressless.com/)** - Hair Loss Encyclopedia
+* [INCIDecoder](https://incidecoder.com/) or [SkinSignal](https://skinsignal.com/) - Product Analysis / Ingredient Databases
+* [CurlsBot](https://www.curlsbot.com) or [Is it CG?](https://www.isitcg.com/) - CG Ingredient Analyzers / [Note]()
+* [Lab Muffin](https://labmuffin.com/) - Beauty Science Articles
+* [r/Wetshaving](https://www.reddit.com/r/Wetshaving/wiki/index/) - Shaving Wiki
+* [r/femboy Wiki](https://www.reddit.com/r/femboy/wiki/index/) - Feminisation & Feminine Self Care Wiki / SFW Only
+* [DermNet](https://dermnetnz.org/) - Dermatology Resource / Conditions Index
+* [r/HaircareScience](https://www.reddit.com/r/HaircareScience/wiki/index/) - Haircare Wiki
 
 ***
 
@@ -614,7 +631,7 @@
 * 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
-* ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Subreddit](https://www.reddit.com/r/BodyweightFitness) / [Discord](https://discord.gg/bwf)
+* ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Discord](https://discord.gg/bwf)
 * ⭐ **[/u/KNightNox Diagram](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - Zoomable Exercise Diagram
 * [Hevy](https://www.hevyapp.com/), [Boostcamp](https://www.boostcamp.app/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
@@ -1030,7 +1047,6 @@
 
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [App Sales](https://www.app-sales.net/nowfree/) - Android Apps
-* [AppAgg](https://appagg.com/) - Android / iOS Apps
 * [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - ndroid Apps
 * [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) - Android Deal App
