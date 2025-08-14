@@ -538,6 +538,7 @@
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
+* [Mathos AI](https://www.mathgptpro.com/) - The best AI math solver, calculator and tutor
 
 ***
 
