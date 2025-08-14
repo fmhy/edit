@@ -284,7 +284,7 @@
 
 ## ▷ Browser Ebook Readers
 
-* ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)** / [2](https://mybrowseraddon.com/reader-view.html)
+* ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 * [Annas Archive Reader](https://annas-archive.org/view)
 * [Flow](https://www.flowoss.com/)
 * [Online Cloud File Viewer](https://www.fviewer.com/)
@@ -384,7 +384,7 @@
 * [ReadAllComics](https://readallcomics.com/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
+* [Read Full Comic](https://readfullcomic.com/), [2](https://viewcomiconline.com/)
 * [ZipComic](https://www.zipcomic.com/)
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
@@ -873,6 +873,7 @@
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
+* [MangaBaka](https://mangabaka.dev/) - Multi-Site Manga / Novel Database / [Discord](https://discord.com/invite/XYtPtMkbKs)
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community

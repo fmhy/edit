@@ -56,8 +56,8 @@
 
 ***
 
-* ⭐ **[DistroChooser](https://distrochooser.de/)**
-* ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
+* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index / [Advanced Search](https://distrowatch.com/search.php#advanced)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [ArchiveOS](https://archiveos.org/)
@@ -481,7 +481,7 @@
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
-* [Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
+* [Piper](https://github.com/OHF-Voice/piper1-gpl) - Raspberry Pi Text-To-Speech
 
 ***
 
@@ -622,7 +622,7 @@
 * [Haxmac](https://haxmac.cc/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacKed](https://macked.app/)
-* [WebCatalog](https://webcatalog.io/)
+* [WebCatalog](https://webcatalog.io/) - Signup
 * [Macintosh Garden](https://macintoshgarden.org/) - Oldschool Software
 * [⁠MacintoshRepository](https://www.macintoshrepository.org/) - Oldschool Software
 * [ThriftMac](https://thriftmac.com/) - Freeware
@@ -677,7 +677,7 @@
 ## ▷ Mac Gaming
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
-* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
+* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** / [Discord](https://discord.gg/28CAAr6SpB) or [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility 
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games
@@ -686,7 +686,6 @@
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [Discord](https://discord.com/invite/rHJ2uqdquK) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
-* [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac Gaming Compatibility Database
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 
 ***

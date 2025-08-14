@@ -43,8 +43,8 @@
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)**, [2](https://csrin.org/) - Game Piracy Index
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
@@ -614,7 +614,7 @@
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Discord](https://discord.gg/bwf)
 * ⭐ **[/u/KNightNox Diagram](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - Zoomable Exercise Diagram
-* [Hevy](https://www.hevyapp.com/), [Boostcamp](https://www.boostcamp.app/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
+* ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
@@ -915,7 +915,7 @@
 ***
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List / [GitHub](https://github.com/DefiLlama/chainlist)
-* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Codeberg](https://codeberg.org/pluja/kycnotme)
+* 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Source Code](https://codeberg.org/pluja/kycnotme)
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure / [Subreddit](https://www.reddit.com/r/WalletScrutiny) / [Discord](https://discord.gg/yCNdcSJw9k) / [GitLab](https://gitlab.com/walletscrutiny/walletScrutinyCom)
 * ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager / [Discord](https://discord.rotki.com/) / [GitHub](https://github.com/rotki)
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
@@ -1024,15 +1024,15 @@
 
 ***
 
-## ▷ Mobile Apps
+## ▷ Apps
 
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [App Sales](https://www.app-sales.net/nowfree/) - Android Apps
 * [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - ndroid Apps
+* [Play-Deals](https://github.com/psuzn/Play-Deals) - Android Apps
 * [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) - Android Deal App
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Android / iOS Apps
-* [⁠/r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - iOS Apps
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Multi-Store / Multi Platform
+* [⁠/r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Apple Apps
 
 ***
 
@@ -1259,7 +1259,9 @@
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [World Draw](https://world-draw.appspot.com/draw)
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
-* [Crayon Town](https://crayon.town/) - Infinite Online Canvas
+* [Wplace](https://wplace.live/) - Infinite Pixel Art World Map Canvas
+* [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
+* [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [Monsterland](https://monsterland.net/) - Collaborative Monster Drawing
 * [JS Kid Pix](https://kidpix.app/) - Browser JS KidPix
@@ -1267,7 +1269,6 @@
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [TenThousandPixels](https://tenthousandpixels.com/) - Online Pixel Canvas
-* [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
 * [Where Is The Google Car](https://www.whereisthegooglecar.com/) - Google Car Images / Locations
@@ -1295,7 +1296,7 @@
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](https://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](https://arkadia.xyz/) - Infinite Zooming Paintings
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
 * [Magnet Poetry](https://goblin-heart.net/sadgrl/magnet-poetry/) - Magnet Poetry
-* [YourNameInLandsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/) - Spell Anything via Satellite Images
+* [YourNameInLandsat](https://science.nasa.gov/specials/your-name-in-landsat/) - Spell Anything via Satellite Images
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
 * [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 * [webgbcam](https://maple.pet/webgbcam/) - Game Boy Camera in Browser

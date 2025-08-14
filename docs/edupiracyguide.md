@@ -738,6 +738,7 @@
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
+* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Language History](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#m%C4%81ori-note)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
 ***
@@ -1303,7 +1304,7 @@
 
 * 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
 * ⭐ **[OnePrep](https://oneprep.xyz/)** - SAT Practice Exams / Questions
-* [SAT Slayer](https://www.satslayer.org/) / [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
+* [SAT Slayer](https://www.satslayer.org/), [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions

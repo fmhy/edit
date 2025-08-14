@@ -528,8 +528,8 @@
 
 * ⭐ **[Android Studio](https://developer.android.com/studio)** or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
+* ⭐ **[Squircle-CE](https://github.com/massivemadness/Squircle-CE)** - Android Code Editor
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
-* [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
@@ -706,7 +706,7 @@
 * [Buttons.cool](https://www.buttons.cool/) - Copy CSS Buttons
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
-* [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
+* [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [patternCraft](https://patterncraft.fun/), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/) - CSS Animations
 
@@ -773,7 +773,7 @@
 * ⭐ **[Ray.st](https://ray.st/)**, [BuiltWith](https://builtwith.com/) or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
-* [DataNodes](https://datanodes.to/) - Webmasters Only File Host / [Discord](https://discord.gg/mKyBMyeKvh)
+* [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
@@ -826,7 +826,7 @@
 ## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
-* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
+* ⭐ **[Webstudio](https://webstudio.is/)** - Code Editor
 * ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators

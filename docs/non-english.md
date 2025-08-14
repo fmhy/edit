@@ -822,7 +822,6 @@
 
 * [OverDay](https://overday.org/) - Courses / Books / [Telegram](https://t.me/Overposting1) / [Mirrors](https://justpaste.it/OVERPOSTING) / [2](https://filecrypt.co/Container/B25EED8329.html)
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
-* [StreamingCommunity](https://github.com/Arrowar/StreamingCommunity) - Movies / TV / Download Script
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
@@ -1013,7 +1012,7 @@
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
+* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript)
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1338,7 +1337,7 @@
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
 * ⭐ **[RuTracker](https://rutracker.org/)** - Video / Audio / Comics / Magazines / VPN Required / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
-* ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[m0nkrus](https://w16.monkrus.ws/)**, [2](https://vk.com/monkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * [UZTracker](https://uztracker.net/) - Video / Audio / Books
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
