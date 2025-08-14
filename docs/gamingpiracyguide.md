@@ -142,7 +142,7 @@
 * [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
 * [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo / [GitHub](https://github.com/diasurgical/devilutionx)
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878), [2](https://sonic3air.boards.net/board/6/mod-releases) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://sonic3air.boards.net/board/6/mod-releases), [2](https://gamebanana.com/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
@@ -270,41 +270,39 @@
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
 * ⭐ **[/r/ROMs Mega](https://r-roms.github.io/)** - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs / [Telegram](https://t.me/s/myrient) / [Discord](https://discord.gg/4kVP9AuQ24)
-* ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs / [Discord](https://discord.gg/3NyMZKxhUA)
+* ⭐ **[CrocDB](https://crocdb.net/)** - ROMs / [Discord](https://discord.gg/3NyMZKxhUA)
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs / [Discord](https://discord.gg/dvk6W6vZmp)
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * ⭐ **[RetroGameTalk](https://retrogametalk.com/)** / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) / [GitHub](https://github.com/Bonmarioinc/BonmarioRomHacks/) - ROM Fan Translations / Hacks
-* [Vimms Lair](https://vimm.net/) - Emulators / ROMs / [Restore Downloads](https://greasyfork.org/en/scripts/495800) / [Discord](https://discord.com/invite/XReX2ZGNcV)
-* [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
+* [Vimms Lair](https://vimm.net/) - ROMs / [Restore Downloads](https://greasyfork.org/en/scripts/495800) / [Discord](https://discord.com/invite/XReX2ZGNcV)
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
-* [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
+* [Zophar's Domain](https://www.zophar.net/) - ROM Mods
 * [TheRomDepot](https://theromdepot.com/) - ROMs
-* [BlueRoms](https://www.blueroms.ws/) - Emulators / ROMs / Torrents
-* [⁠EpicROMs](https://epicroms.net/roms/) - Emulators / ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
+* [BlueRoms](https://www.blueroms.ws/) - ROMs / Torrents
+* [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip
-* [Romsie](https://roms2000.com/) - Emulators / ROMs
-* [Retro Vault](https://www.retrospot.net/vault/) - Emulators / ROMs
-* [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [Romsever](https://romsever.com) - Emulators / ROMs
-* [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs
-* [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
-* [Emu-Land](https://www.emu-land.net/en) - Emulators / ROMs
-* [HexRom](https://hexrom.com/) - Emulators / ROMs / [Telegram](https://t.me/Hexrom_Com)
-* [GameGinie](https://gameginie.com/) - Emulators / ROMs
-* [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
-* [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
-* [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
-* [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
-* [TechToROMs](https://techtoroms.com/) - Emulators / ROMs
+* [Romsie](https://roms2000.com/) - ROMs
+* [Retro Vault](https://www.retrospot.net/vault/) - ROMs
+* [Retrostic](https://www.retrostic.com/) - ROMs
+* [Romsever](https://romsever.com) - ROMs
+* [ROMsGames](https://www.romsgames.net/roms/) - ROMs
+* [ConsoleROMs](https://www.consoleROMs.com/) - ROMs
+* [ROMsHQ](https://romshq.com/) - ROMs
+* [Emu-Land](https://www.emu-land.net/en) - ROMs
+* [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
+* [GameGinie](https://gameginie.com/) - ROMs
+* [The Old Computer](https://www.theoldcomputer.com/) - ROMs
+* [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
+* [ROMsPURE](https://ROMspure.cc/) - ROMs
+* [Romspedia](https://www.romspedia.com/) - ROMs
+* [TechToROMs](https://techtoroms.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
-* [GLoad](https://gload.to/) - ROMs
 * [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://romsfun.com/) - ROMs
 * [FreeROMs](https://www.freeroms.com/) - ROMs
@@ -312,13 +310,13 @@
 * [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
-* [Ziperto](https://ziperto.com/) - ROMs / **Avoid [Fake](https://ibb.co/wWJbkX6) Buttons** / [Discord](https://discord.gg/VgZ66bM87u)
+* [Ziperto](https://ziperto.com/) - ROMs / [Discord](https://discord.gg/VgZ66bM87u)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
-* [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
+* [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
