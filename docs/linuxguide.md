@@ -290,7 +290,7 @@
 * [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
-* [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic Games Launcher / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+* [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
@@ -683,7 +683,8 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games
 * [⁠MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [Discord](https://discord.com/invite/rHJ2uqdquK) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
+* [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+* [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launcher
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
 * [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac Gaming Compatibility Database
