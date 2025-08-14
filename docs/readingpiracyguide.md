@@ -83,6 +83,7 @@
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
+* [All Free Books](https://allfreebooks.org/) - Books
 * [ePDF](https://epdf.tips/), [2](https://epdf.pub/) - Books
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
