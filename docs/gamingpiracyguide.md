@@ -142,7 +142,7 @@
 * [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
 * [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo / [GitHub](https://github.com/diasurgical/devilutionx)
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://sonic3air.boards.net/board/6/mod-releases), [2](https://gamebanana.com/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods (Official)](https://sonic3air.boards.net/board/6/mod-releases), [Alt](https://gamebanana.com/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games

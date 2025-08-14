@@ -481,7 +481,7 @@
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
-* [Piper](https://github.com/rhasspy/piper) - Raspberry Pi Text-To-Speech
+* [Piper](https://github.com/OHF-Voice/piper1-gpl) - Raspberry Pi Text-To-Speech
 
 ***
 

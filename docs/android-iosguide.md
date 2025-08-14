@@ -420,7 +420,7 @@
 * ⭐ **[System Wide Adblocking](https://redd.it/oyfmr1)** - System Wide Adblocking Guide
 * ⭐ **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** - Adblocking App
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Chromium](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-* ⭐ **[Hermit](https://rentry.co/FMHYBase64#hermit)** / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Web App Container
+* ⭐ **[Hermit](https://rentry.co/FMHYBase64#hermit)**, [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Web App Container
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 
@@ -629,8 +629,8 @@
 ## ▷ Maps / Location
 
 * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
-* [FMD Android](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
-* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional) / [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
+* [FMD Android](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
+* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional), [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) (root) - Fake GPS Location
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
@@ -826,7 +826,7 @@
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
-* [Lotus](https://github.com/dn0ne/lotus) / [2](https://f-droid.org/packages/com.dn0ne.lotus)
+* [Lotus](https://github.com/dn0ne/lotus), [2](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 * [Harmonoid](https://harmonoid.com/)
 * [Finamp](https://github.com/jmshrv/finamp) or [Fintunes](https://www.fintunes.app/) / [GitHub](https://github.com/leinelissen/jellyfin-audio-player) - Jellyfin Audio Players
@@ -839,7 +839,7 @@
 
 ***
 
-* ⭐ **[Metrolist](https://github.com/mostafaalagamy/metrolist)**, [OuterTune](https://github.com/OuterTune/OuterTune) or [InnerTune](https://github.com/Malopieds/InnerTune) / [2](https://github.com/z-huang/InnerTune) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://github.com/mostafaalagamy/metrolist)**, [OuterTune](https://github.com/OuterTune/OuterTune) or [InnerTune](https://github.com/Malopieds/InnerTune), [2](https://github.com/z-huang/InnerTune) - YouTube Music Players / Innertune Forks / Audio Players
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
 * [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
@@ -1228,7 +1228,7 @@
 
 * ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)** - Ad-Free Spotify / Sideloaded / [App Repos](https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories) / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) / [Telegram](https://t.me/SpotilifeIPAs)
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
-* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Ad-Free / Modded YouTube Music / [2](https://dvntm0.github.io/) / [Discord](https://discord.gg/BhdUyCbgkZ)
+* ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Ad-Free / Modded YouTube Music / [Discord](https://discord.gg/BhdUyCbgkZ)
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming

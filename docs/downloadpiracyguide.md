@@ -117,7 +117,7 @@
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)**
-* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
+* ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
 * ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
