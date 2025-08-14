@@ -38,7 +38,7 @@
 ***
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
-* ⭐ **JDownloader Tools** - [Debloat Guide](https://rentry.org/jdownloader2) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader/)
+* ⭐ **JDownloader Tools** - [Debloat Guide](https://rentry.org/jdownloader2) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 * [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
