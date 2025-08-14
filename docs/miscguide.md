@@ -78,7 +78,7 @@
 
 ## ▷ Free Games
 
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discordapp.com/invite/C3K4bBh)
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
@@ -607,25 +607,6 @@
 
 ***
 
-## ▷ Self Care
-
-* **Warning** - If you can, avoid sites like Amazon. It's best to only buy from official and/or authorized retailers.
-
-***
-
-* ⭐ **[r/SkincareAddiction](https://www.reddit.com/r/SkincareAddiction/wiki/index/)** - Skincare Wiki
-* ⭐ **[Ultimate CG Guide](https://docs.google.com/document/d/1Q6Dj9WAZxlfBhJSyS5on2rw3-if5cOV3oV-dQ3B0AHA)** - Curly Hair Guide / [Subreddit](https://www.reddit.com/r/curlyhair/)
-* ⭐ **[Tressless](https://tressless.com/)** - Hair Loss Encyclopedia
-* [INCIDecoder](https://incidecoder.com/) or [SkinSignal](https://skinsignal.com/) - Product Analysis / Ingredient Databases
-* [CurlsBot](https://www.curlsbot.com) or [Is it CG?](https://www.isitcg.com/) - CG Ingredient Analyzers / [Note]()
-* [Lab Muffin](https://labmuffin.com/) - Beauty Science Articles
-* [r/Wetshaving](https://www.reddit.com/r/Wetshaving/wiki/index/) - Shaving Wiki
-* [r/femboy Wiki](https://www.reddit.com/r/femboy/wiki/index/) - Feminisation & Feminine Self Care Wiki / SFW Only
-* [DermNet](https://dermnetnz.org/) - Dermatology Resource / Conditions Index
-* [r/HaircareScience](https://www.reddit.com/r/HaircareScience/wiki/index/) - Haircare Wiki
-
-***
-
 ## ▷ Workout / Exercise
 
 * 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
@@ -699,7 +680,7 @@
 
 ## ▷ Detoxing / Sobriety
 
-* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
+* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
 * [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
 * [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
@@ -1025,7 +1006,7 @@
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
 * ⭐ **[GG.deals](https://gg.deals/deals/)** - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discordapp.com/invite/C3K4bBh)
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [Discord](https://github.com/nachoaldamav/egdata)
 * [SteamBase](https://steambase.io/sales) - Steam Sales / [Discord](https://discord.gg/C7fxdbCf6A)
