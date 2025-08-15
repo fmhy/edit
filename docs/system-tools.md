@@ -118,7 +118,7 @@
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
-* [PowerShell Scripts](https://github.com/fleschutz/PowerShell) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Alt Shell Scripts
+* [PowerShell Scripts](https://github.com/fleschutz/PowerShell), [PowershellGallery](https://www.powershellgallery.com/) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Shell Scripts
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 
 ***
@@ -223,6 +223,7 @@
 ## ▷ Hardware Monitors
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
+* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor
@@ -231,7 +232,6 @@
 * [Task Manager DeLuxe](https://www.mitec.cz/tmx.html) - Task Manager Alt
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
 * [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor
 * [bottom](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors
 
 ***
