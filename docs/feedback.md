@@ -37,6 +37,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
+* *"Thank you to whoever made the website,it has made things easier for a lot of people. I pinned this website on an old laptop I installed linux mint xfce on for one of my dads friends who is about 65 years old and he loves it, free media is awesome."*
+
 * *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*
 
 * *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
