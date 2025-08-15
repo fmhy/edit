@@ -119,7 +119,8 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/)**
 * ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
-* ⭐ **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)** or [GenP](https://rentry.co/FMHYBase64#genp) - Adobe Software
+* ⭐ **[m0nkrus](https://w16.monkrus.ws/)**, [2](https://vk.com/monkrus) - Adobe Software Archive / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **Adobe Tools** - [GenP](https://rentry.co/FMHYBase64#genp) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Adobe Guide](https://rentry.co/FMHYBase64#adobe-guide)
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/)
