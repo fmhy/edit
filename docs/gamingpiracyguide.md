@@ -304,7 +304,6 @@
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://romsfun.com/) - ROMs
-* [FreeROMs](https://www.freeroms.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs / [Discord](https://discord.gg/662GhC76tJ)
 * [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
