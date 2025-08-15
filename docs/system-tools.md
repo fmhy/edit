@@ -118,7 +118,7 @@
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
-* [PowerShell Scripts](https://github.com/fleschutz/PowerShell) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Alt Shell Scripts
+* [PowerShell Scripts](https://github.com/fleschutz/PowerShell), [PowershellGallery](https://www.powershellgallery.com/) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Shell Scripts
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 
 ***
