@@ -250,9 +250,9 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcostream.tv/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/) / [Anti-Adblock Fix](https://pastebin.com/Lq5xwhvH)
 * ⭐ **[KimCartoon](https://kimcartoon.si/)** - TV
 * [HiCartoon](https://hicartoon.to/) - TV / Movies
+* [WCO](https://www.wco.tv/), [2](https://www.wcostream.tv/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/)
 * [KissCartoon](https://kisscartoon.nz/) - TV / [Discord](https://discord.gg/YwpgPrWVSH)
 * [TamilToon](https://tamiltoon.net/) - TV / Movies / Anime / Switch Language in Player
 * [Watch Cartoon Online](https://www.watchcartoononline.com/) - TV / Movies / Anime
