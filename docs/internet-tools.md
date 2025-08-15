@@ -131,6 +131,7 @@
 * [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
 * [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
 * [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
+* [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en) - Scan QR code from page, image or camera
 
 ***
 
