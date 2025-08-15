@@ -37,7 +37,7 @@
 * [TriahGames](https://triahgames.com/) - Download / [Discord](https://discord.gg/vRxJNNcJNh) / PW: `www.triahgames.com`
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
 * [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
-* [Games4U](https://games4u.org/) - Download / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Sources on DDL Pages
+* [Games4U](https://games4u.org/) - Download / Use [Adblock / Popup-Block](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Sources on DDL Pages
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC

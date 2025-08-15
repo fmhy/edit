@@ -629,7 +629,7 @@
 ## ▷ Maps / Location
 
 * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
-* [FMD Android](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
+* [Find My Device (FMD)](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional), [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) (root) - Fake GPS Location
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
