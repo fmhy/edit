@@ -287,7 +287,7 @@
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
-* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X]() or [Superimage](https://superimage.io/) - Image Upscalers
+* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://rentry.co/fmhybase64#galaxy-enhance-x) or [Superimage](https://superimage.io/) - Image Upscalers
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
 * [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
@@ -918,8 +918,8 @@
 * [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
-* [Great Courses Plus Premium]() - Courses
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
+* [Great Courses Plus Premium](https://rentry.co/fmhybase64#great-courses) - Courses
 * [Showly](https://github.com/michaldrabik/showly) - TV Trackers
 
 ***
