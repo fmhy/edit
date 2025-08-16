@@ -557,7 +557,7 @@
 * [xCine](https://xcine.click) - Movies / TV / Dub / 720p
 * [Kinokiste](https://kinokiste.live/) - Movies / TV / Dub / 720p
 * [streamkiste.taxi](https://streamkiste.taxi/) - Movies / TV / Dub / 720p
-* [Einschalten](https://einschalten.in/) - Movies / TV / Dub / 720p
+* [Einschalten](https://einschalten.in/) - Movies / Dub / 720p
 * [Haschcon](https://haschcon.com/) - Movies / 720p
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
