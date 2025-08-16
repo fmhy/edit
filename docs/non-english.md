@@ -833,7 +833,7 @@
 ## ▷ Streaming
 
 * [StreamingCommunity](https://streamingcommunityz.app/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
-* [Altadefinizione](https://altadefinizione.free/) - Movies / Sub / Dub / 1080p / 4K
+* [Altadefinizione](https://altadefinizionegratis.gold/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/+x_9jyFBbYBpkYTRi)
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Italian VPN Required / Signup Unlocks Extra Features
 * [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Italian VPN Required / Signup Unlocks Channel History
