@@ -914,6 +914,7 @@
 * ⭐ **[Subscene](https://sub-scene.com/)** - Subtitles
 * ⭐ **[SubDL](https://subdl.com/)** - Subtitles
 * ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
+* ⭐ **[Subscenelk](https://www.subscenelk.com/)** - This website provides English and Sinhala subtitles for most Indian movies and TV series.
 * [Subsearch](https://github.com/vagabondHustler/subsearch) or [Subliminal](https://subliminal.readthedocs.io/) - Python Download Scripts
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [SubSource](https://subsource.net/) - Subtitles
