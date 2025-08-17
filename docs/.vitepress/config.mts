@@ -161,7 +161,10 @@ export default defineConfig({
       text: '📝 Edit this page'
     },
     outline: 'deep',
-    logo: '/fmhy.ico',
+    logo: {
+      src: '/fmhy.ico',
+      alt: 'FMHY Logo'
+    },
     nav,
     sidebar,
     socialLinks
