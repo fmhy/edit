@@ -25,6 +25,7 @@
 * [AllBooksWorld](https://allbooksworld.com/) - Books / [Telegram](https://t.me/allbooksworlddotcom)
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books / Download
 * [Library Land](https://library.land/) - Books / Online Reading
+* [AllFreeBooks](https://allfreebooks.org/) - Book / Download
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [Novel12](https://novel12.com/) - Books / Online Reading
 * [⁠ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books / Online Reading
