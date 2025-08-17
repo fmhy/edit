@@ -43,7 +43,7 @@
 
 ***
 
-* ⭐ **[P-Stream](https://pstream.mov/)** / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
+* ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Alts](https://erynith.github.io/movie-web-instances/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
@@ -587,7 +587,7 @@
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [1Shows](https://www.1shows.ru/) or [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Discord](https://discord.com/invite/K4RFYFspG4)
-* [P-Stream](https://pstream.mov/) / [Instances](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/erynith/movie-web-instances/blob/main/page.md)
+* [P-Stream](https://pstream.mov/) - Movies / TV / Anime / [Alts](https://erynith.github.io/movie-web-instances/) / [Discord](https://discord.gg/uHU4knYRPa)
 * [CinemaOS](https://cinemaos.live/download), [2](https://cinemaos.tech/download), [3](https://cinemaos.me/download) - Movies / TV / Anime / [Discord](https://discord.gg/38yFnFCJnA)
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
