@@ -712,6 +712,7 @@
 * ⭐ **[AIMP](https://www.aimp.ru/)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)**
 * [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8)
+* [Namida](https://github.com/namidaco/namida) - Feature-Rich
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based
 * [XMPlay](https://www.un4seen.com/) - Module-Friendly
