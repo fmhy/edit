@@ -791,7 +791,6 @@
 * [SongSync](https://github.com/Lambada10/SongSync), [Lyricify](https://github.com/WXRIW/Lyricify-App), [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
 * [ytdlnis](https://ytdlnis.org/) - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
-* [EchoirX](https://github.com/imjyotiraditya/EchoirX) - Tidal Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
