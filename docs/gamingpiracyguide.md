@@ -10,7 +10,7 @@
 
 # ► Download Games
 
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
+* 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/?section=game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Torrent / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Search Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#csrin-search) (important) / [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
@@ -22,7 +22,7 @@
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Sign-Up Required
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [UnionCrax](https://union-crax.xyz/) - Download / Pre-Installs / [Lightweight Site](https://fuzzy.union-crax.xyz/) / [Discord](https://discord.gg/dkVame6BQS)
 * [GLoad](https://gload.to/) - Download
@@ -74,7 +74,7 @@
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Sign-Up Required / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
-* [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
+* [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
@@ -205,7 +205,7 @@
 * [PyGames](https://www.pygame.org/) - Python Games / [Discord](https://discord.gg/uEKeRSqr2Y) / [GitHub](https://github.com/pygame/pygame)
 * [Flashtro](https://flashtro.com/) - Cracker Intros
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
-* [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
+* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
 
 ***
 
@@ -230,7 +230,7 @@
 * ⭐ **[Emulator BIOS Files](https://rentry.co/FMHYBase64#emulator-files)**
 * ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [DAT Files](https://rentry.co/FMHYBase64#ra-dat)
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
-* ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
+* ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * [Switch Emulation](https://rentry.co/FMHYBase64#switch-emulation) - Switch Emulator Setup Guides
 * [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
@@ -261,7 +261,7 @@
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
-* [/r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Matrix](https://matrix.to/#/#romz:matrix.org)
+* [r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
 
 ***
@@ -269,7 +269,7 @@
 ## ▷ ROM Sites
 
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
-* ⭐ **[/r/ROMs Mega](https://r-roms.github.io/)** - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
+* ⭐ **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs / [Telegram](https://t.me/s/myrient) / [Discord](https://discord.gg/4kVP9AuQ24)
 * ⭐ **[CrocDB](https://crocdb.net/)** - ROMs / [Discord](https://discord.gg/3NyMZKxhUA)
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
@@ -673,7 +673,7 @@
 * [Friv](https://www.friv.com/) - Browser Games
 * [Emupedia](https://emupedia.net/beta/) - Browser Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Browser Games
-* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
+* [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Rosebud AI](https://www.rosebud.ai/) or [Wild West](https://www.wildwest.gg/) - AI Made Browser Games
@@ -839,7 +839,7 @@
 
 ## ▷ Incremental / Idle
 
-* 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
+* 🌐 **[r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization

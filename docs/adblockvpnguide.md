@@ -85,7 +85,7 @@
 
 # ► Antivirus / Anti-Malware
 
-* 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tool Index
+* 🌐 **[r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tool Index
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** / [X](https://x.com/malwarebytes) or [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
@@ -140,7 +140,7 @@
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix) or [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - Privacy-Based Operating Systems
-* [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion / Forums
+* [r/Privacy](https://reddit.com/r/privacy), [r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion / Forums
 * [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
@@ -212,7 +212,7 @@
 
 # ► Web Privacy
 
-* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
+* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** - Find / Terminate Old Accounts / [GitHub](https://github.com/jdm-contrib/jdm)
@@ -368,7 +368,7 @@
 * ⭐ **[Proton VPN](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [OpenVPN](https://github.com/kmille/riseup-vpn-configurator) / [GitHub](https://github.com/riseupnet)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
-* ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
+* ⭐ **[r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [PrivadoVPN](https://privadovpn.com/software) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)

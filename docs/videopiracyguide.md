@@ -192,7 +192,7 @@
 * [HomeMovies101](https://www.homemovies100.it/en/) - Home Movies
 * [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [Clownsec](https://rentry.co/FMHYBase64#clownsec) - 3D Movies for 3DS / [Discord](https://discord.gg/fk3yPBY7s9)
-* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
+* [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
 * [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks)
@@ -279,7 +279,7 @@
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
 * [HDclump](https://hdclump.com/) - Documentaries / Cooking / Gardening
 * [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
-* [/r/Panelshow](https://www.reddit.com/r/panelshow/) - Panel Shows
+* [r/Panelshow](https://www.reddit.com/r/panelshow/) - Panel Shows
 * [Taskmaster](https://rentry.co/bbbr4cfr) - Full Taskmaster Episodes
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Subreddit](https://www.reddit.com/r/runningman/) / [Telegram](https://t.me/myrunningmancom) / [Discord](https://discord.gg/ARvZ4rwZzh)
@@ -449,7 +449,7 @@
 * [OvertakeFans](https://overtakefans.com/) - Motorsports / [Discord](https://discord.gg/ZKwTUbdbmc)
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
-* [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
+* [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
 * [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling
 * [F1 Dash](https://f1-dash.com/) - F1 Live Stats / [GitHub](https://github.com/slowlydev/f1-dash)
@@ -474,7 +474,7 @@
 * [MLBLive](https://mlblive.net/) - Baseball Replays
 * [Steves Classic Baseball](https://www.youtube.com/playlist?list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B) - Baseball Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Football Replays
-* [/r/footballhighlights](https://www.reddit.com/r/footballhighlights/) - Football Replays
+* [r/footballhighlights](https://www.reddit.com/r/footballhighlights/) - Football Replays
 * [Time Soccer TV](https://timesoccertv.com/) - Football Replays
 * [Full Match](https://fullmatch.info/) - Football Replays
 * [SoccerFull](https://soccerfull.net/) - Football Replays
@@ -493,7 +493,7 @@
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [OvertakeFans](https://overtakefans.com/) - Motorsports Replays / [Discord](https://discord.gg/ZKwTUbdbmc)
-* [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
+* [r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [opendir](https://rentry.co/FMHYBase64#opendir) - Motorsports Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
@@ -638,7 +638,7 @@
 * [NetNaija](https://netnaija.xyz/) - Movies / 480p
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 * [Waploaded](https://films.waploaded.com/movie) - Movies / TV / 480p
-* [/r/DownUnderTV](https://www.reddit.com/r/DownUnderTV/) - AU / NZ TV
+* [r/DownUnderTV](https://www.reddit.com/r/DownUnderTV/) - AU / NZ TV
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [nKiri](https://nkiri.com/) - Asian Drama / 720p
 * [RareDoramas](https://www.raredoramas.com/) - Rare JDrama / 480p
@@ -705,7 +705,7 @@
 
 * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Subreddit](https://www.reddit.com/r/Stremio/)
-* ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [/r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
+* ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [Auto-Subtitles](https://www.bazarr.media/) / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/) / [Auto-Subtitles](https://www.bazarr.media/)
 * ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [Doplarr](https://github.com/kiranshila/Doplarr) - Discord Torrent Bots
@@ -863,7 +863,7 @@
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [MovieLens](https://movielens.org/) - Movie Recommendations
-* [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
+* [r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [Simkl](https://simkl.com/) - Recommendations Based on Your Ratings
@@ -935,13 +935,13 @@
 
 # ► Helpful Sites / Tools
 
-* 🌐 **[/r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
+* 🌐 **[r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_media_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
-* ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
+* ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[BingeClock](https://www.bingeclock.com/)**, [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * ⭐ **[Quality / Release Type Guide](https://redd.it/1ktgh4h)** / [2](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) or [Streaming Site Guide](https://redd.it/yykvnv) - Video Quality / Release Type Guide
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes

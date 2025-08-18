@@ -70,7 +70,7 @@
 * ⭐ **[DeepL](https://www.deepl.com/translator)** or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)**
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
-* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator)

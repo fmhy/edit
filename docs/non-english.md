@@ -180,7 +180,7 @@
 ## ▷ GFW Bypass
 
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
-* [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [ClashVerge](https://www.clashverge.dev/) / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev), [/r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
+* [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [ClashVerge](https://www.clashverge.dev/) / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev), [r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver

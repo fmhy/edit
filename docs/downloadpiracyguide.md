@@ -10,7 +10,7 @@
 
 ***
 
-* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
+* 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [eMule Plus](https://www.emule-project.com/) - File Sharing App
@@ -31,7 +31,7 @@
 ***
 
 * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
+* ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
 * [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
@@ -202,7 +202,7 @@
 
 * 🌐 **[UsenetTools](http://www.usenettools.net/)**
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/) / [6](https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130)
-* [/r/usenet](https://reddit.com/r/usenet)
+* [r/usenet](https://reddit.com/r/usenet)
 * [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) / [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Usenet Uploaders
 
 ***
@@ -210,7 +210,7 @@
 ## ▷ Indexers
 
 * 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers/)** - Indexer List
-* [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
+* [r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZB Meta search
 * [SceneNZBs](https://scenenzbs.com) - Multinational Indexer
 * [NzbPlanet](https://nzbplanet.net/)
@@ -233,8 +233,8 @@
 
 ## ▷ Providers
 
-* 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
-* 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
+* 🌐 **[r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
+* 🌐 **[r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
 * [Usenet Providers Map](https://usenet.rexum.space/tree)
 * [usenetmax](https://www.usenetmax.com/)

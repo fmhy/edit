@@ -392,7 +392,7 @@
 * 🌐 **[⁠Music Download Guide](https://rentry.co/wheredownloadmusic)** - Downloading Guide / Site Index
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Frontend](https://artistgrid.cx/) / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
-* [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
+* [r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
 * [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3
@@ -617,7 +617,7 @@
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[Acclaimed Music](https://www.acclaimedmusic.net/)** - Discover Acclaimed Music of the Times
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
-* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
+* ⭐ **[r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Discover Music Genres / [New Music](https://www.furia.com/page.cgi?type=log#id492)
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
@@ -819,7 +819,7 @@
 * [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
 * [Chordly](https://chordly.co.uk/) - Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)
 * [Piascore](https://apps.apple.com/app/piascore-hd/id406141702) - iOS Music Score Viewer
-* [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
+* [r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
 * [VGLeadSheets](https://www.vgleadsheets.com/) - Transcribe Video Game Music
 * [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python Music Transcription Library
 * [Audiveris](https://audiveris.github.io/audiveris/_pages/handbook/) - OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)
@@ -944,7 +944,7 @@
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
 * [ModularSamples](https://www.modularsamples.com/Plugins.html) - Plugins / [Github](https://github.com/publicsamples)
-* [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
+* [r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 
 ***
 
@@ -957,7 +957,7 @@
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://www.bfxr.net/) / [GitHub](https://github.com/increpare/bfxr2), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
-* [/r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted
+* [r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted
 * [Free Adobe SFX](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [GDC](https://sonniss.com/gameaudiogdc) - Royalty Free Sound Effects Archive
