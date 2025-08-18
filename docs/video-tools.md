@@ -262,6 +262,7 @@
 
 # ► Media Servers
 
+* ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
@@ -281,7 +282,6 @@
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
-* [WatchIt](https://watchit.movie/) - Media Server / [Discord](https://discord.com/invite/4vQG56NuHA) / [GitHub](https://github.com/WatchItDev/watchit-app)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Seanime](https://seanime.rahim.app/) - Anime Server
@@ -289,9 +289,9 @@
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
+* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) / [Mobile](https://github.com/jellyseerr/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
-* [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
 
 ***
 
@@ -316,13 +316,13 @@
 * ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Android Clients
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
 * [Jellyfin "arr" Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
-* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
 
 ***

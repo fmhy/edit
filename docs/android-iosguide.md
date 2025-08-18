@@ -935,7 +935,6 @@
 * [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 * [Next Player](https://github.com/anilbeesetti/nextplayer)
 * [Audiofy](https://play.google.com/store/apps/details?id=com.prime.player)
-* [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Clients
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
 
@@ -1164,7 +1163,7 @@
 
 * 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [AltStore](https://ipa.cypwn.xyz/cypwn.json) / [Telegram](https://telegram.me/cypwngroup) / [Discord](https://discord.com/invite/UvHZz3HfN9)
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
-* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TestFlight App Indexes
+* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [⁠Departures](https://departures.to/), [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TestFlight App Indexes
 * 🌐 **[iOS Console Emulators](https://www.reddit.com/r/EmulationOniOS/wiki/emulators)** - Gaming Emulator Index
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[CodeVN](https://ios.codevn.net/)** / [Telegram](https://t.me/+1qK9KUZlfGs3ZDg1) or [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Orion to Translate

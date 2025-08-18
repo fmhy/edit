@@ -1260,7 +1260,6 @@
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [World Draw](https://world-draw.appspot.com/draw)
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
-* [Wplace](https://wplace.live/) - Infinite Pixel Art World Map Canvas
 * [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting

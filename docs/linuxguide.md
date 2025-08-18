@@ -60,7 +60,7 @@
 * ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [ArchiveOS](https://archiveos.org/)
+* [ArchiveOS](https://archiveos.org/) - Linux Distro Archive
 * [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)

@@ -18,7 +18,7 @@
 
 ## ▷ Downloading / تحميل
 
-* [⁠Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p / [Status](https://ma.bahy-films.com/)
+* [⁠Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
 * [⁠My Cima](https://my-cima.video/) - Movies / TV
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
@@ -42,7 +42,7 @@
 * [shahid4u](https://shahid4u.mom/) - Movies / TV / Anime
 * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime
 * [⁠My Cima](https://my-cima.video/) - Movies / TV
-* [mycima](https://mycima-wecima.com/), [2](https://mycinma.video/) - Movies / TV
+* [mycima](https://mycinma.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [kirmalk](https://ba.kirmalk.com/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
@@ -196,7 +196,6 @@
 * [SuperLosslessMusic](https://t.me/SuperLosslessMusic) - Audio / FLAC
 * [flac_file](https://t.me/flac_file) - Audio / FLAC
 * [VmoMusic](https://t.me/VmoMusic) - Audio / FLAC
-* [ZAYU_music](https://t.me/ZAYU_music) - Audio / FLAC
 * [iyd.wang](https://www.iyd.wang/) - Books / Fiction / Non-Fiction
 * [feiku6](https://www.feiku6.com/) - Books / Reading / Listening
 * [Salty Leo](https://book.tstrs.me/search) - Books / Fiction / Non-Fiction / Downloading
@@ -586,14 +585,6 @@
 
 ***
 
-# ► Georgian / ქართული ენა
-
-## ▷ Downloading
-
-* [Warez.Ge](https://warez.ge/) - Video / Audio
-
-***
-
 # ► Greek / Ελληνικά
 
 ## ▷ Streaming
@@ -680,7 +671,7 @@
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
+* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilBlasters](https://www.tamilblasters.coupons/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
@@ -830,7 +821,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunityz.app/) - Movies / TV / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
+* [StreamingCommunity](https://streamingcommunityz.app/) - Movies / TV
 * [Altadefinizione](https://altadefinizione.free/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.world/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Italian VPN Required / Signup Unlocks Extra Features
@@ -893,8 +884,6 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
 * [utako](https://web.utako.moe/) - Live TV
-* [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
-* [Lesics](https://youtube.com/@LesicsJPN) - Sabins Civil Engineering
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [SimulRadio](https://simulradio.info/) - Radio
 * [Kagakueizo](https://www.kagakueizo.org/) - Science Documentaries
@@ -979,18 +968,6 @@
 # ► Malay / Bahasa Melayu
 
 * [Lowyat](https://forum.lowyat.net/) - Tech Forum
-
-***
-
-# ► Norwegian / Norsk
-
-## ▷ Streaming
-
-* [NRK TV](https://tv.nrk.no/) - Norwegian Movies / TV / Documentaries / Sub / 1080p
-
-## ▷ Reading
-
-* [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Books / Journals / Magazines / Maps / Music Sheets
 
 ***
 
@@ -1082,7 +1059,7 @@
 * [Zaluknij](https://zaluknij.cc/) - Movies / TV
 * [Filser](https://filser.cc/) - Movies / TV / Cartoons / Dub / 720p
 * [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
-* [Ekino-TV](https://ekino-tv.net), [2](https://ekino-tv.pl/), [3]](https://ekino.sx/), [4](https://ekino.ws/) - Movies / TV / Sub / 720p
+* [Ekino-TV](https://ekino-tv.pl/), [3]](https://ekino.sx/), [4](https://ekino.ws/) - Movies / TV / Sub / 720p
 * [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
 * [KreskówkaSubs](https://kreskowkasubs.blogspot.com/) - Cartoons / Sub / Dub
 * [Filman](https://filman.cc/) - Movies / TV
@@ -1392,7 +1369,6 @@
 * [CCCP Film](https://cccp-film.ru/) - Soviet Movies / TV
 * [Soviet Movies Online](https://sovietmoviesonline.com/) - Soviet Movies / Sub
 * [VseDoramy](https://vsedoramy.net/) - Asian Drama / Dub / 720p
-* [MovieCorn](https://moviecorn.one/) - Torrent Streaming
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [mult-fan](https://mult-fan.tv/) - Cartoons
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
@@ -1455,7 +1431,7 @@
 * [Arzamas](https://arzamas.academy/) - Cultural History
 * [geokniga](https://www.geokniga.org/) - Geology Documents
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
-* [Baza Knig](https://baza-knig.ink/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аkniga](https://akniga.org/), [Bibl](https://m.biblus.in/) or [Bibl.us](https://bibl.us/) - Audiobooks
+* [Baza Knig](https://baza-knig.ink/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аkniga](https://akniga.org/), [Bibl](https://biblus.in/) - Audiobooks
 * [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
 
 ***
@@ -1574,7 +1550,7 @@
 * [poseidonhd2](https://www.poseidonhd2.co/) - Movies / TV
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
-* [rtvcplay](https://rtvcplay.co/) - Free Public Columbian TV
+* [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [futbollibrehd](https://futbollibrehd.cl/) - Live Sports
 * [la12hd](https://la12hd.com/) - Live Sports
 * [Zanex](https://zanex.lat/) - Live Sports
@@ -1891,18 +1867,20 @@
 * [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
-* [Lesics](https://youtube.com/@LesicsDE) - Danish / Sabins Civil Engineering
 * [TorrentHeaven](https://www.torrentheaven.org/) - Dutch Torrents / Video / Audio / Books / NSFW
 * [NPO](https://npo.nl/) - Dutch / TV Streaming
 * [Oorboekje](https://oorboekje.nl/) or [luisterradio](https://luisterradio.fm/) - Dutch Radio Stations
 * [Eboek.info](https://eboek.info/) - Dutch / Download / Comics
+* [Warez.Ge](https://warez.ge/) - Georgian / Download / Video / Audio 
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
-* [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [kzkitap](https://t.me/kzkitap) - Kazakh Books
+* [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
 * [Paper](https://paper.naya.com.np/) - Nepali / Text Tools
+* [NRK TV](https://tv.nrk.no/) - Norwegian / Stream / Movies / TV / Documentaries / Sub / 1080p
+* [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Norwegian / Books / Journals / Magazines / Maps / Music Sheets
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p
