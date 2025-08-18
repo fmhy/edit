@@ -614,7 +614,7 @@
 
 ## ▷ Curated Recommendations
 
-* 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
+* 🌐 **[/music discovery/](https://dan.valeena.dev/guides/music-discovery/), [2](https://rentry.co/musicdiscovery)** - Music Discovery Guide
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[Acclaimed Music](https://www.acclaimedmusic.net/)** - Discover Acclaimed Music of the Times
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre

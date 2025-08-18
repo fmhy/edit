@@ -101,7 +101,7 @@
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
-* [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
+* [DefenderUI](https://www.cyberlock.global/DefenderUI.aspx) - Improved Windows Defender UI
 
 ***
 
