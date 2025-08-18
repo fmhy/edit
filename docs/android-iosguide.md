@@ -186,7 +186,7 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[AyuGram](https://github.com/AyuGram/AyuGram4A)** - Telegram With Extra Features / [Telegram](https://t.me/ayugramchat) / [Docs](https://docs.ayugram.one/)
+* ⭐ **[AyuGram](https://github.com/AyuGram/AyuGram4A)** - Telegram With Extra Features / [Docs](https://docs.ayugram.one/) / [Telegram](https://t.me/ayugramchat)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)**  / [Telegram](https://t.me/nagram_channel), [⁠NagramX](https://t.me/NagramX) / [GitHub](https://github.com/risin42/NagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
 * [Nekogram](https://nekogram.app/) - Simplistic Client / [GitHub](https://github.com/Nekogram/Nekogram/)
 * [exteraGram](https://exteragram.app) - Custom Settings / Customizable Design / [GitHub](https://github.com/exteraSquad/exteraGram)
