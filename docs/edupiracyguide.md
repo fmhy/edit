@@ -1293,7 +1293,7 @@
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
-* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
+* [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [/r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
