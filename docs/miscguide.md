@@ -1500,6 +1500,7 @@
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* ⭐ **[CornHub](https://cornhub.website/)** - PornHub Parody
 * [Grant Kot](https://grantkot.com/) - Toys / Games
 * [Oimo](https://oimo.io/works) - Toys / Games
 * [AIDN](https://aidn.jp/) - Toys / Games
