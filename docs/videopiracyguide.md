@@ -93,7 +93,7 @@
 * [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
 * [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
-* [Soaper](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
+* [Soaper](https://soaper.live/), [2](https://soaker.tv/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [Vidsrc.cx](https://vidsrc.cx/) - Movies / TV
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [24Drama](https://24drama.to/) - Movies / TV / Anime / 720p
