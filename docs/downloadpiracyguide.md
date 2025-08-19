@@ -133,6 +133,14 @@
 
 ***
 
+## ▷ Keygen & Serials Sites
+
+* [MiniDL.org](https://minidl.org/) - Windows & MacOS.
+* [SerialShack](https://www.serialshack.com/) - One of the oldest serial websites which are still online.
+* [SmartSerials](https://smartserials.com/) - (needs VPN) - Forum + serials.
+
+***
+
 ## ▷ FOSS Sites
 
 * 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
