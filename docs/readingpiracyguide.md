@@ -362,6 +362,7 @@
 
 ## ▷ Audiobook Tools
 
+* [⁠AudiobookCovers](https://audiobookcovers.com/) - Download Audiobook Covers
 * [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager

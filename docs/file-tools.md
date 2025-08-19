@@ -193,7 +193,7 @@
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 * [FileBot](https://www.filebot.net/) - Media File Renaming
-* [TVRename](https://www.tvrename.com/) - TV File Data Automation
+* [TVRename](https://www.tvrename.com/) or [⁠Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [Szyszka](https://github.com/qarmin/szyszka), [F2](https://github.com/ayoisaiah/f2), [Ant Renamer](https://www.antp.be/software/renamer) or [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamers
 

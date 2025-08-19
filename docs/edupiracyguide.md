@@ -1482,7 +1482,6 @@
 * 🌐 **[Wiki Portals](https://rentry.co/wikiportals)** - Wiki Portals Navigation
 * [HatNote](https://top.hatnote.com/) - Top Pages
 * [Reversepedia](https://reversepedia.org/) - Page Connections
-* [Wiki Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) - Dark Mode
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](http://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [WikiExtractor](https://github.com/attardi/wikiextractor) - Extract Text

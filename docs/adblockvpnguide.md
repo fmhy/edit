@@ -176,7 +176,7 @@
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
-* [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
+* [Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/) - Product Privacy Ratings
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources
 
@@ -284,7 +284,7 @@
 * [Linphone](https://www.linphone.org/) - All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)
 * [Berty](https://berty.tech/) / Android, iOS / [GitHub](https://github.com/berty/berty)
 * [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, Mac, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
-* [Cwtch](https://cwtch.im/) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
+* [Cwtch](https://docs.cwtch.im) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
 * [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / iOS
 * [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)

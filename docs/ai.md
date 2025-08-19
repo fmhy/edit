@@ -299,7 +299,6 @@
 * [⁠Remade AI](https://app.remade.ai/) - 40 GPT-Image-1 / 40 Imagen 4 / 80 Flux Kontext / Editing
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Sign-Up
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [Discord](https://discord.com/invite/stablediffusion) / [GitHub](https://github.com/Stability-AI/stablediffusion)
-* [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [⁠PixelArtGenerator](https://pixelartgenerator.app/) - AI Pixel Art Generator / Converter
