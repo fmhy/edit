@@ -59,7 +59,7 @@
 * 🌐 **[Android FOSS](https://github.com/offa/android-foss)**, [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [AAA](https://github.com/Psyhackological/AAA) - FOSS App Indexes
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** or [Goodwy](https://github.com/Goodwy?tab=repositories) - Simple FOSS Apps
-* ⭐ **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS App Installer
+* ⭐ **[Droid-ify](https://droidify.eu.org/)** - FOSS App Installer / [GitHub](https://github.com/Droid-ify/client)
 * [F-Droid](https://f-droid.org/) / [GitLab](https://gitlab.com/fdroid) or [Awesome F-Droid](https://fdroid.tabler.dev/) / [GitHub](https://github.com/moneytoo/awesome-fdroid) - FOSS App Installer / [Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
 * F-Droid Tools - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
 * [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS App Installer / [Telegram](https://t.me/neo_android_store)
@@ -402,7 +402,7 @@
 * [Tunity](https://tunity.com/) - Hear Muted TVs
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
-* [⁠OpenBubbles](https://openbubbles.app/) - Get Apple Services on your Android
+* [⁠OpenBubbles](https://openbubbles.app/) - Get Apple Services on Android
 * [GitNex](https://gitnex.com/) - Forgejo and Gitea Client for Android / [Source Code](https://codeberg.org/gitnex/GitNex/)
 * [LSPatch](https://github.com/JingMatrix/LSPatch) - Non-root Xposed Framework
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing

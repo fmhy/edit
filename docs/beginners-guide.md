@@ -138,7 +138,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
-* **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS Android Apps
+* **[Droid-ify](https://droidify.eu.org/)** - FOSS Android Apps / [GitHub](https://github.com/Droid-ify/client)
 * **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
 
 ***
