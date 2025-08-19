@@ -14,11 +14,11 @@
 
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [Discord](https://discord.com/invite/go-copilot)
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Flash / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-5 / GPT-5 mini Chatbot / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3 / DeepSeek-R1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 4 (5 per 2 hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Qwen](https://qwen.ai/home)**, [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen 3 Coder / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / [Discord](https://discord.gg/QR7SARHRxK)
+* [ChatGPT](https://chatgpt.com/) - GPT-5 / GPT-5 mini Chatbot / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
@@ -27,7 +27,7 @@
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1 Turbo / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Discord](https://discord.gg/mistralai)
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
-* [⁠Dots](https://huggingface.co/spaces/rednote-hilab/dots-demo) - dots.llm.1 Chatbot / No Sign-Up
+* [⁠dots.vlm1.inst](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) or [⁠dots-demo](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Dots Chatbots / No Sign-Up
 * [⁠Ai2 Playground](https://playground.allenai.org/) - OLMo 2 Chatbot / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
 
 ***
@@ -111,7 +111,7 @@
 
 ## ▷ Coding AIs
 
-* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [⁠LiveCodeBench](https://livecodebench.github.io/leaderboard.html), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards / Benchmarks
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [⁠AIBenchmarks](https://aibenchmarks.net/) / [GitHub](https://github.com/panilya/awesome-ai-benchmarks), [WebDev Arena](https://web.lmarena.ai/), [⁠LiveCodeBench](https://livecodebench.github.io/leaderboard.html), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards / Benchmarks
 * 🌐 **[LiveSWEBench](https://liveswebench.ai/), [SWE-bench](https://github.com/princeton-nlp/SWE-bench), [multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) or [SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboards / Benchmarks
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
@@ -183,7 +183,7 @@
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - Prompting Guides
-* [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) - AI Jailbreak Community
+* [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) - AI Jailbreak Community
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
 * [ChatGPT & Bing AI Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory

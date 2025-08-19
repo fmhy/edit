@@ -25,7 +25,7 @@
 * [Nat Geo](https://www.natgeotv.com/)
 * [Folkstreams](https://www.folkstreams.net/)
 * [Films For Action](https://www.filmsforaction.org/)
-* [/r/Documentaries](https://reddit.com/r/Documentaries)
+* [r/Documentaries](https://reddit.com/r/Documentaries)
 * [Open-Video](https://open-video.org/)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
@@ -98,9 +98,9 @@
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
-* ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
-* ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs
-* ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
+* ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
+* ⭐ **[r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn with GIFs
+* ⭐ **[r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
 * [⁠Basic Knowledge 101](https://www.basicknowledge101.com/) - Knowledgebase / Topic Learning
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
@@ -430,10 +430,10 @@
 
 * 🌐 **[Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources)** - Astronomy Resources
 * ↪️ **[Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)**
-* ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
+* ⭐ **[r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
+* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/audio-and-ringtones/) / [Documents](https://ntrs.nasa.gov/search) / [APIs](http://api.nasa.gov/) / [History](https://www.nasa.gov/history/)
 * ⭐ **[JPL Photojournal](https://photojournal.jpl.nasa.gov/)** or [JPL Images](https://www.jpl.nasa.gov/images) - JPL Planetary Image Archives
 * ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Moon Landing Images
@@ -482,7 +482,7 @@
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
 * [ESO Images](https://www.eso.org/public/images/), [NASA2Explore](https://www.flickr.com/photos/nasa2explore/) or [Astrobin](https://www.astrobin.com/search/) - Astronomy Images
-* [/r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [/r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
+* [r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
 * [RGV Aerial Photography](https://discord.gg/wsFxEw9g4X) - Aerial Photography Community / News
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
@@ -544,13 +544,13 @@
 ## ▷ Engineering
 
 * 🌐 **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Resources
-* 🌐 **[/r/EngineeringStudents Resources](https://www.reddit.com/r/EngineeringStudents/wiki/resources)** - Engineering Student Resources
+* 🌐 **[r/EngineeringStudents Resources](https://www.reddit.com/r/EngineeringStudents/wiki/resources)** - Engineering Student Resources
 * 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** - Mechanical Engineering Resources
 * 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 * 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_cad_engineering)**
-* ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
+* ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)** or [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
 * ⭐ **[KiCad](https://kicad.github.io/)** or [Horizon EDA](https://horizon-eda.org/) - Schematics Editor / PCB Creator / SPICE Integration
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
@@ -643,7 +643,7 @@
 
 ## ▷ Med School
 
-* 🌐 **[/r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/resources)** - Med School Resources
+* 🌐 **[r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/resources)** - Med School Resources
 * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
 * ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
@@ -666,6 +666,7 @@
 * [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
 * [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Case Index
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
+* [DeployedMedicine](https://deployedmedicine.com/) (signup) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Videos
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
@@ -676,7 +677,7 @@
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
 * [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
-* [/r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
+* [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
 * [CRAM](https://www.cram.com/medical) - Medical Flashcards
 
 ***
@@ -699,7 +700,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [/int/ Guide](https://4chanint.miraheze.org/) or [/r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/index) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [/int/ Guide](https://4chanint.miraheze.org/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/index) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - Multi-Language Dictionary Index
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
@@ -735,7 +736,7 @@
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
-* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)  
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Language History](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#m%C4%81ori-note)
@@ -830,7 +831,7 @@
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
 * 🌐 **[Cantonese sheik](https://www.cantonese.sheik.co.uk/)** or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
 * ↪️ **[Mandarin Chinese Books](https://rentry.co/FMHYBase64#mandarin-chinese)**
-* ⭐ **[/r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
+* ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
@@ -932,8 +933,8 @@
 ## ▷ Chess
 
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
-* 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
-* 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
+* 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
+* 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
@@ -978,7 +979,7 @@
 
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
-* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [/r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)** - Python Learning Resources
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
@@ -1255,7 +1256,7 @@
 
 * 🌐 **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
-* ⭐ **[/r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
+* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [GameProgramBooks](https://rentry.co/FMHYBase64#gameprogrambooks) - Game Programming Books
@@ -1287,10 +1288,10 @@
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
-* [/r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
+* [r/ApStudents Resources](https://rentry.co/FMHYBase64#rapstudents-resources) - Former AP Exams
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
-* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
+* [r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
+* [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
@@ -1316,7 +1317,7 @@
 
 ## ▷ JEE / NEET
 
-* 🌐 **[/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
+* 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
@@ -1344,7 +1345,6 @@
 * [Altium](https://www.altium365.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
-* [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://etempmail.com/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
 * [⁠Scholarship Roar](https://scholarshiproar.com/) - Scholarship Database

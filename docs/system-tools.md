@@ -299,7 +299,7 @@
 
 ## ▷ Mouse / Keyboard
 
-* ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
+* ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
 * ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)**, [KeyCombiner](https://keycombiner.com/) or [Use The Keyboard](https://usethekeyboard.com/) - Hotkey Cheatsheets
 * ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [keymapper](https://github.com/houmain/keymapper), [Ergogen](https://ergogen.xyz/), [Mahou](https://gitea.com/BladeMight/Mahou) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
@@ -391,7 +391,7 @@
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/), [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
-* [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
+* [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
 
 ***
@@ -408,12 +408,12 @@
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - UX Patcher
 * [Cursormania Archive](https://archive.org/details/cursormania) - Cursors
 * [MacOS Cursors for Windows](https://www.deviantart.com/jimmyxd2/art/MacOS-Cursors-for-Windows-980049964), [CursorOS](https://cursor.design/) or [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Style Cursors
-* [Mechvibes](https://mechvibes.com/) / [GitHub](https://github.com/hainguyents13/mechvibes) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
+* [MechvibesDX](https://github.com/hainguyents13/mechvibes-dx) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [ElectricSheep](https://electricsheep.org/) or [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Screensavers
 * [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [StartAllBack](https://www.startallback.com/) or [StartIsBack](https://www.startisback.com/) - Start Menu Customization / [Unlock](https://rentry.co/FMHYBase64#startxback)
+* [StartAllBack](https://www.startallback.com/) - Start Menu Customization / [Unlock](https://rentry.co/FMHYBase64#startxback)
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
@@ -451,12 +451,12 @@
 * ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers)** / [Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page), [Spotlight](https://windows10spotlight.com/) - Windows Wallpapers
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
+* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
 * [⁠WallsCloud](https://wallscloud.net/en/) - Search Wallpapers
 * [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
-* [/r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
+* [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers

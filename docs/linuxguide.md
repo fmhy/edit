@@ -60,7 +60,7 @@
 * ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [ArchiveOS](https://archiveos.org/)
+* [ArchiveOS](https://archiveos.org/) - Linux Distro Archive
 * [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)
@@ -297,6 +297,7 @@
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
+* [⁠lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling for Linux
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
@@ -388,10 +389,11 @@
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
+* ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage),**[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [CasaOS](https://casaos.io/) / [GitHub](https://github.com/IceWhaleTech/CasaOS), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Glance](https://github.com/glanceapp/glance), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
-* [HowtoForge](https://www.howtoforge.com/) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
-* [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Management Tools 
+* [HowtoForge](https://www.howtoforge.com/) / [GitHub](https://github.com/lollipopkit/flutter_server_box) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
+* [⁠Flutter Server Box](https://cdn.lpkt.cn/serverbox/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Managers / Status
 * [Proxmox](https://www.proxmox.com/en/) - Self-Hosted Server Tools
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
@@ -441,6 +443,7 @@
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with Built-in Android Emulator
 * [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
+* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android  on Linux via ADB
 
 ***
 
@@ -687,6 +690,7 @@
 * [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launcher
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
+* [/⁠r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming Community
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 
 ***
@@ -793,6 +797,7 @@
 
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
+* [⁠OpenMTP](https://openmtp.ganeshrvel.com/) - Mac / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)

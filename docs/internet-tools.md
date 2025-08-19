@@ -161,7 +161,7 @@
 * [JungleReader](https://www.zajungle.com/) - RSS Reader / Web-Based
 * [JesterEngine](https://jesterengine.com/) - RSS Reader / Web-Based
 * [Tiny Tiny RSS](https://tt-rss.org/) - RSS Reader / Web-Based
-* [NewsPipe](https://github.com/cedricbonhomme/newspipe), [Miniflux](https://miniflux.app/), [selfoss](https://selfoss.aditu.de/), [Glance](https://github.com/glanceapp/glance), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion), [rss](https://codeberg.org/danb/rss) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* [NewsPipe](https://github.com/cedricbonhomme/newspipe), [Miniflux](https://miniflux.app/), [selfoss](https://selfoss.aditu.de/), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion), [rss](https://codeberg.org/danb/rss) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 
 ***
 
@@ -285,7 +285,7 @@
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - Search Audio Torrent Sites
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Rezi Search](https://rezi.one/) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [Rave Search](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
 * [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
@@ -422,8 +422,7 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)**
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
 * [Outlook](https://outlook.live.com/owa/)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail)
@@ -453,10 +452,10 @@
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
+* [⁠TotallyLegit](https://totallylegit.edu.pl/) / [Tempumail](https://tempumail.com/edu-mail-generator) / [etempmail](https://eTempMail.com/)  or [SecureTempMail](https://tempmail.edu.kg/en/) - Temp .edu Addresses
 * [TempMailHub](https://tempmailhub.org/) - Gmail / 15 Mins / 1 Domain / Public Shared Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [⁠TotallyLegit](https://totallylegit.edu.pl/) or [Temp.edu](https://tempmail.edu.kg/en/) - Temp .edu Address'
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Vortex Email](https://vortex.skyfall.dev/) - Forever / 9 Domains / [GitHub](https://github.com/SkyfallWasTaken/vortex.email)
@@ -580,7 +579,7 @@
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
-* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
+* [r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
 
@@ -630,6 +629,7 @@
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
 * [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
+* [Always Visible](https://webextension.org/listing/always-active.html) - Always Active / On-Top Window
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
@@ -693,7 +693,6 @@
 * [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch Your User-Agent
 * [Chrome Mask](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) - Use Chrome-Only Sites on Firefox / [GitHub](https://github.com/denschub/chrome-mask)
-* [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes / Increase Browser Audio
 * [Read Aloud](https://readaloud.app/) - Text to Speech / [Discord](https://readaloudai.com/discord)
 * [Firefox Stats](https://firefox-stats.com/) - Compare / Analyze Firefox Extensions

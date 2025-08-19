@@ -58,7 +58,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -66,7 +66,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 ### Gaming
 
 * **Download / Torrent: [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYBase64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 

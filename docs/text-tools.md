@@ -66,11 +66,11 @@
 
 ***
 
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * ⭐ **[DeepL](https://www.deepl.com/translator)** or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
-* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
-* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)**
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
+* ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator)
@@ -107,7 +107,7 @@
 
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
-* ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 Editor](https://nimadez.github.io/base64/) - Encode / Decode Base64
+* ⭐ **[Base64 Decode](https://www.base64decode.org/)** - Encode / Decode Base64
 * ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
@@ -520,7 +520,7 @@
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
 * [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
+* [Fast3DText](https://fast3dtext.com/), [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
 * [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators

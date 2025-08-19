@@ -120,7 +120,7 @@
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
 * [ffmpeg-web](https://ffmpeg-web.netlify.app/) - FFmpeg Web App / [GitHub](https://github.com/Dinoosauro/ffmpeg-web)
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
-* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
+* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Langauges
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
@@ -262,13 +262,13 @@
 
 # ► Media Servers
 
-* 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
+* ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
-* [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
-* [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/homarr-labs/homarr) - Media Server Managers
+* [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
+* [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
@@ -282,7 +282,6 @@
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
-* [WatchIt](https://watchit.movie/) - Media Server / [Discord](https://discord.com/invite/4vQG56NuHA) / [GitHub](https://github.com/WatchItDev/watchit-app)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Seanime](https://seanime.rahim.app/) - Anime Server
@@ -290,9 +289,9 @@
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
+* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) / [Mobile](https://github.com/jellyseerr/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
-* [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
 
 ***
 
@@ -314,16 +313,16 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac
+* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
-* [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
+* [r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Android Clients
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
 * [Jellyfin "arr" Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
-* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
 
 ***
@@ -333,7 +332,7 @@
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
-* [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
@@ -369,7 +368,7 @@
 
 # ► Video Editing
 
-* ⭐ **[/r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
+* ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers

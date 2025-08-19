@@ -31,7 +31,7 @@
 ## ▷ Aggregators
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
-* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.i2p](http://btdigg.i2p/) / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
@@ -99,7 +99,7 @@
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
-* [/r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
+* [r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
 * [Seedbox Guide](https://seedboxgui.de/seedbox/) - Seedbox Comparisons
 
 ***
@@ -140,11 +140,11 @@
 
 # ► Tracker Invites
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)**, **[/r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
-* [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
-* [/r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [/r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
+* [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
+* [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
 * [Private_Trackers](https://igwiki.lyci.de/wiki/Private_trackers) or [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Tracker Lists
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
@@ -158,7 +158,7 @@
 * ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
-* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
+* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [⁠mkbrr](https://mkbrr.com/) - Torrent Creator / Manager / [GitHub](https://github.com/autobrr/mkbrr)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
@@ -173,5 +173,5 @@
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
 * [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) - Browser Torrent Creator / [GitHub](https://github.com/Kimbatt/torrent-creator)
 * [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
-* [/r/torrents](https://reddit.com/r/torrents) - Torrenting Discussion
+* [r/torrents](https://reddit.com/r/torrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)

@@ -55,7 +55,7 @@
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -114,7 +114,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
-* [FixEmbed](https://github.com/kenhendricks00/FixEmbed) - Fix Embeds on Discord Bot
+* [FixEmbed](https://www.kenhendricks.me/FixEmbed) - Fix Embeds on Discord Bot / [GitHub](https://github.com/kenhendricks00/FixEmbed)
 * [esmBot](https://github.com/esmBot/esmBot) - Image / Music Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
@@ -198,7 +198,7 @@
 * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
 * ⭐ **[Raddle](https://raddle.me/)** - Minimalist / Privacy-Focused
 * ⭐ **[Saidit](https://saidit.net/)** - Free-Speech / Dual Upvote System
-* [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
+* [r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [TheMotte](https://www.themotte.org/) - User-Driven Discussion
 * [Tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Scored](https://communities.win/) - User-Driven Discussion
@@ -227,15 +227,15 @@
 
 ## ▷ Subreddit Discovery
 
-* 🌐 **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
+* 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
 * [FindAReddit](https://www.findareddit.com/) - Get Subreddit Suggestions / [Subreddit](https://www.reddit.com/r/findareddit/)
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit) or [Reddit Map](https://redditmap.social/) - Subreddit Maps
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
-* [/r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
-* [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
+* [r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
+* [r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
 * [Subreddit Stats](https://subredditstats.com/) or [SubRanking](https://subranking.com/) - Subreddits Stats / Ranking
 
 ***
@@ -303,7 +303,7 @@
 * [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
 * [ProxyBot](https://t.me/vamproxy_bot), [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Proxy Bots
-* [/r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
+* [r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
 
 ***
 
@@ -417,8 +417,7 @@
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
-* [EZMP3](https://ezmp3.to/) - YouTube Downloader / Online
-* [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online
+* [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online / [Subreddit](https://www.reddit.com/r/cnvmp3)
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
 * [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
@@ -497,7 +496,7 @@
 * ⭐ **[Chatterino](https://chatterino.com/)** / [2](https://github.com/SevenTV/chatterino7), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/linuxbombay/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
-* [Twitch Lite](https://thavixt.github.io/twitch-lite/), [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
+* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
@@ -532,7 +531,7 @@
 # ► Twitter/X Tools
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
-* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
+* ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.net/), [2](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - X.com Frontends
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
