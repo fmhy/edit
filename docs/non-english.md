@@ -1121,6 +1121,7 @@
 
 ## ▷ Torrenting
 
+* ⭐ **[Brazilian Private Trackers Index](https://pirataria.link/trackers#%F0%9F%94%B0-%E2%9E%9C-trackers-brasileiros)** - Miscellaneous.
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
