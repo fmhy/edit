@@ -550,10 +550,9 @@
 
 ## ▷ Science News
 
+* ⭐ **[phys](https://phys.org/)** - Physics News / Articles
 * [SciURLs](https://sciurls.com/)
 * [NewScientist](https://www.newscientist.com/)
-* [Nature](https://www.nature.com/)
-* [Science](https://www.science.org/)
 * [PopSci](https://www.popsci.com/)
 * [ScienceDaily](https://www.sciencedaily.com/)
 * [EurekAlert](https://www.eurekalert.org/)

@@ -19,7 +19,7 @@ Here you'll find some general guidelines for those who would like to start contr
 
 - **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/adblockvpnguide#vpn) and [Debrid](/downloadpiracyguide#leeches-debrid).
 - **🕹️ Emulators** - Already listed on [Index Sites](/gamingpiracyguide#emulators).
-- **🌐 Web Browsers** - Already listed on [Comparison / Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal mobile browsers.
+- **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept [indexes](/internet-tools#browser-tools), privacy-focused, and good mobile ones.
 - **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloadpiracyguide#leeches-debrid), don't submit these.
 - **🐧 Linux Distros** - Already listed on [Index Sites](/linuxguide#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
@@ -60,6 +60,8 @@ Keep in mind certain sites (such as piracy sites) require more testing/vetting b
 The wiki will always have some variation either due to exceptions being made, the layout/structure, or the flexible nature of markdown itself.
 
 For these reasons, there are too many conditions and nuances to satisfy to make an easy-to-follow guide. However, you can generally get an idea by looking at how existing links are structured.
+
+Note that we do try to order sections from best to worst, and if multiple links are on the same line, only the **bold** ones are considered stars.
 
 If you're unsure, ask in the wiki channels on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and wait for a staff member to reply.
 

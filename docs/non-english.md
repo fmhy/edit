@@ -430,7 +430,7 @@
 
 ## ▷ Downloading / Téléchargement
 
-* [WawaCity](https://www.wawacity.lifestyle/) - Movies / TV / Check [Telegram](https://t.me/Wawacity_officiel) if Domain Changes
+* [WawaCity](https://www.wawacity.diy/) - Movies / TV / Check [Telegram](https://t.me/Wawacity_officiel) if Domain Changes
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
@@ -449,20 +449,19 @@
 ## ▷ Streaming
 
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime
+* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Status](https://movix.website/)
 * [Deksov](https://deksov.com/) - Movies / TV / Anime
-* [Darkiworld](https://darkiworld2025.com/) - Movies / TV / Anime
+* [Darkiworld](https://darkiworld11.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [cinepulse](https://cinepulse.to/) - Movies / TV / Anime
-* [xalaflix](https://xalaflix.io/) - Movies / TV / Anime / Dub / [Discord](https://discord.gg/7myEXg2tQF)
-* [frembed](https://frembed.top/) - Movies / TV / Anime / Dub
-* [coflix](https://coflix.mov/) - Movies / TV / Anime
-* [Sadisflix](https://sadisflix.ing/) - Movies / TV / Anime / Dub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/sadisflix)
+* [xalaflix](https://xalaflix.gg/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.fr/r%C3%A9pertoire.html) / [Discord](https://discord.gg/7myEXg2tQF)
+* [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
+* [coflix](https://coflix.cc/) - Movies / TV / Anime / [Status](https://t.me/+3i7POlIHqqVmMWMx)
 * [Kordoz](https://www.kordoz.com/) - Movies / TV / Anime
 * [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
 * [yakriv](https://yakriv.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Movie to Review](https://filmarevoirnad.blogspot.com/) - Classic French Movies
-* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
+* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Signup
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / French VPN Required for Some Content
 * [french-streaming](https://www.french-streaming.tv) - Movies / TV / Anime
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
@@ -472,24 +471,21 @@
 * [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Sign-Up Required
 * [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Sign-Up Required
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
-* [toonanime](https://fr.toonanime.biz/) - Anime / Sub / Dub
+* [toonanime](https://www.toonanime.biz/) - Anime / Sub / Dub
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [animesultra](https://v6.animesultra.net/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
-* [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
-* [animeko](https://animeko.co/) - Anime / Sub / 1080p
+* [vostanime](https://ww7.vostanime.fr/) - Anime / Sub / 1080p
+* [animeko](https://w2.animeko.ws/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [molotov.tv](https://www.molotov.tv/) - Live TV
-* [JokerTV](https://jokertv.ru/) - Live Football
-* [LeFoot](https://lefoot.ru/) - Live Sports
-* [oohquelbut](https://oohquelbut.ru/) - Live Sports
-* [remontadatv](https://remontadatv.ru/) - Live Football
+* [oohquelbut](https://quelbut.me/) - Live Sports
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
-* [programmes-radio](https://www.programmes-radio.com/en/) - Radio Schedule / Streaming
+* [programmes-radio](https://www.programmes-radio.com/fr/) - Radio Schedule / Streaming
 
 ## ▷ Reading / Lecture
 
