@@ -690,7 +690,7 @@
 * [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launcher
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
-* [/⁠r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming Community
+* [⁠r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming Community
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 
 ***
