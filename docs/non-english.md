@@ -1117,6 +1117,7 @@
 
 ## ▷ Torrenting
 
+* 🌐 **[Trackers.md](https://pirataria.link/trackers#%F0%9F%94%B0-%E2%9E%9C-trackers-brasileiros)** - Brazilian Private Trackers Index
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
