@@ -79,7 +79,6 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[PDF Drive](https://www.pdfdrive.com/)** - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
