@@ -42,7 +42,6 @@
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
-* [iDope](https://idope.se/)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [PiratesParadise](https://piratesparadise.org/)

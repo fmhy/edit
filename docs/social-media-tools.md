@@ -540,7 +540,6 @@
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
 * [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - X.com Community Notes Leaderboard
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
-* [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
 

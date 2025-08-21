@@ -313,7 +313,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac, Android, iOS
+* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Mac, Linux, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
 * [r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing

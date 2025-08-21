@@ -57,7 +57,6 @@
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
 * [DDLSpot](https://www.ddlspot.com/) - Video / Audio
-* [0DayDDL](https://0dayddl.com/) - Video / Audio / Books / Magazines
 * [downTURK](https://www.downturk.net/) - Video / Audio / Books
 * [SoftArchive](https://softarchive.download/) - Video / Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
