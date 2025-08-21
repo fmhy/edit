@@ -1777,7 +1777,7 @@
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music / Free w/ Ads
-* [FPT Play](https://fptplay.vn/) - Live TV / TV / Anime / Cartoon / Movie / Free w/ Ads
+* [FPT Play](https://fptplay.vn/) - Live TV / TV / Anime / Cartoon / Movies / Free w/ Ads
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
 * [Ô Phim](https://ophim.tuphim.net/) - Movies / Anime / Cartoon / TV / Sub / 1080p
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 720p
