@@ -1679,7 +1679,7 @@
 
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
-* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 1080p
+* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Dizipal](https://www.google.com/search?q=intitle:"dizipal.org"&num=1) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.club) - Movies / TV / Sub / Dub / 1080p
