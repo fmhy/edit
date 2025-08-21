@@ -499,7 +499,7 @@
 * [Word Golf](https://www.word.golf/) - Word Relation Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
-* [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
+* [Squaredle](https://squaredle.app/) - Daily Word Puzzle
 * [Linxicon](https://linxicon.com/) - Word Connection Game
 * [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
 * [⁠Infinite Wordle](https://gregcameron.com/infinite-wordle/) or [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limits
