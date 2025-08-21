@@ -1777,7 +1777,7 @@
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music / Free w/ Ads
-* [FPT Play](https://fptplay.vn/) - Live TV / TV / Anime / Cartoon / Movies / Free w/ Ads
+* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Free w/ Ads
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
 * [Ô Phim](https://ophim.tuphim.net/) - Movies / Anime / Cartoon / TV / Sub / 1080p
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 720p
@@ -1796,7 +1796,7 @@
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
-* [VieON](https://vieon.vn/) - Live TV / TV / Anime / Cartoon / Movie / 1080p / Sub / Dub
+* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / TV / Movies / Dub
 * [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
