@@ -707,7 +707,7 @@
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/) or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
-* [Duolingo](https://rentry.co/FMHYBase64#duolingo) / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYBase64#busuu) - Language Learning Lessons
+* [Duolingo](https://rentry.co/FMHYBase64#duolingo) / [Tips](https://duome.eu/tips), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYBase64#busuu) - Language Learning Lessons
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Yomitan](https://yomitan.wiki/) - Popup Dictionary / [Discord](https://discord.gg/3v22CATnyr)
