@@ -485,6 +485,7 @@
 * [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
 * [Piper](https://github.com/OHF-Voice/piper1-gpl) - Raspberry Pi Text-To-Speech
+* [Pinout](https://pinout.xyz/) - Raspberry Pi GPIO Pins Guide
 
 ***
 

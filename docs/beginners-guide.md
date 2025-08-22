@@ -57,7 +57,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: **[lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
@@ -74,7 +74,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://bookracy.ru/)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://books.pstream.mov/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
