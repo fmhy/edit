@@ -749,6 +749,7 @@
 * [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
 * [Notepin](https://notepin.co/) - Anonymous Blogging Platform
+* [Hexo](https://hexo.io/) - Static Blog Template / [Themes](https://hexo.io/themes/) / [GitHub](https://github.com/hexojs/hexo)
 * [Zonelets](https://zonelets.net/) - Static Blog Template
 * [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
 * [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
