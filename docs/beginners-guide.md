@@ -57,7 +57,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: **[lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
@@ -147,7 +147,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sideloading Guide
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
-* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 14.0 & Above]
+* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
 * **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
 
