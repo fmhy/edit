@@ -248,7 +248,7 @@
 * [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboard / Benchmarks
 * [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Software Engineering AI Leaderboard / Benchmarks
 * [multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Software Engineering AI Leaderboard / Benchmarks
-* [SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboard / Benchmarks
+* [SWEBench](https://www.swebench.com/) - Software Engineering AI Leaderboard / Benchmarks
 
 ***
 
