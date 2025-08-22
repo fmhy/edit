@@ -352,7 +352,7 @@
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)**, [sdg-link](https://rentry.co/sdg-link), [LocalModelsLinks](https://rentry.org/LocalModelsLinks) or [SDTools](https://sdtools.org) - AI Image Resources
 * 🌐 **[Civitai](https://civitai.com/)** - SD Model Index / [Subreddit](https://www.reddit.com/r/civitai/) / [Discord](https://discord.gg/UwX5wKwm6c) / [GitHub](https://github.com/civitai/civitai)
-* [⁠Prompy](https://www.prompy.me/) or [promptoMANIA](https://promptomania.com/) - Prompt Indexes
+* 🌐 **[⁠Prompy](https://www.prompy.me/)** or [promptoMANIA](https://promptomania.com/) - Prompt Indexes
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * [⁠ImagePromptGuru](https://imagepromptguru.net/) or [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb) - Determine Image Prompts 
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Extension for Automatic1111
