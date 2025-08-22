@@ -246,9 +246,8 @@
 * [⁠LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Coding AI Leaderboard / Benchmarks
 * [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
 * [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboard / Benchmarks
-* [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - Software Engineering AI Leaderboard / Benchmarks
+* [SWEBench](https://www.swebench.com/) - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench) 
 * [multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Software Engineering AI Leaderboard / Benchmarks
-* [SWEBench](https://www.swebench.com/) - Software Engineering AI Leaderboard / Benchmarks
 
 ***
 

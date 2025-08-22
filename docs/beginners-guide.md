@@ -74,7 +74,7 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://books.pstream.mov/)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
