@@ -61,7 +61,7 @@
 * [SciSpace](https://scispace.com/) - Research Chatbot / No Sign-Up
 * [⁠Bohrium](https://www.bohrium.com/) - Research Chatbot
 * [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
-* [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbot
+* [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
 * [PrivateGPT](https://privategpt.dev/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
 * [NotebookLM](https://notebooklm.google/) - Document Chatbot / Note-Taking / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * [Onyx](https://www.onyx.app/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
