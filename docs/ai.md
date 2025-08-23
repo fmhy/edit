@@ -40,9 +40,7 @@
 * [⁠ISH](https://ish.junioralive.in/) - o1 / Grok 3 / DeepSeek R1 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / GPT-5 mini / No Sign-Up
 * [⁠Mirexa](https://mirexa.vercel.app/) - Deepseek R1 / GPT 4.1 / Mistral / Grok 3 mini
-
 * [Yupp.ai](https://yupp.ai/) - Multiple Chatbots
-
 * [Groq](https://groq.com/) - Kimi K2 / Multiple Chatbots / [Discord](https://discord.gg/invite/groq)
 * [⁠Gradient](https://chat.gradient.network/) - GPT-OSS-120B / Qwen3-235B-A22B / Utilizes 5 32GB RTX 5090s
 * [Scira](https://scira.ai/) - Multiple Chatbots / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)

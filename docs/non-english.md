@@ -561,6 +561,7 @@
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [livestream](https://www.livestream.ad/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
+* [⁠Zapp](https://github.com/mediathekview/zapp) - Live TV / Android
 * [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
