@@ -96,7 +96,7 @@
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
-* [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) - VR Games
+* [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) or [QuestStoreDB](https://queststoredb.com/free_apps/) - VR Games
 * [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
 * [MiniReview](https://minireview.io/browse?sort=last-added-reviews&monetization=free&monetization-android=free&monetization-ios=free) - Mobile Game Recommendations / [Discord](https://discord.gg/TJq6EXfm7f) - Game APKs
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
@@ -1019,7 +1019,7 @@
 * [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [r/GameDeals](https://www.reddit.com/r/gamedeals) - Game Deal Subreddit
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [⁠VRDB](https://vrdb.app/) - VR Game / App Price Tracker
+* [⁠VRDB](https://vrdb.app/) or [QuestStoreDB](https://queststoredb.com/) - VR Game / App Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Price Trackers
 * [PS Deals](https://psdeals.net/) - Playstation Price Tracker
 * [XB Deals](https://xbdeals.net/) - Xbox Price Tracker
@@ -1374,6 +1374,7 @@
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
+* [⁠DrawAFish](https://drawafish.com/) - Global Fish Drawing Tank
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
