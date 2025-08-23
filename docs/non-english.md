@@ -1777,6 +1777,7 @@
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music / Free w/ Ads
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Free w/ Ads
 * [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Free w/ Ads
 * [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub
 * [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
@@ -1793,13 +1794,12 @@
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
-* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Free w/ Ads
 
 ## ▷ Reading / Đọc
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
-* ⭐ **[VietJack](https://vietjack.com/)**, [LoiGiaiHay](https://loigiaihay.com/), [VNDoc](https://vndoc.com/) or [Tech12h](https://tech12h.com/) - Educational Books / Documents / Study References
+* ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Educational Books / Documents / Study References
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [AnyBooks](https://anybooks.vn/) - Books
