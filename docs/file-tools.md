@@ -68,7 +68,7 @@
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
-* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Hide Popups](https://rentry.co/FMHYBase64#winrar-licenses) / **[Update (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#winrar)**
+* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Hide Popups](https://rentry.co/FMHYBase64#winrar-licenses) / [Update (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#winrar)
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
 
 ***
