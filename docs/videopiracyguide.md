@@ -154,7 +154,7 @@
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
 * ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Sign-Up Block](https://greasyfork.org/en/scripts/467474) / [Sponsorblock](https://github.com/hanydd/BilibiliSponsorBlock) / [Enhancement Script](https://github.com/the1812/Bilibili-Evolved)
-* ⭐ **[Niconico](https://www.nicovideo.jp/)**
+* ⭐ **[Niconico](https://www.nicovideo.jp/)** / [Desktop](https://github.com/tor4kichi/Hohoema)
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** - Multi-Site Video Search
 * [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)

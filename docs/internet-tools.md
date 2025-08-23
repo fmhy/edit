@@ -432,7 +432,6 @@
 * [Canary](https://canarymail.io/)
 * [Twobird](https://www.twobird.com/)
 * [Kanmail](https://kanmail.io/)
-* [Wino](https://www.winomail.app/)
 
 ***
 

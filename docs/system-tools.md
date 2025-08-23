@@ -236,7 +236,7 @@
 * ⭐ **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) - NVIDIA Driver Packages
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) or [NvidiaProfileInspectorRevamped](https://github.com/xHybred/NvidiaProfileInspectorRevamped) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
@@ -371,7 +371,6 @@
 * ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
-* [Extended Win 7 Updates](https://massgrave.dev/tsforge#windows-esu) - Extended Windows 7 Updates
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11

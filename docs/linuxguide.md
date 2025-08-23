@@ -419,11 +419,11 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
+* [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [Bash Upload](https://bashupload.com/) - Bash File Upload 50GB / 3 days
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [lnav](https://lnav.org/) - Log File Viewer / Analyzer / [Discord](https://discord.gg/erBPnKwz7R) / [GitHub](https://github.com/tstack/lnav)
-* [p7zip](https://p7zip.sourceforge.net/), [GNU Gzip](https://www.gnu.org/software/gzip/) or [pigz](https://zlib.net/pigz/) - File Archivers / Unzippers
 * [Pika Backup](https://gitlab.gnome.org/World/pika-backup/) or [RecoverPy](https://github.com/PabloLec/RecoverPy) - File Backup / Reocovery Tools
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations

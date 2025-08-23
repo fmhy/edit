@@ -68,9 +68,8 @@
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
-* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Unlock](https://rentry.co/FMHYBase64#winrar-licenses)
+* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Unlock](https://rentry.co/FMHYBase64#winrar-licenses) / **[Update (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#winrar)**
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
-* [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
 
 ***
 
@@ -309,6 +308,7 @@
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
+* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [VikingFile](https://vikingfile.com/) - 500GB / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days

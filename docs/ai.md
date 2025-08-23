@@ -40,6 +40,9 @@
 * [⁠ISH](https://ish.junioralive.in/) - o1 / Grok 3 / DeepSeek R1 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / GPT-5 mini / No Sign-Up
 * [⁠Mirexa](https://mirexa.vercel.app/) - Deepseek R1 / GPT 4.1 / Mistral / Grok 3 mini
+
+* [Yupp.ai](https://yupp.ai/) - Multiple Chatbots
+
 * [Groq](https://groq.com/) - Kimi K2 / Multiple Chatbots / [Discord](https://discord.gg/invite/groq)
 * [⁠Gradient](https://chat.gradient.network/) - GPT-OSS-120B / Qwen3-235B-A22B / Utilizes 5 32GB RTX 5090s
 * [Scira](https://scira.ai/) - Multiple Chatbots / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
@@ -222,6 +225,7 @@
 * ⭐ **[LMArena](https://lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
+* [⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks) - Chatbot Leaderboards / Benchmarks
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks / [GitHub](https://github.com/allenai/WildBench)
 * [Unified-Bench](https://docs.google.com/spreadsheets/d/1Dy64rbMzx5xqTLPsbTKhpUKQS0mvjns2nIS9BWvOCTU/) - Chatbot Benchmarks 
 * [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
@@ -408,6 +412,7 @@
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
 * [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro)
 * [Ondoku](https://ondoku3.com/en/) / No Sign-Up
+* [⁠Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) / No Sign-Up
 * [⁠Chatterbox](https://huggingface.co/spaces/ResembleAI/Chatterbox) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [GitHub](https://github.com/resemble-ai/chatterbox)
 * [AnyVoiceLab](https://anyvoicelab.com/long-form-text-to-speech-converter/) / No Sign-Up
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft) / [Colab](https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing)

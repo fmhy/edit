@@ -323,7 +323,6 @@
 
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html)
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
-* ⭐ **[Kludd](https://kludd.co/)**
 * [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)

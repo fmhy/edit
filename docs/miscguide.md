@@ -1527,6 +1527,7 @@
 * [The Scientific Place](https://scientific.place/) - Toys / Games
 * [artistaiden](https://artistaiden.com/) - Toys / Games
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
+* [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [LinkRoll](https://satyrs.eu/linkroll) - Find Random Sites
@@ -1578,7 +1579,6 @@
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
-* [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas

@@ -1183,7 +1183,7 @@
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
 * ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/), [3](https://seanprashad.com/leetcode-patterns/) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
-* ⭐ **[NeetCode](https://neetcode.io/)** - Coding Interview Practice
+* [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [ProjectLearn](https://projectlearn.io/) - Coding Practice
