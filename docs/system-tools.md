@@ -71,7 +71,7 @@
 * ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/marticliment/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) - Package Manager / [GitHub](https://github.com/chocolatey/choco)
+* [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
 * [RuckZuck](https://ruckzuck.tools/) - Package Manager
 * [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
