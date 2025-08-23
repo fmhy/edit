@@ -83,6 +83,7 @@
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
 * [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Braille Translator
 * [LingoJam](https://lingojam.com/) - Translator Creator
+* [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 ***
 
