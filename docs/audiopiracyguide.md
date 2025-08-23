@@ -391,7 +391,7 @@
 ***
 
 * 🌐 **[⁠Music Download Guide](https://rentry.co/wheredownloadmusic)** - Downloading Guide / Site Index
-* ⭐ **[TrackerHub](https://trackerhub.cx/)** - Unreleased / Check Google Sheets / [Frontend](https://artistgrid.cx/) / [Discord](https://discord.gg/trackerhub)
+* ⭐ **[TrackerHub](https://artistgrid.cx/)**, [2](https://trackerhub.cx/) - Unreleased / Check Google Sheets / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
