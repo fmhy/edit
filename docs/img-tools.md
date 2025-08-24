@@ -219,7 +219,7 @@
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Templates
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
-* [TweetGen](https://www.tweetgen.com/) - Fake Tweet Generator
+* [PrettyPost](https://www.prettypost.io/fake-tweet-generator) - Fake Tweet/X Generator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Conversation Creator
 * [Wojak Studio](https://wojak-studio.com/) - Wojak Meme Creator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
