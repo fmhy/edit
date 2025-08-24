@@ -1802,7 +1802,7 @@
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [AnyBooks](https://anybooks.vn/) - Books
-* [GacSach](https://gacsach.online/) - Books
+* [GacSach](https://gacsach.org/) - Books
 * [TramDoc](https://tramdoc.vn/) - Books
 * [Reader](https://www.reader.com.vn/) - Books
 * [NhaSach](https://nhasachmienphi.com/) - Books
@@ -1815,16 +1815,13 @@
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
-* [hanultruyen](https://hanultruyen.net/) - Manga
 * [Bao Tang Truyen](https://baotangtruyen34.top/) - Manga
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [Vietwriter](https://vietwriter.one/) - Manga / Manhwa / Manhua / Novel
 * [TruyenFull](https://truyenfull.vision/) - Manga / Light Novels
 * [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
-* [Babla](https://www.babla.vn/) - Dictionary
-* [VDict](https://vdict.com/) - Dictionary
-* [VTuDien](https://vtudien.com/) - Dictionary
+* [Babla](https://www.babla.vn/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
 
 ***
 
@@ -1841,7 +1838,7 @@
 * [radioplayer.be](https://radioplayer.be/) - Belgian Radio Stations / French / Dutch
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
-* [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
+* [BalkanDownload](https://balkandownload.org/) - Croatian / Serbian / Slovakian / Download / Video / Audio / Games / Books / Comics
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
