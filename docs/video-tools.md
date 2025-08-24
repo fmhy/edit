@@ -300,7 +300,7 @@
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tautulli-note)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
-* [Plex Ripper](https://www.plexripper.rocks/) - Merge Plex Libraries w/ Your Own
+* [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
 * [SyncLounce](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
