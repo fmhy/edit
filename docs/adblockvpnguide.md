@@ -449,6 +449,7 @@
 * [Psiphon](https://psiphon.ca/) - Anti-Censorship Proxy / VPN
 * [Lantern](https://lantern.io/) - Anti-Censorship Proxy / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks Proxies / [GitHub](https://github.com/unredacted/freesocks-control-plane)
+* [Hi!Load VPN](https://t.me/hlvpnbot) - Censorship Resistant Proxies / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [Hysteria](https://v2.hysteria.network/) - Speed-Focused Censorship Bypass Proxy / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
 * [Project X](https://github.com/XTLS/Xray-core) - Anti-Censorship Client / Server Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [Shadowsocks](https://shadowsocks.org/) - Simple Proxy Protocol to Bypass Censorship / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.xyz/) / [GitHub](https://github.com/shadowsocks)

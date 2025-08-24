@@ -26,7 +26,7 @@
 
 # ► Discord Tools
 
-* **Warning** - Misuse of chat archivers, mass-deleters, mods or third-party clients is against Discord's terms of service, so use at your own risk.
+* **Warning** - Chat archivers, mass-deleters, mods and third-party clients are against Discord's terms of service. Misusing them can lead to account terminations, so use them at your own risk.
 
 ***
 

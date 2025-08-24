@@ -431,7 +431,6 @@
 * [Spike](https://www.spikenow.com/)
 * [Canary](https://canarymail.io/)
 * [Twobird](https://www.twobird.com/)
-* [Kanmail](https://kanmail.io/)
 
 ***
 
@@ -721,7 +720,7 @@
 * [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
 * [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Dupe Bookmarks
-* [Supatabs](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Tab Managers
+* [⁠Tabler](https://tabler.one/), [Supatabs](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Tab Managers
 * [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
 * [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
 * [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching

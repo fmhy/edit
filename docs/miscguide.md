@@ -318,9 +318,11 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Bing Maps](https://www.bing.com/maps), [Mapy](https://en.mapy.cz/), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) or [Apple Maps](https://beta.maps.apple.com/) - Online / Offline Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [Mapy](https://en.mapy.cz/) or [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Online / Offline Maps
+
 * ⭐ **[Comaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
+* ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
@@ -937,6 +939,7 @@
 
 # ► Shopping
 
+* 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - Monero-Friendly Online Shop Index
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services

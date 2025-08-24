@@ -1267,6 +1267,7 @@
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [ClashVerge](https://www.clashverge.dev/) - Clash Client / Proxy / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
+* [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List
 * [DXP](https://dxp.ru/) - Subtitles Tracker
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
@@ -1770,11 +1771,10 @@
 ## ▷ Torrenting / Tải tệp bằng torrent
 
 * [NetHD](https://nethd.org/) - Video / Audio
-* [3ChangTrai](https://3changtrai.com/) - Video / Audio
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May Be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Free w/ Ads
@@ -1787,7 +1787,6 @@
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [Mocha](https://video.mocha.com.vn/) - Video / 1080p
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
