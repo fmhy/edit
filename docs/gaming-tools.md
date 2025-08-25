@@ -517,6 +517,7 @@
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
+* [⁠webMAN MOD](https://aldostools.github.io/webMAN-MOD/) - Add Extended Services to PS3 Consoles / [GitHub](https://github.com/aldostools/webMAN-MOD )
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord
@@ -609,7 +610,7 @@
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
-* [Betacraft Launcher](https://betacraft.uk/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions
+* [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher

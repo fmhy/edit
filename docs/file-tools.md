@@ -138,7 +138,7 @@
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
 * ⭐ **[FreeFileSync](https://freefilesync.org/)** - Open-Source File Sync
-* [MyPhoneExplorer](https://www.fjsoft.at/), [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
+* [MyPhoneExplorer](https://www.fjsoft.at/) or [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync

@@ -463,7 +463,6 @@
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
-* [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
@@ -479,7 +478,6 @@
 * [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
 * [tempmail.altmails](https://tempmail.altmails.com/) - 1 Day / 1 Day / 1 Domain
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain
@@ -487,7 +485,7 @@
 * [MinuteInbox](https://minuteinbox.com/), [TempMailGenerator](https://tempmailgenerator.org/), [10minemail.com](https://10minemail.com/), [10minutemail.com](https://10minutemail.com/) or [Linshi Email](https://www.linshi-email.com/en) - 10 Minute Lifespan Emails
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [AnonymMail.net](https://anonymmail.net/) or [Mail.td](https://mail.td/) - 5 Domains
-* [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
+* [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
 * [TMail](https://tmail.link/) - Lightweight Email
 * [More Sites](https://rentry.org/i3ozxg6f) - More Temp Mail Sites
 

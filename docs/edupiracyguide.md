@@ -1255,6 +1255,7 @@
 ## ▷ Game Development
 
 * 🌐 **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
+* ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges

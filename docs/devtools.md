@@ -598,7 +598,7 @@
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
 * [snippet-generator](https://snippet-generator.app/) - Snippet Generator
 * [Dendron](https://www.dendron.so/) - Knowledge Managment
-* [Discord Tools](https://github.com/Darkempire78/Discord-Tools)
+* [Discord Tools](https://github.com/clementwzk/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server / [GitHub](https://github.com/coder/code-server)
 * [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
@@ -831,7 +831,7 @@
 * ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
-* ⭐ **[Docusaurus](https://github.com/facebook/docusaurus)**, [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
+* ⭐ **[Docusaurus](https://docusaurus.io/)** / [GitHub](https://github.com/facebook/docusaurus), [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [site123](https://www.site123.com/) - Website Builder
 * [tilda](https://tilda.cc/) - Website Builder

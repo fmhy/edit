@@ -696,10 +696,10 @@
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
-* [Nox](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
+* [NoxPlayer](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
 * [GameLoop](https://www.gameloop.com/) - Android Emulator
-* [MuMu](https://www.mumuplayer.com/) - Android Emulator
-* [MeMu](https://www.memuplay.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
+* [MEmu](https://www.memuplay.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
 
 ***
@@ -1122,7 +1122,7 @@
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
 * ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [AltStore Classic](https://altstore.io/) - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
-* [⁠Ksign](https://github.com/Nyasami/Ksign-public) - Non-Jailbreak Sideloading
+* [⁠Ksign](https://github.com/Nyasami/Ksign) - Non-Jailbreak Sideloading
 * [Sparsebox](https://github.com/khanhduytran0/SparseBox) or [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing / Bypass Sidestore limits
 * [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager Bot
 * [⁠BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) - Lift Revoked Certificate Blacklist / iOS 17.0 -> iOS 18.0.1
@@ -1175,6 +1175,7 @@
 * [fnd](https://fnd.io/) - App Store Search
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
+* [Scholars Lounge](https://t.me/+BxHPTug9NstkOTYx) - Tweaked Apps
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
 * [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) - Modded Social Media Apps
 * [IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine

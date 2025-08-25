@@ -320,7 +320,7 @@
 ## ▷ System Audio
 
 * ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/), **[AutoEq](https://autoeq.app/)**, [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dolby-access--atmos-note) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
-* [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
+* [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) 
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Sony Headphones Clone
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests

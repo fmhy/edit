@@ -6,7 +6,7 @@
 
 # ► Linux Guides
 
-* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides

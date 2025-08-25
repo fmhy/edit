@@ -1801,10 +1801,7 @@
 * ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Educational Books / Documents / Study References
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
-* [AnyBooks](https://anybooks.vn/) - Books
 * [GacSach](https://gacsach.org/) - Books
-* [TramDoc](https://tramdoc.vn/) - Books
-* [Reader](https://www.reader.com.vn/) - Books
 * [NhaSach](https://nhasachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [tieulun](https://tieulun.hd.free.fr/) - Books
