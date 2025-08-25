@@ -44,7 +44,7 @@
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Anti Denuvo Sanctuary](https://rentry.co/FMHYBase64#adsanctuary) - Denuvo Games / Works Offline
-* [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
+* [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Clean Steam Files
 
 ***
 
@@ -685,7 +685,7 @@
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
 * [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
+* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [IOGames](https://iogames.party/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
 
 ***
 

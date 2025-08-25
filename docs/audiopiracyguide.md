@@ -113,10 +113,7 @@
 
 ## ▷ Radio Streaming
 
-* 🌐 **[FMSTREAM](https://fmstream.org/)** - Radio Index
-* 🌐 **[Recommended Radio Streams](https://github.com/deroverda/recommended-radio-streams)** - Radio Index
-* 🌐 **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** - Radio Index
-* 🌐 **[Radio Browser](https://www.radio-browser.info/users)** - Radio Index
+* 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** - BBC Live & Catch-up Radio / [Downloader](https://github.com/get-iplayer/get_iplayer)

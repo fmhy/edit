@@ -58,9 +58,9 @@
 * [MovieMaze](https://moviemaze.cc/) - Movies / TV / Anime
 * [Nunflix](https://nunflix.org/), [2](https://nunflix-ey9.pages.dev/) - Movies / TV / Anime / Watch Parties / [Docs](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
 * [Hopfly](https://watch.hopfly.site/) - Movies / TV / Anime
+* [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Maxflix](https://maxflix.top/) - Movies / TV / Anime
 * [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
-* [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
 * [Purplix](https://neoxa.transdev.pw/), [2](https://purplix.transdev.pw/), [3]( https://tv.starnode.host/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [Wooflix](https://www.wooflixtv.co/) - Movies / TV / Anime
@@ -260,6 +260,7 @@
 * [TamilToon](https://tamiltoon.net/) - TV / Movies / Anime / Switch Language in Player
 * [Watch Cartoon Online](https://www.watchcartoononline.com/) - TV / Movies / Anime
 * [FunnierMoments](https://www.funniermoments.net/) - TV
+* [ToonTales](https://www.toontales.net/) - Classic / TV
 * [SuperCartoons](https://www.supercartoons.net/) - Classic / TV
 * [ToonamiAftermath](https://www.toonamiaftermath.com/schedule) - Toonami Streams
 

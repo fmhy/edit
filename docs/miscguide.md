@@ -1314,7 +1314,7 @@
 * 🌐 **[David.li](https://david.li/)** - Physics Games
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Video](https://youtu.be/iSAKEnRfles) / [Discord](https://discord.gg/ZsrAAByEnr)
-* ⭐ **[Sandboxels](https://sandboxels.r74n.com/), [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
+* ⭐ **[Sandboxels](https://sandboxels.r74n.com/)**, [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/) - Falling Sand Physics Sandbox
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** or [geneticars](https://geneticars.vercel.app/) - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test

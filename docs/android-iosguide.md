@@ -894,7 +894,7 @@
 * ↪️ **[Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_android_tv)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
-* ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page) [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
+* ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hdo-box-note) / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)

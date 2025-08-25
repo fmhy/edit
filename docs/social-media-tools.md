@@ -34,7 +34,7 @@
 * ⭐ **[embedez](https://embedez.com/)** - Social Link Embedder / [X](https://twitter.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp)
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or [Guilded](https://www.guilded.gg/) - Discord Alternatives
-* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Note](https://pastebin.com/PpFhqiMb) / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
+* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's Asar / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openasar) / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
@@ -522,7 +522,7 @@
 ## ▷ Twitch Downloaders
 
 * [ClipsGameLab](https://clipsgamelab.github.io/#/download), [Twiclips](https://twiclips.com/) or [clipsey](https://clipsey.com/) - Video Downloaders
-* [twitch-dl](https://github.com/ihabunek/twitch-dl), [twitch-downloader](https://github.com/jybp/twitch-downloader) - CLI Video Downloaders
+* [twitch-dl](https://github.com/ihabunek/twitch-dl) or [twitch-downloader](https://github.com/jybp/twitch-downloader) - CLI Video Downloaders
 * [Twitch Downloader](https://github.com/lay295/TwitchDownloader) or [TwitchLink](https://twitchlink.github.io/) - Desktop Video Downloaders
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover / View / Download Twitch Videos
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages

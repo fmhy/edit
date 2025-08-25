@@ -211,9 +211,9 @@
 
 ## ▷ Special Interest
 
+* ↪️ **[Poetry Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_poetry_collections)**
+* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_collections)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_indexes)**
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy

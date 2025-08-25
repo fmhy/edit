@@ -340,7 +340,6 @@
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
-* [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required

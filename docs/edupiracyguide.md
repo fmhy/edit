@@ -360,7 +360,7 @@
 
 ***
 
-## ▷ Quote Indexes
+## ▷ Quote Collections
 
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**
 * [BrainyQuote](https://www.brainyquote.com/)
@@ -369,6 +369,20 @@
 * [QuoteMaster](https://www.quotemaster.org/)
 * [TheOtherPages](https://theotherpages.org/quote.html)
 * [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
+
+***
+
+## ▷ Poetry Collections
+
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
+* [Poetry In Translation](https://www.poetryintranslation.com/)
+* [PoemHunter](https://www.poemhunter.com/)
+* [DiscoverPoetry](https://discoverpoetry.com/)
+* [RUVerses](https://ruverses.com/)
+* [Poetry.com](https://www.poetry.com/)
+* [Poets.org](https://poets.org/)
+* [PoetryArchive](https://poetryarchive.org/)
+* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
 
 ***
 
