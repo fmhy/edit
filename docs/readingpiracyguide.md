@@ -303,6 +303,7 @@
 
 ## ▷ Kindle Tools
 
+* 🧙‍♂️ **[Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)** - Easily export your Kindle highlights into Notion databases
 * ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
