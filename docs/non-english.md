@@ -561,6 +561,7 @@
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [livestream](https://www.livestream.ad/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
+* [⁠Zapp](https://github.com/mediathekview/zapp) - Live TV / Android
 * [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
@@ -875,7 +876,7 @@
 ## ▷ Streaming / ストリーミング
 
 * [sudatchi](https://sudatchi.com/) - Anime
-* [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
+* [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative / [Desktop](https://github.com/tor4kichi/Hohoema)
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
@@ -983,7 +984,7 @@
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#soft98-note)
+* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#soft98-note) / PW: `soft98.ir`
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1262,10 +1263,11 @@
 
 # ► Russian / Русский
 
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
+* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot), [ru_tech_talk](https://t.me/ru_tech_talk) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [ClashVerge](https://www.clashverge.dev/) - Clash Client / Proxy / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
+* [Hi!Load VPN](https://t.me/hlvpnbot) - Free Shadowsocks TG / 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List
 * [DXP](https://dxp.ru/) - Subtitles Tracker
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
@@ -1555,7 +1557,6 @@
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
-* [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 * [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
 * [oscar220374](https://oscar220374.com/) - Movies / TV / Castilian
@@ -1770,60 +1771,40 @@
 ## ▷ Torrenting / Tải tệp bằng torrent
 
 * [NetHD](https://nethd.org/) - Video / Audio
-* [3ChangTrai](https://3changtrai.com/) - Video / Audio
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May be Required
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May Be Required
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
-* ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music / Free w/ Ads
+* ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Free w/ Ads
 * [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Free w/ Ads
-* [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
-* [Ô Phim](https://ophim.tuphim.net/) - Movies / Anime / Cartoon / TV / Sub / 1080p
+* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub / Free w/ Ads
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
-* [chuyenphim18](https://chuyenphim18.site/) - Movies / TV / Anime / Sub / 720p
 * [kkphim](https://kkphim.com/), [2](https://phim.nguonc.com/), [3](https://ophim.movie/) / Movies / TV / Anime / [Ad Script](https://github.com/Hth4nh/PureMovies)
-* [phim.in](https://phim.in.net/) - Anime / Movies / TV / Chinese Animation / Sub / Dub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [AnimeVSub](https://animevsub.eu.org/) - Anime / Chinese Animation / Sub / 1080p / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
-* [Mocha](https://video.mocha.com.vn/) - Video / 1080p
-* [MyClip](https://myclip.vn/) - Video / 1080p
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
-* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
-* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub
-* [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
-* [Muvi](https://muvi.vn/) - Music
-* [Nhacvn](https://nhac.vn/) - Music
-* [Keeng](https://keeng.vn/) - Music
-* [Imuzik](https://imuzik.com.vn/) - Music
+* [Muvi](https://muvi.vn/), [Nhacvn](https://nhac.vn/), [Keeng](https://keeng.vn/) or [Imuzik](https://imuzik.com.vn/) - Music
 
 ## ▷ Reading / Đọc
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
-* ⭐ **[VietJack](https://vietjack.com/)** - Educational Books / Documents
-* ⭐ **[LoiGiaiHay](https://loigiaihay.com/)** - Educational Books / Documents
-* ⭐ **[VNDoc](https://vndoc.com/)** - Educational Books / Documents
-* ⭐ **[Tech12h](https://tech12h.com/)** - Educational Books / Documents
+* ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Educational Books / Documents / Study References
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
-* [AnyBooks](https://anybooks.vn/) - Books
-* [GacSach](https://gacsach.online/) - Books
-* [SachHay24H](https://sachhay24h.com/) - Books
-* [TramDoc](https://tramdoc.vn/) - Books
-* [Waka](https://waka.vn/) - Books
-* [Reader](https://www.reader.com.vn/) - Books
+* [GacSach](https://gacsach.org/) - Books
 * [NhaSach](https://nhasachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
-* [tieulun](https://tieulun.hd.free.fr//) - Books
+* [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
@@ -1831,17 +1812,13 @@
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
-* [hanultruyen](https://hanultruyen.net/) - Manga
-* [Bao Tang Truyen](https://baotangtruyen20.com/) - Manga
+* [Bao Tang Truyen](https://baotangtruyen34.top/) - Manga
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
-* [Vietwriter](https://vietwriter.vn/) - Manga / Manhwa / Manhua / Novel
-* [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
-* [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
-* [sstruyen](https://sstruyen.vn/) - Light Novels
-* [Babla](https://www.babla.vn/) - Dictionary
-* [VDict](https://vdict.com/) - Dictionary
-* [VTuDien](https://vtudien.com/) - Dictionary
+* [Vietwriter](https://vietwriter.one/) - Manga / Manhwa / Manhua / Novel
+* [TruyenFull](https://truyenfull.vision/) - Manga / Light Novels
+* [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
+* [Babla](https://www.babla.vn/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
 
 ***
 
@@ -1858,7 +1835,7 @@
 * [radioplayer.be](https://radioplayer.be/) - Belgian Radio Stations / French / Dutch
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
-* [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
+* [BalkanDownload](https://balkandownload.org/) - Croatian / Serbian / Slovakian / Download / Video / Audio / Games / Books / Comics
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
