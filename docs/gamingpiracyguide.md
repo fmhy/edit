@@ -343,6 +343,7 @@
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch
 * [SwitchROM](https://switchroms.io/) - ROMs / Switch
+* [GNS](https://rentry.co/FMHYBase64#gns) - ROMs / Switch
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
 * [SM64ROMHacks](https://rentry.co/FMHYBase64#sm64romhacks) - Super Mario 64 Mods / [Discord](https://discord.com/invite/BYrpMBG)
