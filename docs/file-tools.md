@@ -217,6 +217,7 @@
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
 * [ILovePDF](https://www.ilovepdf.com/)
+* [FreeXTool](https://www.freextool.com/)
 * [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
