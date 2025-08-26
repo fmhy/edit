@@ -86,8 +86,8 @@
 
 ***
 
-* ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * ⭐ **[yFlix](https://yflix.to/)** - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
+* ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * ⭐ **[Qstream](https://qstream.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
