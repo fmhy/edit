@@ -1764,10 +1764,6 @@
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
 
-## ▷ Downloading / Tải xuống
-
-* [NhạcHayVN](https://nhachayvn.net/) - Music
-
 ## ▷ Torrenting / Tải tệp bằng torrent
 
 * [NetHD](https://nethd.org/) - Video / Audio
