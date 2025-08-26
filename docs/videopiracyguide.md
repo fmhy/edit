@@ -39,14 +39,14 @@
 
 ## ▷ API Frontends 
 
-* **Note** - These serve as frontends or user interfaces for API sites. Sources will vary from site to site depending on which ones owners feel are worth using. Many listed have custom players that automatically test API streams one by one without user input required.
+* **Note** - These serve as frontends or user interfaces for API sites. Sources will vary from site to site depending on which ones owners feel are worth using. Many listed have custom players that automatically test API streams one by one without user input required. [Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends)
 
 ***
 
 * ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Alts](https://erynith.github.io/movie-web-instances/) / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * ⭐ **[BEECH](https://beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
-* [Vidbox](https://vidbox.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
+* ⭐ **[Vidbox](https://vidbox.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [Primeshows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
@@ -82,14 +82,14 @@
 
 ## ▷ Single Server
 
-* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many listed also remove and or fix any broken links manually.
+* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many listed also remove and or fix any broken links manually. [Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server)
 
 ***
 
-* [Qstream](https://qstream.pages.dev/) - Movies / TV / Anime
-* [yFlix](https://yflix.to/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
-* [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
-* [NEPU](https://nepu.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
+* ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
+* ⭐ **[yFlix](https://yflix.to/)** - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
+* ⭐ **[Qstream](https://qstream.pages.dev/)** - Movies / TV / Anime
+* ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
 * [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
@@ -198,7 +198,7 @@
 * [Domain Expansion](https://rentry.co/FMHYBase64#domain-expansion) - Reaction Channel Content
 * [SidePlusLeaks](https://sideplusleaks.online/) - Sidemen Content / [Telegram](https://t.me/sideplusleaks)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
-* [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
+* [TVARK](https://tvark.org/) or [Daily Commercials](https://dailycommercials.com/) - Commercial / TV Promo Archives
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - Interactive player for Black Mirror: Bandersnatch / [GitHub](https://github.com/joric/bandersnatch)
 * [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / BSL-Based
@@ -845,6 +845,7 @@
 * ⭐ **[FlickMetrix](https://flickmetrix.com/)** or [agoodmovietowatch](https://agoodmovietowatch.com/) - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
 * ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
+* [⁠Ultimate Film Genre List](https://rateyourmusic.com/list/TheScientist/rym-ultimate-film-genres-and-lists/) - In-Depth Film Genre List + Recommendation Lists 
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
 * [RelatedAnime](https://relatedanime.com/) - Related Anime Index

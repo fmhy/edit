@@ -126,7 +126,8 @@
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
-* [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI 
+* [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
+* [⁠Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI
 * [imgcook](https://imgcook.com) - Coding AI / No Sign-Up / [GitHub](https://github.com/imgcook/imgcook)
 * [Supermaven](https://supermaven.com/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [Discord](https://discord.gg/ESHStjSjD4) / [GitHub](https://github.com/All-Hands-AI/OpenHands)

@@ -30,7 +30,7 @@
 
 ***
 
-* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
 * [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
@@ -121,7 +121,7 @@
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
-* [AIOWares](https://www.aiowares.com/)
+* [AIOWares](https://www.aiowares.com/) - Software Forum
 * [DownloadHa](https://www.downloadha.com/)
 * [Team V.R releases](https://rentry.co/FMHYBase64#team-vr) - Adobe Plugins
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
