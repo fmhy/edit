@@ -102,12 +102,12 @@
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
-* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games / Has Online
+* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games / Online
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
-* [Best Old Games](https://www.bestoldgames.net/) - DOS Games / Has Online
-* [DOSGames](https://dosgames.com/) - DOS Games / Has Online
+* [Best Old Games](https://www.bestoldgames.net/) - DOS Games / Online
+* [DOSGames](https://dosgames.com/) - DOS Games / Online
 * [FreeDOSGames](https://www.freedosgames.de/) - DOS Games
-* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games / Has Online
+* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games / Online
 * [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
