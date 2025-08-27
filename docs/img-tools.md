@@ -186,7 +186,6 @@
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art / Web
-* [Pixelator](https://ronenness.itch.io/pixelator) - Image to Pixel Art Converter / Windows
 * [PixelartVillage](https://pixelartvillage.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converter / Web
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
