@@ -33,7 +33,7 @@
 
 ## ▷ Download Managers
 
-* **Note** - Download managers can speed things up by using multiple connections, bypass rate limits, and they also make handling split files, and dealing with file hosts much easier.
+* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://rentry.org/the-piracy-glossary).
 
 ***
 

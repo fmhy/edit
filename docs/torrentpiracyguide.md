@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Warning** - It's best to avoid torrent sites for software and games, including aggregators that use multiple sources, with the exception of a few listed below. Instead use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+* **Warning** - It's best to avoid torrent sites (including aggregators) for software and games, with the exception of RuTracker and m0nkrus. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
 
