@@ -14,6 +14,7 @@
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
+* [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
 

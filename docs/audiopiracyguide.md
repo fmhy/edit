@@ -165,6 +165,7 @@
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
+* [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [AccuRadio](https://www.accuradio.com/) - Online Radio
 * [Q-3](https://www.q-3.eu/) - Online Radio
 * [⁠DubLab](https://www.dublab.com/) - Online Radio
@@ -836,6 +837,7 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [Visual Analyser](https://www.sillanumsoft.org/)
+* [⁠WhatsMyBitrate](https://whatsmybitrate.com/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
 * [Cambia](https://logs.musichoarders.xyz/) - CD Rip Log Checker
