@@ -401,6 +401,7 @@
 * ⭐ **[TTS Online](https://www.text-to-speech.online/)** / No Sign-Up
 * [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/uberduck-768215836665446480)
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
+* [TTSFree](https://ttsfree.com) - No Sign-Up
 * [ElevenLabs](https://elevenlabs.io/) / No Sign-Up / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
 * [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
