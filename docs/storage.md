@@ -213,9 +213,7 @@
 * https://librarygenesis.net/ - site list
 * https://libgen.li/ - clone
 * https://libgen.gs/ - clone
-* https://libgen.vg/ - clone
 * https://libgen.la/ - clone
-* https://libgen.bz/ - clone
 * https://rentry.co/m2hkqhwb - Differences between the mirrors
 
 ***
