@@ -368,7 +368,8 @@
 * [QuoteGarden](https://www.quotegarden.com/)
 * [QuoteMaster](https://www.quotemaster.org/)
 * [TheOtherPages](https://theotherpages.org/quote.html)
-* [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
+* [oneness](https://rentry.co/oneness)
+* [anarchism_](https://rentry.co/anarchism_)
 
 ***
 
