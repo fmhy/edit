@@ -1791,7 +1791,6 @@
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
-* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
 * [Muvi](https://muvi.vn/), [Nhacvn](https://nhac.vn/), [Keeng](https://keeng.vn/) or [Imuzik](https://imuzik.com.vn/) - Music
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
@@ -1800,6 +1799,7 @@
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
 * [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon
+* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 

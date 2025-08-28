@@ -911,7 +911,7 @@
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/), [gmkvextractgui](https://sourceforge.net/projects/gmkvextractgui/) or [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) - Extract Subtitles from MKV Files
 * [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
 * [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
-* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/), [Fansub Guide](https://unanimated.github.io/guides.htm) or [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/) - Fansubbing Encoding Guides
+* [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/) or [Fansub Guide](https://unanimated.github.io/guides.htm) - Fansubbing Encoding Guides
 
 ***
 
