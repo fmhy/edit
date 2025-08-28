@@ -65,7 +65,7 @@ in seeing all minor changes you can follow our
 
 ### Stars Added ⭐
 
-- Starred [Streamed](https://fmhy.net/videopiracyguide#live-sports) in Live
+- Starred [Streamed](https://fmhy.net/video#live-sports) in Live
   Sports. Fast streams, no ads.
 
 - Starred [Poke](https://fmhy.net/social-media-tools#youtube-frontends) in

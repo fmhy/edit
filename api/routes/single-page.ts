@@ -39,7 +39,7 @@ const files = (
     'torrentpiracyguide.md',
     'unsafesites.md',
     'video-tools.md',
-    'videopiracyguide.md'
+    'video.md'
   ] as const
 ).map((file) => ({
   name: file,
