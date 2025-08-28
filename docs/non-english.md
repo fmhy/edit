@@ -1085,7 +1085,7 @@
 
 # ► Portuguese / Português
 
-* **Note** - Brazil is known for having lots of site blocking, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you cannot access one.
+* **Note** - Brazil is known for blocking many sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
 
 ***
 

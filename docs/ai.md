@@ -6,7 +6,7 @@
 
 # ► AI Chatbots
 
-* **Note** - It's **never** a good idea to upload personal / confidential files or info to any cloud AI, as many train on your questions and code. If you want privacy, its best to run bots yourself locally, and remember to use throwaway emails or [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) if signing up for bots.
+* **Note** - It's **never** a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for collecting or training purposes. If you want privacy, its best to run LLMs locally. Remember to use [throwaway emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [aliases](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for online chatbots.
 
 ***
 
@@ -118,9 +118,9 @@
 
 ## ▷ Coding AIs
 
-* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ai_benchmarks)**
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
+* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ai_benchmarks)**
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / No Sign-Up / [Discord](https://discord.gg/getpieces)
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)

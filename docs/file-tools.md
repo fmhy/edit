@@ -409,7 +409,7 @@
 
 ## ▷ Google Drive Tools
 
-* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools / [Features](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oneclick-note) / Use Throwaway Account
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools / [Features](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oneclick-note) / Use Throwaway Google Account
 * [DriveUploader](https://driveuploader.com/) - Receive Files via Google Drive
 * [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [Google Drive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client

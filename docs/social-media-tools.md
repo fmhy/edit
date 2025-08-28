@@ -251,7 +251,6 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [Telegram Email](https://t.me/etlgr_bot) - Email Alias Telegram Bot
 * [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis
 
 ***
