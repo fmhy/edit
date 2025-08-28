@@ -1794,7 +1794,7 @@
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
 * [Muvi](https://muvi.vn/), [Nhacvn](https://nhac.vn/), [Keeng](https://keeng.vn/) or [Imuzik](https://imuzik.com.vn/) - Music
 
-## ▷ Free w/ Ads 
+## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
 * ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
