@@ -87,7 +87,7 @@
 * [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted
 * [⁠ch.at](https://ch.at/) - Self-Hosted / Minimal / Lightweight / [GitHub](https://github.com/Deep-ai-inc/ch.at)
 * [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Self-Hosted / [Discord](https://discord.gg/4rR282WJb6)
-* [AnythingLLM](https://anythingllm.com/) - Self-Hosted
+* [AnythingLLM](https://anythingllm.com/) - Self-Hosted / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
 * [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)
 * [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
