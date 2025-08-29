@@ -120,7 +120,7 @@ export const headers: Header = {
     title: 'Torrenting',
     description: 'Torrent Clients, Torrent Sites, Trackers'
   },
-  'videopiracyguide.md': {
+  'video.md': {
     title: 'Movies / TV / Anime',
     description: 'Stream Videos, Download Videos, Torrent Videos'
   },

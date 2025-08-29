@@ -47,16 +47,16 @@ in seeing all minor changes you can follow our
 - Starred [ChatPDF](/ai/#ai-chatbots) in AI chatbots. AI that turns any book
   into a chatbot.
 
-- Starred [Foogle](/videopiracyguide/#drives--directories) in Video Download.
+- Starred [Foogle](/video/#drives--directories) in Video Download.
   Fast, single click video downloads.
 
-- Starred [JustChill](/videopiracyguide/#dedicated-hosts) in Streaming Sites.
+- Starred [JustChill](/video/#dedicated-hosts) in Streaming Sites.
   Nice UI, fast 1080p.
 
-- Starred [movie-web](/videopiracyguide/#multi-hosts) Streaming Sites. Nice UI,
+- Starred [movie-web](/video/#multi-hosts) Streaming Sites. Nice UI,
   fast 1080p.
 
-- Starred [Primewire](/videopiracyguide/#multi-hosts) in Streaming Sites.
+- Starred [Primewire](/video/#multi-hosts) in Streaming Sites.
   Primewire has started adding links to pirated content again.
 
 - Starred [Wotaku](https://wotaku.pages.dev/) in Indexes. Awesome Japanese

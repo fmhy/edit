@@ -194,7 +194,7 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video/g,
-      '/videopiracyguide'
+      '/video'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,

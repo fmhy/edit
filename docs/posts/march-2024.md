@@ -63,7 +63,7 @@ in seeing all minor changes you can follow our
   limit GPT-4, tell it to always talk in english.
 
 - Starred
-  [M4UFree + YesMovies](https://fmhy.net/videopiracyguide#streaming-sites) in
+  [M4UFree + YesMovies](https://fmhy.net/video#streaming-sites) in
   Streaming. Both have huge libraries, fast 1080p, and have been around for over
   a decade.
 
@@ -77,17 +77,17 @@ in seeing all minor changes you can follow our
 - Starred [SolidTorrents](https://fmhy.net/torrentpiracyguide#aggregators) in
   Torrent Aggregators.
 
-- Starred [MrGamingStreams](https://fmhy.net/videopiracyguide#live-tv-sports) in
+- Starred [MrGamingStreams](https://fmhy.net/video#live-tv-sports) in
   Live TV. Fast streams, nice UI, no ads.
 
-- Starred [720pier](https://fmhy.net/videopiracyguide#sports-streaming) in
+- Starred [720pier](https://fmhy.net/video#sports-streaming) in
   Sports Streaming. Sport replay torrents.
 
 - Starred
   [Enhancer for YT](https://fmhy.net/social-media-tools#youtube-customization)
   in YouTube Customization. YouTube enhancement extension.
 
-- Starred [RatS](https://fmhy.net/videopiracyguide#tracking-discovery) in
+- Starred [RatS](https://fmhy.net/video#tracking-discovery) in
   Tracking / Discovery. Sync media ratings between sites.
 
 ---
