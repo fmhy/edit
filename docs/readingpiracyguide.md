@@ -239,33 +239,6 @@
 
 ***
 
-## ▷ Quote Collections
-
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* [BrainyQuote](https://www.brainyquote.com/)
-* [AZQuotes](https://www.azquotes.com/)
-* [QuoteGarden](https://www.quotegarden.com/)
-* [QuoteMaster](https://www.quotemaster.org/)
-* [TheOtherPages](https://theotherpages.org/quote.html)
-* [oneness](https://rentry.co/oneness)
-* [anarchism_](https://rentry.co/anarchism_)
-
-***
-
-## ▷ Poetry Collections
-
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
-* [Poetry In Translation](https://www.poetryintranslation.com/)
-* [PoemHunter](https://www.poemhunter.com/)
-* [DiscoverPoetry](https://discoverpoetry.com/)
-* [RUVerses](https://ruverses.com/)
-* [Poetry.com](https://www.poetry.com/)
-* [Poets.org](https://poets.org/)
-* [PoetryArchive](https://poetryarchive.org/)
-* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
-
-***
-
 ## ▷ Ebook Readers
 
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
@@ -704,6 +677,28 @@
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](https://vangoghletters.org/vg/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
+
+***
+
+## ▷ Quotes / Poetry
+
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
+* [BrainyQuote](https://www.brainyquote.com/)
+* [AZQuotes](https://www.azquotes.com/)
+* [QuoteGarden](https://www.quotegarden.com/)
+* [QuoteMaster](https://www.quotemaster.org/)
+* [TheOtherPages](https://theotherpages.org/quote.html)
+* [oneness](https://rentry.co/oneness)
+* [anarchism_](https://rentry.co/anarchism_)
+* [Poetry In Translation](https://www.poetryintranslation.com/)
+* [PoemHunter](https://www.poemhunter.com/)
+* [DiscoverPoetry](https://discoverpoetry.com/)
+* [RUVerses](https://ruverses.com/)
+* [Poetry.com](https://www.poetry.com/)
+* [Poets.org](https://poets.org/)
+* [PoetryArchive](https://poetryarchive.org/)
+* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
 
 ***
 

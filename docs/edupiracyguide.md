@@ -97,8 +97,7 @@
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
-* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quote_collections)**
-* ↪️ **[Poetry Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_poetry_collections)**
+* ↪️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
 * ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
@@ -1385,7 +1384,8 @@
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
+* [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
+* [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/), [⁠Yeolpumta](https://www.yeolpumta.com/en) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search

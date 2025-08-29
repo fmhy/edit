@@ -185,12 +185,11 @@
 * [Piskel](https://www.piskelapp.com/) - Pixel Art Editor / Web
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
-* [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art / Web
 * [PixelartVillage](https://pixelartvillage.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converter / Web
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
-* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art without Quality Loss / Web
+* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers
 
 ***
 

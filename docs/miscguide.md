@@ -604,7 +604,7 @@
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
 * [r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
 * [r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 
@@ -1378,6 +1378,7 @@
 * [Odyssey](https://experience.odyssey.world/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
+* [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
 * [⁠DrawAFish](https://drawafish.com/) - Global Fish Drawing Tank
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
