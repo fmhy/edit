@@ -1772,7 +1772,7 @@
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
-* [NetHD](https://nethd.org/) - Video / Audio
+* [NetHD](https://nethd.org/) - Video / Audio / Sign-Up Required
 
 ## ▷ Downloading / Tải xuống
 
@@ -1791,7 +1791,6 @@
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
-* [Muvi](https://muvi.vn/), [Nhacvn](https://nhac.vn/), [Keeng](https://keeng.vn/) or [Imuzik](https://imuzik.com.vn/) - Music
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
