@@ -33,7 +33,7 @@
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.i2p](http://btdigg.i2p/) / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
+* [⁠Trackly](https://trackly.cc/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
@@ -49,6 +49,7 @@
 * [Torlock](https://www.torlock.com/)
 * [YourBittorrent](https://yourbittorrent.com/)
 * [BTSearch](https://btsearch.19950817.xyz/en)
+* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Search Web App
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) or [TorrentHuntBot](https://t.me/torrenthuntbot) - Telegram Torrent Search Bots
@@ -78,7 +79,7 @@
 
 # ► Torrent Clients
 
-* **Warning** - Make sure you [BIND](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **Warning** - Make sure you [BIND](https://wispydocs.netlify.app/docs/vpn-binding/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
