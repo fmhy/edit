@@ -14,6 +14,7 @@
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Video Quality Comparison & Analysis Tool
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
+* [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
 
@@ -84,7 +85,7 @@
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
-* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [Codec Wiki](https://wiki.x266.mov/) / [Discord](https://discord.gg/bbQD5MjDr3) / [GitHub](https://github.com/av1-community-contributors/codec-wiki), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
+* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [Codec Wiki](https://wiki.x266.mov/) / [Discord](https://discord.gg/bbQD5MjDr3) / [GitHub](https://github.com/av1-community-contributors/codec-wiki), [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux

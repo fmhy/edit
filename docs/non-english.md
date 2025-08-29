@@ -634,18 +634,24 @@
 
 # ► Hungarian / Magyar
 
-* [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
 * [Turistautak](https://turistautak.hu/) - Hungarian Maps
 
-## ▷ Streaming
+## ▷ Streaming / Streamelés
 
-* [moviedrive](https://moviedrive.hu/) - Movies / TV / Sub / Dub / 1080p / [Discord](https://discord.com/invite/blackfire)
+* ⭐ **[moviedrive](https://moviedrive.hu/)** - Movies / TV / Sub / Dub / 1080p / [Discord](https://discord.com/invite/blackfire)
 * [hdmozi](https://hdmozi.hu/) - Movies / TV / Sub / Dub / 1080p
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
 * [filmezek](https://filmezek.com/) - Movies
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
 * [animedrive](https://animedrive.hu/) - Anime / [Discord](https://discord.com/invite/blackfire)
+* [Myonlinerádió](https://myonlineradio.hu/) - Radio Stations
+
+## ▷ Torrenting / Torrentezés
+
+* [iTorrent](https://itorrent.ws/) - Movies / TV / Sub / Dub / 1080p / 720p / No-signup
+* [HunTorrent](https://huntorrent.org/) - Movies / TV / Sub / Dub / 1080p
+* [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
 
 ***
 
@@ -658,7 +664,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](http://vegamovies.bot/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.gmbh/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[HDHub4u](https://hdhublist.com/?re=hdhub)** - Movies / TV / 1080p / [Telegram](https://hdhub4u.frl/join-our-group/)
@@ -668,8 +674,8 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* ⭐ **[TamilBlasters](https://www.tamilblasters.coupons/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* ⭐ **[TamilMV](https://www.1tamilmv.blue/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[Tamil Blasters](https://www.1tamilblasters.yachts/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.vc/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
 * [Bollyflix](https://bollyflix.army/) - Movies / TV / Anime
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
@@ -702,8 +708,8 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://www.tamilblasters.coupons/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* ⭐ **[TamilMV](https://www.1tamilmv.blue/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[Tamil Blasters](https://www.1tamilblasters.yachts/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.vc/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 
 ## ▷ Streaming
 
@@ -715,8 +721,8 @@
 * ⭐ **[Anime World India](https://watchanimeworld.in/)** - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * ⭐ **[Anime World India](https://anime-world.app/)** - Anime
-* [Streamblasters](https://www.streamblasters.city/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* [TamilMV](https://www.1tamilmv.blue/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* [Tamil Blasters](https://www.1tamilblasters.yachts/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* [TamilMV](https://www.1tamilmv.vc/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
@@ -817,7 +823,7 @@
 
 ## ▷ Streaming
 
-* [StreamingCommunity](https://streamingcommunityz.art/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
+* [StreamingCommunity](https://streamingcommunityz.chat/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [Altadefinizione](https://altadefinizionegratis.gold/) - Movies / Dub / 1080p / [Status](https://telegra.ph/Link-Aggiornato-Altadefinizione-08-07) / [Telegram](https://t.me/+x_9jyFBbYBpkYTRi)
 * [CB01](https://cb01net.guru/), [2](https://cb01.uno) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
@@ -1766,16 +1772,15 @@
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
-* [NetHD](https://nethd.org/) - Video / Audio
+* [NetHD](https://nethd.org/) - Video / Audio / Sign-Up Required
+
+## ▷ Downloading / Tải xuống
+
+* [NhạcHayVN](https://nhachayvn.net/) - Music
 
 ## ▷ Streaming / Phát trực tuyến
 
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [2](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim) / VPN May Be Required
-* ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV / Free w/ Ads
-* ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music / Free w/ Ads
-* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Free w/ Ads
-* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Free w/ Ads
-* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub / Free w/ Ads
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
@@ -1784,11 +1789,18 @@
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
-* [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
 * [6SVN](https://xem.6svn.com/) - Live TV
+
+## ▷ Free w/ Ads / Miễn phí với quảng cáo
+
+* ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
+* ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
+* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
-* [Muvi](https://muvi.vn/), [Nhacvn](https://nhac.vn/), [Keeng](https://keeng.vn/) or [Imuzik](https://imuzik.com.vn/) - Music
+* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub
+* [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 
 ## ▷ Reading / Đọc
 

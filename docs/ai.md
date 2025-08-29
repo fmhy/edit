@@ -14,10 +14,10 @@
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Flash / Google Chatbots / [CLI](https://github.com/google-gemini/gemini-cli) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [Discord](https://discord.com/invite/go-copilot)
+* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 4 (5 per 2 hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Qwen](https://qwen.ai/home)**, [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen 3 Coder / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / [Discord](https://discord.gg/QR7SARHRxK)
+* ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 4 (5 per 12 hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [ChatGPT](https://chatgpt.com/) - GPT-5 / GPT-5 mini Chatbot / [Limit Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#copilot--chatgpt-note) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Kimi](https://kimi.ai/) - Kimi K2 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
@@ -85,6 +85,7 @@
 * [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
 * [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)
 * [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted
+* [⁠ch.at](https://ch.at/) - Self-Hosted / Minimal / Lightweight / [GitHub](https://github.com/Deep-ai-inc/ch.at)
 * [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Self-Hosted / [Discord](https://discord.gg/4rR282WJb6)
 * [AnythingLLM](https://anythingllm.com/) - Self-Hosted
 * [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
@@ -313,6 +314,7 @@
 * [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT-4o
 * [Genspark](https://www.genspark.ai/) / Unlimited / Flux Schnell / [Discord](https://discord.com/invite/CsAQ6F4MPy)
+* [⁠Text2Image](https://taterai.github.io/Text2Image-Generator.html) / Unlimited / Flux Schnell 
 * [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited / 10 GPT Image 1 or Seedream 3.0 Daily / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)

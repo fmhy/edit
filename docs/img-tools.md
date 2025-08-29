@@ -687,6 +687,7 @@
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
 * [OCR.SPACE](https://ocr.space/) - Online OCR
+* [OCRTool](https://ocrtool.net/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
 * [Ocrify](https://ocrify.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
@@ -714,7 +715,6 @@
 * [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
 * [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
 * [narrative](https://narrative.so/)

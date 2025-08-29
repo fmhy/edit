@@ -97,6 +97,8 @@
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
+* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quote_collections)**
+* ↪️ **[Poetry Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_poetry_collections)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
 * ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
@@ -357,33 +359,6 @@
 * [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
-
-***
-
-## ▷ Quote Collections
-
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* [BrainyQuote](https://www.brainyquote.com/)
-* [AZQuotes](https://www.azquotes.com/)
-* [QuoteGarden](https://www.quotegarden.com/)
-* [QuoteMaster](https://www.quotemaster.org/)
-* [TheOtherPages](https://theotherpages.org/quote.html)
-* [oneness](https://rentry.co/oneness)
-* [anarchism_](https://rentry.co/anarchism_)
-
-***
-
-## ▷ Poetry Collections
-
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
-* [Poetry In Translation](https://www.poetryintranslation.com/)
-* [PoemHunter](https://www.poemhunter.com/)
-* [DiscoverPoetry](https://discoverpoetry.com/)
-* [RUVerses](https://ruverses.com/)
-* [Poetry.com](https://www.poetry.com/)
-* [Poets.org](https://poets.org/)
-* [PoetryArchive](https://poetryarchive.org/)
-* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
 
 ***
 

@@ -205,7 +205,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:television"></span> Movies / TV / Anime',
-        link: '/videopiracyguide'
+        link: '/video'
       },
       {
         text: '<span class="i-twemoji:musical-note"></span> Music / Podcasts / Radio',
