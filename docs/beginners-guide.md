@@ -116,9 +116,14 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 * **[Windows Install / Debloat Guide](https://wispydocs.netlify.app/docs/windows/)**
 * **Software Piracy: [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-* **Adobe Piracy: [Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
 !!!note Be aware that unofficial sources often re-upload M0nkrus's repacks, sometimes with added malware. Always verify you are downloading from M0nkrus's actual site, which we link on FMHY before downloading anything. Do not trust search engine results blindly for such specific repackers.
+
+***
+
+### Adobe Piracy
+
+* **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
 ***
 
