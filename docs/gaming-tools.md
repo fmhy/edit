@@ -380,7 +380,7 @@
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [Setup Guide](https://youtu.be/ytSftFoQQHA) / [Discord](https://discord.gg/skyrimtogether) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discord.com/invite/mKVdhmEDrW)
-* [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod/ [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
+* [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod / [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
 * [BeamMP](https://beammp.com/) - BeamNG Multiplayer / [GitHub](https://github.com/BeamMP/BeamMP)
 * [Fika](https://project-fika.gitbook.io/wiki) - Play Single Player Tarkov Co-Op / Requires Legit Game
 * [OnlineCTR](https://www.online-ctr.com/) - Crash Team Racing Multiplayer
@@ -560,7 +560,7 @@
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools / [Discord](https://discord.com/invite/flyte)
 * [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
-* [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web)- Minecraft Guides / Tools
+* [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
