@@ -26,7 +26,7 @@ export const headers: Header = {
   },
   'ai.md': {
     title: 'Artificial Intelligence',
-    description: 'Chatbots, Text Generators, Image Generators, ChatGPT Tools'
+    description: 'Chatbots, Text Generators, Image Generators, Chatbot Tools'
   },
   'android-iosguide.md': {
     title: 'Android / iOS',
