@@ -1,6 +1,5 @@
 ---
 title: Sandbox
-search: false
 ---
 
 ### Sandbox
