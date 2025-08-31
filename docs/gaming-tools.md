@@ -456,7 +456,7 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[Switch Hacks Guide]](https://switch.hacks.guide/)** or [Switchway](https://switchway.net/)
+* ⭐ **[Switch Hacks Guide](https://switch.hacks.guide/)** or [Switchway](https://switchway.net/)
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers

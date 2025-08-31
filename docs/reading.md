@@ -177,7 +177,6 @@
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
-* [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism

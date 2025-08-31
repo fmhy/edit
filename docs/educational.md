@@ -26,7 +26,6 @@
 * [Folkstreams](https://www.folkstreams.net/)
 * [Films For Action](https://www.filmsforaction.org/)
 * [r/Documentaries](https://reddit.com/r/Documentaries)
-* [Open-Video](https://open-video.org/)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
 
@@ -487,7 +486,7 @@
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
-* ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_latex_tools)**
+* ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - Math Roadmap / [Discord](https://discord.gg/wuytwK5s9h)

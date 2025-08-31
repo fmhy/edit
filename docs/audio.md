@@ -812,8 +812,8 @@
 
 * 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Music / Notation Tools Index
 * 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
-* ↪️ **[Music Notation Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_notation_editors)**
 * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+* ⭐ **[MuseScore](https://musescore.org/)**, [MC Musiceditor](https://www.mcmusiceditor.com/) or [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Music Scoring Software
 * [Sheethost](https://sheet.host/) - Publish Sheet Music
 * [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
 * [Chordly](https://chordly.co.uk/) - Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)
@@ -938,12 +938,11 @@
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Signup
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
-* [IEM Plug-in Suite](https://plugins.iem.at/), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
+* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://www.modularsamples.com/Plugins.html) / [Github](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins 
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
-* [ModularSamples](https://www.modularsamples.com/Plugins.html) - Plugins / [Github](https://github.com/publicsamples)
 * [r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 
 ***
