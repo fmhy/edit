@@ -31,6 +31,15 @@ export const meta = {
   }
 }
 
+export const excluded = [
+  'readme.md',
+  'single-page',
+  'feedback.md',
+  'index.md',
+  'sandbox.md',
+  'startpage.md'
+]
+
 if (process.env.FMHY_BUILD_NSFW === 'false') {
   consola.info('FMHY_BUILD_NSFW is set to false, disabling NSFW content')
   meta.build.nsfw = false
@@ -55,6 +64,18 @@ export const feedback = `<a href="/feedback" class="feedback-footer">Made with â
 export const search: DefaultTheme.Config['search'] = {
   options: {
     _render(src, env, md) {
+      // Check if current file should be excluded from search
+      const relativePath = env.relativePath || env.path || ''
+      const shouldExclude = excluded.some(excludedFile => 
+        relativePath.includes(excludedFile) || 
+        relativePath.endsWith(excludedFile)
+      )
+      
+      // Return empty content for excluded files so they don't appear in search
+      if (shouldExclude) {
+        return ''
+      }
+
       let contents = src
       // I do this as env.frontmatter is not available until I call `md.render`
       if (contents.includes('Beginners Guide'))
