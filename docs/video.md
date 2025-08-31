@@ -436,7 +436,7 @@
 * [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
 * [CrackStreams](https://crackstreams.blog/)
 * [720pStream](https://720pstream.nu/)
-* [BINTV](https://bintv.fun/) / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
+* [BINTV](https://bintv.fun/) / [Discord](https://discord.gg/fMU4hpDjPg)
 * [BuffStream](https://app.buffstream.io/)
 * [TopSport](https://topsport.live/), [2](https://sport4all.live/)
 * [LiveMatches](https://livematches.net/) - Live Events
