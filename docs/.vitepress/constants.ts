@@ -197,7 +197,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       {
         text: '<span class="i-twemoji:name-badge"></span> Adblocking / Privacy',
-        link: '/adblockvpnguide'
+        link: '/privacy'
       },
       {
         text: '<span class="i-twemoji:robot"></span> Artificial Intelligence',
@@ -209,35 +209,35 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:musical-note"></span> Music / Podcasts / Radio',
-        link: '/audiopiracyguide'
+        link: '/audio'
       },
       {
         text: '<span class="i-twemoji:video-game"></span> Gaming / Emulation',
-        link: '/gamingpiracyguide'
+        link: '/gaming'
       },
       {
         text: '<span class="i-twemoji:green-book"></span> Books / Comics / Manga',
-        link: '/readingpiracyguide'
+        link: '/reading'
       },
       {
         text: '<span class="i-twemoji:floppy-disk"></span> Downloading',
-        link: '/downloadpiracyguide'
+        link: '/downloading'
       },
       {
         text: '<span class="i-twemoji:cyclone"></span> Torrenting',
-        link: '/torrentpiracyguide'
+        link: '/torrenting'
       },
       {
         text: '<span class="i-twemoji:brain"></span> Educational',
-        link: '/edupiracyguide'
+        link: '/educational'
       },
       {
         text: '<span class="i-twemoji:mobile-phone"></span> Android / iOS',
-        link: '/android-iosguide'
+        link: '/mobile'
       },
       {
         text: '<span class="i-twemoji:penguin"></span> Linux / macOS',
-        link: '/linuxguide'
+        link: '/linux-macos'
       },
       {
         text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Non-English',
@@ -245,7 +245,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:file-folder"></span> Miscellaneous',
-        link: '/miscguide'
+        link: '/misc'
       }
     ]
   },
@@ -279,7 +279,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:camera"></span> Image Tools',
-        link: '/img-tools'
+        link: '/image-tools'
       },
       {
         text: '<span class="i-twemoji:videocassette"></span> Video Tools',
@@ -287,15 +287,15 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:speaker-high-volume"></span> Audio Tools',
-        link: '/audiopiracyguide#audio-tools'
+        link: '/audio#audio-tools'
       },
       {
         text: '<span class="i-twemoji:red-apple"></span> Educational Tools',
-        link: '/edupiracyguide#educational-tools'
+        link: '/educational#educational-tools'
       },
       {
         text: '<span class="i-twemoji:man-technologist"></span> Developer Tools',
-        link: '/devtools'
+        link: '/developer-tools'
       }
     ]
   },
@@ -311,7 +311,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
         : {},
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
-        link: '/unsafesites'
+        link: '/unsafe'
       },
       {
         text: '<span class="i-twemoji:package"></span> Storage',

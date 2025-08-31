@@ -134,31 +134,31 @@ export function transform(text: string): string {
     .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
-      '/adblockvpnguide'
+      '/privacy'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/android/g,
-      '/android-iosguide'
+      '/mobile'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/games/g,
-      '/gamingpiracyguide'
+      '/gaming'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/reading/g,
-      '/readingpiracyguide'
+      '/reading'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/download/g,
-      '/downloadpiracyguide'
+      '/downloading'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/torrent/g,
-      '/torrentpiracyguide'
+      '/torrenting'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/edu/g,
-      '/edupiracyguide'
+      '/educational'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/system-tools/g,
@@ -198,11 +198,11 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,
-      '/audiopiracyguide'
+      '/audio'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/linux/g,
-      '/linuxguide'
+      '/linux-macos'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/non-eng/g,
@@ -210,7 +210,7 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/misc/g,
-      '/miscguide'
+      '/misc'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/storage/g,
@@ -218,11 +218,11 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/dev-tools/g,
-      '/devtools'
+      '/developer-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/img-tools/g,
-      '/img-tools'
+      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/image-tools/g,
+      '/image-tools'
     )
 
   _text = replaceUnderscore(_text)

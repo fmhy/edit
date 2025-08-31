@@ -41,7 +41,7 @@ in seeing all minor changes you can follow our
 
 # Stars Added ⭐
 
-- Starred [DAB Music Player](https://fmhy.net/audiopiracyguide#download-sites) in Audio DDL. Single click FLAC album downloads, has web app + desktop apps for for windows, mac, and linux, with android support coming soon.
+- Starred [DAB Music Player](https://fmhy.net/audio#download-sites) in Audio DDL. Single click FLAC album downloads, has web app + desktop apps for for windows, mac, and linux, with android support coming soon.
 
 - Starred [IronFox](https://fmhy.net/storage#privacy-based) in Android Privacy Browsers. Firefox-based browser with a focus on privacy / security. Feature-rich, recommended by the librewolf dev team, and our community seems to really like it.
 
@@ -49,13 +49,13 @@ in seeing all minor changes you can follow our
 
 - Starred [AMP4](https://fmhy.net/social-media-tools#youtube-downloaders) in YouTube Video Downloaders, ad-free, supports playlists and 3 hour long videos.
 
-- Starred [JustDeleteMe](https://fmhy.net/adblockvpnguide#web-privacy) in Web Privacy. Directory of links to more easily delete your accounts from web services.
+- Starred [JustDeleteMe](https://fmhy.net/privacy#web-privacy) in Web Privacy. Directory of links to more easily delete your accounts from web services.
 
-- Starred [PocketCasts](https://fmhy.net/audiopiracyguide) in Podcast Streaming. Popular iOS podcast player that recently added both desktop + web apps.
+- Starred [PocketCasts](https://fmhy.net/audio) in Podcast Streaming. Popular iOS podcast player that recently added both desktop + web apps.
 
-- Starred [ADS-B Exchange](https://fmhy.net/miscguide#flights) in Flights section, one of the only that doesn't lock features behind paywalls.
+- Starred [ADS-B Exchange](https://fmhy.net/misc#flights) in Flights section, one of the only that doesn't lock features behind paywalls.
 
-- Replaced star for xManager with [ReVanced Manager](https://fmhy.net/android-iosguide#android-audio) in Ad-Free Spotify as it has more features, less issues, and xManager itself recommends it.
+- Replaced star for xManager with [ReVanced Manager](https://fmhy.net/mobile#android-audio) in Ad-Free Spotify as it has more features, less issues, and xManager itself recommends it.
 
 - Removed star for bark as its limited, and star for Tortoise TTS as it doesn't sound good, and instead starred [TTS Online](https://fmhy.net/ai#text-to-speech), which sounds better and has a 10k daily character limit.
 
