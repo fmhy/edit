@@ -112,7 +112,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYBase64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://rentry.co/FMHYBase64#win10-eol)**.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://rentry.co/FMHYBase64#genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYBase64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://rentry.co/FMHYBase64#win10-eol)**.
 
 * **[Windows Install / Debloat Guide](https://wispydocs.netlify.app/docs/windows/)**
 * **Software Piracy: [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
