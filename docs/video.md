@@ -438,7 +438,6 @@
 * [720pStream](https://720pstream.nu/)
 * [BINTV](https://bintv.fun/) / [Discord](https://discord.gg/fMU4hpDjPg)
 * [BuffStream](https://app.buffstream.io/)
-* [TopSport](https://topsport.live/), [2](https://sport4all.live/)
 * [LiveMatches](https://livematches.net/) - Live Events
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
