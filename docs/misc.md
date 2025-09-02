@@ -667,6 +667,7 @@
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
 * [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
+* [Amino: Supplement Scanner](https://aminohealth.app/) - AI-powered supplement scanner and tracker for clean, safe choices.
 
 ***
 
