@@ -253,7 +253,8 @@
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
 * ⭐ **[AcclaimedVideoGames](https://www.acclaimedvideogames.com/)** or **[VideoGameCanon](https://www.videogamecanon.com/)** - Game Top 1000 List
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
-* ⭐ **[TasteDive](https://tastedive.com/games)** or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* ⭐ **[SteamDB Ratings](https://steamdb.info/stats/gameratings/)** - Steam Ratings Chart
+* [TasteDive](https://tastedive.com/games) or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Game Recommendation Guides
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games

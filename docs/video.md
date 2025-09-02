@@ -374,7 +374,7 @@
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[RgShows](https://www.rgshows.me/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
-* ⭐ **[DaddyLive TV](https://thedaddy.dad/24-7-channels.php)** - TV / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
+* ⭐ **[DaddyLive TV](https://daddylivestream.com/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), [4](https://dlhd.click/) - TV / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
@@ -416,7 +416,7 @@
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[SportyHunter](https://sportyhunter.com/)**, [2](https://nflhunter.com/), [3](https://nhlstreams.io/v1/), [4](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[Streamed](https://streamed.su/)**, [2](https://strmd.link/) / [Discord](https://discord.gg/streamed)
-* ⭐ **[DaddyLive](https://thedaddy.dad/)** - TV / Sports / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
+* ⭐ **[DaddyLive](https://daddylivestream.com/)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), [4](https://dlhd.click/) - TV / Sports / [Self-Hosted Proxy](https://rentry.co/FMHYBase64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
 * ⭐ **[PPV.TO](https://ppv.to/)** - Live Events / [Mirrors](https://ppv.zone/) / [Discord](https://discord.gg/5AMPdpckjH)
 * ⭐ **[Sport7](https://sport7.pro/)** / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/xcdfVwgEx3)
 * ⭐ **[FSTV](https://fstv.online/)**, [2](https://fstv.space/) / [Mirrors](https://gofstv.live/) / [Discord](https://discord.gg/j9EfEm4AMW)
