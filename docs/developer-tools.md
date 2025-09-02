@@ -354,7 +354,7 @@
 * 🌐 **[LMAerena Price Compare](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
+* [Wyzie Subs](https://sub.wyzie.ru/) or [⁠Libre Subs](https://libre-subs.fifthwit.net/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
@@ -427,6 +427,7 @@
 * [OpenGameArt.org](https://opengameart.org/) - Game Art Community
 * [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
 * [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
+* [S2V](https://s2v.app/) - Source 2 Viewer & Decompiler / [GitHub](https://github.com/ValveResourceFormat/ValveResourceFormat)
 
 ***
 

@@ -302,7 +302,7 @@
 
 * ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
@@ -614,6 +614,7 @@
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only

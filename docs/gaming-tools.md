@@ -456,7 +456,7 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[Switch Hacks Guide](https://switch.hacks.guide/)** or [Switchway](https://switchway.net/)
+* ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)**, **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) or [Switchway](https://switchway.net/) - Homebrew Guides
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
@@ -820,7 +820,7 @@
 
 ## ▷ GTA Tools
 
-* 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
+* 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
 * ⭐ **[FiveM](https://fivem.net/)**, [alt:V](https://altv.mp/) or [RAGE](https://rage.mp/) - Modded GTAV Servers / Requires Legit Copy

@@ -68,6 +68,7 @@
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [r/FREE](https://reddit.com/r/FREE/)
 * [⁠r/freebies](https://www.reddit.com/r/freebies/)
 * [r/eFreebies](https://reddit.com/r/eFreebies)
@@ -548,7 +549,7 @@
 * [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
-* [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
+* [HNRankings](https://hnrankings.info/) or [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
 * [Hacker News RSS](https://hnrss.github.io/) - HN RSS Feeds
 
 ***
@@ -904,6 +905,7 @@
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Educational Trading Ebooks
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
@@ -951,9 +953,9 @@
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
-* [PicClick](https://picclick.com/) - eBay Quick Search
-* [⁠NoBids](https://nobids.net/) - eBay No Bid Search 
+* [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
+* [PicClick](https://picclick.com/) - eBay Quick Search
 * [⁠a view from my seat](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
