@@ -1186,7 +1186,7 @@
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculator
+* [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) or [Tricount](https://tricount.com/) - Group Expense Splitting Calculator
 
 ***
 
