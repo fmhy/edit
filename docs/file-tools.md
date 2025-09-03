@@ -216,7 +216,7 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
-* [ILovePDF](https://www.ilovepdf.com/)
+* ⭐ **[ILovePDF](https://www.ilovepdf.com/)**
 * [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)

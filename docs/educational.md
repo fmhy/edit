@@ -844,6 +844,7 @@
 * [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [DreamingSpanish](https://www.dreamingspanish.com/) - Spanish Learning Videos
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
+* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) -  French Learning Videos 
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 

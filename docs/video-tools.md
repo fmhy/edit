@@ -166,6 +166,7 @@
 * [Kalidoface 3D](https://3d.kalidoface.com/), [VRoid](https://vroid.com/en/studio), [Animaze](https://www.animaze.us/) or [TransTube](https://girkovarpa.itch.io/transtube) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
+* [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
 
 ***
 
@@ -401,7 +402,6 @@
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
 * [Opus](https://www.opus.pro/) - Clip Creator
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
-* [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
 
 ***
 

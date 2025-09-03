@@ -54,6 +54,7 @@
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [Hydra](https://hydralauncher.gg/) - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Telegram](https://t.me/hydralauncher) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [GitHub](https://github.com/hydralauncher/hydra)
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
+* [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
 * [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
 * [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / [GitHub](https://github.com/Phalcode/gamevault-app)
 
@@ -397,7 +398,7 @@
 
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * [Server.pro](https://server.pro/) - Game Server Hosting
-* [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) or [Pelican](https://pelican.dev/) / [GitHub](https://github.com/pelican-dev/panel) - Game Server Management Panel
+* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican-dev/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
