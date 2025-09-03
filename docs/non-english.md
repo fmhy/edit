@@ -1780,24 +1780,21 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/rophimzone), [Telegram](https://t.me/congdongrophim) (Alt) / [Discord](https://discord.gg/rophim)
-* [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 720p
-* [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
+* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/rophimzone), [Telegram](https://t.me/congdongrophim) (Alt) / [Discord](https://discord.gg/rophim)
+* [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime
-* [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime
+* [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [OPhim](https://ophim.movie/) - Movies / TV / Anime
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
-* [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 720p
-* [6SVN](https://xem.6svn.com/) - Live TV
+* [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 1080p
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
-* ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
+* [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
 * [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
