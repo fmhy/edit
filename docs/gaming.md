@@ -527,6 +527,7 @@
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Tabletop Games
 * [PlayOK](https://www.playok.com/) - Multiplayer Tabletop Games
 * [Screentop](https://screentop.gg/) - Online Tabletop Games / [Discord](https://discord.gg/wva8ebh)
+* [FreeBoardGames](https://www.freeboardgames.org/) - Online Board Games / [Discord](https://discord.gg/AaE6n3n) / [GitHub](https://github.com/freeboardgames/FreeBoardGames.org)
 * [FunNode](https://www.funnode.com/) - Online Board Games
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Sign-Up Required

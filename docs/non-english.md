@@ -1443,7 +1443,6 @@
 
 ## ▷ Streaming
 
-* [Kukaj](https://vvv.kukaj.fi/) - Movies / TV
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
@@ -1796,11 +1795,11 @@
 
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
-* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
-* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon
-* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
-* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Dub
-* [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
+* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
+* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
+* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 720p
+* [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Music / Dub / 1080p
+* [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
 
 ## ▷ Reading / Đọc
 

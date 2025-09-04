@@ -383,7 +383,7 @@
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check Exact Upload Time/Date of Videos
 * [Annotations Data Archive](https://archive.org/details/youtubeannotations) - Restore Video Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
-* [YT Cutter](https://ytcutter.link/) or [yt_clipper](https://github.com/exwm/yt_clipper) - Crop YouTube Videos / Create Clips
+* [yt_clipper](https://github.com/exwm/yt_clipper) - Crop YouTube Videos / Create Clips
 * [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
 * [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
 * [Video Speed Controller](https://github.com/igrigorik/videospeed) - Control Speed of YouTube Videos

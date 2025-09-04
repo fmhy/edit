@@ -525,7 +525,7 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
-* ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech / Hacking News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+* ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 * [TechURLs](https://techurls.com/) - Tech News
 * [Techmeme](https://www.techmeme.com/) - Tech News
