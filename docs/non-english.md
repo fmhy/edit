@@ -1783,13 +1783,14 @@
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/rophimzone), [Telegram](https://t.me/congdongrophim) (Alt) / [Discord](https://discord.gg/rophim)
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
-* [kkphim](https://kkphim.com/) - Movies / TV / Anime
-* [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
-* [OPhim](https://ophim.movie/) - Movies / TV / Anime
+* [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub
+* [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [OPhim](https://ophim.movie/) - Movies / TV / Anime / Sub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
-* [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p
+* [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 1080p
+* [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 

@@ -273,6 +273,7 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
+* [Seanime](https://seanime.rahim.app/) - Anime Server
 * [Plex](https://www.plex.tv/) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
@@ -285,7 +286,6 @@
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
-* [Seanime](https://seanime.rahim.app/) - Anime Server
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App

@@ -822,6 +822,7 @@
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+* ⭐ **[Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)** or [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - Interview Handbooks / [GitHub](https://github.com/yangshun/)
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
@@ -838,7 +839,6 @@
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - Leaked Google / Facebook / Amazon Interview Questions / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
-* [Tech Interview Handbook](https://www.techinterviewhandbook.org/) or [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - Interview Handbooks / [GitHub](https://github.com/yangshun/)
 * [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
