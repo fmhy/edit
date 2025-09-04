@@ -17,7 +17,7 @@ The "Chat Control" proposal would mandate scanning of all private digital commun
 
 Every photo, every message, every file you send will be automatically scanned—without your consent or suspicion. This is not about catching criminals. It is ***mass surveillance*** imposed on all 450 million citizens of the European Union. 
 
-EU politicians *exempt themselves* from this surveillance under "professional secrecy" rules. They get privacy. You and your family do not. If you're in the EU, please consider contacting Members of the European Parliament (MEPs) using the info provided the site below: 
+EU politicians *exempt themselves* from this surveillance under "professional secrecy" rules. They get privacy. You and your family do not. If you're in the EU, please consider contacting Members of the European Parliament (MEPs) using the info provided on the site below: 
 
 # https://fightchatcontrol.eu/
 
