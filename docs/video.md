@@ -455,6 +455,7 @@
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
 * [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling
 * [F1 Dash](https://f1-dash.com/) - F1 Live Stats / [GitHub](https://github.com/slowlydev/f1-dash)
+* [Shrimpstreams](https://shrimpstreams.live/) - Live WWE, UFC & boxing events
 
 ***
 
