@@ -23,4 +23,4 @@ EU politicians *exempt themselves* from this surveillance under "professional se
 
 There is also a change.org petition [here](https://stopchatcontrol.eu/) if you'd like to sign it.
 
-Reddit Discussion: https://redd.it/1n840p9
+Discussion: https://redd.it/1n840p9
