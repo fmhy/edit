@@ -670,7 +670,7 @@
 * [Snokido](https://www.snokido.com/) - Browser Games
 * [Game-Game](https://game-game.com/) - Browser Games
 * [ArcadeSpot](https://arcadespot.com/) - Browser Games
-* [Gaming Wonderland](https://www.gamingwonderland.com/) - Browser Games
+* [Haha Games](https://www.hahagames.com/) - Browser Games
 * [Alfy](https://www.alfy.com/) - Browser Games
 * [Andkon](https://andkon.com/arcade/) - Browser Games
 * [FreeGames](https://freegames.org/) - Browser Games
