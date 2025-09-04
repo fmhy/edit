@@ -17,7 +17,7 @@
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [The Library](https://discord.gg/mSyFJz9) - Books / Discord
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/ebookhunterorg)
-* [WeLib](https://welib.org/) - Anna's Archive Mirror / Unofficial / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#welib-note)
+* [WeLib](https://welib.org/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#welib-note)
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [eBookBB](https://ebookbb.in/) - Books / Download
@@ -177,7 +177,6 @@
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
-* [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
@@ -211,8 +210,6 @@
 
 ## ▷ Special Interest
 
-* ↪️ **[Poetry Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_poetry_collections)**
-* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_collections)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
@@ -305,7 +302,7 @@
 
 * ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
@@ -617,6 +614,7 @@
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
@@ -679,6 +677,27 @@
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](https://vangoghletters.org/vg/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
+
+***
+
+## ▷ Quotes / Poetry
+
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
+* [BrainyQuote](https://www.brainyquote.com/)
+* [AZQuotes](https://www.azquotes.com/)
+* [QuoteGarden](https://www.quotegarden.com/)
+* [QuoteMaster](https://www.quotemaster.org/)
+* [TheOtherPages](https://theotherpages.org/quote.html)
+* [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
+* [Poetry In Translation](https://www.poetryintranslation.com/)
+* [PoemHunter](https://www.poemhunter.com/)
+* [DiscoverPoetry](https://discoverpoetry.com/)
+* [RUVerses](https://ruverses.com/)
+* [Poetry.com](https://www.poetry.com/)
+* [Poets.org](https://poets.org/)
+* [PoetryArchive](https://poetryarchive.org/)
+* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
 
 ***
 
@@ -746,6 +765,7 @@
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
+* [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers

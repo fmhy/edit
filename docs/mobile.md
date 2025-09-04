@@ -11,7 +11,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/) - Free Books / Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#captcha-4pda) / [Telegram](https://t.me/real4pda)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
-* ⭐ **[PlatinMods](https://platinmods.com/)**
+* ⭐ **[PlatinMods](https://platinmods.com/)** / Sign-Up Required
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
 * ⭐ **[AN1](https://an1.com/)** / [Telegram](https://t.me/android1com)
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#liteapk--modyolo-note) / [Telegram](https://t.me/liteapks)
@@ -348,8 +348,6 @@
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [⁠Magisk Alpha](https://t.me/magiskalpha), [KernelSU](https://kernelsu.org/), [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [APatch](https://github.com/bmax121/APatch), [MTKClient](https://github.com/bkerler/mtkclient) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
-* [Rooting Guides](https://awesome-android-root.org/rooting-guides/) - Android Root Guides
-* [KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - Android Emulator Root Tool
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
@@ -434,7 +432,7 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)**, [VirusTotal](https://docs.virustotal.com/docs/mobile-apps) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
-* ⭐ **[Rethink App](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
+* ⭐ **[Rethink DNS](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** or [Matsuri](https://matsuridayo.github.io/) - Proxy Clients
@@ -694,11 +692,11 @@
 * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linux)**
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
+* [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Android Emulator
 * [NoxPlayer](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
 * [GameLoop](https://www.gameloop.com/) - Android Emulator
-* [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
 * [MEmu](https://www.memuplay.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
 
@@ -768,7 +766,7 @@
 
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/) / [Discord](https://discord.gg/mihon)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader / [Nightly](https://github.com/KotatsuApp/Kotatsu-nightly) / [Telegram](https://t.me/kotatsuapp) / [Discord](https://discord.gg/NNJ5RgVBC5)
-* ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
+* ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Source](https://git.rebelonion.dev/rebelonion/Dantotsu/) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader
 * [LNReader](https://github.com/LNReader/lnreader) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
@@ -804,7 +802,7 @@
 * [Airbuds](https://play.google.com/store/apps/details?id=com.capp.poplive) - Friends Listening Activity
 * [Super Sound](https://play.google.com/store/apps/details?id=com.tianxingjian.supersound) - Audio Editor
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
-* [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
+* [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers / Spectrograms
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
 
 ***
@@ -815,7 +813,7 @@
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
 * ⭐ **[Namida](https://github.com/namidaco/namida)**
 * ⭐ **[VLC for Android](https://www.videolan.org/vlc/download-android.html)**
-* ⭐ **[Foobar2000](https://www.foobar2000.org/apk)**
+* ⭐ **[Foobar2000](https://www.foobar2000.org/android)**
 * ⭐ **[tempo](https://github.com/CappielloAntonio/tempo)**, [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic), [⁠SubstreamerApp](https://substreamerapp.com/) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_servers)
 * [AIMP](https://www.aimp.ru/?do=download&os=android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
@@ -948,7 +946,7 @@
 * ⭐ **[DailyAL](https://github.com/JICA98/DailyAL)**, [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Anikku](https://github.com/komikku-app/anikku) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.gg/F32UjdJZrR)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
+* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Source](https://git.rebelonion.dev/rebelonion/Dantotsu/) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [AniLab](https://anilab.to/) - Use [DNS Adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [Shiru](https://github.com/RockinChaos/Shiru) or [Migu](https://miguapp.pages.dev/) - Stream Anime Torrents
@@ -1175,7 +1173,7 @@
 * [fnd](https://fnd.io/) - App Store Search
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
-* [Scholars Lounge](https://t.me/thescholarslounge) - Tweaked Apps
+* [Scholars Lounge](https://t.me/thescholarslounge) - Tweaked Apps / [Discord](https://discord.gg/3FMj4T7j)
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
 * [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) - Modded Social Media Apps
 * [IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine

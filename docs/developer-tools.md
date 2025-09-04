@@ -67,7 +67,7 @@
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [devSwag](https://devswag.io/) - Developer Giveaways
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
-* [Linear](https://linear.app/), [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
+* [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
 * [UMLet](https://www.umlet.com/), [PlantUML](https://www.plantuml.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
@@ -354,7 +354,7 @@
 * 🌐 **[LMAerena Price Compare](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
+* [Wyzie Subs](https://sub.wyzie.ru/) or [⁠Libre Subs](https://libre-subs.fifthwit.net/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
@@ -383,7 +383,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
+* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
@@ -427,13 +427,14 @@
 * [OpenGameArt.org](https://opengameart.org/) - Game Art Community
 * [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
 * [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
+* [S2V](https://s2v.app/) - Source 2 Viewer & Decompiler / [GitHub](https://github.com/ValveResourceFormat/ValveResourceFormat)
 
 ***
 
 ## ▷ Asset Creation
 
-* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
-* ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
+* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_3d_models)**
+* ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/)**
 * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
 * ↪️ **[Animation Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools/#wiki_.25B7_animation_tools)**
 * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
@@ -862,8 +863,8 @@
 ## ▷ Color Schemes
 
 * 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources
-* ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_palette_generators)**
-* ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
+* ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_palette_generators)**
+* ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_color_pickers)**
 * ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia
 * ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
 * ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
@@ -888,7 +889,7 @@
 
 * 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
-* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
+* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
 * ⭐ **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates

@@ -39,9 +39,10 @@
 ## ▷ System Tweaks
 
 * ⭐ **[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows)**, **[Windhawk](https://windhawk.net/)**, [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)**
+* ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Unlock](https://rentry.co/FMHYBase64#startxback) / [Install Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#startallback)
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbars
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweak Start Menu / [Start Skin](https://github.com/bonzibudd/Fluent-Metro)
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweak Volume Mixer
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweaked Start Menu / [Start Skin](https://github.com/bonzibudd/Fluent-Metro)
+* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
@@ -49,9 +50,8 @@
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
-* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
-* [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
+* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
+* [Shell](https://nilesoft.org/) / [GitHub](https://github.com/moudey/shell) or [RCWM](https://github.com/GChuf/RCWM) - Tweaked / Custom Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
@@ -112,7 +112,6 @@
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
 * [PowerShell Scripts](https://github.com/fleschutz/PowerShell), [PowershellGallery](https://www.powershellgallery.com/) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Shell Scripts
-* [Starship](https://starship.rs/) - Cross-Shell Prompt
 
 ***
 
@@ -143,7 +142,7 @@
 
 ## ▷ Clipboard Managers
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager / [GitHub](https://github.com/sabrogden/Ditto)
+* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager / [GitHub](https://sabrogden.github.io/Ditto/)
 * [PasteBar](https://www.pastebar.app/) - Clipboard Manager / [GitHub](https://github.com/PasteBar/PasteBarApp)
 * [CrossPaste](https://crosspaste.com/) - Clipboard Manager / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) - Clipboard Manager
@@ -167,7 +166,7 @@
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - OS Emulators / VMs
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html)** or **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
-* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [MultiPass](https://canonical.com/multipass) / [GitHub](https://github.com/canonical/multipass) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
+* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), **[MultiPass](https://canonical.com/multipass)** / [GitHub](https://github.com/canonical/multipass) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
 * [QEMU](https://www.qemu.org/) / [GitLab](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
@@ -335,7 +334,7 @@
 
 # ► Windows ISOs
 
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://gravesoft.dev/clean_install_windows)
+* ⭐ **[Genuine Installation Media](https://rentry.co/FMHYBase64#genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://gravesoft.dev/clean_install_windows)
 * ⭐ **[Windows Install / Debloat Guide](https://wispydocs.netlify.app/docs/windows/)**
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
@@ -368,7 +367,7 @@
 
 ## ▷ Windows Updates
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
+* ⭐ **[Windows 10 After EOL](https://rentry.co/FMHYBase64#win10-eol)** - Receive Windows Updates After Win10's End-Of-Life
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
@@ -404,7 +403,6 @@
 * [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [StartAllBack](https://www.startallback.com/) - Start Menu Customization / [Unlock](https://rentry.co/FMHYBase64#startxback)
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization

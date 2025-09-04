@@ -26,7 +26,6 @@
 * [Folkstreams](https://www.folkstreams.net/)
 * [Films For Action](https://www.filmsforaction.org/)
 * [r/Documentaries](https://reddit.com/r/Documentaries)
-* [Open-Video](https://open-video.org/)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
 
@@ -97,6 +96,7 @@
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
+* ↪️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
 * ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)** or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
@@ -177,7 +177,7 @@
 * [Mission US](https://www.mission-us.org/) - American History Learning Games
 * [OnThisDay](https://www.onthisday.com/) or [Curiosity Of The Day](https://www.curiosityoftheday.com/) - What Happened on Specific Days
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
-* [Sciphilos](https://sciphilos.info/) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery Timelines
+* [⁠Historical Tech Tree](https://www.historicaltechtree.com/) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
@@ -360,32 +360,6 @@
 
 ***
 
-## ▷ Quote Collections
-
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* [BrainyQuote](https://www.brainyquote.com/)
-* [AZQuotes](https://www.azquotes.com/)
-* [QuoteGarden](https://www.quotegarden.com/)
-* [QuoteMaster](https://www.quotemaster.org/)
-* [TheOtherPages](https://theotherpages.org/quote.html)
-* [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
-
-***
-
-## ▷ Poetry Collections
-
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
-* [Poetry In Translation](https://www.poetryintranslation.com/)
-* [PoemHunter](https://www.poemhunter.com/)
-* [DiscoverPoetry](https://discoverpoetry.com/)
-* [RUVerses](https://ruverses.com/)
-* [Poetry.com](https://www.poetry.com/)
-* [Poets.org](https://poets.org/)
-* [PoetryArchive](https://poetryarchive.org/)
-* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
-
-***
-
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
@@ -512,7 +486,7 @@
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
-* ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_latex_tools)**
+* ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - Math Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
@@ -563,10 +537,10 @@
 * 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 * 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
-* ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_cad_engineering)**
+* ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
 * ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)** or [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
-* ⭐ **[KiCad](https://kicad.github.io/)** or [Horizon EDA](https://horizon-eda.org/) - Schematics Editor / PCB Creator / SPICE Integration
+* ⭐ **[KiCad](https://www.kicad.org/)** / [Libraries](https://kicad.github.io/) or [Horizon EDA](https://horizon-eda.org/) - Schematics Editor / PCB Creator / SPICE Integration
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Engineering Software
@@ -870,6 +844,7 @@
 * [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [DreamingSpanish](https://www.dreamingspanish.com/) - Spanish Learning Videos
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
+* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) -  French Learning Videos 
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 
@@ -906,7 +881,7 @@
 * ⭐ **[SpreadTheSign](https://spreadthesign.com/)** - Sign Langauge Dictionary
 * [ASL Dictionary](https://www.signasl.org/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Langauge Dictionaries
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Sign Language
-* [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/intro/) - ASL / LSF / Click Dictionary
+* [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/) - ASL / LSF / Click Dictionary
 * [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Langauge Dictionaries
 * [Signbank](https://auslan.org.au/) - Australian Sign Langauge Dictionary
 * [NZSL](https://nzsl.nz/) - New Zealand Sign Langauge Dictionary
@@ -1370,7 +1345,7 @@
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [Internet-In-A-Box](https://internet-in-a-box.org/) - Create Free Offline Learning Hotspots / [GitHub](https://github.com/iiab/iiab)
-* [SlideShareDownloader](https://www.slidesdownloader.com/), [SlidesDownloaders](https://slidesdownloaders.com/) or [SlideShareSaver](https://slidesharesaver.com/) - Download Slideshare Slides
+* [SlideShareDownloader](https://www.slidesdownloader.com/), [DownloaderSlides](https://downloderslides.com/), [SlidesDownloaders](https://slidesdownloaders.com/) or [SlideShareSaver](https://slidesharesaver.com/) - Download Slideshare Slides
 
 ***
 
@@ -1389,7 +1364,7 @@
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
-* [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
+* [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://inciteful.xyz/) - Find Connected Literature via Citations
 * [PLText](https://pltext.com/), [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
@@ -1409,7 +1384,8 @@
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
+* [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
+* [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/), [⁠Yeolpumta](https://www.yeolpumta.com/en) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
@@ -1478,7 +1454,6 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
-* [IntegralGuide](https://integralguide.com/) - Well-Being Encyclopedia
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
 * [Encyclopedia](https://www.encyclopedia.com/)

@@ -106,6 +106,7 @@
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Sign-Up Required
 * [PhotoJoiner](https://www.photojoiner.com/) - Collage Maker
+* [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc 
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
@@ -185,12 +186,11 @@
 * [Piskel](https://www.piskelapp.com/) - Pixel Art Editor / Web
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
-* [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art / Web
 * [PixelartVillage](https://pixelartvillage.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converter / Web
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
-* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art without Quality Loss / Web
+* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers
 
 ***
 
@@ -687,6 +687,7 @@
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
 * [OCR.SPACE](https://ocr.space/) - Online OCR
+* [OCRTool](https://ocrtool.net/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
 * [Ocrify](https://ocrify.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
@@ -714,7 +715,6 @@
 * [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
 * [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
 * [narrative](https://narrative.so/)
@@ -797,7 +797,7 @@
 
 ## ▷ Screenshot Tools
 
-* ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
+* ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot)
 * ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [yaass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
 * [Greenshot](https://getgreenshot.org/) / [GitHub](https://github.com/greenshot/greenshot)

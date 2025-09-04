@@ -21,38 +21,38 @@ in seeing all minor changes you can follow our
 ### Wiki Updates
 
 - Split Android Tools into subsections:
-  [Optimization](https://fmhy.net/android-iosguide#optimization),
-  [Battery](https://fmhy.net/android-iosguide#battery-tools),
-  [Keyboard](https://fmhy.net/android-iosguide#keyboard-text),
-  [Screen](https://fmhy.net/android-iosguide#screen-tools),
-  [Files](https://fmhy.net/android-iosguide#android-file-tools),
-  [Root / Flash](https://fmhy.net/android-iosguide#root-flash),
-  [Productivity](https://fmhy.net/android-iosguide#productivity-calendars),
-  [Maps](https://fmhy.net/android-iosguide#maps-location),
-  [Notifications](https://fmhy.net/android-iosguide#notifications-widgets) and
-  [Social Media](https://fmhy.net/android-iosguide#social-media-apps).
+  [Optimization](https://fmhy.net/mobile#optimization),
+  [Battery](https://fmhy.net/mobile#battery-tools),
+  [Keyboard](https://fmhy.net/mobile#keyboard-text),
+  [Screen](https://fmhy.net/mobile#screen-tools),
+  [Files](https://fmhy.net/mobile#android-file-tools),
+  [Root / Flash](https://fmhy.net/mobile#root-flash),
+  [Productivity](https://fmhy.net/mobile#productivity-calendars),
+  [Maps](https://fmhy.net/mobile#maps-location),
+  [Notifications](https://fmhy.net/mobile#notifications-widgets) and
+  [Social Media](https://fmhy.net/mobile#social-media-apps).
 
-- Added [Abandonware](https://fmhy.net/gamingpiracyguide#abandonware),
-  [MOBA](https://fmhy.net/gamingpiracyguide#moba-tools),
-  [Gacha](https://fmhy.net/gamingpiracyguide#gacha-tools),
-  [Counter-Strike](https://fmhy.net/gamingpiracyguide#counter-strike-tools),
-  [Doom](https://fmhy.net/gamingpiracyguide#doom-tools) and
-  [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools)
+- Added [Abandonware](https://fmhy.net/gaming#abandonware),
+  [MOBA](https://fmhy.net/gaming#moba-tools),
+  [Gacha](https://fmhy.net/gaming#gacha-tools),
+  [Counter-Strike](https://fmhy.net/gaming#counter-strike-tools),
+  [Doom](https://fmhy.net/gaming#doom-tools) and
+  [Controller Tool](https://fmhy.net/gaming#controller-tools)
   sections to Gaming.
 
-- Added [Toys / Figures](https://fmhy.net/miscguide#toys-figures) section to
+- Added [Toys / Figures](https://fmhy.net/misc#toys-figures) section to
   Shopping.
 
-- Added [Manga](https://fmhy.net/android-iosguide#android-manga) section to
+- Added [Manga](https://fmhy.net/mobile#android-manga) section to
   Android Reading.
 
 - Added [MPV Shaders](https://fmhy.net/storage#mpv-shaders) section to Video
   Tools.
 
-- Added [Email](https://fmhy.net/adblockvpnguide#email-privacy) section to
+- Added [Email](https://fmhy.net/privacy#email-privacy) section to
   Privacy.
 
-- Added [Regex](https://fmhy.pages.dev/devtools#regex-tools) section to Dev
+- Added [Regex](https://fmhy.pages.dev/developer-tools#regex-tools) section to Dev
   Tools.
 
 - Our [FMHY Social](https://social.fmhy.net/@fmhy) (fediverse instance /
@@ -65,7 +65,7 @@ in seeing all minor changes you can follow our
 
 ### Stars Added ⭐
 
-- Starred [Streamed](https://fmhy.net/videopiracyguide#live-sports) in Live
+- Starred [Streamed](https://fmhy.net/video#live-sports) in Live
   Sports. Fast streams, no ads.
 
 - Starred [Poke](https://fmhy.net/social-media-tools#youtube-frontends) in
@@ -74,7 +74,7 @@ in seeing all minor changes you can follow our
 - Starred [Motrix](https://fmhy.net/file-tools#download-managers) in Download
   Managers. Some people prefer this over Jdownloader / IDM.
 
-- Starred [Openlib](https://fmhy.net/android-iosguide#android-reading) in
+- Starred [Openlib](https://fmhy.net/mobile#android-reading) in
   Android Reading. Anna’s Archive app.
 
 - Starred [Stacher](https://fmhy.net/social-media-tools#youtube-downloaders) in
@@ -86,7 +86,7 @@ in seeing all minor changes you can follow our
 - Starred [Claude](https://fmhy.net/ai#online-chatbots) in Online Chatbots.
   Works better than things like gemini.
 
-- Starred [Soft98](https://fmhy.net/downloadpiracyguide#software-sites) in
+- Starred [Soft98](https://fmhy.net/downloading#software-sites) in
   Software Sites. Big library, single click DDL.
 
 - Starred [JellyPlayer](https://fmhy.net/video-tools#jellyfin-tools) in Jellyfin
@@ -95,14 +95,14 @@ in seeing all minor changes you can follow our
 - Starred [UniGetUI](https://fmhy.net/system-tools#package-managers) in Package
   Managers. Nice user-interface for Winget.
 
-- Starred [Zipline](https://fmhy.net/img-tools#screenshot-tools) in Screenshot
+- Starred [Zipline](https://fmhy.net/image-tools#screenshot-tools) in Screenshot
   Tools. Self-hosted, feature-rich ShareX server.
 
-- Starred [WSABuilds](https://fmhy.net/android-iosguide#android-emulators) in
+- Starred [WSABuilds](https://fmhy.net/mobile#android-emulators) in
   Android Emulators. Pre-built WSA binaries that will continue to be
   [updated](https://ibb.co/R4hssDc).
 
-- Starred [SmartImage](https://fmhy.net/img-tools#reverse-image-search) in
+- Starred [SmartImage](https://fmhy.net/image-tools#reverse-image-search) in
   Reverse Image Search. Multi-site reverse image search tool.
 
 ---

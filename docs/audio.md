@@ -165,6 +165,7 @@
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
+* [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [AccuRadio](https://www.accuradio.com/) - Online Radio
 * [Q-3](https://www.q-3.eu/) - Online Radio
 * [⁠DubLab](https://www.dublab.com/) - Online Radio
@@ -667,7 +668,7 @@
 * 🌐 **[Awesome Last.fm](https://github.com/jnguyen1098/awesome-lastfm)** or [Last.fm Tool List](https://redd.it/1h8ec76) - Last.fm Tool Indexes
 * ⭐ **[⁠bleh](https://katelyn.moe/bleh/)** - Last.fm Customization Script / [GitHub](https://github.com/katelyynn/bleh)
 * ⭐ **[OpenScrobbler](https://openscrobbler.com/)** - Manually Scrobble Anything / [Discord](https://discord.gg/SEDp6Zy) / [GitHub](https://github.com/elamperti/openwebscrobbler)
-* ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
+* ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Multi-Platform Scrobbler
 * ⭐ **[Last.fm Stats](https://lastfmstats.com/)** - In-Depth Last.fm Stats / [GitHub](https://github.com/felhag/lastfm-stats-web)
 * [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble Any Site
 * [Edit Scrobbles](https://greasyfork.org/en/scripts/485278) - Manually Edit Scrobbles
@@ -739,6 +740,7 @@
 * ⭐ **[koel](https://koel.dev/)**
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://rentry.co/FMHYBase64#audio-relay)
+* [Lyrion](https://lyrion.org/) / [Extensions](https://lyrion.org/extensions/applications/)
 * [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
 * [Mopidy](https://mopidy.com/)
@@ -810,8 +812,8 @@
 
 * 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Music / Notation Tools Index
 * 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
-* ↪️ **[Music Notation Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_notation_editors)**
 * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+* ⭐ **[MuseScore](https://musescore.org/)**, [MC Musiceditor](https://www.mcmusiceditor.com/) or [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Music Scoring Software
 * [Sheethost](https://sheet.host/) - Publish Sheet Music
 * [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
 * [Chordly](https://chordly.co.uk/) - Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)
@@ -836,6 +838,7 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [Visual Analyser](https://www.sillanumsoft.org/)
+* [⁠WhatsMyBitrate](https://whatsmybitrate.com/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
 * [Cambia](https://logs.musichoarders.xyz/) - CD Rip Log Checker
@@ -869,7 +872,7 @@
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Audacity](https://www.audacityteam.org/) or [ocenaudio](https://www.ocenaudio.com/) - Audio Editors
 * ⭐ **[FL Studio](https://rentry.co/FMHYBase64#fl-studio)**, **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#reaper-note)**, [Zrythm](https://www.zrythm.org/en/index.html), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
-* ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
+* ⭐ **[OpenMPT](https://openmpt.org/)** / [Source](https://source.openmpt.org/) / [GitHub](https://github.com/OpenMPT/openmpt/), [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
 * [Team V.R releases](https://rentry.co/FMHYBase64#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
 * [Ossia](https://ossia.io/) - Intermedia Sequencer / [GitHub](https://github.com/ossia/score)
 * [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
@@ -935,12 +938,11 @@
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Signup
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
-* [IEM Plug-in Suite](https://plugins.iem.at/), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
+* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://www.modularsamples.com/Plugins.html) / [Github](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins 
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
-* [ModularSamples](https://www.modularsamples.com/Plugins.html) - Plugins / [Github](https://github.com/publicsamples)
 * [r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 
 ***

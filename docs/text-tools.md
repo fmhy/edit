@@ -6,7 +6,7 @@
 
 # ► Text Tools
 
-* ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_to_text_.2F_ocr)**
+* ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
@@ -30,7 +30,7 @@
 ## ▷ Pastebins
 
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[GitHub Gists](https://gist.github.com/)** - Multi-Syntax / Sign-Up Required
+* ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Sign-Up Required
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)**, [2](https://notebin.de/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
@@ -44,6 +44,7 @@
 * [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
+* [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
@@ -366,7 +367,7 @@
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
-* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
+* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
@@ -416,7 +417,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
-* [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [ascii-exploration](https://ascii-exploration.vercel.app/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [⁠shabzefilters](https://shabzefilters.netlify.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [ascii-exploration](https://ascii-exploration.vercel.app/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
@@ -498,11 +499,11 @@
 
 * ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [Adobe Fonts](https://fonts.adobe.com/fonts/vs/upload), [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/) - Font Identification Tools
-* [Fonts Ninja](https://fonts.ninja/tools) or [WhatFont](https://whatfonttool.com/) - Font Identification Extensions
-* [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Linux Font Manager](https://github.com/FontManager/font-manager) - Font Managers
+* [Adobe Fonts](https://fonts.adobe.com/fonts/vs/upload), [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/) - Find Similar Fonts
+* [Fonts Ninja](https://fonts.ninja/tools) or [WhatFont](https://whatfonttool.com/) - Find Similar Fonts / Extensions
+* [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Typography Tools
 * [DS-Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker

@@ -25,16 +25,16 @@ in seeing all minor changes you can follow our
   section.
 
 - Added Optimization, Tabletop, and Git Gud subsections in
-  [Gaming](/gamingpiracyguide/#gaming-tools).
+  [Gaming](/gaming/#gaming-tools).
 
-- Split [Language Learning](/edupiracyguide/#language-learning) into
+- Split [Language Learning](/educational/#language-learning) into
   subsections.
 
-- Split [Shopping](/miscguide/#shopping) into subsections.
+- Split [Shopping](/misc/#shopping) into subsections.
 
-- Split the learning portion of [Dev Tools](/devtools/) into subsections.
+- Split the learning portion of [Dev Tools](/developer-tools/) into subsections.
 
-- Added Art Education section to [Image Tools](/img-tools/#art-education).
+- Added Art Education section to [Image Tools](/image-tools/#art-education).
 
 - Added NoFap section to NSFW to save souls.
 
@@ -47,25 +47,25 @@ in seeing all minor changes you can follow our
 - Starred [ChatPDF](/ai/#ai-chatbots) in AI chatbots. AI that turns any book
   into a chatbot.
 
-- Starred [Foogle](/videopiracyguide/#drives--directories) in Video Download.
+- Starred [Foogle](/video/#drives--directories) in Video Download.
   Fast, single click video downloads.
 
-- Starred [JustChill](/videopiracyguide/#dedicated-hosts) in Streaming Sites.
+- Starred [JustChill](/video/#dedicated-hosts) in Streaming Sites.
   Nice UI, fast 1080p.
 
-- Starred [movie-web](/videopiracyguide/#multi-hosts) Streaming Sites. Nice UI,
+- Starred [movie-web](/video/#multi-hosts) Streaming Sites. Nice UI,
   fast 1080p.
 
-- Starred [Primewire](/videopiracyguide/#multi-hosts) in Streaming Sites.
+- Starred [Primewire](/video/#multi-hosts) in Streaming Sites.
   Primewire has started adding links to pirated content again.
 
 - Starred [Wotaku](https://wotaku.pages.dev/) in Indexes. Awesome Japanese
   piracy index.
 
-- Starred [RLSLOAD](/downloadpiracyguide/#software-sites) in software sites.
+- Starred [RLSLOAD](/downloading/#software-sites) in software sites.
   Software site with single click downloads.
 
-- Starred [Flameshot](/img-tools/#screenshot-tools) in Screenshot Tools. Some
+- Starred [Flameshot](/image-tools/#screenshot-tools) in Screenshot Tools. Some
   people like this more than ShareX.
 
 ---

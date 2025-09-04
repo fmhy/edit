@@ -19,7 +19,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [X](https://x.com/SponsorBlock) / [Discord](https://discord.gg/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
-* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) or [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) - Popup Blockers / [Script](https://github.com/AdguardTeam/PopupBlocker)
+* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Script](https://github.com/AdguardTeam/PopupBlocker)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Skip Sponsored Bilibili Ads
 
@@ -89,6 +89,7 @@
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** / [X](https://x.com/malwarebytes) or [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
+* ⭐ **[Triage](https://tria.ge/)** or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Detects if Current Site is Trusted / Untrusted
 * [FMHY LinkSafe Guard](https://greasyfork.org/en/scripts/528660-fmhy-safelink-guard) - Shows if Site is Trusted / Untrusted on Web Results
@@ -96,7 +97,6 @@
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://rentry.co/sandboxie-guide) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
-* [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * [⁠SquareX](https://public.sqrx.com/web) - Browser Sandbox
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
@@ -219,7 +219,6 @@
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
 * [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools) / [GitHub](https://github.com/Chocobozzz/PeerTube)
-* [Redact](https://redact.dev/) - Delete X.com / Reddit Data / [Discord](https://discord.com/invite/PbyTFBEhtV)
 * [tweetXer](https://github.com/lucahammer/tweetXer) - Delete X.com Posts
 * [delete-likes-from-x-com.md](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete X.com Likes / Favorites
 * [Power Delete Suite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
@@ -271,7 +270,7 @@
 
 ## ▷ Encrypted Messengers
 
-* 🌐 **[Chat Protocols & Services](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [Eyelenburg Comparisons](https://eylenburg.github.io/im_comparison.htm), [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
+* 🌐 **[Eyelenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** - All Platforms / Phone # Required / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android
 * ⭐ **[Briar](https://briarproject.org/)** / Android / [GitLab](https://code.briarproject.org/briar/briar)
@@ -310,7 +309,7 @@
 
 * ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches / [GitHub](https://github.com/HaveIBeenPwned)
 * ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - Password Breach Check
-* [Mozilla Monitor](https://monitor.mozilla.org/) - Data Breach Check / [GitHub](https://github.com/mozilla/blurts-server)
+* [Mozilla Monitor](https://monitor.mozilla.org/) - Data Breach Check / Sign-up Required / [GitHub](https://github.com/mozilla/blurts-server)
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
 * [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
 * [psbdmp](https://psbdmp.ws/) - Password Breach Check
@@ -344,11 +343,8 @@
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances / Metasearch
-* [LibreY](https://github.com/Ahwxorg/librey) - Metasearch
 * [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
-* [Qwant](https://www.qwant.com/) - Bing / Independatant / [Discord](https://discord.com/invite/vjhCHnFMkw)
-* [Swisscows](https://swisscows.com/) - Bing Based
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independant / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted / Metasearch / [GitHub](https://github.com/searxng/searxng)
@@ -381,7 +377,7 @@
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
 * ⭐ **[Tailscale](https://tailscale.com/)**, [⁠NetBird](https://netbird.io/) or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [⁠Nebula](https://github.com/slackhq/nebula) or [⁠Headscale](https://github.com/juanfont/headscale) - Self-Hosted Secure Network VPN
-* [WGDashboard](https://wgdashboard.dev/) - WireGuard and Amnezia Manager / [Subreddit](https://www.reddit.com/r/WGDashboard/) /[Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
+* [WGDashboard](https://wgdashboard.dev/) - WireGuard and Amnezia Manager / [Subreddit](https://www.reddit.com/r/WGDashboard/) / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
 * [⁠WireSock](https://wiresock.net/) or [⁠Tunnl](https://tunnl.to/) - WireGuard Split Tunneling Clients
 * [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - VPN Tunnel / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
 * [OpenVPN](https://openvpn.net/) - VPN Tunnel

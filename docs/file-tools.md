@@ -68,7 +68,7 @@
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
-* [WinRAR](https://www.win-rar.com/), [2](https://rarlab.com/) - File Archiver / [Hide Popups](https://rentry.co/FMHYBase64#winrar-licenses) / [Update (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#winrar)
+* [WinRAR](https://www.win-rar.com/), [2](https://www.rarlab.com) - File Archiver / [Hide Popups](https://rentry.co/FMHYBase64#winrar-licenses) / [Update (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#winrar)
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
 
 ***
@@ -216,7 +216,7 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[Sejda](https://www.sejda.com/)**
-* [ILovePDF](https://www.ilovepdf.com/)
+* ⭐ **[ILovePDF](https://www.ilovepdf.com/)**
 * [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
@@ -292,6 +292,7 @@
 
 ***
 
+* 🌐 **[PolyUpload File Host Index](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)**
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
@@ -306,7 +307,7 @@
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
-* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
+* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [⁠DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
@@ -354,7 +355,7 @@
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Sign-Up Required
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
-* [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
+* [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 
