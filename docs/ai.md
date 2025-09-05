@@ -278,7 +278,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* * ⭐ **[Veo 3 by MidArt](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app)** / Unlimited / Use VPN and set location to US, also use a translator if you don't speak Portuguese
+* * ⭐ **[Veo 3 by MidArt](https://opal.withgoogle.com/?flow=drive:/18Rk_ihZJsdEIvdRKCw4wNbGZTHk5n0Al&shared&mode=app)** / Unlimited / Use VPN and set location to US.
 * [AI Studio](https://aistudio.google.com/generate-video) - Veo 2 / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Vidu](https://www.vidu.studio/) - 6 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
