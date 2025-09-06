@@ -890,7 +890,7 @@
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
-* [MangaBaka](https://mangabaka.dev/) - Multi-Site Manga / Novel Database / [Discord](https://discord.com/invite/XYtPtMkbKs)
+* [MangaBaka](https://mangabaka.dev/) - Multi-Site Manga / Novel Database / [Discord](https://mangabaka.dev/discord)
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
