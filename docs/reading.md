@@ -17,6 +17,7 @@
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [The Library](https://discord.gg/mSyFJz9) - Books / Discord
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/ebookhunterorg)
+* [⁠eBookoz](https://ebookoz.net/) - Books
 * [WeLib](https://welib.org/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#welib-note)
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
@@ -440,7 +441,7 @@
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* [Seanime](https://seanime.rahim.app/) - Self-Hosted Manga App
+* [Seanime](https://seanime.app/) - Self-Hosted Manga App
 * [Kaizoku](https://github.com/lucy-goblin/kaizoku-next) - Self-Hosted Manga Downloader
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators

@@ -136,6 +136,7 @@
 * [Chrono Divide](https://rentry.co/FMHYBase64#chrono-divide) / [Discord](https://discord.gg/uavJ34JTWY) / [GitHub](https://github.com/chronodivide) or [OpenRA](https://openra.net/) / [Discord](https://discord.com/invite/m5dVWH4aQE) / [GitHub](https://github.com/OpenRA/OpenRA) - Command & Conquer Recreations / Ports
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
+* [The Dark Mod](https://www.thedarkmod.com/) - Modernized Thief Recreation / [Community Missions](https://www.thedarkmod.com/missions/)
 * [OpenMW](https://openmw.org/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
@@ -357,7 +358,6 @@
 * [⁠SMB Arena](https://www.smbarena.com/) - Super Mario Bros. 1 Mods
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
 * [⁠Super Mario War](http://smwstuff.net/) - Multiplayer Deathmatch Style Super Mario. Bros. 
-* [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
 * [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
@@ -598,6 +598,7 @@
 * [Tetris](https://tetris.com/), [⁠LazyTetris](https://lazytetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
+* [Level Share Square](https://levelsharesquare.com/) - Custom Mario Fangame Maps
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Snubby](https://rentry.co/FMHYBase64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
@@ -671,7 +672,6 @@
 * [Snokido](https://www.snokido.com/) - Browser Games
 * [Game-Game](https://game-game.com/) - Browser Games
 * [ArcadeSpot](https://arcadespot.com/) - Browser Games
-* [Gaming Wonderland](https://www.gamingwonderland.com/) - Browser Games
 * [Alfy](https://www.alfy.com/) - Browser Games
 * [Andkon](https://andkon.com/arcade/) - Browser Games
 * [FreeGames](https://freegames.org/) - Browser Games

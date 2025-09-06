@@ -138,7 +138,6 @@
 * 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching / Web / [Sharing](https://excalihub.dev/)
 * ⭐ **[AutoDraw](https://www.autodraw.com/)** - AI Drawing Tools / Web
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
 * [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
@@ -319,7 +318,7 @@
 * [AvaxGFX](https://avxgfx.com/)
 * [Freeject](https://www.freeject.net/)
 * [⁠Salvaged](https://salvaged.nu/)
-* [Cg_peers](https://t.me/Cg_peers)
+* [Cg_peers Archive](https://t.me/Cgpeers_archive)
 * [PNGTree](https://pngtree.com/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
@@ -327,7 +326,7 @@
 * [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
 * [CGArchives](https://cgarchives.com/)
-* [CGPlugin](https://t.me/s/cgplugin)
+* [CGPerec](https://t.me/cgperec)
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
@@ -554,6 +553,7 @@
 ## ▷ 3D Modeling Tools
 
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
+* [Polymaker](https://wiki.polymaker.com/) - 3D Printing Guide / Community / [Discord](https://discord.com/invite/polymaker)
 * [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter

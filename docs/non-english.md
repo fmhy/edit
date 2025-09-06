@@ -1781,25 +1781,25 @@
 
 * ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/rophimzone), [Telegram](https://t.me/congdongrophim) (Alt) / [Discord](https://discord.gg/rophim)
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim.movie/) - Movies / TV / Anime / Sub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [TVHayHD](https://tv.tvhayhd.org/) - Live TV / 1080p
+* [TVMienPhi](https://tvmienphi.org/), [2](https://tv.tvhayhd.org/) - Live TV / 1080p
+* [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
-* [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
-* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
 * [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
-* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 720p
 * [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Music / Dub / 1080p
 * [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
+* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 720p
+* [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
+* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
 
 ## ▷ Reading / Đọc
 
