@@ -42,7 +42,7 @@
 
 * ⭐ **[Youarefinished Mods](https://t.me/+h95JCUnuf-M1MTE1)** - Modded Apps
 * ⭐ **[Satriyaid](https://t.me/s/satriyaid)** - Modded Editing Apps
-* [ANiK555_Mods](https://t.me/+1gj58uSCVFw1OTJl), [2](https://t.me/+1gj58uSCVFw1OTJl) - Modded Apps
+* [ANiK555_Mods](https://t.me/+1gj58uSCVFw1OTJl) - Modded Apps
 * [alexstranniklite](https://t.me/alexstranniklite) - Modded Apps
 * [AMRTSOFFICIAL](https://t.me/+UGzSc_aVSbI8yTw2) - Modded Apps
 * [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD) - Modded Apps
@@ -1114,7 +1114,7 @@
 
 ## ▷ iOS Sideloading
 
-* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Sideloading Guides
+* ⭐ **[Sideloading Guide](https://rentry.co/sideloadingguide)**, [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) or [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Sideloading Guides
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/) / [Discord](https://discord.gg/PrF6XqpGgX)
 * ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Limit Bypass Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#limit-bypass-note) / [Guide](https://docs.sidestore.io/docs/advanced/sparserestore)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
@@ -1173,9 +1173,7 @@
 * [fnd](https://fnd.io/) - App Store Search
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Sign-Up Required
-* [Scholars Lounge](https://t.me/thescholarslounge) - Tweaked Apps / [Discord](https://discord.gg/3FMj4T7j)
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
-* [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) - Modded Social Media Apps
 * [IPA Archive](https://stuffed18.github.io/ipa-archive-updated) - Search Engine
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
@@ -1192,10 +1190,13 @@
 * ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [IPA Dark](https://t.me/ipa_dark) - Games
+* [Scholars Lounge](https://t.me/thescholarslounge) - Tweaked Apps / [Discord](https://discord.gg/3FMj4T7j)
 * [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
 * [MelonsIPAs](https://t.me/melonipas) - Tweaked Apps
+* [⁠Sa1y0miii](https://t.me/Sa1y0miii) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps / Games & Game Ports
 * [TDMBest](https://t.me/tdmbest_ipas) - Game Ports
+* [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) - Modded Social Media Apps
 
 ***
 

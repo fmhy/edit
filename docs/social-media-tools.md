@@ -273,6 +273,7 @@
 ## ▷ Telegram File Tools
 
 * ⭐ **[Teldrive](https://teldrive-docs.pages.dev/)** - File Manager / Uploader / [Discord](https://discord.com/invite/8QAeCvTK7G) / [GitHub](https://github.com/tgdrive/teldrive)
+* [tdl](https://docs.iyear.me/tdl/) - File Download / Upload Tool / [GitHub](https://github.com/iyear/tdl)
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader

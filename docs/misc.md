@@ -1288,6 +1288,7 @@
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
+* [Synaptic Spiral](https://synapticspiral.nz/) - Fractal Visualizer / Creator
 * [Inspirograph](https://inspiral-web.nathanfriend.com/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools

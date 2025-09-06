@@ -326,7 +326,7 @@
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
-* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Year
+* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 1 Year
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download

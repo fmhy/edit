@@ -385,7 +385,7 @@
 * [audio visual generator](https://fredericbriolet.com/avg/) / No Sign-Up
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) / No Sign-Up
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [GitHub](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md)
-* [Sonauto](https://sonauto.ai/) / [Discord](https://discord.gg/pfXar3ChH8)
+* [Sonauto](https://sonauto.ai/) / Unlimited / [Discord](https://discord.gg/pfXar3ChH8)
 * [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM)
 * [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up

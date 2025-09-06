@@ -243,7 +243,7 @@
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
-* [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
+* [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080phttps://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/
 * [Sakura Animation](http://www.iyinghua.io/) - Anime / Sub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
 * [dmd77](http://www.dmd77.com/) - Anime / Sub / 1080p
@@ -1794,11 +1794,11 @@
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
-* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 1080p
+* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Music / Dub / 1080p
 * [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
-* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Cartoon / Sub / Dub / 720p
-* [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
+* [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
+* [Danet](https://danet.vn/) - Live TV / Movies / TV / Anime / Sub / 720p
 * [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
 
 ## ▷ Reading / Đọc

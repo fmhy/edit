@@ -59,7 +59,7 @@
 * [Hopfly](https://watch.hopfly.site/) - Movies / TV / Anime
 * [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Maxflix](https://maxflix.top/) - Movies / TV / Anime
-* [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/), [3](https://movies2.7xtream.com/) - Movies / TV / Anime / [Auto Next Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#7xtream-autoplay) / [Discord](https://discord.gg/TXqWTKeAAu)
+* [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
 * [AlienFlix](https://alienflix.net/), [2](https://hexawatch.cc/) - Movies / TV / Anime
 * [Purplix](https://neoxa.transdev.pw/), [2](https://purplix.transdev.pw/), [3]( https://tv.starnode.host/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PwMYXRpWBD)
 * [Wooflix](https://www.wooflixtv.co/) - Movies / TV / Anime
@@ -431,7 +431,7 @@
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
 * [SportOnTV](https://sportontv.xyz/), [2](https://sotmatches.netlify.app/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [Sports Plus](https://en12.sportplus.live/)
-* [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/), [3](https://streameast.cz/)
+* [TotalSportek](https://totalsportek.at/), [2](https://streameast.cz/)
 * [CrackStreams](https://crackstreams.blog/)
 * [720pStream](https://720pstream.nu/)
 * [⁠GoalieTrend](https://goalietrend.com/)
@@ -448,6 +448,7 @@
 * [OvertakeFans](https://overtakefans.com/) - Motorsports / [Discord](https://discord.gg/ZKwTUbdbmc)
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
+* [NontonGP](https://esp32.nontonx.com/) - Motorcycle Racing
 * [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
 * [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling

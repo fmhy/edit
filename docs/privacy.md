@@ -108,7 +108,7 @@
 ## ▷ File Scanners
 
 * 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - Portable Malware Scanners / Removal Tools / [GitHub](https://github.com/jijirae/thesecondopinion/)
-* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
+* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
 * ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze)
@@ -270,7 +270,7 @@
 
 ## ▷ Encrypted Messengers
 
-* 🌐 **[Eyelenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
+* 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** - All Platforms / Phone # Required / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android
 * ⭐ **[Briar](https://briarproject.org/)** / Android / [GitLab](https://code.briarproject.org/briar/briar)

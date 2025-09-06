@@ -563,6 +563,7 @@
 
 * 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
 * ↪️ **[Chemistry Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chemistry_lessons)**
+* ↪️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
 * ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Chemistry Search Index
@@ -590,6 +591,20 @@
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
 * [Chemexper Chemical Directory](https://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](https://orgsyn.org/Default.aspx) - Chemistry Prep Guides
+
+***
+
+## ▷ Periodic Tables
+
+* ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
+* ⭐ **[Images-of-elements](https://images-of-elements.com/)** - Element Images
+* ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Material / Element Learning Resources
+* [Atom Animation](https://atomanimation.com/) / [GitHub](https://github.com/matt765/atom-animation), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) or [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - 3D Visualizations of Atoms
+* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Periodic Table Mobile App
+* [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
+* [periodic-table.io](https://periodic-table.io/) - Interactive Table
+* [Periodic Table App](https://periodictableapp.com/) - Interactive Table
+* [WebElements](https://www.webelements.com) - Interactive Table
 
 ***
 
@@ -669,20 +684,6 @@
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
 * [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
 * [CRAM](https://www.cram.com/medical) - Medical Flashcards
-
-***
-
-## ▷ Periodic Tables
-
-* ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
-* ⭐ **[Images-of-elements](https://images-of-elements.com/)** - Element Images
-* ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Material / Element Learning Resources
-* [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) or [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - 3D Visualizations of Atoms
-* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Periodic Table Mobile App
-* [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
-* [periodic-table.io](https://periodic-table.io/) - Interactive Table
-* [Periodic Table App](https://periodictableapp.com/) - Interactive Table
-* [WebElements](https://www.webelements.com) - Interactive Table
 
 ***
 
