@@ -62,6 +62,7 @@
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
+* [Blur Image](https://www.blurimage.cc/) - Blur Images Online
 
 ***
 
