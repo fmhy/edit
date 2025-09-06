@@ -101,7 +101,7 @@ If you're going to work on the site itself, or simply want to preview the site a
 
 #### GitHub Codespaces
 
-This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). To use Codespaces, follow these steps:
+This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-and-billed-use-by-personal-accounts). To use Codespaces, follow these steps:
 
 1. Fork the repository by clicking the "Fork" button in the top right.
 

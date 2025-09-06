@@ -434,7 +434,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [Webtoon](https://www.webtoons.com/) / [Discord](https://discord.com/invite/webtoonofficial)
-* [MangaBerri](https://mangaberri.com/) - Use Adblock
+* [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Toonily](https://toonily.com/) - Manhwa
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
@@ -692,7 +692,8 @@
 * [QuoteGarden](https://www.quotegarden.com/)
 * [QuoteMaster](https://www.quotemaster.org/)
 * [TheOtherPages](https://theotherpages.org/quote.html)
-* [Quote Collections](https://pastebin.com/raw/ZH1D8wn3)
+* [oneness](https://rentry.co/oneness)
+* [anarchism_](https://rentry.co/anarchism_)
 * [Poetry In Translation](https://www.poetryintranslation.com/)
 * [PoemHunter](https://www.poemhunter.com/)
 * [DiscoverPoetry](https://discoverpoetry.com/)
@@ -907,7 +908,7 @@
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
-* [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
+* [Charts and Culture](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits

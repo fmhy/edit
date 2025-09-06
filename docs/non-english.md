@@ -688,7 +688,7 @@
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.store/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
-* [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chrome Required
+* [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chromium Required
 * [Fojik](https://fojik.site/) - Movies
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -979,7 +979,6 @@
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
 * 🌐 **[Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel)** - AI Telegram Channels / Groups Index
 * 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
-* [PersianBlocker](https://github.com/MasterKia/PersianBlocker) - Persian Adblock Filters + Guides
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [IranFirewall](https://viewdns.info/iranfirewall/) - Iranian Firewall Block Test
@@ -1091,7 +1090,7 @@
 
 # ► Portuguese / Português
 
-* **Note** - Brazil is known for having lots of site blocking, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you cannot access one.
+* **Note** - Brazil is known for blocking many sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
 
 ***
 
@@ -1759,7 +1758,7 @@
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/), [TECHRUM.VN](https://www.techrum.vn/) or [WhiteHat.vn](https://whitehat.vn/) - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
-* ⭐ **[Unikey](https://www.unikey.org/)** - Vietnamese Keyboard / [SourceForge](https://sourceforge.net/projects/unikey/)
+* ⭐ **[Unikey](https://www.unikey.org/)** - Vietnamese Keyboard / [Source Code](https://sourceforge.net/projects/unikey/)
 * ⭐ **[Baomoi](https://baomoi.com/)** - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [hostsVN](https://github.com/bigdargon/hostsVN/wiki) - Adblocking Guides
 * [Quantrimang](https://quantrimang.com/) or [Anonyviet](https://anonyviet.com/) - Tech News

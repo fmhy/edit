@@ -447,7 +447,7 @@
 * [Team V.R releases](https://rentry.co/FMHYBase64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [VFXLoot](https://vfxloot.com/)
-* [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
+* [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AETemp](https://t.me/AETemp) - After Effects
