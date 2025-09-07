@@ -892,7 +892,8 @@
 * [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
 * [BKS](https://bks.org.uk/) - British Key Word Signs
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
-* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary 
+* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary
+* [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet / Chromium
