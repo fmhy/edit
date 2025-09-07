@@ -1602,7 +1602,7 @@
 * [AnimeID](https://www.animeid.tv/) - Anime / Sub
 * [animeyt](https://animeyt.es/) - Anime / Sub
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
-* [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
+* [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Tangos78rpm](https://www.tangos78rpm.com/) - Classic Records
 
