@@ -35,7 +35,7 @@
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
-* [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
+* [WorldSRC](https://www.worldsrc.net/) - Video / Audio
 * [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
@@ -49,8 +49,7 @@
 * [PuZo](https://www.puzo.org/) - Audio / Books / Audiobooks / NSFW
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
 * [downTURK](https://www.downturk.net/) - Audio / Books
-* [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
-* [Redump](http://redump.org/) - Disc Preservation Project
+* [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
 * [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
 
 ***
