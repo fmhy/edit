@@ -32,7 +32,6 @@
 
 * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communties
-* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio
@@ -48,6 +47,7 @@
 * [WarezLoad](https://warezload.net/index.php) - Audio / Books
 * [PuZo](https://www.puzo.org/) - Audio / Books / Audiobooks / NSFW
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
+* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
 * [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
 * [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
