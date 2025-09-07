@@ -31,38 +31,28 @@
 ***
 
 * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
+* ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communties
+* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
+* [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
+* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
 * [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
-* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Video / Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
-* [AditHD](https://www.adit-hd.com/) - Video / Audio / Books / Sign-Up Required
-* [Novanon](https://novanon.net/) - Video / Audio / Magazines / Comics / Books / Courses
-* [Psycho downloads](https://psychodownloads.com/) - Video / Audio / ROMs / Books / Magazines / NSFW
-* [Merlin Warez](https://merlinwz.com/) - Video / Audio / Books / Audiobooks / Comics / Magazines
-* [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / ROMs / Books / [Discord](https://discord.gg/kf9FKQx)
-* [DownDuck](https://www.downduck.com/) - Video / Audio / Books / Magazines
-* [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
-* [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
-* [1DDL](https://1ddl.org/) - Video / Audio / Books / Comics / Magazines
-* [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
-* [WarezLoad](https://warezload.net/index.php) - Video / Audio / Books
-* [Katz DDL](https://katzddl.net/) - Video / Audio / Books / NSFW
-* [Leaker](https://leaker.me/) - Video / Audio
-* [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs
-* [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
-* [PuZo](https://www.puzo.org/) - Video / Audio / Books / Audiobooks / NSFW
-* [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / ROMs / Books / NSFW
-* [Download.ir](https://download.ir/) - Video / ROMs
-* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
-* [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
-* [DDLSpot](https://www.ddlspot.com/) - Video / Audio
-* [downTURK](https://www.downturk.net/) - Video / Audio / Books
-* [SoftArchive](https://softarchive.download/) - Video / Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
-* [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
+* [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
+* [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Sign-Up Required
+* [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
+* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
+* [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
+* [Merlin Warez](https://merlinwz.com/) -  Audio / Books / Audiobooks / Comics / Magazines
+* [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
+* [WarezLoad](https://warezload.net/index.php) - Audio / Books
+* [PuZo](https://www.puzo.org/) - Audio / Books / Audiobooks / NSFW
+* [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
+* [downTURK](https://www.downturk.net/) - Audio / Books
+* [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
+
 * [Redump](http://redump.org/) - Disc Preservation Project
-* [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
-* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
+* [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
 
 ***
 
