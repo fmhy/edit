@@ -300,14 +300,14 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
-* [Send.now](https://send.now/) - 100GB / 30 Days After Last Download
+* [Send.now](https://send.now/) - 100GB / No account 15d After Last Download / Free account 30d
 * [Transfer.it](https://transfer.it/) / Unlimited / 90 Days / Owned by Mega.nz
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Sign-Up Required
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
-* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry](https://file.kiwi/en/price)
+* [file.kiwi](https://file.kiwi/) - Unlimited / 90 hours [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [⁠DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
