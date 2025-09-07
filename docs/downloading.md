@@ -50,7 +50,6 @@
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
 * [downTURK](https://www.downturk.net/) - Audio / Books
 * [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Avoid Software / Games](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
-
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
 
