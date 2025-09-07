@@ -1269,7 +1269,7 @@
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [Magic Sketchpad](https://magic-sketchpad.glitch.me/)
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
-* [World Draw](https://world-draw.appspot.com/draw)
+* [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
 * [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia

@@ -828,7 +828,7 @@
 
 ## ▷ Website Builders
 
-* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
+* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Indexes
 * ⭐ **[Webstudio](https://webstudio.is/)** - Static Markdown Website Generator
 * ⭐ **[Framer](https://www.framer.com/)** - Static Markdown Website Generator
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
@@ -842,6 +842,7 @@
 * [docsify](https://docsify.js.org/) - Static Markdown Website Generator
 * [GitBook](https://www.gitbook.com/) - Static Site Generator
 * [Pelican](https://getpelican.com/) - Static Site Generator
+* [Astro](https://astro.build/) - Static Site Generator
 * [site123](https://www.site123.com/) - Website Builder
 * [tilda](https://tilda.cc/) - Website Builder
 * [bravenet](https://www.bravenet.com/) - Website Builder
