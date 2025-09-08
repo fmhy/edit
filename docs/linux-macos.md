@@ -152,7 +152,7 @@
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
+* [kanata](https://github.com/jtroo/kanata), [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
@@ -795,6 +795,7 @@
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
+* [kanata](https://github.com/jtroo/kanata), [kmonad](https://github.com/kmonad/kmonad) - Keyboard Remapping
 
 ***
 
