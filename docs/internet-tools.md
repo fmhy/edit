@@ -487,6 +487,7 @@
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [AnonymMail.net](https://anonymmail.net/) or [Mail.td](https://mail.td/) - 5 Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
+* [TemEmail](https://tememail.org/) - 48 Hours / 48 Hours / N/A
 * [TMail](https://tmail.link/) - Lightweight Email
 * [More Sites](https://rentry.org/i3ozxg6f) - More Temp Mail Sites
 
