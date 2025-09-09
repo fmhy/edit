@@ -46,7 +46,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr)
 * Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
 * AsanDL - Caught with [malware](https://tria.ge/250117-gac5havkaj/)
-* TaiWebs- Caught with [scrurvy malware](https://www.virustotal.com/gui/file/86aecdf33978f7335c8596229ef21197baf883dec6c8ad39c44780cb1e052bfd)
+* Taiwebs- Caught with [scrurvy malware](https://www.virustotal.com/gui/file/86aecdf33978f7335c8596229ef21197baf883dec6c8ad39c44780cb1e052bfd)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware

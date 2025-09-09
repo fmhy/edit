@@ -119,7 +119,6 @@
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [DNS for Family](https://dnsforfamily.com/)
 * [Hurricane Electric](https://dns.he.net/)
-* [ DNS Bunker](https://dnsbunker.org/)
 * [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)

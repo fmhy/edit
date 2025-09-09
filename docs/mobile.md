@@ -268,36 +268,6 @@
 
 ***
 
-## ▷ Camera Tools
-
-* ⭐ **[Google Lens](https://lens.google.com/)** - Multiple Camera Tools
-* ⭐ **[Gallery](https://github.com/FossifyOrg/Gallery)**, **[Aves](https://github.com/deckerst/aves)**, [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo), [Ente](https://ente.io/) / [GitHub](https://github.com/ente-io/ente), [Photok](https://github.com/leonlatsch/Photok), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android), [Google Photos](https://rentry.co/FMHYBase64#revanced-google-photos) or [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
-* ⭐ **[Image Toolbox](https://github.com/T8RIN/ImageToolbox)**, [PicsArt](https://rentry.co/FMHYBase64#picsart), [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea), [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed), [PhotoLayers](https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers), [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor) or [Pixomatic](https://pixomatic.us/) - Image Editors
-* ⭐ **[Reincubate Camo](https://reincubate.com/camo/)**, [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam
-* [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - Image Gallery Cleaner
-* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - Google Cam Downloads / [XML Configs](https://t.me/xmlshamimmod) / [Telegram](https://t.me/googlecameraport)
-* [Libre Camera](https://github.com/iakdis/librecamera), [GrapheneOS Camera](https://github.com/GrapheneOS/Camera), [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
-* [FadCam](https://github.com/anonfaded/FadCam) - Background Video Recorder
-* [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
-* [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
-* [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
-* [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam without Google Play
-* [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
-* [BarcodeScanner](https://gitlab.com/Atharok/BarcodeScanner) or [BinaryEye](https://github.com/markusfisch/BinaryEye) - QR / Barcode Scanners
-* [TimeLapseCam](https://github.com/woheller69/TimeLapseCamera) - Timelapse Camera
-* [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
-* [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
-* [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
-* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://rentry.co/fmhybase64#galaxy-enhance-x) or [Superimage](https://superimage.io/) - Image Upscalers
-* [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
-* [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
-* [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
-* [AppMockUp](https://app-mockup.com/) - Screenshot Builder
-* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetadataRemover](https://github.com/Crazy-Marvin/MetadataRemover) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
-* [VES-Image-Compare](https://github.com/VincentEngel/VES-Image-Compare) - Easily Compare Images
-
-***
-
 ## ▷ Keyboard Tools
 
 * ⭐ **[FUTO Keyboard](https://keyboard.futo.org/)** - Privacy-Focused Keyboard / [Discord](https://discord.gg/ENYRubhTRw)
@@ -366,6 +336,61 @@
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security & Privacy Hardened Android / Google Pixel Only / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
 * [LineageOS](https://www.lineageos.org/) - Privacy-Focused OS / [Discord](https://discord.gg/gD6DMtf)
+
+***
+
+# ► Android Camera
+
+* ⭐ **[Google Lens](https://lens.google.com/)** - Multiple Camera Tools
+* ⭐ **[Reincubate Camo](https://reincubate.com/camo/)**, [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam
+* [Libre Camera](https://github.com/iakdis/librecamera)) - Camera App
+* [GrapheneOS Camera](https://github.com/GrapheneOS/Camera)) - Camera App
+* [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam)) - Camera App
+* [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android)) - Camera App
+* [Open Camera](https://sourceforge.net/projects/opencamera/) - Camera App
+* [FadCam](https://github.com/anonfaded/FadCam) - Background Video Recorder
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - Google Cam Downloads / [XML Configs](https://t.me/xmlshamimmod) / [Telegram](https://t.me/googlecameraport)
+* [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam without Google Play
+* [BarcodeScanner](https://gitlab.com/Atharok/BarcodeScanner) or [BinaryEye](https://github.com/markusfisch/BinaryEye) - QR / Barcode Scanners
+* [TimeLapseCam](https://github.com/woheller69/TimeLapseCamera) - Timelapse Camera
+
+***
+
+## ▷ Image Tools
+
+* ⭐ **[Image Toolbox](https://github.com/T8RIN/ImageToolbox)** - Image Editor
+* [PicsArt](https://rentry.co/FMHYBase64#picsart) - Image Editor
+* [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea) - Image Editor
+* [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Image Editor
+* [PhotoLayers](https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers) - Image Editor
+* [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor) - Image Editor
+* [Pixomatic](https://pixomatic.us/) - Image Editor
+* [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
+* [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
+* [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
+* [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
+* [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
+* [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
+* [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://rentry.co/fmhybase64#galaxy-enhance-x) or [Superimage](https://superimage.io/) - Image Upscalers
+* [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
+* [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search / Some NSFW
+* [AppMockUp](https://app-mockup.com/) - Screenshot Builder
+* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetadataRemover](https://github.com/Crazy-Marvin/MetadataRemover) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
+* [VES-Image-Compare](https://github.com/VincentEngel/VES-Image-Compare) - Easily Compare Images
+
+***
+
+## ▷ Image Galleries
+
+* ⭐ **[Gallery](https://github.com/FossifyOrg/Gallery)** - Photo / Video Gallery
+* ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
+* [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
+* [Ente](https://ente.io/) - Photo / Video Gallery / [GitHub](https://github.com/ente-io/ente)
+* [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
+* [UhuruPhotos](https://uhuru.photos) - Photo / Video Gallery / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android)
+* [Google Photos](https://rentry.co/FMHYBase64#revanced-google-photos) - Photo / Video Gallery
+* [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Gallery
+* [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - Image Gallery Cleaner
 
 ***
 
@@ -465,7 +490,7 @@
 
 * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Keyguard](https://github.com/AChep/keyguard-app), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
-* ⭐ **[Thunderbird](https://github.com/thunderbird/thunderbird-android)**, [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairCode](https://email.faircode.eu/) - Email Clients
+* ⭐ **[Thunderbird](https://github.com/thunderbird/thunderbird-android)**, [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * [Wolfram Alpha](https://rentry.co/FMHYBase64#wolfram-mobile) - Searchable Knowledge Base
