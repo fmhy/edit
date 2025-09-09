@@ -26,9 +26,9 @@
 ### Customizable New Tab Page
 
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue) - Customizable New Tab
-* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr) - Minimalist Startpage
-* [Renewed Tab](https://renewedtab.com/) / [GitLab](https://gitlab.com/renewedtab/renewedtab/) / [Discord](https://discord.gg/zYjR54b) - Customizable New Tab
+* ⭐ **[Mue](https://muetab.com/)** - Customizable New Tab / [GitHub](https://github.com/mue/mue)
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** - Minimalist Startpage / [GitHub](https://github.com/victrme/Bonjourr)
+* [Renewed Tab](https://renewedtab.com/) - Customizable New Tab / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
 
 [mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
 
