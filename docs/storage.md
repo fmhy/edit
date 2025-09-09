@@ -277,7 +277,7 @@
 * [Planet Minecraft](https://www.planetminecraft.com/)
 * [MC Archive](https://mcarchive.net/) - Old Mods
 * [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
-* [ModpackIndex](https://www.modpackindex.com/)
+* [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
 
