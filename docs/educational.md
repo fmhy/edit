@@ -1046,20 +1046,21 @@
 
 ## ▷ Programming Languages
 
-* [Typing.io](https://typing.io/) or [Silver Dev's WPM](https://wpm.silver.dev/) - Typing Practice for Programming / Sign-Up Required
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker's Guide to Python](https://docs.python-guide.org/) / [GitHub](https://github.com/realpython/python-guide) - Python Guides
-* [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery), [⁠Genepy](https://genepy.org/) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
+* ⭐ **[30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)** - Python Programming Challenge
+* [Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Python Guide / [GitHub](https://github.com/realpython/python-guide)
+* [Typing.io](https://typing.io/) or [Silver Dev's WPM](https://wpm.silver.dev/) - Programming Typing Practice / Sign-Up
+* [A Byte of Python](https://python.swaroopch.com/) - Python Guide
+* [Learn Python](https://www.learnpython.org/) - Interactive Python Guide
+* [FutureCoder](https://futurecoder.io/) - Interactive Python Guide
+* [⁠Genepy](https://genepy.org/) - Interactive Python Guide
+* [Learn-Python](https://github.com/trekhleb/learn-python) - Python Playground / Cheatsheet
+* [CS50](https://cs50.harvard.edu/python/) - Python Course
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
-* [Learn C](https://www.learn-c.org/) - C Tutorial
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [GitHub](https://github.com/isocpp/CppCoreGuidelines)
-* [Learn C++](https://www.learncpp.com/) - C++ Lessons / Tutorials
-* [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials
-* [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
+* [Learn C](https://www.learn-c.org/) - C Tutorials
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or  [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips 
+* [Learn C++](https://www.learncpp.com/) or [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
-* [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
-* [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
+* [AmigosCode](https://www.youtube.com/@amigoscode), [Java Design Patterns](https://java-design-patterns.com/) or [learncs.online](https://www.learncs.online/) - Java / Kotlin Guides
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
