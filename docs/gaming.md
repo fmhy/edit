@@ -449,6 +449,7 @@
 * [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game / [GitHub](https://github.com/maxwellito/breaklock)
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
+* [4096 Game](https://www.4096game.app/) – A Clean and Minimalist Version of the Classic Puzzle. More challenging than 2048 with a 5×5 grid, fast and ad-free, easy to play, and perfect for practicing your brain or competing for high scores.
 
 ***
 
