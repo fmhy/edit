@@ -445,7 +445,7 @@
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with Built-in Android Emulator
 * [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
-* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android  on Linux via ADB
+* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android on Linux via ADB
 
 ***
 
