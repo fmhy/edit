@@ -273,7 +273,7 @@
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord]() / [GitHub]()
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization and Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
-* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes), [2](https://greasyfork.org/en/scripts/445993-modrinthify)
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
 * [Planet Minecraft](https://www.planetminecraft.com/)
 * [MC Archive](https://mcarchive.net/) - Old Mods
 * [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
