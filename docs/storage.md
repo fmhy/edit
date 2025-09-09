@@ -270,7 +270,7 @@
 
 ### Mod / Resource Pack Indexes
 
-* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord]() / [GitHub]()
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization and Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
 * [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
