@@ -609,6 +609,22 @@
 
 ***
 
+# ► Blogging Tools
+
+* ⭐ **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), **[Bear Blog](https://bearblog.dev/)**, [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Telescope](https://telescope.ac/) - Publishing Platform
+* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
+* [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
+* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
+* [Notepin](https://notepin.co/) - Anonymous Blogging Platform
+* [Hexo](https://hexo.io/) - Static Blog Template / [Themes](https://hexo.io/themes/) / [GitHub](https://github.com/hexojs/hexo)
+* [Zonelets](https://zonelets.net/) - Static Blog Template
+* [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
+* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
+* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
+
+***
+
 # ► Tumblr Tools
 
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
@@ -733,19 +749,3 @@
 * [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive
 * [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
 * [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
-
-***
-
-# ► Blogging Tools
-
-* ⭐ **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), **[Bear Blog](https://bearblog.dev/)**, [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
-* [Telescope](https://telescope.ac/) - Publishing Platform
-* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
-* [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
-* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
-* [Notepin](https://notepin.co/) - Anonymous Blogging Platform
-* [Hexo](https://hexo.io/) - Static Blog Template / [Themes](https://hexo.io/themes/) / [GitHub](https://github.com/hexojs/hexo)
-* [Zonelets](https://zonelets.net/) - Static Blog Template
-* [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
-* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
-* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator

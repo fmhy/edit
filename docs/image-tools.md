@@ -72,6 +72,7 @@
 * ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - Background Remover
 * ⭐ **[BG Bye](https://bgbye.fyrean.com/)**, [2](https://fyrean.itch.io/bgbye-background-remover) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
+* [Repolas BG Remover](https://ripolas.org/background-remover/) - Background Remover
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
 * [remove.bg](https://www.remove.bg/)  - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 * [ORMBG](https://huggingface.co/spaces/schirrmacher/ormbg) - Human Optimised Background Remover
