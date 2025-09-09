@@ -343,10 +343,10 @@
 
 * ⭐ **[Google Lens](https://lens.google.com/)** - Multiple Camera Tools
 * ⭐ **[Reincubate Camo](https://reincubate.com/camo/)**, [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam
-* [Libre Camera](https://github.com/iakdis/librecamera)) - Camera App
-* [GrapheneOS Camera](https://github.com/GrapheneOS/Camera)) - Camera App
-* [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam)) - Camera App
-* [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android)) - Camera App
+* [Libre Camera](https://github.com/iakdis/librecamera) - Camera App
+* [GrapheneOS Camera](https://github.com/GrapheneOS/Camera) - Camera App
+* [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam) - Camera App
+* [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) - Camera App
 * [Open Camera](https://sourceforge.net/projects/opencamera/) - Camera App
 * [FadCam](https://github.com/anonfaded/FadCam) - Background Video Recorder
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) - Google Cam Downloads / [XML Configs](https://t.me/xmlshamimmod) / [Telegram](https://t.me/googlecameraport)
