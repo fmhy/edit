@@ -57,7 +57,7 @@
 ***
 
 * 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index / [Advanced Search](https://distrowatch.com/search.php#advanced)
-* ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide
+* ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [ArchiveOS](https://archiveos.org/) - Linux Distro Archive
@@ -444,7 +444,7 @@
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android Studio](https://developer.android.com/studio) - IDE with Built-in Android Emulator
 * [Bliss OS](https://blissos.org/) or [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
-* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android  on Linux via ADB
+* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android on Linux via ADB
 
 ***
 

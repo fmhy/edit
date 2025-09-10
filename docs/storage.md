@@ -26,9 +26,9 @@
 ### Customizable New Tab Page
 
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue) - Customizable New Tab
-* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr) - Minimalist Startpage
-* [Renewed Tab](https://renewedtab.com/) / [GitLab](https://gitlab.com/renewedtab/renewedtab/) / [Discord](https://discord.gg/zYjR54b) - Customizable New Tab
+* ⭐ **[Mue](https://muetab.com/)** - Customizable New Tab / [GitHub](https://github.com/mue/mue)
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** - Minimalist Startpage / [GitHub](https://github.com/victrme/Bonjourr)
+* [Renewed Tab](https://renewedtab.com/) - Customizable New Tab / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
 
 [mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
 
@@ -112,7 +112,7 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
-* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)**
+* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)** - Ads. Trackers, Adult, Malware, Gambling & Social Media DNS Protection
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
@@ -269,14 +269,14 @@
 
 ### Mod / Resource Pack Indexes
 
-* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
-* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
-* [ModBay](https://modbay.org/) - Bedrock Edition Content
-* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes), [2](https://greasyfork.org/en/scripts/445993-modrinthify)
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
+* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
+* [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
 * [Planet Minecraft](https://www.planetminecraft.com/)
-* [MC Archive](https://mcarchive.net/)
-* [FiberMC](https://www.fibermc.com/)
-* [ModpackIndex](https://www.modpackindex.com/)
+* [MC Archive](https://mcarchive.net/) - Old Mods
+* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
+* [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
 
@@ -343,10 +343,10 @@
 
 ## Presentation Tools
 
-* [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal-Based Presentation Tool
+* [Slides](https://maaslalani.com/slides/) - Terminal-Based Presentation Tool / [GitHub](https://github.com/maaslalani/slides)
 * [⁠Z.ai](https://chat.z.ai/) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
-* [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
+* [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
 
 [Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/)
 

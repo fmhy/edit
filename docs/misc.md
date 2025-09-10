@@ -326,7 +326,7 @@
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
-* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
+* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
@@ -393,7 +393,7 @@
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
-* [kepler.gl](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
+* [kepler.gl](https://kepler.gl/) - Geospatial Analysis Tool / [GitHub](https://github.com/keplergl/kepler.gl)
 
 ***
 
@@ -1423,7 +1423,7 @@
 * ⭐ **[TVTropes](https://tvtropes.org/)** - Tropes & Media Encyclopedia
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[Topsters](https://topsters.org/)** or [TierMaker](https://tiermaker.com/) - Create / Explore Tier Lists
-* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Discord](https://discord.gg/NFsM8YbBYH) or [/r/lostmedia](https://www.reddit.com/r/lostmedia/)
+* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Subreddit](https://www.reddit.com/r/lostmedia/) / [Discord](https://discord.gg/NFsM8YbBYH)
 * ⭐ **[Goody2](https://www.goody2.ai/chat)** - World's Most Ethical AI
 * [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
