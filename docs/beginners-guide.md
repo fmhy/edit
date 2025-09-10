@@ -164,7 +164,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
 * **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
-* **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
+* **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Dev Certs [iOS 15 & Above]
 
 ***
 
