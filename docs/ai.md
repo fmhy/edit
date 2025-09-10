@@ -181,6 +181,7 @@
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
 * [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI Piracy Guide / Resources
+* [CompliMate AI](https://complimate-ai.com) - AI compliance suite for privacy policies and global regulations.
 
 ***
 
