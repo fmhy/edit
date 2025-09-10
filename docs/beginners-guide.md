@@ -34,6 +34,14 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 
 ***
 
+> How do I decode Base64?
+
+If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you can use a Base64 decoder to view it. Some may need to be decoded twice.
+
+* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
+
+***
+
 ### Movies / Shows
 
 * **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
@@ -150,7 +158,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### iOS Sideloading
 
-* **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sideloading Guide
+* **[Sideloading Guide](https://rentry.co/sideloadingguide)** - Sideloading Guide
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
 * **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
@@ -163,7 +171,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Tools to decode encrypted base64 links
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
 
 ***
