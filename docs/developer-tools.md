@@ -830,8 +830,8 @@
 ## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Indexes
-* ⭐ **[Webstudio](https://webstudio.is/)** - Static Markdown Website Generator
-* ⭐ **[Framer](https://www.framer.com/)** - Static Markdown Website Generator
+* ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
+* ⭐ **[Framer](https://www.framer.com/)** - Website Builder
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** - Static Site Generator
 * ⭐ **[VitePress](https://vitepress.dev/)** - Static Site Generator
