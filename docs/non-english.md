@@ -1804,7 +1804,7 @@
 * [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Live TV / Movies / TV / Anime / Sub / 720p
-* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
+* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / Sports / 1080p / Sign-Up Required
 
 ## ▷ Reading / Đọc
 
