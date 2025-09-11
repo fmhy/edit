@@ -16,7 +16,7 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.5 Chatbot / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.1 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Qwen](https://qwen.ai/home)**, [2](https://chat.qwen.ai/) - Qwen3-235B-A22B-2507 / Qwen3-Max-Preview / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-235B-A22B-2507 / Qwen3-Max-Preview / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 3 (20 per 2 hours) / Grok 4 (5 per 12 hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2-0905 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
@@ -24,11 +24,11 @@
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot
-* [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1 Turbo / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
-* [Apertus](https://chat.publicai.co/) - Apertus 70B / Sign-up Required ⁠Public
+* [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1.1 / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
+* [⁠dots.vlm1.inst](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) or [⁠dots-demo](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Dots Chatbots / No Sign-Up
+* [Apertus](https://chat.publicai.co/) - Apertus 70B / Sign-up Required
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Discord](https://discord.gg/mistralai)
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
-* [⁠dots.vlm1.inst](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) or [⁠dots-demo](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Dots Chatbots / No Sign-Up
 * [⁠Ai2 Playground](https://playground.allenai.org/) - OLMo 2 Chatbot / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
 
 ***
@@ -37,19 +37,18 @@
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/lmarena_ai) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
-* [Yupp.ai](https://yupp.ai/) - o3 Pro / Claude 4.1 Opus / Grok 4 / Gemini 2.5 Pro / DeepSeek V3.1 / Google Login Required
-* [Genspark](https://www.genspark.ai/) - o3 / Gemini 2.5 Pro / [Discord](https://discord.com/invite/CsAQ6F4MPy)
-* [⁠ISH](https://ish.junioralive.in/) - o1 / Grok 3 / DeepSeek R1 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
+* [Yupp.ai](https://yupp.ai/) - o3 Pro / Claude 4.1 Opus / Grok 4 / Gemini 2.5 Pro / DeepSeek V3.1 / Google Login Require
+* [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / GPT-5 mini / No Sign-Up
-* [⁠Mirexa](https://mirexa.vercel.app/) - Deepseek R1 / GPT 4.1 / Mistral / Grok 3 mini
+* [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily
-* [Groq](https://groq.com/) - Kimi K2 / Multiple Chatbots / [Discord](https://discord.gg/invite/groq)
-* [⁠Gradient](https://chat.gradient.network/) - GPT-OSS-120B / Qwen3-235B-A22B / Utilizes 5 32GB RTX 5090s
-* [Scira](https://scira.ai/) - Multiple Chatbots / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
-* [NVIDIA NIM](https://build.nvidia.com/) - Deepseek-R1 / Multiple Chatbots / No Sign-Up
+* [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / [Discord](https://discord.gg/invite/groq)
+* [⁠Gradient](https://chat.gradient.network/) - GPT-OSS-120B / Qwen3-235B-A22B / No Sign-Up
+* [Scira](https://scira.ai/) - Grok 3 mini / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
+* [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
-* [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-4.1
-* [HiveChat](https://ai.wr.do/chat) - GPT-4o / DeepSeek-R1-32b / Multiple Chatbots / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat
+* [HiveChat](https://ai.wr.do/chat) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 
 ***
 
@@ -285,15 +284,13 @@
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * [AI Studio](https://aistudio.google.com/generate-video) - Veo 2 / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Vidu](https://www.vidu.studio/) - 6 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
+* [Vidu](https://www.vidu.studio/) - 10 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
-* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Unlimited / [Colab](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb)
-* [PixVerse](https://pixverse.ai/) - 1 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
+* [PixVerse](https://pixverse.ai/) - 2 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
-* [Kling AI](https://klingai.com/) - 8 Monthly / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [Hailuo AI](https://hailuoai.video/) - 3 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)
+* [Hailuo AI](https://hailuoai.video/) - Unlimited / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / Sora / No Image Input
 * [⁠FastVideo](https://fastwan.fastvideo.org/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
 * [Vivago](https://vivago.ai/) - 1 Daily
@@ -306,32 +303,30 @@
 # ► Image Generation
 
 * 🌐 **[⁠Imgsys Rankings](https://imgsys.org/rankings)** - Image Generator Benchmarks / Leaderboards
-* ⭐ **[AI Studio](https://aistudio.google.com/generate-image)**, [Whisk](https://labs.google/fx/en/tools/whisk) or [Gemini](https://gemini.google.com/) - Imagen 4 + Ultra / Editing / 2.5 Flash (nano-banana) / Unlimited / Region-Based / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Imagen 3 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** / 30 Per 24 Hours / Editing / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[Grok](https://grok.com/)** / 20 Per 2 Hours / Editing / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[AI Studio](https://aistudio.google.com/generate-image)**, [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) - nano-banana (editing) / Imagen 4 + Ultra / 100 per day (Gemini) / Region-Based / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Google Login After 3 / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
-* ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** / 30 Per 24 Hours / Editing / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Imagen 3 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[Grok](https://grok.com/)** / 20 Per 2 Hours / Editing / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[Mage](https://www.mage.space/)** / Flux Schnell / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**, [⁠FLUX.1-Kontext-Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-Kontext-Dev) or [FLUX-Pro-Unlimited](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up / Editing (Kontext)
 * [Yupp.ai](https://yupp.ai/) / Google Login Required
-* [⁠PigenAI](https://pigenai.onrender.com/) / Unlimited
+* [⁠PigenAI](https://pigenai.onrender.com/) / Imagen 4 / Unlimited
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Sign-Up
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) / 60 Daily / Seedream 3.0 / 4 Gens Per Prompt
-* [⁠ISH](https://ish.junioralive.in/) / Unlimited / GPT Image 1 / Flux Kontext (dev) / Editing / [Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.junioralive.in/) / Unlimited / Flux Kontext (dev) / Editing / [Discord](https://discord.gg/cwDTVKyKJz)
 * [imgsys](https://imgsys.org/) / Unlimited / Compare Generators / No Sign-Up
-* [Art Genie](https://artgenie.pages.dev/) / Unlimited / No Sign-Up
-* [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT-4o
+* [Art Genie](https://artgenie.pages.dev/) / Flux Schnell / Unlimited / No Sign-Up
+* [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT-4o / No Image Input
 * [Genspark](https://www.genspark.ai/) / Unlimited / Flux Schnell / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Text2Image](https://taterai.github.io/Text2Image-Generator.html) / Unlimited / Flux Schnell 
-* [Loras](https://www.loras.dev/) / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
+* [Loras](https://www.loras.dev/) / Flux Schnell / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited / 10 GPT Image 1 or Seedream 3.0 Daily / [Discord](https://discord.gg/v6KzUbPeKh)
-* [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
+* [Recraft](https://www.recraft.ai/) / 30 Daily / [Discord](https://discord.gg/recraft)
 * [Reve Image](https://preview.reve.art/) / 20 Daily / Editing
 * [⁠Ernie](https://ernie.baidu.com/) / Unlimited / Editing
-* [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [⁠Remade AI](https://app.remade.ai/) - 40 GPT-Image-1 / 40 Imagen 4 / 80 Flux Kontext / Editing
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Sign-Up
-* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [Discord](https://discord.com/invite/stablediffusion) / [GitHub](https://github.com/Stability-AI/stablediffusion)
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [⁠PixelArtGenerator](https://pixelartgenerator.app/) - AI Pixel Art Generator / Converter
@@ -382,16 +377,15 @@
 
 # ► Audio Generation
 
-* ⭐ **[Suno](https://suno.com/)** - [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
+* ⭐ **[Suno](https://suno.com/)** - 10 Daily / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
 * [MusicFX](https://labs.google/fx/tools/music-fx) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
-* [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)
-* [Udio](https://www.udio.com/) / [Discord](https://discord.gg/udio)
+* [Stable Audio](https://www.stableaudio.com/) / 10 Monthly / [Discord](https://discord.com/invite/stablediffusion)
+* [Udio](https://www.udio.com/) / 3 Daily / [Discord](https://discord.gg/udio)
 * [audio visual generator](https://fredericbriolet.com/avg/) / No Sign-Up
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) / No Sign-Up
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [GitHub](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md)
 * [Sonauto](https://sonauto.ai/) / Unlimited / [Discord](https://discord.gg/pfXar3ChH8)
-* [Beatoven.ai](https://www.beatoven.ai/) / [Discord](https://discord.gg/8nXq56wwJM)
 * [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
 * [Mubert](https://mubert.com/)
