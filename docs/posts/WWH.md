@@ -15,7 +15,7 @@ People always want to know what the point of life is. Why are they on earth? Wha
 
 For most of my life, I didn't really have any answer, but as I got older, I realized, things weren't about me. I took a step back, and recognized a much bigger picture we're all apart of, and I now know exactly why we're here on earth. 
 
-As a human, you have a unique ability, unlike any other creature, to calm, heal, and help those around you. You have the ability to protect both the people in our world, and the planet itself from harm and distress.  
+As a human, you have a powerful ability, to calm, heal, and help those around you. You have the ability to protect both the people in our world, and the planet itself from harm and distress.  
 
 I know there is a huge amount of pain in our world, a lot of anger, a lot of sadness, and believe me when I say, I share the same feelings. However I believe its important that we each learn to ***harness that energy into things that are positive and kind***, not negative or evil. 
 
