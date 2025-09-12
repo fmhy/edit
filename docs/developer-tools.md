@@ -1129,11 +1129,11 @@
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
 * ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth 
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
+* ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://files.catbox.moe/xf1shh.png)
-* [GitLab Pages](https://docs.gitlab.com/user/project/pages/) - 10GB Storage / Unlimited Bandwidth
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
 * [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
 * [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
