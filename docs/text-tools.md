@@ -442,6 +442,7 @@
 * ⭐ **[Font Squirrel](https://www.fontsquirrel.com/)** - Commercial Use
 * ⭐ **[DaFont](https://www.dafont.com/)** - Freeware
 * ⭐ **[1001 Fonts](https://www.1001fonts.com/)** - Freeware
+* ⭐ **[DaFont Style](https://dafont.style/)** - Freeware
 * [Modern Fonts Stacks](https://modernfontstacks.com/) - Collection of CSS System Font Stacks
 * [Velvetyne](https://velvetyne.fr/) - Open Source
 * [uncut.wtf](https://uncut.wtf/) - Open Source
