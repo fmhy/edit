@@ -248,7 +248,7 @@
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
-* [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080phttps://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/
+* [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
 * [Sakura Animation](http://www.iyinghua.io/) - Anime / Sub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
 * [dmd77](http://www.dmd77.com/) - Anime / Sub / 1080p
@@ -545,7 +545,7 @@
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[S.TO](https://s.to/)**, [2](https://serienstream.to/) - TV / Anime / Dub / 720p
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
-* [MegaFilme]](https://megafilme.vip/) -  Movies / TV
+* [MegaFilme](https://megafilme.vip/) -  Movies / TV
 * [Cineby](https://www.cineby.app/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
@@ -900,7 +900,7 @@
 
 ## ▷ Reading / 読書
 
-* 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
+* 🌐 **[Rawmangaz](https://claraiscute.github.io/Guides/rawmangaz/)** - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
 * [DLRaw](https://dlraw.to/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
 * [Raw-Zip](https://raw-zip.com/) - Manga

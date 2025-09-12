@@ -335,7 +335,7 @@
 # ► Windows ISOs
 
 * ⭐ **[Genuine Installation Media](https://rentry.co/FMHYBase64#genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://gravesoft.dev/clean_install_windows)
-* ⭐ **[Windows Install / Debloat Guide](https://wispydocs.netlify.app/docs/windows/)**
+* ⭐ **[Windows Install / Debloat Guide](https://docs.wispy.qzz.io/windows/)**
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
