@@ -290,6 +290,7 @@
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
 * [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
 * [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
+* [Online-Notepad.io](https://online-notepad.io/) – Simple free online notepad with dark mode, font options, and export features.
 
 ***
 
