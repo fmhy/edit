@@ -426,6 +426,7 @@
 * ⭐ **[JPL Photojournal](https://photojournal.jpl.nasa.gov/)** or [JPL Images](https://www.jpl.nasa.gov/images) - JPL Planetary Image Archives
 * ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Moon Landing Images
 * ⭐ **[In The Sky](https://in-the-sky.org/)** - Astronomy News / Interactive Guides
+* [SkyViewer](https://skyviewer.app/) — Interactive sky exploration tool from Rubin Observatory. Lets you explore the universe in detail with real astronomical data.
 * [ViewSpace](https://viewspace.org/) - Space Videos and Digital Interactives
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [⁠NASASpaceFlight](https://www.nasaspaceflight.com/) - Space News / Launch Livestreams / [Forum](https://forum.nasaspaceflight.com/)
