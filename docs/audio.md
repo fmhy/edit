@@ -337,6 +337,7 @@
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [QQDL](https://qqdl.site/) - Qobuz / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+* [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 320kb
 * [EzConv](https://ezconv.com/) - YouTube / 320kb

@@ -324,6 +324,7 @@
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited / 10 GPT Image 1 or Seedream 3.0 Daily / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Recraft](https://www.recraft.ai/) / 30 Daily / [Discord](https://discord.gg/recraft)
 * [Reve Image](https://preview.reve.art/) / 20 Daily / Editing
+* [⁠Coze](https://space.coze.cn/) / Seadream 4.0 / SoTA Image Gen / 50 Daily / US Select CA
 * [⁠Ernie](https://ernie.baidu.com/) / Unlimited / Editing
 * [⁠Remade AI](https://app.remade.ai/) - 40 GPT-Image-1 / 40 Imagen 4 / 80 Flux Kontext / Editing
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Sign-Up
