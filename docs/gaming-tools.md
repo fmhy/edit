@@ -350,6 +350,7 @@
 * [⁠bo3.gg](https://bo3.gg/) - Track ESport Matches, Scores and Streams
 * [Liquipedia](https://liquipedia.net/) - Competitive Gaming / ESports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
+* [MetaBot.GG](https://metabot.gg) - Competitive Gaming Analytics and Stats (League of Legends, TFT, 2XKO, etc)
 
 ***
 
