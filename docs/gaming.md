@@ -385,6 +385,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator / [Discord](https://discord.gg/dTCnM2r5e5)
+* [RetroGamesNexus](https://retrogamesnexus.com/) - Retro-Console Browser Emulator
 * [ClassicGames](https://www.classicgames.me/) - Retro-Console Browser Emulator
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro-Console Browser Emulator
 * [PlayRetroGames](https://www.playretrogames.com/) - Retro-Console Browser Emulator
