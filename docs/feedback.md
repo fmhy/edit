@@ -17,6 +17,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Your sources have allowed me to give my father whatever shows or movies he asks for. Old stuff from when he was younger and all that. Stuff I wouldn't be able to access otherwise. It means a lot since he had heart surgery in Feb 2020 and cant really do much anymore, so its one of the few ways he can keep himself busy. Thank you."*
 
+* *"Best Wiki ever. Wifey has stage 4 cancer. I am a working joe keeping this household afloat on warehouse wages while supporting our family. Finding this wiki has kept us close to our old way of life for free-fifty, lol! Books for the paperwhite, movies, TV, gaming, education, etc., etc. There is so much here that has enhanced our lives. And I find more in the depths every time I go exploring. Please don't ever quit updating/adding to this library of awesomeness! Anyway, I just wanted to drop an anonymous thank you for everything here. Amazing resource. Happy to have a carefully curated list instead of roaming blind into the internet wilds. You are doing some amazing works here. Basically my homepage now. Infinite Kudos!"*
+
 * *"That's why I love FMHY so much. Before id spend hours and hours every day trying to hunt useful websites for myself."*
 
 * *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
