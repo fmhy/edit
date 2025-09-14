@@ -104,110 +104,80 @@
 
 ***
 
-## ▷ Fanfiction / Stories
+## ▷ Ebook Readers
 
-* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* ⭐ **[Short Stories](https://short-stories.co/)**
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
-* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
-* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
-* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Collabs
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
-* [Fork Read](https://forkread.com/) - Publish Short Stories
-* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
-* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
-* [FanMTL](https://www.fanmtl.com/) - Fanfiction
-* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
-* [Wattpad](https://wattpad.com/) - Fanfiction
-* [Royal Road](https://royalroad.com/) - Fanfiction
-* [FictionPress](https://www.fictionpress.com/) - Fanfiction
-* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
-* [fiction.live](https://fiction.live/) - Fanfiction
-* [Booksie](https://www.booksie.com/) - Short Stories
-* [Vestal Review](https://www.vestalreview.net/) - Short Stories
-* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* [Vocal Media](https://vocal.media/fiction/) - Short Stories
-* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
-* [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
-* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
-
-***
-
-## ▷ Esoteric / Cultural
-
-* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
-* 🌐 **[Soren Megathread](https://rentry.co/FMHYBase64#soren-megathread)** - Occult / Esoterica
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
-* ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
-* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
-* [Theoi](https://www.theoi.com/) - Greek Mythology
-* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
-* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
-* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
-* [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
-* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
-* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
-* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
-* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
-* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
-* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
-* [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
-* [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
-* [Esoteric Archive](https://esotericarchives.com/) - Esoterica
-* [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
-* [magZtore](https://t.me/magZtore) - Esoterica / Telegram
-* [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
-* [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
-* [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
-* [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
-* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
-* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
-* [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
-* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
-* [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
-* [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
-* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
-* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
-* [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
-* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
-* [84000](https://84000.co/) - Buddhism
-* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
-* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
-* [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
-* [HolyBooks](https://holybooks.com/) - Religious Texts
-* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
-* [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
-* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible
-* [eSword](https://e-sword.net/) - Christian Bible Desktop App
-* [Classics Ethereal Library](https://www.ccel.org/) - Christianity
-* [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [Quran.com](https://quran.com/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
-* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
-* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
-* [TheIslam360](https://theislam360.com/) - Islamic Research App
-* [Halakhah](https://www.halakhah.com/) - Talmud Translation
-* [Targum](http://targum.info/targumic-texts/) - Targum Translation
-* [Sefaria](https://www.sefaria.org/) - Jewish Texts Translations
-* [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
-* [2Muslims](https://www.2muslims.com/) - Muslim Resources
-* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
-* [Sunnah.com](https://sunnah.com/) - Hadith Translation
+* 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
+* ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
+* ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
+* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
+* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
+* [Readest](https://readest.com/) - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
+* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
+* [KoReader](https://koreader.rocks/) - Ebook Reader / Windows, Android / [GitHub](https://github.com/koreader/koreader)
+* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
+* [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
+* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
+* [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
+* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux
+* [Okular](https://okular.kde.org/) - PDF / Windows, Mac, Linux
+* [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows
+* [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
+* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
+* [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
+* [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
+* [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
+* [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
+* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
+* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / Mac, iOS
+* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
+* [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
+* [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
+* [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
+* [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
+* [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
+* [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
+* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
+* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 
 ***
 
-## ▷ Special Interest
+## ▷ Browser Ebook Readers
+
+* ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
+* [Annas Archive Reader](https://annas-archive.org/view)
+* [Flow](https://www.flowoss.com/)
+* [Online Cloud File Viewer](https://www.fviewer.com/)
+* [Readwok](https://readwok.com/)
+* [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html)
+* [Ebook Reader](https://reader.ttsu.app/manage)
+* [foliate-js](https://github.com/johnfactotum/foliate-js)
+* [Minimal Reader](https://www.minimalreader.xyz/)
+* [Litera Reader](https://litera-reader.com/)
+* [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
+* [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
+* [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
+* [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
+
+***
+
+## ▷ Kindle Tools
+
+* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
+* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
+* [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
+* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
+* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
+* [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
+* [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
+
+***
+
+# ► Special Interest
 
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
@@ -286,6 +256,37 @@
 
 ***
 
+## ▷ Fanfiction / Stories
+
+* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* ⭐ **[Short Stories](https://short-stories.co/)**
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
+* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
+* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Collabs
+* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fork Read](https://forkread.com/) - Publish Short Stories
+* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
+* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
+* [FanMTL](https://www.fanmtl.com/) - Fanfiction
+* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
+* [Wattpad](https://wattpad.com/) - Fanfiction
+* [Royal Road](https://royalroad.com/) - Fanfiction
+* [FictionPress](https://www.fictionpress.com/) - Fanfiction
+* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
+* [fiction.live](https://fiction.live/) - Fanfiction
+* [Booksie](https://www.booksie.com/) - Short Stories
+* [Vestal Review](https://www.vestalreview.net/) - Short Stories
+* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
+* [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
+* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
+
+***
+
 ## ▷ Newspapers
 
 * 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
@@ -313,76 +314,75 @@
 
 ***
 
-## ▷ Ebook Readers
+## ▷ Esoteric / Cultural
 
-* 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
-* ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
-* ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
-* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
-* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
-* [Readest](https://readest.com/) - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
-* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
-* [KoReader](https://koreader.rocks/) - Ebook Reader / Windows, Android / [GitHub](https://github.com/koreader/koreader)
-* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
-* [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
-* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
-* [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
-* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux
-* [Okular](https://okular.kde.org/) - PDF / Windows, Mac, Linux
-* [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows
-* [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
-* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
-* [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
-* [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
-* [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
-* [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
-* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
-* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / Mac, iOS
-* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
-* [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
-* [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
-* [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
-* [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
-* [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
-* [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
-* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
-* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-
-***
-
-## ▷ Browser Ebook Readers
-
-* ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
-* [Annas Archive Reader](https://annas-archive.org/view)
-* [Flow](https://www.flowoss.com/)
-* [Online Cloud File Viewer](https://www.fviewer.com/)
-* [Readwok](https://readwok.com/)
-* [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html)
-* [Ebook Reader](https://reader.ttsu.app/manage)
-* [foliate-js](https://github.com/johnfactotum/foliate-js)
-* [Minimal Reader](https://www.minimalreader.xyz/)
-* [Litera Reader](https://litera-reader.com/)
-* [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
-* [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
-* [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
-* [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
-
-***
-
-## ▷ Kindle Tools
-
-* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
-* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
-* [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
-* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
-* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
-* [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
-* [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
+* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
+* 🌐 **[Soren Megathread](https://rentry.co/FMHYBase64#soren-megathread)** - Occult / Esoterica
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
+* ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
+* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
+* [Theoi](https://www.theoi.com/) - Greek Mythology
+* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
+* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
+* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
+* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
+* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
+* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
+* [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
+* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
+* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
+* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
+* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
+* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
+* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
+* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
+* [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
+* [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
+* [Esoteric Archive](https://esotericarchives.com/) - Esoterica
+* [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
+* [magZtore](https://t.me/magZtore) - Esoterica / Telegram
+* [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
+* [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
+* [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
+* [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
+* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
+* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
+* [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
+* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
+* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
+* [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
+* [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
+* [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
+* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
+* [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
+* [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
+* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
+* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
+* [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
+* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
+* [84000](https://84000.co/) - Buddhism
+* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
+* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
+* [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
+* [HolyBooks](https://holybooks.com/) - Religious Texts
+* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
+* [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
+* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible
+* [eSword](https://e-sword.net/) - Christian Bible Desktop App
+* [Classics Ethereal Library](https://www.ccel.org/) - Christianity
+* [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
+* [Quran.com](https://quran.com/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
+* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
+* [TheIslam360](https://theislam360.com/) - Islamic Research App
+* [Halakhah](https://www.halakhah.com/) - Talmud Translation
+* [Targum](http://targum.info/targumic-texts/) - Targum Translation
+* [Sefaria](https://www.sefaria.org/) - Jewish Texts Translations
+* [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
+* [2Muslims](https://www.2muslims.com/) - Muslim Resources
+* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
+* [Sunnah.com](https://sunnah.com/) - Hadith Translation
 
 ***
 
