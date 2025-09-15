@@ -266,7 +266,7 @@ const transformLinks = (text: string): string =>
       },
       {
         name: 'GitLab',
-        find: /\/ \[GitLab\]\(([^\)]*?)\)/gm,
+        find: /(?<=\/ )\[GitLab\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
