@@ -261,11 +261,16 @@
 * ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * ⭐ **[Short Stories](https://short-stories.co/)**
 * [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fork Read](https://forkread.com/) - Publish Short Stories
+* [Booksie](https://www.booksie.com/) - Short Stories
+* [Vestal Review](https://www.vestalreview.net/) - Short Stories
+* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
 * [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
 * [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
 * [OrionsArm](https://www.orionsarm.com/) - Fictional Story Collabs
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
-* [Fork Read](https://forkread.com/) - Publish Short Stories
 * [Fanfiction.net](https://fanfiction.net/) - Fanfiction
 * [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
 * [FanMTL](https://www.fanmtl.com/) - Fanfiction
@@ -274,16 +279,11 @@
 * [Royal Road](https://royalroad.com/) - Fanfiction
 * [FictionPress](https://www.fictionpress.com/) - Fanfiction
 * [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
-* [fiction.live](https://fiction.live/) - Fanfiction
-* [Booksie](https://www.booksie.com/) - Short Stories
-* [Vestal Review](https://www.vestalreview.net/) - Short Stories
-* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* [Vocal Media](https://vocal.media/fiction/) - Short Stories
-* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
 * [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
 * [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
+* [fiction.live](https://fiction.live/) - Fanfiction
 
 ***
 
