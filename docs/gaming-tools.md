@@ -257,6 +257,7 @@
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[SteamDB Ratings](https://steamdb.info/stats/gameratings/)** - Steam Ratings Chart
 * [TasteDive](https://tastedive.com/games) or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* [⁠Emulation Collection](https://docs.google.com/spreadsheets/d/1bYIhExnaQXYyWLnna1WJPLMvXnmSlq2tvazDL3eQ3z0) - Game Recommendation Chart / 7+ Metacritic
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Game Recommendation Directory
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games

@@ -485,7 +485,6 @@
 * 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ⭐ **[ComicK](https://comick.io/)** / [Subreddit](https://reddit.com/r/ComicK/) / [Discord](https://discord.gg/comick)
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)

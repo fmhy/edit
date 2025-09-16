@@ -741,7 +741,7 @@
 ***
 
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
-* [4rchive](https://4rchive.org/), [sup/tg/](https://suptg.thisisnotatrueending.com/), [Palanq.win](https://archive.palanq.win/), [Desuarchive](https://desuarchive.org/), [Archived.Moe](https://archived.moe/) or [The /b/ Archive](https://thebarchive.com/) - Misc 4chan Archives
+* [4rchive](https://4rchive.org/), [sup/tg/](https://suptg.thisisnotatrueending.com/), [Palanq.win](https://archive.palanq.win/), [AyaseQuart](https://ayasequart.org/fts), [Desuarchive](https://desuarchive.org/), [Archived.Moe](https://archived.moe/) or [The /b/ Archive](https://thebarchive.com/) - Misc 4chan Archives
 * [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
 * [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive

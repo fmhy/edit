@@ -72,7 +72,6 @@
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Status](https://cinemadeck.com/official-domains) / [Discord](https://discord.com/invite/tkGPsX5NTT)
 * [Flicker](https://flickermini.pages.dev/), [2](https://flickeraddon.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#flicker-proxy) / [Subreddit](https://www.reddit.com/r/flickermini/)
 * [Altair](https://altair.mollusk.top/) or [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP) / [GitHub](https://github.com/ambr0sial/nova/)
-* [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / [Discord](https://discord.gg/BWDSXV9aX4)
 * [Ask4Movies](https://ask4movie.app/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
 * [Novafork](https://novafork.cc/) - Movies / TV / [GitHub](https://github.com/noname25495/novafork)
@@ -89,8 +88,6 @@
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * ⭐ **[Qstream](https://qstream.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
-* [PoorFlix](https://poorflix.net/) - Movies / TV / Anime / [Telegram](https://t.me/Poorflix_net)
-* [Movies7](https://movies7.im/) - Movies / TV / Auto-Next
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
 * [Soaker](https://soaker.tv/) or [Soaper](https://soaper.live/) - Movies / TV / Anime / Auto-Next / [Mirrors](https://www.soaperpage.com/)
 * [Vidsrc.cx](https://vidsrc.cx/) - Movies / TV
@@ -207,7 +204,7 @@
 
 ## ▷ Anime Streaming
 
-* 🌐 **[Wotaku](https://wotaku.wiki/websites)** / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku), [The Index](https://theindex.moe/library/anime) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/), [2](https://everythingmoe.org/) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites)** / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku), [The Index](https://theindex.moe/library/anime) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/), [2](https://everythingmoe.org/) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - Anime Site Indexes
 * ⭐ **[AnimeKai](https://animekai.to/home)**, [2](https://animekai.cc/), [3](https://animekai.ac/), [4](https://animekai.bz/) or [AniGo](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [Status](https://animekai.me/) / [X](https://x.com/animekai_to) / [Subreddit](https://www.reddit.com/r/AnimeKAI/) / [Discord](https://discord.com/invite/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)** - Hard Subs / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.gg/miruro) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
@@ -545,6 +542,7 @@
 
 * 🌐 **[Awesome Android TV](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)** - Android TV App Index
 * ⭐ **[SmartTube](https://github.com/yuliskov/SmartTube)** / [2](https://smarttubeapp.github.io/) or [⁠TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt) - Ad-Free Android TV YouTube
+* [⁠Flicky](https://github.com/mlm-games/flicky) - F-Droid Client
 * [Android TV Tools v4](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/) - Multiple Android TV Tools
 * [Android TV Piracy](https://rentry.co/androidtvpiracy) - Android TV Piracy Guide
 * [Android TV Guide](https://www.androidtv-guide.com/) - Certified Android TV Devices / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)

@@ -358,6 +358,7 @@
 * [⁠CyclonicWx](https://cyclonicwx.com/) - Tropical Weather Tracking Tools / Plotting
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
+* [Supercell Wx](https://supercellwx.net/) - Visualize / Archive NEXRAD Data + Weather Alerts / [GitHub](https://github.com/dpaulat/supercell-wx)
 * [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map

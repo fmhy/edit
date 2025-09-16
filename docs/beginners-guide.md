@@ -86,7 +86,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 * **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
-* **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
+* **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://readera.org/)**

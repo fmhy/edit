@@ -63,8 +63,7 @@
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
-* [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
-* [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
+* [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 
 ***
 
