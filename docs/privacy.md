@@ -372,7 +372,7 @@
 ## ▷ VPN Tools
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
-* ⭐ **[VPN Binding Guide](https://docs.wispy.qzz.io/vpn-binding/)** - Bind VPN to Torrent Client to Avoid ISP Letters
+* ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/vpn-binding/)** - Bind VPN to Torrent Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Guide](https://www.wireguard.com/quickstart/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
 * ⭐ **[Tailscale](https://tailscale.com/)**, [⁠NetBird](https://netbird.io/) or [ZeroTier](https://www.zerotier.com/) - Secure Network VPN
 * [⁠Nebula](https://github.com/slackhq/nebula) or [⁠Headscale](https://github.com/juanfont/headscale) - Self-Hosted Secure Network VPN

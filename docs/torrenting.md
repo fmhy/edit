@@ -79,7 +79,7 @@
 
 # ► Torrent Clients
 
-* **Warning** - Remember to [bind](https://docs.wispy.qzz.io/vpn-binding/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **Warning** - Remember to [bind](https://wispydocs.pages.dev/vpn-binding/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
