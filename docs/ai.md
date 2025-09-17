@@ -461,7 +461,6 @@
 * [Remove Vocals](https://www.remove-vocals.com/), [2](https://www.acapella-extractor.com/)
 * [vocali](https://vocali.se/en)
 * [mazmazika](https://www.mazmazika.com/)
-* [Vocal Remover](https://unmix.audio/)
 * [ezstems](https://ezstems.com/)
 
 ***
