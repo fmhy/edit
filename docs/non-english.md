@@ -107,7 +107,7 @@
 
 ## ▷ Downloading / ডাউনলোডিং
 
-* [MLSBD](https://mlsbd.shop/) - Movies / TV
+* [MLSBD](https://mlsbd.co/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
