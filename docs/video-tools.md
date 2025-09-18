@@ -106,7 +106,7 @@
 ## ▷ Online Processing
 
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
-* [8mb.video](https://8mb.video/) - Compress / 2GB
+* [8mb.video](https://8mb.video/) - Compress / 2GB / [Discord](https://discord.com/invite/UzmzPfX)
 * [autocompressor](https://autocompressor.net/) - Compress / 2GB
 * [Rotato](https://tools.rotato.app/) - Compress / 2GB
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
