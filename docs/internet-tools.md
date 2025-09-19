@@ -502,6 +502,7 @@
 * [33mail](https://33mail.com/) - Email Aliasing
 * [TrashMail](https://trashmail.com/) - Email Aliasing
 * [AdGuard Mail](https://adguard-mail.com/) - Email Aliasing
+* [⁠yey.email](https://yey.email/) - Email Aliasing
 
 ***
 

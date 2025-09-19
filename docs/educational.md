@@ -887,6 +887,7 @@
 * [NZSL](https://nzsl.nz/) - New Zealand Sign Langauge Dictionary
 * [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
 * [BKS](https://bks.org.uk/) - British Key Word Signs
+* [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
 * [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
@@ -937,6 +938,7 @@
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
 * [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
+* [⁠Chessigma](https://www.chessigma.com/) - Chess Game / Move Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
 * [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis
 * [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
