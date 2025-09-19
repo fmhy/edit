@@ -1709,6 +1709,7 @@
 
 ## ▷ Reading / Okuma
 
+* ⭐ **[KediKitap](https://t.me/KediKitap)** - World's largest Turkish e-book archive
 * [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
 * [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
 * [⁠hattusa](https://hattusa.club/) - Books
