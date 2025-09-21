@@ -17,11 +17,11 @@ Here you'll find some general guidelines for those who would like to start contr
 
 **Don't submit any of the following:**
 
-- **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/adblockvpnguide#vpn) and [Debrid](/downloadpiracyguide#leeches-debrid).
-- **🕹️ Emulators** - Already listed on [Index Sites](/gamingpiracyguide#emulators).
+- **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/privacy#vpn) and [Debrid](/downloading#leeches-debrid).
+- **🕹️ Emulators** - Already listed on [Index Sites](/gaming#emulators).
 - **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept [indexes](/internet-tools#browser-tools), privacy-focused, and good mobile ones.
-- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloadpiracyguide#leeches-debrid), don't submit these.
-- **🐧 Linux Distros** - Already listed on [Index Sites](/linuxguide#linux-distros).
+- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloading#leeches-debrid), don't submit these.
+- **🐧 Linux Distros** - Already listed on [Index Sites](/linux-macos#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
 - **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
 - **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.
@@ -101,7 +101,7 @@ If you're going to work on the site itself, or simply want to preview the site a
 
 #### GitHub Codespaces
 
-This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). To use Codespaces, follow these steps:
+This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-and-billed-use-by-personal-accounts). To use Codespaces, follow these steps:
 
 1. Fork the repository by clicking the "Fork" button in the top right.
 
@@ -119,6 +119,6 @@ This creates an environment in the browser [(with 60h/month free quota)](https:/
 
 #### Local Instance
 
-Making changes on a local repository may require a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+Making changes on a local repository may require a basic understanding of Git. You can find learning resources [here](/educational#developer-learning).
 
 More info on manual setup can be found [here](/other/selfhosting).

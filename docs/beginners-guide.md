@@ -14,9 +14,9 @@ Piracy sites usually contain ads, some of which can be harmful, often leading to
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns.
 
-For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7).
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** / [Easy Setup](https://wispydocs.pages.dev/lg-tv-homebrew/).
 
-!!!note Using several ad blockers, like uBO and Adguard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
@@ -28,9 +28,19 @@ We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/interne
 
 For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
-For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [Adguard](https://adguard.com/en/adguard-ios/overview.html).
+For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html).
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
+
+***
+
+### Base64
+
+> How do I decode Base64?
+
+If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you can use a Base64 decoder to view it. Some may need to be decoded twice.
+
+* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
 
 ***
 
@@ -57,8 +67,8 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) (iOS)**
+* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
+* **Mobile: [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [ReVanced Manager](https://revanced.app/) (Android) / [SpotC++](https://spotc.yodaluca.dev/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -74,9 +84,9 @@ For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brav
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://bookracy.ru/)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
-* **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
+* **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://readera.org/)**
@@ -112,13 +122,18 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://massgrave.dev/)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://rentry.co/FMHYBase64#genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYBase64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
 
-* **[Windows Install / Debloat Guide](https://gist.github.com/VVispy/17b228cd9c151a495e7576255e1713b9)**
+* **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 * **Software Piracy: [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-* **Adobe Piracy: [Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
 !!!note Be aware that unofficial sources often re-upload M0nkrus's repacks, sometimes with added malware. Always verify you are downloading from M0nkrus's actual site, which we link on FMHY before downloading anything. Do not trust search engine results blindly for such specific repackers.
+
+***
+
+### Adobe Piracy
+
+* **[Adobe Quick Guide](https://rentry.co/FMHYBase64#adobe-guide)**
 
 ***
 
@@ -126,7 +141,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 > Do I need a VPN to torrent?
 
-Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/vpn-binding/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
 
 > What is Port Forwarding? Do I need it?
 
@@ -145,11 +160,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### iOS Sideloading
 
-* **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** - Sideloading Guide
+* **[Sideloading Guide](https://rentry.co/sideloadingguide)** - Sideloading Guide
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
-* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 14.0 & Above]
+* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
-* **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
+* **[Feather](https://github.com/khcrysalis/Feather)** - Sideload Apps with Dev Certs [iOS 15 & Above]
 
 ***
 
@@ -157,8 +172,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Tools to decode encrypted base64 links
+* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
 
 ***

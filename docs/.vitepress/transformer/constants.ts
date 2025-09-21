@@ -20,19 +20,19 @@ interface Header {
 }
 
 export const headers: Header = {
-  'adblockvpnguide.md': {
+  'privacy.md': {
     title: 'Adblocking / Privacy',
     description: 'Adblocking, Privacy, VPNs, Proxies, Antiviruses'
   },
   'ai.md': {
     title: 'Artificial Intelligence',
-    description: 'Chatbots, Text Generators, Image Generators, ChatGPT Tools'
+    description: 'Chatbots, Text Generators, Image Generators, Chatbot Tools'
   },
-  'android-iosguide.md': {
+  'mobile.md': {
     title: 'Android / iOS',
     description: 'Apps, Jailbreaking, Android Emulators'
   },
-  'audiopiracyguide.md': {
+  'audio.md': {
     title: 'Music / Podcasts / Radio',
     description: 'Stream Audio, Download Audio, Torrent Audio'
   },
@@ -40,23 +40,23 @@ export const headers: Header = {
     title: 'Beginners Guide',
     description: 'A Guide for Beginners to Piracy'
   },
-  'downloadpiracyguide.md': {
+  'downloading.md': {
     title: 'Downloading',
     description: 'Download Sites, Software Sites, Open Directories'
   },
-  'edupiracyguide.md': {
+  'educational.md': {
     title: 'Educational',
     description: 'Courses, Documentaries, Learning Resources'
   },
-  'gamingpiracyguide.md': {
+  'gaming.md': {
     title: 'Gaming / Emulation',
     description: 'Download Games, ROMs, Gaming Tools'
   },
-  'linuxguide.md': {
+  'linux-macos.md': {
     title: 'Linux / macOS',
     description: 'Apps, Software Sites, Gaming'
   },
-  'miscguide.md': {
+  'misc.md': {
     title: 'Miscellaneous',
     description: 'Extensions, Indexes, News, Health, Food, Fun'
   },
@@ -68,7 +68,7 @@ export const headers: Header = {
     title: 'Non-English',
     description: 'International Piracy Sites'
   },
-  'readingpiracyguide.md': {
+  'reading.md': {
     title: 'Books / Comics / Manga',
     description: 'Books, Comics, Magazines, Newspapers'
   },
@@ -76,11 +76,11 @@ export const headers: Header = {
     title: 'Gaming Tools',
     description: 'Gaming Optimization, Game Launchers, Multiplayer'
   },
-  'devtools.md': {
+  'developer-tools.md': {
     title: 'Developer Tools',
     description: 'Git, Hosting, App Dev, Software Dev'
   },
-  'img-tools.md': {
+  'image-tools.md': {
     title: 'Image Tools',
     description: 'Image Editors, Generators, Compress'
   },
@@ -116,11 +116,11 @@ export const headers: Header = {
     title: 'Storage',
     description: 'Sections too big to fit on main pages'
   },
-  'torrentpiracyguide.md': {
+  'torrenting.md': {
     title: 'Torrenting',
     description: 'Torrent Clients, Torrent Sites, Trackers'
   },
-  'videopiracyguide.md': {
+  'video.md': {
     title: 'Movies / TV / Anime',
     description: 'Stream Videos, Download Videos, Torrent Videos'
   },
@@ -128,7 +128,7 @@ export const headers: Header = {
     title: 'Base64',
     description: 'Base64 storage'
   },
-  'unsafesites.md': {
+  'unsafe.md': {
     title: 'Unsafe Sites',
     description: 'Unsafe/harmful sites to avoid.'
   }

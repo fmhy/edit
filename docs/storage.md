@@ -21,14 +21,14 @@
 * ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[FMHY Startpage](https://fmhy.net/startpage), [r/startpages](https://www.reddit.com/r/startpages/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
+[FMHY Startpage](https://fmhy.net/startpage), [r/startpages](https://www.reddit.com/r/startpages/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage), [Combobox](https://combobox.me)
 
 ### Customizable New Tab Page
 
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue) - Customizable New Tab
-* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr) - Minimalist Startpage
-* [Renewed Tab](https://renewedtab.com/) / [GitLab](https://gitlab.com/renewedtab/renewedtab/) / [Discord](https://discord.gg/zYjR54b) - Customizable New Tab
+* ⭐ **[Mue](https://muetab.com/)** - Customizable New Tab / [GitHub](https://github.com/mue/mue)
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** - Minimalist Startpage / [GitHub](https://github.com/victrme/Bonjourr)
+* [Renewed Tab](https://renewedtab.com/) - Customizable New Tab / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
 
 [mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
 
@@ -89,7 +89,7 @@
 * ⭐ **[vads](https://vads.ac.uk/digital/)**
 * ⭐ **[Arts and Culture](https://artsandculture.google.com/)**
 
-[Painting Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/)
+[Painting Index](https://index-of.eu/Paintings/), [⁠The Met](https://www.metmuseum.org/art/collection), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/), [Frick](https://www.frick.org/art), [RCT](https://www.rct.uk/collection/), [Artic](https://www.artic.edu/collection), [Artvee](https://artvee.com/), [Moma](https://www.moma.org/collection/), [Guggenheim](https://www.guggenheim.org/collection-online), [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=de)
 
 ***
 
@@ -112,14 +112,13 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
-* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)**
+* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)** - Ads. Trackers, Adult, Malware, Gambling & Social Media DNS Protection
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* [Adguard](https://adguard-dns.io/en/public-dns.html)
+* [AdGuard](https://adguard-dns.io/en/public-dns.html)
 * [DNS for Family](https://dnsforfamily.com/)
 * [Hurricane Electric](https://dns.he.net/)
-* [ DNS Bunker](https://dnsbunker.org/)
 * [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)
@@ -132,6 +131,7 @@
 
 ***
 
+* [F0rc3Run](https://f0rc3run.github.io/F0rc3Run-panel/) / [GitHub](https://github.com/F0rc3Run/F0rc3Run)
 * [V2Nodes](https://v2nodes.com/)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
@@ -212,29 +212,14 @@
 * https://librarygenesis.net/ - site list
 * https://libgen.li/ - clone
 * https://libgen.gs/ - clone
-* https://libgen.vg/ - clone
 * https://libgen.la/ - clone
-* https://libgen.bz/ - clone
 * https://rentry.co/m2hkqhwb - Differences between the mirrors
 
 ***
 
 ## LibGen Tools
 
-[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b)
-
-***
-
-## Live Webcams
-
-[EarthCam](https://www.earthcam.com/), [Explore](https://explore.org/), [Opentopia](http://www.opentopia.com/), [WebcamGalore](https://www.webcamgalore.com/), [WebcamTaxi](https://www.webcamtaxi.com/en/), [WorldCams](https://worldcams.tv/), [Worldviewstream](https://worldviewstream.com/), [WorldCam](https://worldcam.eu/), [BalticLiveCam](https://balticlivecam.com/), [SkylineWebcams](https://www.skylinewebcams.com/en.html), [CamStreaner](https://camstreamer.com/live), [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG), [PicTimo](https://www.pictimo.com/), [WXYZWebcams](https://wxyzwebcams.com/), [snoweye](https://www.snoweye.com/), [camscape](https://www.camscape.com/), [whatsupcams](https://www.whatsupcams.com/), [worldcam](https://www.worldcam.pl/), [webcamhopper](https://www.webcamhopper.com/), [explore.org](https://explore.org/livecams), [Windy Webcams](https://www.windy.com/-Webcams/webcams), [Insecam](http://www.insecam.org/en/), [Airport Webcams](https://airportwebcams.net/), [TFLJamCams](https://www.tfljamcams.net/), [seattlesouthside](https://www.seattlesouthside.com/plan-your-trip/webcams/), [portugal-live](https://www.portugal-live.net/en/webcams.html), [livecamcroatia](https://www.livecamcroatia.com/en), [myrtlebeach](https://www.myrtlebeach.com/webcams/), [sootoday](https://www.sootoday.com/webcams), [interlochen](https://www.interlochen.org/webcasts/live-webcams), [whitehouse cam](https://whitehouse.gov1.info/webcam/), [yellowstone cam](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm), [carowinds](https://www.carowinds.com/live-video), [zellamsee](https://www.zellamsee-kaprun.com/en/live/webcams), [wpri](https://www.wpri.com/live-cams/), [hdontap](https://hdontap.com/), [floridakeyswebcams](https://floridakeyswebcams.tv/), [earthtv](https://www.earthtv.com/en), [geocam](https://www.geocam.ru/en/), [livefromiceland](https://livefromiceland.is/), [world-cam](https://en.world-cam.ru/), [mangolinkworld](https://www.mangolinkworld.com/), [mylivestreams](https://www.mylivestreams.com/live-streaming-cams/), [spain-grancanaria](https://www.spain-grancanaria.com/en/images-videos/webcams.html), [visitlondon](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london), [ctsfl](https://www.ctsfl.us/cams/), [aruba](https://www.aruba.com/us/live-webcams-and-channels), [fogcam](https://www.fogcam.org/), [bigrigtravels](https://bigrigtravels.com/), [lochness](https://www.lochness.co.uk/livecam/), [abbeyroad](https://www.abbeyroad.com/crossing), [camsecure](https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html), [worldlivecamera](https://www.worldlivecamera.com/), [liveworldwebcams](https://liveworldwebcams.com/)
-
-### Animal Cams
-
-* [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
-* [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
-
-[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams)
+[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b)
 
 ***
 
@@ -284,31 +269,20 @@
 
 ### Mod / Resource Pack Indexes
 
-* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
-* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
-* [ModBay](https://modbay.org/) - Bedrock Edition Content
-* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes), [2](https://greasyfork.org/en/scripts/445993-modrinthify)
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
+* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
+* [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
 * [Planet Minecraft](https://www.planetminecraft.com/)
-* [MC Archive](https://mcarchive.net/)
-* [FiberMC](https://www.fibermc.com/)
-* [ModpackIndex](https://www.modpackindex.com/)
+* [MC Archive](https://mcarchive.net/) - Old Mods
+* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
+* [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
 
 ## Multireddits
 
 [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/) / [2](https://www.reddit.com/user/nbatman/m/random2/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://www.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Mysteries](https://www.reddit.com/user/nbatman/m/mysteries/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Minimalism](https://www.reddit.com/user/rainbowlemon/m/minimalist_lifestyle/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories), [Chess](https://www.reddit.com/user/korfor/m/chess/), [Engineering](https://www.reddit.com/user/nbatman/m/engineering/)
-
-***
-
-## Music Notation Editors
-
-* ⭐ **[MuseScore](https://musescore.org/)** - Editor
-* [Noteflight](https://noteflight.com/) - Editor
-* [MC Musiceditor](https://www.mcmusiceditor.com/) - Editor
-* [Flat](https://flat.io/) - Editor
-* [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Editor
-* [MusicWorks](https://www.tierramedia.com/) - Editor
 
 ***
 
@@ -369,10 +343,10 @@
 
 ## Presentation Tools
 
-* [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal-Based Presentation Tool
+* [Slides](https://maaslalani.com/slides/) - Terminal-Based Presentation Tool / [GitHub](https://github.com/maaslalani/slides)
 * [⁠Z.ai](https://chat.z.ai/) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
-* [Inscribed](https://inscribed.app/) / [GitHub](https://github.com/chunrapeepat/inscribed) - Sketch-Based Slides
+* [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
 
 [Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/)
 
@@ -392,8 +366,8 @@
 
 ## SMS Verification Sites
 
-* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
+* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
@@ -417,14 +391,14 @@
 ## SVG Icons
 
 * 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Indexes
-* ⭐ **[Iconify](https://iconify.design/)** / [Premium Unlock](https://github.com/Kyutefox/Iconify)
-* ⭐ **[icons8](https://icons8.com/icons)**
+* ⭐ **[Iconify](https://iconify.design/)**
+* ⭐ **[icons8](https://icons8.com/icons)** / [Premium Unlock](https://github.com/Kyutefox/Iconify)
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)**
 * [Dashboard Icons](https://dashboardicons.com/) - Program Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/)
+[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/) / [Premium Unlock](https://github.com/Kyutefox/Iconify), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/)
 
 ***
 

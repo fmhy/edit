@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Warning** - It's best to avoid torrent sites for software and games, including aggregators that use multiple sources, with the exception of a few listed below. Instead use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+* **Warning** - It's best to avoid torrent sites (including aggregators) for software and games, with the exception of RuTracker and m0nkrus. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
 
@@ -12,7 +12,7 @@
 
 * ⭐ **[RuTracker](https://rutracker.org/)** - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[m0nkrus](https://w16.monkrus.ws/)**, [2](https://vk.com/monkrus) - Adobe Software / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[m0nkrus](https://vk.com/monkrus)** - Adobe / Autodesk Software / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **Adobe Tools** - [GenP](https://rentry.co/FMHYBase64#genp) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Adobe Guide](https://rentry.co/FMHYBase64#adobe-guide)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
@@ -33,7 +33,7 @@
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.i2p](http://btdigg.i2p/) / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
+* [⁠Trackly](https://trackly.cc/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
@@ -42,7 +42,6 @@
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
-* [iDope](https://idope.se/)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [PiratesParadise](https://piratesparadise.org/)
@@ -50,6 +49,7 @@
 * [Torlock](https://www.torlock.com/)
 * [YourBittorrent](https://yourbittorrent.com/)
 * [BTSearch](https://btsearch.19950817.xyz/en)
+* [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Search Web App
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) or [TorrentHuntBot](https://t.me/torrenthuntbot) - Telegram Torrent Search Bots
@@ -79,7 +79,7 @@
 
 # ► Torrent Clients
 
-* **Warning** - Make sure you [BIND](https://gist.github.com/VVispy/765c6723436f386ef113040f8fc968b8) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **Warning** - Remember to [bind](https://wispydocs.pages.dev/vpn-binding/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
@@ -114,8 +114,6 @@
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
-* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
-* [QBT Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Google Drive Upload Script
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
 * [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
@@ -126,7 +124,6 @@
 
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - 2GB / Sign-Up Required
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
-* [QBit to Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [How-To](https://rentry.co/TorrentColab) - Google Colab
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB / Sign-Up Required

@@ -39,18 +39,19 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * S0ft4PC / Portable4PC - Caught with malware
 * CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1)
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
-* haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
+* haxNode - Caught with [malware](https://claraiscute.github.io/Guides/scurvy_malware/) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
 * 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw)
 * MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl)
 * Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr)
 * Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
 * AsanDL - Caught with [malware](https://tria.ge/250117-gac5havkaj/)
+* Taiwebs - Caught with [scurvy malware](https://www.virustotal.com/gui/file/86aecdf33978f7335c8596229ef21197baf883dec6c8ad39c44780cb1e052bfd)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
+* P30Download - Uploaded version of malwarbytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1). 
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
-* Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/fmhy/edit/pull/307)
@@ -90,7 +91,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
-* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice)
+* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.github.io/Guides/gshade_notice/)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
 
