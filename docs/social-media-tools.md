@@ -443,7 +443,7 @@
 
 ## ▷ YouTube Archiving
 
-* ⭐ **[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)** - Multi-Site Archive Search / [GitHub](https://github.com/TheTechRobo/youtubevideofinder/)
+* ⭐ **[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)** - Multi-Site Archive Search / Try Refreshing or Re-searching / [GitHub](https://github.com/TheTechRobo/youtubevideofinder/)
 * [Tubeup](https://github.com/bibanon/tubeup) - YouTube Video to IA Uploader
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
@@ -535,7 +535,7 @@
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
 * [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - X.com Community Notes Leaderboard
-* [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
+* [Osomenet](https://osome.iu.edu/tools/osomenet/) - Twitter Info Spread Data
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
 
