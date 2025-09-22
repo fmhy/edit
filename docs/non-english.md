@@ -109,6 +109,8 @@
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
+* [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
+* [⁠JBMovieBD](https://jbmoviebd.shop/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
 
@@ -704,6 +706,9 @@
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
+* [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
+* [⁠emwbd](https://www.emwbd.com/) - Movies / TV / 1080p
+* [FiberMovies](https://fibermovies.beer/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.store/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chromium Required
@@ -1139,6 +1144,7 @@
 
 ## ▷ Torrenting
 
+* 🌐 **[Pirataria Trackers](https://pirataria.link/trackers#🔰-➜-trackers-brasileiros)** - Private Tracker Index
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
@@ -1311,6 +1317,7 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
+* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
@@ -1746,6 +1753,8 @@
 ***
 
 # ► Ukrainian / Українська
+
+* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
 
 ## ▷ Torrenting
 
