@@ -390,10 +390,10 @@
 
 ## SVG Icons
 
-* 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Indexes
-* ⭐ **[Iconify](https://iconify.design/)**
-* ⭐ **[icons8](https://icons8.com/icons)** / [Premium Unlock](https://github.com/Kyutefox/Iconify)
-* ⭐ **[SVG Repo](https://www.svgrepo.com/)**
+* 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Site Indexes
+* ⭐ **[Iconify](https://iconify.design/)** - Icon Collections 
+* ⭐ **[icons8](https://icons8.com/icons)** - Icon Collections / [Premium Unlock](https://github.com/Kyutefox/Iconify)
+* ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * [Dashboard Icons](https://dashboardicons.com/) - Program Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
