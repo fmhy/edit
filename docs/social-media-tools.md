@@ -187,7 +187,6 @@
 
 ***
 
-* [Viddit](https://viddit.red/) - Reddit Video Downloaders
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
 * [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
 
