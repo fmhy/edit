@@ -4,7 +4,6 @@ import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import OptimizeExclude from 'vite-plugin-optimize-exclude'
 import Terminal from 'vite-plugin-terminal'
-import { VitePWA } from 'vite-plugin-pwa'
 import { defineConfig } from 'vitepress'
 import {
   commitRef,
@@ -44,14 +43,11 @@ export default defineConfig({
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/test.png' }],
     // PWA
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'icon', href: '/test.png', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: '/test.png' }],
     ['link', { rel: 'mask-icon', href: '/test.png', color: '#7bc5e4' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     // Bing site verification
     [
       'meta',
@@ -118,58 +114,6 @@ export default defineConfig({
         biomelintrc: {
           enabled: true,
           filepath: './.cache/imports.json'
-        }
-      }),
-      VitePWA({
-        registerType: 'autoUpdate',
-        workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
-          runtimeCaching: [
-            {
-              urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'google-fonts-cache',
-                expiration: {
-                  maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365 // 365 days
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            }
-          ]
-        },
-        manifest: {
-          name: 'FMHY - freemediaheckyeah',
-          short_name: 'FMHY',
-          description: 'The largest collection of free stuff on the internet!',
-          theme_color: '#7bc5e4',
-          background_color: '#ffffff',
-          display: 'standalone',
-          orientation: 'portrait',
-          scope: '/',
-          start_url: '/',
-          icons: [
-            {
-              src: '/fmhy.ico',
-              sizes: '16x16',
-              type: 'image/x-icon'
-            },
-            {
-              src: '/test.png',
-              sizes: '192x192',
-              type: 'image/png',
-              purpose: 'any maskable'
-            },
-            {
-              src: '/test.png',
-              sizes: '512x512',
-              type: 'image/png',
-              purpose: 'any maskable'
-            }
-          ]
         }
       }),
       transformsPlugin(),
