@@ -45,11 +45,11 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/test.png' }],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'icon', href: '/test.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/test.png' }],
-    ['link', { rel: 'mask-icon', href: '/test.png', color: '#7bc5e4' }],
+    ['link', { rel: 'icon', href: '/pwa_icon.png', type: 'image/svg+xml' }],
+    ['link', { rel: 'alternate icon', href: '/pwa_icon.png' }],
+    ['link', { rel: 'mask-icon', href: '/pwa_icon.png', color: '#000000ff' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
-    ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }],
+    ['link', { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     // Bing site verification
@@ -158,13 +158,13 @@ export default defineConfig({
               type: 'image/x-icon'
             },
             {
-              src: '/test.png',
+              src: '/pwa_icon.png',
               sizes: '192x192',
               type: 'image/png',
               purpose: 'any maskable'
             },
             {
-              src: '/test.png',
+              src: '/pwa_icon.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any maskable'
