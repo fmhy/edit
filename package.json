@@ -66,6 +66,7 @@
     "typescript": "^5.8.2",
     "unplugin-auto-import": "^0.18.3",
     "vite-plugin-optimize-exclude": "^0.0.1",
+    "vite-plugin-pwa": "^1.0.3",
     "vite-plugin-terminal": "^1.2.0",
     "wrangler": "^3.114.1"
   },

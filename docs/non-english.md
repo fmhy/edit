@@ -727,7 +727,7 @@
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
-* [Hindi Courses](https://rentry.co/FMHYBase64#hindi-courses)
+* [Hindi Courses](https://rentry.co/FMHYB64#hindi-courses)
 
 ## ▷ Torrenting
 
@@ -894,7 +894,7 @@
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
-* [Doujin Music](https://rentry.co/FMHYBase64#doujin-music) - Music / MP3
+* [Doujin Music](https://rentry.co/FMHYB64#doujin-music) - Music / MP3
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [Perfect Dark](https://perfectdark.benri-tool.net/) - P2P App
@@ -1268,7 +1268,7 @@
 
 * [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
 * [FilmePeAlese](https://www.filmepealese.com/) - Movies / TV / Sub / 720p
-* [lib2life](https://rentry.co/FMHYBase64#lib2life) - Historical Books
+* [lib2life](https://rentry.co/FMHYB64#lib2life) - Historical Books
 
 ## ▷ Streaming
 
@@ -1282,7 +1282,7 @@
 * [Meoo.ro](https://meoo.ro/) - Movies
 * [vezihd](https://vezihd.ro/) - Movies
 * [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime / Sub / 720p
-* [ClickSub](https://clicksud.biz) - Movies / TV / Sub / 720p
+* [ClickSud](https://clicksud.co/) - Movies / TV / Sub / 720p
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [luminsangelsseriale](https://luminsangelsseriale.com/) - Movies / TV
 * [FilmeHD](https://filmehd.se/) - Movies
@@ -1447,7 +1447,7 @@
 * [Fantasy Worlds](https://fantasy-worlds.org/) - Books / Audiobooks
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
-* [Russian Game Mags](https://rentry.co/FMHYBase64#russian-game-mags) - Gaming Magazines
+* [Russian Game Mags](https://rentry.co/FMHYB64#russian-game-mags) - Gaming Magazines
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
 * [mangalib.me](https://mangalib.me/) - Manga
 * [Com-X Life](https://comx.life/mm) - Manga
@@ -1587,7 +1587,7 @@
 * [la12hd](https://la12hd.com/) - Live Sports
 * [Zanex](https://zanex.lat/) - Live Sports
 * [streamtp2](https://streamtp2.com/) - Live Sports
-* [AceStream Links](https://rentry.co/FMHYBase64#acestream) - Live Sports Acestream IDs
+* [AceStream Links](https://rentry.co/FMHYB64#acestream) - Live Sports Acestream IDs
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
@@ -1907,7 +1907,7 @@
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
-* [iptv-ch](https://rentry.co/FMHYBase64#swiss-iptv-playlists) - Swiss / IPTV Resources
+* [iptv-ch](https://rentry.co/FMHYB64#swiss-iptv-playlists) - Swiss / IPTV Resources
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course

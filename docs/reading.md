@@ -23,7 +23,7 @@
 * [eBookBB](https://ebookbb.in/) - Books / Download
 * [iBookPile](https://ibookpile.in/) - Books / Download
 * [AllBooksWorld](https://allbooksworld.com/) - Books / [Telegram](https://t.me/allbooksworlddotcom)
-* [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books / Download
+* [IsIDore](https://rentry.co/FMHYB64#isidore) - Books / Download
 * [Library Land](https://library.land/) - Books / Online Reading
 * [AllFreeBooks](https://allfreebooks.org/) - Book / Download
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
@@ -95,7 +95,7 @@
 
 ## ▷ Calibre Libraries
 
-* ↪️ **[Calibre Libraries](https://rentry.co/FMHYBase64#calibre-libraries)**
+* ↪️ **[Calibre Libraries](https://rentry.co/FMHYB64#calibre-libraries)**
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
 * [opencalibre](https://reddit.com/r/opencalibre) - Community Shared Calibre Libraries
@@ -109,7 +109,7 @@
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYB64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
@@ -166,7 +166,7 @@
 
 ## ▷ Kindle Tools
 
-* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
+* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYB64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
@@ -190,10 +190,10 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [QSL](https://rentry.co/FMHYBase64#qsl) - Ham Radio & Antenna Books
-* [Film Books](https://rentry.co/FMHYBase64#film-books) - Film Books
+* [QSL](https://rentry.co/FMHYB64#qsl) - Ham Radio & Antenna Books
+* [Film Books](https://rentry.co/FMHYB64#film-books) - Film Books
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
-* [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
+* [TTRPG Torrent](https://rentry.co/FMHYB64#ttrpg-books) - TTRPG Books
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 * [Trans Reads](https://transreads.org/) - Transgender-focused Literature
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
@@ -236,7 +236,7 @@
 * [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
 * [ReadNovelFull](https://readnovelfull.com)
 * [FreeWebNovel](https://freewebnovel.com/)
-* [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels) / Allows Downloads
+* [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) / Allows Downloads
 * [NovelNext](https://novelnext.com/)
 * [NovelBuddy](https://novelbuddy.io/), [2](https://novelbuddy.com/)
 * [Wuxia Box](https://www.wuxiabox.com/)
@@ -305,7 +305,7 @@
 * [Newspapers](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
-* [Archive.org Newspapers](https://rentry.co/FMHYBase64#archiveorg-newspapers)
+* [Archive.org Newspapers](https://rentry.co/FMHYB64#archiveorg-newspapers)
 * [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
 * [LA Times](https://latimes.newspapers.com/)
 * [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
@@ -316,16 +316,16 @@
 
 ## ▷ Esoteric / Cultural
 
-* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
-* 🌐 **[Soren Megathread](https://rentry.co/FMHYBase64#soren-megathread)** - Occult / Esoterica
+* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYB64#wilds-occult-ebook-sources)** - Occult / Esoterica
+* 🌐 **[Soren Megathread](https://rentry.co/FMHYB64#soren-megathread)** - Occult / Esoterica
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
-* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
+* ⭐ **[The Exerdex](https://rentry.co/FMHYB64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
-* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
+* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYB64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYB64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
+* [Messy Occult Library](https://rentry.co/FMHYB64#messy-occult-library) - Occult / Esoterica / Gnosticism
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
@@ -337,24 +337,24 @@
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
 * [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
-* [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
+* [Humanitys Vault](https://rentry.co/FMHYB64#humanitys-vault) - Esoterica
 * [Esoteric Archive](https://esotericarchives.com/) - Esoterica
-* [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
+* [Esoterica Drive](https://rentry.co/FMHYB64#archive) - Esoterica
 * [magZtore](https://t.me/magZtore) - Esoterica / Telegram
 * [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
 * [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
 * [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
+* [Azrk's library](https://rentry.co/FMHYB64#azrks-library) - Occult / Esoterica / Satanism / Religion
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
+* [Spirituality Megadrive](https://rentry.co/FMHYB64#spirituality-megadrive)
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
-* [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
-* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
+* [CraftStuff](https://rentry.co/FMHYB64#craftstuff) - Witchcraft
+* [Witchcraft Library](https://rentry.co/FMHYB64#witchcraft-library) - Witchcraft / Paganism
+* [Public Witchcraft Library](https://rentry.co/FMHYB64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
+* [Alchemy Drive](https://rentry.co/FMHYB64#alchemy-drive) - Alchemy
+* [LeftHandPath](https://rentry.co/FMHYB64#lefthandpath) - Luciferianism
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
@@ -493,13 +493,13 @@
 * [MangaHaven](https://mangahaven.net/)
 * [MangaKatana](https://mangakatana.com/)
 * [MangaFire](https://mangafire.to/) / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
+* [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [MangaNato](https://www.manganato.gg/), [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Rive Manga](https://rivestream.org/manga)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYBase64#madokami)
+* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHasu](https://mangahasu.me/)
 * [mangapill](https://mangapill.com/)
@@ -566,10 +566,11 @@
 * ⭐ **[Openstax](https://openstax.org/)** or [OpenStax College Textbooks](https://philschatz.com/books/)
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
-* [Library Drive](https://rentry.co/FMHYBase64#library-drive)
+* [Library Drive](https://rentry.co/FMHYB64#library-drive)
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
+* [Taleem360](https://www.taleem360.com/)
 * [LibreTexts](https://one.libretexts.org/home), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
@@ -579,7 +580,7 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [VDOC.PUB](https://vdoc.pub/)
-* [Various Books](https://rentry.co/FMHYBase64#various-books-manuals)
+* [Various Books](https://rentry.co/FMHYB64#various-books-manuals)
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
@@ -626,10 +627,10 @@
 ## ▷ STEM Resources
 
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
-* [Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)
+* [Math and Physics Books](https://rentry.co/FMHYB64#math-and-physics-books)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYB64#astronomy-physics) - Books / Notes / Astronomy / Physics
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
@@ -640,7 +641,7 @@
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
 * [PDFiles](https://www.pdfiles.net/) - IT Books
-* [IT Book Drive](https://rentry.co/FMHYBase64#it-books-drive) - IT Books
+* [IT Book Drive](https://rentry.co/FMHYB64#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 
 ***
@@ -666,7 +667,7 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [ToposText](https://topostext.org/) - Historical Greek Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [History Newsboys of 1899](https://rentry.co/FMHYBase64#history-newsboys-of-1899) - Books / Documents
+* [History Newsboys of 1899](https://rentry.co/FMHYB64#history-newsboys-of-1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [HornTip](https://www.horntip.com/) - Military Songbooks
