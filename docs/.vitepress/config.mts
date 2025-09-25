@@ -146,7 +146,7 @@ export default defineConfig({
           short_name: 'FMHY',
           description: 'The largest collection of free stuff on the internet!',
           theme_color: '#000000ff',
-          background_color: '#ffffff',
+          background_color: '#000000ff',
           display: 'standalone',
           orientation: 'portrait',
           scope: '/',
