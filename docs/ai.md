@@ -299,7 +299,7 @@
 * [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Discord Only / Check #How-To / End-Watermark / [GitHub](https://github.com/lm-sys/FastChat)
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
-
+* [InfiniteTalk](https://www.infinitetalk.net/) - AI Lip-sync Video Generator
 ***
 
 # ► Image Generation
