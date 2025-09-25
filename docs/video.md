@@ -25,6 +25,7 @@
 * [StreamM4u](https://streamm4u.com.co/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [BFLIX](https://bflix.sh/) - Movies / TV
 * [MovieHD](https://moviehd.us) - Movies / [Telegram](https://t.me/+NthvAOpP0oNkMWU1)
+* [YesMoviesHub](https://yesmovieshub.online) — Movies / TV / Anime / No Sign Up
 * [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / 3rd Party Hosts
 * [StreamDB](https://streamdb.online/) - Movies / TV / 3rd Party Hosts / [Telegram](https://t.me/streamdb_online)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
