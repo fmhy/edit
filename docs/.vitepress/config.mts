@@ -145,7 +145,7 @@ export default defineConfig({
           name: 'FMHY - freemediaheckyeah',
           short_name: 'FMHY',
           description: 'The largest collection of free stuff on the internet!',
-          theme_color: '#7bc5e4',
+          theme_color: '#000000ff',
           background_color: '#ffffff',
           display: 'standalone',
           orientation: 'portrait',
