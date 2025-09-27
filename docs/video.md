@@ -89,7 +89,7 @@
 
 ***
 
-* ⭐ **[yFlix](https://yflix.to/)** or [1Movies](https://1movies.bz/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
+* ⭐ **[yFlix](https://yflix.to/)** or [1Movies](https://1mot4tsavies.bz/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: `fmhy` / Sign-Up Required
 * ⭐ **[Qstream](https://qstream.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
@@ -660,6 +660,7 @@
 * [⁠T4TSA](https://t4tsa.cc/) - Movies / TV / Telegram Required
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
+* [⁠Cinefy](https://thecinefy.site/) - Movies / TV / Telegram Required
 
 ***
 
