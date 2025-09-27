@@ -583,7 +583,7 @@
 * [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
 * [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - ChatGPT in Neovim
-* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](http://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](http://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins / [GitHub](https://github.com/vim-awesome/vim-awesome)
 * [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
