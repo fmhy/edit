@@ -442,7 +442,7 @@
 ## ▷ Comics
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[BatCave](https://batcave.biz/)** - Sign-Up Required in Some Locations
+* ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
