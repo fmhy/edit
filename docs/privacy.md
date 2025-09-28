@@ -399,6 +399,7 @@
 ***
 
 # ► Proxy
+
 * [Psiphon](https://psiphon.ca/) - Hybrid Proxy VPN App
 * [Lantern](https://lantern.io/) - Proxy App / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks App / [GitHub](https://github.com/unredacted/freesocks-control-plane)
@@ -409,7 +410,8 @@
 
 ***
 
-## ▷ Proxy Server
+## ▷ Proxy Servers
+
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Server Setup
 * ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / [Note]()For strict ISP/ country use domain and cert for hardening to https before creating any 'inbounds' proxies. 
 * ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - Xray Proxy Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
@@ -426,7 +428,8 @@
 
 ***
 
-## ▷ Proxy Client
+## ▷ Proxy Clients
+
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, macOS, Linux 
 * ⭐ **[NekoBoxForAndroid](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Proxy Client / Android
@@ -444,7 +447,8 @@
 
 ***
 
-### ▷ Anti Censorship 
+## ▷ Anti Censorship
+
 * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng/#wiki_.25B7_gfw_bypass)**
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tool 
@@ -470,7 +474,7 @@
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Szvy Central](https://szvy.lol/), [2](https://play.szvy.win/), [3](https://studying-central.global.ssl.fastly.net/), [4](https://zearn.global.ssl.fastly.net/)
-* [Google Translate](https://translate.google.com/) / [Note]()Google translate can serve as a web proxy. Simply paste your URL into the translate field and then click on the result and view the page in the original language. This way you can navigate any web-page via google.com. Google is almost never blocked so this trick works on most occasions.
+* [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-translate-note)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies
