@@ -413,7 +413,7 @@
 ## ▷ Proxy Servers
 
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Server Setup
-* ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / [Note]()For strict ISP/ country use domain and cert for hardening to https before creating any 'inbounds' proxies. 
+* ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#3x-ui)
 * ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - Xray Proxy Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Chromium-based Proxy
 * [Hysteria](https://v2.hysteria.network/) - Speed Focused Proxy Protocol / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
