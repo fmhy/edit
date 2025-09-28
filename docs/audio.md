@@ -379,7 +379,6 @@
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3
 * [Music_Hunters](https://t.me/MusicsHuntersbot) - Deezer / 320kb MP3
 * [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kb MP3
-* [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Spotify / 160kb MP3
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / 128kb MP3
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
 * [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
@@ -561,7 +560,6 @@
 * [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [KDramaOST](https://kdramaost.com/en/) - KDrama Soundtracks
-* [Animal Crossing Radio](https://animal-crossing-radio.com/) - Animal Crossing Radio
 * [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [JMAX](https://discord.gg/hCw8VqJV8J), [OSAnime](https://osanime.com/) or [Anime Sharing](https://koe.anime-sharing.com/) - Anime Soundtracks
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music
 * [AMV](https://www.animemusicvideos.org/) - Anime Music Videos
@@ -592,6 +590,7 @@
 * [NSF j](https://nsf.nesbbs.com/) - NES Music
 * [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
 * [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Music
+* [Animal Crossing Radio](https://animal-crossing-radio.com/) - Animal Crossing Radio
 * [GTA Radio Stations Music](https://rentry.co/FMHYB64#gta-radio-stations) - GTA Radio Stations
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database

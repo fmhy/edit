@@ -321,7 +321,7 @@
 ## ▷ Navigation / Transport
 
 * ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps) or [Mapy](https://en.mapy.cz/) - Online / Offline Maps
-* ⭐ **[Comaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
+* ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
@@ -1087,7 +1087,7 @@
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
-* [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool
+* [Compare Sizes](https://comparesizes.com/) or [⁠SizeR.jp](https://sizer.jp/) - Compare Sizes of Anything
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [80's](https://weatherstar3000.netbymatt.com/) / [GitHub](https://github.com/MistWeatherMedia/)

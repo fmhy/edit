@@ -293,9 +293,9 @@
 * [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [Hailuo AI](https://hailuoai.video/) - Unlimited / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / Sora / No Image Input
 * [⁠FastVideo](https://fastwan.fastvideo.org/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
+* [Hailuo AI](https://hailuoai.video/) / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Vivago](https://vivago.ai/) - 1 Daily
 * [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Discord Only / Check #How-To / End-Watermark / [GitHub](https://github.com/lm-sys/FastChat)
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required

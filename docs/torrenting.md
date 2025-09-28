@@ -157,7 +157,6 @@
 * ⭐ **[PreDB.net](https://predb.net/)**, **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
-* [⁠mkbrr](https://mkbrr.com/) - Torrent Creator / Manager / [GitHub](https://github.com/autobrr/mkbrr)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
@@ -168,7 +167,7 @@
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
 * [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
-* [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) - Browser Torrent Creator / [GitHub](https://github.com/Kimbatt/torrent-creator)
+* [⁠TorrentTools](https://github.com/fbdtemme/torrenttools), [⁠mkbrr](https://mkbrr.com/) / [GitHub](https://github.com/autobrr/mkbrr) or [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) / [GitHub](https://github.com/Kimbatt/torrent-creator) - Torrent Creators
 * [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
 * [r/torrents](https://reddit.com/r/torrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)

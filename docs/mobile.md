@@ -363,7 +363,7 @@
 * [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea) - Image Editor
 * [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Image Editor
 * [PhotoLayers](https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers) - Image Editor
-* [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor) - Image Editor
+* [Photo Editor](https://www.iudesk.com/) - Image Editor
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
 * [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
@@ -838,6 +838,7 @@
 * [AIMP](https://www.aimp.ru/?do=download&os=android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
 * [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+* [Rhythm](https://rhythmweb.vercel.app/) / [GitHub](https://github.com/cromaguy/Rhythm)
 * [Symphony](https://zyrouge.github.io/symphony/)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
 * [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
@@ -923,7 +924,7 @@
 * [Movie HD](https://rentry.co/FMHYB64#movie-hd) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://rentry.co/FMHYB64#vivatv) - Movies / TV / Requires TPlayer
 * [OnStream](https://rentry.co/FMHYB64#onstream) - Movies / TV / Requires SPlayer
-* [PopcornTime](https://popcorn-time.site) - Torrent Streaming / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [GitHub](https://github.com/popcorn-official/popcorn-android)
+* [PopcornTime](https://popcorn-time.site) - Torrent Streaming / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [FilmPlus](https://rentry.co/FMHYB64#filmplus) - Movies / TV / Requires BPlayer
 * [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Plugins](https://discord.com/invite/7yPSPveReu)
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV

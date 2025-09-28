@@ -480,6 +480,7 @@
 
 ## ▷ Raspberry Pi
 
+* 🌐 **[Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)** - Raspberry Pi Tools / Resources
 * [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi

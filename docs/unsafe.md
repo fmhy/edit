@@ -87,7 +87,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Avira - Owned by Gen Digital
 * CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
-* BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
+* BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated

@@ -975,7 +975,7 @@
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
 * ⭐ **[OpenVim](https://openvim.com/)** or [Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
-* ⭐ **[StarSQL](https://selectstarsql.com/)** or [Learn SQL](https://sqlbolt.com/) - SQL Lessons
+* ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
 * [Beej's Guide to Git](https://beej.us/guide//) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
