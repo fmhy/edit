@@ -137,6 +137,9 @@
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
 * [VPN Jantit](https://www.vpnjantit.com/)
+* [Shadowmere](https://shadowmere.xyz) - Shadowsocks
+* [FreeSocks](https://freesocks.org/) - Shadowsocks / [GitHub](https://github.com/unredacted/freesocks-control-plane)
+* [Hi!Load VPN](https://t.me/hlvpnbot) - 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
 * [sshOcean](https://sshocean.com/), [2](https://sshocean.net/)
 * [FreeVPN](https://www.freevpn.us/)
 * [Goodssh](https://www.goodssh.com/)
