@@ -875,25 +875,25 @@
 
 ***
 
-## ▷ Sign Language
+## ▷ Sign Languages
 
-* ⭐ **[SpreadTheSign](https://spreadthesign.com/)** - Sign Langauge Dictionary
-* [ASL Dictionary](https://www.signasl.org/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Langauge Dictionaries
-* [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Sign Language
+* ⭐ **[SpreadTheSign](https://spreadthesign.com/)** - Multi-Language Dictionary
+* [ASL Dictionary](https://www.signasl.org/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
+* [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Fingerspelling in ASL or BSL
 * [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/) - ASL / LSF / Click Dictionary
-* [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Langauge Dictionaries
-* [Signbank](https://auslan.org.au/) - Australian Sign Langauge Dictionary
-* [NZSL](https://nzsl.nz/) - New Zealand Sign Langauge Dictionary
+* [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
+* [Signbank](https://auslan.org.au/) - Australian Sign Language Dictionary
+* [NZSL](https://nzsl.nz/) - New Zealand Sign Language Dictionary
 * [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
 * [BKS](https://bks.org.uk/) - British Key Word Signs
 * [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
-* [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized Sign Langauge Dictionary
-* [SignSchool](https://www.signschool.com/) - Sign Language Learning / Dictionary
+* [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized ASL Dictionary
+* [SignSchool](https://www.signschool.com/) - ASL Learning / Dictionary
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
-* [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet / Chromium
-* [Signs](https://signs-ai.com/) - Sign Language Learning AI
+* [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
+* [Signs](https://signs-ai.com/) - ASL Learning AI
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 
 ***
