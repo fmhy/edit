@@ -483,7 +483,7 @@
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
-* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Discord](https://discord.com/invite/batoto)
+* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Mirrors](https://batotomirrors.pages.dev/) / [Discord](https://discord.com/invite/batoto)
 * ⭐ **[MangaPark](https://mangapark.net/)** / [Proxies](https://mangaparkmirrors.pages.dev/) / [Discord](https://discord.gg/jctSzUBWyQ)
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
@@ -875,7 +875,7 @@
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Rating / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Rating / Tracking / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaBaka](https://mangabaka.dev/)** - Multi-Site Manga / Novel Database / [Discord](https://mangabaka.dev/discord)
+* ⭐ **[MangaBaka](https://mangabaka.dev/)** - Multi-Site Manga / Novel Database / Ratingss / Tracking / [Discord](https://mangabaka.dev/discord)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Rating / Releases
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
@@ -961,7 +961,6 @@
 * [⁠IPDL](https://ipdl.cat/) - Monitor Digital Library Torrent Health
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
-* [Book Scraper](https://gitlab.com/minecraftpiston/book-scraper) - RoyalRoad / ScribbleHub Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
 * [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
