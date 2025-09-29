@@ -84,11 +84,13 @@
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
+* [⁠OfflineConvert](https://www.offlineconvert.com/) - File Converter
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
 * [MiConv](https://miconv.com/) - File Converter / 75MB
+
 
 ***
 
