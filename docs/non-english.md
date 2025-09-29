@@ -551,7 +551,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Megakino](https://megakino.moi/)** - Movies / TV / Dub / 1080p / Search Requires IPV6
+* ⭐ **[Megakino](https://megakino.moi/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[S.TO](https://s.to/)**, [2](https://serienstream.to/) - TV / Anime / Dub / 720p
