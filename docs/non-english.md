@@ -465,7 +465,6 @@
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.me/) / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Status](https://movix.website/)
 * [Darkiworld](https://darkiworld11.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
-* [cinepulse](https://cinepulse.to/) - Movies / TV / Anime
 * [xalaflix](https://xalaflix.gg/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.fr/r%C3%A9pertoire.html) / [Discord](https://discord.gg/7myEXg2tQF)
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [coflix](https://coflix.cc/) - Movies / TV / Anime / [Status](https://t.me/+3i7POlIHqqVmMWMx)
