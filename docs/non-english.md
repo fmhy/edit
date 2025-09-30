@@ -1010,6 +1010,7 @@
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [IranFirewall](https://viewdns.info/iranfirewall/) - Iranian Firewall Block Test
+* [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](https://www.parseek.com/) - Search
 
