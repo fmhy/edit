@@ -8,7 +8,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: Oct 2025 Updates 🎃
-    link: /posts/Oct-2025
+    link: /posts/oct-2025
   image:
     src: /test.png
     alt: FMHY Icon
