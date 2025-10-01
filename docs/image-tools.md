@@ -225,7 +225,6 @@
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Templates
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [iFake](https://ifaketextmessage.com/) - Fake Text Conversation Creator
-* [Wojak Studio](https://wojak-studio.com/) - Wojak Meme Creator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
 * [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator

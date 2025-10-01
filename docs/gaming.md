@@ -485,6 +485,7 @@
 ## ▷ Crosswords
 
 * ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
+* [⁠Down for a Cross](https://downforacross.com/) - Crossword Puzzles
 * [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
 * [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords / [Discord](https://discord.gg/PwvKmJE6Xp)
 * [Truncate](https://truncate.town/) - Crossword Strategy Game

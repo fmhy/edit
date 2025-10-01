@@ -460,7 +460,7 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)**, **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) or [Switchway](https://switchway.net/) - Homebrew Guides
+* ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)** or **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) - Homebrew Guides
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
