@@ -206,7 +206,7 @@
 
 * [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
 
-[WaniKani](https://www.wanikani.com/), [KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
+[KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
 
 ***
 
