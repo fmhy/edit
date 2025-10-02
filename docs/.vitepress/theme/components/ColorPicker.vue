@@ -56,19 +56,38 @@ const updateThemeColor = (colorName: ColorNames) => {
 
   // Add darker background for Halloween theme
   const halloweenBgOverride = colorName === 'halloween' ? `
-    --vp-c-bg: rgb(20, 20, 20);
-    --vp-c-bg-alt: rgb(18, 18, 18);
-    --vp-c-bg-elv: rgba(18, 18, 18, 0.8);
-    --vp-home-hero-bg: rgb(20, 20, 20);
-    --vp-c-bg-soft: rgb(18, 18, 18);
+    --vp-c-bg: rgb(20, 20, 20) !important;
+    --vp-c-bg-alt: rgb(18, 18, 18) !important;
+    --vp-c-bg-elv: rgba(18, 18, 18, 0.8) !important;
+    --vp-c-bg-soft: rgb(18, 18, 18) !important;
   ` : ''
 
   const halloweenDarkBgOverride = colorName === 'halloween' ? `
-    --vp-c-bg: rgb(15, 15, 15);
-    --vp-c-bg-alt: rgb(12, 12, 12);
-    --vp-c-bg-elv: rgba(12, 12, 12, 0.8);
-    --vp-home-hero-bg: rgb(15, 15, 15);
-    --vp-c-bg-soft: rgb(12, 12, 12);
+    --vp-c-bg: rgb(15, 15, 15) !important;
+    --vp-c-bg-alt: rgb(12, 12, 12) !important;
+    --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
+    --vp-c-bg-soft: rgb(12, 12, 12) !important;
+  ` : ''
+
+  const halloweenBodyOverride = colorName === 'halloween' ? `
+    body {
+      background-color: rgb(20, 20, 20) !important;
+    }
+    .dark body {
+      background-color: rgb(15, 15, 15) !important;
+    }
+    .Layout {
+      background-color: rgb(20, 20, 20) !important;
+    }
+    .dark .Layout {
+      background-color: rgb(15, 15, 15) !important;
+    }
+    .VPHome {
+      background-color: rgb(20, 20, 20) !important;
+    }
+    .dark .VPHome {
+      background-color: rgb(15, 15, 15) !important;
+    }
   ` : ''
 
   css.value = `
@@ -89,6 +108,8 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-soft: ${colorSet[300]};
       ${halloweenDarkBgOverride}
     }
+
+    ${halloweenBodyOverride}
   `
 
   // Add/remove Halloween theme indicator
