@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
-import { watch } from 'vue'
+import { watch, onMounted } from 'vue'
 
 // Add Halloween colors locally
 const halloweenColors = {
@@ -85,9 +85,13 @@ const updateThemeColor = (colorName: ColorNames) => {
 updateThemeColor(selectedColor.value)
 
 // halloween stuff
-if (selectedColor.value === 'halloween') {
-  document.documentElement.setAttribute('data-halloween-theme', 'true')
-}
+onMounted(() => {
+  if (selectedColor.value === 'halloween') {
+    document.documentElement.setAttribute('data-halloween-theme', 'true')
+  }
+  // Re-apply the theme to ensure everything is initialized
+  updateThemeColor(selectedColor.value)
+})
 
 watch(selectedColor, updateThemeColor)
 
