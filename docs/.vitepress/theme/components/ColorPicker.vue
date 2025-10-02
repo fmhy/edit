@@ -87,6 +87,21 @@ const updateThemeColor = (colorName: ColorNames) => {
     --vp-button-brand-hover-text: rgba(42, 40, 47) !important;
   ` : ''
 
+  const nonHalloweenBodyOverride = colorName !== 'halloween' ? `
+    body {
+      background-color: rgb(26, 26, 26) !important;
+    }
+    .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+      background-color: rgb(26, 26, 26) !important;
+    }
+    .dark body {
+      background-color: rgb(26, 26, 26) !important;
+    }
+    .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+      background-color: rgb(26, 26, 26) !important;
+    }
+  ` : ''
+
   css.value = `
     :root {
       ${cssVars}
@@ -105,6 +120,8 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-soft: ${colorSet[300]};
       ${nonHalloweenDarkOverride}
     }
+
+    ${nonHalloweenBodyOverride}
   `
 
   // Add/remove Halloween theme indicator
