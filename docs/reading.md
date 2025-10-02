@@ -331,7 +331,6 @@
 * [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
 * [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Esoteric Books](https://rentry.co/FMHYB64#esoteric-content) - Esoterica
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
@@ -560,7 +559,6 @@
 * [OAPEN](https://oapen.org/)
 * [VDOC.PUB](https://vdoc.pub/)
 * [Sciarium](https://sciarium.com/)
-* [Educational Books](https://rentry.co/FMHYB64#edu-content)
 * [OpenED](https://open.bccampus.ca/)
 * [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
