@@ -54,6 +54,19 @@ const updateThemeColor = (colorName: ColorNames) => {
     .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
     .join('\n    ')
 
+  // Add darker background for Halloween theme
+  const halloweenBgOverride = colorName === 'halloween' ? `
+    --vp-c-bg: rgb(20, 20, 20);
+    --vp-c-bg-alt: rgb(18, 18, 18);
+    --vp-c-bg-elv: rgba(18, 18, 18, 0.8);
+  ` : ''
+
+  const halloweenDarkBgOverride = colorName === 'halloween' ? `
+    --vp-c-bg: rgb(15, 15, 15);
+    --vp-c-bg-alt: rgb(12, 12, 12);
+    --vp-c-bg-elv: rgba(12, 12, 12, 0.8);
+  ` : ''
+
   css.value = `
     :root {
       ${cssVars}
@@ -61,6 +74,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[600]};
       --vp-c-brand-3: ${colorSet[800]};
       --vp-c-brand-soft: ${colorSet[400]};
+      ${halloweenBgOverride}
     }
 
     .dark {
@@ -69,6 +83,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[500]};
       --vp-c-brand-3: ${colorSet[700]};
       --vp-c-brand-soft: ${colorSet[300]};
+      ${halloweenDarkBgOverride}
     }
   `
 

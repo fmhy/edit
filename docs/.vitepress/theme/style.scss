@@ -104,17 +104,6 @@
   --vp-custom-block-halloween-text-deep: var(--halloween-200);
 }
 
-/* Halloween theme background override */
-:root:has([data-halloween-theme]) {
-  --vp-c-bg: rgb(20, 20, 20);
-  --vp-c-bg-alt: rgb(18, 18, 18);
-}
-
-.dark:has([data-halloween-theme]) {
-  --vp-c-bg: rgb(18, 18, 18);
-  --vp-c-bg-alt: rgb(15, 15, 15);
-}
-
 .vp-doc a {
   color: var(--vp-c-brand-1);
   text-decoration: underline;
