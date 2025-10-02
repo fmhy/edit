@@ -60,6 +60,10 @@ const updateThemeColor = (colorName: ColorNames) => {
     --vp-c-bg-alt: rgb(18, 18, 18) !important;
     --vp-c-bg-elv: rgba(18, 18, 18, 0.8) !important;
     --vp-c-bg-soft: rgb(18, 18, 18) !important;
+    --vp-button-alt-bg: #a855f7 !important;
+    --vp-button-alt-text: #fff !important;
+    --vp-button-alt-hover-bg: #9333ea !important;
+    --vp-button-alt-hover-text: #fff !important;
   ` : ''
 
   const halloweenDarkBgOverride = colorName === 'halloween' ? `
@@ -67,6 +71,10 @@ const updateThemeColor = (colorName: ColorNames) => {
     --vp-c-bg-alt: rgb(12, 12, 12) !important;
     --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
     --vp-c-bg-soft: rgb(12, 12, 12) !important;
+    --vp-button-alt-bg: #8b5cf6 !important;
+    --vp-button-alt-text: #e9d5ff !important;
+    --vp-button-alt-hover-bg: #a855f7 !important;
+    --vp-button-alt-hover-text: #fff !important;
   ` : ''
 
   const halloweenBodyOverride = colorName === 'halloween' ? `
@@ -76,16 +84,28 @@ const updateThemeColor = (colorName: ColorNames) => {
     .dark body {
       background-color: rgb(15, 15, 15) !important;
     }
-    .Layout {
+    .Layout, .VPApp, .VPContent {
       background-color: rgb(20, 20, 20) !important;
     }
-    .dark .Layout {
+    .dark .Layout, .dark .VPApp, .dark .VPContent {
       background-color: rgb(15, 15, 15) !important;
     }
-    .VPHome {
+    .VPHome, .VPHero {
       background-color: rgb(20, 20, 20) !important;
     }
-    .dark .VPHome {
+    .dark .VPHome, .dark .VPHero {
+      background-color: rgb(15, 15, 15) !important;
+    }
+    html {
+      background-color: rgb(20, 20, 20) !important;
+    }
+    .dark html {
+      background-color: rgb(15, 15, 15) !important;
+    }
+    #app {
+      background-color: rgb(20, 20, 20) !important;
+    }
+    .dark #app {
       background-color: rgb(15, 15, 15) !important;
     }
   ` : ''
