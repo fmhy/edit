@@ -54,62 +54,6 @@ const updateThemeColor = (colorName: ColorNames) => {
     .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
     .join('\n    ')
 
-  // Add darker background for Halloween theme
-  const halloweenBgOverride = colorName === 'halloween' ? `
-    --vp-c-bg: rgb(20, 20, 20) !important;
-    --vp-c-bg-alt: rgb(18, 18, 18) !important;
-    --vp-c-bg-elv: rgba(18, 18, 18, 0.8) !important;
-    --vp-c-bg-soft: rgb(18, 18, 18) !important;
-    --vp-button-alt-bg: #a855f7 !important;
-    --vp-button-alt-text: #fff !important;
-    --vp-button-alt-hover-bg: #9333ea !important;
-    --vp-button-alt-hover-text: #fff !important;
-  ` : ''
-
-  const halloweenDarkBgOverride = colorName === 'halloween' ? `
-    --vp-c-bg: rgb(15, 15, 15) !important;
-    --vp-c-bg-alt: rgb(12, 12, 12) !important;
-    --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
-    --vp-c-bg-soft: rgb(12, 12, 12) !important;
-    --vp-button-alt-bg: #8b5cf6 !important;
-    --vp-button-alt-text: #e9d5ff !important;
-    --vp-button-alt-hover-bg: #a855f7 !important;
-    --vp-button-alt-hover-text: #fff !important;
-  ` : ''
-
-  const halloweenBodyOverride = colorName === 'halloween' ? `
-    body {
-      background-color: rgb(20, 20, 20) !important;
-    }
-    .dark body {
-      background-color: rgb(15, 15, 15) !important;
-    }
-    .Layout, .VPApp, .VPContent {
-      background-color: rgb(20, 20, 20) !important;
-    }
-    .dark .Layout, .dark .VPApp, .dark .VPContent {
-      background-color: rgb(15, 15, 15) !important;
-    }
-    .VPHome, .VPHero {
-      background-color: rgb(20, 20, 20) !important;
-    }
-    .dark .VPHome, .dark .VPHero {
-      background-color: rgb(15, 15, 15) !important;
-    }
-    html {
-      background-color: rgb(20, 20, 20) !important;
-    }
-    .dark html {
-      background-color: rgb(15, 15, 15) !important;
-    }
-    #app {
-      background-color: rgb(20, 20, 20) !important;
-    }
-    .dark #app {
-      background-color: rgb(15, 15, 15) !important;
-    }
-  ` : ''
-
   css.value = `
     :root {
       ${cssVars}
@@ -117,7 +61,6 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[600]};
       --vp-c-brand-3: ${colorSet[800]};
       --vp-c-brand-soft: ${colorSet[400]};
-      ${halloweenBgOverride}
     }
 
     .dark {
@@ -126,10 +69,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[500]};
       --vp-c-brand-3: ${colorSet[700]};
       --vp-c-brand-soft: ${colorSet[300]};
-      ${halloweenDarkBgOverride}
     }
-
-    ${halloweenBodyOverride}
   `
 
   // Add/remove Halloween theme indicator
