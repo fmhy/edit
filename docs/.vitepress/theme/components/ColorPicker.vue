@@ -56,9 +56,9 @@ const updateThemeColor = (colorName: ColorNames) => {
 
   // if user isnt using halloween theme switch it
   const nonHalloweenOverride = colorName !== 'halloween' ? `
-    --vp-c-bg: rgb(26, 26, 26) !important;
-    --vp-c-bg-alt: rgb(23, 23, 23) !important;
-    --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
+    --vp-c-bg: #ffffff !important;
+    --vp-c-bg-alt: #f9f9f9 !important;
+    --vp-c-bg-elv: rgba(255, 255, 255, 0.7) !important;
     --vp-button-alt-bg: #484848 !important;
     --vp-button-alt-text: #f0eeee !important;
     --vp-button-alt-hover-bg: #484848 !important;
@@ -89,10 +89,10 @@ const updateThemeColor = (colorName: ColorNames) => {
 
   const nonHalloweenBodyOverride = colorName !== 'halloween' ? `
     body {
-      background-color: rgb(26, 26, 26) !important;
+      background-color: #ffffff !important;
     }
     .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
-      background-color: rgb(26, 26, 26) !important;
+      background-color: #ffffff !important;
     }
     .dark body {
       background-color: rgb(26, 26, 26) !important;
