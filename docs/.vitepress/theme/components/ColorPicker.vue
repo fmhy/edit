@@ -3,6 +3,27 @@ import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
 import { watch } from 'vue'
 
+// Add Halloween colors locally
+const halloweenColors = {
+  50: '#fff7ed',
+  100: '#ffedd5',
+  200: '#fed7aa',
+  300: '#fdba74',
+  400: '#fb923c',
+  500: '#FF6A00',
+  600: '#ea580c',
+  700: '#c2410c',
+  800: '#9a3412',
+  900: '#7c2d12',
+  950: '#431407'
+}
+
+// Extend colors with Halloween theme
+const extendedColors = {
+  ...colors,
+  halloween: halloweenColors
+}
+
 const colorScales = [
   '50',
   '100',
@@ -17,17 +38,17 @@ const colorScales = [
   '950'
 ] as const
 
-type ColorNames = keyof typeof colors
+type ColorNames = keyof typeof extendedColors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 
-const colorOptions = Object.keys(colors).filter(
-  (key) => typeof colors[key as keyof typeof colors] === 'object'
+const colorOptions = Object.keys(extendedColors).filter(
+  (key) => typeof extendedColors[key as keyof typeof extendedColors] === 'object'
 ) as Array<ColorNames>
 
 const { css } = useStyleTag('', { id: 'brand-color' })
 
 const updateThemeColor = (colorName: ColorNames) => {
-  const colorSet = colors[colorName]
+  const colorSet = extendedColors[colorName]
 
   const cssVars = colorScales
     .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
@@ -75,7 +96,7 @@ const normalizeColorName = (colorName: string) =>
         >
           <span
             class="inline-block w-6 h-6 rounded-full"
-            :style="{ backgroundColor: colors[color][500] }"
+            :style="{ backgroundColor: extendedColors[color][500] }"
           />
         </button>
       </div>
