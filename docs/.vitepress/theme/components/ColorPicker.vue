@@ -71,6 +71,14 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-soft: ${colorSet[300]};
     }
   `
+
+  // Add/remove Halloween theme indicator
+  const htmlElement = document.documentElement
+  if (colorName === 'halloween') {
+    htmlElement.setAttribute('data-halloween-theme', 'true')
+  } else {
+    htmlElement.removeAttribute('data-halloween-theme')
+  }
 }
 
 // Initialize theme color
