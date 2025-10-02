@@ -10,7 +10,7 @@ hero:
     title: Oct 2025 Updates 🎃
     link: /posts/oct-2025
   image:
-    src: /test.png
+    src: /hall.png
     alt: FMHY Icon
   actions:
     - theme: brand
