@@ -84,6 +84,11 @@ const updateThemeColor = (colorName: ColorNames) => {
 // Initialize theme color
 updateThemeColor(selectedColor.value)
 
+// halloween stuff
+if (selectedColor.value === 'halloween') {
+  document.documentElement.setAttribute('data-halloween-theme', 'true')
+}
+
 watch(selectedColor, updateThemeColor)
 
 const normalizeColorName = (colorName: string) =>
