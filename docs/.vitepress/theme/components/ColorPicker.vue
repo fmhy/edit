@@ -54,6 +54,39 @@ const updateThemeColor = (colorName: ColorNames) => {
     .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
     .join('\n    ')
 
+  // if user isnt using halloween theme switch it
+  const nonHalloweenOverride = colorName !== 'halloween' ? `
+    --vp-c-bg: rgb(26, 26, 26) !important;
+    --vp-c-bg-alt: rgb(23, 23, 23) !important;
+    --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
+    --vp-button-alt-bg: #484848 !important;
+    --vp-button-alt-text: #f0eeee !important;
+    --vp-button-alt-hover-bg: #484848 !important;
+    --vp-button-alt-hover-text: #f0eeee !important;
+    --vp-button-brand-bg: var(--vp-c-brand-1) !important;
+    --vp-button-brand-border: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-text: rgba(42, 40, 47) !important;
+    --vp-button-brand-hover-bg: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-hover-border: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-hover-text: rgba(42, 40, 47) !important;
+  ` : ''
+
+  const nonHalloweenDarkOverride = colorName !== 'halloween' ? `
+    --vp-c-bg: rgb(26, 26, 26) !important;
+    --vp-c-bg-alt: rgb(23, 23, 23) !important;
+    --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
+    --vp-button-alt-bg: #484848 !important;
+    --vp-button-alt-text: #f0eeee !important;
+    --vp-button-alt-hover-bg: #484848 !important;
+    --vp-button-alt-hover-text: #f0eeee !important;
+    --vp-button-brand-bg: var(--vp-c-brand-1) !important;
+    --vp-button-brand-border: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-text: rgba(42, 40, 47) !important;
+    --vp-button-brand-hover-bg: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-hover-border: var(--vp-c-brand-soft) !important;
+    --vp-button-brand-hover-text: rgba(42, 40, 47) !important;
+  ` : ''
+
   css.value = `
     :root {
       ${cssVars}
@@ -61,6 +94,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[600]};
       --vp-c-brand-3: ${colorSet[800]};
       --vp-c-brand-soft: ${colorSet[400]};
+      ${nonHalloweenOverride}
     }
 
     .dark {
@@ -69,6 +103,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       --vp-c-brand-2: ${colorSet[500]};
       --vp-c-brand-3: ${colorSet[700]};
       --vp-c-brand-soft: ${colorSet[300]};
+      ${nonHalloweenDarkOverride}
     }
   `
 
@@ -79,6 +114,12 @@ const updateThemeColor = (colorName: ColorNames) => {
   } else {
     htmlElement.removeAttribute('data-halloween-theme')
   }
+}
+
+// Set Halloween theme ASAP if its the pref
+const storedTheme = localStorage.getItem('preferred-color')
+if (!storedTheme || storedTheme === '"halloween"') {
+  document.documentElement.setAttribute('data-halloween-theme', 'true')
 }
 
 // Initialize theme color

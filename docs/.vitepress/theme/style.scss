@@ -64,6 +64,57 @@
   --vp-custom-block-halloween-text-deep: var(--halloween-900);
 }
 
+/* Apply halloween theme by default */
+:root {
+  --vp-c-bg: rgb(20, 20, 20) !important;
+  --vp-c-bg-alt: rgb(18, 18, 18) !important;
+  --vp-c-bg-elv: rgba(18, 18, 18, 0.8) !important;
+  --vp-c-bg-soft: rgb(18, 18, 18) !important;
+  --vp-button-alt-bg: #a855f7 !important;
+  --vp-button-alt-text: #fff !important;
+  --vp-button-alt-hover-bg: #9333ea !important;
+  --vp-button-alt-hover-text: #fff !important;
+  --vp-button-brand-bg: #FF6A00 !important;
+  --vp-button-brand-border: #FF6A00 !important;
+  --vp-button-brand-text: #fff !important;
+  --vp-button-brand-hover-bg: #ea580c !important;
+  --vp-button-brand-hover-border: #ea580c !important;
+  --vp-button-brand-hover-text: #fff !important;
+}
+
+body {
+  background-color: rgb(20, 20, 20) !important;
+}
+
+.VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+  background-color: rgb(20, 20, 20) !important;
+}
+
+.dark {
+  --vp-c-bg: rgb(15, 15, 15) !important;
+  --vp-c-bg-alt: rgb(12, 12, 12) !important;
+  --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
+  --vp-c-bg-soft: rgb(12, 12, 12) !important;
+  --vp-button-alt-bg: #8b5cf6 !important;
+  --vp-button-alt-text: #e9d5ff !important;
+  --vp-button-alt-hover-bg: #a855f7 !important;
+  --vp-button-alt-hover-text: #fff !important;
+  --vp-button-brand-bg: #FF6A00 !important;
+  --vp-button-brand-border: #FF6A00 !important;
+  --vp-button-brand-text: #fff !important;
+  --vp-button-brand-hover-bg: #ea580c !important;
+  --vp-button-brand-hover-border: #ea580c !important;
+  --vp-button-brand-hover-text: #fff !important;
+}
+
+.dark body {
+  background-color: rgb(15, 15, 15) !important;
+}
+
+.dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+  background-color: rgb(15, 15, 15) !important;
+}
+
 .dark {
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.400');
