@@ -59,12 +59,16 @@ const updateThemeColor = (colorName: ColorNames) => {
     --vp-c-bg: rgb(20, 20, 20);
     --vp-c-bg-alt: rgb(18, 18, 18);
     --vp-c-bg-elv: rgba(18, 18, 18, 0.8);
+    --vp-home-hero-bg: rgb(20, 20, 20);
+    --vp-c-bg-soft: rgb(18, 18, 18);
   ` : ''
 
   const halloweenDarkBgOverride = colorName === 'halloween' ? `
     --vp-c-bg: rgb(15, 15, 15);
     --vp-c-bg-alt: rgb(12, 12, 12);
     --vp-c-bg-elv: rgba(12, 12, 12, 0.8);
+    --vp-home-hero-bg: rgb(15, 15, 15);
+    --vp-c-bg-soft: rgb(12, 12, 12);
   ` : ''
 
   css.value = `
