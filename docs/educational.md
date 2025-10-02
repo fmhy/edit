@@ -384,7 +384,6 @@
 ## ▷ Physics
 
 * 🌐 **[Physics Aviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** or [Falstad](https://www.falstad.com/) - Physics Tools
-* ↪️ **[Math and Physics Books](https://rentry.co/FMHYB64#math-and-physics-books)**
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
@@ -618,7 +617,6 @@
 
 # ► Space
 
-* ↪️ **[Math and Physics Books](https://rentry.co/FMHYB64#math-and-physics-books)**
 * ⭐ **[r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/audio-and-ringtones/) / [Documents](https://ntrs.nasa.gov/search) / [APIs](http://api.nasa.gov/) / [History](https://www.nasa.gov/history/)
@@ -827,7 +825,6 @@
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
 * 🌐 **[Cantonese sheik](https://www.cantonese.sheik.co.uk/)** or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
-* ↪️ **[Mandarin Chinese Books](https://rentry.co/FMHYB64#mandarin-chinese)**
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
@@ -1165,7 +1162,6 @@
 * ⭐ **[Open Source Society University](https://github.com/ossu/data-science)** - Data Science Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
-* [Data Science Resources](https://rentry.co/FMHYB64#data-science-resources) - Data Science Learning Resources
 * [Visualization.info](https://visualization.info/) - Learn About Data Visualization
 * [365Datascience](https://365datascience.com/) - Data Science Courses
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
@@ -1291,7 +1287,6 @@
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
-* [r/ApStudents Resources](https://rentry.co/FMHYB64#rapstudents-resources) - Former AP Exams
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)

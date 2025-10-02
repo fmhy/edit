@@ -24,6 +24,7 @@
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1.1 / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [⁠LongCat](https://longcat.chat/) - LongCat-Flash-Chat / Unlimited / Sign-Up Required
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
+* [⁠Cohere](https://dashboard.cohere.com/playground/chat) - Command-A-Reasoning-08-2025 / 1000 Monthly / Sign-Up Required
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot
 * [⁠dots-demo](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Dots Chatbot / No Sign-Up

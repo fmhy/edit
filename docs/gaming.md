@@ -120,65 +120,57 @@
 
 ***
 
-## ▷ Remakes / Ports
+## ▷ Decomps / Ports
 
-* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
-* 🌐 **[Game Decompilations](https://decomps.samidy.com/)**, [2](https://rentry.co/Decomps) / [GitHub](https://github.com/SamidyFR/Game-Decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) or [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) - Game Decompilations
-* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** or [TheGamingEmporium](https://www.thegamingemporium.com/) - PC Ports, Decompilations, Remakes, Fan Games & more
-* 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
-* 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
-* ⭐ **[RAZE](https://github.com/ZDoom/Raze)** / [Discord](https://discord.com/invite/zdoom-edge-raze-official-268086704961748992) or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
+* 🌐 **[Game Decompilations](https://decomps.samidy.com/)**, [2](https://rentry.co/Decomps) - Game Decompilations / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
+* 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations
+* 🌐 **[awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations
+* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** -  Game Ports, Decompilations, etc
+* 🌐 **[TheGamingEmporium](https://www.thegamingemporium.com/)** - Game Ports, Decompilations, etc
 * ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2 / [Subreddit](https://www.reddit.com/r/openrct2/) / [Discord](https://discord.gg/ZXZd8D8) / [GitHub](https://github.com/OpenRCT2/OpenRCT2)
-* [Luanti](https://www.luanti.org/) / [Discord](https://discord.gg/minetest) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube) - Open-Source Minecraft Clones / Alternatives
-* [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
-* [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
-* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
-* [Super Smash Flash](https://www.supersmashflash.com/) / [Discord](https://discord.com/invite/mcleodgaming) or [Smash Crusade](https://smash-crusade.itch.io/crusade) / [Forum](https://projectcrusade.forumotion.com/) / [Discord](https://discord.com/invite/9WBn6u65Fg) - Super Smash Bros. Flash Style Fan Games
-* [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
-* [Chrono Divide](https://rentry.co/FMHYB64#chrono-divide) / [Discord](https://discord.gg/uavJ34JTWY) / [GitHub](https://github.com/chronodivide) or [OpenRA](https://openra.net/) / [Discord](https://discord.com/invite/m5dVWH4aQE) / [GitHub](https://github.com/OpenRA/OpenRA) - Command & Conquer Recreations / Ports
-* [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
-* [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
-* [The Dark Mod](https://www.thedarkmod.com/) - Modernized Thief Recreation / [Community Missions](https://www.thedarkmod.com/missions/)
-* [OpenMW](https://openmw.org/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
-* [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
-* [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
-* [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo / [GitHub](https://github.com/diasurgical/devilutionx)
-* [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/mods/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
-* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/mods/games/10601) / [S2A Mods](https://gamebanana.com/mods/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
-* [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [Addons](https://mb.srb2.org/addons/) / [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
-* [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
-* [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
-* [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
-* [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
+* [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
+* [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
 * [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
+* [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/mods/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
+* [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
+* [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
+* [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
+* [Infinity Blade PC](https://rentry.co/FMHYB64#ib-pc-port) - Infinity Blade I/II PC Ports / [Subreddit](https://www.reddit.com/r/infinityblade) / [Discord](https://discord.gg/GfX3pmC)
+
+***
+
+## ▷ Remakes / Recreations
+
+* 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
+* [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
+* [Super Smash Flash](https://www.supersmashflash.com/) / [Discord](https://discord.com/invite/mcleodgaming) or [Smash Crusade](https://smash-crusade.itch.io/crusade) / [Forum](https://projectcrusade.forumotion.com/) / [Discord](https://discord.com/invite/9WBn6u65Fg) - Flash Super Smash Bros.
+* [Luanti](https://www.luanti.org/) / [Discord](https://discord.gg/minetest) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube) - Open-Source Minecraft Clones / Alternatives
+* [Chrono Divide](https://rentry.co/FMHYB64#chrono-divide) / [Discord](https://discord.gg/uavJ34JTWY) / [GitHub](https://github.com/chronodivide) or [OpenRA](https://openra.net/) / [Discord](https://discord.com/invite/m5dVWH4aQE) / [GitHub](https://github.com/OpenRA/OpenRA) - Command & Conquer Recreations
+* [The Dark Mod](https://www.thedarkmod.com/) - Modernized Thief Recreation / [Community Missions](https://www.thedarkmod.com/missions/)
+* [OpenMW](https://openmw.org/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
+* [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
+* [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
+* [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo 1 / [GitHub](https://github.com/diasurgical/devilutionx)
+* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/mods/games/10601) / [S2A Mods](https://gamebanana.com/mods/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
+* [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [Addons](https://mb.srb2.org/addons/) / [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
+* [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
+* [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape from Tarkov Single Player Mod / [GitHub](https://github.com/sp-tarkov)
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story Remake
-* [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
-* [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civilization V Remake / [Discord](https://discord.gg/bjrB4Xw)
 * [FreeCiv](https://www.freeciv.org/) - Civilization Remake / [GitHub](https://github.com/freeciv)
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake / [Subreddit](https://www.reddit.com/r/openttd/) / [Discord](https://discord.gg/openttd) / [GitHub](https://github.com/OpenTTD/OpenTTD)
-* [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [GitLab](https://gitlab.com/flightgear/flightgear)
-* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Forum](https://forum.falcon-bms.com/) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake
-* [The Crew Unlimited](https://thecrewunlimited.com/) - The Crew 1 Revival Project / [Discord](https://discord.gg/Ms7T5vWgP5)
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Fangame / [GitHub](https://github.com/Card-Forge/forge)
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
-* [OpenNox](https://github.com/opennox/opennox) - Nox Revival Project / [Discord](https://discord.gg/HgDUeXhAyW)
-* [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
-* [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
-* [Infinity Blade PC](https://rentry.co/FMHYB64#ib-pc-port) - Infinity Blade I/II PC Ports / [Subreddit](https://www.reddit.com/r/infinityblade) / [Discord](https://discord.gg/GfX3pmC)
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
-* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
-* [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYB64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone / [GitHub](https://github.com/itgmania/itgmania)
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -193,20 +185,41 @@
 
 ***
 
+## ▷ Revival Projects
+
+* ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
+* [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
+* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
+* [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
+* [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
+* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Forum](https://forum.falcon-bms.com/) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [GitLab](https://gitlab.com/flightgear/flightgear)
+* [The Crew Unlimited](https://thecrewunlimited.com/) - The Crew 1 Revival Project / [Discord](https://discord.gg/Ms7T5vWgP5)
+* [OpenNox](https://github.com/opennox/opennox) - Nox Revival Project / [Discord](https://discord.gg/HgDUeXhAyW)
+* [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
+* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
+
+***
+
 ## ▷ Special Interest
 
+* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
+* 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
+* 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)** / [Discord](https://discord.gg/qDaYeXPsRK), [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/cDKH3R4nR2), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing / [Discord](https://discord.gg/3Gtqp9BDeY)
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
+* [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro Mobile Games / [Discord](https://discord.gg/8TgbHAG)
 * [Planet Casio](https://www.planet-casio.com/Fr/programmes/jeux-casio.php) or [Cemetech](https://cemetech.net/) - Calculator Games
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
+* [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
 * [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF) - PDF Games
 * [PyGames](https://www.pygame.org/) - Python Games / [Discord](https://discord.gg/uEKeRSqr2Y) / [GitHub](https://github.com/pygame/pygame)
 * [Flashtro](https://flashtro.com/) - Cracker Intros
@@ -241,6 +254,7 @@
 * [⁠Axekin Wiki](https://wiki.axekin.com/en/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
+* ⭐ **[RAZE](https://github.com/ZDoom/Raze)** / [Discord](https://discord.com/invite/zdoom-edge-raze-official-268086704961748992) or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engines
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
 * [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
@@ -256,6 +270,7 @@
 * [⁠Skate 3 RPCS3 Online](https://discord.gg/DFWCaTGyBT) - RPCS3 Skate 3 Multiplayer
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
+* [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 
 ***
 

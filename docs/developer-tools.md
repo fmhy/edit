@@ -554,7 +554,7 @@
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [massCode](https://masscode.io/) - Code Snippet Manager
-* [Meld](https://meld.app/) / [2](https://meldmerge.org/), [Beyond Compare](https://www.scootersoftware.com/) / [Pro](https://rentry.co/FMHYB64#beyond-compare) or [WinMerge](https://winmerge.org/) - File / Directory Comparison Tools
+* [Meld](https://meld.app/) / [2](https://meldmerge.org/) or [WinMerge](https://winmerge.org/) - File / Directory Comparison Tools
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code / No Sign-Up

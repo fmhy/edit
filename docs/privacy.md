@@ -414,7 +414,7 @@
 
 ## ▷ Proxy Servers
 
-* ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Server Setup
+* ⭐ **[Censordex](https://censordex.fr.to/)** - Server Setup
 * ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#3x-ui)
 * ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - Xray Proxy Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Chromium-based Proxy

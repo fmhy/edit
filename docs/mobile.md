@@ -933,7 +933,6 @@
 * [BeeTV](https://rentry.co/FMHYB64#beetv) - Movies / TV
 * [TeaTV](https://rentry.co/FMHYB64#teatv) - Movies / TV / Requires TPlayer
 * [Flixeon](https://flixeon.me/) - Movies / TV
-* [Movies Cave](https://rentry.co/FMHYB64#movies-cave-app) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
 * [aDrama](https://adrama.app/) - Asian Drama

@@ -22,7 +22,6 @@
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [eBookBB](https://ebookbb.in/) - Books / Download
 * [iBookPile](https://ibookpile.in/) - Books / Download
-* [IsIDore](https://rentry.co/FMHYB64#isidore) - Books / Download
 * [Library Land](https://library.land/) - Books / Online Reading
 * [AllFreeBooks](https://allfreebooks.org/) - Book / Download
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
@@ -186,10 +185,7 @@
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [QSL](https://rentry.co/FMHYB64#qsl) - Ham Radio & Antenna Books
-* [Film Books](https://rentry.co/FMHYB64#film-books) - Film Books
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
-* [TTRPG Torrent](https://rentry.co/FMHYB64#ttrpg-books) - TTRPG Books
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 * [Trans Reads](https://transreads.org/) - Transgender-focused Literature
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
@@ -312,16 +308,12 @@
 
 ## ▷ Esoteric / Cultural
 
-* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYB64#wilds-occult-ebook-sources)** - Occult / Esoterica
-* 🌐 **[Soren Megathread](https://rentry.co/FMHYB64#soren-megathread)** - Occult / Esoterica
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
-* ⭐ **[The Exerdex](https://rentry.co/FMHYB64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYB64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYB64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
-* [Messy Occult Library](https://rentry.co/FMHYB64#messy-occult-library) - Occult / Esoterica / Gnosticism
+* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
@@ -333,24 +325,16 @@
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
 * [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
-* [Humanitys Vault](https://rentry.co/FMHYB64#humanitys-vault) - Esoterica
 * [Esoteric Archive](https://esotericarchives.com/) - Esoterica
-* [Esoterica Drive](https://rentry.co/FMHYB64#archive) - Esoterica
 * [magZtore](https://t.me/magZtore) - Esoterica / Telegram
 * [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
 * [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
 * [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Azrk's library](https://rentry.co/FMHYB64#azrks-library) - Occult / Esoterica / Satanism / Religion
+* [Esoteric Books](https://rentry.co/FMHYB64#esoteric-content) - Esoterica
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://rentry.co/FMHYB64#spirituality-megadrive)
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [CraftStuff](https://rentry.co/FMHYB64#craftstuff) - Witchcraft
-* [Witchcraft Library](https://rentry.co/FMHYB64#witchcraft-library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://rentry.co/FMHYB64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [Alchemy Drive](https://rentry.co/FMHYB64#alchemy-drive) - Alchemy
-* [LeftHandPath](https://rentry.co/FMHYB64#lefthandpath) - Luciferianism
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
@@ -562,7 +546,6 @@
 * ⭐ **[Openstax](https://openstax.org/)** or [OpenStax College Textbooks](https://philschatz.com/books/)
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
-* [Library Drive](https://rentry.co/FMHYB64#library-drive)
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
@@ -576,8 +559,8 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [VDOC.PUB](https://vdoc.pub/)
-* [Various Books](https://rentry.co/FMHYB64#various-books-manuals)
 * [Sciarium](https://sciarium.com/)
+* [Educational Books](https://rentry.co/FMHYB64#edu-content)
 * [OpenED](https://open.bccampus.ca/)
 * [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
@@ -623,10 +606,9 @@
 ## ▷ STEM Resources
 
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
-* [Math and Physics Books](https://rentry.co/FMHYB64#math-and-physics-books)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYB64#astronomy-physics) - Books / Notes / Astronomy / Physics
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - Books / Notes / Astronomy / Physics
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
@@ -637,7 +619,6 @@
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
 * [PDFiles](https://www.pdfiles.net/) - IT Books
-* [IT Book Drive](https://rentry.co/FMHYB64#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 
 ***

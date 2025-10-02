@@ -296,7 +296,7 @@
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control), [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
-* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
+* [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D 9, 10, and 11 for Linux / Wine
 * [⁠lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling for Linux
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
@@ -407,7 +407,6 @@
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
-* [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 
 ***

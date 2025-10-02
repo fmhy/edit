@@ -737,7 +737,7 @@
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
 * [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
-* [Marketing Mega](https://rentry.co/FMHYB64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
+* [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
@@ -927,7 +927,7 @@
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Crypto Prices / Blockchain Explorers
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [Mempool](https://mempool.space/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Crypto Prices / Blockchain Explorers
 * [Dora](https://www.ondora.xyz/) - Cross-Chain Search Engine
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
@@ -1622,7 +1622,7 @@
 * [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90s
 * [CameronsWorld](https://www.cameronsworld.net/) - 90s Themed Website
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
-* [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
+* [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic

@@ -188,7 +188,7 @@
 ***
 
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)**
-* ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
+* ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
 * [XX-Net](https://xx-net.com/) - GFW VPN / Paid / [GitHub]((https://github.com/XX-net/XX-Net)
@@ -506,7 +506,6 @@
 * [Bookys](https://www6.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / Some NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
-* [PDF Prof](https://pdfprof.com/) - Educational Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW / [Discord](https://discord.com/invite/origines)
 * [Mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
@@ -729,7 +728,6 @@
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
-* [Hindi Courses](https://rentry.co/FMHYB64#hindi-courses)
 
 ## ▷ Torrenting
 
@@ -1447,7 +1445,6 @@
 * [Fantasy Worlds](https://fantasy-worlds.org/) - Books / Audiobooks
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
-* [Russian Game Mags](https://rentry.co/FMHYB64#russian-game-mags) - Gaming Magazines
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
 * [mangalib.me](https://mangalib.me/) - Manga
 * [Com-X Life](https://comx.life/mm) - Manga

@@ -431,7 +431,6 @@
 * [Core Radio](https://coreradio.online/) - MP3 / FLAC
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
 * [ShareMania](https://sharemania.us/) - FLAC / MP3 / M4A
-* [Moe:81](https://rentry.co/FMHYB64#moe81) - MP3 / FLAC
 * [Plastinka](https://plastinka.org/) - MP3 / FLAC
 * [Exystence](https://exystence.net/) - MP3 / FLAC
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC
