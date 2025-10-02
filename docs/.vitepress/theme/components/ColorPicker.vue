@@ -39,7 +39,7 @@ const colorScales = [
 ] as const
 
 type ColorNames = keyof typeof extendedColors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
+const selectedColor = useStorage<ColorNames>('preferred-color', 'halloween')
 
 const colorOptions = Object.keys(extendedColors).filter(
   (key) => typeof extendedColors[key as keyof typeof extendedColors] === 'object'
