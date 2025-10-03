@@ -1420,6 +1420,7 @@
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYB64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* [1stcalc](https://1stcalc.com)
 
 ***
 
