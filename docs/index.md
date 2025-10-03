@@ -169,13 +169,13 @@ onMounted(() => {
   const setKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/logo-uwu.svg'
+      img.src = '/uwu-hall.png'
     })
   }
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/test.png'
+      img.src = '/hall.png'
     })
   }
   if (kawaii === 'true') {
