@@ -43,7 +43,7 @@
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
 * ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
-* ⭐ **[Bitwarden](https://bitwarden.com/)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
+* ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 * ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)

@@ -421,7 +421,7 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[TimStreams](https://timstreams.xyz/)**, [2](https://timstreams.cfd/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
-* [Streamex](http://streamex.cc/) or [GoToStreamly](https://gotostreamly.sbs/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
+* [Streamex](http://streamex.cc/), [GoToStreamly](https://gotostreamly.sbs/) or [CrackStreams.li](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/)  - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://totalsportek.me/), [2](https://buffstreams.app/) - Stream Aggregator
 * [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)
