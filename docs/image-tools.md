@@ -743,7 +743,7 @@
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
 * [Lychee](https://lycheeorg.github.io/)
-* [Photoprism](https://github.com/photoprism/photoprism)
+* [PhotoPrism](https://github.com/photoprism/photoprism)
 * [Photoview](https://github.com/photoview/photoview)
 * [Ente](https://help.ente.io/self-hosting/)
 * [Photonix](https://photonix.org/)
