@@ -1271,7 +1271,7 @@
 * [The Book of Shaders](https://thebookofshaders.com/) - Fragment Shaders Guide
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [8bitWorkshop](https://8bitworkshop.com/) - Retro Game Programming Tutorials
-
+* [hungry shark](https://hungrysharkevolutionmod.com/) amazing development
 ***
 
 # ► Exam Prep
@@ -1384,6 +1384,7 @@
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby)
+*  [CGPACalculator](https://cgpahub.com) - Calculate CGPA
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/#graded) - Grades Tracker / Android, iOS / [GitHub](https://github.com/NightDreamGames/Graded)
