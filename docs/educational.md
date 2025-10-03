@@ -1271,6 +1271,8 @@
 * [The Book of Shaders](https://thebookofshaders.com/) - Fragment Shaders Guide
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [8bitWorkshop](https://8bitworkshop.com/) - Retro Game Programming Tutorials
+*  [best game dev](https://hungrysharkevolutionmod.com/) - best game
+
 
 ***
 
