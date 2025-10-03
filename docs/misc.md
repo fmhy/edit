@@ -432,7 +432,7 @@
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
-* [⁠Project’44](https://www.project44.ca/) - World War II Historical Map / [Discord](https://discord.gg/bzWEuc6JJv)
+* [⁠Project ’44](https://www.project44.ca/) - World War II Historical Map / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
 * [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
 * [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
 
