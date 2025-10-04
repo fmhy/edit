@@ -66,7 +66,7 @@
 * ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK)
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)**, [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) / [Note](https://ibb.co/VSYtdTW) - Overclocking / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/)
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
-* ⭐ **[ProSettings](https://prosettings.net/)**, [SweetFX](https://sfx.thelazy.net/) or  [ENBSeries](http://enbdev.com) - Game Setting Guides
+* ⭐ **[ProSettings](https://prosettings.net/)**, [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com) - Game Setting Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * ⭐ **[Lossless Scaling](https://rentry.co/FMHYB64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)**, [OptiScaler](https://github.com/optiscaler/OptiScaler) or [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
