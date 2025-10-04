@@ -838,7 +838,7 @@
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
-* [MandoBot](https://mandobot.netlify.app/) - Mandarin Translation / Segementation
+* [MandoBot](https://mandobot.netlify.app/) - Mandarin Translation / Segmentation
 
 ***
 
