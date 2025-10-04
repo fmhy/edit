@@ -106,19 +106,35 @@ const updateThemeColor = (colorName: ColorNames) => {
         --vp-c-bg-soft: rgb(23, 23, 23) !important;
       }
       
-      body {
+      html, body {
         background-color: #ffffff !important;
       }
       
-      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app, .vp-doc {
         background-color: #ffffff !important;
       }
       
-      .dark body {
+      .VPHome {
+        background-color: #ffffff !important;
+      }
+      
+      .VPHome .VPHero {
+        background-color: #ffffff !important;
+      }
+      
+      .dark html, .dark body {
         background-color: rgb(26, 26, 26) !important;
       }
       
-      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app, .dark .vp-doc {
+        background-color: rgb(26, 26, 26) !important;
+      }
+      
+      .dark .VPHome {
+        background-color: rgb(26, 26, 26) !important;
+      }
+      
+      .dark .VPHome .VPHero {
         background-color: rgb(26, 26, 26) !important;
       }
     `
