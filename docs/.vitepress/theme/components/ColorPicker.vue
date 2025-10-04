@@ -3,7 +3,7 @@ import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
 import { watch, onMounted } from 'vue'
 
-// Add Halloween colors locally
+// Add Halloween colors
 const halloweenColors = {
   50: '#fff7ed',
   100: '#ffedd5',
@@ -18,7 +18,7 @@ const halloweenColors = {
   950: '#431407'
 }
 
-// Extend colors with Halloween theme
+// hall extend or something
 const extendedColors = {
   ...colors,
   halloween: halloweenColors
@@ -94,10 +94,16 @@ const updateThemeColor = (colorName: ColorNames) => {
     .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
       background-color: #ffffff !important;
     }
+    .VPHome .VPHero {
+      background-color: #ffffff !important;
+    }
     .dark body {
       background-color: rgb(26, 26, 26) !important;
     }
     .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+      background-color: rgb(26, 26, 26) !important;
+    }
+    .dark .VPHome .VPHero {
       background-color: rgb(26, 26, 26) !important;
     }
   ` : ''
@@ -124,7 +130,6 @@ const updateThemeColor = (colorName: ColorNames) => {
     ${nonHalloweenBodyOverride}
   `
 
-  // Add/remove Halloween theme indicator
   const htmlElement = document.documentElement
   if (colorName === 'halloween') {
     htmlElement.setAttribute('data-halloween-theme', 'true')
@@ -170,6 +175,13 @@ const normalizeColorName = (colorName: string) =>
           :title="normalizeColorName(color)"
         >
           <span
+            v-if="color === 'halloween'"
+            class="inline-block w-6 h-6 flex items-center justify-center text-lg"
+          >
+            🎃
+          </span>
+          <span
+            v-else
             class="inline-block w-6 h-6 rounded-full"
             :style="{ backgroundColor: extendedColors[color][500] }"
           />
