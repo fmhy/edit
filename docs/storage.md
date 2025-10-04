@@ -212,11 +212,11 @@
 
 ## LibGen Mirrors
 
-* https://librarygenesis.net/ - site list
-* https://libgen.li/ - clone
-* https://libgen.gs/ - clone
-* https://libgen.la/ - clone
-* https://rentry.co/m2hkqhwb - Differences between the mirrors
+* <https://librarygenesis.net/> - site list
+* <https://libgen.li/> - clone
+* <https://libgen.gs/> - clone
+* <https://libgen.la/> - clone
+* <https://rentry.co/m2hkqhwb> - Differences between the mirrors
 
 ***
 
