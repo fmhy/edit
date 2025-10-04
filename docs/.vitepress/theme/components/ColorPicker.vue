@@ -54,87 +54,50 @@ const updateThemeColor = (colorName: ColorNames) => {
     .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
     .join('\n    ')
 
-  // if user isnt using halloween theme switch it
-  const nonHalloweenOverride = colorName !== 'halloween' ? `
-    --vp-c-bg: #ffffff !important;
-    --vp-c-bg-alt: #f9f9f9 !important;
-    --vp-c-bg-elv: rgba(255, 255, 255, 0.7) !important;
-    --vp-button-alt-bg: #484848 !important;
-    --vp-button-alt-text: #f0eeee !important;
-    --vp-button-alt-hover-bg: #484848 !important;
-    --vp-button-alt-hover-text: #f0eeee !important;
-    --vp-button-brand-bg: var(--vp-c-brand-1) !important;
-    --vp-button-brand-border: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-text: rgba(42, 40, 47) !important;
-    --vp-button-brand-hover-bg: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-hover-border: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-hover-text: rgba(42, 40, 47) !important;
-  ` : ''
-
-  const nonHalloweenDarkOverride = colorName !== 'halloween' ? `
-    --vp-c-bg: rgb(26, 26, 26) !important;
-    --vp-c-bg-alt: rgb(23, 23, 23) !important;
-    --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
-    --vp-button-alt-bg: #484848 !important;
-    --vp-button-alt-text: #f0eeee !important;
-    --vp-button-alt-hover-bg: #484848 !important;
-    --vp-button-alt-hover-text: #f0eeee !important;
-    --vp-button-brand-bg: var(--vp-c-brand-1) !important;
-    --vp-button-brand-border: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-text: rgba(42, 40, 47) !important;
-    --vp-button-brand-hover-bg: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-hover-border: var(--vp-c-brand-soft) !important;
-    --vp-button-brand-hover-text: rgba(42, 40, 47) !important;
-  ` : ''
-
-  const nonHalloweenBodyOverride = colorName !== 'halloween' ? `
-    body {
-      background-color: #ffffff !important;
-    }
-    .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
-      background-color: #ffffff !important;
-    }
-    .VPHome .VPHero {
-      background-color: #ffffff !important;
-    }
-    .dark body {
-      background-color: rgb(26, 26, 26) !important;
-    }
-    .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
-      background-color: rgb(26, 26, 26) !important;
-    }
-    .dark .VPHome .VPHero {
-      background-color: rgb(26, 26, 26) !important;
-    }
-  ` : ''
-
-  css.value = `
-    :root {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[500]};
-      --vp-c-brand-2: ${colorSet[600]};
-      --vp-c-brand-3: ${colorSet[800]};
-      --vp-c-brand-soft: ${colorSet[400]};
-      ${nonHalloweenOverride}
-    }
-
-    .dark {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[400]};
-      --vp-c-brand-2: ${colorSet[500]};
-      --vp-c-brand-3: ${colorSet[700]};
-      --vp-c-brand-soft: ${colorSet[300]};
-      ${nonHalloweenDarkOverride}
-    }
-
-    ${nonHalloweenBodyOverride}
-  `
-
   const htmlElement = document.documentElement
+  
   if (colorName === 'halloween') {
+    // Apply Halloween theme
     htmlElement.classList.add('theme-halloween')
+    
+    css.value = `
+      :root {
+        ${cssVars}
+        --vp-c-brand-1: ${colorSet[500]};
+        --vp-c-brand-2: ${colorSet[600]};
+        --vp-c-brand-3: ${colorSet[800]};
+        --vp-c-brand-soft: ${colorSet[400]};
+      }
+
+      .dark {
+        ${cssVars}
+        --vp-c-brand-1: ${colorSet[400]};
+        --vp-c-brand-2: ${colorSet[500]};
+        --vp-c-brand-3: ${colorSet[700]};
+        --vp-c-brand-soft: ${colorSet[300]};
+      }
+    `
   } else {
+    // Remove Halloween theme and apply other theme
     htmlElement.classList.remove('theme-halloween')
+    
+    css.value = `
+      :root {
+        ${cssVars}
+        --vp-c-brand-1: ${colorSet[500]};
+        --vp-c-brand-2: ${colorSet[600]};
+        --vp-c-brand-3: ${colorSet[800]};
+        --vp-c-brand-soft: ${colorSet[400]};
+      }
+
+      .dark {
+        ${cssVars}
+        --vp-c-brand-1: ${colorSet[400]};
+        --vp-c-brand-2: ${colorSet[500]};
+        --vp-c-brand-3: ${colorSet[700]};
+        --vp-c-brand-soft: ${colorSet[300]};
+      }
+    `
   }
 }
 
@@ -176,7 +139,7 @@ const normalizeColorName = (colorName: string) =>
         >
           <span
             v-if="color === 'halloween'"
-            class="inline-block w-6 h-6 flex items-center justify-center text-lg"
+            class="inline-block w-6 h-6 flex items-center justify-center text-xl"
           >
             🎃
           </span>
