@@ -1080,7 +1080,7 @@
 
 ***
 
-## ▷  Dynamic Page Hosting
+## ▷ Dynamic Page Hosting
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**

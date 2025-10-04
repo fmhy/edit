@@ -161,7 +161,7 @@
 * 🌐 **[Game Decompilations](https://decomps.samidy.com/)**, [2](https://rentry.co/Decomps) - Game Decompilations / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
 * 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations
 * 🌐 **[awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations
-* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** -  Game Ports, Decompilations, etc
+* 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Ports, Decompilations, etc
 * 🌐 **[TheGamingEmporium](https://www.thegamingemporium.com/)** - Game Ports, Decompilations, etc
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)

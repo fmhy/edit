@@ -48,7 +48,7 @@
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
 * [Discord Lookup](https://discord.id/) or [Toolscord](https://toolscord.com/) - Look up a Discord User or Bot ID
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews)
-* [GiveMeBadge](https://givemebadge.alexflipnote.dev/) -  Unlock Discord Dev Badges
+* [GiveMeBadge](https://givemebadge.alexflipnote.dev/) - Unlock Discord Dev Badges
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
 * [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
@@ -331,7 +331,7 @@
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
-* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** -  Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
+* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [YouTube Tweaks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#youtube-tweaks) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#enhancer-for-yt-note) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts

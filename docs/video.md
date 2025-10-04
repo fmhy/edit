@@ -45,7 +45,7 @@
 * ⭐ **[Filmex](https://filmex.to/)**, [2](https://fmovies4u.com/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * ⭐ **[Cinezo](https://www.cinezo.net/)** - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [Primeshows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
-* [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/)  - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
+* [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
 * [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
@@ -217,7 +217,7 @@
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [Gojo](https://animetsu.to/), [2](https://animetsu.cc/) - Sub / Dub
 * [⁠AnimeZ](https://animeyy.com/) - Sub / Dub
-* [otakuu](https://otakuu.se/), [2](https://aniwave.at/)  - Sub / Dub / Auto-Next
+* [otakuu](https://otakuu.se/), [2](https://aniwave.at/) - Sub / Dub / Auto-Next
 * [TAnime](https://tanime.tv/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/R7a6yWMmfK)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
@@ -421,7 +421,7 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[TimStreams](https://timstreams.xyz/)**, [2](https://timstreams.cfd/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
-* [Streamex](http://streamex.cc/), [GoToStreamly](https://gotostreamly.sbs/) or [CrackStreams.li](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/)  - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
+* [Streamex](http://streamex.cc/), [GoToStreamly](https://gotostreamly.sbs/) or [CrackStreams.li](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://totalsportek.me/), [2](https://buffstreams.app/) - Stream Aggregator
 * [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)
@@ -730,7 +730,7 @@
 
 ## ▷ Stremio Tools
 
-* 🌐 **[Stremio Addons](https://stremio-addons.net/)**  / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
+* 🌐 **[Stremio Addons](https://stremio-addons.net/)** / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
 * ⭐ **[Bye Sudo](https://bye.undi.rest/)** - Simple Stremio Guide
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** - Advanced Stremio Guide
 * [Stremio Addon Manager](https://addon-manager.viren070.me/) - Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)

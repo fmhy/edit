@@ -377,7 +377,7 @@
 * [OpenVPN](https://openvpn.net/) - VPN Server
 * [WGDashboard](https://wgdashboard.dev/) - WireGuard Panel / AmneziaWG / [Subreddit](https://www.reddit.com/r/WGDashboard/) / [Discord](https://discord.gg/72TwzjeuWm) / [GitHub](https://github.com/donaldzou/WGDashboard)
 * [⁠Headscale](https://github.com/juanfont/headscale) - Self Hosted Tailscale
-* [⁠Nebula](https://github.com/slackhq/nebula) or [ZeroTier](https://www.zerotier.com/)  - Mesh VPN Server 
+* [⁠Nebula](https://github.com/slackhq/nebula) or [ZeroTier](https://www.zerotier.com/) - Mesh VPN Server 
 * [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) - VPN Server
 * [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - Application Tunnel / VPN Alternative / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
 * [Cloud WireGuard Guide](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - WireGuard + Pi-hole VPN using Google Cloud
@@ -455,7 +455,7 @@
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tool 
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [GitHub](https://github.com/msasanmh/DNSveil)
-* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md),  [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
+* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
 
 ***
 

@@ -75,7 +75,7 @@
 * [Ripolas Background Remover](https://ripolas.org/background-remover/) - Background Remover
 * [BGNix](https://www.bgnix.com/) - Background Remover / [GitHub](https://github.com/thinkingjimmy/bg-remove)
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
-* [remove.bg](https://www.remove.bg/)  - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
+* [remove.bg](https://www.remove.bg/) - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 * [ORMBG](https://huggingface.co/spaces/schirrmacher/ormbg) - Human Optimised Background Remover
 * [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
 * [Segment Anything](https://segment-anything.com/) - Visual Segmentation / [GUI](https://github.com/dibrale/samist) / [Stable Diffusion WebUI](https://github.com/continue-revolution/sd-webui-segment-anything) / [Extensions](https://github.com/kevmo314/magic-copy)
@@ -212,7 +212,7 @@
 * [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, Mac, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
-* [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges  [GitHub](https://github.com/piconaut/blinkies.cafe)
+* [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges [GitHub](https://github.com/piconaut/blinkies.cafe)
 
 ***
 
@@ -638,7 +638,7 @@
 ## ▷ Image Compressors
 
 * ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
-* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt)  / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 * ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
 * ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
 * [optimize.photos](https://optimize.photos/) - Batch Compressor
@@ -817,7 +817,7 @@
 * [ScreenshotX](https://screenshotx.com/)
 * [⁠Pilko](https://pilko.studio/) - Video Frame Capture Tool 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
-* [Moocup](https://moocup.jaydip.me/) -  Screenshot Editor / Mockups / [GitHub](https://github.com/jellydeck/moocup/)
+* [Moocup](https://moocup.jaydip.me/) - Screenshot Editor / Mockups / [GitHub](https://github.com/jellydeck/moocup/)
 * [Screenshot Guru](https://screenshot.guru/), [Site-Shot](https://www.site-shot.com/) or [Pikwy](https://pikwy.com/) - Take Screenshots of Websites
 * [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks) - Create Screenshot Mockups of Websites
 * [paste.photos](https://www.paste.photos/) - Paste Image to Download
