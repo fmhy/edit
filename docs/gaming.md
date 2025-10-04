@@ -268,6 +268,7 @@
 * [PCSX-Redux](https://pcsx-redux.consoledev.net) - PSCX Development Emulator
 * [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
 * [⁠Skate 3 RPCS3 Online](https://discord.gg/DFWCaTGyBT) - RPCS3 Skate 3 Multiplayer
+* [⁠ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - Broadcast 3DS Games to Emulators / No Game Dump Required
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
@@ -362,6 +363,7 @@
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [SwitchROM](https://switchroms.io/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
+* [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Telegram Required
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
 * [SM64ROMHacks](https://rentry.co/FMHYB64#sm64romhacks) - Super Mario 64 Mods / [Discord](https://discord.com/invite/BYrpMBG)
@@ -398,49 +400,39 @@
 ## ▷ Browser Emulators
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
+* ↪️ **[EmulatorJS / NeptunJS](https://rentry.co/EmulatorJS-NeptunJS)** - Frontends for EmulatorJS / NeptuneJS
+* ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
+* ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
-* ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console Browser Emulator
-* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems) / [Discord](https://discord.gg/6akryGkETU) / [GitHub](https://github.com/EmulatorJS/EmulatorJS)
-* ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console Browser Emulator
-* ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console Browser Emulator
-* ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Retro-Console Browser Emulator / [Discord](https://discord.gg/dTCnM2r5e5)
-* [ClassicGames](https://www.classicgames.me/) - Retro-Console Browser Emulator
-* [RetroGames.cc](https://www.retrogames.cc/) - Retro-Console Browser Emulator
-* [PlayRetroGames](https://www.playretrogames.com/) - Retro-Console Browser Emulator
-* [RetroGames](https://www.retrogames.cz/) - Retro-Console Browser Emulator
-* [PlayRetroGames](https://playretrogames.net/) - Retro-Console Browser Emulator / [Discord](https://discord.gg/qw9caq2qEg)
-* [Vizzed](https://www.vizzed.com/) - Multi-Console Browser Emulator
-* [PlayEmulator](https://playemulator.online/) - Multi-Console Browser Emulator
-* [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro-Console Browser Emulator
-* [Tiny8bit](https://floooh.github.io/tiny8bit/) - Retro-Console Browser Emulator / [GitHub](https://github.com/floooh/chips-test)
-* [Play Classic Games](https://playclassic.games/) - Retro-Console Browser Emulator
-* [OldGameShelf](https://oldgameshelf.com/) - Retro-Console Browser Emulator
-* [Virtual Consoles](https://virtualconsoles.com/) - Retro-Console Browser Emulator
-* [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console Browser Emulator / [Discord](https://discord.gg/PtgKse35q7)
-* [WebRCade](https://play.webrcade.com/) - Retro-Console Browser Emulator / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
-* [EmuGames](https://www.emugames.net/) - Multi-Console Browser Emulator
-* [Online.OldGames](https://online.oldgames.sk/) - Multi-Console Browser Emulator
-* [ClassicReload](https://classicreload.com/) - Multi-Console Browser Emulator
-* [Retro Games Bot](https://retrogamesbot.com/) - Retro-Console Browser Emulator
-* [rom.so](https://rom.so/) - Multi-Console Browser Emulator / Sign-Up Required
-* [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
-* [Aurora](https://skitty.xyz/aurora/) - Nintendo / Sega Console Browser Emulator / [Discord](https://discord.gg/UAf7Bad)
-* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
-* [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
-* [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
+* ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console
+* ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console / [Supported Systems](https://emulatorjs.org/docs/systems) / [Discord](https://discord.gg/6akryGkETU) / [GitHub](https://github.com/EmulatorJS/EmulatorJS)
+* ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Multi-Console / [Discord](https://discord.gg/dTCnM2r5e5)
+* [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console / [Discord](https://discord.gg/PtgKse35q7)
+* [rom.so](https://rom.so/) - Multi-Console / Sign-Up Required
+* [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro Consoles / Archive.org
+* [RetroGames](https://www.retrogames.cz/) - Retro Consoles
+* [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
+* [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
+* [WebRCade](https://play.webrcade.com/) - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
+* [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
+* [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
+* [ClassicGames](https://www.classicgames.me/) - Retro Consoles / Multiple-Emulators
+* [Play Classic Games](https://playclassic.games/) - Retro Consoles / Multiple-Emulators
+* [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
+* [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
 * [⁠Meowio](https://www.information-superhighway.net/meowio/) - NES Browser Emulator / Custom Music + Sounds
-* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
-* [SSega](https://www.ssega.com/) or [Sega Play](https://sega-play.online/) - Sega Browser Emulators
-* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
-* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
-* [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [PlayOldGames](https://playold.games/), [DOSZone](https://dos.zone/) / [Discord](https://discord.com/invite/hMVYEbG), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games), [DOSBox](https://www.dosbox.com/), [Online DOS games](https://dos.zczc.cz/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
-* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
-* [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) / [GitHub](http://github.com/BdR76/lcdgame.js) - Retro LCD Game Emulators
+* [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator / Multiplayer
+* [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
+* [SSega](https://www.ssega.com/) - Sega Browser Emulators / Multiplayer
+* [Sega Play](https://sega-play.online/) - Sega Browser Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
-* [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
-* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
+* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - Commodore / C64 Browser Emulators
+* [QAOP](https://torinak.com/qaop/games) - ZX Spectrum Browser Emulator
+* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
+* [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
+* [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) / [GitHub](http://github.com/BdR76/lcdgame.js) - Retro LCD Game Emulators
+* [DosGames](https://dosgames.com/), [DOSZone](https://dos.zone/) / [Discord](https://discord.com/invite/hMVYEbG), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 
 ***
 
@@ -459,6 +451,7 @@
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) / [Discord](https://discord.com/invite/Hg6zVmTJeP) - Block Puzzles

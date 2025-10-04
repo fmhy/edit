@@ -47,7 +47,6 @@
 * [PiratesParadise](https://piratesparadise.org/)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
-* [YourBittorrent](https://yourbittorrent.com/)
 * [BTSearch](https://btsearch.19950817.xyz/en)
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
@@ -137,7 +136,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/), [Invite.icu](https://invite.icu/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/), [Invite.icu](https://invite.icu/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
