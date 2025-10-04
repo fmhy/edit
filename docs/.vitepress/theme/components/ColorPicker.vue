@@ -78,7 +78,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       }
     `
   } else {
-    // Remove Halloween theme and apply other theme
+    // Remove Halloween theme and apply other theme with normal backgrounds
     htmlElement.classList.remove('theme-halloween')
     
     css.value = `
@@ -88,6 +88,10 @@ const updateThemeColor = (colorName: ColorNames) => {
         --vp-c-brand-2: ${colorSet[600]};
         --vp-c-brand-3: ${colorSet[800]};
         --vp-c-brand-soft: ${colorSet[400]};
+        --vp-c-bg: #ffffff !important;
+        --vp-c-bg-alt: #f9f9f9 !important;
+        --vp-c-bg-elv: rgba(255, 255, 255, 0.7) !important;
+        --vp-c-bg-soft: #f9f9f9 !important;
       }
 
       .dark {
@@ -96,6 +100,26 @@ const updateThemeColor = (colorName: ColorNames) => {
         --vp-c-brand-2: ${colorSet[500]};
         --vp-c-brand-3: ${colorSet[700]};
         --vp-c-brand-soft: ${colorSet[300]};
+        --vp-c-bg: rgb(26, 26, 26) !important;
+        --vp-c-bg-alt: rgb(23, 23, 23) !important;
+        --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
+        --vp-c-bg-soft: rgb(23, 23, 23) !important;
+      }
+      
+      body {
+        background-color: #ffffff !important;
+      }
+      
+      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+        background-color: #ffffff !important;
+      }
+      
+      .dark body {
+        background-color: rgb(26, 26, 26) !important;
+      }
+      
+      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+        background-color: rgb(26, 26, 26) !important;
       }
     `
   }
