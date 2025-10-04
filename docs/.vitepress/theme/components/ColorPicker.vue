@@ -132,16 +132,16 @@ const updateThemeColor = (colorName: ColorNames) => {
 
   const htmlElement = document.documentElement
   if (colorName === 'halloween') {
-    htmlElement.setAttribute('data-halloween-theme', 'true')
+    htmlElement.classList.add('theme-halloween')
   } else {
-    htmlElement.removeAttribute('data-halloween-theme')
+    htmlElement.classList.remove('theme-halloween')
   }
 }
 
 // Set Halloween theme ASAP if its the pref
 const storedTheme = localStorage.getItem('preferred-color')
 if (!storedTheme || storedTheme === '"halloween"') {
-  document.documentElement.setAttribute('data-halloween-theme', 'true')
+  document.documentElement.classList.add('theme-halloween')
 }
 
 // Initialize theme color
@@ -150,7 +150,7 @@ updateThemeColor(selectedColor.value)
 // halloween stuff
 onMounted(() => {
   if (selectedColor.value === 'halloween') {
-    document.documentElement.setAttribute('data-halloween-theme', 'true')
+    document.documentElement.classList.add('theme-halloween')
   }
   // Re-apply the theme to ensure everything is initialized
   updateThemeColor(selectedColor.value)
