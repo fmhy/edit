@@ -95,7 +95,7 @@
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
 * [Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
-* [Lossless Scaling](https://rentry.co/FMHYB64#lossless-scaling) - Image Upscaling
+* [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
@@ -645,6 +645,7 @@
 * [CompressImage](https://compressimage.io/) - Batch Compressor
 * [CrushImage](https://crushimage.com/) - Batch Compressor
 * [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
+* [HiCompress](https://hicompress.com/tools) - Batch Compressor
 * [minipic](https://minipic.app/) - Batch Compressor / Converter
 * [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
 * [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20MB Upload / [GitHub](https://github.com/tinify)
