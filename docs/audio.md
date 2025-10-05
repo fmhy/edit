@@ -142,6 +142,7 @@
 * [OpenMHz](https://openmhz.com/) - Live Police Radio
 * [RadioReference](https://www.radioreference.com/) - Morse Code Radio / Communication
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
+* [RadioPuppy](https://www.radiopuppy.com) - Minimal Streaming Web App
 
 ***
 
