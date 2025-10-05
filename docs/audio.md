@@ -35,6 +35,7 @@
 * [Spotify](https://open.spotify.com/) - Web Player
 * Spotify Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics App](https://github.com/mantou132/Spotify-Lyrics), [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Audiomack](https://audiomack.com/) - Browser Music
+* [BiniLossless](https://music.binimum.org), [2](https://tidal.squid.wtf) - Tidal
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
