@@ -149,6 +149,8 @@
 * [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
+* [ProxyBot](https://t.me/vamproxy_bot) - Telegram Proxy Bot
+* [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Shadowsocks Bots
 
 ***
 
