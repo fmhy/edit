@@ -57,6 +57,8 @@
 * [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
 * [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
 * [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / [GitHub](https://github.com/Phalcode/gamevault-app)
+* [PojavLauncherDL](https://pojavlauncherdl.com) - To download free Minecraft Java Edition Launcher for Android and iOS. 
+
 
 ***
 
