@@ -316,20 +316,14 @@
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI Circumvention
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
-* [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - YouTube DPI Circumvention
-* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Lockigest](https://elma.dev/works/lockigest/) - Screen Locker / [GitHub](https://github.com/elmsec/lockigest)
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
 * [Tracee](https://aquasecurity.github.io/tracee/latest) - Runtime Security and Forensics
-* [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
-* [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
-* [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
@@ -337,7 +331,6 @@
 * [Collision](https://flathub.org/apps/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://owerdogan.github.io/whoami-project) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
 * [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing Tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 

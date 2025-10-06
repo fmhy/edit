@@ -296,7 +296,6 @@
 * [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bots
 * [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
-* [ProxyBot](https://t.me/vamproxy_bot), [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Proxy Bots
 * [r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
 
 ***

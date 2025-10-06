@@ -441,7 +441,7 @@
 ## ▷ Android Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) - DNS Adblockers
+* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * ⭐ **[AdGuard Premium](https://rentry.co/FMHYB64#adguard)** - Adblocking App
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Brave](https://brave.com/)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
