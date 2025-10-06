@@ -365,7 +365,8 @@
 ## ▷ Live TV
 
 * ⭐ **[TheTVApp](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
-* ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports
+* ⭐ **[SportsBite](https://sportsbite.cc/)**, - TV / Sports / Aggregator / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.com/invite/Qg7uRXWAhU)
+* ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports / 
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
