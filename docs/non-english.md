@@ -737,7 +737,7 @@
 ## ▷ Streaming
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[HydraHD](https://hydrahd.sh/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
+* ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.ru/) / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.love/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.cc/) - Anime
@@ -892,7 +892,6 @@
 
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** - Japanese Media / [Discord](https://discord.gg/nhqjydaR8j)
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
-* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines / NSFW / 1080p
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
@@ -1800,7 +1799,7 @@
 * [hostsVN](https://github.com/bigdargon/hostsVN/wiki) - Adblocking Guides
 * [Quantrimang](https://quantrimang.com/) or [Anonyviet](https://anonyviet.com/) - Tech News
 * [Phudeviet](http://phudeviet.org/) - Subtitles
-* [Forumvi](https://www.forumvi.com/) - Create a Forum
+* [Forumvi](https://www.forumvi.com/) - Forum Creator
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
 

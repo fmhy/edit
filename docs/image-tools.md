@@ -108,6 +108,7 @@
 * [PhotoFunia](https://photofunia.com/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Sign-Up Required
+* [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
 * [PhotoJoiner](https://www.photojoiner.com/) - Collage Maker
 * [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc 
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art

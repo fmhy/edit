@@ -16,10 +16,10 @@
 * ⭐ **CS.RIN Tools** - [Search Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#csrin-search) (Important) / [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installs / [Discord](https://discord.gg/dkVame6BQS)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup / PW: `online-fix.me` / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installs / [Discord](https://discord.gg/dkVame6BQS)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Sign-Up Required
@@ -62,7 +62,7 @@
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
-* [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Lootlink Bypass](https://rentry.co/lootlink) / **[Site Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dodi-warning)** / [Discord](https://discord.gg/D9WU7C9FSE)
+* [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Lootlink Bypass](https://claraiscute.neocities.org/Guides/lootlink/) / **[Site Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dodi-warning)** / [Discord](https://discord.gg/D9WU7C9FSE)
 * [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [Xatab Repacks](https://byxatab.com/) - Torrent
 * [Elamigos](https://elamigos.site/) - Download
@@ -170,7 +170,6 @@
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
 * [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/mods/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
@@ -191,7 +190,8 @@
 * [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo 1 / [GitHub](https://github.com/diasurgical/devilutionx)
-* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/mods/games/10601) / [S2A Mods](https://gamebanana.com/mods/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Tumblr](https://www.tumblr.com/teamforever)
+* [Team Forever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/mods/games/10601) / [S2A Mods](https://gamebanana.com/mods/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [Bluesky](https://bsky.app/profile/teamforever.bsky.social)
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/mods/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [Addons](https://mb.srb2.org/addons/) / [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
@@ -353,6 +353,7 @@
 * ⭐ **[hShop](https://hshop.erista.me/)** / [Discord](https://discord.gg/dYKm279) or [3DS ROMS](https://3dsroms.org) - ROMs / 3DS
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
+* [ROM Heaven](https://romheaven.com/switch) - ROMs / Switch
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
@@ -922,7 +923,6 @@
 * [Owdle](https://owdle.guessing.day/) - Overwatch Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
-* [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
 
 ***
 

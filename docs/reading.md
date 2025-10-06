@@ -13,6 +13,8 @@
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Invite Required](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+* [eBookBB](https://ebookbb.in/) - Books / Download
+* [iBookPile](https://ibookpile.in/) - Books / Download
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [The Library](https://discord.gg/mSyFJz9) - Books / Discord
@@ -848,7 +850,7 @@
 
 # ► Tracking / Database
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
@@ -856,6 +858,7 @@
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
+* [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
