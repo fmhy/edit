@@ -597,7 +597,6 @@
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
-* [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
 
 ***
 
