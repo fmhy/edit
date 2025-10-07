@@ -105,6 +105,7 @@
 * [r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
 * [r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Trending Free Steam Games](https://trendingnow.games/free)- Live updating list of top trending free games on Steam
 
 ***
 
