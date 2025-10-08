@@ -43,7 +43,6 @@
 * [Yupp.ai](https://yupp.ai/) - o3 Pro / Claude 4.1 Opus / Grok 4 / Gemini 2.5 Pro / DeepSeek V3.1 / Google Login Required
 * [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
-* [⁠Team GPT](https://team-gpt.com/) -  Claude 4 / GPT-5 / Sign-Up Required
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B  / Sign-Up Required / [Discord](https://discord.gg/invite/groq)
