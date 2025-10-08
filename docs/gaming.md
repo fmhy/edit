@@ -401,7 +401,7 @@
 ## ▷ Browser Emulators
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
-* ↪️ **[EmulatorJS / NeptunJS](https://rentry.co/EmulatorJS-NeptunJS)** - Frontends for EmulatorJS / NeptuneJS
+* ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator

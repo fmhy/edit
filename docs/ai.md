@@ -43,7 +43,6 @@
 * [Yupp.ai](https://yupp.ai/) - o3 Pro / Claude 4.1 Opus / Grok 4 / Gemini 2.5 Pro / DeepSeek V3.1 / Google Login Require
 * [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
-* [⁠Team GPT](https://team-gpt.com/) -  Claude 4 / GPT-5
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / [Discord](https://discord.gg/invite/groq)
@@ -275,10 +274,6 @@
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
-
-***
-
-## ▷ [Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)
 
 ***
 

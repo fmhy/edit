@@ -240,7 +240,7 @@
 
 ***
 
-# ► Debrid
+# ► Debrid / Leeches
 
 * 🌐 **[Debrid Services Comparison](https://debridcompare.pages.dev/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
@@ -248,6 +248,7 @@
 * ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
+* [LeechListing](https://www.leechlisting.com/) - File Host Leech Index
 
 ***
 

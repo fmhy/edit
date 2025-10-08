@@ -510,7 +510,8 @@
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
-* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries 
+* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
+* [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Sign-Up Required
 * [Upstract](https://upstract.com/)
@@ -612,6 +613,7 @@
 * [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 
 ***
 
@@ -966,6 +968,8 @@
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
+* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 
 ***
 
@@ -1110,7 +1114,7 @@
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [FreeSewing](https://freesewing.eu/) - Free Clothing Sewing Patterns / [Forum](https://forum.freesewing.eu/)
-* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
+* [r/CurlyHair Guide](https://docs.google.com/document/d/e/2PACX-1vSvGm-p4tvrstjT-XEo6pTHZSYeEON7xF5lPSnNv-3Kc2lCrdnkjXhFbdHt4pF3HUetWZ1j9dgfBBkS/pub) - Curly Hair Haircare Guide
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking

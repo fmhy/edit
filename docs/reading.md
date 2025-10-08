@@ -308,6 +308,7 @@
 
 ## ▷ Esoteric / Cultural
 
+* 🌐 **[Archives](https://rentry.co/FMHYB64#archives)** - Esoteric / Occult Resources
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
 * [Theoi](https://www.theoi.com/) - Greek Mythology
@@ -809,6 +810,7 @@
 * [The Uncensored Library](https://www.uncensoredlibrary.com/en) - Uncensored / Declassified Documents
 * [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
+* [Archives.gov/](https://www.archives.gov/) - Declassified Documents
 * [DDOS](https://ddosecrets.com/) - Transparency Collective
 * [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports

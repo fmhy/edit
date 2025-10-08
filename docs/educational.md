@@ -162,6 +162,7 @@
 
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
+* ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** or [Oldest](https://www.oldest.org/) - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
@@ -186,6 +187,7 @@
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
+* [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
@@ -683,11 +685,12 @@
 * [⁠NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [NSSDCA](https://nssdc.gsfc.nasa.gov/) - NASA Space Science Mission Data
+* [Sen](https://www.sen.com/) - ISS Live Feed + Video Archive / [YouTube](https://www.youtube.com/@Sen) / [X](https://x.com/sen)
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
+* [Satellite Map](https://satellitemap.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [GitHub](https://github.com/orbitersim/orbiter)
-* [Satellite Map](https://satellitemap.space/), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
 
 ***
@@ -1246,6 +1249,7 @@
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
 * [CryptoPals](https://cryptopals.com/) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+* [⁠CrypTool](https://www.cryptool.org/) - Interactive Cryptology Learning / Puzzles
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 
 ***
@@ -1334,7 +1338,6 @@
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
-* ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
@@ -1419,7 +1422,7 @@
 * [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
-* [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYB64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
+* [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYB64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
 
 ***
 
