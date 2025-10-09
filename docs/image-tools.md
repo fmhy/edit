@@ -515,7 +515,7 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
+* [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
 * [STLFinder](https://www.stlfinder.com/) - Multi-Site Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
@@ -546,7 +546,7 @@
 * ⭐ **Blender Tools** - [Resources](https://t.me/BlenderUniverse/3), [2](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
 * [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
-* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler

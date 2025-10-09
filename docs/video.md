@@ -42,9 +42,9 @@
 * ⭐ **[BEECH](https://www.beech.watch/)** or [Mocine](https://mocine.cam/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * ⭐ **[Aether](https://aether.mom/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/MadMF7xb5q)
+* [Filmex](https://filmex.to/), [2](https://fmovies4u.com/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
-* [Filmex](https://filmex.to/), [2](https://fmovies4u.com/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * [Primeshows](https://www.primeshows.live/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
@@ -355,6 +355,7 @@
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
 * [Chicago Film Archives](https://www.chicagofilmarchives.org/) - Chicago Film Archive
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Archival Travel Footage
+* [Defense.gov](https://images.defence.gov.au/assets/), [DefenceImagery](https://www.defenceimagery.mod.uk/) or [DVidHub](https://www.dvidshub.net/) - Military Video Archives
 
 ***
 
@@ -419,7 +420,8 @@
 * ⭐ **[TimStreams](https://timstreams.xyz/)**, [2](https://timstreams.cfd/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
 * [Watch Footy](https://watchfooty.live/), [2](https://www.watchfooty.cc/), [3](https://www.watchfooty.vip/) - Stream Aggregator / [Discord](https://discord.gg/T38kUWZHtB) / [Mirrors](https://watchfty.win/)
-* [Streamex](http://streamex.cc/), [GoToStreamly](https://gotostreamly.sbs/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
+* [GoToStreamly](https://gotostreamly.sbs/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
+* [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek.to](https://totalsportek.me/), [2](https://buffstreams.app/) - Stream Aggregator
 * [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)

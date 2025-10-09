@@ -122,7 +122,7 @@
 
 * 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
+* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [GlobeRadio](https://globeradio.app/) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** - BBC Live & Catch-up Radio / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/) or [TuneIn](https://tunein.com/) - Podcasts / Radio
@@ -393,7 +393,7 @@
 * [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kb MP3
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / 128kb MP3
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
-* [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
+* [VK Bot](https://t.me/vkmsaverbot), [⁠VK Music Bot](https://t.me/vkmusic_bot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kb MP3
 
 ***
