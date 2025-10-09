@@ -236,7 +236,7 @@
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Pro](https://rentry.co/FMHYB64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
-* [Stirling-PDF](https://www.stirlingpdf.com/) / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+* [Stirling-PDF](https://www.stirlingpdf.com/) - Signup Required / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ***
 
