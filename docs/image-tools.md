@@ -733,6 +733,7 @@
 * [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
 * [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
+* [Gallery Pro](https://far-se.github.io/gallery-pro) / [GitHub](https://github.com/Far-Se/gallery-pro) - Browser Based Image & Video Gallery Viewer
 
 ***
 
