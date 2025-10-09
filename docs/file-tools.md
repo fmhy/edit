@@ -14,7 +14,7 @@
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
-* [⁠copyparty](https://github.com/9001/copyparty/) - Portable File Server
+* [copyparty](https://github.com/9001/copyparty/) - Portable File Server
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
@@ -26,7 +26,7 @@
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
+* [ExtractMetadata](https://www.extractmetadata.com/), [FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
@@ -42,7 +42,7 @@
 * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)** - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 * [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3) / [GitHub](https://github.com/BrisklyDev/brisk) 
+* [Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3) / [GitHub](https://github.com/BrisklyDev/brisk) 
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager
 * aria2 Tools - [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
@@ -78,13 +78,13 @@
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Various Converters / 40MB
-* [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
+* [Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
-* [⁠OfflineConvert](https://www.offlineconvert.com/) - File Converter
+* [OfflineConvert](https://www.offlineconvert.com/) - File Converter
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
@@ -194,7 +194,7 @@
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 * [FileBot](https://www.filebot.net/) - Media File Renaming
-* [TVRename](https://www.tvrename.com/) or [⁠Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
+* [TVRename](https://www.tvrename.com/) or [Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [Szyszka](https://github.com/qarmin/szyszka), [F2](https://github.com/ayoisaiah/f2), [Ant Renamer](https://www.antp.be/software/renamer) or [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamers
 
@@ -231,7 +231,7 @@
 ## ▷ Offline PDF Toolkits
 
 * ⭐ **[PDF24](https://www.pdf24.org/)**
-* [⁠PDF4QT](https://jakubmelka.github.io/) / [GitHub](https://github.com/JakubMelka/PDF4QT)
+* [PDF4QT](https://jakubmelka.github.io/) / [GitHub](https://github.com/JakubMelka/PDF4QT)
 * [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Pro](https://rentry.co/FMHYB64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
@@ -266,7 +266,7 @@
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
-* [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
+* [Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
 * [aQRoss](https://aqross.app/) or [qrcp](https://qrcp.sh/) / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filezilla)
@@ -312,18 +312,18 @@
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
-* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
+* [DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
-* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required
+* [MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Sign-Up Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
-* [⁠Filecad](https://www.filecad.com/) - 10GB / 120 Days
+* [Filecad](https://www.filecad.com/) - 10GB / 120 Days
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
-* [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
+* [TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
@@ -335,15 +335,15 @@
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
-* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Sign-Up Required
+* [DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Sign-Up Required
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
-* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
+* [UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
-* [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
+* [Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
@@ -357,7 +357,7 @@
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Sign-Up Required
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
-* [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
+* [PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 

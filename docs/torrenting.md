@@ -33,7 +33,7 @@
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.i2p](http://btdigg.i2p/) / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [⁠Trackly](https://trackly.cc/)
+* [Trackly](https://trackly.cc/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
@@ -108,7 +108,7 @@
 * 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
 * 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
-* [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
+* [qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
 * [rqBit](https://github.com/ikatson/rqbit/) - Rust Client
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
@@ -166,7 +166,7 @@
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
 * [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
-* [⁠TorrentTools](https://github.com/fbdtemme/torrenttools), [⁠mkbrr](https://mkbrr.com/) / [GitHub](https://github.com/autobrr/mkbrr) or [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) / [GitHub](https://github.com/Kimbatt/torrent-creator) - Torrent Creators
+* [TorrentTools](https://github.com/fbdtemme/torrenttools), [mkbrr](https://mkbrr.com/) / [GitHub](https://github.com/autobrr/mkbrr) or [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) / [GitHub](https://github.com/Kimbatt/torrent-creator) - Torrent Creators
 * [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
 * [r/torrents](https://reddit.com/r/torrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)

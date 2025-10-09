@@ -129,13 +129,13 @@
 * [FossHub](https://www.fosshub.com/) - FOSS Directory
 * [OSS Gallery](https://oss.gallery/) - FOSS Directory
 * [Opensource Builders](https://opensource.builders/) - FOSS Alt Search
-* [⁠AlternativeOSS](https://alternativeoss.com/) - FOSS Alt Search
+* [AlternativeOSS](https://alternativeoss.com/) - FOSS Alt Search
 * [OpenAlternative](https://openalternative.co/) - FOSS Alt Search
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - FOSS Alt Search
 * [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) or [CLI Club](https://cli.club/) - FOSS CLI Apps / Tools
 * [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Wikis
 * [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Wikis
-* [Is It Really FOSS](https://isitreallyfoss.com/⁠) - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
+* [Is It Really FOSS](https://isitreallyfoss.com/) - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
  
 ***
 

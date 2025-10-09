@@ -18,9 +18,9 @@
 
 ## ▷ Downloading / تحميل
 
-* [⁠Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
-* [⁠My Cima](https://my-cima.video/) - Movies / TV
+* [My Cima](https://my-cima.video/) - Movies / TV
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
@@ -34,7 +34,7 @@
 
 * ⭐ **[Cimaleek](https://m.cimaleek.to/)** - Movies / TV
 * ⭐ **[FaselHD](https://www.faselhds.xyz/)**, [2](https://web33.faselhd1watch.one/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [⁠ma3ak](https://ma3ak.top/) - Movies / TV
+* [ma3ak](https://ma3ak.top/) - Movies / TV
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
@@ -42,7 +42,7 @@
 * [egybest](https://egybest.la/) - Movies / TV / Anime
 * [shahid4u](https://shahid4u.mom/) - Movies / TV / Anime
 * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime
-* [⁠My Cima](https://my-cima.video/) - Movies / TV
+* [My Cima](https://my-cima.video/) - Movies / TV
 * [mycima](https://mycinma.com/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [kirmalk](https://ba.kirmalk.com/) - TV
@@ -100,7 +100,7 @@
 * [Boimate](https://boimate.com/) - Books
 * [ebanglalibrary](https://www.ebanglalibrary.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
-* [⁠Banglabook](https://www.banglabook.org/)
+* [Banglabook](https://www.banglabook.org/)
 * [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Downloads
 * [SovietBooksinBengali](https://sovietbooksinbengali.blogspot.com/) - Soviet Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
@@ -109,8 +109,8 @@
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
 * [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
-* [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
-* [⁠JBMovieBD](https://jbmoviebd.shop/) - Movies / TV
+* [MovieDokan](https://moviedokan.my/) - Movies / TV
+* [JBMovieBD](https://jbmoviebd.shop/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
 
@@ -578,7 +578,7 @@
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [livestream](https://www.livestream.ad/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
-* [⁠Zapp](https://github.com/mediathekview/zapp) - Live TV / Android
+* [Zapp](https://github.com/mediathekview/zapp) - Live TV / Android
 * [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
@@ -707,9 +707,9 @@
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
-* [⁠emwbd](https://www.emwbd.com/) - Movies / TV / 1080p
+* [emwbd](https://www.emwbd.com/) - Movies / TV / 1080p
 * [FiberMovies](https://fibermovies.beer/) - Movies / TV / 1080p
-* [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
+* [Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chromium Required
 * [Fojik](https://fojik.site/) - Movies
@@ -873,7 +873,7 @@
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [Poipiku](https://poipiku.com/) - User-Made Images
-* [⁠Voicevox](https://voicevox.hiroshiba.jp/) - FOSS Japanese TTS / Singing Synthesis
+* [Voicevox](https://voicevox.hiroshiba.jp/) - FOSS Japanese TTS / Singing Synthesis
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
@@ -1003,7 +1003,7 @@
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [IranFirewall](https://viewdns.info/iranfirewall/) - Iranian Firewall Block Test
-* [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
+* [projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](https://www.parseek.com/) - Search
 
@@ -1311,7 +1311,7 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [NoWar.help](https://www.nowar.help/) -  War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
@@ -1732,7 +1732,7 @@
 * [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
 * [KediKitap](https://t.me/KediKitap) - Books
 * [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
-* [⁠Hattusa](https://hattusa.club/) - Books
+* [Hattusa](https://hattusa.club/) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga
@@ -1746,7 +1746,7 @@
 
 # ► Ukrainian / Українська
 
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [NoWar.help](https://www.nowar.help/) -  War Resources / Help
 
 ## ▷ Torrenting
 
