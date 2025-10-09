@@ -557,7 +557,7 @@
 * [freemusicpublicdomain](https://www.freemusicpublicdomain.com/) - Public Domain Tracks
 * [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
-* [Sampld](https://sampld.app/) - Sample Finder
+* [Sampld](https://sampld.app/) - Find Audio Samples
 
 ***
 
@@ -723,7 +723,7 @@
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
 * ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)**
-* ⭐ **[MusicBee](https://getmusicbee.com/)** / [Quality Bades](https://wiki.musichoarders.xyz/reference/musicbee/)
+* ⭐ **[MusicBee](https://getmusicbee.com/)** / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/)
 * [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
@@ -851,6 +851,7 @@
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
+* [⁠Acoustic Spectrum Analyzer](https://spec.squid.wtf/)
 * [Visual Analyser](https://www.sillanumsoft.org/)
 * [⁠WhatsMyBitrate](https://whatsmybitrate.com/)
 * [Friture](https://friture.org/)
@@ -859,7 +860,7 @@
 
 ***
 
-## ▷ [Linux Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+## ▷ [Linux Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_audio)
 
 ***
 

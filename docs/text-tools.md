@@ -223,9 +223,9 @@
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Notion](https://www.notion.com/)** - Note-Taking
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/)
-* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [GitHub](https://github.com/streetwriters/notesnook)
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [GitHub](https://github.com/anyproto/anytype-ts)
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / [GitHub](https://github.com/logseq/logseq)
+* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [Discord](https://discord.com/invite/notesnook-796015620436787241) / [GitHub](https://github.com/streetwriters/notesnook)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
@@ -245,7 +245,7 @@
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes
-* [StandardNotes](https://standardnotes.com/) - Encrypted Notes
+* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)

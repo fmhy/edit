@@ -709,7 +709,7 @@
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
 * [⁠emwbd](https://www.emwbd.com/) - Movies / TV / 1080p
 * [FiberMovies](https://fibermovies.beer/) - Movies / TV / 1080p
-* [⁠Cinemalux](https://cinemalux.store/) - Movies / TV / 1080p
+* [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Chromium Required
 * [Fojik](https://fojik.site/) - Movies
