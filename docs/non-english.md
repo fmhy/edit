@@ -1142,7 +1142,7 @@
 
 ## ▷ Torrenting
 
-* 🌐 **[Pirataria Trackers](https://pirataria.link/trackers#🔰-➜-trackers-brasileiros)** - Private Tracker Index
+* 🌐 **[Trackers.md](https://pirataria.link/trackers#🔰-➜-trackers-brasileiros)** - Private Tracker Index
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
