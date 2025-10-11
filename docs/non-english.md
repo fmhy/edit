@@ -699,7 +699,6 @@
 * ⭐ **[TamilMV](https://www.1tamilmv.vc/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
 * [Bollyflix](https://bollyflix.army/) - Movies / TV / Anime
-* [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://ssrmovies.onl/telegram/)
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://mkvmad.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1812,7 +1811,7 @@
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [OPhim](https://ophim.movie/) - Movies / TV / Anime / Sub / 1080p
+* [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p

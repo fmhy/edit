@@ -609,6 +609,8 @@
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
+* [⁠HemOnc](https://hemonc.org/) - Hematology / Oncology Reference Site
+* [DermNet](https://dermnetnz.org/) - Dermatology Reference Site
 * [⁠EyeWiki](https://eyewiki.org/) - Eye Encyclopedia
 * [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter

@@ -711,7 +711,7 @@
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
-* [Wingman](https://github.com/wingman-jr-addon/wingman_jr), [HaramBlur](https://linktr.ee/haramblur) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
+* [Wingman](https://github.com/wingman-jr-addon/wingman_jr), [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
 
 ***
@@ -893,7 +893,7 @@
 * ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
 * [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps
 * [⁠Free File](https://apps.irs.gov/app/freeFile/), [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
-* [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
+* [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) / [iOS](https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930) or [Sushi](https://github.com/jerameel/sushi) - Mobile Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
 * [Ledger](https://ledger-cli.org/) or [hledger](https://hledger.org/index.html) - Accounting Systems
@@ -969,6 +969,7 @@
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
+* [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
 
 ***
 
@@ -976,14 +977,13 @@
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)** / [2](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
-* ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
-* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
+* ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
+* ⭐ **[rtings](https://www.rtings.com/)** - Hardware / Tech Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
-* [ProductChart](https://www.productchart.com/) - Electronic Comparisons
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community

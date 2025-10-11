@@ -163,7 +163,7 @@
 * [Codacy](https://www.codacy.com/) - Code Fixing AI / [GitHub](https://github.com/codacy)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
 * [⁠Orchids](https://orchids.app/) - Text to Site Code
-* [v0](https://v0.dev/) - Text to Site Code
+* [v0](https://v0.app/) - Text to Site Code
 * [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - Text to Site Code / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Fragments](https://fragments.e2b.dev/) - AI App Builder / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev)

@@ -794,7 +794,6 @@
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [Apache](https://httpd.apache.org/) - HTTP Server
-* [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [Transform](https://transform.tools/) - Polyglot Web Converter
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Privacy-Based Captcha Systems
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
@@ -958,7 +957,6 @@
 * [faustjs](https://faustjs.org) - WordPress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
-* [UUID Tools](https://www.uuidtools.com/) - UUID Generator
 
 ***
 
@@ -1165,6 +1163,8 @@
 * [spur.us](https://spur.us/) - Block VPNs / Proxies
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
+* [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
+* [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 * [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
