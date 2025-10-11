@@ -432,7 +432,7 @@
 * [⁠GoalieTrend](https://www.goalietrend.com/daily-event) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
 * [SportOnTV](https://sportontv.online/) / [Discord](https://discord.gg/YhQPSSMps2)
-* [NFLBite](https://nflbite.digital/), [2](https://crackstreams.diy/), [3](https://nhlbite.cc/)
+* [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
 * [Sports Plus](https://en12.sportplus.live/)
 * [⁠StreamFree](https://streamfree.to/) / [Telegram](https://t.me/streamfreeto) / [Discord](https://discord.gg/ude9X5xwYC)
 * [CrackStreams.blog](https://crackstreams.blog/)
@@ -569,7 +569,7 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
 
 ***
 
@@ -599,7 +599,7 @@
 * [DDLBase](https://ddlbase.com/) - Movies / 4K
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
-* [Cineby](https://www.cineby.app/), [2](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* [Cineby](https://www.cineby.app/), [2](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [FlickyStream](https://flickystream.ru/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / [Telegram](https://t.me/FlickyStream) / [Discord](https://discord.gg/M7y867cg)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
@@ -667,7 +667,7 @@
 
 ## ▷ Anime Downloading
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
 
 ***
 

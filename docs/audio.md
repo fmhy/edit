@@ -370,8 +370,8 @@
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
-* [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / Bandcamp / 128kb AAC
-* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / FLAC / Use Firehawk52
+* [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / 128kb AAC
+* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free 256 ACC Premiuim / Nice Metadata / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
 * [tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Tidal / Use Firehawk52
