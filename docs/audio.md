@@ -37,6 +37,7 @@
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
+* [squid.wtf](https://tidal.squid.wtf) - Browser Music / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
@@ -351,8 +352,8 @@
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Khinsider / Tidal / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
-* [AMP3](https://amp3.cc/) - YouTube / 320kb
-* [EzConv](https://ezconv.com/) - YouTube / 320kb
+* [AMP3](https://amp3.cc/) - YouTube / 256kb
+* [EzConv](https://ezconv.com/) - YouTube / 256kb
 * [cobalt](https://cobalt.tools/) - SoundCloud / 320kb / MP3 / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 
 ***
