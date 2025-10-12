@@ -12,15 +12,16 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** or [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / Flash / Google Chatbots / Sign-Up Required (AI Studio) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Qwen3-235B-A22B-2507 / Qwen3-Omni-Flash / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 2.5 Pro / Unlimited / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / GPT-4o / o4-mini / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.6 Chatbot / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2-Exp / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (80 daily) / Grok 4 (20 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2-0905 Chatbot / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4.5 Sonnet / Sign-Up with Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [ChatGPT](https://chatgpt.com/) - GPT-5 / GPT-5 mini Chatbot / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#chatgpt-note) / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1.1 / Baidu's Chatbot / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [⁠LongCat](https://longcat.chat/) - LongCat-Flash-Chat / Unlimited
 * [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
@@ -284,6 +285,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
+* [Grok Imagine](https://grok.com/imagine) - Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [AI Studio](https://aistudio.google.com/generate-video) - Veo 2 / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / Unlimited / US IP or VPN Required / Use Alt Account
 * [Vidu](https://www.vidu.studio/) - 10 Monthly / [Discord](https://discord.gg/3pDU8fmQ8Y)

@@ -50,7 +50,7 @@
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
 * [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
-* [VoidFlix](https://voidflix.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
+* [VoidFlix](https://voidflix.pages.dev/) or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
 * [Mapple.tv](https://mapple.mov/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
