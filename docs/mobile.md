@@ -389,6 +389,7 @@
 * [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
 * [UhuruPhotos](https://uhuru.photos) - Photo / Video Gallery / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android)
 * [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Gallery
+* [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) - Photo / Video Gallery
 * [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - Image Gallery Cleaner
 
 ***
