@@ -115,7 +115,7 @@
 
 ## ▷ APK Tools
 
-* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [UpdateMe](https://github.com/anfreire/updateMe-Mobile) (modded), [Inure](https://rentry.co/FMHYB64#inure) or [PackageManager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
+* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://rentry.co/FMHYB64#inure) or [PackageManager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
 * ⭐ **[Lucky Patcher](https://rentry.co/FMHYB64#lucky-patcher)** - App Patcher
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Obtainium](https://obtainium.imranr.dev/)** / [Configs](https://apps.obtainium.imranr.dev/) / [GitHub](https://github.com/ImranR98/Obtainium), [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
