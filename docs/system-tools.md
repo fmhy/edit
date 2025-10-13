@@ -33,6 +33,7 @@
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* [Tabame](https://github.com/Far-Se/tabame) - Taskbar Alternative combined with [different abilities](https://github.com/Far-Se/tabame?tab=readme-ov-file#main-features)
 
 ***
 
