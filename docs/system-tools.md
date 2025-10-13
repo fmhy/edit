@@ -216,7 +216,7 @@
 ## ▷ Hardware Monitors
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor
+* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor
