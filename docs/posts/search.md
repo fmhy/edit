@@ -23,7 +23,7 @@ Search engine hosted on FMHY.net
 
 ---
 
-### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
+### [GitHub Search](https://github.com/search?q=repo%3Afmhy%2FFMHY+&type=wikis)
 
 GitHub page search engine
 
