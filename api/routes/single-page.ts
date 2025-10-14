@@ -39,7 +39,11 @@ const files = (
     'torrenting.md',
     'unsafe.md',
     'video-tools.md',
-    'video.md'
+    'video.md',
+    'sandbox.md',
+    'startpage.md',
+    'posts.md',
+    'feedback.md',
   ] as const
 ).map((file) => ({
   name: file,
