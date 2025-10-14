@@ -155,7 +155,7 @@
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder) - Coding AI
-* [AI SDK](https://sdk.vercel.ai/) - Coding AI/ [GitHub](https://github.com/vercel/ai)
+* [AI SDK](https://sdk.vercel.ai/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Sign-Up
 * [⁠Seron](https://www.seron.dev/) - Coding AI
