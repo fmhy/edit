@@ -263,7 +263,7 @@
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
-* [Virgil Software Search](https://virgil.samidy.com/software-search/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
+* [Virgil Software Search](https://virgil.samidy.com/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=e9657e69c76480cb8), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://ravebooksearch.com/), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Search Audiobook Sites
@@ -280,7 +280,7 @@
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
 * [Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55) - Search Audio Torrent Sites
-* [Virgil Game Search](https://virgil.samidy.com/Game-search/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* [Virgil Game Search](https://virgil.samidy.com/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) - Search Game Torrent Sites
 * [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts

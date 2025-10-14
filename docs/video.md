@@ -371,7 +371,7 @@
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
-* ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), [4](https://dlhd.click/), [5](https://daddylivestream.com/) - TV / [Self-Hosted Proxy](https://rentry.co/FMHYB64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
+* ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), - TV / [Self-Hosted Proxy](https://rentry.co/FMHYB64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
 * ⭐ **[TVPAss](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only

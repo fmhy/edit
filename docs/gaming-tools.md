@@ -131,7 +131,7 @@
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.cr/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYB64#cinematictools-archive) - Game Camera Mods
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
-* [WabbaJack](https://www.wabbajack.org/) - Automated Modlist Installer / [Fixes](https://rentry.co/FMHYB64#wabbajack) / [Discord](https://discord.com/invite/wabbajack)
+* [WabbaJack](https://www.wabbajack.org/) - Automated Modlist Installer / [Discord](https://discord.com/invite/wabbajack)
 * [ModWorkshop](https://modworkshop.net/) - Game Mods / [Discord](https://discord.com/invite/Eear4JW)
 * [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)

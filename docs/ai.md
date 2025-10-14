@@ -324,6 +324,7 @@
 * [Genspark](https://www.genspark.ai/) - Unlimited / Flux Schnell / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html) - Unlimited / Flux Schnell 
 * [Loras](https://www.loras.dev/) - Flux Schnell / Unlimited / [GitHub](https://github.com/Nutlope/loras-dev)
+* [PigenAI](https://pigenai.art/) - Unlimited
 * [AIGazou](https://muryou-aigazou.com/) - Unlimited / 10 GPT Image 1 or Seedream 3.0 Daily / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up Required

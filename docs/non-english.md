@@ -1647,7 +1647,6 @@
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](https://heavenmanga.com/) - Manga
 * [InManga](https://inmanga.com/) - Manga

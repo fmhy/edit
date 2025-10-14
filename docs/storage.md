@@ -116,6 +116,7 @@
 * [PlayRetroGames](https://playretrogames.net/) - Retro Consoles / EmulatorJS / [Discord](https://discord.gg/qw9caq2qEg)
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro Consoles / EmulatorJS
 * [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
+* [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
