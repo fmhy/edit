@@ -913,6 +913,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* [Salary Calculator](https://salary-calculator.ai/) - Salary-Calculator.ai helps you compare net salaries worldwide instantly
 
 ***
 
