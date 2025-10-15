@@ -452,6 +452,9 @@
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [Abandonware Videos](https://www.abandonware-videos.org/) - Retro Game Related Videos
+* [Télécharger Audio TikTok et YouTube](https://www.convertidor.mx/fr/outils/telecharger-audio-tiktok-youtube.html) - Youtube / TikTok Audio
+* [Télécharger Vidéos TikTok](https://www.convertidor.mx/fr/outils/telecharger-videos-tiktok.html) - TikTok Video Downloader
+* [Convertisseur Vidéo MP3](https://www.convertidor.mx/fr/outils/convertisseur-video-mp3.html) - Convert Videos to MP3
 
 ## ▷ Torrenting
 
@@ -546,6 +549,9 @@
 * [Data Load](https://www.data-load.in/) - Movies / Sign-Up Required
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [CannaPower](https://canna-power.to/) - Audio
+* [TikTok-Videos herunterladen](https://www.convertidor.mx/de/werkzeuge/tiktok-videos-downloaden.html) - TikTok Video Downloader
+* [TikTok und YouTube Audio herunterladen](https://www.convertidor.mx/de/werkzeuge/youtube-tiktok-mp3-herunterladen.html) - Youtube Tiktok Audio Downloader
+* [Video zu MP3 Konverter](https://www.convertidor.mx/de/werkzeuge/video-zu-mp3-konverter.html) - Convert Videos to MP3
 
 ## ▷ Streaming
 
@@ -1138,6 +1144,9 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
+* [Baixar Áudio do TikTok e YouTube](https://www.convertidor.mx/pt-br/ferramentas/baixar-audio-tiktok-youtube.html) - Youtube Tiktok Audio Downloader
+* [Baixar Vídeos do TikTok](https://www.convertidor.mx/pt-br/ferramentas/baixar-videos-tiktok.html) - TikTok Video Downloader
+* [Conversor de Vídeo para MP3](https://www.convertidor.mx/pt-br/ferramentas/conversor-video-mp3.html) - Convert Videos to MP3
 
 ## ▷ Torrenting
 
@@ -1535,6 +1544,10 @@
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 * [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
+* [Convertidor.mx](https://www.convertidor.mx) - Convertidor online gratis: +40 herramientas de conversión gratuitas sin registro.
+* [Descargar Audio de TikTok y YouTube](https://www.convertidor.mx/herramientas/descargar-audio-tiktok-youtube.html) - Youtube TikTok Audio Downloader
+* [Descargar Videos de TikTok](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html) - TikTok Video Downloader
+* [Convertidor de Video a MP3](https://www.convertidor.mx/herramientas/convertidor-de-video-a-mp3.html) - Convert Video to MP3
 
 ## ▷ Torrenting / Torrentear
 
