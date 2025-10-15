@@ -90,6 +90,7 @@
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
 * [MiConv](https://miconv.com/) - File Converter / 75MB
+* [Convertidor.mx](https://www.convertidor.mx/en/) - Over 40+ Conversion Tools / 1GB
 
 ***
 
