@@ -211,8 +211,7 @@
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive / [GitHub](https://github.com/etchdroid/etchdroid)
 * [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) / [GitHub](https://github.com/LunarEclipseCode/engrc-3500-team2) - Android Usage Guides
 * [ADB101](https://rentry.co/adb101) - Android Debug Bridge Setup Guide
-* [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
-* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info
+* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
 * [Swappa](https://swappa.com/imei) / [Subreddit](https://reddit.com/r/swappa) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness

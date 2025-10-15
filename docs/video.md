@@ -25,7 +25,7 @@
 * [StreamM4u](https://streamm4u.com.co/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [BFLIX](https://bflix.sh/) - Movies / TV
 * [MovieHD](https://moviehd.us) - Movies / [Telegram](https://t.me/+NthvAOpP0oNkMWU1)
-* [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / Mostly 3rd Party Hosts
+* [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / Mostly 3rd Party Hosts / [Status](https://rentry.co/primewire)
 * [StreamDB](https://streamdb.online/) - Movies / TV / 3rd Party Hosts / [Telegram](https://t.me/streamdb_online)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 3rd Party Hosts
@@ -251,7 +251,7 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcostream.tv/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/) / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/29349#issuecomment-3231974507)
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcostream.tv/), [3](https://www.wcoforever.net/) - TV / Movies / Anime / [Status](https://www.wcostatus.com/) / [Anti-Adblock Fix](https://github.com/uBlockOrigin/uAssets/issues/29349#issuecomment-3231974507)
 * ⭐ **[KimCartoon](https://kimcartoon.si/)** - TV
 * [KissCartoon](https://kisscartoon.nz/), [2](https://kisscartoon.sh/) - TV / [Discord](https://discord.gg/YwpgPrWVSH)
 * [TamilToon](https://tamiltoon.net/) - TV / Movies / Anime / Switch Language in Player
@@ -464,7 +464,7 @@
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays
 * ⭐ **[Footballia](https://footballia.net/)**, [2](https://footballia.eu/) - Classic Football Replays
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays
-* ⭐ **[1Max](https://1max.top/)** or [RealFights](https://realfight.org/) - MMA / Wrestling / Boxing Replays / 720p
+* ⭐ **[1Max](https://1max.top/)** or [RealFights](https://realfight.org/) - MMA / Wrestling / Boxing Replays
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays
 * ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/)

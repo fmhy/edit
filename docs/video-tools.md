@@ -385,6 +385,7 @@
 * ⭐ **[kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required / Fake Info Works
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
+* [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor

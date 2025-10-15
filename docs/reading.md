@@ -66,6 +66,7 @@
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
+* [GrimmStories](https://www.grimmstories.com/) or [AndersenStories](https://www.andersenstories.com/) - Fairy Tales
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)

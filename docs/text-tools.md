@@ -239,6 +239,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Memos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
 * [Papers.IM](https://papers.im/) - Note-Taking
+* [Janta](https://app.janta.dev/) - Note-Taking
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking

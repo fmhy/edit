@@ -41,7 +41,7 @@
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
-* [Yupp.ai](https://yupp.ai/) - o3 Pro / Claude 4.1 Opus / Grok 4 / Gemini 2.5 Pro / DeepSeek V3.1 / Google Login Required
+* [Yupp.ai](https://yupp.ai/) -  Multiple Chatbots / Google Login Required
 * [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
