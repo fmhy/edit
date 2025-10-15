@@ -1694,9 +1694,9 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** or [TemizAramaMotorum](https://gitlab.com/fr0stb1rd/temizaramamotorum) - Get rid of low-quality Turkish results
-* [DoğrulukPayı](https://www.dogrulukpayi.com/) - News Verification
-* [Market Fiyati](https://marketfiyati.org.tr/) - Market Prices
+* ⭐ **[Caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** or [Temiz Arama Motorum](https://gitlab.com/fr0stb1rd/temizaramamotorum) - Get rid of low-quality Turkish results
+* [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
+* [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
 ## ▷ Downloading / İndirme
 
@@ -1713,9 +1713,8 @@
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Dizipal](https://www.google.com/search?q=dizipalx&num=1) - Movies / TV / Sub / Dub / 1080p
-* [Dizilla](https://dizilla.club) - Movies / TV / Sub / Dub / 1080p
-* [SeriesAZ](https://seriesaz.com/) - Movies / TV / Sub / Dub / 1080p
-* [filmmakinesi](https://filmmakinesi.de/) - Movies / TV / Sub / Dub / 1080p
+* [Dizilla](https://www.google.com/search?q=dizilla&num=1) - Movies / TV / Sub / Dub / 1080p
+* [Film Makinesi](https://filmmakinesi.de/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
@@ -1723,7 +1722,8 @@
 * [Jet Film izle](https://jetfilmizle.de/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/), [AnimeciX](https://anm.cx/), [SeiCode](https://seicode.net/), [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
-* [CanlıTV](https://www.canlitv.me/) - Live TV
+* [Canlı TV](https://www.canlitv.me/) - Live TV
+* [Kral Bozguncu](https://discord.gg/kral) - Talk and watch football.
 
 ## ▷ Reading / Okuma
 
