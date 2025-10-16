@@ -7,13 +7,13 @@
 * **Warning** - It's best to avoid torrent sites (including aggregators) for software and games, with the exception of RuTracker and m0nkrus. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
-
 # ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[m0nkrus](https://monkrus.dvuzu.com/)** - Adobe / Autodesk Software / [Show Links](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#m0nkrus) / [VK Backup](https://vk.com/monkrus) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **Adobe Tools** - [GenP](https://rentry.co/FMHYB64#genp) / [Block Adobe](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Adobe Guide](https://rentry.co/FMHYB64#adobe-guide)
+* ⭐ **[pyjetbra](https://codeberg.org/TianmuTNT/pyjetbra) - Jetbrains Torrenting via Python
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
