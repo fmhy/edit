@@ -20,7 +20,7 @@ Here you'll find some general guidelines for those who would like to start contr
 - **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/privacy#vpn) and [Debrid](/downloading#leeches-debrid).
 - **🕹️ Emulators** - Already listed on [Index Sites](/gaming#emulators).
 - **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept [indexes](/internet-tools#browser-tools), privacy-focused, and good mobile ones.
-- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloading#leeches-debrid), don't submit these.
+- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloading#debrid-leeches), don't submit these.
 - **🐧 Linux Distros** - Already listed on [Index Sites](/linux-macos#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
 - **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
