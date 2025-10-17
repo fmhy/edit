@@ -23,6 +23,8 @@
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) or [pulse](https://473999.net/pulse) - Listen Together / Listening Parties
+* [Sonosano](https://github.com/KRSHH/Sonosano) -  Self hosted Open-source P2P Truly Lossless Music / [Web](https://sonosano.krshh.com) / [Discord](https://discord.gg/Np7YYEVPhR)
+
 
 ***
 
