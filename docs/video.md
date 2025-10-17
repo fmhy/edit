@@ -30,6 +30,8 @@
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 3rd Party Hosts
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
+* [LunaStream](https://lunastreamtv.netlify.app), [2](https://luna-stream.vercel.app), [3](https://luna-plus.vercel.app), [4](https://luna-stream-v2.vercel.app) - Movies / TV / Anime / Auto-Next
+* [BroFlix](https://broflix.cc) - Movies / TV / Anime 
 
 ***
 
@@ -402,6 +404,7 @@
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
 * [TitanTV](https://titantv.com/) - Live TV Listings
+* [BroFlix](https://broflix.cc) - TV / Sports
 
 ***
 
@@ -455,7 +458,7 @@
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
 * [Tiz-Cycling](https://tiz-cycling.tv/) - Cycling
 * [F1 Dash](https://f1-dash.com/) - F1 Live Stats / [GitHub](https://github.com/slowlydev/f1-dash)
-
+* [BroFlix](https://broflix.cc) - TV / Sports
 ***
 
 ## ▷ Sports Replays
