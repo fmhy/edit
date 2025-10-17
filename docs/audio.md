@@ -38,7 +38,7 @@
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
-* [squid.wtf](https://tidal.squid.wtf) - Browser Music / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+* [squid.wtf](https://tidal.squid.wtf) - Browser Music
 * [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Browser Music / [GitHub](https://github.com/eduardprigoana/monochrome)
 * [BiniLossless](https://music.binimum.org/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
