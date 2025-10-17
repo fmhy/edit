@@ -862,6 +862,7 @@
 * [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) - French Learning Videos 
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
+* [The People's Dictionary](https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html) - Swedish Translation Dictionary
 
 ***
 

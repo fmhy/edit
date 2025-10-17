@@ -39,6 +39,8 @@
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
 * [squid.wtf](https://tidal.squid.wtf) - Browser Music / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Browser Music / [GitHub](https://github.com/eduardprigoana/monochrome)
+* [BiniLossless](https://music.binimum.org/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
@@ -351,9 +353,8 @@
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Tidal / FLAC
-
-
-
+* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Tidal / FLAC / [GitHub](https://github.com/eduardprigoana/monochrome)
+* [BiniLossless](https://music.binimum.org/) - Tidal / FLAC
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
