@@ -907,6 +907,7 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
 * [utako](https://web.utako.moe/) - Live TV
+* [iptv-jp](https://rentry.co/fmhyb64#iptv-playlists) - Japanese IPTV Resources
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [SimulRadio](https://simulradio.info/) - Radio
 * [Kagakueizo](https://www.kagakueizo.org/) - Science Documentaries
@@ -1500,7 +1501,6 @@
 * [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino
 * [Mega-Mkv](https://wwv.peliculastoday.net/) - Movies / TV / 1080p / Latino / Castilian
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
-* [TodoPelisHD](https://todopelishd.com/) - Movies / 1080p / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Castilian / Latino / Requires Waitlist / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [SeiresHD](https://seireshd.com/) - Movies / TV / Animation / 1080p / Latino
@@ -1897,7 +1897,7 @@
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
-* [iptv-ch](https://rentry.co/FMHYB64#swiss-iptv-playlists) - Swiss / IPTV Resources
+* [iptv-ch](https://rentry.co/fmhyb64#iptv-playlists) - Swiss / IPTV Resources
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course

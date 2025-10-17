@@ -191,7 +191,6 @@
 * [Clownsec](https://rentry.co/FMHYB64#clownsec) - 3D Movies for 3DS / [Discord](https://discord.gg/fk3yPBY7s9)
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [Domain Expansion](https://rentry.co/FMHYB64#domain-expansion) - Reaction Channel Content
 * [TVARK](https://tvark.org/) or [Daily Commercials](https://dailycommercials.com/) - Commercial / TV Promo Archives
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
 * [BMCC](https://www.youtube.com/@BMCC1967/) - Movie / TV Director Commentaries
@@ -217,7 +216,7 @@
 * [Gojo](https://animetsu.to/), [2](https://animetsu.cc/) - Sub / Dub
 * [Otazumi](https://otazumi.page/ ) - Sub / Dub / Auto-Next / [GitHub](https://github.com/nishal21/otazumi)
 * [⁠AnimeZ](https://animeyy.com/) - Sub / Dub
-* [otakuu](https://otakuu.se/), [2](https://aniwave.at/)  - Sub / Dub / Auto-Next
+* [otakuu](https://otakuu.se/), [2](https://aniwave.at/) - Sub / Dub / Auto-Next
 * [TAnime](https://tanime.tv/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/R7a6yWMmfK)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
@@ -368,7 +367,7 @@
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
-* ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), - TV / [Self-Hosted Proxy](https://rentry.co/FMHYB64#daddylive-proxy) / [Mirrors](https://daddyny.com/)
+* ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), - TV / [Mirrors](https://daddyny.com/)
 * ⭐ **[TVPAss](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
 * [huhu.to](http://huhu.to/), [vavoo.to](http://vavoo.to/), [kool.to](http://kool.to/) or [oha.to](http://oha.to/) - TV / Sports / European
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
@@ -426,10 +425,12 @@
 * [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [TotalSportek](https://totalsportek.es/) or [Crackstreams.cz](https://crackstreams.cz/), [2](https://streameast.cz/)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
+* [SportDB](https://sportdb.pro/) - Stream Aggregator
 * [TotalSportek.to](https://totalsportek.me/), [2](https://buffstreams.app/) - Stream Aggregator
 * [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)
 * [SportsBite](https://sportsbite.cc/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [⁠GoalieTrend](https://www.goalietrend.com/daily-event) / [Discord](https://discord.gg/VKbvRcjDwa)
+* [⁠FCTV33](https://www.fctv33.click/)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
 * [SportOnTV](https://sportontv.online/) / [Discord](https://discord.gg/YhQPSSMps2)
 * [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
@@ -507,7 +508,6 @@
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 * [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
 * [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
-* [Best Player](https://apps.microsoft.com/detail/9wzdncrdpqsx?hl=en-US&gl=US) - IPTV Player / [Unlock](https://rentry.co/FMHYB64#best-player)
 * [IPTVPlayer](https://iptvplayer.stream/) - IPTV Web Player
 * [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
 * [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
@@ -533,11 +533,11 @@
 * [Playlet](https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet) - Ad-Free YouTube Roku Client / [GitHub](https://github.com/iBicha/playlet)
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
-* [StreamFire](https://rentry.co/FMHYB64#streamfire), [2](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
+* [StreamFire](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [2](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from Telegram to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG, etc.
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
-* [tvQuickActions](https://rentry.co/FMHYB64#tvquickactions) - Remote Button Remapper / Sign-Up Required
+* [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Sign-Up Required
 
 ***
 
@@ -551,7 +551,7 @@
 * [Android TV Guide](https://www.androidtv-guide.com/) - Certified Android TV Devices / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Emby Android TV App
-* [atvTools](https://rentry.co/FMHYB64#atvtools) - Install Apps, Run ADB, Shell Commands, etc.
+* [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
 * [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [GitHub](https://github.com/spocky/miproja1/releases) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 * [⁠AerialViews](https://github.com/theothernt/AerialViews) - Custom Screensaver App
@@ -719,7 +719,7 @@
 * [PlayTorrio](https://playtorrio.netlify.app/) - Torrent Streaming App / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Popcorn Time](https://popcorn-time.site/) - Torrent Streaming App / [GitHub](https://github.com/popcorn-official/popcorn-desktop/)
-* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/), [3](https://search-ace.stream/) / [Modded APK](https://rentry.co/FMHYB64#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/), [3](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App / [GitHub](https://github.com/webtorrent/webtorrent)
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
@@ -736,7 +736,7 @@
 
 ## ▷ Stremio Tools
 
-* 🌐 **[Stremio Addons](https://stremio-addons.net/)**  / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
+* 🌐 **[Stremio Addons](https://stremio-addons.net/)** / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
 * ⭐ **[Bye Sudo](https://bye.undi.rest/)** - Simple Stremio Guide
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** - Advanced Stremio Guide
 * [Stremio Addon Manager](https://addon-manager.viren070.me/) - Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)

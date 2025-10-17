@@ -59,7 +59,7 @@
 * ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
-* ⭐ **[wallabag](https://wallabag.org/)**  or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
+* ⭐ **[wallabag](https://wallabag.org/)** or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
@@ -445,7 +445,7 @@
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
-* [⁠TotallyLegit](https://totallylegit.edu.pl/), [EduMail](https://edumail.icu/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/)  or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
+* [⁠TotallyLegit](https://totallylegit.edu.pl/), [EduMail](https://edumail.icu/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 * [TempMailHub](https://tempmailhub.org/) - Gmail / 15 Mins / 1 Domain / Public Shared Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension

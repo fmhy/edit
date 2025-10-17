@@ -24,7 +24,7 @@
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping
-* [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYB64#makemkv-beta)
+* [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Version](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/)
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
@@ -125,7 +125,7 @@
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
 * [ffmpeg-web](https://ffmpeg-web.netlify.app/) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) - FFmpeg Web App / [GitHub](https://github.com/Dinoosauro/ffmpeg-web)
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
-* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Langauges
+* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Languages
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
@@ -489,7 +489,7 @@
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Viggle](https://viggle.ai/) / [Discord](https://discord.com/invite/viggle) or [Picrew](https://picrew.me/) - Animated Character Creators
-* [Mixamo](https://www.mixamo.com/), [Endorphin](https://rentry.co/FMHYB64#endorphin) / [Subreddit](https://www.reddit.com/r/endorphin/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
+* [Mixamo](https://www.mixamo.com/), [Endorphin](https://archive.org/) (search) / [Subreddit](https://www.reddit.com/r/endorphin/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Talking Face Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Talking Avatar Generator
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets

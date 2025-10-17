@@ -251,7 +251,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** or [WinDirStat](https://windirstat.net/) / [GitHub](https://github.com/windirstat/windirstat/) - Disk Usage Analyzers
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://rentry.co/FMHYB64#minitool-partition-wizard) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Unlocker](https://rentry.co/FMHYB64#aomei-partition) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -441,8 +441,7 @@
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
 * ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
-* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYB64#ghibli-upscaled) - Studio Ghibli Wallpapers
-* ⭐ **[Ultimate Windows Wallpack](https://rentry.co/FMHYB64#windows-wallpapers)** / [Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page), [Spotlight](https://windows10spotlight.com/) - Windows Wallpapers
+* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
 * [⁠WallsCloud](https://wallscloud.net/en/) - Search Wallpapers
@@ -453,9 +452,6 @@
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers
-* [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) or [BasicAppleBlog](https://basicappleguy.com/basicappleblog/category/Wallpaper) - Apple Wallpapers
-* [ChromecastBG](https://chromecastbg.alexmeub.com/) - Chromecast Wallpapers
-* [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/) - Bing Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Xbox Wallpapers
 * [Anime Pictures](https://anime-pictures.net/), [WallpaperWaifu](https://wallpaperwaifu.com/), [TheOtaku](https://theotaku.com/wallpapers/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers

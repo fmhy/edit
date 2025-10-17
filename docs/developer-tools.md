@@ -271,7 +271,7 @@
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - Convert Repos to Prompt-Friendly Text
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
-* [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
+* [Nightly.link](https://nightly.link/) - GitHub Shareable  Nightly Links
 * [ActionFlow](https://actionsflow.github.io/) - Action Workflow Automation
 * [act](https://nektosact.com/) - Run GitHub Actions Locally / [GitHub](https://github.com/nektos/act)
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
@@ -600,7 +600,7 @@
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
 * [snippet-generator](https://snippet-generator.app/) - Snippet Generator
-* [Dendron](https://www.dendron.so/) - Knowledge Managment
+* [Dendron](https://www.dendron.so/) - Knowledge Management
 * [Discord Tools](https://github.com/clementwzk/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server / [GitHub](https://github.com/coder/code-server)
@@ -832,10 +832,10 @@
 ## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Indexes
-* ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
 * ⭐ **[Framer](https://www.framer.com/)** - Website Builder
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** - Static Site Generator
+* ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
 * ⭐ **[VitePress](https://vitepress.dev/)** - Static Site Generator
 * ⭐ **[Docusaurus](https://docusaurus.io/)** - Static Markdown Website Generators / [GitHub](https://github.com/facebook/docusaurus)
 * [Retype](https://retype.com/) - Static Markdown Website Generator / [GitHub](https://github.com/retypeapp/retype)
@@ -882,7 +882,7 @@
 * [Palettte](https://palettte.app/) - Color Palette Editor
 * [Colouris](https://colouris.surge.sh/) - Color Model Conversions
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
-* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
+* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Palette Builders
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [Stylify Me](http://stylifyme.com/) - Extract Webpage Colors
@@ -1058,7 +1058,7 @@
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
-* [Host-Tracker](https://www.host-tracker.com/en/ic/check-http) or [OONI](https://ooni.org/) - Check Site Location Availability / [Bypass Paywall](https://rentry.co/FMHYB64#host-tracker-bypass)
+* [OONI](https://ooni.org/) - Check Site Location Availability
 * [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
@@ -1080,7 +1080,7 @@
 
 ***
 
-## ▷  Dynamic Page Hosting
+## ▷ Dynamic Page Hosting
 
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[vercel](https://vercel.com/)**

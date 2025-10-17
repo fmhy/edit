@@ -123,7 +123,7 @@
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator / EmulatorJS
 * [PlayRetroGames](https://www.playretrogames.com/) - Retro Consoles / NeptunJS
 * [PlayEmulator](https://playemulator.online/) - Retro Consoles / NeptunJS
-* [8bbit](https://www.8bbit.com/) -  NES Browser Emulator / NeptunJS
+* [8bbit](https://www.8bbit.com/) - NES Browser Emulator / NeptunJS
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator / NeptunJS
 
 ***
@@ -235,11 +235,11 @@
 
 ## LibGen Mirrors
 
-* https://librarygenesis.net/ - site list
-* https://libgen.li/ - clone
-* https://libgen.gs/ - clone
-* https://libgen.la/ - clone
-* https://rentry.co/m2hkqhwb - Differences between the mirrors
+* <https://librarygenesis.net/> - site list
+* <https://libgen.li> - clone
+* <https://libgen.gs> - clone
+* <https://libgen.la> - clone
+* <https://rentry.co/m2hkqhwb> - Differences between the mirrors
 
 ***
 

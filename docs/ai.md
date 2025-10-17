@@ -14,7 +14,7 @@
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 2.5 Pro / Unlimited / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/QwenAI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.6 Chatbot / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2-Exp / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (80 daily) / Grok 4 (20 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -41,12 +41,12 @@
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
-* [Yupp.ai](https://yupp.ai/) -  Multiple Chatbots / Google Login Required
+* [Yupp.ai](https://yupp.ai/) - Multiple Chatbots / Google Login Required
 * [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily
-* [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B  / Sign-Up Required / [Discord](https://discord.gg/invite/groq)
+* [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.gg/invite/groq)
 * [⁠Gradient](https://chat.gradient.network/) - GPT-OSS-120B / Qwen3-235B-A22B / No Sign-Up
 * [Scira](https://scira.ai/) - Grok 3 mini / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up

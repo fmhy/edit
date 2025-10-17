@@ -72,7 +72,6 @@
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
 * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
-* [Revival](https://rentry.co/FMHYB64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [OneHack](https://onehack.us/) - Courses / [Telegram](https://t.me/Official_OneHack)
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
@@ -81,7 +80,6 @@
 * [learningDL](https://learningdl.net/) - Courses / Leech Required
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
-* [firerip](https://rentry.co/FMHYB64#firerip) - Fireship.io Course Downloader
 
 ***
 
@@ -248,7 +246,7 @@
 * [Learning Music](https://learningmusic.ableton.com/) or [Musica](https://www.musicca.com/) - Music-Making Lessons
 * [Midiano](https://midiano.com/) / [Discord](https://discord.com/invite/SfFdbunEm2), [Piano Trainer](https://zaneh.itch.io/piano-trainer) / [GitHub](https://github.com/ZaneH/piano-trainer), [Chord Nebula](https://chords.yottanami.com/), [sightread](https://sightread.dev/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice / Learning
 * [Keyboard Connect](https://keyboardconnect.com/) - Keyboard Tutoring App
-* [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/) / [Premium](https://rentry.co/FMHYB64#songsterr), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
+* [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
 * [FretFlip](https://fretflip.com/guitar-scales), [Oolimo](https://www.oolimo.com/en/index.php), [StringScales](https://stringscales.com/), [My Fretboard Trainer](https://myfretboardtrainer.com/home/) or [GuitarScale](https://www.guitarscale.org/) - Learn Guitar Scales / Chords
 * [JamStart](https://jamstart.app/) - Spotify Chord Charts
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts
@@ -714,7 +712,7 @@
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/) or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
-* [Duolingo](https://rentry.co/FMHYB64#duolingo) / [Tips](https://duome.eu/tips), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYB64#busuu) - Language Learning Lessons
+* [Duolingo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Tips](https://duome.eu/tips), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Yomitan](https://yomitan.wiki/) - Popup Dictionary / [Discord](https://discord.gg/3v22CATnyr)
@@ -722,8 +720,8 @@
 * [Comprehensible Input Wiki](https://comprehensibleinputwiki.org/) - Learn Languages via Comprehensible Input
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [Refold](https://refold.la/) - Language Learning Roadmap
-* [Language Drops](https://languagedrops.com/) / [Premium](https://rentry.co/FMHYB64#language-drops) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
-* [Yojik](https://fsi-languages.yojik.eu/index.html) or [Pimsleur](https://rentry.co/FMHYB64#pimsleur) - Language Learning Courses
+* [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
+* [Yojik](https://fsi-languages.yojik.eu/index.html) - Language Learning Courses
 * [DLIFLC](https://gloss.dliflc.edu/) - Language Learning Quizzes
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [LanguageGuide](https://www.languageguide.org/) - Visual Language Learning
@@ -849,7 +847,7 @@
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
-* [MandoBot](https://mandobot.netlify.app/) - Mandarin Translation / Segementation
+* [MandoBot](https://mandobot.netlify.app/) - Mandarin Translation / Segmentation
 
 ***
 
@@ -861,7 +859,7 @@
 * [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [DreamingSpanish](https://www.dreamingspanish.com/) - Spanish Learning Videos
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
-* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) -  French Learning Videos 
+* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) - French Learning Videos 
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 
@@ -951,7 +949,7 @@
 * [HerculesChess](https://herculeschess.com/) - Learn / Practice Chess
 * [Chess Tempo](https://chesstempo.com/) - Chess Practice
 * [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
-* [Chess Coach](https://rentry.co/FMHYB64#chess-coach) - Chess Coaching App
+* [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Pawn Appétit](https://pawnappetit.com/) - Chess Game / Move Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
 * [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
@@ -1052,7 +1050,7 @@
 
 ## ► Coding Tutorials
 
-* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)**  - Project Based Learning Resources
+* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
 * ⭐ **[Build your own X](https://codecrafters.io)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P) / [GitHub](https://github.com/codecrafters-io/build-your-own-x)
 * [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [GeeksforGeeks](https://www.geeksforgeeks.org/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
 * [Guru99](https://www.guru99.com/) - Software / Web Development
@@ -1077,7 +1075,7 @@
 * [CS50](https://cs50.harvard.edu/python/) - Python Course
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Learn C](https://www.learn-c.org/) - C Tutorials
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or  [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips 
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
 * [Learn C++](https://www.learncpp.com/) or [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode), [Java Design Patterns](https://java-design-patterns.com/) or [learncs.online](https://www.learncs.online/) - Java / Kotlin Guides
@@ -1434,7 +1432,7 @@
 * [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
-* [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYB64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
+* [Cymath](https://www.cymath.com/), [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
 
 ***
 
@@ -1442,7 +1440,7 @@
 
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
-* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / [Files](https://rentry.co/FMHYB64#goldendict-files)
+* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries

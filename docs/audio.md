@@ -89,7 +89,6 @@
 * 🌐 **[365 Radio](https://365.ilysm.nl/)** - List of YouTube DJ Channels
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
-* ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/FMHYB64#bbc-essential)** - BBC Essential Mix / [Discovery Guide](https://rentry.co/musicdiscovery#bbc-radio-1-essential-mix)
 * ⭐ **[MiroPPB](https://miroppb.com/)** / [DL Script](https://rentry.co/7preswd7) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -223,7 +222,7 @@
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 * ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
-* [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts)  - Podcast Charts / Databases
+* [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
 * [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
 * [Apple Podcasts](https://podcasts.apple.com/us/home)
@@ -351,7 +350,10 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://squid.wtf/)** - Tidal / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Tidal / FLAC
+
+
+
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
@@ -438,7 +440,6 @@
 * [Lossless-FLAC](https://lossless-flac.com/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) - FLAC
-* [QMusic](https://rentry.co/FMHYB64#qmusic) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -604,7 +605,6 @@
 * [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
 * [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Music
 * [Animal Crossing Radio](https://animal-crossing-radio.com/) - Animal Crossing Radio
-* [GTA Radio Stations Music](https://rentry.co/FMHYB64#gta-radio-stations) - GTA Radio Stations
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
@@ -639,6 +639,7 @@
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](http://playlost.fm/) - Song Discovery Tools
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
+* [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts 
 * [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
 * [AlbumOfTheYear](https://www.albumoftheyear.org/) - Ratings / Reviews
 * [AllMusic](https://www.allmusic.com/) - Ratings / Reviews
@@ -713,7 +714,6 @@
 * [Tunebat](https://tunebat.com/) or [QO & SPECTRE](https://docs.google.com/spreadsheets/u/0/d/1QEvWoGa10BctJ1yqDgZl3IoY8bhB3AwbHzgCHjJ5neI/htmlview) - Music Key / BPM Databases
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) - Karaoke App
 * [X-Minus](https://x-minus.pro/) or [LRC Maker](https://lrcmaker.com/) - Create / Find Karaoke Songs
-* [VB Cables](https://rentry.co/FMHYB64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 
@@ -756,7 +756,7 @@
 * ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://rentry.co/FMHYB64#audio-relay)
+* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Lyrion](https://lyrion.org/) / [Extensions](https://lyrion.org/extensions/applications/)
 * [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
@@ -799,7 +799,7 @@
 ## ▷ Song Identification
 
 * ⭐ **[Google Assistant](https://assistant.google.com/)** - Google's Music Recognition / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-music-recognition)
-* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS / [Modded](https://rentry.co/FMHYB64#shazam) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)
+* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [AudioTag](https://audiotag.info/) / Web

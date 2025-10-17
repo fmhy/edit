@@ -216,7 +216,7 @@
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
 * ⭐ **[r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Community
-* [PictureThis](https://www.picturethisai.com/) / [Premium](https://rentry.co/FMHYB64#picture-this) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
+* [PictureThis](https://www.picturethisai.com/) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
 * [WildFlowerSearch](https://wildflowersearch.org/) - Flower Identifier
 * [Permapeople](https://permapeople.org/) - Garden Plant Info
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
@@ -357,13 +357,13 @@
 
 * ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [⁠WXCharts](https://wxcharts.com/), [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
 * [⁠CyclonicWx](https://cyclonicwx.com/) - Tropical Weather Tracking Tools / Plotting
-* [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+* [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forecast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
 * [Supercell Wx](https://supercellwx.net/) - Visualize / Archive NEXRAD Data + Weather Alerts / [GitHub](https://github.com/dpaulat/supercell-wx)
 * [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map
-* [Snow Forcast](https://www.snow-forecast.com/maps) - Snow Forcast Maps
+* [Snow Forcast](https://www.snow-forecast.com/maps) - Snow Forecast Maps
 * [AtticRadar](https://atticradar.steepatticstairs.net/) - Advanced Weather Radar / NOAA Stations
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
@@ -485,7 +485,7 @@
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [ArtDaily](https://artdaily.com) - Art News
 * [Codrops](https://tympanus.net/codrops/) - Design News
-* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://rentry.co/FMHYB64#the-athletic)
+* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
@@ -539,7 +539,7 @@
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
-* [GamesRecap](https://gamesrecap.io/) - Game Annoucements / Trailers
+* [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
 
@@ -1163,7 +1163,7 @@
 * [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYB64#cold-turkey)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App

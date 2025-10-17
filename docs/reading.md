@@ -35,7 +35,7 @@
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
 * [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
 * [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
-* irc://irc.irchighway.net/ebooks / [Request Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#irc-highway-note)
+* <irc://irc.irchighway.net/ebooks> / [Request Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#irc-highway-note)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
 
 ***
@@ -70,7 +70,7 @@
 * [Hoopla](https://www.hoopladigital.com/) - Library Card Required
 * [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 * [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
-* [⁠Distributed Proofreaders](https://www.pgdp.net/) - Help Digitalize Public Domain Books to Ebooks
+* [⁠Distributed Proofreaders](https://www.pgdp.net/) - Help Digitize Public Domain Books to Ebooks
 
 ***
 
@@ -105,7 +105,7 @@
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYB64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
@@ -477,17 +477,17 @@
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaBall](https://mangaball.net/)
-* [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
-* [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [mangapill](https://mangapill.com/)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
-* [Webtoon](https://www.webtoons.com/) / [Discord](https://discord.com/invite/webtoonofficial)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [Toonily](https://toonily.com/) - Manhwa
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
+* [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
+* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
+* [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
@@ -640,7 +640,6 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [ToposText](https://topostext.org/) - Historical Greek Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [History Newsboys of 1899](https://rentry.co/FMHYB64#history-newsboys-of-1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [HornTip](https://www.horntip.com/) - Military Songbooks

@@ -343,7 +343,7 @@
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances / Metasearch
 * [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
-* [YaCy](https://yacy.net/) - Decentralized / P2P Independant / [GitHub](https://github.com/yacy/yacy_search_server)
+* [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted / Metasearch / [GitHub](https://github.com/searxng/searxng)
 
@@ -448,7 +448,7 @@
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alt Hola Proxy Client / Windows, Mac, Linux, Android / [Privacy Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hola-proxy-note)
-* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, Mac, Android / [Keys](https://rentry.co/FMHYB64#proxifier)
+* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, Mac, Android
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, Mac, Linux
 
 ***
@@ -459,7 +459,7 @@
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tool 
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [GitHub](https://github.com/msasanmh/DNSveil)
-* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md),  [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
+* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers
 
 ***
