@@ -21,7 +21,7 @@ import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
-  name: 'amoledfreemediaheckyeah',
+  name: 'amoled-freemediaheckyeah',
   description: 'The largest collection of free stuff on the internet! in amoled!',
   hostname: 'https://a-fmhy.pages.dev',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime', 'amoled'],
@@ -59,7 +59,7 @@ export const commitRef =
       ? formatCommitRef(process.env.COMMIT_REF)
       : 'dev'
 
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
+export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a><p>Amoled by land_lmao</p>`
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
