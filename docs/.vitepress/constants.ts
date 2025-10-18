@@ -59,7 +59,7 @@ export const commitRef =
       ? formatCommitRef(process.env.COMMIT_REF)
       : 'dev'
 
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a><p>Amoled by land_lmao</p>`
+export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤<br>Amoled by land_lmao</a>`
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
