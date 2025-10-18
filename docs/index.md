@@ -4,7 +4,7 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: amoledfreemediaheckyeah
+  name: amoled-freemediaheckyeah
   tagline: The largest collection of free stuff on the internet! in amoled!
   announcement:
     title: Oct 2025 Updates 🎃
