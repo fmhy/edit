@@ -92,10 +92,10 @@ body {
 
 /* Apply Halloween theme by default - (for dark mode) */
 .dark {
-  --vp-c-bg: rgb(15, 15, 15) !important;
-  --vp-c-bg-alt: rgb(12, 12, 12) !important;
-  --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
-  --vp-c-bg-soft: rgb(12, 12, 12) !important;
+  --vp-c-bg: rgb(0, 0, 0) !important;
+  --vp-c-bg-alt: rgb(0, 0, 0) !important;
+  --vp-c-bg-elv: rgba(0, 0, 0, 0.8) !important;
+  --vp-c-bg-soft: rgb(0, 0, 0) !important;
   --vp-button-alt-bg: #8b5cf6 !important;
   --vp-button-alt-text: #e9d5ff !important;
   --vp-button-alt-hover-bg: #a855f7 !important;
@@ -109,11 +109,11 @@ body {
 }
 
 .dark body {
-  background-color: rgb(15, 15, 15) !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
-  background-color: rgb(15, 15, 15) !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 .dark {
@@ -124,9 +124,9 @@ body {
   --vp-c-brand-soft: theme('colors.swarm.300');
 
   /* Colors: Background */
-  --vp-c-bg: rgb(26, 26, 26);
-  --vp-c-bg-alt: rgb(23, 23, 23);
-  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
+  --vp-c-bg: rgb(0, 0, 0);
+  --vp-c-bg-alt: rgb(0, 0, 0);
+  --vp-c-bg-elv: rgba(0, 0, 0, 0.8);
 
   /* Colors: Custom Block */
   /** Info */
@@ -192,10 +192,10 @@ html[data-halloween-theme]:not(.dark) #app {
 
 /* Halloween theme overrides - (for dark mode) */
 html[data-halloween-theme].dark {
-  --vp-c-bg: rgb(15, 15, 15) !important;
-  --vp-c-bg-alt: rgb(12, 12, 12) !important;
-  --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
-  --vp-c-bg-soft: rgb(12, 12, 12) !important;
+  --vp-c-bg: rgb(0, 0, 0) !important;
+  --vp-c-bg-alt: rgb(0, 0, 0) !important;
+  --vp-c-bg-elv: rgba(0, 0, 0, 0.8) !important;
+  --vp-c-bg-soft: rgb(0, 0, 0) !important;
   --vp-button-alt-bg: #8b5cf6 !important;
   --vp-button-alt-text: #e9d5ff !important;
   --vp-button-alt-hover-bg: #a855f7 !important;
@@ -207,11 +207,11 @@ html[data-halloween-theme].dark {
   --vp-button-brand-hover-border: #ea580c !important;
   --vp-button-brand-hover-text: #fff !important;
   
-  background-color: rgb(15, 15, 15) !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 html[data-halloween-theme].dark body {
-  background-color: rgb(15, 15, 15) !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 html[data-halloween-theme].dark .VPApp,
@@ -220,7 +220,7 @@ html[data-halloween-theme].dark .VPContent,
 html[data-halloween-theme].dark .VPHome,
 html[data-halloween-theme].dark .VPHero,
 html[data-halloween-theme].dark #app {
-  background-color: rgb(15, 15, 15) !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 .vp-doc a {
