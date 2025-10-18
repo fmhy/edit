@@ -244,6 +244,4 @@ const normalizeColorName = (colorName: string) =>
       Selected: {{ normalizeColorName(selectedColor) }}
     </div>
   </div>
-</template>    </div>
-  </div>
-</template>
+</template>  
