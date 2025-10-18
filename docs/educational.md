@@ -1340,6 +1340,15 @@
 
 ***
 
+## ▷ Olympiads (Mainly US Focused)
+
+* **[Evan Chen's Website](https://web.evanchen.cc/)** - Math Olympiad Study Material, (also mentioned is [AOPS](https://artofproblemsolving.com))
+* **[Kevin Zhou's Physics Guide](https://knzhou.github.io/)** - Physics Olympiad Tips
+* **[USACO Guide](https://usaco.guide/general/usaco-monthlies?lang=cpp)** Informatics Olympiad tips and material
+
+
+*** 
+
 # ► Educational Tools
 
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
