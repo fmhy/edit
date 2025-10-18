@@ -21,9 +21,9 @@ import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
-  name: 'freemediaheckyeah',
+  name: 'amoledfreemediaheckyeah',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
+  hostname: 'https://a-fmhy.pages.dev',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
