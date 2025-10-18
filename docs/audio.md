@@ -40,7 +40,7 @@
 * [Jango](https://jango.com/) - Browser Music
 * [squid.wtf](https://tidal.squid.wtf) - Browser Music
 * [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Tidal / [GitHub](https://github.com/eduardprigoana/monochrome)
-* [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf)- Tidal / [GitHub](https://github.com/uimaxbai/tidal-ui)
+* [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) - Tidal / [GitHub](https://github.com/uimaxbai/tidal-ui)
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
