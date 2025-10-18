@@ -22,9 +22,9 @@ import { transform, transformGuide } from './transformer'
 
 export const meta = {
   name: 'amoledfreemediaheckyeah',
-  description: 'The largest collection of free stuff on the internet!',
+  description: 'The largest collection of free stuff on the internet! in amoled!',
   hostname: 'https://a-fmhy.pages.dev',
-  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
+  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime', 'amoled'],
   build: {
     api: true,
     nsfw: true
