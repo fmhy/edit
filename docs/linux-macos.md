@@ -616,6 +616,7 @@
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers
 * [AppsTorrent](https://appstorrent.ru/)
 * [nMac](https://nmac.to/)
+* [MacBB](https://macbb.org/)
 * [Mac App Store](https://macappstre.com/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
 * [Haxmac](https://haxmac.cc/)

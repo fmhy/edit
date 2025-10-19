@@ -42,8 +42,7 @@
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
-* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
-* ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
+* ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)** / [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only](https://subdavis.com/Tusk/)
 * ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
@@ -604,6 +603,7 @@
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
+* [⁠CRXInstaller](https://github.com/FoxRefire/ChromeXPIPorter) - Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc.
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Dictionaries](https://github.com/pnlpal/dictionariez) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
@@ -673,7 +673,7 @@
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
-* [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
+* [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) or [⁠CRXInstaller](https://github.com/FoxRefire/ChromeXPIPorter) (nightly) - Chrome Extensions in Firefox
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Bookmark Cleanup
 * [Bookmark Batch-Updater](https://addons.mozilla.org/en-US/firefox/addon/bookmark-batch-updater/) - Modify Properties of Multiple Bookmarks
