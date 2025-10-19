@@ -954,6 +954,7 @@
 * [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
 * [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
+* [⁠WPSpace](http://wpspace.net/free-wordpress-hosting) - Free WordPress Hosting 
 * [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
 * [faustjs](https://faustjs.org) - WordPress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)

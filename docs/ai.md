@@ -142,7 +142,7 @@
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / [Discord](https://discord.gg/getpieces)
 * [⁠Qwen Code](https://github.com/QwenLM/qwen-code) - CLI Coding AI / [Docs](https://qwenlm.github.io/qwen-code-docs/en/)
-* [Gemini CLI](https://google-gemini.github.io/gemini-cli/) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
+* [Gemini CLI](https://google-gemini.github.io/gemini-cli/) or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews / [GitHub](https://github.com/sourcery-ai/sourcery)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
