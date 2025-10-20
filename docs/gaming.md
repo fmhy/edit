@@ -45,6 +45,7 @@
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+* [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#adsanctuary) - Denuvo Games / Works Offline
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
 
 ***
@@ -258,7 +259,7 @@
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
 * [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [ns-emu-mod-downloader](https://github.com/Exefer/ns-emu-mod-downloader) - Download Switch Emulator Mods
+* [ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) - Download Switch Emulator Mods
 * [TOTK Optimization](https://rentry.co/FMHYB64#totk-optimization) - TOTK Optimization / Fixes
 * [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [Prime Hack](https://github.com/Kekun/primehack) or [Prime Hunter Hack](https://github.com/IBreakGames/PrimeHunterHack) - Add Mouse Support to Metroid Games
@@ -648,6 +649,7 @@
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
+* [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Sign-Up Required
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Sign-Up Required
@@ -839,9 +841,6 @@
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 * [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
-* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
-* [ProgressQuest](http://progressquest.com/) - Idle RPG
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [Hordes.io](https://hordes.io/) / [Discord](https://discord.com/invite/hordes) or [Aberoth](https://aberoth.com/) - Browser MMORPGs
 * [RPGMaker Game Archive](https://archive.org/details/rpgmaker-net-game-archive) - Collection of Games From RPGMaker
 
@@ -864,7 +863,10 @@
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
-* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
+* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
+* [Progress Quest](http://progressquest.com/play/) - Idle RPG / [Discord](https://discord.com/invite/dz7MFNU)
+* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
+* [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games

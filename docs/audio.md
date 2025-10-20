@@ -125,7 +125,6 @@
 
 * 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [GlobeRadio](https://globeradio.app/) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
 * ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** - BBC Live & Catch-up Radio / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/) or [TuneIn](https://tunein.com/) - Podcasts / Radio
@@ -200,13 +199,14 @@
 
 ## ▷ Radio Directories
 
+* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [GlobeRadio](https://globeradio.app/) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
+* [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
 * [OnlineRadioBox](https://onlineradiobox.com/) - International Radio Directory / Playlists
 * [Streema](https://streema.com/) - Global AM/FM & Internet Radio Directory
 * [Radio.net](https://www.radio.net/) - International Radio Directory / Player
+* [RadioPuppy](https://www.radiopuppy.com/) - Radio Directory
 * [myTuner](https://mytuner-radio.com/) - Global Radio & Podcasts / Multi-Platform
 * [TuneYou](https://tuneyou.com/) - Radio Directory / Discovery Focus
-* [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
-* [WorldRadioMap](https://worldradiomap.com/) - Global Radio Map Interface
 * [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp) - Radio Directory / Hardware Integration
 * [radioline](https://www.radioline.co/) - Radio & Podcast Aggregator
 * [TheOneStopRadio](https://theonestopradio.com/) - Radio Directory
