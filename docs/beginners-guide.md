@@ -14,7 +14,7 @@ Piracy sites usually contain ads, some of which can be harmful, often leading to
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns.
 
-For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** / [Easy Setup](https://wispydocs.pages.dev/lg-tv-homebrew/). Note that uBO works on mobile browsers like Firefox / Brave too.
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** / [Easy Setup](https://wispydocs.pages.dev/revanced-obtainium/). Note that uBO works on mobile browsers like Firefox / Brave too.
 
 !!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
@@ -46,11 +46,11 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Movies / Shows
 
-* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
+* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.ru/) / [Hexa](https://hexa.watch/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
-* **Drama Streaming: [DramaGo](https://dramago.me/) / [DramaCool](https://dramacool.com.tr/)**
+* **Drama Streaming: [DramaCool](https://dramacool.com.tr/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
@@ -59,7 +59,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 * **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
-* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
 ***

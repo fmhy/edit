@@ -10,9 +10,9 @@
 
 # ► Torrent Sites
 
-* ⭐ **[RuTracker](https://rutracker.org/)** - Video / Audio / Comics / Magazines / Software / Sign-Up Required
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[m0nkrus](https://vk.com/monkrus)** - Adobe / Autodesk Software / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
+* ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Adobe / Autodesk Software
 * ⭐ **Adobe Tools** - [GenP](https://rentry.co/FMHYB64#genp) / [Block Adobe](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Adobe Guide](https://rentry.co/FMHYB64#adobe-guide)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
@@ -47,7 +47,6 @@
 * [PiratesParadise](https://piratesparadise.org/)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
-* [YourBittorrent](https://yourbittorrent.com/)
 * [BTSearch](https://btsearch.19950817.xyz/en)
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
@@ -109,13 +108,13 @@
 * 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
 * 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
-* [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Client
+* [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
 * [rqBit](https://github.com/ikatson/rqbit/) - Rust Client
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
+* [qBitEndpoints](https://claraiscute.neocities.org/Guides/qBitEndpoints/), [2](https://claraiscute.pages.dev/Guides/qBitEndpoints/) - API Endpoints
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
 
 ***
@@ -137,7 +136,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/), [Invite.icu](https://invite.icu/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/), [Invite.icu](https://invite.icu/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
@@ -154,7 +153,7 @@
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
 * ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
-* ⭐ **[PreDB.net](https://predb.net/)**, **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [NGP](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
+* ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers

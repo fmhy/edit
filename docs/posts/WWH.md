@@ -26,5 +26,3 @@ Remember that a lot of who you are, is your ability to experience things outside
 * *"Life is a beautiful, magnificent thing, even to a jellyfish... The trouble is you won't fight. You've given in, continually dwelling on sickness and death. But there's something just as inevitable as death, and that's life. Life, life, life. Think of all the power that's in the universe, moving the earth, growing the trees. That's the same power within you if you only have the courage and the will to use it."* - Charlie Chaplin, Limelight 1952
 
 * *"The wise man beholds all beings in the Self, and the Self in all beings; for that reason, he does not hate anyone."* - Isa Upanishad
-
-**Discussion Post**: https://redd.it/1ne7y9e
