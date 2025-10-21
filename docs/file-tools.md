@@ -323,6 +323,7 @@
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Sign-Up Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [⁠Filecad](https://www.filecad.com/) - 10GB / 120 Days
+* [⁠Dfiles](https://dfiles.com/) - 10GB / 90 Days
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
