@@ -1076,7 +1076,7 @@
 * [CS50](https://cs50.harvard.edu/python/) - Python Course
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Learn C](https://www.learn-c.org/) - C Tutorials
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips 
 * [Learn C++](https://www.learncpp.com/) or [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode), [Java Design Patterns](https://java-design-patterns.com/) or [learncs.online](https://www.learncs.online/) - Java / Kotlin Guides

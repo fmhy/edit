@@ -422,11 +422,8 @@
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)** / [Mirrors](https://rentry.co/VIPSportsBox)
 * ⭐ **[TimStreams](https://timstreams.xyz/)**, [2](https://timstreams.cfd/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
-* ⭐ **[WeAreChecking](https://wearechecking.wtf/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
-* [Watch Footy](https://watchfooty.live/), [2](https://www.watchfooty.cc/), [3](https://www.watchfooty.vip/) - Stream Aggregator / [Discord](https://discord.gg/T38kUWZHtB) / [Mirrors](https://watchfty.win/)
-* [GoToStreamly](https://gotostreamly.sbs/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
-* [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
-* [TotalSportek](https://totalsportek.es/) or [Crackstreams.cz](https://crackstreams.cz/), [2](https://streameast.cz/)
+* ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
+* [Streamex](http://streamex.cc/), [GoToStreamly](https://gotostreamly.sbs/) or [CrackStreams.li](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [SportDB](https://sportdb.pro/) - Stream Aggregator
 * [TotalSportek.to](https://totalsportek.me/), [2](https://buffstreams.app/) - Stream Aggregator

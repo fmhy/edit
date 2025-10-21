@@ -271,7 +271,7 @@
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - Convert Repos to Prompt-Friendly Text
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
-* [Nightly.link](https://nightly.link/) - GitHub Shareable  Nightly Links
+* [Nightly.link](https://nightly.link/) - GitHub Shareable Nightly Links
 * [ActionFlow](https://actionsflow.github.io/) - Action Workflow Automation
 * [act](https://nektosact.com/) - Run GitHub Actions Locally / [GitHub](https://github.com/nektos/act)
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
