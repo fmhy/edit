@@ -296,10 +296,11 @@
 
 * 🌐 **[PolyUpload File Host Index](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)**
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
+* ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / **Use [Adblock](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / **Use [Adblock](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
@@ -312,7 +313,7 @@
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filebin-warning)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
-* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 10GB / Sign-Up Required
+* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required

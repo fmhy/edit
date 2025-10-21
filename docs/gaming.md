@@ -841,9 +841,6 @@
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 * [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
-* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
-* [ProgressQuest](http://progressquest.com/) - Idle RPG
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [Hordes.io](https://hordes.io/) / [Discord](https://discord.com/invite/hordes) or [Aberoth](https://aberoth.com/) - Browser MMORPGs
 * [RPGMaker Game Archive](https://archive.org/details/rpgmaker-net-game-archive) - Collection of Games From RPGMaker
 
@@ -866,7 +863,10 @@
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
-* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
+* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
+* [Progress Quest](http://progressquest.com/play/) - Idle RPG / [Discord](https://discord.com/invite/dz7MFNU)
+* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
+* [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
