@@ -258,7 +258,6 @@
 
 * 🌐 **[Awesome VLC](https://github.com/mfkl/awesome-vlc)** - VLC Resources
 * [VLSub](https://github.com/exebetche/vlsub) - Sub Downloader
-* [VLC Skin](https://rentry.co/VLC-skin) - VLC Skins
 * [VLC Slow Seek Fix](https://redd.it/os6f1q)
 
 ***
