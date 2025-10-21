@@ -328,7 +328,6 @@
 * [PNGTree](https://pngtree.com/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
-* [GraphixTree](https://graphixtree.com/)
 * [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
 * [CGArchives](https://cgarchives.com/)
@@ -472,7 +471,6 @@
 * [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
-* [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
@@ -697,7 +695,6 @@
 * [OCR.SPACE](https://ocr.space/) - Online OCR
 * [OCRTool](https://ocrtool.net/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
-* [Ocrify](https://ocrify.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
 * [NewOCR](https://www.newocr.com/) - Online OCR
 * [OnlineOCR](https://www.onlineocr.net/) - Online OCR
@@ -792,10 +789,8 @@
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
 * [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB with Account) / Forever
-* [IMGDrop](https://imgdrop.io/) - 50MB / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
-* [FreeIMGHost](https://freeimghost.net/) - 20MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
