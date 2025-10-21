@@ -1,37 +1,15 @@
----
-title: New Website
-description: Our brand new site (which you're on currently)
-date: 2023-11-12
-next: false
-
-prev: false
-
-footer: true
----
-
-<Post authors="taskylizard" />
-
-### New URL: https://fmhy.net/
-
-Hey everyone, just wanted to let you all know that we're finally done with the
-new website, and are officially launching it today! I know a lot of different
-versions of FMHY have been made over the years, but we've put a ton of effort
-into this one, and honestly feel like its the best version to date.
-
-We really hope you enjoy it, and if you have any issues or suggestions feel free
-to leave them in the comments here, or by using the new feedback system built
-into the site.
-
----
-
-### Site Features
-
-- Star Only Toggle
-- Dark / Light Modes
-- Feedback System
-- Improved UI + Site Speed
-- Improved Search Functionality
-- Automatic Updates
-- Table of Content Sidebars
-- Storage URLs Direct to Site Rather than Reddit
-- NSFW Section
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HiAnime – The New Hub for Free HD Anime Streaming</title>
+  <meta name="description" content="Discover HiAnime, the new site for free HD anime streaming. Watch subbed and dubbed anime instantly without sign-ups. Visit HiAnime.us for the latest anime online.">
+</head>
+<body>
+  <article>
+    <h1>Welcome to HiAnime – Your New Home for Free HD Anime Streaming</h1>
+    <p>
+      Anime lovers around the world can now enjoy their favorite shows without restrictions, subscriptions, or complicated logins. 
+      Introducing <a href="https://hianimes.us/" target="_blank">HiAnime</a> — a fast, modern, and accessible streaming platform designed for true fans of Japanese animation.
+      HiAnime offers both <strong>subbed</strong> and <strong>dubbed</strong> anime in high-definition, empowering viewers to dive straight into episodes of popular titles and timeless classics.
