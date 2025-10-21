@@ -11,8 +11,8 @@
 ***
 
 * ⭐ **[Cineby](https://www.cineby.ru/)**, [2](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.gd/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/pDjg5ccSgg)
 * ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
+* ⭐ **[XPrime](https://xprime.tv/)**, [2](https://xprime.today/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/pDjg5ccSgg)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Flixer](https://flixer.sh)** / [2](https://flixy.watch/), [Hexa](https://hexa.watch/) or [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/yvwWjqvzjE)
