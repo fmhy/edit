@@ -391,7 +391,7 @@
 
 # ► Customization
 
-* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)** or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
+* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrgb-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
@@ -448,6 +448,7 @@
 * [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
+* [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers

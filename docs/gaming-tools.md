@@ -39,9 +39,7 @@
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
-* [How Denuvo Works](https://rentry.co/FMHYB64#how-denuvo-works)
-* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
-* [Game Cracking / Repacking Guides](https://rentry.co/FMHYB64#game-guides)
+* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)
 
 ***
 

@@ -353,7 +353,7 @@
 * ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
 * [ROM Heaven](https://romheaven.com/switch) - ROMs / Switch
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
-* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
+* [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.gg/rgttByzYRY)

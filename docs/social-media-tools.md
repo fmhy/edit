@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [canine.tools](https://canine.tools/services/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
@@ -432,7 +432,7 @@
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
-* [YT Comment Viewer](https://commentviewer.com/), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
+* [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
 * [IMG_0001](https://walzr.com/IMG_0001) or [Random Video](https://random-video.com/) - Find Random YouTube Videos
 * [YTBin](https://rentry.co/ytbin) / [Image](https://i.imgur.com/h2A19Pd.png), [2](https://i.ibb.co/pv38kCj6/GTw-ILYb-XAAADWa-Q.png) / [Video](https://youtu.be/zYmkOInF6Us), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
