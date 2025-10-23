@@ -260,6 +260,7 @@
 * [Vestal Review](https://www.vestalreview.net/) - Short Stories
 * [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [ClassicShorts](https://www.classicshorts.com/) - Classic Short Stories
 * [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
 * [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
 * [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
@@ -478,6 +479,7 @@
 * [mangapill](https://mangapill.com/)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
+* [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaHaven](https://mangahaven.net/)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)

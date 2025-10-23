@@ -21,8 +21,9 @@
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
+* [PlayTorrio](https://playtorrio.netlify.app/) - Streaming / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
-* [⁠Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player
+* [⁠Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player / [Web App](https://sonosano.krshh.com/) / [Discord](https://discord.gg/Np7YYEVPhR)
 * [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) or [pulse](https://473999.net/pulse) - Listen Together / Listening Parties
 
 ***
@@ -36,12 +37,10 @@
 * ⭐ **[TrackerHub](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/trackerhub)
 * [Spotify](https://open.spotify.com/) - Web Player
 * Spotify Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics App](https://github.com/mantou132/Spotify-Lyrics), [Lyrics Script](https://greasyfork.org/en/scripts/377439)
+* [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
-* [squid.wtf](https://tidal.squid.wtf) - Browser Music
-* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Tidal / [GitHub](https://github.com/eduardprigoana/monochrome)
-* [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) - Tidal / [GitHub](https://github.com/uimaxbai/tidal-ui)
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
@@ -184,7 +183,7 @@
 * [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
-* [Pool Suite](https://poolsuite.net/) - Summer Radio / [Mobile](https://play.google.com/store/apps/details?id=net.poolsuite.mobile)
+* [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
 * [LISTEN.moe](https://listen.moe/) - K-Pop Radio
 * [420.moe](https://420.moe/) - 420 Radio
@@ -353,9 +352,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://squid.wtf/)** - Tidal / FLAC
-* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Tidal / FLAC / [GitHub](https://github.com/eduardprigoana/monochrome)
-* [BiniLossless](https://music.binimum.org/) - Tidal / FLAC
+* ⭐ **[squid.wtf](https://tidal.squid.wtf)**, [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome) or [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) / [GitHub](https://github.com/uimaxbai/tidal-ui) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
@@ -851,7 +848,6 @@
 ## ▷ Spectrum Analyzers
 
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
-* ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)**
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
@@ -938,7 +934,6 @@
 
 * ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
-* ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -956,7 +951,7 @@
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Signup
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
-* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://www.modularsamples.com/Plugins.html) / [Github](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
+* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins 
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth

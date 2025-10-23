@@ -191,7 +191,7 @@
 
 ## ▷ LaTeX Tools
 
-* ⭐ **[Overleaf](https://www.overleaf.com/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Typst](https://typst.app/home) / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) - LaTeX Alternative
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
