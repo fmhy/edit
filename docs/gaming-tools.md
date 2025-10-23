@@ -125,7 +125,6 @@
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Side Scrolling Modding Forum / [Games List](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
-* [WeMod](https://www.wemod.com/) - Mods / Trainer Manager / Single Player Only / [Unlocker](https://cs.rin.ru/forum/index.php) (search) / [Discord](https://discord.com/invite/wemod)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Otis_Inf Camera Mods](https://kemono.cr/patreon/user/37343853) - Game Camera Mods
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
@@ -134,16 +133,21 @@
 * [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
 * [SMods](https://catalogue.smods.ru/) - Game Mods
-* [MrAntiFun](https://mrantifun.net/) - Game Mods / Trainers
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
-* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
-* [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [⁠UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - GameMaker Modding Tool
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods / [Discord](https://discord.thunderstore.io/)
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) / [Discord](https://discord.thunderstore.io/) - Thunderstore / BepInEx Unity Mod Managers
 * [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
+
+***
+
+## ▷ Trainers
+* [WeMod](https://www.wemod.com/) - Mods / Trainer Manager / Single Player Only / [Unlocker](https://cs.rin.ru/forum/index.php) (search) / [Discord](https://discord.com/invite/wemod)
+* [MrAntiFun](https://mrantifun.net/) - Game Mods
+* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Single Player Games Only
+* [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Single Player Games Only
 
 ***
 
