@@ -438,6 +438,7 @@
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
+* [effect.app](https://effect.app/) - Online Video Effects
 
 ***
 

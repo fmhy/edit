@@ -25,7 +25,7 @@
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1.1 / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠LongCat](https://longcat.chat/) - LongCat-Flash-Chat / Unlimited / [X](https://x.com/Meituan_LongCat)
-* [MiniMax AI](https://chat.minimax.io/) - Minimax-M1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax-M2 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
 * [⁠Cohere](https://dashboard.cohere.com/playground/chat) - Command-A-Reasoning / 1000 Monthly / Sign-Up Required / [Discord](https://discord.com/invite/co-mmunity)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot / Sign-Up Required
@@ -42,7 +42,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
 * [Yupp.ai](https://yupp.ai/) - Multiple Chatbots / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
@@ -318,7 +318,7 @@
 * [Yupp.ai](https://yupp.ai/) - Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) - Unlimited / No Sign-Up
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 60 Daily / Seedream 4.0 / 4 Gens Per Prompt / Sign-Up Required
-* [⁠ISH](https://ish.junioralive.in/) - Unlimited / GPT Image 1 mini / Flux Kontext (pro) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (pro) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
 * [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Sign-Up
 * [Art Genie](https://artgenie.pages.dev/) - Flux Schnell / Unlimited / No Sign-Up
 * [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - Hunyuan Image 3.0 / Unlimited /  No Sign-Up
