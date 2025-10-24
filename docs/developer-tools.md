@@ -944,7 +944,7 @@
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
-* [Orshot](https://orshot.com) - Image and PDF Generation aPI
+* [Orshot](https://orshot.com) - Image and PDF Generation API
 
 ***
 
