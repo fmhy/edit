@@ -42,7 +42,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
 * [Yupp.ai](https://yupp.ai/) - Multiple Chatbots / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [⁠ISH](https://ish.junioralive.in/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [DuckDuckGo AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 2.5 Pro / Grok 4 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
@@ -318,7 +318,7 @@
 * [Yupp.ai](https://yupp.ai/) - Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) - Unlimited / No Sign-Up
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 60 Daily / Seedream 4.0 / 4 Gens Per Prompt / Sign-Up Required
-* [⁠ISH](https://ish.junioralive.in/) - Unlimited / GPT Image 1 mini / Flux Kontext (pro) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (pro) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
 * [imgsys](https://imgsys.org/) - Unlimited / Compare Generators / No Sign-Up
 * [Art Genie](https://artgenie.pages.dev/) - Flux Schnell / Unlimited / No Sign-Up
 * [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - Hunyuan Image 3.0 / Unlimited /  No Sign-Up

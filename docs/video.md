@@ -219,6 +219,7 @@
 * [⁠AnimeZ](https://animeyy.com/) - Sub / Dub
 * [otakuu](https://otakuu.se/), [2](https://aniwave.at/) - Sub / Dub / Auto-Next
 * [TAnime](https://tanime.tv/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/R7a6yWMmfK)
+* [Anidap](https://anidap.se/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/btsMTSsBM7)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
 * [AnimeRealms](https://www.animerealms.org/) - Sub / Dub

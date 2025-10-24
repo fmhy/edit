@@ -13,7 +13,7 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://github.com/th-ch/youtube-music)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
-* [Deezer](https://www.deezer.com/) - Streaming
+* [Deezer](https://www.deezer.com/) - Streaming / Sign-Up Required
 * [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -37,7 +37,7 @@
 * ⭐ **[TrackerHub](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/trackerhub)
 * [Spotify](https://open.spotify.com/) - Web Player
 * Spotify Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics App](https://github.com/mantou132/Spotify-Lyrics), [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-* [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+* [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
@@ -71,18 +71,7 @@
 
 ***
 
-## ▷ Historic / Niche
-
-* ⭐ **[UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php)** - Cylinder Audio Archive
-* [CitizenFreak](https://citizenfreak.com/) - Canadian Music
-* [Irama Nusantara](https://www.iramanusantara.org/en) - Indonesian Music
-* [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
-* [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [CLPGS](https://www.clpgs.org.uk/) or [Tinfoil](https://www.tinfoil.com/) - Phonograph / Gramophone Recordings
-* [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
-* [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
-* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
-* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
+# ► Specialty Streaming
 
 ***
 
@@ -121,7 +110,80 @@
 
 ***
 
-## ▷ Radio Streaming
+## ▷ Historic / Niche
+
+* ⭐ **[UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php)** - Cylinder Audio Archive
+* [CitizenFreak](https://citizenfreak.com/) - Canadian Music
+* [Irama Nusantara](https://www.iramanusantara.org/en) - Indonesian Music
+* [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
+* [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
+* [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [CLPGS](https://www.clpgs.org.uk/) or [Tinfoil](https://www.tinfoil.com/) - Phonograph / Gramophone Recordings
+* [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
+* [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
+* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
+* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
+
+***
+
+## ▷ Podcast Streaming
+
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
+* ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
+* [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
+* [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
+* [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
+* [Apple Podcasts](https://podcasts.apple.com/us/home)
+* [PodParadise](https://www.podparadise.com/)
+* [Podbean](https://www.podbean.com/)
+* [Podbay](https://podbay.fm/)
+* [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) / [Downloader](https://github.com/get-iplayer/get_iplayer)
+* [Podcast Index](https://podcastindex.org/)
+* [Player FM](https://player.fm/)
+* [Podcast Republic](https://www.podcastrepublic.net/)
+* [Relay.fm](https://www.relay.fm/)
+* [PodClips](https://podclips.com/) - Podcast Clips
+* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodFetch](https://www.samtv.fyi/PodFetch/), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
+* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
+* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
+* [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
+* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
+* [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
+* [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
+
+***
+
+## ▷ Ambient / Relaxation
+
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
+* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
+* ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
+* ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
+* [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
+* [Pluvior](https://pluvior.com/) - Ambient Rain
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain
+* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
+* [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App
+* [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
+* [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
+* [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
+* [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
+* [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
+* [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Moszen](https://www.moszen.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
+* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
+* [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
+* [Generative.fm](https://generative.fm/) or [Lofi Generator](https://lofigenerator.com/) - Generative Ambient Music
+* [Earth.fm](https://earth.fm/), [tree.fm](https://www.tree.fm/) or [Sounds of Maine](https://soundsofmaine.life/) - Field Recordings
+* [HaloMe](https://halome.nu/) - Halo Menu Screens
+* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
+* [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
+* [ChillOuts](http://www.chillouts.com/) - Meditation Aid
+* [You are Listening To LA](https://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
+* [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
+
+***
+
+# ► Radio Streaming
 
 * 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
@@ -199,7 +261,7 @@
 
 ## ▷ Radio Directories
 
-* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [GlobeRadio](https://globeradio.app/, [Radio Globe](https://watchio.live/radio) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
+* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [GlobeRadio](https://globeradio.app/), [Radio Globe](https://watchio.live/radio) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
 * [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
 * [OnlineRadioBox](https://onlineradiobox.com/) - International Radio Directory / Playlists
 * [Streema](https://streema.com/) - Global AM/FM & Internet Radio Directory
@@ -216,64 +278,6 @@
 * [ilovemusic](https://ilovemusic.de/) - German Radio Directory
 * [Tvradiotuner](https://tvradiotuner.com/) - TV & Radio Stream Aggregator
 * [VRadio](https://www.akouradio.com/) - Radio Directory / VRadio App
-
-***
-
-## ▷ Podcast Streaming
-
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
-* ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
-* [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
-* [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
-* [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
-* [Apple Podcasts](https://podcasts.apple.com/us/home)
-* [PodParadise](https://www.podparadise.com/)
-* [Podbean](https://www.podbean.com/)
-* [Podbay](https://podbay.fm/)
-* [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [Podcast Index](https://podcastindex.org/)
-* [Player FM](https://player.fm/)
-* [Podcast Republic](https://www.podcastrepublic.net/)
-* [Relay.fm](https://www.relay.fm/)
-* [PodClips](https://podclips.com/) - Podcast Clips
-* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodFetch](https://www.samtv.fyi/PodFetch/), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
-* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
-* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
-* [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
-* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
-* [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
-* [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
-
-***
-
-## ▷ Ambient / Relaxation
-
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
-* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
-* ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
-* ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
-* [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
-* [Pluvior](https://pluvior.com/) - Ambient Rain
-* [Rainyscope](https://rainyscope.com/) - Ambient Rain
-* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
-* [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App
-* [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
-* [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
-* [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
-* [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
-* [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
-* [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Moszen](https://www.moszen.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
-* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
-* [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
-* [Generative.fm](https://generative.fm/) or [Lofi Generator](https://lofigenerator.com/) - Generative Ambient Music
-* [Earth.fm](https://earth.fm/), [tree.fm](https://www.tree.fm/) or [Sounds of Maine](https://soundsofmaine.life/) - Field Recordings
-* [HaloMe](https://halome.nu/) - Halo Menu Screens
-* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
-* [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
-* [ChillOuts](http://www.chillouts.com/) - Meditation Aid
-* [You are Listening To LA](https://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
-* [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
 
 ***
 
@@ -352,7 +356,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://tidal.squid.wtf)**, [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/), [2](https://tidal.squid.wtf) / [GitHub](https://github.com/uimaxbai/tidal-ui) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+* ⭐ **[squid.wtf](https://tidal.squid.wtf)**,  **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
