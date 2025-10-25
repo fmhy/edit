@@ -252,6 +252,7 @@
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
 * [⁠Simple Bench](https://simple-bench.com/) - AI Human Reasoning Benchmarks
 * [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
+* [⁠Alpha Arena](https://nof1.ai/) - AI Investing Ability Benchmark 
 
 ***
 
