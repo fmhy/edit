@@ -510,7 +510,7 @@
 
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
-* [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
+* [Kagi News](https://news.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
 * [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
