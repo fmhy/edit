@@ -13,7 +13,7 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://github.com/th-ch/youtube-music)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
-* [Deezer](https://www.deezer.com/) - Streaming
+* [Deezer](https://www.deezer.com/) - Streaming / Sign-Up Required
 * [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -21,7 +21,9 @@
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
+* [PlayTorrio](https://playtorrio.pages.dev/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
+* [⁠Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player / [Web App](https://sonosano.krshh.com/) / [Discord](https://discord.gg/Np7YYEVPhR)
 * [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) or [pulse](https://473999.net/pulse) - Listen Together / Listening Parties
 
 ***
@@ -35,12 +37,10 @@
 * ⭐ **[TrackerHub](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/trackerhub)
 * [Spotify](https://open.spotify.com/) - Web Player
 * Spotify Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics App](https://github.com/mantou132/Spotify-Lyrics), [Lyrics Script](https://greasyfork.org/en/scripts/377439)
+* [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
-* [squid.wtf](https://tidal.squid.wtf) - Browser Music
-* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Browser Music / [GitHub](https://github.com/eduardprigoana/monochrome)
-* [BiniLossless](https://music.binimum.org/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
@@ -71,7 +71,7 @@
 
 ***
 
-## ▷ Historic / Niche
+# ► Specialty Streaming
 
 * ⭐ **[UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php)** - Cylinder Audio Archive
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
@@ -118,104 +118,6 @@
 * [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
 * [Phish.in](https://phish.in/) - Phish Live Archive / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
 * [setlist.fm](https://www.setlist.fm/) - Setlist Database
-
-***
-
-## ▷ Radio Streaming
-
-* 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** - BBC Live & Catch-up Radio / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
-* [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/) or [TuneIn](https://tunein.com/) - Podcasts / Radio
-* [Internet Archive](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
-* [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
-* [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
-* [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
-* [AudioFilesDrive](https://t.me/AudioFilesDrive) - Radio Drama Downloads
-* [radiobot](https://t.me/radiobot) - Radio / Telegram
-* [raddio](https://raddio.net/) - Simple Radio Player / Directory
-* [Instant.audio](https://instant.audio/) - Minimalist Radio Player
-* [Flicker Radio](https://flickermini.pages.dev/radiostations) - Simple / Lightweight Radio Player
-* [QMPlay2](https://github.com/zaps166/QMPlay2) - Desktop Media / Radio Player
-* [StreamURL](https://streamurl.link/) - Radio Stream URL Finder
-* [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
-* [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft and Rail Radio
-* [OpenMHz](https://openmhz.com/) - Live Police Radio
-* [RadioReference](https://www.radioreference.com/) - Morse Code Radio / Communication
-* [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
-
-***
-
-## ▷ Internet Radio
-
-* ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
-* ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
-* [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
-* [0nRadio](https://www.0nradio.com/) - Online Radio Directory
-* [1a Radio](https://www.1aradio.com/) - Online Radio Directory
-* [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
-* [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
-* [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
-* [AccuRadio](https://www.accuradio.com/)
-* [Q-3](https://www.q-3.eu/)
-* [⁠DubLab](https://www.dublab.com/)
-* [⁠BoxRadio](https://boxradio.net/)
-* [You Radio](https://play.you.radio/)
-* [Audiophile](https://audiophile.fm/)
-* [Vidbox Radio](https://vidbox.cc/radio)
-* [ShoutCast](https://directory.shoutcast.com/) - User-Stations
-* [Zeno.fm](https://zeno.fm/) - User-Stations
-* [Live365](https://live365.com/) - User-Stations
-* [Internet-Radio](https://internet-radio.com/) - Station-Directory
-* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
-* [deepcut.fm](https://deepcut.live/) - Deep-Cuts
-* [Tilderadio](https://tilderadio.org/) - Community Radio
-* [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
-* [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
-* [radio.uwu](https://radio.uwu.network/) - Subculture Radio
-* [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
-* [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
-* [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
-* [Di.fm](https://www.di.fm/) - Electronic Radio
-* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
-* [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
-* [Openings Moe](https://openings.moe/) - Anime Theme Radio
-* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
-* [Pool Suite](https://poolsuite.net/) - Summer Radio / [Mobile](https://play.google.com/store/apps/details?id=net.poolsuite.mobile)
-* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
-* [LISTEN.moe](https://listen.moe/) - K-Pop Radio
-* [420.moe](https://420.moe/) - 420 Radio
-* [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
-* [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
-* [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
-* [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
-* [Campus FM](https://www.campus-fm.com/) - College Radio
-* [RadioSide](https://radioside.com/) - Internet Radio Receiver
-* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
-
-***
-
-## ▷ Radio Directories
-
-* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [GlobeRadio](https://globeradio.app/) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
-* [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
-* [OnlineRadioBox](https://onlineradiobox.com/) - International Radio Directory / Playlists
-* [Streema](https://streema.com/) - Global AM/FM & Internet Radio Directory
-* [Radio.net](https://www.radio.net/) - International Radio Directory / Player
-* [RadioPuppy](https://www.radiopuppy.com/) - Radio Directory
-* [myTuner](https://mytuner-radio.com/) - Global Radio & Podcasts / Multi-Platform
-* [TuneYou](https://tuneyou.com/) - Radio Directory / Discovery Focus
-* [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp) - Radio Directory / Hardware Integration
-* [radioline](https://www.radioline.co/) - Radio & Podcast Aggregator
-* [TheOneStopRadio](https://theonestopradio.com/) - Radio Directory
-* [Radio Guide](https://www.radioguide.fm/) - Radio Directory
-* [Xiph](https://dir.xiph.org/) - Icecast / Ogg Stream Directory
-* [UKRadioLive](https://ukradiolive.com/) or [RadioFeeds](http://www.radiofeeds.co.uk/) - UK Radio Station Directories
-* [ilovemusic](https://ilovemusic.de/) - German Radio Directory
-* [Tvradiotuner](https://tvradiotuner.com/) - TV & Radio Stream Aggregator
-* [VRadio](https://www.akouradio.com/) - Radio Directory / VRadio App
 
 ***
 
@@ -277,6 +179,104 @@
 
 ***
 
+# ► Radio Streaming
+
+* 🌐 **[FMSTREAM](https://fmstream.org/)**, **[Recommended Streams](https://github.com/deroverda/recommended-radio-streams)**, **[Station Index](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)** or **[Radio Browser](https://www.radio-browser.info/users)** - Radio Indexes
+* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+* ⭐ **[BBC Sounds](https://www.bbc.co.uk/sounds)** - BBC Live & Catch-up Radio / [Downloader](https://github.com/get-iplayer/get_iplayer)
+* ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
+* [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/) or [TuneIn](https://tunein.com/) - Podcasts / Radio
+* [Internet Archive](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
+* [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
+* [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
+* [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
+* [AudioFilesDrive](https://t.me/AudioFilesDrive) - Radio Drama Downloads
+* [radiobot](https://t.me/radiobot) - Radio / Telegram
+* [raddio](https://raddio.net/) - Simple Radio Player / Directory
+* [Instant.audio](https://instant.audio/) - Minimalist Radio Player
+* [Flicker Radio](https://flickermini.pages.dev/radiostations) - Simple / Lightweight Radio Player
+* [QMPlay2](https://github.com/zaps166/QMPlay2) - Desktop Media / Radio Player
+* [StreamURL](https://streamurl.link/) - Radio Stream URL Finder
+* [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
+* [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft and Rail Radio
+* [OpenMHz](https://openmhz.com/) - Live Police Radio
+* [RadioReference](https://www.radioreference.com/) - Morse Code Radio / Communication
+* [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
+
+***
+
+## ▷ Internet Radio
+
+* ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
+* [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
+* [0nRadio](https://www.0nradio.com/) - Online Radio Directory
+* [1a Radio](https://www.1aradio.com/) - Online Radio Directory
+* [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
+* [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
+* [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
+* [AccuRadio](https://www.accuradio.com/)
+* [Q-3](https://www.q-3.eu/)
+* [⁠DubLab](https://www.dublab.com/)
+* [⁠BoxRadio](https://boxradio.net/)
+* [You Radio](https://play.you.radio/)
+* [Audiophile](https://audiophile.fm/)
+* [Vidbox Radio](https://vidbox.cc/radio)
+* [ShoutCast](https://directory.shoutcast.com/) - User-Stations
+* [Zeno.fm](https://zeno.fm/) - User-Stations
+* [Live365](https://live365.com/) - User-Stations
+* [Internet-Radio](https://internet-radio.com/) - Station-Directory
+* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
+* [deepcut.fm](https://deepcut.live/) - Deep-Cuts
+* [Tilderadio](https://tilderadio.org/) - Community Radio
+* [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
+* [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
+* [radio.uwu](https://radio.uwu.network/) - Subculture Radio
+* [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
+* [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
+* [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
+* [Di.fm](https://www.di.fm/) - Electronic Radio
+* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
+* [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
+* [Openings Moe](https://openings.moe/) - Anime Theme Radio
+* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
+* [Pool Suite](https://poolsuite.net/) - Summer Radio
+* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
+* [LISTEN.moe](https://listen.moe/) - K-Pop Radio
+* [420.moe](https://420.moe/) - 420 Radio
+* [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
+* [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
+* [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
+* [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
+* [Campus FM](https://www.campus-fm.com/) - College Radio
+* [RadioSide](https://radioside.com/) - Internet Radio Receiver
+* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
+
+***
+
+## ▷ Radio Directories
+
+* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [GlobeRadio](https://globeradio.app/), [Radio Globe](https://watchio.live/radio) or [⁠RadioCast](https://www.radiocast.co/) - Worldwide Radio Globes
+* [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
+* [OnlineRadioBox](https://onlineradiobox.com/) - International Radio Directory / Playlists
+* [Streema](https://streema.com/) - Global AM/FM & Internet Radio Directory
+* [Radio.net](https://www.radio.net/) - International Radio Directory / Player
+* [RadioPuppy](https://www.radiopuppy.com/) - Radio Directory
+* [myTuner](https://mytuner-radio.com/) - Global Radio & Podcasts / Multi-Platform
+* [TuneYou](https://tuneyou.com/) - Radio Directory / Discovery Focus
+* [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp) - Radio Directory / Hardware Integration
+* [radioline](https://www.radioline.co/) - Radio & Podcast Aggregator
+* [TheOneStopRadio](https://theonestopradio.com/) - Radio Directory
+* [Radio Guide](https://www.radioguide.fm/) - Radio Directory
+* [Xiph](https://dir.xiph.org/) - Icecast / Ogg Stream Directory
+* [UKRadioLive](https://ukradiolive.com/) or [RadioFeeds](http://www.radiofeeds.co.uk/) - UK Radio Station Directories
+* [ilovemusic](https://ilovemusic.de/) - German Radio Directory
+* [Tvradiotuner](https://tvradiotuner.com/) - TV & Radio Stream Aggregator
+* [VRadio](https://www.akouradio.com/) - Radio Directory / VRadio App
+
+***
+
 ## ▷ Lofi Radio
 
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
@@ -319,14 +319,14 @@
 * [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create RSS Feeds of Favorite Artists
-* [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
+* [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify / [Discord](https://discord.com/invite/H7Xg9AAHsq)
 
 ***
 
 ## ▷ Playlist Tools
 
 * ⭐ **[Exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Export Playlists
-* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/), [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
+* ⭐ **[playlists.cloud](https://playlists.cloud/)**, [SpotTransfer](https://spot-transfer.vercel.app/) / [GitHub](https://github.com/Pushan2005/SpotTransfer), [Trikatuka](https://trikatuka.aknakn.eu/) or [Spotify2YouTubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) - Playlist Transfer Tools
 * ⭐ **[spotgen](https://epsil.github.io/spotgen)**, [chat jams](https://www.chatjams.ai/), [Unheard.FM](https://unheard.fm/) or [Chosic](https://www.chosic.com/) - Playlist Generators
 * [Playlist Hospital](https://playlisthospital.com/) - Restore Disabled Songs in Spotify Playlists
 * [Spotlistr](https://www.spotlistr.com/) - Platform-to-Spotify Playlist Converter
@@ -335,10 +335,10 @@
 * [Playlist Sorter](https://www.playlistsorter.com/) or [Sort Your Music](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Timelineify](https://www.timelineify.com/) - Create Playlist from an Artist's Discography
-* [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs
+* [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
 * [Tagify](https://tagify.me/) - Create Tagged Playlists from Spotify Library
 * [PlaylistProxy](https://playlistproxy.net/) - Share Playlists Anonymously / [GitHub](https://github.com/okanten/playlistproxy.net)
-* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive)
+* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive), [2](https://github.com/maciejpedzich/spotifyplaylistarchive.com)
 
 ***
 
@@ -352,9 +352,8 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://squid.wtf/)** - Tidal / FLAC
-* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) - Tidal / FLAC / [GitHub](https://github.com/eduardprigoana/monochrome)
-* [BiniLossless](https://music.binimum.org/) - Tidal / FLAC
+* ⭐ **[squid.wtf](https://tidal.squid.wtf)**,  **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+* [Spotisaver](https://spotisaver.net/) - Multi-Site / Spotify Playlists
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
@@ -365,7 +364,7 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * ⭐ **[OnTheSpot](https://github.com/justin025/onthespot)** - Multi-Site / [Discord](https://discord.com/invite/hz4mAwSujH)
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
@@ -850,7 +849,6 @@
 ## ▷ Spectrum Analyzers
 
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
-* ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)**
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
@@ -937,7 +935,6 @@
 
 * ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
-* ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [AudioTools](https://audiotools.in/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -955,7 +952,7 @@
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Signup
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
-* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://www.modularsamples.com/Plugins.html) / [Github](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
+* [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins 
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth

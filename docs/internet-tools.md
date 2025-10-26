@@ -107,7 +107,6 @@
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / [GitHub](https://github.com/jitsi/jitsi-meet)
-* [Hello](https://hello.vasanthv.me/) - Video Chat / [GitHub](https://github.com/vasanthv/hello)
 * [Briefing](https://brie.fi/ng) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
 * [GoTeam](https://goteam.video/) - Video Chat
@@ -416,7 +415,7 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Notifications](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird) / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org)
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
 * [Outlook](https://outlook.live.com/owa/)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail)
@@ -443,7 +442,6 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [⁠TotallyLegit](https://totallylegit.edu.pl/), [EduMail](https://edumail.icu/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 * [TempMailHub](https://tempmailhub.org/) - Gmail / 15 Mins / 1 Domain / Public Shared Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
@@ -603,7 +601,7 @@
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
-* [⁠CRXInstaller](https://github.com/FoxRefire/ChromeXPIPorter) - Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc.
+* [⁠CRXInstaller](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/) - Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc. / [GitHub](https://github.com/FoxRefire/ChromeXPIPorter)
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Dictionaries](https://github.com/pnlpal/dictionariez) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
@@ -673,7 +671,7 @@
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
-* [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) or [⁠CRXInstaller](https://github.com/FoxRefire/ChromeXPIPorter) (nightly) - Chrome Extensions in Firefox
+* [⁠CRXInstaller](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/) / [GitHub](https://github.com/FoxRefire/ChromeXPIPorter) (nightly) or [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox 
 * [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Bookmark Cleanup
 * [Bookmark Batch-Updater](https://addons.mozilla.org/en-US/firefox/addon/bookmark-batch-updater/) - Modify Properties of Multiple Bookmarks
@@ -734,7 +732,6 @@
 * [Night Eye](https://apps.apple.com/app/dark-mode-for-safari-nighteye/id1450504903) or [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [CSE](https://cizzuk.net/projects/cse/) - Custom Search Engine / [GitHub](https://github.com/Cizzuk/CSE)
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
-* [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
 
 ***
 

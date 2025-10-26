@@ -72,7 +72,6 @@
 * [EbookSar](https://www.ebooksar.net/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Hindawi](https://www.hindawi.org/) - Books
-* [3kitab](https://3kitab.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
 * [3asq](https://3asq.org/) - Manga
 * [Azoramoon](https://azoramoon.com/) - Manga
@@ -108,7 +107,6 @@
 ## ▷ Downloading / ডাউনলোডিং
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
-* [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
 * [⁠JBMovieBD](https://jbmoviebd.shop/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
@@ -119,7 +117,6 @@
 ## ▷ Streaming / স্ট্রিমিং
 
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
-* [ftpbd](http://ftpbd.net/) - Movies / TV / Anime
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
 
 ***
@@ -191,7 +188,7 @@
 * ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
-* [XX-Net](https://xx-net.com/) - GFW VPN / Paid / [GitHub]((https://github.com/XX-net/XX-Net)
+* [XX-Net](https://xx-net.com/) - GFW VPN / Paid / [GitHub](https://github.com/XX-net/XX-Net)
 * [New Pac](https://github.com/Alvin9999/new-pac) - Bypass GFW Proxies
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
@@ -257,7 +254,6 @@
 * [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
 * [Sakura Animation](http://www.iyinghua.io/) - Anime / Sub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
-* [dmd77](http://www.dmd77.com/) - Anime / Sub / 1080p
 * [Myself-BBS](https://myself-bbs.com/) - Anime / Sub / 1080p
 * [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
 * [bimiacg](https://www.bimiacg14.net/) - Anime / Sub / 1080p
@@ -376,7 +372,7 @@
 * [Mrkaj](https://mrkaj.si/) - Movies / TV / Anime / 1080p / Region Locked
 * [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked 
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
-* [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://serialy.sx/) - Movies / TV / Anime / 1080p
+* [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
 * [StarStreams](https://starstreams.pro/) - Live Football / Hockey
@@ -688,7 +684,7 @@
 * ⭐ **[VegaMovies](https://vegamovies.menu/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.moi/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
-* ⭐ **[HDHub4u](https://hdhublist.com/?re=hdhub)** - Movies / TV / 1080p
+* ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
 * ⭐ **[MoviesMod](https://moviesmod.cafe/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
@@ -824,6 +820,7 @@
 # ► Italian / Italiano
 
 * 🌐 **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
+* [⁠Raiscuola](https://www.raiscuola.rai.it/italianoperstranieri) - Italian Language Learning
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/) - Italian Sign Language Dictionary
 
 ## ▷ Downloading / Scaricare
@@ -1557,7 +1554,6 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Sign-Up Required / [Telegram](https://t.me/playdedelink)
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Sign-Up Required / Castilian / Latino / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [yaske](https://yaske.ru/) - Movies / TV / [Telegram](https://t.me/wwwyaskeru)
@@ -1608,7 +1604,7 @@
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
 * [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
 * [Cinemargentino](https://www.cinemargentino.com/) - Movies / Documentaries
-* [CCLM](https://www.cclm.cl/cineteca-online) - Spanish Film Archive
+* [CCLM](https://www.cclm.cl/cineteca-online) or [Platfo Filmo](https://filmo.platfo.es/pages/home) - Spanish Film Archives
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
@@ -1629,6 +1625,7 @@
 * [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Tangos78rpm](https://www.tangos78rpm.com/) - Classic Records
+* [⁠Streamflix](https://github.com/streamflix-reborn/streamflix) - Android Anime Streaming
 
 ## ▷ Reading / Leer
 

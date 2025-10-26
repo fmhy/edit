@@ -6,9 +6,9 @@
 
 # ► Ebooks
 
-* 🌐 **[Open Slum](https://open-slum.org/)** - Book Site Index / Uptime Tracking
+* 🌐 **[Open Slum](https://open-slum.org/)**, [2](https://open-slum.pages.dev/) - Book Site Index / Uptime Tracking
 * ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/) - Books / Comics / [Auto-Expand](https://greasyfork.org/en/scripts/494262) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
-* ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.netlify.app/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
+* ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.pages.dev/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Invite Required](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
@@ -54,6 +54,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
 * [DPLA](https://dp.la/)
+* [Fadedpage](https://www.fadedpage.com/)
 * [E-Book Mecca](https://ebook-mecca.com/)
 * [Freeditorial](https://freeditorial.com/)
 * [Planet eBook](https://www.planetebook.com/)
@@ -116,6 +117,7 @@
 * [KoReader](https://koreader.rocks/) - Ebook Reader / Windows, Android / [GitHub](https://github.com/koreader/koreader)
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
+* [PlayTorrio](https://playtorrio.pages.dev/) - Ebook Reader / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
 * [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
 * [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux
@@ -259,6 +261,8 @@
 * [Vestal Review](https://www.vestalreview.net/) - Short Stories
 * [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [xpressenglish](https://xpressenglish.com/) - Short Stories
+* [ClassicShorts](https://www.classicshorts.com/) - Classic Short Stories
 * [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
 * [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
 * [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
@@ -411,7 +415,7 @@
 ## ▷ Audiobook Tools
 
 * [⁠AudiobookCovers](https://audiobookcovers.com/) - Download Audiobook Covers
-* [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
+* [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) / [2](https://huggingface.co/spaces/drewThomasson/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [GitHub](https://github.com/advplyr/audiobookshelf-app) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
@@ -477,6 +481,7 @@
 * [mangapill](https://mangapill.com/)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
+* [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaHaven](https://mangahaven.net/)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
@@ -492,6 +497,7 @@
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
+* [PlayTorrio](https://playtorrio.pages.dev/) - Manga App / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [Seanime](https://seanime.app/) - Self-Hosted Manga App
 * [Kaizoku](https://github.com/lucy-goblin/kaizoku-next) - Self-Hosted Manga Downloader
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support

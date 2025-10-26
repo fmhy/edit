@@ -105,7 +105,7 @@
 ## ▷ Image Effects
 
 * ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
+* [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Sign-Up Required
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
@@ -116,7 +116,7 @@
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
 * [Mimi](https://mimi-panda.com/) - Turn Photos into Coloring Book Sketch
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
-* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
+* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [BDFM](https://bitmap.designfamilymarket.com/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering / Bitmap Generators
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
 * [Tinter](https://tinter.uxie.io/) - Hue Editor / [GitHub](https://github.com/uxie-io/tinter)
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes / [GitHub](https://github.com/Tw1ddle/geometrize)
@@ -213,7 +213,7 @@
 * [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, Mac, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
-* [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges / [GitHub](https://github.com/piconaut/blinkies.cafe)
+* [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges [GitHub](https://github.com/piconaut/blinkies.cafe)
 
 ***
 
@@ -264,6 +264,7 @@
 * [blush](https://blush.design/) - Illustration Design / Web
 * [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design / Web
 * [Pixelied](https://pixelied.com/) - Online Design Tool / Web
+* [⁠Antlii](https://antlii.work/) - Online Design Generators
 
 ***
 
@@ -328,7 +329,6 @@
 * [PNGTree](https://pngtree.com/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
-* [GraphixTree](https://graphixtree.com/)
 * [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
 * [CGArchives](https://cgarchives.com/)
@@ -450,7 +450,7 @@
 
 ## ▷ Art / Illustrations
 
-* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / [Patreon > Kemono](https://greasyfork.org/en/scripts/553616) Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Frontend Instances](https://git.macaw.me/skunky/SkunkyArt/src/branch/master/INSTANCES.md)
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
@@ -472,7 +472,6 @@
 * [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
-* [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
@@ -528,6 +527,7 @@
 * [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
 * [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
+* [⁠Gridfinity](https://gridfinity.xyz/) - 3D Storage Systems
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
 * [Vertex](https://vertex.im/) - 3D Icons
@@ -541,9 +541,11 @@
 
 * ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
 * ⭐ **Blender Tools** - [Resources](https://t.me/BlenderUniverse/3), [2](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
 * [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
 * [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [VFXmed](https://www.vfxmed.com/) - Blender Addons
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
@@ -697,7 +699,6 @@
 * [OCR.SPACE](https://ocr.space/) - Online OCR
 * [OCRTool](https://ocrtool.net/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
-* [Ocrify](https://ocrify.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
 * [NewOCR](https://www.newocr.com/) - Online OCR
 * [OnlineOCR](https://www.onlineocr.net/) - Online OCR
@@ -792,10 +793,8 @@
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
 * [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB with Account) / Forever
-* [IMGDrop](https://imgdrop.io/) - 50MB / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
-* [FreeIMGHost](https://freeimghost.net/) - 20MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
@@ -808,7 +807,7 @@
 
 * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot)
-* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [yaass](https://github.com/tycrek/yaass) - Self-Hosted ShareX Server
+* ⭐ **[Zipline](https://zipline.diced.sh/)** - Self-Hosted ShareX Server / [GitHub](https://github.com/diced/zipline)
 * [Greenshot](https://getgreenshot.org/) / [GitHub](https://github.com/greenshot/greenshot)
 * [KSnip](https://github.com/ksnip/ksnip)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php)

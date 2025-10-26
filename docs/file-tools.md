@@ -39,13 +39,12 @@
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
+* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
-* [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager
-* aria2 Tools - [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
+* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
 * [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
@@ -115,7 +114,7 @@
 
 ## ▷ File Searching
 
-* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine
+* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine / [Alpha](https://www.voidtools.com/everything-1.5a/)
 * [Recoll](https://www.recoll.org/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [Spyglass](https://github.com/spyglass-search/spyglass), [DocFetcher](https://docfetcher.sourceforge.io/) or [Orange](https://0-range.github.io/) - Cross-Platform Search Engines
 * [AnyTXT](https://anytxt.net/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
@@ -231,6 +230,7 @@
 ## ▷ Offline PDF Toolkits
 
 * ⭐ **[PDF24](https://www.pdf24.org/)**
+* [BentoPDF](https://bentopdf.com/) / [GitHub](https://github.com/alam00000/bentopdf)
 * [⁠PDF4QT](https://jakubmelka.github.io/) / [GitHub](https://github.com/JakubMelka/PDF4QT)
 * [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
@@ -314,6 +314,7 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Sign-Up Required
+* [⁠UploadHive](https://uploadhive.com/) - Unlimited / 30 Days After Last Download / Use Adblock
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required
@@ -323,8 +324,10 @@
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Sign-Up Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [⁠Filecad](https://www.filecad.com/) - 10GB / 120 Days
+* [⁠Dfiles](https://dfiles.com/) - 10GB / 90 Days
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
+* [⁠Gulfup](https://www.gulf-up.com/) - 10GB / 30 Days / Sign-Up Required
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
@@ -333,6 +336,7 @@
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [udrop](https://www.udrop.com/) - 5GB / Forever
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
+* [⁠Filefast](https://filefa.st/) - 5GB / Forever
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days

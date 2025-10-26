@@ -14,7 +14,7 @@
 * ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [SmartDoc](https://killytoronto.github.io/textanalyzer/) - Document Analyzer
-* [diffr](https://loilo.github.io/diffr/), [Diffchecker](https://www.diffchecker.com/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/), [OnlineTextCompare](https://onlinetextcompare.com/), [CompareText](https://www.comparetext.io/) or [DiffNow](https://www.diffnow.com/) - Compare Text
+* [Diffr](https://loilo.github.io/diffr/), [Diffchecker](https://www.diffchecker.com/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/), [OnlineTextCompare](https://onlinetextcompare.com/), [CompareText](https://www.comparetext.io/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text from Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
@@ -97,6 +97,7 @@
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
 * [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool
+* [Handy](https://handy.computer/) - Audio Transcription Tool / [Discord](https://discord.gg/WVBeWsNXK4) / [GitHub](https://github.com/cjpais/Handy)
 * [⁠TransPocket](https://transpocket.com/) - Audio Transcription Tool
 * [WhisperX](https://github.com/m-bain/whisperX) - Audio Transcription Tool
 * [Parakeet](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - Audio Transcription / HuggingFace
@@ -191,7 +192,7 @@
 
 ## ▷ LaTeX Tools
 
-* ⭐ **[Overleaf](https://www.overleaf.com/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Typst](https://typst.app/home) / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) - LaTeX Alternative
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
@@ -247,6 +248,7 @@
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes
+* [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes 
 * [Standard Notes](https://standardnotes.com/) - Encrypted Notes / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
@@ -554,6 +556,7 @@
 * [Cool Fonts Online](https://coolfont.org/)
 * [FontMaker.io](https://fontmaker.io/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
+* [Text-Generator](https://text-generator.app/)
 * [BoldTextGenerator](https://boldtextgenerator.org/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)

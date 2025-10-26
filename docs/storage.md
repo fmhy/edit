@@ -140,7 +140,6 @@
 * [AdGuard](https://adguard-dns.io/en/public-dns.html)
 * [DNS for Family](https://dnsforfamily.com/)
 * [Hurricane Electric](https://dns.he.net/)
-* [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)
 
@@ -236,9 +235,9 @@
 ## LibGen Mirrors
 
 * <https://librarygenesis.net/> - site list
-* <https://libgen.li> - clone
-* <https://libgen.gs> - clone
-* <https://libgen.la> - clone
+* <https://libgen.li/> - clone
+* <https://libgen.gs/> - clone
+* <https://libgen.la/> - clone
 * <https://rentry.co/m2hkqhwb> - Differences between the mirrors
 
 ***

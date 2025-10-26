@@ -39,9 +39,7 @@
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
-* [How Denuvo Works](https://rentry.co/FMHYB64#how-denuvo-works)
-* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
-* [Game Cracking / Repacking Guides](https://rentry.co/FMHYB64#game-guides)
+* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)
 
 ***
 
@@ -137,6 +135,8 @@
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
 * [SMods](https://catalogue.smods.ru/) - Game Mods
 * [MrAntiFun](https://mrantifun.net/) - Game Mods / Trainers
+* [FearlessRevolution](https://fearlessrevolution.com/) - Game Mods / Trainers
+* [CheatRevolution](https://cheatevolution.com/) - Game Mods / Trainers
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
 * [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
@@ -201,6 +201,7 @@
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
+* [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
 * [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
@@ -341,7 +342,6 @@
 
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
 * [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
-* [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [GGNTW](https://ggntw.com/steam)
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
@@ -498,7 +498,7 @@
 
 ## ▷ 3DS / DS Homebrew
 
-* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
+* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS / 3DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * ⭐ **[3DS Jailbreak Guide](https://3ds.hacks.guide/)** - 3DS Jailbreak Guide
 * ⭐ **[DSi Jailbreak Guide](https://dsi.cfw.guide/)** - DSi Jailbreak Guide
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
@@ -567,7 +567,7 @@
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
-* [MC Utils](https://mcutils.com/) - Minecraft Web Tools / [Discord](https://discord.com/invite/flyte)
+* [MC Utils](https://mcutils.com/) - Minecraft Web Tools
 * [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
@@ -716,7 +716,6 @@
 
 ## ▷ 3D Tools
 
-* ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * ⭐ **[jmc2obj](https://www.jmc2obj.net/)**, [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/), [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
 * [Mine-imator](https://www.mineimator.com/) - Animation Tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [Discord](https://discord.com/invite/GxFp6xv) / [GitHub](https://github.com/stuffbydavid/Mine-imator)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [Discord](https://discord.com/invite/VqcHpsF) / [GitHub](https://github.com/chunky-dev/chunky)
@@ -912,7 +911,7 @@
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)**, [⁠Rotrends](https://rotrends.com/) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app/) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
+* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap) or [Fishstrap](https://fishstrap.app/) / [GitHub](https://github.com/fishstrap/fishstrap) - Roblox Player Bootstrapper
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
@@ -963,7 +962,7 @@
 ## ▷ Tabletop Tools
 
 * 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
-* ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
+* ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/), [Let's Roll](https://www.linepup.com/dice/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
 * [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 * [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
 * [Tabletopy](https://tabletopy.com/) or [Tabletop Audio](https://tabletopaudio.com/) - Immersive SFX / Music for TTRPGs
