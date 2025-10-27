@@ -369,7 +369,7 @@
 * ⭐ **[tv.garden](https://tv.garden/)** - TV / Sports
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
-* ⭐ **[PlayTorrio IPTV](https://playtorrioiptv.pages.dev/)** or [Darkness TV](https://tv-channels.pages.dev/) - TV / Sports
+* ⭐ **[PlayTorrio IPTV](https://playtorrioiptv.pages.dev/)** / / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio) or [Darkness TV](https://tv-channels.pages.dev/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** or **[Heartive](https://heartive.pages.dev/live/)** - TV / Sports
 * ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://daddylive.sx/), [3](https://thedaddy.dad/), - TV / [Mirrors](https://daddyny.com/)
 * ⭐ **[TVPAss](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
@@ -393,7 +393,6 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [DistroTV](https://distro.tv/) - TV
-* [PlayTorrio](https://playtorrio.pages.dev/) - TV Desktop App / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [Puffer](https://puffer.stanford.edu/) - San Fran TV
 * [Funcube](https://funcube.space/) - Random Streams
 * [cytube](https://cytu.be/) - Random Streams
