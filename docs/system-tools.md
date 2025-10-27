@@ -437,7 +437,7 @@
 
 ## ▷ Wallpapers
 
-* 🌐 **[WallSync](https://moddingstuff.site/)**, [2](https://wallsync.pages.dev/) - Wallpaper Site Index / [GitHub](https://github.com/leroiduflow/Wallsync)
+* 🌐 **[WallSync](https://roigoatzzz.github.io/Wallsync/)**, [2](https://wallsync.pages.dev/) - Wallpaper Site Index / [GitHub](https://github.com/leroiduflow/Wallsync)
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
 * ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search

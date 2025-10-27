@@ -349,7 +349,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** / [2](https://cas.zukijourney.com/), [FreeAPIProviders](https://rentry.co/freeapiproviders), [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
-* 🌐 **[LMAerena Price Compare](https://countless.dev/)** - AI API Price Comparisons
+* 🌐 **[AI Price Compare](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) or [⁠Libre Subs](https://libre-subs.fifthwit.net/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
@@ -782,7 +782,7 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [GoatCounter](https://www.goatcounter.com/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
+* [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool

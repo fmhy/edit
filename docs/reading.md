@@ -463,7 +463,7 @@
 ## ▷ Manga
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/#section-manga), [2](https://everythingmoe.org/#section-manga) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - Manga Sites Indexes
-* 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
+* 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
@@ -871,6 +871,7 @@
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
+* [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
