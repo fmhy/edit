@@ -20,7 +20,7 @@
 * ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (80 daily) / Grok 4 (20 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2-0905 Chatbot / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4.5 Sonnet / Sign-Up with Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
-* [ChatGPT](https://chatgpt.com/) - GPT-5-medium (1 Daily), GPT-5-chat (10 per 5 hours), GPT-5 mini (Unlimited) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* [ChatGPT](https://chatgpt.com/) - GPT-5 / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#chatgpt-limits) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE X1.1 / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo) / [Discord](https://discord.gg/3Wb36Zp7)
 * [Mistral](https://chat.mistral.ai) - Magistral Medium / Privacy-Focused / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
@@ -40,7 +40,7 @@
 ## ▷ Multiple Model Sites
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Yupp.ai](https://yupp.ai/) - Multiple Chatbots / Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [HuggingChat](https://huggingface.co/chat/) - Multiple Chatbots
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
@@ -60,7 +60,7 @@
 ## ▷ Specialized Chatbots
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=search)** - AI Search Engine / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=search)** - AI Search Engine / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lmarena-note) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Google AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50) - AI Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
@@ -237,7 +237,7 @@
 ## ▷ AI Benchmarks
 
 * ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot Benchmarks / [X](https://x.com/ArtificialAnlys)
-* ⭐ **[LMArena](https://lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[LMArena](https://lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
 * [⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks) - Chatbot Leaderboards / Benchmarks
@@ -301,7 +301,7 @@
 * [⁠FastVideo](https://fastwan.fastvideo.org/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
 * [Hailuo AI](https://hailuoai.video/) / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Vivago](https://vivago.ai/) - 1 Daily
-* [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark / [GitHub](https://github.com/lm-sys/FastChat)
+* [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 
@@ -312,7 +312,7 @@
 * 🌐 **[⁠Imgsys Rankings](https://imgsys.org/rankings)** - Image Generator Benchmarks / Leaderboards
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)**, [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) -Nano Banana (editing) / Imagen 4 + Ultra / 100 per day (Gemini) / Sign-Up Required / Region-Based / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - 30 Per 24 Hours / Editing / Sign-Up Required / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Google Login After 3 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Google Login After 3 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Imagen 3 / Unlimited / Region-Based / Sign-Up Required / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Grok](https://grok.com/)** - 20 Per 2 Hours / Editing / Sign-Up Required / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Mage](https://www.mage.space/)** - Flux Schnell / Sign-Up Required / [Discord](https://discord.com/invite/GT9bPgxyFP)
