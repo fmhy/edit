@@ -410,6 +410,7 @@
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
 * [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
+* [Inbox2Action](https://inbox2action.com) - Turn Emails into Tasks in Seconds 🚀
 
 ***
 
