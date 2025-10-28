@@ -46,7 +46,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Movies / Shows
 
-* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.gd/) / [Hexa](https://hexa.watch/)**
+* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.gd/) / [XPrime](https://xprime.tv/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
@@ -89,7 +89,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
-* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://rentry.co/moontheme) / [Readera](https://readera.org/)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/) / [Readera](https://readera.org/)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
 ***

@@ -34,12 +34,12 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
 * AliTPB / AliPak / b4tman - Caught with malware multiple times
-* FileCR - Caught with malware [multiple times](https://pastebin.com/ky5KMGz2)
+* FileCR - Caught with malware [multiple times](https://ibb.co/FkZKZmXS) + [unsafe extension](https://gist.github.com/Th3w33knd/06b15b0df1b08ab371c392cc75be4f53)
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
 * CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1)
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
-* haxNode - Caught with [malware](https://claraiscute.neocities.org/Announcements/scurvy-malware/), [2](https://claraiscute.pages.dev/Announcements/scurvy-malware/) / [vt](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
+* haxNode - Caught with scurvy malware / [vt](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
 * 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw)
 * MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl)
