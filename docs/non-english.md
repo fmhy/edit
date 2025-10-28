@@ -1392,6 +1392,7 @@
 * [mult-fan](https://mult-fan.tv/) - Cartoons
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.tv/) - Turkish TV w/ Russian Subs
+* [TurkaTV](https://turkatv.com/) - Live TV / Turkish TV / 1080p
 * [TVRF](https://tvrf.online/) - Live TV
 * [Viks](http://ip.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
