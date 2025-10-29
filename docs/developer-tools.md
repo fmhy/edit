@@ -554,6 +554,7 @@
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [massCode](https://masscode.io/) - Code Snippet Manager
+* [Ray](https://www.ray.so/), [Carbon](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ShowCode](https://showcode.app/), [Beauty Codes](https://beauty.codes/) or [Chalk](https://chalk.ist/) - Code Screenshot Tools
 * [Meld](https://meld.app/) / [2](https://meldmerge.org/) or [WinMerge](https://winmerge.org/) - File / Directory Comparison Tools
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
@@ -779,7 +780,7 @@
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics

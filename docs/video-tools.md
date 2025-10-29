@@ -356,6 +356,7 @@
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#video-downloadhelper), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)

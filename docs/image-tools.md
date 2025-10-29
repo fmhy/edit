@@ -25,7 +25,6 @@
 * ↪️ **[Adobe Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
-* ⭐ **[Pinta Project](https://www.pinta-project.com/)** / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
@@ -142,7 +141,7 @@
 * 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web
-* ⭐ **[AutoDraw](https://www.autodraw.com/)** - AI Drawing Tools / Web
+* ⭐ **[Pinta Project](https://www.pinta-project.com/)** - Painting App / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
 * [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
@@ -150,6 +149,7 @@
 * [SumoPaint](https://sumopaint.com/) - Browser Painting / Web
 * [⁠Wigglypaint](https://wigglypaint.net/) - Browser Painting / Animated Brushes
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
+* [AutoDraw](https://www.autodraw.com/) - AI Drawing Tools / Web
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
 * [⁠Vectorpea](https://www.vectorpea.com/) - Vector Editor / Web
@@ -862,7 +862,8 @@
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
-* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Locations
+* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [GeoSpy](https://geospy.net/)
+ or [GeoEstimation](https://labs.tib.eu/geoestimation) - Image Geolocation / Location Estimation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [StegOnline](https://georgeom.net/StegOnline/upload), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/), [hide-text](https://all-tools.github.io/hide-text-in-image/) or [stegpy](https://github.com/izcoser/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool

@@ -250,6 +250,7 @@
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
+* [LubeLogger](https://lubelogger.com/) - Self-Hosted Maintenance + Fuel Mileage Tracker / [GitHub](https://github.com/hargata/lubelog) 
 * [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
 * [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
 
@@ -982,7 +983,7 @@
 * ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware / Tech Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
-* ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
+* ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [⁠Antutu](https://www.antutu.com/en/ranking/rank1.htm) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
