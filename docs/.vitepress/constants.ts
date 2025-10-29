@@ -154,10 +154,6 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   {
     icon: 'reddit',
     link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
-  },
-  {
-    icon: 'bluesky',
-    link: 'https://bsky.app/profile/fmhy.net'
   }
 ]
 
