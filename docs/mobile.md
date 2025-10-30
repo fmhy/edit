@@ -533,7 +533,7 @@
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** or [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
 * ⭐ **[SyncThing Fork](https://github.com/Catfriend1/syncthing-android)** - File Sync
 * ⭐ **[Pairdrop](https://pairdrop.net/)** - File Sharing / [GitHub](https://github.com/fm-sys/snapdrop-android)
-* ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator), [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) or [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File Managers / Explorers
+* ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [FileNavigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator) or [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Managers / Explorers
 * [ConvertIt](https://github.com/TheByteArray/Convertit) - File Converter
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers

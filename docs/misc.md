@@ -951,7 +951,6 @@
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
-* [RedditFavorites](https://redditfavorites.com/) - Reddit Recommended Products
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
