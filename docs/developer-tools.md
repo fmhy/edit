@@ -80,6 +80,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [Work Type Focus](https://worktypefocus.com/) - Classify and visualize Jira work to stay focused and foster innovation
 
 ***
 
