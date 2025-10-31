@@ -27,7 +27,7 @@
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
-* [SteamGG](https://steamgg.net/) - Download / Pre-Installs / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
+* [SteamGG](https://steamgg.net/) - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [⁠Fluxy Repacks](https://fluxyrepacks.xyz/games) - Download / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#fluxy-repacks) / [Discord](https://discord.gg/TBs8Te5nwn)
 * [⁠GoMorGames](https://gomorgames.com/) - Download / [Discord](https://discord.gg/raWtANAZqF)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs / [Telegram](https://t.me/appnetica_info) / [Discord](https://discord.gg/TvKnH6P)

@@ -39,7 +39,7 @@ You can use [nix](https://nixos.org/) to set up a development environment, we ha
 
 You will need to install the following:
 - [Git](https://git-scm.com/downloads)
-- [Node.js](https://nodejs.org/en/download/) - Use latest available LTS release.
+- [Node.js](https://nodejs.org/en/download/) - Install version 21.7.3
 - [pnpm 9.12.2+](https://pnpm.io/installation)
 
 #### Step 1: Clone the Repository

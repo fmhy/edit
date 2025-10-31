@@ -666,7 +666,7 @@
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Bookmark Manager
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch/)** or [Context Search Web](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
-* ⭐ **[Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/)** - Select & Open Multiple Links at Once
+* ⭐ **[Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/)** - Select, Copy or Open Multiple Links at Once
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
@@ -706,6 +706,7 @@
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
+* [Linkclump Plus](https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm) - Select, Copy or Open Multiple Links at Once  / [GitHub](https://github.com/from-es/linkclump-plus)
 * [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [CrxMouse](https://crxmouse.com/) - Mouse Gestures

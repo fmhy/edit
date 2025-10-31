@@ -30,7 +30,7 @@
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1 Chatbot / Sign-Up Required
 * [⁠dots-demo](https://huggingface.co/spaces/rednote-hilab/dots-demo) - Dots Chatbot / No Sign-Up
-* [Apertus](https://chat.publicai.co/) - Apertus 70B / Sign-Up Required
+* [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI Chatbot (not Kimi) / Sign-Up Required
 * [⁠Ai2 Playground](https://playground.allenai.org/) - OLMo 2 Chatbot / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
@@ -297,7 +297,7 @@
 * [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [Bing Create](https://www.bing.com/images/create) - Unlimited / Sora 1 / No Image Input
+* [Bing Create](https://www.bing.com/images/create) - 200 Daily / Sora 1 / No Image Input
 * [⁠FastVideo](https://fastwan.fastvideo.org/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
 * [Hailuo AI](https://hailuoai.video/) / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Vivago](https://vivago.ai/) - 1 Daily
@@ -390,7 +390,6 @@
 * [MusicFX](https://labs.google/fx/tools/music-fx) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / 10 Monthly / [Discord](https://discord.com/invite/stablediffusion)
-* [Udio](https://www.udio.com/) / 3 Daily / [Discord](https://discord.gg/udio)
 * [audio visual generator](https://fredericbriolet.com/avg/) / No Sign-Up
 * [Fake Music Generator](https://www.fakemusicgenerator.com/) / No Sign-Up
 * [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [GitHub](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md)
