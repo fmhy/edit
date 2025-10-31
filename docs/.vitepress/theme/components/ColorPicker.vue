@@ -113,6 +113,12 @@ const updateThemeColor = (colorName: ColorNames, amoledEnabled: boolean) => {
       }
     `
   } else {
+<<<<<<< HEAD
+=======
+    // Remove Halloween theme and apply other theme with pure black backgrounds (but exclude buttons)
+    htmlElement.classList.remove('theme-halloween')
+    
+>>>>>>> 081e57d5bfb921f28d4044e284e82d991442bcaf
     css.value = `
       :root {
         ${cssVars}
@@ -120,10 +126,10 @@ const updateThemeColor = (colorName: ColorNames, amoledEnabled: boolean) => {
         --vp-c-brand-2: ${colorSet[600]};
         --vp-c-brand-3: ${colorSet[800]};
         --vp-c-brand-soft: ${colorSet[400]};
-        --vp-c-bg: #ffffff !important;
-        --vp-c-bg-alt: #f9f9f9 !important;
-        --vp-c-bg-elv: rgba(255, 255, 255, 0.7) !important;
-        --vp-c-bg-soft: #f9f9f9 !important;
+        --vp-c-bg: #000000 !important;
+        --vp-c-bg-alt: #000000 !important;
+        --vp-c-bg-elv: #000000 !important;
+        --vp-c-bg-soft: #000000 !important;
       }
 
       .dark {
@@ -132,26 +138,106 @@ const updateThemeColor = (colorName: ColorNames, amoledEnabled: boolean) => {
         --vp-c-brand-2: ${colorSet[500]};
         --vp-c-brand-3: ${colorSet[700]};
         --vp-c-brand-soft: ${colorSet[300]};
+<<<<<<< HEAD
         --vp-c-bg: ${darkBg} !important;
         --vp-c-bg-alt: ${darkBgAlt} !important;
         --vp-c-bg-elv: ${darkBgElv} !important;
         --vp-c-bg-soft: ${darkBgSoft} !important;
+=======
+        --vp-c-bg: #000000 !important;
+        --vp-c-bg-alt: #000000 !important;
+        --vp-c-bg-elv: #000000 !important;
+        --vp-c-bg-soft: #000000 !important;
+>>>>>>> 081e57d5bfb921f28d4044e284e82d991442bcaf
       }
       
+      /* Main page backgrounds - pure black */
       html, body {
-        background-color: #ffffff !important;
+        background-color: #000000 !important;
       }
       
-      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app, .vp-doc {
-        background-color: #ffffff !important;
+      /* VitePress layout containers - pure black */
+      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+        background-color: #000000 !important;
       }
       
+<<<<<<< HEAD
       .dark html, .dark body {
         background-color: ${darkBg} !important;
       }
       
       .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app, .dark .vp-doc {
         background-color: ${darkBg} !important;
+=======
+      /* Content areas - pure black */
+      .vp-doc, .VPDoc, .content {
+        background-color: #000000 !important;
+      }
+      
+      /* Navigation and sidebar backgrounds - pure black */
+      .VPNav, .VPSidebar, .VPLocalNav {
+        background-color: #000000 !important;
+      }
+      
+      /* Footer - pure black */
+      .VPFooter {
+        background-color: #000000 !important;
+      }
+      
+      /* EXCLUDE buttons and interactive elements from black background */
+      button, 
+      .VPButton, 
+      .vp-button,
+      input[type="button"],
+      input[type="submit"],
+      .copy-button,
+      .nav-link,
+      .sidebar-link,
+      .pager-link,
+      .edit-link,
+      .outline-link,
+      .search-button,
+      [role="button"] {
+        background-color: initial !important;
+      }
+      
+      /* Dark mode - same rules */
+      .dark html, .dark body {
+        background-color: #000000 !important;
+      }
+      
+      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+        background-color: #000000 !important;
+      }
+      
+      .dark .vp-doc, .dark .VPDoc, .dark .content {
+        background-color: #000000 !important;
+      }
+      
+      .dark .VPNav, .dark .VPSidebar, .dark .VPLocalNav {
+        background-color: #000000 !important;
+      }
+      
+      .dark .VPFooter {
+        background-color: #000000 !important;
+      }
+      
+      /* EXCLUDE buttons in dark mode too */
+      .dark button, 
+      .dark .VPButton, 
+      .dark .vp-button,
+      .dark input[type="button"],
+      .dark input[type="submit"],
+      .dark .copy-button,
+      .dark .nav-link,
+      .dark .sidebar-link,
+      .dark .pager-link,
+      .dark .edit-link,
+      .dark .outline-link,
+      .dark .search-button,
+      .dark [role="button"] {
+        background-color: initial !important;
+>>>>>>> 081e57d5bfb921f28d4044e284e82d991442bcaf
       }
     `
   }
@@ -227,4 +313,4 @@ const normalizeColorName = (colorName: string) =>
       <Switch @click="isAmoledMode = !isAmoledMode" />
     </div>
   </div>
-</template>
+</template>  
