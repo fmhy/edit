@@ -78,7 +78,7 @@ const updateThemeColor = (colorName: ColorNames) => {
       }
     `
   } else {
-    // Remove Halloween theme and apply other theme with normal backgrounds
+    // Remove Halloween theme and apply other theme with pure black backgrounds (but exclude buttons)
     htmlElement.classList.remove('theme-halloween')
     
     css.value = `
@@ -88,10 +88,10 @@ const updateThemeColor = (colorName: ColorNames) => {
         --vp-c-brand-2: ${colorSet[600]};
         --vp-c-brand-3: ${colorSet[800]};
         --vp-c-brand-soft: ${colorSet[400]};
-        --vp-c-bg: #ffffff !important;
-        --vp-c-bg-alt: #f9f9f9 !important;
-        --vp-c-bg-elv: rgba(255, 255, 255, 0.7) !important;
-        --vp-c-bg-soft: #f9f9f9 !important;
+        --vp-c-bg: #000000 !important;
+        --vp-c-bg-alt: #000000 !important;
+        --vp-c-bg-elv: #000000 !important;
+        --vp-c-bg-soft: #000000 !important;
       }
 
       .dark {
@@ -100,42 +100,90 @@ const updateThemeColor = (colorName: ColorNames) => {
         --vp-c-brand-2: ${colorSet[500]};
         --vp-c-brand-3: ${colorSet[700]};
         --vp-c-brand-soft: ${colorSet[300]};
-        --vp-c-bg: rgb(26, 26, 26) !important;
-        --vp-c-bg-alt: rgb(23, 23, 23) !important;
-        --vp-c-bg-elv: rgba(23, 23, 23, 0.8) !important;
-        --vp-c-bg-soft: rgb(23, 23, 23) !important;
+        --vp-c-bg: #000000 !important;
+        --vp-c-bg-alt: #000000 !important;
+        --vp-c-bg-elv: #000000 !important;
+        --vp-c-bg-soft: #000000 !important;
       }
       
+      /* Main page backgrounds - pure black */
       html, body {
-        background-color: #ffffff !important;
+        background-color: #000000 !important;
       }
       
-      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app, .vp-doc {
-        background-color: #ffffff !important;
+      /* VitePress layout containers - pure black */
+      .VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
+        background-color: #000000 !important;
       }
       
-      .VPHome {
-        background-color: #ffffff !important;
+      /* Content areas - pure black */
+      .vp-doc, .VPDoc, .content {
+        background-color: #000000 !important;
       }
       
-      .VPHome .VPHero {
-        background-color: #ffffff !important;
+      /* Navigation and sidebar backgrounds - pure black */
+      .VPNav, .VPSidebar, .VPLocalNav {
+        background-color: #000000 !important;
       }
       
+      /* Footer - pure black */
+      .VPFooter {
+        background-color: #000000 !important;
+      }
+      
+      /* EXCLUDE buttons and interactive elements from black background */
+      button, 
+      .VPButton, 
+      .vp-button,
+      input[type="button"],
+      input[type="submit"],
+      .copy-button,
+      .nav-link,
+      .sidebar-link,
+      .pager-link,
+      .edit-link,
+      .outline-link,
+      .search-button,
+      [role="button"] {
+        background-color: initial !important;
+      }
+      
+      /* Dark mode - same rules */
       .dark html, .dark body {
-        background-color: rgb(26, 26, 26) !important;
+        background-color: #000000 !important;
       }
       
-      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app, .dark .vp-doc {
-        background-color: rgb(26, 26, 26) !important;
+      .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
+        background-color: #000000 !important;
       }
       
-      .dark .VPHome {
-        background-color: rgb(26, 26, 26) !important;
+      .dark .vp-doc, .dark .VPDoc, .dark .content {
+        background-color: #000000 !important;
       }
       
-      .dark .VPHome .VPHero {
-        background-color: rgb(26, 26, 26) !important;
+      .dark .VPNav, .dark .VPSidebar, .dark .VPLocalNav {
+        background-color: #000000 !important;
+      }
+      
+      .dark .VPFooter {
+        background-color: #000000 !important;
+      }
+      
+      /* EXCLUDE buttons in dark mode too */
+      .dark button, 
+      .dark .VPButton, 
+      .dark .vp-button,
+      .dark input[type="button"],
+      .dark input[type="submit"],
+      .dark .copy-button,
+      .dark .nav-link,
+      .dark .sidebar-link,
+      .dark .pager-link,
+      .dark .edit-link,
+      .dark .outline-link,
+      .dark .search-button,
+      .dark [role="button"] {
+        background-color: initial !important;
       }
     `
   }
@@ -196,4 +244,4 @@ const normalizeColorName = (colorName: string) =>
       Selected: {{ normalizeColorName(selectedColor) }}
     </div>
   </div>
-</template>
+</template>  
