@@ -1087,6 +1087,7 @@
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
+* ⭐ **[CodedPadAI](https://codedpadai.com) - Secure Sahring, Reimagined
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
 * ⭐ **[endoflife.date](https://endoflife.date/)** - Tool / Tech End of Life Index
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
