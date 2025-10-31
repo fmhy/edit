@@ -383,6 +383,7 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Use Firehawk52
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / Free Only / [Discord](https://discord.com/invite/nwdT4MP)
 * [AccurateRip](https://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [qobuz-cli](https://github.com/HongYue1/qobuz-cli) - Qobuz / 128kb Free / FLAC / Supports token login and concurrent downloads / Use Firehawk52
 
 ***
 
