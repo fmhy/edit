@@ -517,6 +517,7 @@
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Sign-Up Required
 * [Upstract](https://upstract.com/)
+* [⁠100.news](https://100.news/)
 * [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)
 * [NewsNow](https://www.newsnow.co.uk/)
@@ -533,6 +534,7 @@
 * ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
+* [⁠DeadStack](https://deadstack.net/) - Tech / AI News Aggregator 
 * [TechURLs](https://techurls.com/) - Tech News
 * [Techmeme](https://www.techmeme.com/) - Tech News
 * [The Brutalist Report](https://brutalist.report/) - Tech News

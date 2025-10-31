@@ -11,7 +11,13 @@ footer: true
 
 <Post authors="nbats" />
 
-### [FMHY-Search](https://fmhy-search.streamlit.app/)
+### [FMHY-Search](https://fmhy-search.dev.zenir.tech/)
+
+Search built with NextJS
+
+---
+
+### [Streamlit Search](https://fmhy-search.streamlit.app/)
 
 Search engine hosted on Streamlit
 

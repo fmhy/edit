@@ -76,6 +76,7 @@
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Hindawi](https://www.hindawi.org/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
+* [GedoLibrary_bot](https://telegram.me/GedoLibrary_bot) - Book Telegram Bot
 * [3asq](https://3asq.org/) - Manga
 * [Azoramoon](https://azoramoon.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
@@ -162,6 +163,7 @@
 * 🌐 **[RecTG](https://github.com/jackhawks/rectg)** - Chinese Telegram Groups / Bots
 * [ixigua.com](https://www.ixigua.com/) - Chinese Alternative to YouTube and TikTok
 * [Linux Do](https://linux.do/) - Linux Forum
+* [⁠Arch Linux Concise Guide](https://arch.icekylin.online/) - Arch Linux Guide
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [assrt](https://assrt.net/), [srtku](https://srtku.com/) or [zimuku](https://zimuku.org/) - Subtitles
 * [Tool.lu](https://tool.lu/) - Online Tools
@@ -196,8 +198,7 @@
 
 ***
 
-* 🌐 **[⁠Duyaoss](https://duyaoss.com/)** - GFW Bypass VPN Comparisons
-* ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)**
+* ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
 * ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
@@ -428,6 +429,7 @@
 * [Viddla](https://www.viddla.fi/) - Movies / TV / Library Card Required
 * [TVKaista](https://www.tvkaista.org/) - Finnish IPTV
 * [Podcast24](https://podcast24.fi/) - Podcasts
+* [helpotnopat](https://helpotnopat.fi/) - Courses
 
 ## ▷ Reading / Lukeminen
 
@@ -438,6 +440,7 @@
 
 # ► French / Français
 
+* 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / [Subreddit](https://reddit.com/r/FrancePirate/)
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Wikiwix Archive](https://archive.wikiwix.com/) - Wikipedia Search
 * [Tseret](https://tseret.com/) - Game Guides
@@ -539,6 +542,7 @@
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [animexx](https://www.animexx.de/) - German Anime Community
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
+* [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App 
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries
 
