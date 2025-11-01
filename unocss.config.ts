@@ -25,27 +25,6 @@ import {
   transformerDirectives
 } from 'unocss'
 
-// Add Halloween colors to extend the existing colors
-const halloweenColors = {
-  50: '#fff7ed',
-  100: '#ffedd5',
-  200: '#fed7aa',
-  300: '#fdba74',
-  400: '#fb923c',
-  500: '#FF6A00',
-  600: '#ea580c',
-  700: '#c2410c',
-  800: '#9a3412',
-  900: '#7c2d12',
-  950: '#431407'
-}
-
-// Extend colors with Halloween theme
-const extendedColors = {
-  ...colors,
-  halloween: halloweenColors
-}
-
 const colorScales = [
   '50',
   '100',
@@ -60,7 +39,7 @@ const colorScales = [
   '950'
 ] as const
 
-const colorPattern = Object.keys(extendedColors).join('|')
+const colorPattern = Object.keys(colors).join('|')
 const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
   const property =
     type === 'text'
@@ -73,7 +52,7 @@ const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
     (scale) =>
       [
         new RegExp(`^${type}-(${colorPattern})-${scale}$`),
-        ([, color]) => ({ [property]: extendedColors[color][scale] })
+        ([, color]) => ({ [property]: colors[color][scale] })
       ] as const
   )
 }
@@ -84,7 +63,7 @@ export default defineConfig({
   },
   theme: {
     colors: {
-      ...extendedColors,
+      ...colors,
       primary: 'var(--vp-c-brand-1)',
       bg: 'var(--vp-c-bg)',
       'bg-alt': 'var(--vp-c-bg-alt)',
