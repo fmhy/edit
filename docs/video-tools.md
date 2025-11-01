@@ -83,7 +83,7 @@
 
 ## ▷ Processing / Encoding
 
-* ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
+* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
