@@ -39,7 +39,7 @@ const colorScales = [
   '950'
 ] as const
 
-const colorPattern = Object.keys(colors).join('|')
+const colorPattern = Object.keys(extendedColors).join('|')
 const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
   const property =
     type === 'text'
@@ -52,7 +52,7 @@ const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
     (scale) =>
       [
         new RegExp(`^${type}-(${colorPattern})-${scale}$`),
-        ([, color]) => ({ [property]: colors[color][scale] })
+        ([, color]) => ({ [property]: extendedColors[color][scale] })
       ] as const
   )
 }
@@ -63,7 +63,7 @@ export default defineConfig({
   },
   theme: {
     colors: {
-      ...colors,
+      ...extendedColors,
       primary: 'var(--vp-c-brand-1)',
       bg: 'var(--vp-c-bg)',
       'bg-alt': 'var(--vp-c-bg-alt)',
