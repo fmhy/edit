@@ -41,7 +41,7 @@ const colorScales = [
 
 type ColorNames = keyof typeof extendedColors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'halloween')
-const isAmoledMode = useStorage('amoled-mode', false)
+const isAmoledMode = useStorage('amoled-mode', true)
 
 const colorOptions = Object.keys(extendedColors).filter(
   (key) => typeof extendedColors[key as keyof typeof extendedColors] === 'object'
