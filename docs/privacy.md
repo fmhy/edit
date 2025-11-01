@@ -153,7 +153,6 @@
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Send Self-Destructing Messages
 * [Steg Cloak](https://stegcloak.surge.sh/) or [spammimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
-* [HiddenVM](https://github.com/aforensics/HiddenVM) - VirtualBox for TailsOS
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [DeFlock](https://deflock.me/) - AI Automated License Plate Reader Cameras / ALPR Map / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock)
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents

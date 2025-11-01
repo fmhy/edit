@@ -46,7 +46,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Movies / Shows
 
-* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.gd/) / [XPrime](https://xprime.tv/)**
+* **Streaming: [Cineby](https://www.cineby.gd/) / [P-Stream](https://pstream.mov/) / [XPrime](https://xprime.tv/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**

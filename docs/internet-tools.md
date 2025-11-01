@@ -364,6 +364,7 @@
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
+* [⁠1sh](https://www.1sh.pl/) - `1sh.pl/qIPAbZ`
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
@@ -443,7 +444,6 @@
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * [⁠TotallyLegit](https://totallylegit.edu.pl/), [EduMail](https://edumail.icu/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
-* [TempMailHub](https://tempmailhub.org/) - Gmail / 15 Mins / 1 Domain / Public Shared Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
