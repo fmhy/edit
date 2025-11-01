@@ -1403,6 +1403,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/#graded) - Grades Tracker / Android, iOS / [GitHub](https://github.com/NightDreamGames/Graded)
+* [UAFCGPACalculator](https://uafcgpacalculator.vercel.app) - UAF CGPA Calculator - M Saqlain | Automatic & Accurate
 * [GradesCalculator](https://calculatecgpa.com) - Calculate CGPA & GPA
 * [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
