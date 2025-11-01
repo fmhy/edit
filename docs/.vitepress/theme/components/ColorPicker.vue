@@ -223,7 +223,7 @@ const normalizeColorName = (colorName: string) =>
     
     <!-- AMOLED toggle -->
     <div class="mt-4 flex items-center gap-2">
-      <span class="text-sm text-$vp-c-text-2">AMOLED🌙</span>
+      <span class="text-sm text-$vp-c-text-2">AMOLED</span>
       <Switch @click="isAmoledMode = !isAmoledMode" />
     </div>
   </div>
