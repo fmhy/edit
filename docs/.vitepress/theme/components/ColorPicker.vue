@@ -203,12 +203,6 @@ const normalizeColorName = (colorName: string) =>
           :title="normalizeColorName(color)"
         >
           <span
-            v-if="color === 'halloween'"
-            class="inline-block w-6 h-6 flex items-center justify-center text-xl"
-          >
-            🎃
-          </span>
-          <span
             v-else
             class="inline-block w-6 h-6 rounded-full"
             :style="{ backgroundColor: extendedColors[color][500] }"
