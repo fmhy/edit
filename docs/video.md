@@ -604,7 +604,7 @@
 * [OlaMovies](https://olamovies.top/) - Movies / TV / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [KatMovie4k](https://katworld.net/?type=Katmovie4k) - Movies / TV / 4K
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
-* [DDLBase](https://ddlbase.com/) - Movies / 4K
+* [DDLBase](https://ddlbase.com/) - Movies / 4K / 3D / Remuxes
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [Cineby](https://www.cineby.gd/), [2](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
