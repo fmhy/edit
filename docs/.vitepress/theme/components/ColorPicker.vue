@@ -85,7 +85,7 @@ const updateThemeColor = (colorName: ColorNames, amoledEnabled: boolean) => {
       background-color: ${darkBg} !important;
     }
     
-    .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app, .vp-doc {
+    .dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app, .dark .vp-doc {
       background-color: ${darkBg} !important;
     }
   `
