@@ -180,7 +180,7 @@
 
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
-* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / [Guide](https://youtu.be/Z4Enx-Nb43E)
+* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / [Guide](https://youtu.be/Z4Enx-Nb43E) / [Linux: Flatpak build](https://github.com/krakua0/aseprite-flatpak/)
 * ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor
 * ⭐ **[Piskel](https://www.piskelapp.com/)** - Pixel Art Editor / Web
 * [rx](https://rx.cloudhead.io/) - Pixel Art Editor / Mac, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
