@@ -1,3 +1,4 @@
+<script setup lang="ts">
 import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
 import { watch, onMounted } from 'vue'
