@@ -98,7 +98,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 > How can I safely scan files, and determine if detections are false positives?
 
-Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://claraiscute.neocities.org/Guides/vtguide)** / [2](https://claraiscute.pages.dev/Guides/vtguide), or send it to us in Discord and we'll take a look for you.
 
 !!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
