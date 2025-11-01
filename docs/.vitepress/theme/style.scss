@@ -23,19 +23,6 @@
   --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
   --vp-c-bg-mark: rgb(232, 232, 232);
 
-  /* Colors: Halloween Theme */
-  --halloween-50: #fff7ed;
-  --halloween-100: #ffedd5;
-  --halloween-200: #fed7aa;
-  --halloween-300: #fdba74;
-  --halloween-400: #fb923c;
-  --halloween-500: #FF6A00;
-  --halloween-600: #ea580c;
-  --halloween-700: #c2410c;
-  --halloween-800: #9a3412;
-  --halloween-900: #7c2d12;
-  --halloween-950: #431407;
-
   /* Colors: Custom Block */
   /** Info */
   --vp-custom-block-info-bg: theme('colors.swarm.100');
@@ -57,63 +44,6 @@
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
-  /** Halloween */
-  --vp-custom-block-halloween-bg: var(--halloween-100);
-  --vp-custom-block-halloween-border: var(--halloween-800);
-  --vp-custom-block-halloween-text: var(--halloween-800);
-  --vp-custom-block-halloween-text-deep: var(--halloween-900);
-}
-
-/* Apply Halloween theme by default (for light mode)*/
-:root {
-  --vp-c-bg: #fef3e8 !important;
-  --vp-c-bg-alt: #fef0e7 !important;
-  --vp-c-bg-elv: rgba(254, 240, 231, 0.8) !important;
-  --vp-c-bg-soft: #fef0e7 !important;
-  --vp-button-alt-bg: #a855f7 !important;
-  --vp-button-alt-text: #fff !important;
-  --vp-button-alt-hover-bg: #9333ea !important;
-  --vp-button-alt-hover-text: #fff !important;
-  --vp-button-brand-bg: #FF6A00 !important;
-  --vp-button-brand-border: #FF6A00 !important;
-  --vp-button-brand-text: #fff !important;
-  --vp-button-brand-hover-bg: #ea580c !important;
-  --vp-button-brand-hover-border: #ea580c !important;
-  --vp-button-brand-hover-text: #fff !important;
-}
-
-body {
-  background-color: #fef3e8 !important;
-}
-
-.VPApp, .Layout, .VPContent, .VPHome, .VPHero, #app {
-  background-color: #fef3e8 !important;
-}
-
-/* Apply Halloween theme by default - (for dark mode) */
-.dark {
-  --vp-c-bg: rgb(15, 15, 15) !important;
-  --vp-c-bg-alt: rgb(12, 12, 12) !important;
-  --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
-  --vp-c-bg-soft: rgb(12, 12, 12) !important;
-  --vp-button-alt-bg: #8b5cf6 !important;
-  --vp-button-alt-text: #e9d5ff !important;
-  --vp-button-alt-hover-bg: #a855f7 !important;
-  --vp-button-alt-hover-text: #fff !important;
-  --vp-button-brand-bg: #FF6A00 !important;
-  --vp-button-brand-border: #FF6A00 !important;
-  --vp-button-brand-text: #fff !important;
-  --vp-button-brand-hover-bg: #ea580c !important;
-  --vp-button-brand-hover-border: #ea580c !important;
-  --vp-button-brand-hover-text: #fff !important;
-}
-
-.dark body {
-  background-color: rgb(15, 15, 15) !important;
-}
-
-.dark .VPApp, .dark .Layout, .dark .VPContent, .dark .VPHome, .dark .VPHero, .dark #app {
-  background-color: rgb(15, 15, 15) !important;
 }
 
 .dark {
@@ -149,78 +79,6 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
-  /** Halloween */
-  --vp-custom-block-halloween-bg: var(--halloween-950);
-  --vp-custom-block-halloween-border: var(--halloween-800);
-  --vp-custom-block-halloween-text: var(--halloween-200);
-  --vp-custom-block-halloween-text-deep: var(--halloween-200);
-}
-
-/* Halloween theme overrides */
-/* Halloween theme overrides - (for light mode) */
-html[data-halloween-theme]:not(.dark) {
-  --vp-c-bg: #fef3e8 !important;
-  --vp-c-bg-alt: #fef0e7 !important;
-  --vp-c-bg-elv: rgba(254, 240, 231, 0.8) !important;
-  --vp-c-bg-soft: #fef0e7 !important;
-  --vp-button-alt-bg: #a855f7 !important;
-  --vp-button-alt-text: #fff !important;
-  --vp-button-alt-hover-bg: #9333ea !important;
-  --vp-button-alt-hover-text: #fff !important;
-  --vp-button-brand-bg: #FF6A00 !important;
-  --vp-button-brand-border: #FF6A00 !important;
-  --vp-button-brand-text: #fff !important;
-  --vp-button-brand-hover-bg: #ea580c !important;
-  --vp-button-brand-hover-border: #ea580c !important;
-  --vp-button-brand-hover-text: #fff !important;
-  
-  background-color: #fef3e8 !important;
-}
-
-html[data-halloween-theme]:not(.dark) body {
-  background-color: #fef3e8 !important;
-}
-
-html[data-halloween-theme]:not(.dark) .VPApp,
-html[data-halloween-theme]:not(.dark) .Layout,
-html[data-halloween-theme]:not(.dark) .VPContent,
-html[data-halloween-theme]:not(.dark) .VPHome,
-html[data-halloween-theme]:not(.dark) .VPHero,
-html[data-halloween-theme]:not(.dark) #app {
-  background-color: #fef3e8 !important;
-}
-
-/* Halloween theme overrides - (for dark mode) */
-html[data-halloween-theme].dark {
-  --vp-c-bg: rgb(15, 15, 15) !important;
-  --vp-c-bg-alt: rgb(12, 12, 12) !important;
-  --vp-c-bg-elv: rgba(12, 12, 12, 0.8) !important;
-  --vp-c-bg-soft: rgb(12, 12, 12) !important;
-  --vp-button-alt-bg: #8b5cf6 !important;
-  --vp-button-alt-text: #e9d5ff !important;
-  --vp-button-alt-hover-bg: #a855f7 !important;
-  --vp-button-alt-hover-text: #fff !important;
-  --vp-button-brand-bg: #FF6A00 !important;
-  --vp-button-brand-border: #FF6A00 !important;
-  --vp-button-brand-text: #fff !important;
-  --vp-button-brand-hover-bg: #ea580c !important;
-  --vp-button-brand-hover-border: #ea580c !important;
-  --vp-button-brand-hover-text: #fff !important;
-  
-  background-color: rgb(15, 15, 15) !important;
-}
-
-html[data-halloween-theme].dark body {
-  background-color: rgb(15, 15, 15) !important;
-}
-
-html[data-halloween-theme].dark .VPApp,
-html[data-halloween-theme].dark .Layout,
-html[data-halloween-theme].dark .VPContent,
-html[data-halloween-theme].dark .VPHome,
-html[data-halloween-theme].dark .VPHero,
-html[data-halloween-theme].dark #app {
-  background-color: rgb(15, 15, 15) !important;
 }
 
 .vp-doc a {
@@ -282,14 +140,14 @@ html[data-halloween-theme].dark #app {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #ff8c3a 30%,
-    #FF6A00
+    #c4b5fd 30%,
+    #7bc5e4
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #ff8c3a 50%,
-    #ea580c 50%
+    #c4b5fd 50%,
+    #47caff 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
@@ -464,19 +322,6 @@ html[data-halloween-theme].dark #app {
   color: var(--vp-custom-block-danger-text-deep);
 }
 
-.halloween.custom-block a {
-  color: var(--vp-custom-block-halloween-text);
-  font-weight: 500;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  transition: opacity 0.25s;
-}
-
-.halloween.custom-block a:hover {
-  opacity: 0.7;
-  color: var(--vp-custom-block-halloween-text-deep);
-}
-
 .info.custom-block {
   --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluZm8iPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDE2di00Ii8+PHBhdGggZD0iTTEyIDhoLjAxIi8+PC9zdmc+');
 }
@@ -495,10 +340,6 @@ html[data-halloween-theme].dark #app {
 
 .danger.custom-block {
   --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNrdWxsIj48Y2lyY2xlIGN4PSI5IiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEyIiByPSIxIi8+PHBhdGggZD0iTTggMjB2Mmg4di0yIi8+PHBhdGggZD0ibTEyLjUgMTctLjUtMS0uNSAxaDF6Ii8+PHBhdGggZD0iTTE2IDIwYTIgMiAwIDAgMCAxLjU2LTMuMjUgOCA4IDAgMSAwLTExLjEyIDBBMiAyIDAgMCAwIDggMjAiLz48L3N2Zz4=');
-}
-
-.halloween.custom-block {
-  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyYzMgMCA1IDIgNSA1djZjMCA0LTMgNy04IDdoLTJjLTUtMS04LTMtOC03VjdjMC0zIDItNSA1LTVoOHoiLz48Y2lyY2xlIGN4PSI5IiBjeT0iOSIgcj0iMSIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iOSIgcj0iMSIvPjxwYXRoIGQ9Im0xMCAxNCAyIDJoMGwyLTIiLz48L3N2Zz4=');
 }
 
 .custom-block-title {
