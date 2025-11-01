@@ -40,7 +40,7 @@ const colorScales = [
 ] as const
 
 type ColorNames = keyof typeof extendedColors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'halloween')
+const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 const isAmoledMode = useStorage('amoled-mode', false)
 
 const colorOptions = Object.keys(extendedColors).filter(
@@ -202,12 +202,6 @@ const normalizeColorName = (colorName: string) =>
           @click="selectedColor = color"
           :title="normalizeColorName(color)"
         >
-          <span
-            v-if="color === 'halloween'"
-            class="inline-block w-6 h-6 flex items-center justify-center text-xl"
-          >
-            🎃
-          </span>
           <span
             v-else
             class="inline-block w-6 h-6 rounded-full"
