@@ -10,7 +10,7 @@ hero:
     title: Nov 2025 Updates 🍂
     link: /posts/Nov-2025
   image:
-    src: /hall.png
+    src: /test.png
     alt: FMHY Icon
   actions:
     - theme: brand
@@ -169,13 +169,13 @@ onMounted(() => {
   const setKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/uwu-hall.png'
+      img.src = '/logo-uwu.svg'
     })
   }
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/hall.png'
+      img.src = '/test.png'
     })
   }
   if (kawaii === 'true') {
