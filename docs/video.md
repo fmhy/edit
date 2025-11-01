@@ -445,6 +445,7 @@
 * [VIP Box Sports](https://www.viprow.nu/) / [Mirrors](https://rentry.co/VIPSportsBox)
 * [720pStream](https://720pstream.nu/)
 * [BuffStream](https://app.buffstream.io/)
+* [⁠Bundesliga](https://bundesliga.league.do/)
 * [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
