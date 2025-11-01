@@ -350,7 +350,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[squid.wtf](https://tidal.squid.wtf)**, **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - FLAC / [Invites](https://discord.com/invite/rmzH6ttgcC) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9)
