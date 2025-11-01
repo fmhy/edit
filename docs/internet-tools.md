@@ -488,7 +488,7 @@
 ## ▷ Email Aliasing
 
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / 10 Alias Limit / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email)
 * [Mailgw](https://mailgw.com/) - Email Aliasing
