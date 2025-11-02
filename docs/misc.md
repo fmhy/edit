@@ -1172,6 +1172,7 @@
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
 * [Timer](https://klaster1.github.io/timer-5) - Time Tracker
+* [Rize](https://rize.io/) - Time Tracker / Break Reminders
 * [timebleed](https://timebleed.com/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [Pomatez](https://zidoro.github.io/pomatez/) - Time Tracker / Break Reminders
