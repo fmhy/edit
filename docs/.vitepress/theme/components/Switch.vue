@@ -2,11 +2,11 @@
 import { Switch } from '@headlessui/vue'
 import { ref } from 'vue'
 
-const enabled = defineModel({ default: false })
+const model = defineModel()
 </script>
 
 <template>
-  <Switch v-model="enabled" class="switch" :class="{ enabled }">
+  <Switch v-model="model" class="switch" :class="{ enabled: model }">
     <span class="thumb" />
   </Switch>
 </template>
