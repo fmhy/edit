@@ -2,7 +2,7 @@
 import { Switch } from '@headlessui/vue'
 import { ref } from 'vue'
 
-const enabled = ref(false)
+const enabled = defineModel({ default: false })
 </script>
 
 <template>
