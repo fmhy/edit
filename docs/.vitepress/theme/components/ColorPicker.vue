@@ -20,7 +20,7 @@ const colorScales = [
 
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
-const isAmoledMode = useStorage('amoled-mode', true)
+const isAmoledMode = useStorage('amoled-mode', false)
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
