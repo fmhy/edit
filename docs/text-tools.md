@@ -230,6 +230,7 @@
 * ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [Discord](https://discord.com/invite/notesnook-796015620436787241) / [GitHub](https://github.com/streetwriters/notesnook)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
+* [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / [GitHub](https://github.com/lokus-ai/lokus)
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Flotes](https://flotes.app/) - Markdown Note-Taking
@@ -379,6 +380,7 @@
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
+* [Gateway Forge](https://gatewayforge.com/) - Interactive Worldbuilding / Story Writing Tool / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn)
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)

@@ -134,6 +134,7 @@
 * [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
 * [Screen-Sharing](https://share-your-screen.vercel.app/) - Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)
+* [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / [Guide](https://2305878273.7844380499.cfd/Server/Kasm/) / [GitHub](https://github.com/kasmtech/KasmVNC)
 * [TigerVNC](https://tigervnc.org/) - VNC Client / [GitHub](https://github.com/TigerVNC/tigervnc)
 * [TightVNC](https://www.tightvnc.com/) - VNC Client
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC Client / [GitHub](https://github.com/novnc/noVNC)

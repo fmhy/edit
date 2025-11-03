@@ -463,7 +463,7 @@
 * [Intra](https://getintra.org) - Encrypted DNS App
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
 * [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / No Root Required / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-lock) 
-* [Orbot](https://orbot.app/en/) - Tor Proxy Apps
+* [Orbot](https://orbot.app/en/), [2](https://guardianproject.info/apps/org.torproject.android/) - Tor Proxy Apps
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
 * [TrackerControl](https://trackercontrol.org/) - Tracker Monitor / Controller / [GitHub](https://github.com/TrackerControl/tracker-control-android)

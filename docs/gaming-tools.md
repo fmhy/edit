@@ -564,7 +564,7 @@
 
 * 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [GitLab](https://gitlab.com/mcdoc/mcdoc.site) / [Discord](https://discord.gg/TtJM3ahtuM)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
-* ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** - Minecraft Wikis
+* ⭐ **[Minecraft Wiki](https://minecraft.wiki/)**
 * ⭐ **[Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) - Minecraft Web Tools
