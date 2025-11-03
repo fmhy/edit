@@ -2,7 +2,7 @@
 import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
 import { watch, onMounted } from 'vue'
-import Switch from './Switch.vue'
+import amoledswitch from './amoledswitch.vue'
 
 const colorScales = [
   '50',
@@ -135,7 +135,7 @@ const normalizeColorName = (colorName: string) =>
     <!-- AMOLED toggle -->
     <div class="mt-4 flex items-center gap-2">
       <span class="text-sm text-$vp-c-text-2">AMOLED</span>
-      <Switch v-model="isAmoledMode" />
+      <amoledswitch v-model="isAmoledMode" />
     </div>
   </div>
 </template>
