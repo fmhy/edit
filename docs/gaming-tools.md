@@ -615,7 +615,7 @@
 
 ## ▷ Launchers
 
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://gist.github.com/sugoidogo/2e607727cd61324b2d292da96961de3f) / [Free Method](https://rentry.co/prism4free) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://gist.github.com/sugoidogo/2e607727cd61324b2d292da96961de3f) / [Free Version](https://rentry.co/FMHYB64#prism) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** - Launcher for Bedrock Edition / [Does Not Work w/ Latest MC Versions](https://ibb.co/7NXBJXX5)
 * [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
