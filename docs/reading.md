@@ -312,7 +312,6 @@
 
 ## ▷ Esoteric / Cultural
 
-* 🌐 **[Archives](https://rentry.co/FMHYB64#archives)** - Esoteric / Occult Resources
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books

@@ -46,7 +46,7 @@
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
-* [Discord Lookup](https://discord.id/) or [Toolscord](https://toolscord.com/) - Look up a Discord User or Bot ID
+* [Discord Lookup](https://discord.id/) - Look up a Discord User or Bot ID
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews)
 * [GiveMeBadge](https://givemebadge.alexflipnote.dev/) - Unlock Discord Dev Badges
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
