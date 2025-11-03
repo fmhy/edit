@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { colors } from '@fmhy/colors'
 import { useStorage, useStyleTag } from '@vueuse/core'
-import { watch, onMounted } from 'vue'
+import { watch, onMounted, nextTick } from 'vue'
 import amoledswitch from './amoledswitch.vue'
 
 const colorScales = [
@@ -91,13 +91,19 @@ const updateThemeColor = (colorName: ColorNames, amoledEnabled: boolean) => {
   `
 }
 
-onMounted(() => {
-  if (isAmoledMode.value) {
-    document.documentElement.classList.add('theme-amoled')
-  }
+onMounted(async () => {
+  // Wait for next tick to ensure DOM is ready
+  await nextTick()
   
-  // Re-apply the theme to ensure everything is initialized
-  updateThemeColor(selectedColor.value, isAmoledMode.value)
+  // Small delay to ensure VitePress dark mode is initialized
+  setTimeout(() => {
+    if (isAmoledMode.value) {
+      document.documentElement.classList.add('theme-amoled')
+    }
+    
+    // Force re-apply the theme
+    updateThemeColor(selectedColor.value, isAmoledMode.value)
+  }, 100)
 })
 
 watch([selectedColor, isAmoledMode], ([color, amoled]) => {
