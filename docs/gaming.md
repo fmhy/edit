@@ -531,6 +531,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+* [Letterlock](https://loving2read.com/games/wordle-for-kids/) - Wordle Clone With Levels
 
 ***
 
