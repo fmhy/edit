@@ -537,6 +537,50 @@
 
 ***
 
+# ► Browser Startpages
+
+* 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
+* 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
+* ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
+* ⭐ **[MONKNOW](https://www.monknow.com/)**
+* [r/startpages](https://www.reddit.com/r/startpages/)
+* [8bitdash](https://www.8bitdash.com/)
+* [8 Bit Dashboard](https://8bitdashboard.com/)
+* [Clippingmini](https://www.clippingmini.com/)
+* [Draggo](https://draggo.com/)
+* [Pearltrees](https://www.pearltrees.com/)
+* [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
+* [Cling](https://cling.com/)
+* [FMHY Startpage](https://fmhy.net/startpage)
+* [Symbaloo](https://www.symbaloo.com/)
+* [Tixio](https://tixio.io/)
+* [Bento](https://github.com/migueravila/Bento)
+* [nightly](https://github.com/damnitharshit/nightly)
+* [Protopage](https://www.protopage.com/)
+* [tilde](https://github.com/xvvvyz/tilde)
+* [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity)
+* [AllMyFaves](https://allmyfaves.com/)
+* [start.me](https://start.me/start/int/startpage)
+* [Combobox](https://combobox.me)
+
+***
+
+## ▷ Custom New Tab Pages
+
+* ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
+* ⭐ **[Mue](https://muetab.com/)** - Customizable New Tab / [GitHub](https://github.com/mue/mue)
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** - Minimalist Startpage / [GitHub](https://github.com/victrme/Bonjourr)
+* [Renewed Tab](https://renewedtab.com/) - Customizable New Tab / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
+* [mtab](https://github.com/maxhu08/mtab)
+* [nightTab](https://github.com/zombieFox/nightTab)
+* [hexagonTab](https://github.com/zombieFox/hexagonTab)
+* [Perfect Home](https://github.com/perfect-things/perfect-home)
+* [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
+* [Infinity New Tab](https://en.infinitynewtab.com/)
+* [Momentum](https://momentumdash.com/)
+
+***
+
 # ► Browser Tools
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://browsers.avoidthehack.com/) - Compare Popular Browsers
@@ -587,7 +631,6 @@
 * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
-* ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes
 * ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
@@ -771,6 +814,7 @@
 * ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [Ghost Archive](https://ghostarchive.org/) - Archive Web Pages
+* [WebArchive.io](https://www.webarchive.io/) - Archive Web Pages
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archiving Project / Wiki
 * [Perma.cc](https://perma.cc/) - Create Permalinks
 

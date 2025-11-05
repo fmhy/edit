@@ -639,7 +639,6 @@
 
 ## ▷ Image Compressors
 
-* ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 * ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
 * ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
@@ -654,6 +653,20 @@
 * [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
 * [CompressOrDie](https://compress-or-die.com/) - Multitool
 * [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
+
+***
+
+## ▷ Image Optimization
+
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* [RIOT](https://riot-optimizer.com/) - Image Optimization
+* [YOGA](https://yoga.flozz.org/) - Image Optimization
+* [ImageFoo](https://imagefoo.com/) - Image Optimization
+* [tiny.pictures](https://tiny.pictures/) - Image Optimization
+* [Ihancer](https://ihancer.com) - Image Optimization
+* [Waifu2x](https://www.waifu2x.net/) - Image Optimization
+* [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization
+* [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
 
 ***
 

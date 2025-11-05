@@ -235,7 +235,6 @@
 * ⭐ **[PDF24](https://www.pdf24.org/)**
 * [BentoPDF](https://bentopdf.com/) / [GitHub](https://github.com/alam00000/bentopdf)
 * [⁠PDF4QT](https://jakubmelka.github.io/) / [GitHub](https://github.com/JakubMelka/PDF4QT)
-* [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
