@@ -433,8 +433,8 @@
 * [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [SportDB](https://sportdb.pro/) - Stream Aggregator
-* [TotalSportek.to](https://totalsportek.es/), [2](https://buffstreams.app/) - Stream Aggregator
-* [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)
+* [TotalSportek.es](https://totalsportek.es/), [2](https://streameast.cz/) - Stream Aggregator
+* [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [MainPortal66](https://mainportal66.com/)
 * [⁠GoalieTrend](https://www.goalietrend.com/daily-event) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [Viprow](https://viprow.cv/) or [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
@@ -452,7 +452,6 @@
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
-* [CricHD](https://crichd.at/) - Cricket / Aggregator
 * [WebCric](https://me.webcric.com/) - Cricket
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
 * [OvertakeFans](https://overtakefans.com/) - Motorsports / [Discord](https://discord.gg/ZKwTUbdbmc)
