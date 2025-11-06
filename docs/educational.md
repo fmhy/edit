@@ -120,6 +120,7 @@
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
+* [Chess Analysis](https://chess-analysis.org/) - free chess analysis
 
 ***
 
