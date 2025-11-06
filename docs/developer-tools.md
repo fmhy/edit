@@ -80,6 +80,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [PieChartGenerator](https://piechartgenerator.co/) - Free Online Pie Chart Generator & Maker
 
 ***
 
@@ -97,6 +98,8 @@
 * [Prototypr](https://prototypr.io/toolbox/page/1)
 * [Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin) - System Admin Resources
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Design Pattern Resources
+* [DXT](https://dxt.so) - Explorer and Find Awesome DXT and MCP
+* [StartupDirs](https://startupdirs.com) - Leading startup directory platform
 
 ***
 
