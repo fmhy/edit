@@ -792,6 +792,7 @@
 * [IntelligentCV](https://www.intelligentcv.app/) - Resume Builder Mobile App
 * [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
 * [CoFolios](https://cofolios.com/) - Portfolio Samples
+* [Fantastic Portfolios](https://fantasticportfolios.com/) - An AI-powered portfolio website builder within 30 seconds.
 
 ***
 
