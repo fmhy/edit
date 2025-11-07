@@ -130,10 +130,10 @@
 ## ▷ File Encryption
 
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
-* [age](https://github.com/FiloSottile/age) - File Encrypter
-* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
-* [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor
+* [age](https://github.com/FiloSottile/age) - File Encryptor
+* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
+* [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
 
 ***
 
