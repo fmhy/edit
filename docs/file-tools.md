@@ -214,6 +214,7 @@
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
+* [pdfarranger](https://github.com/pdfarranger/pdfarranger) -  merge, split, rotate, crop, and rearrange PDFs
 
 ***
 
