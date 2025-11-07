@@ -40,7 +40,7 @@
 
 * ⭐ **[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows)**, **[Windhawk](https://windhawk.net/)**, [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)**
 * ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Unlock](https://rentry.co/FMHYB64#startxback) / [Install Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#startallback)
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbars
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweaked Start Menu / [Start Skin](https://github.com/bonzibudd/Fluent-Metro)
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
@@ -55,6 +55,7 @@
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
+* [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbar
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10
 * [⁠AppGroup](https://github.com/iandiv/AppGroup) - Create Taskbar App Groups / Folders
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
