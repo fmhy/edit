@@ -206,7 +206,7 @@
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
-* [Puyonexus](ttps://puyonexus.com/chainsim/) or [puyo.gg sim](https://www.puyo.gg/simulator/) - Puyo Puyo Chain Simulators
+* [Puyonexus](https://puyonexus.com/chainsim/) or [puyo.gg sim](https://www.puyo.gg/simulator/) - Puyo Puyo Chain Simulators
 
 ***
 

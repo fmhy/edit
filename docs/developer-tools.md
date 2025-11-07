@@ -33,7 +33,7 @@
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
-* [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
+* [hackertab.dev](https://hackertab.dev/) - Dev Browser Startpages
 
 ***
 

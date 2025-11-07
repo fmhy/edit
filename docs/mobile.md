@@ -363,7 +363,6 @@
 * [Photo Editor](https://www.iudesk.com/) - Image Editor
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
-* [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
 * [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
