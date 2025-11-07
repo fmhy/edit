@@ -71,7 +71,7 @@ Instructions on various ways to edit the wiki and preview changes.
 
 ### GitHub Editor
 
-You can use the build-in web editor in two ways:
+You can use the built-in web editor in two ways:
 
 1. Find the file you want to edit, look for the edit icon (of a pencil) and click on it, then make your changes.
 
