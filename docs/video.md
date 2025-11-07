@@ -749,7 +749,7 @@
 
 ## ▷ Stremio Tools
 
-* 🌐 **[Stremio Addons](https://stremio-addons.net/)** / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
+* 🌐 **[Stremio Addons](https://stremio-addons.net/)** / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) / [Status](https://status.dinsden.top/status/stremio-addons) - Stremio Addons
 * ⭐ **[Bye Sudo](https://bye.undi.rest/)** - Simple Stremio Guide
 * ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** - Advanced Stremio Guide
 * [Stremio Addon Manager](https://addon-manager.viren070.me/) - Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)

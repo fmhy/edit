@@ -1854,7 +1854,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.me/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
+* ⭐ **[rophim](https://www.rophim.li/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
