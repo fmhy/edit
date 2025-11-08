@@ -446,7 +446,7 @@
 * [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
 * [VectorPortal](https://www.vectorportal.com/) - Vector Collections / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
-* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/) or [Mockups](https://mockups.pixeltrue.com/) - Product Mockups
 
 ***
 
