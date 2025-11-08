@@ -481,6 +481,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
+* [⁠Comix](https://comix.to/)
 * [MangaHaven](https://mangahaven.net/)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)

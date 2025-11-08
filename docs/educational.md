@@ -9,7 +9,7 @@
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
-* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
+* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**, *[2](https://1337x.cc/top-100-documentaries) / Torrent
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
