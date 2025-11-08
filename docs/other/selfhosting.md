@@ -131,3 +131,7 @@ There are a few variables you can change if you wish to disable them:
     # PowerShell
     rm -r -fo docs/.vitepress/cache
     ```
+
+### Reverse Proxy
+
+You should be able to use any reverse proxy with this vitepress website, but find a reasonable config for an nginx server [in the repo here](https://github.com/fmhy/edit/blob/main/.github/assets/nginx.conf)
