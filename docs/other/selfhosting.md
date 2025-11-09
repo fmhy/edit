@@ -112,12 +112,70 @@ pnpm api:preview
 
 See the [VitePress deployment guide](https://vitepress.dev/guide/deploy) for more info.
 
+### API Deployment
+
+If you want to deploy the API component (feedback system), you'll need to set up Cloudflare Workers and KV storage.
+
+#### Prerequisites
+
+- A [Cloudflare account](https://dash.cloudflare.com/sign-up)
+- [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/install-and-update/) installed globally
+
+#### Step 1: Configure Wrangler
+
+Update `wrangler.toml` with your Cloudflare account information:
+
+1. Get your account ID from the Cloudflare dashboard (found in the right sidebar)
+2. Replace the `account_id` value in `wrangler.toml` with your account ID
+3. If you're using a custom domain, keep `workers_dev = false` and update the `routes` section
+4. If you're deploying to `*.workers.dev`, set `workers_dev = true` and remove the `routes` section
+
+#### Step 2: Create KV Namespace
+
+Create a KV namespace for data storage:
+
+```bash
+npx wrangler kv:namespace create STORAGE
+```
+
+This command will return a namespace ID. Copy this ID and replace the `id` value in the `[[kv_namespaces]]` section of `wrangler.toml` (line 14).
+
+**Note:** If you want to deploy without running Wrangler locally (e.g., in CI/CD), you'll need to:
+1. Create the KV namespace manually in the Cloudflare dashboard
+2. Update both the `account_id` and `id` values in `wrangler.toml` in your fork
+
+#### Step 3: Build and Deploy
+
+Build and deploy the API:
+
+```bash
+# Build the API
+pnpm api:build
+
+# Deploy to Cloudflare Workers
+pnpm api:deploy
+```
+
+The API will be deployed to your configured domain or `*.workers.dev` subdomain.
+
+#### Rate Limiting (Optional)
+
+The rate limiter binding requires setup through the Cloudflare dashboard. You can skip this for basic deployments or configure it later through the Workers dashboard under the "Rate limiting" section.
+
 #### Environment Variables
 
-There are a few variables you can change if you wish to disable them:
+##### Build-time Variables (for Documentation)
 
-- `FMHY_BUILD_NSFW` - NSFW sidebar entry (experimental)
-- `FMHY_BUILD_API` - API component for feedback system.
+These variables control what gets included when building the documentation site:
+
+- `FMHY_BUILD_NSFW` - Enable NSFW sidebar entry (experimental)
+- `FMHY_BUILD_API` - Enable API component for feedback system
+
+##### Runtime Variables (for API Worker)
+
+These variables are used by the deployed Cloudflare Worker API:
+
+- `WEBHOOK_URL` - Discord webhook URL for posting feedback messages (required for API feedback functionality)
 
 #### Troubleshooting
 
@@ -131,3 +189,7 @@ There are a few variables you can change if you wish to disable them:
     # PowerShell
     rm -r -fo docs/.vitepress/cache
     ```
+
+### Reverse Proxy
+
+You should be able to use any reverse proxy with this vitepress website, but find a reasonable config for an nginx server [in the repo here](https://github.com/fmhy/edit/blob/main/.github/assets/nginx.conf)
