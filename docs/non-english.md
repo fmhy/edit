@@ -1910,7 +1910,7 @@
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
-* [⁠Albkanale](https://albkanale.com/) -  Albanian Live TV Android pp
+* [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
 * [euskal](https://www.euskal-encodings.eus/) - Basque / Download / Movies / TV

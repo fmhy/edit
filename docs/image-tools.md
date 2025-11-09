@@ -483,7 +483,7 @@
 
 ## ▷ Media Covers / Posters
 
-* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music / Comic / Book / Anime / Manga / Games
+* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music / Comic / Book / Anime / Manga
 * [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
 * [The Poster DB](https://theposterdb.com/) / [Subreddit](https://www.reddit.com/r/ThePosterDB) / [Discord](https://discord.com/invite/NARZqQX), [DVD Covers](https://www.dvd-covers.org/) or [MediUX](https://mediux.pro/) - Movies / TV
 * [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film On Paper](https://www.filmonpaper.com/posters/), [The Poster Collector](https://postercollector.co.uk/) or [IMP Awards](http://www.impawards.com/) - Movies
