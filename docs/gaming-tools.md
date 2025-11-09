@@ -103,6 +103,7 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Gamepad-Tester](https://hardwaretester.com/gamepad) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [DualSense Tester](https://ds.daidr.me/) - Web ⁠DualSense Tester / [GitHub](https://github.com/daidr/dualsense-tester)
+* [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Chromium Required / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
@@ -687,6 +688,7 @@
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * ⭐ **[Minecraft Java Flags](https://unascribed.com/garden/jvm-args/)** - Java Edition Performance Tweaks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
+* [⁠Minecraft TAS](https://minecrafttas.com/) - Minecraft TAS Community / Tools / Tutorials / [Discord](https://discord.gg/jGhNxpd)
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator / [GitHub](https://github.com/PrismarineJS/mineflayer)
 * [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
@@ -961,6 +963,7 @@
 ## ▷ Tabletop Tools
 
 * 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
+* ↪️ **[D&D Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
 * ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/), [Let's Roll](https://www.linepup.com/dice/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
 * [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 * [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
@@ -977,8 +980,9 @@
 
 ## ▷ RPG Worldbuilding
 
+* ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
 * ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [RPTools](https://www.rptools.net/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
-* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Storywriting Tools
+* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Story Writing Tools
 * ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
 * [watabou](https://watabou.itch.io/) - Generators for Fantasy Worlds, Dungeons, and More
 * [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories

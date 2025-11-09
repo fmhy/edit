@@ -708,7 +708,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://vegamovies.menu/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[MkvCinemas](https://mkvcinemas.kids/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
@@ -734,7 +734,7 @@
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [ProtonMovies](https://m2.protonmovies.top/) - Movies / TV
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
-* [OlaMovies](https://olamovies.top/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Fojik](https://fojik.site/) - Movies
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -1910,7 +1910,7 @@
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
-* [⁠Albkanale](https://albkanale.com/) -  Albanian Live TV AAndroid pp
+* [⁠Albkanale](https://albkanale.com/) -  Albanian Live TV Android pp
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
 * [euskal](https://www.euskal-encodings.eus/) - Basque / Download / Movies / TV

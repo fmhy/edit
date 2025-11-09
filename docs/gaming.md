@@ -249,7 +249,7 @@
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/)** - Search for "Emulator Files"
-* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [DAT Files](https://rentry.co/FMHYB64#ra-dat)
+* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [Compatible Games](https://retroachievements.vercel.app/) / [DAT Files](https://rentry.co/FMHYB64#ra-dat)
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * [Switch Emulation](https://rentry.co/FMHYB64#switch-emulation) - Switch Emulator Setup Guides
@@ -301,7 +301,7 @@
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs / [Discord](https://discord.gg/VgZ66bM87u)
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
+* ⭐ **[CDRomance](https://cdromance.org/)** / [Forum](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
 * [Zophar's Domain](https://www.zophar.net/) - ROM Mods

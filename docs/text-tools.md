@@ -377,7 +377,7 @@
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
-* [Gateway Forge](https://gatewayforge.com/) - Interactive Worldbuilding / Story Writing Tool / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn)
+* [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)

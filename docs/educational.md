@@ -69,7 +69,7 @@
 * 🌐 **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - Course Site Index
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Sign-Up Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
-* ⭐ **[tut4dl](https://tut4it.com/)** - Courses
+* ⭐ **[tut4dl](https://tut4it.com/)** - Courses / [Request Guide](https://t.me/c/1603660516/91)
 * ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
@@ -691,6 +691,7 @@
 * [⁠NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [⁠Spaceflight Archive](https://spaceflight-archive.com/) - Rocket Launch History / Visualizations / Stats
+* [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
 * [NSSDCA](https://nssdc.gsfc.nasa.gov/) - NASA Space Science Mission Data
 * [Sen](https://www.sen.com/) - ISS Live Feed + Video Archive / [YouTube](https://www.youtube.com/@Sen) / [X](https://x.com/sen)
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database

@@ -14,12 +14,12 @@
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 2.5 Pro / Unlimited / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
+* ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 Reasoning Chatbot / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast + Grok 3 (96 daily) / Grok 4 (24 daily)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.6 Chatbot / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2-Exp / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast + Grok 3 (96 daily) / Grok 4 (24 daily)
 / [Rate Display](https://greasyfork.org/en/scripts/533963) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 Reasoning Chatbot / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Claude](https://claude.ai/) - Claude 4.5 Sonnet / Sign-Up with Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [ChatGPT](https://chatgpt.com/) - GPT-5 / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#chatgpt-limits) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Gemini](https://gemini.google.com/) - Gemini 2.5 Pro (5 per day) / 2.5 Flash (Unlimited) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
@@ -55,6 +55,7 @@
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 * [HiveChat](https://ai.wr.do/chat) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [⁠Heck.AI](https://heck.ai/) - Deepseek / GPT-5 Mini / No Sign-Up
 
 ***
 

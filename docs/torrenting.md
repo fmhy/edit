@@ -144,6 +144,7 @@
 * [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
 * [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Tracker Lists
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
+* [⁠cross-seed](https://www.cross-seed.org/) - Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 

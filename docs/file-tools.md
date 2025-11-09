@@ -263,6 +263,7 @@
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Wormhole](https://wormhole.app/) - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [⁠Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices) - Desktop / Mobile File Transfer 
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
