@@ -278,10 +278,10 @@
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
-* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
-* [Planet Minecraft](https://www.planetminecraft.com/)
-* [MC Archive](https://mcarchive.net/) - Old Mods
-* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
+* [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
+* [MC Archive](https://mcarchive.net/) - Old Mods / [Discord](https://discord.com/invite/WuexGpP)
+* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index / [Discord](https://discord.com/invite/dwh9y7D)
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 

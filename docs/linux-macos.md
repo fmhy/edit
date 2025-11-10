@@ -196,7 +196,7 @@
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.com/invite/EjfBuYahsP) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-* [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Discord](https://discord.com/invite/Z87Nh7c4Ac)
+* [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase)
 * [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming App
 * [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
@@ -637,7 +637,7 @@
 ## ▷ Mac Video
 
 * [IINA](https://iina.io/) - Video Player
-* [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Discord](https://discord.com/invite/Z87Nh7c4Ac)
+* [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase)
 * [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.com/invite/EjfBuYahsP) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming
 * [Yattee](https://github.com/yattee/yattee) - YouTube Player

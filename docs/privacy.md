@@ -96,7 +96,7 @@
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
 * ⭐ **[Triage](https://tria.ge/)** or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
-* ⭐ **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** - Detects if Current Site is Trusted / Untrusted
+* ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - Detects if Current Site is Trusted / Untrusted / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
 * [FMHY LinkSafe Guard](https://greasyfork.org/en/scripts/528660-fmhy-safelink-guard) - Shows if Site is Trusted / Untrusted on Web Results
 * [BleepingComputer](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#malware-removal-forums)
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://claraiscute.neocities.org/Guides/sandboxie-guide/), [2](https://claraiscute.pages.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
@@ -188,7 +188,7 @@
 
 ## ▷ Network Security
 
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/safing)
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall

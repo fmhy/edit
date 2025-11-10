@@ -39,6 +39,7 @@
 * [SteamOra](https://steamora.net/) - Download / Pre-Installs / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
+* [desolation](https://rentry.co/FMHYB64#desolation) - Download / [Discord](https://discord.gg/Q85SNt2sSz)
 * [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installs / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [Games4U](https://games4u.org/) - Download / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Sources on DDL Pages
 * [CG Games](https://www.cg-gamespc.com/) - Download
@@ -352,7 +353,6 @@
 * ⭐ **[hShop](https://hshop.erista.me/)** / [Discord](https://discord.gg/dYKm279) or [3DS ROMS](https://3dsroms.org) - ROMs / 3DS
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
-* [ROM Heaven](https://romheaven.com/switch) - ROMs / Switch
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD

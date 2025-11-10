@@ -422,7 +422,7 @@
 ## ▷ Historic Maps
 
 * 🌐 **[Map History](https://www.maphistory.info/)** or [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical Map Indexes
-* ⭐ **[Running Reality](https://www.runningreality.org/)**, [World History Maps](https://www.worldhistory.org/mapselect/), [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
+* ⭐ **[Running Reality](https://www.runningreality.org/)**, [World History Maps](https://www.worldhistory.org/mapselect/), [⁠Globe of History](https://www.globeofhistory.com/) (desktop), [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
 * [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
 * [Cronobook](https://cronobook.com/) - Historic Street View
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
@@ -1133,7 +1133,7 @@
 * 🌐 **[Mr Free Tools](https://mrfreetools.com/)** - Find Free Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
-* [ZeroKit](https://zerokit-dun.vercel.app/) - Text / Image / Social Media / Code / [Discord](https://discord.gg/XDqV2ucEpP)
+* [ZeroKit](https://zerokit-dun.vercel.app/) - Text / Image / Social Media / Code
 * [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors

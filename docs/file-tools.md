@@ -309,6 +309,7 @@
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [Transfer.it](https://transfer.it/) / Unlimited / 90 Days / Owned by Mega.nz
+* [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / [Discord](https://discord.com/invite/rtz)
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Sign-Up Required
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download

@@ -66,17 +66,17 @@
 
 ***
 
-* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-* ⭐ **[DeepL](https://www.deepl.com/translator)** - AI-Based Translation
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**
+* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) or [SimplyTranslate](ttps://st.privacydev.net/) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
+* ⭐ **[DeepL](https://www.deepl.com/translator)** - Online AI-Based Translation
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)** - Online
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
-* [Bing Translator](https://www.bing.com/translator)
-* [Yandex Translator](https://translate.yandex.com/)
+* [Bing Translator](https://www.bing.com/translator) - Online
+* [Yandex Translator](https://translate.yandex.com/) - Online
+* [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
-* [Reverso](https://context.reverso.net/translation/) - Translations In Context
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
 * [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
@@ -456,8 +456,10 @@
 * [Bunny Fonts](https://fonts.bunny.net/) - Open Source
 * [Google Fonts](https://fonts.google.com/) - Commercial Use / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
+* [OnlineWebFonts](https://www.onlinewebfonts.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
 * [Fontsly](https://fontsly.com/) - Freeware
+* [FOSSFonts](https://fossfonts.com/) - Freeware
 * [Fonts4Free](https://www.fonts4free.net/) - Freeware
 * [FontSpace](https://www.fontspace.com/) - Freeware
 * [Online Fonts](https://online-fonts.com/) - Freeware

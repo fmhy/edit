@@ -18,7 +18,7 @@
 ## ▷ Network Tools
 
 * ⭐ **[fast](https://fast.com/)** / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)**, **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** - Speed Tests
-* [Pinging](https://www.pinging.net/) or [PingTracer](https://github.com/bp2008/pingtracer) - Internet Uptime / Ping Monitors
+* [Pinging](https://www.pinging.net/), [GlobalPing](https://globalping.io/) or [PingTracer](https://github.com/bp2008/pingtracer) - Network Testing / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
@@ -708,9 +708,9 @@
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)** - Firefox Addon Store
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Bookmark Manager
-* ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch/)** or [Context Search Web](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * ⭐ **[Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/)** - Select, Copy or Open Multiple Links at Once
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+* [Context Search Web](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line

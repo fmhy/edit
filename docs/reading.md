@@ -921,7 +921,7 @@
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
-* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
+* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [VNDB](https://vndb.org/) - Visual Novels
 * [r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
