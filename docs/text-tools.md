@@ -206,6 +206,8 @@
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor
+* ⭐ **[BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html)** -  Big Text Editor
+* [EmEditor](https://www.emeditor.com/)** -  Big Text Editor
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
