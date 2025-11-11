@@ -747,9 +747,11 @@
 # ► Android Reading
 
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)**
+* ⭐ **[Books Story](https://github.com/Acclorite/book-story)** - Ebook Reader
+* ⭐ **[Anx Reader](https://anx.anxcye.com/)** - Ebook Reader
+* ⭐ **[Legado](https://github.com/HapeLee/legado-with-MD3)** - Ebook Reader / [Legado](https://github.com/gedoor/legado/blob/master/English.md)
 * ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
 * ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme)
-* ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** - Ebook Reader
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
 * ⭐ **[Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)** - Audiobook Player
 * [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
