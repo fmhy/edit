@@ -51,6 +51,7 @@
 * [ristoanime](https://ristoanime.com/) - Anime
 * [witanime](https://witanime.red/) - Anime
 * [animeiat](https://ww1.animeiat.tv/) - Anime
+* [jkanimeflv](https://jkanimeflv.com/) - Anime
 * [anslayerweb](https://anslayerweb.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
@@ -68,6 +69,7 @@
 
 ## ▷ Reading / القراءة
 
+* [NovelFlow Book](https://novelflow.net/) - Books
 * [Noor Book](https://www.noor-book.com/) - Books
 * [Shamela](https://shamela.ws/) - Books / Documents
 * [FoulaBook](https://foulabook.com/) - Books
