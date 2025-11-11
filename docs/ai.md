@@ -55,7 +55,6 @@
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 * [HiveChat](https://ai.wr.do/chat) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [⁠Heck.AI](https://heck.ai/) - Deepseek / GPT-5 Mini / No Sign-Up
-* [⁠AI4Wallpaper](https://www.ai4wallpaper.com/) - Seedream 4 (Editing) / Seedream 3 (Generation)
 
 ***
 
@@ -285,7 +284,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* [Sora](https://openai.com/index/sora/) - 29 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62), [2](https://socialutils.io/sora-watermark-remover)
+* [Sora](https://openai.com/index/sora/) - 29 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora), [2](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62)
 * [Grok Imagine](https://grok.com/imagine) - Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / US IP or VPN Required / Use Alt Account
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
@@ -330,6 +329,7 @@
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up Required / [x](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required/ US Select CA
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing
+* [⁠AI4Wallpaper](https://www.ai4wallpaper.com/) - Seedream 4 (Editing) / Seedream 3 (Generation)
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [AI Gallery](https://aigallery.app/) - Unlimited / No Sign-Up / [Telegram](https://t.me/aigalleryapp)
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)
