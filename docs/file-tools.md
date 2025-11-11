@@ -124,6 +124,7 @@
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like Search Engine
 * [fd](https://github.com/sharkdp/fd) - User Friendly "find" Alternative
 * [sist2](https://github.com/simon987/sist2) - Simple Incremental Search Tool
+* [WizFile](https://antibody-software.com/wizfile/) - Fast File Finder
 
 ***
 
