@@ -92,7 +92,7 @@
 
 * 🌐 **[r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tool Index
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
-* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** / [X](https://x.com/malwarebytes) or [ESET](https://rentry.co/FMHYB64#eset) - Antivirus
+* ⭐ **[Emsisoft](https://www.emsisoft.com/en/)** or [Gridinsoft](https://gridinsoft.com/) or [Malwarebytes](https://www.malwarebytes.com/) or [ESET](https://rentry.co/FMHYB64#eset) - Antivirus
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
 * ⭐ **[Triage](https://tria.ge/)** or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
@@ -361,14 +361,24 @@
 * 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Map
 * ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) / [Alt Client](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#alt-warp-clients) / [Config Generator](https://f0rc3run.github.io/free-warp-endpoints/)
+* ⭐ **[Tor VPN](https://play.google.com/store/apps/details?id=org.torproject.vpn)** - Free / Unlimited / 3-hop routing / [GitLab](https://gitlab.torproject.org/tpo/applications/vpn)
+* ⭐ **[URnetwork](https://ur.io/)** - Free Plan / p2p multiple-hop routing / [F-droid](https://f-droid.org/en/packages/com.bringyour.network/)
+* ⭐ **[NymVPN](https://nym.com/)** - Free Plan /5-hop routing / [GitHub](https://github.com/nymtech/nym-vpn-client)
 * ⭐ **[Proton VPN](https://protonvpn.com)** - Unlimited / [Torrent Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#proton-torrenting) / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[Windscribe](https://windscribe.com)** - No Torrenting w/ Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [GitHub](https://github.com/riseupnet)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
+* [Calyx VPN](https://calyxos.org/docs/guide/apps/calyx-vpn/) - Free / Unlimited
+* [OnionFruit](https://dragonfruit.network/onionfruit) - Free / Unlimited / Tor Client / [GitHub](https://github.com/dragonfruitnetwork/onionfruit)
+* [Tor Control Panel](https://github.com/abysshint/tor-control-panel) - Free / Unlimited / Tor Client
+* [RoskomFree](https://github.com/youtubediscord/roskomfree) - Free / Unlimited / Tor Client
+* [Tor-Portable](https://github.com/Verity-Freedom/Tor-Portable) - Free / Unlimited / Tor Client
+* [Carburetor](https://tractor.frama.io/carburetor/) - Free / Unlimited / / Tor Client / Linux
+* [BelNet](https://belnet.beldex.io/) - Free / Unlimited / 3-hop routing/ [GitHub](https://github.com/Beldex-Coin/belnet-app)
+* [Lokinet](https://lokinet.org/) - Free / Unlimited / 3-hop routing / [GitHub](https://github.com/oxen-io/lokinet) or [Android](https://oxen.rocks/oxen-io/lokinet/)
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [PrivadoVPN](https://privadovpn.com/software) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
-* [Calyx VPN](https://calyxos.org/docs/guide/apps/calyx-vpn/) - Free / Unlimited
 
 ***
 
@@ -439,7 +449,8 @@
 
 ## ▷ Proxy Clients
 
-* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, Mac, Linux 
+* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, Mac, Linux
+* ⭐ **[Throne](https://github.com/throneproj/Throne)** - Proxy Client / Windows, Mac, Linux 
 * ⭐ **[NekoBoxForAndroid](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Proxy Client / Android
 * [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
