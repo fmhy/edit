@@ -768,6 +768,7 @@
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
+* [Python Playground](https://chromewebstore.google.com/detail/python-playground/jfippgilnpggpddhmfjaaecadnfhcopa) - Python Runner With Package Manager & Data Visualization / [Web Version](https://python-playground.com/)
 
 ***
 
