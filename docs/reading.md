@@ -441,7 +441,7 @@
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [GoComics](https://www.gocomics.com/) - Comics Strips / uBO Bypasses Trial Limit
+* [GoComics](https://www.gocomics.com/) - Comics Strips / [Bypass Limit](https://pastebin.com/pwUxTPAr), [2](https://bin.disroot.org/?9169f16676b9b1e5#9ZeRZR9Ms37wpCQdwom8yLnYrWZJVDd1sT98d4Yg65YL)
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Loading Artist](https://loadingartist.com/) - Webcomics

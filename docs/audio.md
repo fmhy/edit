@@ -358,7 +358,8 @@
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Tidal / Deezer
-* [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required 
+* [⁠Vi•er](https://vibefetcher.com/) - Deezer / Qobuz
+* [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)

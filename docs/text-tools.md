@@ -135,6 +135,7 @@
 * [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
+* [⁠Kagi Proofread](https://translate.kagi.com/proofread) 
 * [QuillBot](https://quillbot.com/grammar-check) / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/)
 * [EditGPT](https://www.editgpt.app/) - Sign-Up Required
