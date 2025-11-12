@@ -951,7 +951,7 @@
 * 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - Monero-Friendly Online Shop Index
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
-* ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
+* ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
