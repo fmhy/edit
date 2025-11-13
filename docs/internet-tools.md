@@ -567,7 +567,7 @@
 
 ## ▷ Custom New Tab Pages
 
-* ⭐ **[Anori](https://anori.app/)**
+* ⭐ **[Anori](https://anori.app/)** / [GitHub](https://github.com/OlegWock/anori)
 * ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue)
 * ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr)
 * [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
