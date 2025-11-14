@@ -51,7 +51,7 @@
 * [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/JeMDzxSbhH)
-* [VLOP](https://www.vlop.fun/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
+* [VLOP](https://www.vlop.fun/), [2](https://nidoe.me/) - Movies / TV / Anime / Watch Parties / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * [VoidFlix](https://voidflix.pages.dev/) or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
@@ -843,7 +843,7 @@
 * [CageMatch](https://www.cagematch.net/) - Wrestling Promotion Database
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [What's on Netflix](https://www.whats-on-netflix.com/) - Browse Netflix Library
 * [Netflix Top 10](https://www.netflix.com/tudum/top10) - Netflix Most-Watched Chart
-* [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
+* [MediaTracker](https://github.com/bonukai/MediaTracker) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Trackers
 
 ***
 

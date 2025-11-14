@@ -320,7 +320,6 @@
 * ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Mac, Linux, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
-* [r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Android Clients
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client

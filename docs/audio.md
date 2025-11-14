@@ -357,7 +357,6 @@
 * ⭐ **[squid.wtf](https://tidal.squid.wtf)**, **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
-* [⁠SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Tidal / Deezer
 * [⁠Vi•er](https://vibefetcher.com/) - Deezer / Qobuz
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
@@ -380,6 +379,7 @@
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
+* [⁠SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Tidal / Deezer
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / 128kb AAC
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free 256 ACC Premiuim / Nice Metadata / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
@@ -828,6 +828,7 @@
 * [Lyricify](https://github.com/WXRIW/Lyricify-App) - Lyrics Desktop App
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
+* [⁠LRC Maker](https://lrc-maker.github.io/) - Web-Based Lyrics Editor / [GitHub](https://github.com/magic-akari/lrc-maker)
 * [LRCGET](https://github.com/tranxuanthang/lrcget) - Download Synced Lyrics
 * [LRCLIB](https://lrclib.net/) - Synced Lyrics Search
 
