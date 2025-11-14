@@ -7,7 +7,7 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Fight Chat Control 🔒
+    title: Fight Chat Control 2.0 🔒
     link: /posts/FCC
   image:
     src: /test.png
