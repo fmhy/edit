@@ -35,7 +35,7 @@
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - Browser Music / Lossless / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
-* ⭐ **[TrackerHub](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/sheet)
+* ⭐ **[TrackerHub](https://discord.com/invite/sheet)**, [2](https://artistgrid.cx/) - Unreleased
 * [Spotify](https://open.spotify.com/) - Web Player /  [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 *  [squid.wtf](https://tidal.squid.wtf), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
