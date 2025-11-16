@@ -1423,7 +1423,7 @@
 * [filmix](https://filmix.biz/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub
-* [turkatv](https://turkatv.com/) - Russian Turkish TV Streaming
+* [turkatv](https://turkatv.online/) - Russian Turkish TV Streaming
 * [staroetv](https://staroetv.su/) - Retro Russian Streaming
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [gidanime](https://gidanime.tv/) - Anime / Dub / 1080p / [Telegram](https://t.me/GidAnime)
