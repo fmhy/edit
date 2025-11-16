@@ -557,6 +557,7 @@
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
 * [Pokemon Chess](https://pokemonchess.com/) - Pokémon-Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [ChessBase](https://www.chessbase.in/) / [English](https://en.chessbase.com/) - Indian Chess News
+* [Chess Analysis](https://chess-analysis.org/) - Chess Analysis Online Free
 
 ***
 
