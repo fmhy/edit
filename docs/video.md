@@ -435,7 +435,7 @@
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.tw/), [3](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.xyz/)**, [2](https://timstreams.cfd/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
-* ⭐ **[WeAreChecking](https://wearechecking.online/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
+* ⭐ **[WeAreChecking](https://wac.rip/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
 * [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [SportsBite](https://sportsbite.live/), [2](https://sportsbite.pro/) / [Status](https://allbite.xyz/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
