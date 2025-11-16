@@ -1789,6 +1789,7 @@
 * [Dizi Film Botu](https://t.me/Difix9Bot) - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
+* [Dizilla](https://dizilla.club) - Movies / TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Jet Film izle](https://jetfilmizle.de/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
