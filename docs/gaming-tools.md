@@ -474,7 +474,7 @@
 * ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)** or **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) - Homebrew Guides
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
+* [LAN Play Status](http://www.lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://github.com/FlagBrew) - Switch Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [Switch Army Knife](https://www.gamebrew.org/wiki/Switch_Army_Knife) - Switch File Converter

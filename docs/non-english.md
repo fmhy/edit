@@ -236,7 +236,7 @@
 * [dygang](https://www.dygang.cc/) - Video
 * [seedhub](https://www.seedhub.cc/) - Video
 * [btbtla](https://www.btbtla.com/) - Video
-* [ACG.rip](*https://acg.rip/) - Anime / Audio
+* [ACG.rip](https://acg.rip/) - Anime / Audio
 * [MioBT](https://www.miobt.com/) - Anime
 * [VCB-S](https://vcb-s.com/) - Anime
 * [ACGNX](https://share.acgnx.se/) - Anime
@@ -1450,7 +1450,7 @@
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.tv/) - Turkish TV w/ Russian Subs
 * [TVRF](https://tvrf.online/) - Live TV
-* [Viks](http://ip.viks.tv/) - Live TV
+* [Viks](http://live.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [smotret](https://smotret.tv/) - Live TV
