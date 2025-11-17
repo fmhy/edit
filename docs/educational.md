@@ -321,7 +321,7 @@
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
-* ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
+* ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [LizardPoint](https://lizardpoint.com/), [Ekvis](https://ekvis.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/), [Seterra](https://www.seterra.com/#quizzes) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
@@ -934,7 +934,7 @@
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
 * [Cubing Time Standard](https://cubingtimestandard.com/) - Track Your Performance Across WCA Events
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
-* [F2L Trainer](http://expertcuber.by/f2ltrainer.php) - Algorithm-Specific Trainers
+* [F2L Trainer](https://expertcuber.by/f2l.php) - Algorithm-Specific Trainers
 * [Hypercubing](https://hypercubing.xyz/) - Hypercubing Wiki
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer

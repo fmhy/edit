@@ -36,7 +36,7 @@
 * ⭐ **[FaselHD](https://www.faselhds.xyz/)**, [2](https://web33.faselhd1watch.one/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [⁠ma3ak](https://ma3ak.top/) - Movies / TV
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
-* [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
+* [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [ArabSeed](https://a.asd.homes/main/) - Movies / TV / Anime
 * [egybest](https://egybest.la/) - Movies / TV / Anime
@@ -53,7 +53,7 @@
 * [animeiat](https://ww1.animeiat.tv/) - Anime
 * [anslayerweb](https://anslayerweb.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
-* [Animerco](https://animerco.org/) - Anime / Sub / 1080p
+* [Animerco](https://gat.animerco.org/) - Anime / Sub / 1080p
 * [maycima](https://maycima.com/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [anime3rb](https://anime3rb.com/) - Anime / Sub
@@ -730,7 +730,7 @@
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
-* [Bollyflix](https://bollyflix.army/) - Movies / TV / Anime
+* [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
@@ -958,7 +958,7 @@
 
 * 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)**, [2](https://claraiscute.pages.dev/Guides/rawmangaz/) - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
-* [DLRaw](https://dlraw.to/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
+* [DLRaw](https://dlraw.ac/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
 * [Raw-Zip](https://raw-zip.com/) - Manga
 * [MangaZone](https://www.manga-zone.org/) - Manga
 * [RawCans](https://raw-cans.net/) - Manga
@@ -1420,7 +1420,7 @@
 * [DostFilms](https://dostfilms.site/) - Movies / TV / Anime / Dub / 1080p
 * [reyohoho](https://reyohoho.github.io/reyohoho/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kinogoo](https://hd.kinogoo.cc/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [filmix](https://filmix.biz/) - Movies / TV / Anime / 720p
+* [filmix](https://filmix.my/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub
 * [turkatv](https://turkatv.online/) - Russian Turkish TV Streaming
@@ -1695,7 +1695,7 @@
 * [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub
 * [ytanime](https://ytanime.tv/) - Anime / Sub
 * [AnimeID](https://www.animeid.tv/) - Anime / Sub
-* [animeyt](https://animeyt.es/) - Anime / Sub
+* [animeyt](https://animeytx.net/) - Anime / Sub
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino

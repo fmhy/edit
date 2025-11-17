@@ -323,7 +323,7 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps) or [Mapy](https://en.mapy.cz/) - Online / Offline Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
@@ -1226,7 +1226,7 @@
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
-* [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.org/) - Specialty Forums
+* [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
 * [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gmaing Forums
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
@@ -1392,7 +1392,7 @@
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
-* [Odyssey](https://experience.odyssey.world/) - Interactive 3D AI Generated Video
+* [Odyssey](https://experience.odyssey.ml/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art

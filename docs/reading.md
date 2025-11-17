@@ -81,7 +81,7 @@
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
-* [ePDF](https://epdf.tips/), [2](https://epdf.pub/) - Books
+* [ePDF](https://epdf.pub/), [2](https://epdf.pub/) - Books
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
@@ -398,11 +398,11 @@
 * ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.net/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
-* [BigAudiobooks](https://bigaudiobooks.club/)
+* [BigAudiobooks](https://bigaudiobooks.net/)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
-* [CD Audiobook](https://cdaudiobook.com/)
+* [Audiozaic](https://audiozaic.com/)
 * [zAudiobooks](https://zaudiobooks.com/)
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
