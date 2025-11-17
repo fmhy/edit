@@ -30,7 +30,7 @@
 * [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [GitHub](https://github.com/redphx/better-xcloud)
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournement Creators / Managers
-* [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Premium Bypass](https://medalbypass.vercel.app/) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [Moments](https://steelseries.com/gg/moments) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews

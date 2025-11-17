@@ -283,7 +283,7 @@
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * [Sora](https://openai.com/index/sora/) - 29 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora), [2](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62)
 * [Grok Imagine](https://grok.com/imagine) - 100 Daily / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / US IP or VPN Required / Use Alt Account
+* [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / Use Alt Account
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Wan AI](https://wan.video/) or [⁠Wan 2.1 Fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) / 10 Daily / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)

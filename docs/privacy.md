@@ -92,7 +92,7 @@
 
 * 🌐 **[r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tool Index
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
-* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** - Antivirus / [X](https://x.com/malwarebytes) 
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** or [ESET](https://rentry.co/FMHYB64#eset) - Antivirus / [X](https://x.com/malwarebytes) 
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
 * ⭐ **[Triage](https://tria.ge/)** or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities

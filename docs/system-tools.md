@@ -156,8 +156,10 @@
 
 ## ▷ Window Managers
 
-* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager Inspired by i3wm
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** or **[WorkSpacer](https://workspacer.org/)** / [GitHub](https://github.com/workspacer/workspacer) - Tiling Window Managers
+* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager
+* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**  - Tiling Window Manager
+* ⭐ **[WorkSpacer](https://workspacer.org/)** / [GitHub](https://github.com/workspacer/workspacer) - Tiling Window Manager
+* [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) - Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)
 * [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
 * [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
 
@@ -394,7 +396,7 @@
 # ► Customization
 
 * 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
+* ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrgb-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [macOS Style](https://redd.it/pd5ha6) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)

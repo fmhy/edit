@@ -56,11 +56,11 @@
 * [VoidFlix](https://voidflix.pages.dev/) or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
 * [Mapple.tv](https://mapple.mov/) - Movies / TV / Anime / Watch Parties / [Discord](https://discord.gg/V8XUhQb2MZ)
-* [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Netplay](https://netplayz.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [TMovie](https://tmovie.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
+* [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Cinepeace](https://cinepeace.in/) - Movies / TV / Anime / [Discord](https://discord.gg/htmB2TbK)
 * [Flixvo](https://flixvo.live/), [2](https://flixvo.fun/) - Movies / TV / Anime
