@@ -777,6 +777,7 @@
 * [Job Shell](https://github.com/angelplusultra/job-shell) - Scrape Job Postings
 * [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Job Application Autofill Tools
 * [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - Scrape LinkedIn
+* [Gloroots](https://www.gloroots.com/) - From hire to payroll—Gloroots powers your global team.
 
 ***
 
