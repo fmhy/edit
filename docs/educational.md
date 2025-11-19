@@ -547,6 +547,7 @@
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Rediscovered Animal / Plant Database
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
+* [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Metazooa](https://metazooa.com/) - Species Connection Game
 * [⁠Phenome10K](https://www.phenome10k.org/) - Biological / Palaeontological 3D Scans

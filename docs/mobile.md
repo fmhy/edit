@@ -516,7 +516,7 @@
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based Browser w/ Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
 * ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh)
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser / Privacy-Focused
-* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Customizable Browsers Based on Firefox
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) / [GitLab](https://gitlab.com/relan/fennecbuild) - Browsers Based on Firefox
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
 * [Eruda](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 * [Hermit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
@@ -561,7 +561,7 @@
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
 * [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
 * [Quillpad](https://quillpad.github.io/) / [GitHub](https://github.com/quillpad/quillpad) - Note-Taking App with Markdown Support
-* [Safe Notes](https://github.com/keshav-space/safenotes) - AES-256 Encrypted Note-Taking App
+* [Safe Notes](https://safenote.co/) / [GitHub](https://github.com/keshav-space/safenotes) - AES-256 Encrypted Note-Taking App
 * [Notebook](https://www.zoho.com/notebook/mobile-app.html) or [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking Apps with Drawing
 * [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
 * [Moe Memos](https://memos.moe/) - Self-Hosted Note-Taking App
@@ -620,8 +620,8 @@
 ## ▷ Productivity Trackers
 
 * ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
+* ⭐ **[Loop Habit Tracker](https://github.com/iSoron/uhabits)** - Habit Tracker
 * ⭐ **[Table Habit](https://github.com/FriesI23/mhabit)** - Habit Tracker
-* [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Habit Tracker
 * [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
 * [Folksable](https://folksable.com/) - Social Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
@@ -1330,6 +1330,7 @@
 * [Suwatte](https://www.suwatte.app/) - Comic Reader / [Discord](https://discord.gg/8wmkXsT6h5) / [GitHub](https://github.com/suwatte)
 * [Prologue](https://prologue.audio/) - Audiobooks for Plex
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
+* [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / [GitHub](https://github.com/anxcye/anx-reader)
 * [eBoox](https://eboox.app/) - Ebook Reader
 * [Readwise](https://apps.apple.com/app/readwise/id1476885528) - Ebook Reader
 * [Cantook](https://apps.apple.com/app/cantook-by-aldiko/id1476410111) - Ebook Reader

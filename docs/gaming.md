@@ -23,7 +23,7 @@
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Sign-Up Required
-* [Virgil Game Search](https://virgil.samidy.com/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* [Virgil Game Search](https://virgil.samidy.com/Games/), [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
@@ -515,6 +515,7 @@
 * [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
 * [Word Golf](https://www.word.golf/) - Word Relation Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
@@ -804,7 +805,8 @@
 
 ## ▷ Simulation
 
-* [HatTrick](https://www.hattrick.org/) - Multiplayer Football Manager
+* [HatTrick](https://www.hattrick.org/) - Multiplayer Football League Manager
+* [⁠MatchSimulator](https://matchsimulator.com/) - Football League Simulator
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator
 * [Hacker Wars](https://hackerwars.io/) - Hacking Simulators
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
@@ -925,7 +927,7 @@
 
 ## ▷ Tetris
 
-* ⭐ **[TETR.IO](https://tetr.io/)** - Multiplayer Browser Tetris / [Discord](https://discord.com/invite/tetrio) / [GitHub](https://github.com/tetrio/) / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tsbeta.dan63.by/)
+* ⭐ **[TETR.IO](https://tetr.io/)** - Multiplayer Browser Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tsbeta.dan63.by/) / [Discord](https://discord.com/invite/tetrio) / [GitHub](https://github.com/tetrio/)
 * [Jstris](https://jstris.jezevec10.com/) - Multiplayer Browser Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
 * [Tetra eSports](https://tetraesports.com/) - Competitive Multiplayer Tetris / [Discord](https://discord.gg/6EFdcGuWKn)
 * [Apotris](https://akouzoukos.com/apotris/play/) - Customizable Browser Tetris w/ Responsive Controls / [Multi-Platform](https://akouzoukos.com/apotris) / [Source](https://gitea.com/akouzoukos/apotris)

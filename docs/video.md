@@ -458,6 +458,7 @@
 * [FawaNews](http://www.fawanews.sc/)
 * [⁠Bundesliga](https://bundesliga.league.do/)
 * [⁠CrackStreams.ms](https://crackstreams.ms/)
+* [⁠Trendgola](https://trendgola.org/) - Football
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
@@ -855,6 +856,7 @@
 * [Kitsu](https://kitsu.io/) - Anime
 * [Anisearch](https://www.anisearch.com/) - Anime
 * [AniDB](https://anidb.net/) - Anime
+* [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
 
 ***
 
