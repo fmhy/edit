@@ -429,6 +429,7 @@
 * [Hume](https://www.hume.ai/) / No Sign-Up
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
 * [AIVocal](https://aivocal.io/) / Google Account Required
+* [LetsVocal](https://letsvocal.com) / Sign-Up Required
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning) / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing)
 
 ***
