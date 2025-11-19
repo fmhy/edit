@@ -41,7 +41,7 @@
 
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - Chatbot Resources / Mirrors
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [T3.chat] (https://t3.chat/) - GPT-5.1 / Claude 4.5 Sonnet / Gemini 3.0 pro / Multiple Chatbots / No Sign-Up
+* [T3.chat](https://t3.chat/) - GPT-5.1 / Claude 4.5 Sonnet / Gemini 3.0 pro / Multiple Chatbots / No Sign-Up
 * [Yupp.ai](https://yupp.ai/) - Multiple Chatbots / Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [HuggingChat](https://huggingface.co/chat/) - Multiple Chatbots
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
