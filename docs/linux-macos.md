@@ -279,6 +279,7 @@
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Play Windows Games on Linux 
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
+* [Proton Sarek](https://github.com/pythonlover02/Proton-Sarek) - Older PCs compatibility tool for Steam Play
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
