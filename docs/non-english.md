@@ -392,7 +392,8 @@
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
 * [Mrkaj](https://mrkaj.si/) - Movies / TV / Anime / 1080p / Region Locked
 * [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
-* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked 
+* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked
+* [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p

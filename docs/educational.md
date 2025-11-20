@@ -48,6 +48,7 @@
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
 * [Saylor Academy](https://learn.saylor.org/) - Courses
+* [⁠Educational Hub](https://educationalhub.in/) - Courses
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses
 * [DigitalGarage](https://grow.google/intl/uk/courses-and-tools/) - Google Courses
@@ -70,7 +71,7 @@
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Sign-Up Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses / [Request Guide](https://t.me/c/1603660516/91)
-* ⭐ **[Course Busters](https://t.me/coursebusters)** - Course Busters Access
+* ⭐ **[Course Busters](http://cbusters.com/)** - Course Busters Access
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [OneHack](https://onehack.us/) - Courses / [Telegram](https://t.me/Official_OneHack)
@@ -956,6 +957,7 @@
 * [Chess Tempo](https://chesstempo.com/) - Chess Practice
 * [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
+* [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Pawn Appétit](https://pawnappetit.com/) - Chess Game / Move Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
 * [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
@@ -975,7 +977,7 @@
 
 * ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
 * ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
-* ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
+* ⭐ **[5etools](https://5e.tools/)**, [⁠DM Screen](https://www.linepup.com/dm-screen/) or [The Acaeum](https://www.acaeum.com/) - Rules & Content References
 * ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
