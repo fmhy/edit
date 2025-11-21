@@ -22,6 +22,7 @@
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
+* [Hooked AI](https://hookedai.ai/) - HookedAI - AI-Powered LinkedIn Marketing
 
 ***
 
