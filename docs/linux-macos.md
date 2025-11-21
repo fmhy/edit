@@ -280,14 +280,12 @@
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Play Windows Games on Linux 
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
-* [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod + DLC Unlocker
 * [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options
 * [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - Steam Frontend
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
-* [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
 * [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
