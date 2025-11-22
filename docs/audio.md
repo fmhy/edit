@@ -360,6 +360,7 @@
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠Vi•er](https://vibefetcher.com/) - Deezer / Qobuz
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
+* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC 256kb / ALAC
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
