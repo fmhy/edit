@@ -32,8 +32,6 @@
 * [⁠RapidRAW](https://github.com/CyberTimon/RapidRAW) / Windows, Mac, Linux
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Gimel Studio](https://gimelstudio.com/) / Windows / [GitHub](https://github.com/GimelStudio/GimelStudio)
-* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom / Windows, Mac, Linux / [GitHub](https://github.com/darktable-org/darktable)
-* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor / Windows, Mac, Linux / [GitHub](https://github.com/RawTherapee/RawTherapee)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
 * [IOPaint](https://github.com/Sanster/IOPaint) - AI Image Multitool Editor
   
@@ -610,17 +608,9 @@
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
 * ⭐ **[Slowpoke Pics](https://slow.pics/)**, [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
-* [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [⁠Universal Sig Rotator](https://sig.grumpybumpers.com/) - Rotates Image for Forum Signatures / Site Banners
 * [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends
-* [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
-* [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
-* [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
-* [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC)
-* [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
-* [fSpy](https://fspy.io/) - Still Image Camera Matching
-* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
@@ -638,8 +628,6 @@
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 * [Allusion](https://allusion-app.github.io/) - Reference Image Manager
-* [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
-* [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 
 ***
@@ -880,11 +868,34 @@
 
 ***
 
-## ▷ Photo Forensics
+# ► Photography / Cameras
+
+* 🌐 **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources
+* [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
+* [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
+* [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
+* [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
+* [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Workflows / Windows, Mac, Linux
+* [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)
+* [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
+* [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
+* [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC)
+* [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
+* [fSpy](https://fspy.io/) - Still Image Camera Matching
+* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
+* [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
+
+***
+
+## ▷ Photo Forensics / Metadata
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
+* [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [CameraSummary](https://camerasummary.com/) - EXIF / Metadata Viewers
+* [exiftool](https://exiftool.org/), [2](https://github.com/FrankBijnen/ExifToolGui/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
+* [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
+* [TheExifer](https://www.thexifer.net/), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html) - Image EXIF Data Editors
 * [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [GeoSpy](https://geospy.net/)
  or [GeoEstimation](https://labs.tib.eu/geoestimation) - Image Geolocation / Location Estimation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
@@ -893,12 +904,4 @@
 * [Redacted](https://redacted.app/) - Blur, Pixelate or Blackout parts of Images
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
-* [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [CameraSummary](https://camerasummary.com/) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [2](https://github.com/FrankBijnen/ExifToolGui/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
-* [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
-* [TheExifer](https://www.thexifer.net/), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html) - Image EXIF Data Editors
 * [Base64 Image](https://www.base64-image.de/) - Encode / Decode Images
-
-***
-
-## ▷ [Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)

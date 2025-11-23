@@ -760,6 +760,7 @@
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [Chaka](https://github.com/elementdavv/chaka) - Ebook Reader
+* [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / [GitHub](https://github.com/anxcye/anx-reader)
 * [eBoox](https://eboox.app/) - Ebook Reader
 * [Sav PDF Viewer Pro](https://www.savpdfviewer.com) - PDF Reader / [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro)
 * [MJ PDF](https://github.com/mudlej/mj_pdf) - PDF Reader

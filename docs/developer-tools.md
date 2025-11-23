@@ -93,6 +93,8 @@
 * [WebdevHome](https://webdevhome.github.io/)
 * [Free Developer Stuff](https://freestuff.dev/)
 * [Addy](https://toolkit.addy.codes/)
+* [24x7](https://www.site24x7.com/tools.html)
+* [Rankchart](https://rankchart.org/)
 * [Prototypr](https://prototypr.io/toolbox/page/1)
 * [Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin) - System Admin Resources
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Design Pattern Resources
@@ -1022,44 +1024,43 @@
 
 # ► Hosting Tools
 
+* ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
+* ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * 🌐 **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** - Free Hosting Provider Index / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting)
-* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
+* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [⁠servers.fyi](https://www.servers.fyi/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/), [Checkmate](https://github.com/bluewave-labs/Checkmate) or [24x7](https://www.site24x7.com/tools.html) - Site / Server Uptime Monitors
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**, **[deSEC](https://desec.io/)**, [DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Shared DNS Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS Services / Subdomains
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
-* [Rankchart](https://rankchart.org/) - Multiple Domain Tools
-* [Instantdomainsearch](https://instantdomainsearch.com/), [Domaintyper](https://domaintyper.com/), [Iwantmyname](https://iwantmyname.com/), [Whois.com](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domain Availability Checkers
-* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability Checker App
-* [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
-* [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
-* [AtSameIP](https://atsameip.com/) - Find Websites on the Same IP
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
-* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
-* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
-* [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
-* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* ⭐ **[Check-Host](https://check-host.net/)**, [Highlight](https://www.highlight.io/) or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Checkmate](https://github.com/bluewave-labs/Checkmate), [UptimeRobot](https://uptimerobot.com/), [AreWeDown?](https://github.com/shukriadams/arewedown) or [StatPing](https://github.com/statping/statping) - Uptime Monitor Apps
+* [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
+* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
+* [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
 * [⁠Val Town](https://www.val.town/) - Serverless Scripting and Sharing
-* [OONI](https://ooni.org/) - Check Site Location Availability
-* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
-* [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
-* [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
-* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://thedev.id/) or [GetFreeDomain](https://www.getfreedomain.name/) - Subdomains
-* [redirect.name](https://redirect.name/) - URL Forwarding
-* [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
+* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Archivy](https://github.com/archivy/archivy/), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Self-Hosted Wikipedia Alternatives
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
+* [InstantDomain(https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domain Availability
+* [DNForum](https://www.dnforum.com/) - Domain Name Forum
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
+* [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
+* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
+* [OONI](https://ooni.org/) - Check Site Location Availability
+* [redirect.name](https://redirect.name/) - URL Forwarding
+* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+* [AtSameIP](https://atsameip.com/) - Find Websites on the Same IP
+* [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
+* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
+* [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
+* [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 
 ***
 

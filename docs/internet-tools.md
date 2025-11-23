@@ -866,7 +866,6 @@
 # ► Open Source Intelligence
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
-* ↪️ **[Photo Forensics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_photo_forensics)**
 * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
 * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources

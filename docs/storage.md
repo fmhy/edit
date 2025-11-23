@@ -87,6 +87,19 @@
 
 ***
 
+## Dynamic DNS Services / Subdomains
+
+* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**
+* ⭐ **[deSEC](https://desec.io/)**
+
+[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
+
+### Subdomains Services
+
+[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://thedev.id/), [GetFreeDomain](https://www.getfreedomain.name/)
+
+***
+
 ## EmulatorJS / NeptunJS
 
 * **Note** - These serve as frontends for the EmulatorJS + NeptunJS emulator APIs.
@@ -367,6 +380,12 @@
 * ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
 [Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [Free-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
+
+***
+
+## Self-Hosted Wiki Alts
+
+[WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Archivy](https://github.com/archivy/archivy/), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/), [Fandom](https://www.fandom.com/)
 
 ***
 

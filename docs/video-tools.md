@@ -468,7 +468,7 @@
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 * ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
-* [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
+* [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans

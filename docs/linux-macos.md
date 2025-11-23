@@ -6,6 +6,10 @@
 
 # ► Linux Guides
 
+* **Note** - Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
+
+***
+
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
@@ -52,7 +56,7 @@
 
 # ► Linux Distros
 
-* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
+* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
 
 ***
 

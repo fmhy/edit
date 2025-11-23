@@ -116,6 +116,7 @@
 * [KoReader](https://koreader.rocks/) - Ebook Reader / Windows, Android / [GitHub](https://github.com/koreader/koreader)
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
+* [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / Windows, Mac, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)
 * [PlayTorrio](https://playtorrio.pages.dev/) - Ebook Reader / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
 * [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
 * [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)

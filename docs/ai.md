@@ -95,7 +95,7 @@
 * ⭐ **[Jan](https://jan.ai/)** - Self-Hosted / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/)** - Self-Hosted / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Hosted Transformer-Based LLMs
-* ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
+* ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb) / [Web Version](https://lite.koboldai.net/)
 * ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Self-Hosted Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
