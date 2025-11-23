@@ -1046,11 +1046,11 @@
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
-* [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domain Availability
+* [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
+* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
-* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
 * [OONI](https://ooni.org/) - Check Site Location Availability
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
