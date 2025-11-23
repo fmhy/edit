@@ -1774,13 +1774,14 @@
 ## ▷ Streaming / İzleme
 
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.la/)** - Movies / TV / Sub / Dub / 1080p
-* ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/s/yabancidizipw)
+* ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
 * ⭐ **[Film Makinesi](https://filmmakinesi.sh/)** - Movies / TV / Sub / Dub / 1080p
-* [Dizi Film Botu](https://t.me/Difix9Bot) - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
+* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
+* [Dizipal](https://dizipal1513.com), [2](https://dizipalx54.com) - Movies / TV / Sub / Dub / 1080p
+* [Dizilla](https://dizilla40.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziyou](https://www.diziyou.to/) - TV / Sub / Dub / 1080p
-* [Dizilla](https://dizilla40.com/) - Movies / TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / VPN Required
@@ -1793,7 +1794,7 @@
 
 * [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
 * [KediKitap](https://t.me/KediKitap) - Books
-* [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
+* [E kütüphanem](https://t.me/addlist/og2-cDRwlu9mOTY0) - Books
 * [⁠Hattusa](https://hattusa.club/) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Mavi Manga](https://mavimanga.com/) - Manga
