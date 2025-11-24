@@ -93,7 +93,6 @@
 * [WebdevHome](https://webdevhome.github.io/)
 * [Free Developer Stuff](https://freestuff.dev/)
 * [Addy](https://toolkit.addy.codes/)
-* [24x7](https://www.site24x7.com/tools.html)
 * [Rankchart](https://rankchart.org/)
 * [Prototypr](https://prototypr.io/toolbox/page/1)
 * [Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin) - System Admin Resources
@@ -107,6 +106,7 @@
 * [IT Tools](https://it-tools.tech/)
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
+* [24x7](https://www.site24x7.com/tools.html)
 * [wangchujiang](https://wangchujiang.com/tools/)
 * [Coders Tool](https://www.coderstool.com/)
 * [Utilities and Tools](https://utilities-online.info/)
@@ -1121,7 +1121,7 @@
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
 * [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
 * [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
-* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth
+* [DropPages](https://droppages.com/) - 1GB Storage / 5GB Bandwidth / No custom Domain
 * [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
 * [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
