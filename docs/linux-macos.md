@@ -134,7 +134,6 @@
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
-* [cheat.sh](http://cheat.sh/) - App Repos / [GitHub](https://github.com/chubin/cheat.sh)
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://github.com/tversteeg/emplace) - System Package Sync
@@ -224,7 +223,7 @@
 * [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Audio Clients
-* [MOC](http://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
+* [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
 * [⁠Sonosano](https://sonosano.krshh.com/ ) - Self-Hosted P2P Lossless Music Player / [GitHub](https://github.com/KRSHH/Sonosano)
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
@@ -280,7 +279,7 @@
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)**, [2](https://1337x.to/user/johncena141/) - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
 * [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
-* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Wiki](https://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Play Windows Games on Linux 
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
@@ -346,7 +345,7 @@
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://www.slsknet.org) - File Sharing App
 * ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - Create WiFi Hotspots
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontend
-* rTorrent Tools - [Extended](http://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
+* rTorrent Tools - [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text-Based Browser
