@@ -90,7 +90,7 @@
 * [MacroRecorder](https://www.macrorecorder.com/)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
-* [Organize](http://organize.readthedocs.io) - Automated File Manager
+* [Organize](https://organize.readthedocs.io) - Automated File Manager
 
 ***
 
