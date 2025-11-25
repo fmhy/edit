@@ -118,7 +118,7 @@
 * ⭐ **[Chub](https://chub.ai/)** - Character Cards / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
 * [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - Llama + SillyTavern Roleplaying Setup Guide / No Sign-Up
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
-* [Perchance](https://perchance.org/ai-character-chat) - Roleplaying / No-Signup / Unlimted / Allows Images / Some NSFW
+* [Perchance](https://perchance.org/ai-character-chat) - Roleplaying / No-Signup / Unlimted / Allows Images / Some NSFW / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai)
 * [WyvernChat](https://app.wyvern.chat/) - Roleplaying Chatbots
 * [FictionLab](https://fictionlab.ai/) - Roleplaying / Story Chatbot / [Discord](https://discord.com/invite/SKcb2C7HjH)
@@ -220,7 +220,7 @@
 * ⭐ **[⁠LLM Explorer](https://llm-explorer.com/)** or [LifeArchitect](https://lifearchitect.ai/models-table/) - LLM Databases / Indexes
 * ⭐ **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
 * ⭐ **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
-* [Perchance](https://perchance.org/generators) / [Discord](https://discord.gg/43qAQEVV9a) or [WebSim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
+* [Perchance](https://perchance.org/generators) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a) or [WebSim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/WebSim/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
@@ -267,7 +267,7 @@
 # ► AI Writing Tools
 
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
-* [Scrip AI](https://scripai.com/) (No Sign-Up), [INK](https://app.inkforall.com/tools) or [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
+* [Scrip AI](https://scripai.com/) (No Sign-Up), [INK](https://app.inkforall.com/tools), [Toolbaz](https://toolbaz.com/) or [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
@@ -315,13 +315,13 @@
 * [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [PigenAI](https://pigenai.art/) - Unlimited / Imagen 4 / Qwen
-* [⁠Image Editor](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev 
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing
-* [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) - Chroma / Unlimited / No Sign-Up
+* [Perchance](https://perchance.org/ai-photo-generator), [2](https://perchance.org/ai-text-to-image-generator) - Chroma / Unlimited / No Sign-Up / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [ImageFX](https://labs.google/fx/tools/image-fx) - Imagen 4 / Unlimited / Region-Based / Sign-Up Required / [Discord](https://discord.com/invite/googlelabs)
-* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [Genspark](https://www.genspark.ai/) / [Discord](https://discord.com/invite/CsAQ6F4MPy), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
-* [⁠Vheer](https://vheer.com/) - Flux Kontext / Unlimited / No Sign-Up
+* [⁠Vheer](https://vheer.com/) - Unlimited / Flux Kontext Dev / Flux Schnell
+* [⁠Image Editor](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev
+* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [](https://toolbaz.com/), [Toolbaz](https://toolbaz.com/image/ai-image-generator), [Genspark](https://www.genspark.ai/) / [Discord](https://discord.com/invite/CsAQ6F4MPy), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Stable Diffustion / Chroma / Unlimited / No Sign-Up / SeeDream 3 / GPT 1 Image / 10 Daily / Signup Required / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up Required / [x](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required/ US Select CA

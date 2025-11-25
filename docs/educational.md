@@ -700,7 +700,7 @@
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
 * [Satellite Map](https://satellitemap.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
-* [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [GitHub](https://github.com/orbitersim/orbiter)
+* [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
 
 ***
