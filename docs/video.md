@@ -411,7 +411,7 @@
 * [YTCH](https://ytch.tv/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube
 * [TV.Jest](https://tv.jest.one/), [Split TV](https://split-tv.co.il/) or [WorldNews24](https://worldnews24.tv/) - News
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
-* [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
+* [intchoson](https://www.intchoson.com/kctv/) or [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
 * [TitanTV](https://titantv.com/) - Live TV Listings
 
 ***
