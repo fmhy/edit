@@ -57,6 +57,7 @@
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
 * [itty.bitty](https://itty.bitty.site/) - Site / Pastebin
 * [Pastry](https://pastry.diy/) - HTML / CSS Based Pastebin
+* [GistPad.com](https://gistpad.com/) - Multi-Syntax / Markdown Support
 
 ***
 
