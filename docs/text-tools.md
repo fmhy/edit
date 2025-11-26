@@ -131,16 +131,17 @@
 
 ***
 
-* ⭐ **[LanguageTool](https://languagetool.org/)**
-* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
-* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
-* [DeepL Write](https://www.deepl.com/write)
-* [⁠Kagi Proofread](https://translate.kagi.com/proofread) 
-* [QuillBot](https://quillbot.com/grammar-check) / [Features](https://rentry.co/FMHYB64#quill)
-* [Scribens](https://www.scribens.com/)
-* [EditGPT](https://www.editgpt.app/) - Sign-Up Required
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up Required
-* [Outwrite](https://www.outwrite.com/) - Sign-Up Required
+* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App
+* [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
+* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Sign-Up Required
+* [Harper](https://writewithharper.com/) - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
+* [DeepL Write](https://www.deepl.com/write) - Web App
+* [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
+* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Features](https://rentry.co/FMHYB64#quill)
+* [Scribens](https://www.scribens.com/) - Web App
+* [EditGPT](https://www.editgpt.app/) - Web App / Sign-Up Required
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Sign-Up Required
+* [Outwrite](https://www.outwrite.com/) -  - Web App / Sign-Up Required
 
 ***
 
@@ -350,7 +351,7 @@
 ## ▷ Spreadsheet Editors
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
-* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
+* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Baserow](https://baserow.io/) / [GitLab](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
@@ -425,7 +426,7 @@
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
 * [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
 * [⁠shabzefilters](https://shabzefilters.netlify.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [ascii-exploration](https://ascii-exploration.vercel.app/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
-* [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
+* [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [lvllvl](https://lvllvl.com/) or [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor

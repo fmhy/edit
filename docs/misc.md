@@ -277,7 +277,7 @@
 
 ***
 
-* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
+* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/), [Air Loom](https://objectiveunclear.com/airloom.html) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
 * [seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)

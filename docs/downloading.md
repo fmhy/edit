@@ -42,7 +42,7 @@
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
 * [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Sign-Up Required
 * [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
-* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
+* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
 * [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
 * [Merlin Warez](https://merlinwz.com/) - Audio / Books / Audiobooks / Comics / Magazines
 * [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
@@ -153,7 +153,7 @@
 * [FilePuma](https://www.filepuma.com/) - Freeware Directory
 * [FileEagle](https://www.fileeagle.com/) - Freeware Directory
 * [LO4D](https://www.lo4d.com/) - Freeware Directory
-* [SoftwareOK](http://www.softwareok.com/) - Freeware Directory
+* [SoftwareOK](https://www.softwareok.com/) - Freeware Directory
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Directory
 * [Uwe Sieber](https://www.uwe-sieber.de/english.html) - Freeware Directory
 * [Software Informer](https://software.informer.com/) - Freeware Directory

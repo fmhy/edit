@@ -541,7 +541,7 @@
 
 * 🌐 **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** - Evan Leed's Board Games Index
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
-* ⭐ **[Roll20](https://roll20.net/)** / [Discord](http://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
+* ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Tabletop Games
 * [⁠VirtualTabletop](https://virtualtabletop.io/) - Multiplayer Tabletop Games / [GitHub](https://github.com/ArnoldSmith86/virtualtabletop)
 * [PlayOK](https://www.playok.com/) - Multiplayer Tabletop Games
@@ -722,9 +722,9 @@
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
 * [⁠Splatoon.io](https://splatoon.io/) - Multiplayer ⁠Splatoon Style Game
-* [Slither.io](http://slither.io/) - Grow the Longest Worm
+* [Slither.io](https://slither.io/) - Grow the Longest Worm
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
-* [Hexar.io](http://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
+* [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
 * [agar.io](https://agar.io/) - Become the Biggest Circle
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
@@ -761,7 +761,7 @@
 * [IFArchive](https://www.ifarchive.org/) - Text Adventures
 * [Web Adventures](https://www.web-adventures.org/) - Text Adventures
 * [Seedship](https://philome.la/johnayliff/seedship/play/index.html) - Text Adventures
-* [TextAventures](http://textadventures.co.uk/) - User-Made Text Adventures
+* [TextAventures](https://textadventures.co.uk/) - User-Made Text Adventures
 * [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/) or [Level 13](https://nroutasuo.github.io/level13/) - Individual Adventures
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROMs
 * [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions

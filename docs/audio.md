@@ -606,7 +606,7 @@
 * [Cirrus Retro](https://cirrusretro.com/) - Game Music Radio
 * [JetSetRadio](https://jetsetradio.live/), [2](https://jetsetradiofuture.live/) - Game Music Radio
 * [Rainwave](https://rainwave.cc/) - Game Music Radio
-* [RPGGamers Radio](http://www.rpgamers.net/radio/) - Game Music Radio
+* [RPGGamers Radio](https://www.rpgamers.net/radio/) - Game Music Radio
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
 * [VGM](https://vgm.mmosvc.com/) - Game Music Radio
 * [NSF j](https://nsf.nesbbs.com/) - NES Music
@@ -628,6 +628,7 @@
 * [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker
 * [MyPitchFork](https://mypitchfork.fun/) - Individual Song Rating / Tracking
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists Between Services
+* [LibraryThing](https://www.talpasearch.com/) - Find Albums by Describing Them
 * [rate.house](https://rate.house/) - Media Tracker
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
 * [Maloja](hhttps://github.com/krateng/maloja) or [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Self-Hosted Audio Scrobbling
@@ -645,7 +646,7 @@
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://www.furia.com/page.cgi?type=log#id492)
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
-* [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](http://playlost.fm/) - Song Discovery Tools
+* [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts 
 * [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
@@ -677,7 +678,7 @@
 * [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.imgur.com/FDx8jKa.png)
 * [SecondHandSongs](https://secondhandsongs.com/), [RemixSearch](https://remixsearch.net/) or [WhoSampled](https://www.whosampled.com/) - Cover, Sample and Remix Databases
 * [SoundtrackTracklist](https://soundtracktracklist.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
-* [dbkpop](https://dbkpop.com/), [Stage48](http://stage48.net/wiki/index.php/Main_Page), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
+* [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
 * [⁠HappyHardcore](https://www.happyhardcore.com/forums/) - Hardcore Dance Music Forum
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
@@ -702,7 +703,7 @@
 * [Chart My Music](https://www.chartmymusic.com/lastfm/), [TapMusic](https://www.tapmusic.net/) or [MusicCoruMap](https://musicorumapp.com/generate) - Album Collages
 * [Last.fm Iceberg](https://lastfm-iceberg.dawdle.space/) - Last.fm Artist Iceberg
 * [TagCloud](https://tagcloud.rainosullivan.com/) - Last.fm Tag Cloud
-* [Mainstream Calc](http://mainstream.ghan.nl/) - Mainstream Calculator
+* [Mainstream Calc](https://mainstream.ghan.nl/) - Mainstream Calculator
 * [Descent](https://descent.live/) - Now Playing Tool
 
 ***

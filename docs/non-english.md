@@ -643,8 +643,8 @@
 * [NetNix](https://netnix.tv/) - Live TV
 * [stokourbeti](https://stokourbeti.online/) - Live Sports
 * [GreekSport](https://greeksport.beer/) - Live Sports
-* [SportOnTV](https://sportontv.xyz/) - Live Sports / [Discord](https://discord.gg/YhQPSSMps2)
-* [Foothubhd](https://foothubhd.online/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
+* [SportOnTV](https://sportontv.biz/) - Live Sports / [Mirrors](https://sotproxy.ext.io/) / [Discord](https://discord.gg/YhQPSSMps2)
+* [Foothubhd](https://foothubhd.info/) - Live Football / [Discord](https://discord.com/invite/KGgsRmKZPC)
 * [greekdocumentaries2](https://greekdocumentaries2.blogspot.com/) - Documentaries
 * [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
 * [Subs4series](https://www.subs4series.com/), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles

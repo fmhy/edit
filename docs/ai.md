@@ -12,7 +12,7 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.0 Pro Preview / Unlimited / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.0 Pro Preview / 100 Daily / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 (Chat) / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 Reasoning Chatbot / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
@@ -79,7 +79,7 @@
 
 * ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
 * ⭐ **[Open WebUI](https://openwebui.com/)** - Self-Hosted Interface / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
-* [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Telegram](https://telegram.me/g4f_channel)
+* [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Demo](https://g4f.dev/chat/pro.html), [2](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel)
 * [Msty](https://msty.app/) - Download & Run Models Locally / [Discord](https://discord.gg/2QBw6XxkCC)
 * [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Desktop App / [Discord](https://discord.gg/wez8HtpxqQ)
 * [LobeChat](https://lobechat.com/chat) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
@@ -116,18 +116,18 @@
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://claraiscute.neocities.org/Guides/PygmalionLinks/), [2](https://claraiscute.pages.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Chub](https://chub.ai/)** - Character Cards / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
+* ⭐ **[Perchance](https://perchance.org/ai-character-chat)** - Roleplaying / No-Signup / Unlimted / Allows Images / Some NSFW / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - Llama + SillyTavern Roleplaying Setup Guide / No Sign-Up
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
-* [Perchance](https://perchance.org/ai-character-chat) - Roleplaying / No-Signup / Unlimted / Allows Images / Some NSFW / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) (No Sign-Up) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) / [Discord](https://discord.com/invite/DAn38sA8Qj) - Chatbot Builders
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai)
 * [WyvernChat](https://app.wyvern.chat/) - Roleplaying Chatbots
 * [FictionLab](https://fictionlab.ai/) - Roleplaying / Story Chatbot / [Discord](https://discord.com/invite/SKcb2C7HjH)
-* [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
-* [KoboldAI Lite](https://lite.koboldai.net/) - Roleplaying / No Sign-Up / Unlimited / Allows Images / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
 * [AI Dungeon](https://aidungeon.com/) - Roleplaying / Story Chatbot / No Sign-Up / [Subreddit](https://www.reddit.com/r/AIDungeon/) / [Discord](https://discord.com/invite/HB2YBZYjyf)
 * [Spellbound](https://www.tryspellbound.com/) - Roleplaying / Story Chatbot / No Sign-Up
-* [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) (No Sign-Up) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) / [Discord](https://discord.com/invite/DAn38sA8Qj) - Chatbot Builders
-* [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - Realistic AI Voice Chat
+* [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
+* [KoboldAI Lite](https://lite.koboldai.net/) - Roleplaying / No Sign-Up / Unlimited / Allows Images / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
+* [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - Realistic AI Voice Chatlooks
 * [HammerAI](https://www.hammerai.com/desktop) - Self-Hosted Roleplaying Chatbots
 
 ***
@@ -136,7 +136,7 @@
 
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
-* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ai_benchmarks)**
+* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/)** - Multi-LLM Coding AI / GPT-4 / 4o for Free / [Discord](https://discord.gg/getpieces)
 * [⁠Qwen Code](https://github.com/QwenLM/qwen-code) - CLI Coding AI / [Docs](https://qwenlm.github.io/qwen-code-docs/en/)
@@ -231,36 +231,39 @@
 
 ***
 
-## ▷ AI Benchmarks
+# ►  AI Benchmarks
 
 * ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot, Image, and Video Benchmarks / [X](https://x.com/ArtificialAnlys)
+* ⭐ **[⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[LMArena](https://lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
-* [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
-* [⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks) - Chatbot Leaderboards / Benchmarks
-* [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
 * [Yupp Leaderboard](https://yupp.ai/leaderboard) - Chatbot Leaderboards / Benchmarks
+* [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
 * [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard
 * [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
-* [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
-* [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - VLM Benchmark Leaderboard Aggregator
+* [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
+
+*** 
+
+## ▷ Specialized Benchmarks
+
+* ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
+* [⁠Alpha Arena](https://nof1.ai/) - AI Investing Ability Benchmark 
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
 * [⁠Simple Bench](https://simple-bench.com/) - AI Human Reasoning Benchmarks
 * [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
-* [⁠Alpha Arena](https://nof1.ai/) - AI Investing Ability Benchmark 
+* [⁠VoxelBench](https://voxelbench.ai/) - Minecraft AI Generation Benchmark
 
 ***
 
-## ▷ Coding AI Benchmarks
+## ▷ Coding Benchmarks
 
-* ⭐ **[LiveSWEBench](https://liveswebench.ai/)** - Software Engineering AI Leaderboard / Benchmarks
+* ⭐ **[SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench)
+* [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
 * [⁠AIBenchmarks](https://aibenchmarks.net/) - Coding AI Leaderboard / Benchmarks / [GitHub](https://github.com/panilya/awesome-ai-benchmarks)
 * [WebDev Arena](https://web.lmarena.ai/) - Coding AI Leaderboard / Benchmarks
-* [⁠LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Coding AI Leaderboard / Benchmarks
-* [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
-* [SWEBench](https://www.swebench.com/) - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench) 
-* [multi-swe-bench](https://multi-swe-bench.github.io/) - Software Engineering AI Leaderboard / Benchmarks
 
 ***
 

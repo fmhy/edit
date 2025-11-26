@@ -751,9 +751,9 @@
 * ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme)
 * ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** or [Legado MD3](https://github.com/HapeLee/legado-with-MD3/releases) - Ebook Reader
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
+* ⭐ **[Voice](https://voice.woitaschek.de/)** - Audiobook Player / [GitHub](https://github.com/PaulWoitaschek/Voice/)
 * ⭐ **[Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)** - Audiobook Player
 * [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
-* [Voice](https://voice.woitaschek.de/) - Audiobook Player / [GitHub](https://github.com/PaulWoitaschek/Voice/)
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
 * [PlayBook](https://github.com/Goodwy/PlayBook) - Audiobook Player
 * [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Player

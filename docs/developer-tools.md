@@ -345,7 +345,7 @@
 * 🌐 **[Streaming Site APIs](https://rentry.co/FMHYB64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
-* 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs
+* 🌐 **[⁠NASA API](https://api.nasa.gov/)** - NASA Open APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** / [2](https://cas.zukijourney.com/), [FreeAPIProviders](https://rentry.co/freeapiproviders), [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
@@ -379,7 +379,7 @@
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
 * 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
-* ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
+* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
 * [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
@@ -582,7 +582,7 @@
 * [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
 * [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - ChatGPT in Neovim
-* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](http://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
@@ -616,7 +616,7 @@
 # ► Programming Languages
 
 * 🌐 **[⁠Awesome Explorer](https://awexplor.github.io/)** - Dev Awesome List Frontend / [GitHub](https://github.com/AweXplor/awexplor.github.io)
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/), [Reference](https://cheatsheets.zip/) / [GitHub](https://github.com/Fechin/reference) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/), [Reference](https://cheatsheets.zip/) / [GitHub](https://github.com/Fechin/reference) or [Cheat Sheets](https://www.cheat-sheets.org/) - Programming Cheat Sheets
 * 🌐 **[Codigo](https://codigolangs.com/)** - Programming Language Repository
 * 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
 * 🌐 **[TheAlgorithms](https://the-algorithms.com/)** - Coding Algorithms / [GitHub](https://github.com/TheAlgorithms/)
@@ -789,7 +789,7 @@
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
 * [Dagu](https://dagu.cloud/) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
-* [cURL](https://curl.se/) or [xh](https://github.com/ducaale/xh) - HTTP Clients / Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
+* [cURL](https://curl.se/) or [xh](https://github.com/ducaale/xh) - HTTP Clients / Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](https://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [Apache](https://httpd.apache.org/) - HTTP Server
@@ -1048,7 +1048,7 @@
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
-* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D) - Private Tracker Hosting
+* [UNIT3D](https://github.com/HDInnovations/UNIT3D) - Private Tracker Hosting
 * [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel), [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Checkmate](https://github.com/bluewave-labs/Checkmate), [UptimeRobot](https://uptimerobot.com/), [AreWeDown?](https://github.com/shukriadams/arewedown) or [StatPing](https://github.com/statping/statping) - Uptime Monitors
 * [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
