@@ -1010,3 +1010,4 @@
 * [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
+* [PurityTest](https://ricepurity.info/) - WoW Self Tester
