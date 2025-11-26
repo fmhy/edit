@@ -1791,6 +1791,7 @@
 
 ## ▷ Reading / Okuma
 
+* [Kitap Botu](https://t.me/kitap94bot) - 1M+ Turkish e-book archive. No scams, no ads, no viruses.
 * [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
 * [KediKitap](https://t.me/KediKitap) - Books
 * [E kütüphanem](https://www.whatsapp.com/channel/0029VaAUDreDTkK0uDGbP21z) - Books
