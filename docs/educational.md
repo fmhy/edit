@@ -1232,7 +1232,7 @@
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Deceptive Patterns](https://www.deceptive.design/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
-* [HTML Dog](https://htmldog.com/) or [Front Tips](https://front.tips/) - Frontend Tutorials & Examples
+* [HTML Dog](https://htmldog.com/) - Frontend Tutorials & Examples
 * [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
