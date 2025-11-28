@@ -547,6 +547,7 @@
 * [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
+* [Aigazine](https://aigazine.com) - The Go-To Source for AI Benchmarks, News, Research & Industry Insights.
 
 ***
 
