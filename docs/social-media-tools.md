@@ -158,7 +158,7 @@
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)**, [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
+* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers

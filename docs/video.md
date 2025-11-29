@@ -766,7 +766,7 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)**, [2](https://1337x.to/movie-library/1/)- Movies / TV / Anime
+* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](https://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Rive](https://rivestream.org/)** - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up Required
