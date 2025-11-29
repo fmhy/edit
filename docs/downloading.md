@@ -61,7 +61,6 @@
 ***
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
-* ⭐ **[FilePursuit](https://filepursuit.com)** / [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)**
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [Linktury](https://www.ddlspot.com/)
