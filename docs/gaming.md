@@ -906,6 +906,7 @@
 * [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
+* [GridSport.Games](https://gridsport.games/en) - Daily Multilingual Football / Soccer Trivia PWA
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
 * [Graphs](https://www.graphs.world/) - Graph Guessing Game
