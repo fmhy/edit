@@ -218,6 +218,7 @@
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
 * [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
+* [⁠Vijay's Radio Vibes](https://vijaysradiovibes.pages.dev/) - Random Radio Stations
 * [AccuRadio](https://www.accuradio.com/)
 * [Q-3](https://www.q-3.eu/)
 * [⁠DubLab](https://www.dublab.com/)
@@ -683,6 +684,7 @@
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
 * [⁠HappyHardcore](https://www.happyhardcore.com/forums/) - Hardcore Dance Music Forum
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
+* [CET](https://rentry.org/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
