@@ -168,6 +168,7 @@
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
+* [⁠DAREBEETS](https://darebeets.com/) - Plant-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
