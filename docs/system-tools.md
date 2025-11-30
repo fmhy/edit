@@ -50,7 +50,7 @@
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
 * [Shell](https://nilesoft.org/) / [GitHub](https://github.com/moudey/shell) or [RCWM](https://github.com/GChuf/RCWM) - Tweaked / Custom Context Menus
-* [File Pilot](https://filepilot.tech/) or [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Improved / Tweaked File Explorers
+* [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Improved / Tweaked File Explorers
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbar
