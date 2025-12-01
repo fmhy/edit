@@ -35,7 +35,7 @@
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - Browser Music / Lossless / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [GitHub](https://github.com/ArtistGrid/)
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player /  [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 *  [squid.wtf](https://tidal.squid.wtf), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -418,7 +418,7 @@
 ***
 
 * 🌐 **[⁠Music Download Guide](https://rentry.co/wheredownloadmusic)** - Downloading Guide / Site Index
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [GitHub](https://github.com/ArtistGrid/)
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool

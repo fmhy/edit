@@ -324,11 +324,11 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps) or [Mapy](https://mapy.com) - Online / Offline Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://osmand.net/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Features](https://github.com/deevroman/better-osm-org) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
-* [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
+* [Magic Earth](https://www.magicearth.com/) - Mobile Maps
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
