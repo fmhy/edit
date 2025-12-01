@@ -178,7 +178,6 @@
 * ⭐ **[keybr](https://www.keybr.com/)** - Custom Touch Typing Practice / [GitHub](https://github.com/aradzie/keybr.com)
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
-* [CyberType](https://cybertype.app/) - Touch Typing Practice / [GitHub](https://github.com/MananTank/cybertype)
 * [Typing.com](https://www.typing.com/) - Touch Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires JavaScript Enabled

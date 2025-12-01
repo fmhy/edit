@@ -365,7 +365,6 @@
 ## ▷ Windows Activation
 
 * ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
-* [KMS_VL_ALL_AIO](https://rentry.co/FMHYB64#kms-vl) - Windows & Office Activation / Offline
 * [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
 
 ***
