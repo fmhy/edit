@@ -359,7 +359,6 @@
 * ⭐ **[squid.wtf](https://tidal.squid.wtf)**, **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
-* [⁠Vi•er](https://vibefetcher.com/) - Deezer / Qobuz
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [AMP3](https://amp3.cc/) - YouTube / 256kb
 * [EzConv](https://ezconv.com/) - YouTube / 256kb

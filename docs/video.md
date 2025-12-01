@@ -73,7 +73,7 @@
 * [CineBolt](https://cinebolt.net/) - Movies / TV / Anime / [Discord](https://discord.gg/7ZbCzMPt6f)
 * [ONOFLIX](https://onoflix.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/eEmGSZ98cP)
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/ajRY6Bn3rr)
-* [LunaStream](https://lunastream.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
+* [LunaStream](https://lunastream.fun/) or [CineFlow](https://www.cineflow.watch/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * [Wooflix](https://www.wooflixtv.co/) - Movies / TV / Anime
 * [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
@@ -599,7 +599,7 @@
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.net/) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[1Shows](https://www.1shows.ru/)** or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[Cinepeace](https://cinepeace.in/)** - Movies / TV / Anime / [Discord](https://discord.gg/htmB2TbK)
-* ⭐ **[LunaStream](https://lunastream.fun/)** or [CineFlow](https://www.cineflow.watch/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
+* ⭐ **[LunaStream](https://lunastream.fun/)** - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
 * ⭐ **[VidBox](https://vidbox.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[DramaSuki](https://rentry.co/FMHYB64#dramasuki)** - Asian Drama / Directory
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
