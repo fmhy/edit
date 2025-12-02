@@ -77,6 +77,7 @@
 * ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Various Converters / 40MB
+* ⭐ **[CloudConvert](https://cloudconvert.com/)** - Online File Converter / Supports Audio, Video, Document, Ebook, Archive, Image, Spreadsheet & Presentation Formats / 25 Daily
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
