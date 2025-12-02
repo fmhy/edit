@@ -34,7 +34,7 @@
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Sign-Up Required
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo3 32B / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
-
+* [Venice.ai](https://venice.ai/) - Private & Uncensored AI / No Sign-Up / [Discord](https://discord.gg/venice)
 ***
 
 ## ▷ Multiple Model Sites
