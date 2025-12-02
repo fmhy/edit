@@ -426,7 +426,6 @@
 * [R1Delta](https://r1delta.net/) - Titanfall 1 Server Revival / [Discord](https://discord.com/invite/AFnMwrvPzV)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)
-* [Arctic Combat](https://warfareterritory.net/) - Arctic Combat Server Revival / [Discord](https://discord.com/invite/7aw6grzSgj)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/clashofmagic) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)

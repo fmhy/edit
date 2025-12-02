@@ -540,7 +540,7 @@
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
+* ⭐ **[WebOasis]https://behu.io/)**, [2](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 * [r/startpages](https://www.reddit.com/r/startpages/)
 * [8bitdash](https://www.8bitdash.com/)

@@ -39,7 +39,6 @@
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
-* [dpaste](https://dpaste.org/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/DarrenOfficial/dpaste)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
 * [Pastee](https://pastee.dev/) - Multi-Syntax / Markdown Support

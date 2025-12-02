@@ -26,7 +26,7 @@
 * [Cinetaro](https://cinetaro.buzz/) - Movies / TV / Anime / 3rd Party Host
 * [Smashystream](https://smashystream.com/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [TVids](https://www.tvids.to/), [2](https://www.tvids.net/), [3](https://watch-tvseries.net/), [4](https://tvids.me/), [5](https://tvids.tv/) - Movies / TV / Anime / Auto-Next
-* [StreamM4u](https://streamm4u.com.co/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
+* [StreamM4u](https://streamm4u.com.co/), [2](https://m4uhd.page/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [BFLIX](https://bflix.sh/) - Movies / TV 
 * [MovieHD](https://moviehd.us) - Movies / [Telegram](https://t.me/+NthvAOpP0oNkMWU1)
 * [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / Mostly 3rd Party Hosts
@@ -428,7 +428,7 @@
 * ⭐ **[Sport7](https://sport7.pro/)**, [2](https://sport71.pro//) / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/xcdfVwgEx3)
 * ⭐ **[Watch Footy](https://watchfooty.st/)**, [2](https://www.watchfooty.top) - Stream Aggregator / [Discord](https://discord.gg/T38kUWZHtB) / [Mirrors](https://watchfty.link/)
 * ⭐ **[BINTV](https://bintv.fun/)** / [Discord](https://discord.gg/fMU4hpDjPg)
-* ⭐ **[SoccerStreamLinks](https://soccerstreamlinks.site/)** - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
+* ⭐ **[SoccerStreamLinks](https://soccerstreamlinks.site/)** or [Iframely](https://iframely.biz/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.online/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
@@ -590,9 +590,10 @@
 
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[Acer Movies](https://rentry.co/FMHYB64#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
 * ⭐ **[Scloud](https://rentry.co/FMHYB64#scloud)** - Movies / TV / 4K / [Telegram](https://t.me/scloudmediahub)
+* ⭐ **[Acer Movies](https://rentry.co/FMHYB64#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
 * ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** - Movies / TV / Anime / Directory / [Desktop App](https://playtorrio.pages.dev/) (unofficial) / [Discord](https://discord.gg/YjkP4pANpg)
+* ⭐ **[DDLBase](https://ddlbase.com/)** - Movies / 4K / 3D / Remuxes
 * ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movieparadise-code)
@@ -617,7 +618,6 @@
 * [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [KatMovie4k](https://katworld.net/?type=Katmovie4k) - Movies / TV / 4K
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
-* [DDLBase](https://ddlbase.com/) - Movies / 4K / 3D / Remuxes
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Cinetaro](https://cinetaro.buzz/) - Movies / TV / Anime
