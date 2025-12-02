@@ -48,6 +48,7 @@
 * ⭐ **[Filmex](https://filmex.to/)**, [2](https://fmovies4u.com/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * ⭐ **[Cinezo](https://www.cinezo.net/)** - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [Primeshows](https://www.primeshows.live/) or [Netflex](https://netflex.uk/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
+* [NepoFlix](https://nepoflix.micorp.pro) - Movies / TV /Anime 
 * [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/JeMDzxSbhH)
