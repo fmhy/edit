@@ -134,7 +134,7 @@
 * [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) or [CLI Club](https://cli.club/) - FOSS CLI Apps / Tools
 * [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Wikis
 * [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Wikis
-* [Is It Really FOSS](https://isitreallyfoss.com/projects/⁠) - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
+* [Is It Really FOSS](https://isitreallyfoss.com/⁠) - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
  
 ***
 
