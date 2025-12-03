@@ -25,14 +25,14 @@
 
 ## ▷ CLI Cheat Sheets
 
-* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
-* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner)
-* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
-* [CommandlineFU](https://www.commandlinefu.com/)
-* [Bash Academy](https://guide.bash.academy/)
-* [ss64 Bash](https://ss64.com/bash/)
-* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/)
-* [navi](https://github.com/denisidoro/navi)
+* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) - Searchable Linux command index
+* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated one-liner CLI tools
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI alternatives to GUI tasks
+* [CommandlineFU](https://www.commandlinefu.com/) - Community-driven command snippets
+* [Bash Academy](https://guide.bash.academy/) - Bash scripting guide
+* [ss64 Bash](https://ss64.com/bash/) - Alphabetical command reference
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash one-liner collection
+* [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool
 
 ***
 
@@ -60,16 +60,16 @@
 
 ***
 
-* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index / [Advanced Search](https://distrowatch.com/search.php#advanced)
-* ⭐ **[DistroChooser](https://distrochooser.de/)** - Distro Selection Guide / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
-* [distro.moe](https://distro.moe/) - Find Random Distros
-* [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [ArchiveOS](https://archiveos.org/) - Linux Distro Archive
-* [OS.click](https://os.click/en)
-* [LinuxTracker](https://linuxtracker.org/)
-* [OpenSourceFeed](https://www.opensourcefeed.org/)
-* [Pkgs](https://pkgs.org/) - Linux Packages / [Repology](https://repology.org/)
-* [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm)
+* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro index with news and rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** - Quiz-based distro selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
+* [distro.moe](https://distro.moe/) - Random distro finder
+* [Linux Live Kit](https://www.linux-live.org/) - Create live distros from installed systems
+* [ArchiveOS](https://archiveos.org/) - Archive of inactive open-source OS projects
+* [OS.click](https://os.click/en) - Fast ISO downloads for Windows and Linux
+* [LinuxTracker](https://linuxtracker.org/) - BitTorrent repository for Linux ISOs
+* [OpenSourceFeed](https://www.opensourcefeed.org/) - Gallery of open-source distros and desktops
+* [Pkgs](https://pkgs.org/) - Searchable Linux package database / [Repology](https://repology.org/)
+* [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm) - Detailed distro comparison charts
 
 ***
 
@@ -410,7 +410,9 @@
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
-* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [Joshuto](https://github.com/kamiyaa/joshuto), [Filelight](https://apps.kde.org/en-gb/filelight/), [dut](https://codeberg.org/201984/dut), [gdu](https://github.com/dundee/gdu) or [NCDU](https://dev.yorhel.nl/ncdu) - Terminal File Managers / Disk Usage Analyzers
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, **[ranger](https://ranger.fm)**, **[nnn](https://github.com/jarun/nnn)**, **[clifm](https://github.com/leo-arch/clifm)**, **[fm](https://github.com/mistakenelf/fm)**, **[superfile](https://github.com/yorukot/superfile)**, **[Joshuto](https://github.com/kamiyaa/joshuto)** - Terminal File Managers
+* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
+* ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
 * [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
