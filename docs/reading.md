@@ -62,6 +62,7 @@
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012)
+* [Ebookzy](https://ebookzy.com/) - Classics
 * [⁠By the Fireplace](https://bythefireplace.com/) - Classics
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books

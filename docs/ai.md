@@ -107,6 +107,7 @@
 * [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)
 * [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
+* [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - LLM API Key Proxy
 
 ***
 
@@ -140,7 +141,6 @@
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
-* ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Gemini CLI](https://google-gemini.github.io/gemini-cli/) or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Limits Reset Every 5 Hours 
@@ -148,6 +148,7 @@
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
+* [Windsurf](https://www.windsurf.com/) - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
 * [⁠Qwen Code](https://github.com/QwenLM/qwen-code) - CLI Coding AI / [Docs](https://qwenlm.github.io/qwen-code-docs/en/)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
@@ -254,6 +255,7 @@
 
 * ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
 * [⁠Alpha Arena](https://nof1.ai/) - AI Investing Ability Benchmark 
+* [⁠DesignArena](https://www.designarena.ai/) - AI Design Benchmarks
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
 * [⁠Simple Bench](https://simple-bench.com/) - AI Human Reasoning Benchmarks
@@ -321,6 +323,7 @@
 * [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1 / Seedream 4 / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
 * [PrisimAI](https://prisimai.github.io/PrisimAI/) - Seadream 4 / Nano Banana Pro / GPT Image-1 Mini
+* [⁠Image-Editor](https://image-editor.org/) - Unlimited / Editing / Nano Banana
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [PigenAI](https://pigenai.art/) - Unlimited / Imagen 4 / Qwen
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required

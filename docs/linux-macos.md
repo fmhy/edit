@@ -25,14 +25,14 @@
 
 ## ▷ CLI Cheat Sheets
 
-* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) - Searchable Linux command index
-* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated one-liner CLI tools
-* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI alternatives to GUI tasks
-* [CommandlineFU](https://www.commandlinefu.com/) - Community-driven command snippets
-* [Bash Academy](https://guide.bash.academy/) - Bash scripting guide
-* [ss64 Bash](https://ss64.com/bash/) - Alphabetical command reference
-* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash one-liner collection
-* [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool
+* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) - Searchable Linux Command Index
+* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner CLI Tools
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Alts for GUI Tasks
+* [CommandlineFU](https://www.commandlinefu.com/) - Community-Driven Command Snippets
+* [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
+* [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
+* [navi](https://github.com/denisidoro/navi) - Interactive Cheatsheet Tool
 
 ***
 
@@ -60,16 +60,15 @@
 
 ***
 
-* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro index with news and rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
-* ⭐ **[DistroChooser](https://distrochooser.de/)** - Quiz-based distro selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
-* [distro.moe](https://distro.moe/) - Random distro finder
-* [Linux Live Kit](https://www.linux-live.org/) - Create live distros from installed systems
-* [ArchiveOS](https://archiveos.org/) - Archive of inactive open-source OS projects
-* [OS.click](https://os.click/en) - Fast ISO downloads for Windows and Linux
-* [LinuxTracker](https://linuxtracker.org/) - BitTorrent repository for Linux ISOs
-* [OpenSourceFeed](https://www.opensourcefeed.org/) - Gallery of open-source distros and desktops
-* [Pkgs](https://pkgs.org/) - Searchable Linux package database / [Repology](https://repology.org/)
-* [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm) - Detailed distro comparison charts
+* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index w/ News + Rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** - Quiz-Based Distro Selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
+* [distro.moe](https://distro.moe/) - Random Distro Finder
+* [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
+* [OpenSourceFeed](https://www.opensourcefeed.org/) - Open-Source Distros
+* [OS.click](https://os.click/en) - Fast Distro Downloads
+* [LinuxTracker](https://linuxtracker.org/) - BitTorrent Distro Repo
+* [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm) - Detailed Distro Comparison Charts
+* [ArchiveOS](https://archiveos.org/) - Inactive / Open-Source OS Projects
 
 ***
 
@@ -134,6 +133,7 @@
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
+* [Pkgs](https://pkgs.org/) - Searchable Linux Package Database / [Repology](https://repology.org/)
 * [cheat.sh](https://github.com/chubin/cheat.sh) - App Repos
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
@@ -384,7 +384,7 @@
 
 ## ▷ Server / Selfhosting
 
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8), [iHostIt](https://ihostit.app/) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Glance](https://github.com/glanceapp/glance), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages

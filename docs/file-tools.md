@@ -7,27 +7,15 @@
 # ► File Tools
 
 * ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
-* ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
-* ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photo / Video Files by Date
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
-* [Magika](https://github.com/google/magika) or [TridUI](https://github.com/JMcrafter26/TridUI) - File Type Detection Tools
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [⁠copyparty](https://github.com/9001/copyparty/) - Portable File Server
-* [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
-* [WhatsLink](https://whatslink.info/) - View File Download Metadata
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
-* [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
-* [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
-* [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
-* [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
-* [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
 
@@ -176,6 +164,24 @@
 
 ***
 
+## ▷ File Info / Metadata
+
+* ↪️ **[Image Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+* ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
+* ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
+* ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
+* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
+* [⁠PrivMeta](https://www.privmeta.com/) / [GitHub](https://github.com/DScaife/privmeta/) or [mat2](https://github.com/jvoisin/mat2) / [Web Version](https://0xacab.org/jvoisin/mat2-web) - Remove Metadata from Files
+* [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
+* [WhatsLink](https://whatslink.info/) - View File Download Web Metadata
+* [Magika](https://github.com/google/magika) or [TridUI](https://github.com/JMcrafter26/TridUI) - File Type Detection Tools
+* [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
+* [TagSpaces](https://www.tagspaces.org/) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File Systems
+* [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
+
+***
+
 ## ▷ Formatting / Deletion
 
 * ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - File Deletion CLI
@@ -230,13 +236,13 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[PDF24](https://www.pdf24.org/)**
-* [BentoPDF](https://bentopdf.com/) / [GitHub](https://github.com/alam00000/bentopdf)
-* [⁠PDF4QT](https://jakubmelka.github.io/) / [GitHub](https://github.com/JakubMelka/PDF4QT)
-* [Foxit](https://www.foxit.com/pdf-reader/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
-* [xPDFReader](https://www.xpdfreader.com/)
-* [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
-* [Stirling-PDF](https://www.stirlingpdf.com/) - Signup Required / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+* ⭐ **[PDF24](https://www.pdf24.org/)** - Web-Based
+* [BentoPDF](https://bentopdf.com/) - Web-Based / [GitHub](https://github.com/alam00000/bentopdf)
+* [⁠PDF4QT](https://jakubmelka.github.io/) - Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)
+* [Foxit](https://www.foxit.com/pdf-reader/) - Windows, Linux, Android, iOS, Web-Based / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
+* [xPDFReader](https://www.xpdfreader.com/) - Windows, Mac, Linux
+* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Windows, Linux
+* [Stirling-PDF](https://www.stirlingpdf.com/) - Windows, Mac, Linux / Signup Required / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ***
 
