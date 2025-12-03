@@ -465,7 +465,7 @@
 
 ## ▷ Downloading / Téléchargement
 
-* [WawaCity](https://www.wawacity.irish) - Movies / TV / Check [Telegram](https://t.me/Wawacityofficiel) if Domain Changes
+* [WawaCity](https://www.wawacity.irish/) - Movies / TV / Check [Telegram](https://t.me/Wawacityofficiel) if Domain Changes
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
