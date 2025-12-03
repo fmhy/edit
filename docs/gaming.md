@@ -620,7 +620,7 @@
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
-* [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) - Snake Style Games
+* [Nokia Snake Game](https://nokiasnakegame.org/) / [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) - Snake Style Games
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [⁠LEGO Island Web Port](https://isle.pizza/) - Browser LEGO Island / [GitHub](https://github.com/isledecomp/isle-portable)
