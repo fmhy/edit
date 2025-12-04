@@ -976,6 +976,7 @@
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
+* [Build List](https://buildlist.org/) - On-Demand Online Manufacturers
 
 ***
 
