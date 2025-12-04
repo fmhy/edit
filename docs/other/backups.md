@@ -14,7 +14,6 @@ description: A List of all Backups of FMHY.
 * [Selfhosting Guide](https://fmhy.net/other/selfhosting)
 
 
-***
 
 ## Backup Sites (Unofficial)
 
@@ -26,14 +25,13 @@ description: A List of all Backups of FMHY.
 
 These are trusted community ran instances that are out of our control. They currently match FMHY 1:1, but as we don't own them, they should only be used as backups when necessary.
 
-***
+
 
 ## Reddit Backup
 
 * **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 *  Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md), [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 
-***
 
 ## More Backups
 
@@ -44,7 +42,7 @@ These are trusted community ran instances that are out of our control. They curr
 * [SFW Rentry](https://rentry.co/piracy), [2](https://rentry.org/piracy)
 
 
-***
+
 
 ## Markdown
 
@@ -53,7 +51,6 @@ These are trusted community ran instances that are out of our control. They curr
 * [Markdown Page](https://api.fmhy.net/single-page), [2](https://xtwnunsbzyrrxaiqekyt.supabase.co/functions/v1/single-page-docs), [3](https://fmhyapi.wispy.qzz.io/single-page)
 * [GitHub Source](https://github.com/fmhy/edit)
 
-***
 
 ## Backup Page Backups
 
