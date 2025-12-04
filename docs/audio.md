@@ -394,19 +394,16 @@
 
 ## ▷ Telegram Bots
 
-* [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Deezer / Tidal / Yandex / VK / FLAC / 25 Daily
-* [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
+* [Music_Hunters](https://t.me/MusicsHuntersbot) - Spotify / Apple / Tidal / Deezer / 320kb MP3
+* [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / Soundcloud / VK / 320kb MP3 / FLAC / [Support](https://t.me/DeezerMusicNews)
+* [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)
+* [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify /Apple / YouTube / FLAC / 25 Daily
+* [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kb MP3
+* [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3
+* [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
+* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
 * [GlomaticoBlueMusicBot](https://t.me/GlomaticoBlueMusicBot) - Amazon Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [GlomaticoPinkMusicBot](https://t.me/GlomaticoPinkMusicBot) - Apple Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
-* [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / 320kb MP3 / FLAC
-* [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3
-* [Music_Hunters](https://t.me/MusicsHuntersbot) - Deezer / 320kb MP3
-* [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kb MP3
-* [GetSpotifyBot](https://t.me/GetSpotifyBot) - Spotify / 320kb MP3
-* [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / 128kb MP3
-* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
-* [VK Bot](https://t.me/vkmsaverbot), [⁠VK Music Bot](https://t.me/vkmusic_bot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
-* [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kb MP3
 
 ***
 
