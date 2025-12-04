@@ -43,13 +43,13 @@ description: A List Of Questions And Answers Related To FMHY.
 
 **Q:** Can I donate?
 
-A: We appreciate that people want to support us, but we never have and never will accept donations. We maintain this project because its fun and we want to help others, not make money. 
+**A:** We appreciate that people want to support us, but we never have and never will accept donations. We maintain this project because its fun and we want to help others, not make money. 
 
 ***
 
-Q: When was FMHY created?
+**Q:** When was FMHY created?
 
-A: The original sub was created on [April 29th, 2018](https://i.ibb.co/VJQmQ9t/image.png). 
+**A:** The original sub was created on [April 29th, 2018](https://i.ibb.co/VJQmQ9t/image.png). 
 
 ***
 

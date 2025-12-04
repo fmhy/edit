@@ -167,6 +167,7 @@ export const nav: DefaultTheme.NavItem[] = [
     text: '🌱 Ecosystem',
     items: [
       { text: '🌐 Search', link: '/posts/search' },
+      { text: '❓ FAQs', link: '/other/FAQ' },
       { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
@@ -176,7 +177,6 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '💡 Site Hunting',
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
       },
-      { text: '❓ FAQs', link: '/other/FAQ' },
       {
         text: '😇 SFW FMHY',
         link: 'https://rentry.org/piracy'
