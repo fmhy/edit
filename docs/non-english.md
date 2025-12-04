@@ -44,6 +44,7 @@
 * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime
 * [⁠My Cima](https://my-cima.video/) - Movies / TV
 * [mycima](https://mycinma.com/) - Movies / TV
+* [CimaNow](https://cimanow.cc/home/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [kirmalk](https://ba.kirmalk.com/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
