@@ -7,7 +7,7 @@ description: A List Of Questions And Answers Related To FMHY.
 
 **Q:** Why are there no posts? Is the subreddit dead? :( 
 
-**A:** Posting has always been off to keep the chances of the sub surviving as high as possible. Our main focus is the [**Wiki**](https://fmhy.net), which has grown to include nearly 30k links. It's 100% alive, and gets updated [daily](https://github.com/nbats/FMHYedit/commits/main). For a discussion sub, check out r/Piracy. 
+**A:** Posting has always been off to keep the chances of the sub surviving as high as possible. Our main focus is the [**Wiki**](https://fmhy.net), which has grown to include nearly 30k links. It's 100% alive, and gets updated [daily](https://github.com/nbats/FMHYedit/commits/main). For a discussion sub, check out [r/Piracy](https://www.reddit.com/r/Piracy). 
 
 ***
 
@@ -19,7 +19,7 @@ description: A List Of Questions And Answers Related To FMHY.
 
 **Q:** The site won't load, what should I do?
 
-**A:** If you can't get the site to load, we'd recommend trying some of the methods listed [here](https://rentry.co/7vycxgn2), or try any of the [backups](https://github.com/fmhy/FMHY/wiki/Backups)
+**A:** If you can't get the site to load, we'd recommend trying some of the methods listed [here](https://rentry.co/7vycxgn2), or try any of the [backups](https://fmhy.net/other/backups)
 
 ***
 
