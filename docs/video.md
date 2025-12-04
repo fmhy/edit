@@ -673,6 +673,7 @@
 * [RareDoramas](https://www.raredoramas.com/) - Rare JDrama / 480p
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Fanedit.org](https://fanedit.org/) - Fanedit Community / Sign-Up Required / DM Editors for Downloads
+* [HDEncode](https://hdencode.org/), [DDLBase](https://ddlbase.com/), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
 * [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Download Site Results to IMDb
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 
