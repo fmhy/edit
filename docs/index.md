@@ -10,7 +10,7 @@ hero:
     title: Dec 2025 Updates ❄️
     link: /posts/dec-2025
   image:
-    src: /test.png
+    src: /xmasfmhy.png
     alt: FMHY Icon
   actions:
     - theme: brand
@@ -175,7 +175,7 @@ onMounted(() => {
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/test.png'
+      img.src = '/xmasfmhy.png'
     })
   }
   if (kawaii === 'true') {
