@@ -6,7 +6,7 @@
 
 # ► AI Chatbots
 
-* **Note** - It's **never** a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for collecting or training purposes. If you want privacy, its best to run LLMs locally. If a site does not say that sign-up is required, then you can still use it without logging in, but you will have worse limits and fewer models.
+* **Note** - It's **never** a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for data collection or training purposes. If you want privacy, it's best to run LLMs locally. If a site does not state that sign-up is required, you can still use it without logging in, but you will face stricter limits and have access to fewer models.
 
 ***
 
