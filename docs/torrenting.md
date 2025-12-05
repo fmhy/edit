@@ -122,8 +122,8 @@
 
 ## ▷ Remote Torrenting
 
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
-* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads/ [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB 

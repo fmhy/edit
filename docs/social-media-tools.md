@@ -70,7 +70,7 @@
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* [Equicord](https://equicord.org/) - Discord Client Mod / [Plugins](https://equicord.org/plugins) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord)
+* [Equicord](https://equicord.org/ or [⁠Equibop](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Vesktop](https://vesktop.dev/) - Web Client w/ Vencord Preinstalled / [GitHub](https://github.com/Vencord/Vesktop)
@@ -157,7 +157,7 @@
 # ► Reddit Tools
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
-* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
+* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)

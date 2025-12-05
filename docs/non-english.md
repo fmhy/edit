@@ -23,7 +23,6 @@
 * [⁠My Cima](https://my-cima.video/) - Movies / TV
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
-* [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
 
 ## ▷ Torrenting / التورنت
 

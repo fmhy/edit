@@ -692,7 +692,6 @@
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators
 

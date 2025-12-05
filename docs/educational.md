@@ -128,7 +128,6 @@
 
 * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
-* [Rookie Road](https://www.rookieroad.com/) - Sport Guides
 * [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
@@ -213,6 +212,7 @@
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
 * [Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
+* [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
