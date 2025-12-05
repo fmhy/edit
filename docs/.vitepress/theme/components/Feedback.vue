@@ -145,36 +145,28 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   </template>
   <template v-else>
     <div
-      class="mt-2 p-4 border-2 border-solid bg-brand-50 border-brand-300 dark:bg-brand-950 dark:border-brand-800 rounded-xl col-span-3 transition-colors duration-250"
+      class="mt-2 p-4 border-2 border-solid bg-$vp-c-bg-alt border-$vp-c-divider rounded-xl col-span-3 transition-colors duration-250"
     >
       <div class="flex items-start md:items-center gap-3">
         <div class="pt-1 md:pt-0">
-          <div
-            class="w-10 h-10 rounded-full flex items-center justify-center bg-brand-500 dark:bg-brand-400"
-          >
+          <div class="w-10 h-10 rounded-full flex items-center justify-center bg-$vp-c-brand-3">
             <span
               :class="
                 isCardShown === false
-                  ? `i-lucide:mail w-6 h-6 text-white dark:text-brand-950`
-                  : `i-lucide:mail-x w-6 h-6 text-white dark:text-brand-950`
+                  ? `i-lucide:mail w-6 h-6 text-$vp-c-text-1`
+                  : `i-lucide:mail-x w-6 h-6 text-$vp-c-text-1`
               "
             />
           </div>
         </div>
-        <div
-          class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row"
-        >
+        <div class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row">
           <div class="flex-grow">
-            <div class="font-semibold text-brand-950 dark:text-brand-50">
-              Got feedback?
-            </div>
-            <div class="text-sm text-brand-800 dark:text-brand-100">
-              We'd love to know what you think about this page.
-            </div>
+            <div class="font-semibold text-$vp-c-text-1">Got feedback?</div>
+            <div class="text-sm text-$vp-c-text-2">We'd love to know what you think about this page.</div>
           </div>
           <div>
             <button
-              class="inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-brand-700 border-brand-300 dark:text-brand-100 dark:border-brand-800"
+              class="inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-$vp-c-text-1 border-$vp-c-divider"
               @click="toggleCard()"
             >
               Share Feedback
@@ -199,7 +191,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-              class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+                class="bg-$vp-c-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="handleSubmit(item.value)"
             >
               <span>{{ item.label }}</span>
@@ -240,9 +232,10 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </button>
             <button
               type="submit"
-              class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-brand-100 dark:bg-brand-700 border-brand-800 dark:border-brand-700 disabled:bg-brand-100 dark:disabled:bg-brand-900 hover:border-brand-900 dark:hover:border-brand-800 hover:bg-brand-200 dark:hover:bg-brand-800"
+              class="btn btn-primary"
               :disabled="isDisabled"
               @click="handleSubmit()"
+              :style="isDisabled ? {} : { 'background-color': 'var(--vp-button-brand-bg)', 'border-color': 'var(--vp-button-brand-border)', color: 'var(--vp-button-brand-text)' }"
             >
               Send Feedback 📩
             </button>
@@ -284,14 +277,14 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: var(--vp-c-brand);
-  border-color: var(--vp-c-brand);
+  color: var(--vp-button-brand-text);
+  background-color: var(--vp-button-brand-bg);
+  border-color: var(--vp-button-brand-border);
 }
 
 .btn-primary:hover {
-  background-color: var(--vp-c-brand-darker);
-  border-color: var(--vp-c-brand-darker);
+  background-color: var(--vp-button-brand-hover-bg);
+  border-color: var(--vp-button-brand-hover-border);
 }
 
 .heading {
