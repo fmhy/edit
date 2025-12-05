@@ -209,8 +209,8 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)**, [2](https://everythingmoe.org/#section-novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[⁠NovelFire](https://novelfire.net/)** - Online Reading
-* [NovelCool](https://www.novelcool.com/) - Online Reading
-* [WuxiaClick](https://wuxia.click/) - Online Reading
+* ⭐ **[NovelCool](https://www.novelcool.com/)** - Online Reading
+* ⭐ **[WuxiaClick](https://wuxia.click/)** - Online Reading
 * [Wuxiabox](https://www.wuxiabox.com/) - Online Reading
 * [NovelNext](https://novelnext.com/) - Online Reading
 * [WuxiaSpot](https://www.wuxiaspot.com/) - Online Reading
