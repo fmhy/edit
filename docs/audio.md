@@ -8,7 +8,6 @@
 
 ## ▷ Streaming Apps
 
-* 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** - Streaming App Index
 * 🌐 **[/music streaming/](https://dan.valeena.dev/guides/music-streaming/)**, [2](https://rentry.co/musicstreaming) or [Wiki Comparisons](https://en.wikipedia.org/wiki/Comparison_of_music_streaming_services) - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**

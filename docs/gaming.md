@@ -168,6 +168,7 @@
 * 🌐 **[TheGamingEmporium](https://www.thegamingemporium.com/)** - Game Ports, Decompilations, etc
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
