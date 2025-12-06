@@ -39,7 +39,6 @@ const currentDisplayName = computed(() => {
 
 <template>
   <div>
-    <div class="mb-2 text-sm text-$vp-c-text-1">Theme</div>
     <div class="text-sm text-$vp-c-text-2">
       <span class="font-medium">Theme:</span>
       <span class="ml-1">{{ currentDisplayName }}</span>
