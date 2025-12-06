@@ -1771,10 +1771,9 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.la/)** - Movies / TV / Sub / Dub / 1080p
-* ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p
-* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
-* ⭐ **[Film Makinesi](https://filmmakinesi.sh/)** - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.ws/)** - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p 
+* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Dizipal](https://dizipal1513.com), [2](https://dizipalx54.com) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla40.com/) - Movies / TV / Sub / Dub / 1080p
