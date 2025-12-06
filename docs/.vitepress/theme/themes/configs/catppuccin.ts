@@ -23,23 +23,23 @@ export const catppuccinTheme: Theme = {
   modes: {
     light: {
       brand: {
-        1: '#8b5cf6',
+        1: '#CBA6F6',
         2: '#7c3aed',
-        3: '#5b21b6',
+        3: '#ad82dfff',
         soft: '#a78bfa'
       },
-      bg: '#ffffff',
-      bgAlt: '#f9fafb',
-      bgElv: 'rgba(255, 255, 255, 0.7)',
-      bgMark: 'rgb(232, 232, 232)',
+      bg: '#1F1E2E',
+      bgAlt: '#1E1E29',
+      bgElv: '#1E1E29',
+      bgMark: '#1F1E2E',
       text: {
-        1: '#1f2937',
-        2: '#4b5563',
+        1: '#BEC3DC',
+        2: '#CCD5F3',
         3: '#6b7280'
       },
       button: {
         brand: {
-          bg: '#8b5cf6',
+          bg: '#C5A5F6',
           border: '#a78bfa',
           text: 'rgba(42, 40, 47)',
           hoverBorder: '#a78bfa',
@@ -87,24 +87,25 @@ export const catppuccinTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+        heroNameBackground: '#C5A5F6',
         heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
     dark: {
       brand: {
-        1: '#a78bfa',
-        2: '#8b5cf6',
-        3: '#6d28d9',
-        soft: '#c4b5fd'
+        1: '#CBA6F6',
+        2: '#7c3aed',
+        3: '#ad82dfff',
+        soft: '#a78bfa'
       },
-      bg: 'rgb(26, 26, 26)',
-      bgAlt: 'rgb(23, 23, 23)',
-      bgElv: 'rgba(23, 23, 23, 0.8)',
+      bg: '#1F1E2E',
+      bgAlt: '#1E1E29',
+      bgElv: '#1E1E29',
+      bgMark: '#1F1E2E',
       button: {
         brand: {
-          bg: '#a78bfa',
+          bg: '#C5A5F6',
           border: '#c4b5fd',
           text: 'rgba(42, 40, 47)',
           hoverBorder: '#c4b5fd',
