@@ -33,7 +33,7 @@ Here you'll find some general guidelines for those who would like to start contr
 For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
-- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Note that we have to check sites ourselves, so using a issue, rather than pull request is easier.
 - You can optionally include socials, tools, or any other additional info alongside the entry.
 
 ### Reporting a Site
@@ -71,7 +71,7 @@ Instructions on various ways to edit the wiki and preview changes.
 
 ### GitHub Editor
 
-You can use the build-in web editor in two ways:
+You can use the built-in web editor in two ways:
 
 1. Find the file you want to edit, look for the edit icon (of a pencil) and click on it, then make your changes.
 

@@ -161,23 +161,22 @@ export const nav: DefaultTheme.NavItem[] = [
   { text: '📖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
   {
     text: '💾 Backups',
-    link: 'https://github.com/fmhy/FMHY/wiki/Backups'
+    link: '/other/backups'
   },
   {
     text: '🌱 Ecosystem',
     items: [
       { text: '🌐 Search', link: '/posts/search' },
+      { text: '❓ FAQs', link: '/other/FAQ' },
       { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
-      { text: '🇷 Redlib', link: 'https://redlib.fmhy.net/' },
       { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
       {
         text: '💡 Site Hunting',
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
       },
-      { text: '❓ FAQs', link: 'https://redd.it/xrxen7' },
       {
         text: '😇 SFW FMHY',
         link: 'https://rentry.org/piracy'

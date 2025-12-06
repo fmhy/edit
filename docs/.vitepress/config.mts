@@ -96,7 +96,7 @@ export default defineConfig({
         {
           find: /^.*VPSwitchAppearance\.vue$/,
           replacement: fileURLToPath(
-            new URL('./theme/Appearance.vue', import.meta.url)
+            new URL('./theme/components/ThemeDropdown.vue', import.meta.url)
           )
         }
       ]

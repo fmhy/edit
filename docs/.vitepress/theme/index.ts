@@ -18,6 +18,7 @@ import type { Theme } from 'vitepress'
 import Components from '@fmhy/components'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
+import { useThemeHandler } from './themes/themeHandler'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 
@@ -34,5 +35,7 @@ export default {
     app.component('Post', Post)
     app.component('Feedback', Feedback)
     loadProgress(router)
+    // Initialize theme handler
+    useThemeHandler()
   }
 } satisfies Theme

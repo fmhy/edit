@@ -38,7 +38,7 @@ export const headers: Header = {
   },
   'beginners-guide.md': {
     title: 'Beginners Guide',
-    description: 'A Guide for Beginners to Piracy'
+    description: 'A Guide for Beginners + FAQs'
   },
   'downloading.md': {
     title: 'Downloading',
