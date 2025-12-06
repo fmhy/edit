@@ -1320,7 +1320,7 @@
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
-
+* [The IB Trainer]([https://www.theibtrainer.com/]) - IB Business Management and IB Economics Activity Workbooks, Exam practice, Classroom Notes and Blog
 ***
 
 ## ▷ SAT Testing
