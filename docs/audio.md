@@ -22,7 +22,6 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [PlayTorrio](https://playtorrio.pages.dev/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman707-ux/PlayTorrio)
-* [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [⁠Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player / [Web App](https://sonosano.krshh.com/) / [Discord](https://discord.gg/Np7YYEVPhR)
 
 ***

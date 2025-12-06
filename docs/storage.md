@@ -153,9 +153,8 @@
 * [Shadowmere](https://shadowmere.xyz) - Shadowsocks
 * [FreeSocks](https://freesocks.org/) - Shadowsocks / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Hi!Load VPN](https://t.me/hlvpnbot) - 30GB per month / No Torrenting / [Support](https://t.me/highloadvpn)
-* [sshOcean](https://sshocean.com/), [2](https://sshocean.net/)
+* [sshOcean](https://sshocean.com/)
 * [FreeVPN](https://www.freevpn.us/)
-* [Goodssh](https://www.goodssh.com/)
 * [SSHKit](https://sshkit.com/)
 * [JagoanSSH](https://www.jagoanssh.com/)
 * [fastssh](https://www.fastssh.com/)
@@ -187,7 +186,7 @@
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
 
-[Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [grep.app](https://grep.app/), [git.news](https://git.news/)
+[Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [grep.app](https://grep.app/), [git.news](https://git.news/)
 
 ***
 
@@ -215,7 +214,7 @@
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Nippon Colors](https://nipponcolors.com/) - Traditional Japanese Color Meanings
 
-[Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict), [rtk-search](https://hochanh.github.io/rtk/)
+[Jotoba](https://jotoba.de/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict), [rtk-search](https://hochanh.github.io/rtk/)
 
 ### Kanji Learning
 
@@ -229,7 +228,6 @@
 
 * <https://librarygenesis.net/> - site list
 * <https://libgen.li/> - clone
-* <https://libgen.gs/> - clone
 * <https://libgen.la/> - clone
 * <https://rentry.co/m2hkqhwb> - Differences between the mirrors
 
@@ -472,4 +470,4 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
