@@ -12,7 +12,7 @@
 
 * 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
 * [eMule Plus](https://www.emule-project.com/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
@@ -42,9 +42,9 @@
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
 * [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Sign-Up Required
 * [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
-* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
+* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
 * [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
-* [Merlin Warez](https://merlinwz.com/) -  Audio / Books / Audiobooks / Comics / Magazines
+* [Merlin Warez](https://merlinwz.com/) - Audio / Books / Audiobooks / Comics / Magazines
 * [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
 * [WarezLoad](https://warezload.net/index.php) - Audio / Books
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
@@ -61,9 +61,7 @@
 ***
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
-* ⭐ **[FilePursuit](https://filepursuit.com)** / [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)**
-* [Meawfy](https://meawfy.com/) - Mega, GoFile and MediaFire Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [Linktury](https://www.ddlspot.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
@@ -94,13 +92,13 @@
 
 # ► Software Sites
 
-* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Sandboxie](https://rentry.co/sandboxie-guide)** to prevent system compromise.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Sandboxie](https://claraiscute.neocities.org/Guides/sandboxie-guide/)** to prevent system compromise.
 
 ***
 
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)**, [2](https://rentry.org/adobealt) - Adobe Software Alternative Index
 * ↪️ **[Adobe Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
-* ⭐ **[Virgil Software Search](https://virgil.samidy.com/software-search/)** / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
+* ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
@@ -109,6 +107,7 @@
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
 * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [⁠Softsaz](https://softsaz.ir/category/software/) - Design Software / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr) - Adobe Plugins
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels
@@ -120,7 +119,7 @@
 
 ## ▷ FOSS Sites
 
-* 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
+* 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [⁠definitive-opensource](https://github.com/mustbeperfect/definitive-opensource), [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * [SourceForge](https://sourceforge.net/) - FOSS Repositories
 * [OSSSoftware](https://osssoftware.org/) - FOSS Directory
@@ -153,7 +152,7 @@
 * [FilePuma](https://www.filepuma.com/) - Freeware Directory
 * [FileEagle](https://www.fileeagle.com/) - Freeware Directory
 * [LO4D](https://www.lo4d.com/) - Freeware Directory
-* [SoftwareOK](http://www.softwareok.com/) - Freeware Directory
+* [SoftwareOK](https://www.softwareok.com/) - Freeware Directory
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Directory
 * [Uwe Sieber](https://www.uwe-sieber.de/english.html) - Freeware Directory
 * [Software Informer](https://software.informer.com/) - Freeware Directory
@@ -187,10 +186,9 @@
 
 # ► Usenet
 
-* 🌐 **[UsenetTools](http://www.usenettools.net/)**
+* 🌐 **[Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders)**
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/) / [6](https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130)
 * [r/usenet](https://reddit.com/r/usenet)
-* [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) / [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Usenet Uploaders
 
 ***
 
@@ -204,7 +202,6 @@
 * [Orion](https://orionoid.com/)
 * [binsearch](https://binsearch.info/)
 * [NZB King](https://nzbking.com/)
-* [abNZB](https://www.abnzb.com/)
 * [NZB Index](https://www.nzbindex.com/), [2](https://www.nzbindex.nl/)
 * [Newznab](https://www.newznab.com/)
 * [NZBStars](https://nzbstars.com/)
@@ -222,10 +219,8 @@
 
 * 🌐 **[r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
-* 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
+* 🌐 **[Usenet Provider Deals](https://usenet.rexum.space/deals)**
 * [Usenet Providers Map](https://usenet.rexum.space/tree)
-* [usenetmax](https://www.usenetmax.com/)
-* [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
 
 ***
@@ -236,16 +231,14 @@
 * ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send NZBs to Client
 * [NZBGet](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
-* [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet Telegram Bot
 
 ***
 
-# ► Debrid
+# ► Debrid / Leeches
 
-* 🌐 **[Debrid Services Comparison](https://debridcompare.pages.dev/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
-* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / Sign-Up Required / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
-* ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid Debrid Service / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* ⭐ **[HDEncode](https://hdencode.org/)**, [DDLBase](https://ddlbase.com/), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires Debrid
+* 🌐 **[Debrid Services Comparison](https://debridcompare.xyz)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
+* ⭐ **[TorBox](https://torbox.app/)** - Paid / Sign-Up Required / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
+* ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid  / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 

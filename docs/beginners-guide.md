@@ -14,9 +14,19 @@ Piracy sites usually contain ads, some of which can be harmful, often leading to
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns.
 
-For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** / [Easy Setup](https://wispydocs.pages.dev/lg-tv-homebrew/). Note that uBO works on mobile browsers like Firefox / Brave too.
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) / [Guide](https://ios.cfw.guide/sideloading-apps/) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** / [Easy Setup](https://wispydocs.pages.dev/revanced-obtainium/). Note that uBO works on mobile browsers like Firefox / Brave too.
 
 !!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
+
+***
+
+### Antivirus
+
+> How can I safely scan files, and determine if detections are false positives?
+
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://claraiscute.neocities.org/Guides/vtguide)** / [2](https://claraiscute.pages.dev/Guides/vtguide), or send it to us in Discord and we'll take a look for you.
+
+!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
 ***
 
@@ -28,7 +38,7 @@ We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/interne
 
 For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
-For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html).
+For iOS, we recommend **[Orion](https://kagi.com/orion/)**, **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
@@ -46,11 +56,11 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Movies / Shows
 
-* **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
+* **Streaming: [Cineby](https://www.cineby.gd/) / [P-Stream](https://pstream.mov/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
-* **Drama Streaming: [DramaGo](https://dramago.me/) / [DramaCool](https://dramacool.com.tr/)**
+* **Drama Streaming: [DramaCool](https://dramacool.com.tr/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
@@ -59,14 +69,14 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 * **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
-* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
 ***
 
 ### Music
 
-* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX)**
+* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [DAB Music Player](https://dab.yeet.su/)**
 * **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [ReVanced Manager](https://revanced.app/) (Android) / [SpotC++](https://spotc.yodaluca.dev/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
@@ -76,7 +86,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 ### Gaming
 
 * **Download / Torrent: [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYB64#myrient)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [CrocDB](https://crocdb.net/) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYB64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
@@ -89,18 +99,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 * **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
-* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) / [Readera](https://readera.org/)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
-
-***
-
-### Antivirus
-
-> How can I safely scan files, and determine if detections are false positives?
-
-Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
-
-!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
 ***
 
@@ -122,7 +122,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
 
 * **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 * **Software Piracy: [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**

@@ -7,10 +7,10 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Oct 2025 Updates 🎃
-    link: /posts/oct-2025
+    title: Dec 2025 Updates ❄️
+    link: /posts/dec-2025
   image:
-    src: /test.png
+    src: /xmasfmhy.png
     alt: FMHY Icon
   actions:
     - theme: brand
@@ -153,7 +153,7 @@ features:
       d="M 7 17h.01"/><path d="m11 8 2.3-2.3a2.4 2.4 0 0 1 3.404.004L18.6
       7.6a2.4 2.4 0 0 1 .026 3.434L9.9 19.8"/><title>Miscellaneous</title></svg>
     link: /misc
-    details: Content too niche to be included elsewhere.
+    details: Various topics like food, travel, news, shopping, fun sites and more!
 ---
 
 <script setup>
@@ -175,7 +175,7 @@ onMounted(() => {
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/test.png'
+      img.src = '/xmasfmhy.png'
     })
   }
   if (kawaii === 'true') {

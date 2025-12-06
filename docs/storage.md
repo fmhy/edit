@@ -10,27 +10,7 @@
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
-[PostSpark](https://postspark.app/), [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [minimalmockups](https://www.minimalmockups.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
-
-***
-
-## Browser Startpages
-
-* 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
-* 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
-* ⭐ **[MONKNOW](https://www.monknow.com/)**
-
-[FMHY Startpage](https://fmhy.net/startpage), [r/startpages](https://www.reddit.com/r/startpages/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage), [Combobox](https://combobox.me)
-
-### Customizable New Tab Page
-
-* ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* ⭐ **[Mue](https://muetab.com/)** - Customizable New Tab / [GitHub](https://github.com/mue/mue)
-* ⭐ **[Bonjourr](https://bonjourr.fr/)** - Minimalist Startpage / [GitHub](https://github.com/victrme/Bonjourr)
-* [Renewed Tab](https://renewedtab.com/) - Customizable New Tab / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
-
-[mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
+[PostSpark](https://postspark.app/), [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [minimalmockups](https://www.minimalmockups.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
 
 ***
 
@@ -72,7 +52,7 @@
 * [Cascii](https://cascii.app/) / [GitHub](https://github.com/casparwylie/cascii-core), [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.com/) - Create ASCII Diagrams
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images
 
-[DGM](https://dgm.sh/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com)
+[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com)
 
 ***
 
@@ -107,6 +87,40 @@
 
 ***
 
+## Dynamic DNS Services / Subdomains
+
+* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**
+* ⭐ **[deSEC](https://desec.io/)**
+
+[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
+
+### Subdomains Services
+
+[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://thedev.id/), [GetFreeDomain](https://www.getfreedomain.name/)
+
+***
+
+## EmulatorJS / NeptunJS
+
+* **Note** - These serve as frontends for the EmulatorJS + NeptunJS emulator APIs.
+
+***
+
+* [PlayRetroGames](https://playretrogames.net/) - Retro Consoles / EmulatorJS / [Discord](https://discord.gg/qw9caq2qEg)
+* [RetroGames.cc](https://www.retrogames.cc/) - Retro Consoles / EmulatorJS
+* [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
+* [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS
+* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
+* [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
+* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
+* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator / EmulatorJS
+* [PlayRetroGames](https://www.playretrogames.com/) - Retro Consoles / NeptunJS
+* [PlayEmulator](https://playemulator.online/) - Retro Consoles / NeptunJS
+* [8bbit](https://www.8bbit.com/) - NES Browser Emulator / NeptunJS
+* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator / NeptunJS
+
+***
+
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
@@ -119,7 +133,6 @@
 * [AdGuard](https://adguard-dns.io/en/public-dns.html)
 * [DNS for Family](https://dnsforfamily.com/)
 * [Hurricane Electric](https://dns.he.net/)
-* [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)
 
@@ -149,6 +162,8 @@
 * [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
+* [ProxyBot](https://t.me/vamproxy_bot) - Telegram Proxy Bot
+* [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Shadowsocks Bots
 
 ***
 
@@ -212,11 +227,11 @@
 
 ## LibGen Mirrors
 
-* https://librarygenesis.net/ - site list
-* https://libgen.li/ - clone
-* https://libgen.gs/ - clone
-* https://libgen.la/ - clone
-* https://rentry.co/m2hkqhwb - Differences between the mirrors
+* <https://librarygenesis.net/> - site list
+* <https://libgen.li/> - clone
+* <https://libgen.gs/> - clone
+* <https://libgen.la/> - clone
+* <https://rentry.co/m2hkqhwb> - Differences between the mirrors
 
 ***
 
@@ -236,6 +251,7 @@
 
 ## Manga Readers
 
+* ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
 * ⭐ **[Suwayomi](https://github.com/Suwayomi)**
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Suwayomi-Server)
 * ⭐ **[Houdoku](https://houdoku.org/)** / [GitHub](https://github.com/xgi/houdoku)
@@ -260,7 +276,7 @@
 
 ### MyAnimeList Tools
 
-[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
+[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Stats](https://anime.plus/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 
 ### AniList Tools
 
@@ -275,10 +291,10 @@
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * [ModBay](https://modbay.org/) - Bedrock Edition Content / [Discord](https://discord.com/invite/DpNJ5fApJM)
-* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes)
-* [Planet Minecraft](https://www.planetminecraft.com/)
-* [MC Archive](https://mcarchive.net/) - Old Mods
-* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
+* [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
+* [MC Archive](https://mcarchive.net/) - Old Mods / [Discord](https://discord.com/invite/WuexGpP)
+* [FiberMC](https://www.fibermc.com/) - Fabric Mods Index / [Discord](https://discord.com/invite/dwh9y7D)
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
@@ -336,7 +352,7 @@
 
 ## Poll Sites
 
-[PollCode](https://pollcode.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [mobpoll](https://quick.mobpoll.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [matepoll](https://www.matepoll.com/index.html), [typeform](https://typeform.com/examples/polls/)
+[PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [typeform](https://typeform.com/examples/polls/)
 
 ### Live Polling
 
@@ -363,7 +379,13 @@
 
 * ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list)
+[Free-Proxy-List](https://free-proxy-list.net/), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [Free-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
+
+***
+
+## Self-Hosted Wiki Alts
+
+[WikiDocs](https://www.wikidocs.app/) / [GitHub](https://github.com/Zavy86/WikiDocs), [Media Wiki](https://www.mediawiki.org/) / [GitHub](https://github.com/Wikia/mediawiki), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki) / [GitHub](https://github.com/dokuwiki/dokuwiki), [Archivy](https://github.com/archivy/archivy/), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/), [Fandom](https://www.fandom.com/)
 
 ***
 
@@ -372,11 +394,11 @@
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
-* ⭐ **[sms24](https://www.sms24.me/)**
+* ⭐ **[sms24](https://www.sms24.me/)**, [2](https://receive-sms.com/)
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**
 
-[TemporaryNumber](https://temporarynumber.com/), [Yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/), [SMS Activate](https://sms-activate.io/freeNumbers), [smspinverify](https://smspinverify.com/)
+[TemporaryNumber](https://temporarynumber.com/), [Yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/), [SMS Activate](https://sms-activate.io/freeNumbers), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification)
 
 ***
 
@@ -401,7 +423,7 @@
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/) / [Premium Unlock](https://github.com/Kyutefox/Iconify), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/)
+[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [Iconbuddy](https://iconbuddy.com/), [Noun Project](https://thenounproject.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/) / [Premium Unlock](https://github.com/Kyutefox/Iconify), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Teenyicons](https://teenyicons.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/)
 
 ***
 
@@ -409,7 +431,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Firefox
 
-[OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
+[OneTab](https://www.one-tab.com/), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
 ***
 
@@ -450,4 +472,4 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.net/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [Download Online Tutorials Free](https://www.howtofree.org/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert)

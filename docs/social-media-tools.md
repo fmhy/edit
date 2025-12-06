@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [canine.tools](https://canine.tools/services/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
@@ -14,6 +14,7 @@
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/browser_extension), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Proxitok](https://github.com/pablouser1/ProxiTok), [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends
+* [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
@@ -31,7 +32,7 @@
 ***
 
 * ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, **[embeds.video](https://embeds.video/)**, [stolen.shoes](https://stolen.shoes/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
-* ⭐ **[embedez](https://embedez.com/)** - Social Link Embedder / [X](https://twitter.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp)
+* ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Stoat](https://stoat.chat/)** - Discord Alternative / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) 
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openasar) / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
@@ -46,16 +47,16 @@
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
-* [Discord Lookup](https://discord.id/) or [Toolscord](https://toolscord.com/) - Look up a Discord User or Bot ID
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews)
-* [GiveMeBadge](https://givemebadge.alexflipnote.dev/) -  Unlock Discord Dev Badges
+* [GiveMeBadge](https://givemebadge.alexflipnote.dev/) - Unlock Discord Dev Badges
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
 * [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
+* [InstagramEmbed](https://www.vxinstagram.com/) - Fix Instagram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/) or [discord-timestamps](https://r.3v.fi/discord-timestamps/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -69,9 +70,10 @@
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+* [Equicord](https://equicord.org/ or [⁠Equibop](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
-* [Vesktop](https://github.com/Vencord/Vesktop) - Web Client w/ Vencord Preinstalled
+* [Vesktop](https://vesktop.dev/) - Web Client w/ Vencord Preinstalled / [GitHub](https://github.com/Vencord/Vesktop)
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
 * [Dorion](https://spikehd.github.io/projects/dorion/) - Lightweight Discord Client / [GitHub](https://github.com/SpikeHD/Dorion)
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
@@ -89,7 +91,6 @@
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
 * [Auto Creavite](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
-* [Discord Decorations](https://discord-decorations.vercel.app/) - Free Discord Avatar Decorations
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Discord Avatar Creator
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
@@ -147,7 +148,6 @@
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
 * [Discord Bots](https://discord.bots.gg/) - Bot Index
 * [Discord Services](https://discordservices.net/) - Bot Index
-* [DiscordBots](https://discordbots.co/) - Bot Index
 * [Discord Bot List](https://discordbotlist.com/) - Bot Index
 * [Botlist.me](https://botlist.me/) - Bot Index
 * [Void Bots](https://voidbots.net/) - Bot Index
@@ -157,8 +157,8 @@
 # ► Reddit Tools
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
-* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://redlib.fmhy.net)** / [Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
+* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
+* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -168,7 +168,6 @@
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [⁠SubHarbor](https://subharbor.com/) - Subreddit Backup Pages
-* [SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
@@ -176,7 +175,6 @@
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
-* [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
 * [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
 
 ***
@@ -207,13 +205,12 @@
 
 ## ▷ Reddit Search
 
-* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search Engines
 * [Reveddit](https://www.reveddit.com/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted Reddit Posts / Comments
-* [New PullPush](https://ihsoyct.github.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
+* [New PullPush](https://ihsoyct.github.io/), [Reddit Search](https://samac.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
-* [redarcs](https://the-eye.eu/redarcs/) or [Rareddit](https://www.rareddit.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
+* [redarcs](https://the-eye.eu/redarcs/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
@@ -239,7 +236,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSEs
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
@@ -271,7 +268,7 @@
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
-* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - Google Drive Upload Bots
+* [GdriveXbot](https://t.me/TheGdriveXBot) or [google-drive-telegram-bot](https://github.com/viperadnan-git/) - Google Drive Upload Bots
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
@@ -283,7 +280,6 @@
 ## ▷ Telegram Bots
 
 * 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) or [borodutch.eth](https://borodutch.com/) - Telegram Bots Indexes
-* [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
 * [Searchee Bot](https://t.me/SearcheeBot) - Telegram Channel Search Bot
 * [Rose](https://t.me/MissRose_bot) or [GroupHelpBot](https://t.me/GroupHelpBot) - Telegram Group Managers
 * [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
@@ -296,7 +292,6 @@
 * [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bots
 * [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
-* [ProxyBot](https://t.me/vamproxy_bot), [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Proxy Bots
 * [r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
 
 ***
@@ -331,8 +326,8 @@
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
-* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** -  Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
-* [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [YouTube Tweaks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#youtube-tweaks) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#enhancer-for-yt-note) - YouTube Enhancement Extensions
+* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
+* [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [YouTube Tweaks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#youtube-tweaks) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Fast Forward YT Shorts](https://greasyfork.org/en/scripts/466438) - Add Seek Hotkeys to Shorts
@@ -354,16 +349,17 @@
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Local YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
-* ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialio](https://materialio.us/) - YouTube Frontends / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
+* ⭐ **[Invidious](https://invidious.io/)**, [Invuedious](https://github.com/bocchilorenzo/invuedious) or [Materialious](https://materialio.us/) - YouTube Frontend / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui)
 * ⭐ **[GrayJay](https://grayjay.app/desktop/)** - Combines YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
-* [Piped](https://piped.video/), [2](https://piped.kavin.rocks/), [3](https://piped-material.১.net/) - YouTube Frontend / Sign-Up Required / [GitHub](https://github.com/TeamPiped/Piped)
+* [Piped](https://piped.private.coffee/) - YouTube Frontend / Sign-Up Required / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
-* [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
+* [YouT-ube](https://www.yout-ube.com/) or [⁠MUI](https://muitube.com/) - Use YouTube Full Window Player
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
+* [VacuumTube](https://github.com/shy1132/VacuumTube) - Console Version of YouTube on Desktop / Works for Steam Deck, HTPCs, etc
 
 ***
 
@@ -412,6 +408,7 @@
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
+* [⁠YTDown](https://ytdown.io/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online / [Subreddit](https://www.reddit.com/r/cnvmp3)
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
@@ -432,9 +429,9 @@
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
-* [YT Comment Viewer](https://commentviewer.com/), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
+* [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [IMG_0001](https://walzr.com/IMG_0001) or [Random Video](https://random-video.com/) - Find Random YouTube Videos
+* [IMG_0001](https://walzr.com/IMG_0001), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random YouTube Videos
 * [YTBin](https://rentry.co/ytbin) / [Image](https://i.imgur.com/h2A19Pd.png), [2](https://i.ibb.co/pv38kCj6/GTw-ILYb-XAAADWa-Q.png) / [Video](https://youtu.be/zYmkOInF6Us), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
 
@@ -577,7 +574,7 @@
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
 * [FB.Zone](https://fb.zone/) - Color Themes for Facebook
-* [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
+* [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tlorien/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
@@ -608,9 +605,8 @@
 
 # ► Blogging Tools
 
-* ⭐ **[Bear Blog](https://bearblog.dev/)**, **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
 * [Notepin](https://notepin.co/) - Anonymous Blogging Platform
@@ -689,7 +685,6 @@
 * ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
 * [Quiblr](https://quiblr.com/) - Lemmy Instance Browser / [GitHub](https://github.com/Technicolor-Dreamcoat/Quiblr)
-* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 
 ***
@@ -719,6 +714,7 @@
 
 * ⭐ **[4chan XT](https://github.com/TuxedoTako/4chan-xt)**, [4chan X](https://www.4chan-x.net/), [SpookyX](https://github.com/Fiddlekins/SpookyX) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
+* [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Mobile Apps
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats

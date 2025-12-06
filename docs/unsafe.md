@@ -9,16 +9,16 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ***
 
 * 🌐 **[Untrusted Sites](https://rentry.org/pgames#untrusted-sites)** / **[Uploaders](https://rentry.org/pgames#untrusted-uploaders)** - More Complete Lists
-* 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
+* 🌐 **[Fake FitGirl Sites](https://claraiscute.neocities.org/Guides/FakeFitgirlwebsites/)**, [2](https://claraiscute.pages.dev/Guides/FakeFitgirlwebsites/)
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
 * BBRepacks - Caught with malware
-* Seyter / Qoob - Caught with malware, tried to [switch names](https://rentry.co/qoobrepacker)
+* Seyter / Qoob - Caught with malware, tried to [switch names](https://claraiscute.neocities.org/Announcements/qoob/), [2](https://claraiscute.pages.dev/Announcements/qoob/)
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
 * IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting [demoted on 1337x](https://i.imgur.com/MwAYARu.png) / [2](https://i.ibb.co/39WDrb0m/image.png) / [3](https://www.reddit.com/r/PiratedGames/comments/muc5wz/comment/gv4wfqq/) for malware
-* GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
+* GameFabrique - IGG uploads + [adware installers](https://claraiscute.neocities.org/Announcements/gamefabrique_adware), [2](https://claraiscute.pages.dev/Announcements/gamefabrique_adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 * game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
 
@@ -34,12 +34,12 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
 * AliTPB / AliPak / b4tman - Caught with malware multiple times
-* FileCR - Caught with malware [multiple times](https://pastebin.com/ky5KMGz2)
+* FileCR - Caught with malware [multiple times](https://ibb.co/FkZKZmXS) + [unsafe extension](https://gist.github.com/Th3w33knd/06b15b0df1b08ab371c392cc75be4f53)
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
 * CrackingCity - Caught with [malware](https://tria.ge/241021-kfvhhsydpl/behavioral1)
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
-* haxNode - Caught with [malware](https://claraiscute.github.io/Guides/scurvy_malware/) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
+* haxNode - Caught with scurvy malware / [vt](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
 * 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw)
 * MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl)
@@ -79,7 +79,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ### Software / Apps
 
 * Downloadly (video downloader) - Crypto miner
-* Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://stellular.net/noopera) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * McAfee - Preinstalled Bloatware
 * Avast - Known for selling user data
 * AVG - Owned by Avast
@@ -91,8 +90,9 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
-* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.github.io/Guides/gshade_notice/)
+* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.neocities.org/Announcements/gshade_notice/), [2](https://claraiscute.pages.dev/Announcements/gshade_notice/)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
+* 360 Total Security - Apps give [constant popups](https://en.wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
 
 ***
