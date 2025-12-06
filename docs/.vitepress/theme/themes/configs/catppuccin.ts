@@ -33,8 +33,8 @@ export const catppuccinTheme: Theme = {
       bgElv: '#1E1E29',
       bgMark: '#1F1E2E',
       text: {
-        1: '#1f2937',
-        2: '#4b5563',
+        1: '#BEC3DC',
+        2: '#CCD5F3',
         3: '#6b7280'
       },
       button: {
@@ -99,9 +99,10 @@ export const catppuccinTheme: Theme = {
         3: '#ad82dfff',
         soft: '#a78bfa'
       },
-      bg: 'rgb(26, 26, 26)',
-      bgAlt: 'rgb(23, 23, 23)',
-      bgElv: 'rgba(23, 23, 23, 0.8)',
+      bg: '#1F1E2E',
+      bgAlt: '#1E1E29',
+      bgElv: '#1E1E29',
+      bgMark: '#1F1E2E',
       button: {
         brand: {
           bg: '#C5A5F6',
