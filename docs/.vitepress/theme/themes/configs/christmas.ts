@@ -28,14 +28,14 @@ export const christmasTheme: Theme = {
         3: '#155C2F',
         soft: '#a200ffff'
       },
-      bg: '#ffffffff',
-      bgAlt: '#f9fafb',
-      bgElv: 'rgba(255, 255, 255, 0.7)',
+      bg: '#f8fafc',
+      bgAlt: '#eef2f5',
+      bgElv: '#eef2f5',
       bgMark: 'rgb(232, 232, 232)',
       text: {
         1: '#353638ff',
-        2: '#4b5563',
-        3: '#DEDDD4'
+        2: '#334155',
+        3: '#6b7280'
       },
       button: {
         brand: {
@@ -68,19 +68,19 @@ export const christmasTheme: Theme = {
           border: '#447A61',
           text: '#2D6A58',
           textDeep: '#166534'
-          },
-          warning: {
-            bg: '#FCEFC3',
-            border: '#9A8034',
-            text: '#9C701B',
-            textDeep: '#92400e'
-          },
-          danger: {
-            bg: '#FBE1E2',
-            border: '#B3565E',
-            text: '#912239',
-            textDeep: '#991b1b'
-          }
+        },
+        warning: {
+          bg: '#FCEFC3',
+          border: '#9A8034',
+          text: '#9C701B',
+          textDeep: '#92400e'
+        },
+        danger: {
+          bg: '#FBE1E2',
+          border: '#B3565E',
+          text: '#912239',
+          textDeep: '#991b1b'
+        }
       },
       selection: {
         bg: '#bfdbfe'
