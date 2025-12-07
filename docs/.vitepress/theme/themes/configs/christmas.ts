@@ -33,9 +33,9 @@ export const christmasTheme: Theme = {
       bgElv: 'rgba(255, 255, 255, 0.7)',
       bgMark: 'rgb(232, 232, 232)',
       text: {
-        1: '#DEDDD4',
+        1: '#353638ff',
         2: '#4b5563',
-        3: '#353638ff'
+        3: '#DEDDD4'
       },
       button: {
         brand: {
