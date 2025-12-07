@@ -23,18 +23,18 @@ export const catppuccinTheme: Theme = {
   modes: {
     light: {
       brand: {
-        1: '#CBA6F6',
+        1: '#9345ed',
         2: '#7c3aed',
         3: '#ad82dfff',
         soft: '#a78bfa'
       },
-      bg: '#1F1E2E',
-      bgAlt: '#1E1E29',
-      bgElv: '#1E1E29',
+      bg: '#f8fafc',
+      bgAlt: '#eef2f5',
+      bgElv: '#eef2f5',
       bgMark: '#1F1E2E',
       text: {
-        1: '#BEC3DC',
-        2: '#CCD5F3',
+        1: '#353638ff',
+        2: '#334155',
         3: '#6b7280'
       },
       button: {
