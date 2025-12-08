@@ -99,6 +99,11 @@ export class ThemeHandler {
     if (mode === 'dark') {
       root.classList.add('dark')
     }
+
+    // Remove amoled class if current mode is not 'dark'
+    if (mode !== 'dark') {
+      root.classList.remove('amoled')
+    }
   }
 
   private applyCSSVariables(colors: ModeColors, theme: Theme) {
