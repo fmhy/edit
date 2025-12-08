@@ -40,7 +40,7 @@ export class ThemeHandler {
     // Load saved preferences
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
-    const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
+    const savedAmoledPref = localStorage.getItem(STORAGE_KEY_AMOLED)
 
     // Set theme
     if (themeRegistry[savedTheme]) {
@@ -49,7 +49,7 @@ export class ThemeHandler {
     }
 
     // Set amoled preference
-    this.amoledEnabled.value = savedAmoled || true
+    this.amoledEnabled.value = savedAmoledPref === null ? true : savedAmoledPref === 'true'
 
     // Set mode
     if (savedMode) {
