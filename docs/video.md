@@ -301,11 +301,11 @@
 
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/drama)**, [2](https://everythingmoe.org/section/drama) - Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / [Discord](https://discord.com/invite/yY2P3DQR8S)
-* ⭐ **[Dramacool](https://dramacool.com.tr/)** - TV / Movies
+* ⭐ **[Dramacool](https://dramacoolt.com.in/)** - TV / Movies
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [kisskh](https://kisskh.ovh/), [2](https://kisskh.run/), [3](https://kissasian.com.lv/), [4](https://kisskh.id/) - TV / Movies
 * [Dramahood](https://dramahood.top/) - TV / Movies
-* [Asiaflix](https://asiaflix.net/) - TV / Movies / [Subreddit](https://www.reddit.com/r/Asiaflix/) / [Telegram](https://t.me/asiaflixapp) / [Discord](https://discord.com/invite/JTxEVkZWhc)
+* [Asiaflix](https://asiaflix.net/), [2](https://asiaflix.in/) - TV / Movies / [Subreddit](https://www.reddit.com/r/Asiaflix/) / [Telegram](https://t.me/asiaflixapp) / [Discord](https://discord.com/invite/JTxEVkZWhc)
 * [Rive](https://rivestream.org/kdrama) - Korean Drama / TV / Movies / [Discord](https://discord.com/invite/6xJmJja8fV)
 * [Vidbox](https://vidbox.cc/asian-drama) - TV / Movies / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
