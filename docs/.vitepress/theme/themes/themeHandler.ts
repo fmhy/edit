@@ -49,7 +49,7 @@ export class ThemeHandler {
     }
 
     // Set amoled preference
-    this.amoledEnabled.value = savedAmoled || true
+    this.amoledEnabled.value = savedAmoled || false
 
     // Set mode
     if (savedMode) {
@@ -57,6 +57,11 @@ export class ThemeHandler {
     } else {
       // Detect system preference for initial mode
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+      this.state.value.currentMode = prefersDark ? 'dark' : 'light'
+    }
+    
+    // if the saved mode is not 'dark' and the user refreshes the page, set it to the system preference
+    if (this.state.value.currentMode !== 'dark' && savedMode !== 'dark') {
       this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
 
