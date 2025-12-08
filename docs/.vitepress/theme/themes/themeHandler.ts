@@ -49,7 +49,7 @@ export class ThemeHandler {
     }
 
     // Set amoled preference
-    this.amoledEnabled.value = savedAmoled || false
+    this.amoledEnabled.value = savedAmoled || true
 
     // Set mode
     if (savedMode) {
