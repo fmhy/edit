@@ -35,7 +35,7 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
 
-* *Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows.*
+* *"Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows."*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
@@ -59,7 +59,7 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 
-* *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
+* *"I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!"*
 
 * *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
 
