@@ -60,10 +60,6 @@ export class ThemeHandler {
       this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
     
-    // if the saved mode is not 'dark' and the user refreshes the page, set it to the system preference
-    if (this.state.value.currentMode !== 'dark' && savedMode !== 'dark') {
-      this.state.value.currentMode = prefersDark ? 'dark' : 'light'
-    }
 
     this.applyTheme()
 
