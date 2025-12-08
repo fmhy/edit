@@ -172,6 +172,7 @@
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List
 * [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
 * [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
+* [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
