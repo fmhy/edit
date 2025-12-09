@@ -65,10 +65,15 @@ export class ThemeHandler {
 
     // Listen for system theme changes (only if user hasn't set a preference)
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-      if (!localStorage.getItem(STORAGE_KEY_MODE)) {
-        this.state.value.currentMode = e.matches ? 'dark' : 'light'
-        this.applyTheme()
-      }
+      setTimeout(() => { 
+        if (!localStorage.getItem(STORAGE_KEY_MODE)) {
+          this.state.value.currentMode = e.matches ? 'dark' : 'light'
+          this.applyTheme()
+        } 
+		else {
+          this.applyTheme()
+        }
+      }, 10)
     })
   }
 
@@ -380,7 +385,7 @@ export function useTheme() {
 
   onMounted(() => {
     // Ensure theme is applied on mount
-    handler.setMode(handler.getMode())
+    handler.applyTheme()
   })
 
   return {
