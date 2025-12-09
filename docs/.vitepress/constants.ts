@@ -158,6 +158,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
+  { text: '📑 Changelog', link: 'https://changes.fmhy.bid/' },
   { text: '📖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
   {
     text: '💾 Backups',

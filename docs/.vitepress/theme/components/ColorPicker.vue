@@ -117,8 +117,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: `-webkit-linear-gradient(120deg, ${colorSet[400]} 30%, ${colorSet[500]})`,
-          heroImageBackground: `linear-gradient(-45deg, ${colorSet[400]} 50%, ${colorSet[500]} 50%)`,
+          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       },
@@ -182,8 +182,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: `-webkit-linear-gradient(120deg, ${colorSet[400]} 30%, ${colorSet[500]})`,
-          heroImageBackground: `linear-gradient(-45deg, ${colorSet[400]} 50%, ${colorSet[500]} 50%)`,
+          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       }
