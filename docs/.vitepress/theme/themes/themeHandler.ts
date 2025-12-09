@@ -68,6 +68,9 @@ export class ThemeHandler {
       if (!localStorage.getItem(STORAGE_KEY_MODE)) {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
         this.applyTheme()
+      } 
+	  else {
+        this.applyTheme()
       }
     })
   }
@@ -380,7 +383,7 @@ export function useTheme() {
 
   onMounted(() => {
     // Ensure theme is applied on mount
-    handler.setMode(handler.getMode())
+    handler.applyTheme()
   })
 
   return {
