@@ -48,6 +48,7 @@
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#ads) - Denuvo Games / Works Offline
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
+* [PirateCat](https://piratecat.pw), [Backup](https://piratecat.xyz)  - Video / Audio / Books / Software / Games / Other
 
 ***
 
@@ -70,6 +71,8 @@
 * [Xatab Repacks](https://byxatab.com/) - Torrent
 * [Elamigos](https://elamigos.site/) - Download
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#freegogpcgames-note)
+* [PirateCat](https://piratecat.pw), [Backup](https://piratecat.xyz)  - Video / Audio / Books / Software / Games / Other
+
 
 ***
 
@@ -398,6 +401,7 @@
 * [PS3R](https://ps3r.com/) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
+* [PirateCat](https://piratecat.pw), [Backup](https://piratecat.xyz)  - ROMs / PS1 / PS2 / PS3 / PS4 / PS5 
 
 ***
 
