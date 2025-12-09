@@ -1324,6 +1324,7 @@
 
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Extensions](https://discord.gg/rmf6jQpMU9) / [Discord](https://discord.paperback.moe/)
+* ⭐ **[Tachimanga](https://tachimanga.app/)** - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader / [GitHub](https://github.com/Aidoku/Aidoku)
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
 * [Suwatte](https://www.suwatte.app/) - Comic Reader / [Discord](https://discord.gg/8wmkXsT6h5) / [GitHub](https://github.com/suwatte)
@@ -1338,7 +1339,6 @@
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player / [Discord](https://discord.gg/MjCUXgU)
 * [Panels](https://apps.apple.com/app/id1236567663) - Comic Reader
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
-* [Tachimanga](https://tachimanga.app/) - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
 * [ZETSU](https://apps.apple.com/app/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)
 * [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
 * [Libby](https://apps.apple.com/app/id1076402606) - Digital Library Books / Extend Time via Offline or Airplane Mode
