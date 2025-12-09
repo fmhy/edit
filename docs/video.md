@@ -229,7 +229,7 @@
 * [Gojo](https://animetsu.to/), [2](https://animetsu.cc/) - Sub / Dub
 * [⁠AnimeZ](https://animeyy.com/) - Sub / Dub
 * [⁠JustAnime](https://justanime.to/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/P3yqksmGun)
-* [⁠AniKuro]((https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
+* [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
 * [Anixl](https://anixl.to/) - Sub / Dub / [Discord](https://discord.gg/prmJz2av76)
