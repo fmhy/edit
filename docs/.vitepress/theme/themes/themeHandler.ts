@@ -40,7 +40,7 @@ export class ThemeHandler {
     // Load saved preferences
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
-    const savedAmoledPref = localStorage.getItem(STORAGE_KEY_AMOLED)
+    const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
     // Set theme
     if (themeRegistry[savedTheme]) {
@@ -49,7 +49,7 @@ export class ThemeHandler {
     }
 
     // Set amoled preference
-    this.amoledEnabled.value = savedAmoledPref === null ? true : savedAmoledPref === 'true'
+    this.amoledEnabled.value = savedAmoled
 
     // Set mode
     if (savedMode) {
@@ -59,7 +59,6 @@ export class ThemeHandler {
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
       this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
-    
 
     this.applyTheme()
 
@@ -102,11 +101,6 @@ export class ThemeHandler {
     // Add dark class for backward compatibility with VitePress
     if (mode === 'dark') {
       root.classList.add('dark')
-    }
-
-    // Remove amoled class if current mode is not 'dark'
-    if (mode !== 'dark') {
-      root.classList.remove('amoled')
     }
   }
 
