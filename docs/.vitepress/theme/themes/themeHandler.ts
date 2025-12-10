@@ -40,7 +40,7 @@ export class ThemeHandler {
     // Load saved preferences
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
-    const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
+    const savedAmoledPref = localStorage.getItem(STORAGE_KEY_AMOLED)
 
     // Set theme
     if (themeRegistry[savedTheme]) {
@@ -49,7 +49,7 @@ export class ThemeHandler {
     }
 
     // Set amoled preference
-    this.amoledEnabled.value = savedAmoled
+    this.amoledEnabled.value = savedAmoledPref === null ? true : savedAmoledPref === 'true'
 
     // Set mode
     if (savedMode) {
@@ -59,6 +59,7 @@ export class ThemeHandler {
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
       this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
+    
 
     this.applyTheme()
 
@@ -66,6 +67,9 @@ export class ThemeHandler {
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
       if (!localStorage.getItem(STORAGE_KEY_MODE)) {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
+        this.applyTheme()
+      } 
+	  else {
         this.applyTheme()
       }
     })
@@ -83,21 +87,26 @@ export class ThemeHandler {
 
   private applyDOMClasses(mode: DisplayMode) {
     const root = document.documentElement
-
+    
     // Remove all mode classes
     root.classList.remove('dark', 'light', 'amoled')
-
+    
     // Add current mode class
     root.classList.add(mode)
-
+    
     // Add amoled class if enabled in dark mode
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
     }
-
+    
     // Add dark class for backward compatibility with VitePress
     if (mode === 'dark') {
       root.classList.add('dark')
+    }
+
+    // Remove amoled class if current mode is not 'dark'
+    if (mode !== 'dark') {
+      root.classList.remove('amoled')
     }
   }
 
@@ -116,7 +125,7 @@ export class ThemeHandler {
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
-
+    
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
       bgAltColor = '#000000'
@@ -273,7 +282,7 @@ export class ThemeHandler {
     this.state.value.theme = themeRegistry[themeName]
     localStorage.setItem(STORAGE_KEY_THEME, themeName)
     this.applyTheme()
-
+    
     // Force re-apply ColorPicker colors if theme doesn't specify brand colors
     this.ensureColorPickerColors()
   }
@@ -286,10 +295,10 @@ export class ThemeHandler {
 
   public toggleMode() {
     const currentMode = this.state.value.currentMode
-
+    
     // Toggle between light and dark
     const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-
+    
     this.setMode(newMode)
   }
 
@@ -315,7 +324,7 @@ export class ThemeHandler {
     // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
     const modeColors = this.state.value.theme.modes[currentMode]
-
+    
     if (!modeColors.brand || !modeColors.brand[1]) {
       // Trigger a custom event that ColorPicker can listen to
       if (typeof window !== 'undefined') {
@@ -374,7 +383,7 @@ export function useTheme() {
 
   onMounted(() => {
     // Ensure theme is applied on mount
-    handler.setMode(handler.getMode())
+    handler.applyTheme()
   })
 
   return {
