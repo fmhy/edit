@@ -389,6 +389,7 @@
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
+* [gauc](https://gauc.si/) - Movies / TV / Anime / VPN May Be Needed
 * [Mrkaj](https://mrkaj.si/) - Movies / TV / Anime / 1080p / Region Locked
 * [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
 * [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked
@@ -1519,6 +1520,7 @@
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
+* [gauc](https://gauc.si/) - Movies / TV / Anime / VPN May Be Needed
 * [MojeVideo](https://www.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting

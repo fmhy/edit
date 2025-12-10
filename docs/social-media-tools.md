@@ -480,7 +480,7 @@
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [SullyGnome](https://sullygnome.com/), [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Trovo](https://trovo.live/), [Rumble](https://rumble.com/), [Kick](https://kick.com/), [dlive](https://dlive.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 
 ***
 
