@@ -414,7 +414,7 @@
 * [LifeAt](https://lifeat.io/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
-* [Vikunja](https://vikunja.io/)
+* [Vikunja](https://vikunja.io/) - Self-Hosted
 
 ***
 
