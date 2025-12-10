@@ -147,7 +147,6 @@
 * [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / Unofficial / [Telegram](https://t.me/fiorenmas)
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / Unofficial / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
-* [Revancify](https://github.com/decipher3114/Revancify) - TUI Wrapper / Unofficial
 
 ***
 
@@ -686,8 +685,7 @@
 
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** / [Frontends](https://emulation.gametechwiki.com/index.php/Emulators_on_Android#Launcher_Frontends)
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
-* ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Subreddit](https://www.reddit.com/r/termux) / [Telegram](https://telegram.me/termux24x7) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
-* ⭐ **Termux Tools** - [YT-DL](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux)
+* ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux) / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Subreddit](https://www.reddit.com/r/termux) / [Telegram](https://telegram.me/termux24x7) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
 * [JoiPlay](https://joiplay.net/) - RPG Maker Game Interpreter & more
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
@@ -733,7 +731,7 @@
 ***
 
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / Doesn't Allow Binding / [Telegram](https://t.me/LibreTorrent) / [GitHub](https://github.com/proninyaroslav/libretorrent)
-* [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Torrent Client
+* [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Torrent Client / Allows Binding
 * [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding
 * [BiglyBT](https://android.biglybt.com/) - Torrent Client / Allows Binding
 * [tTorrent](https://ttorrent.org/) - Torrent Client
@@ -783,7 +781,7 @@
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
-* [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga Reader 
+* [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga Reader / [Discord](https://discord.com/invite/sfPJSQNxfW)
 * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
 * [Kinoko](https://github.com/gsioteam/kinoko) - Manga File Viewer
@@ -962,7 +960,7 @@
 ## ▷ Android Anime
 
 * 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)**, [2](https://everythingmoe.org/#section-mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/mobileapp)**, [2](https://everythingmoe.org/section/mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DailyAL](https://github.com/JICA98/DailyAL)**, [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Anikku](https://github.com/komikku-app/anikku) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.gg/F32UjdJZrR)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.com/invite/EjfBuYahsP) / [GitHub](https://github.com/RyanYuuki/AnymeX)

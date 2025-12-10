@@ -207,6 +207,7 @@
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
 * [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
+* [P2SR Wiki](https://wiki.portal2.sr/) - Portal 2 Speedrunning Wiki
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
@@ -286,7 +287,7 @@
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [⁠Achievement-Watcher](https://github.com/darktakayanagi/Achievement-Watcher) - Multi-Platform Achievement Parser
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
+* [SamRewritten](https://github.com/PaulCombal/SamRewritten) or [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Managers
 * [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
@@ -424,6 +425,8 @@
 * [Overwatch-Server-Selector](https://github.com/foryVERX/Overwatch-Server-Selector) - Overwatch Server Selector
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [R1Delta](https://r1delta.net/) - Titanfall 1 Server Revival / [Discord](https://discord.com/invite/AFnMwrvPzV)
+* [CryMP](https://crymp.org/) - Crysis 1 Multiplayer Revival / [Discord](https://discord.gg/kY8hb2n) / [GitHub](https://github.com/crymp-net/)
+* [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival  / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
@@ -727,6 +730,7 @@
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [Discord](https://discord.com/invite/VqcHpsF) / [GitHub](https://github.com/chunky-dev/chunky)
 * [⁠Minecraft Generator](https://minecraftgenerator.com/) - Minecraft Model Generators
 * [Block Display](https://block-display.com/) - Design / Share Block Display Models / [Discord](https://discord.gg/VCeHfSd6Xa)
+* [BDStudio](https://eszesbalint.github.io/bdstudio/editor) - 3D Editor
 * [Blockbench](https://www.blockbench.net/) - Low Poly 3D Editor / [Discord](https://discord.com/invite/blockbench)
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
@@ -846,7 +850,6 @@
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA
 * [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
-* [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
 * [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SC / [Discord](https://discord.gg/YSyasDa)
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC
@@ -917,8 +920,8 @@
 * ⭐ **[RoSeal](https://www.roseal.live/)**, [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [BTRoblox](https://github.com/AntiBoomz/BTRoblox) or [RoGold](https://rogold.live/free) - Enhance Roblox Website / Add Features / Extensions
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap) or [Fishstrap](https://fishstrap.app/) / [GitHub](https://github.com/fishstrap/fishstrap) - Roblox Player Bootstrapper
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)**, [⁠Rotrends](https://rotrends.com/) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
-* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
+* [⁠Rojo](https://github.com/rojo-rbx/rojo) - Use External Code Editors for Roblox Studio Projects
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) or [FreeVIPServers](https://freevipservers.net/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes

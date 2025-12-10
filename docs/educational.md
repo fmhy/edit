@@ -9,7 +9,7 @@
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
-* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**, [2](https://1337x.to/top-100-documentaries) / Torrent
+* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
@@ -243,7 +243,7 @@
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library
 * [Piano Scribe](https://laqieer.github.io/piano-scribe/) - Piano Transcriber
 * [LilyPond](https://lilypond.org/) - Music Engraving Program
-* [Learning Music](https://learningmusic.ableton.com/) or [Musica](https://www.musicca.com/) - Music-Making Lessons
+* [Learning Music](https://learningmusic.ableton.com/) or [Musicca](https://www.musicca.com/) - Music-Making Lessons
 * [Midiano](https://midiano.com/) / [Discord](https://discord.com/invite/SfFdbunEm2), [Piano Trainer](https://zaneh.itch.io/piano-trainer) / [GitHub](https://github.com/ZaneH/piano-trainer), [Chord Nebula](https://chords.yottanami.com/), [sightread](https://sightread.dev/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice / Learning
 * [Keyboard Connect](https://keyboardconnect.com/) - Keyboard Tutoring App
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
@@ -997,6 +997,7 @@
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)** - Python Learning Resources
+* 🌐 **[Roadmap](https://roadmap.sh/)** - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
@@ -1010,7 +1011,6 @@
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
 * [Git Time](https://git.bradwoods.io/) - Git Learning Game
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
-* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) - Interactive Programming Courses
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses

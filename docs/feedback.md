@@ -35,7 +35,7 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
 
-* *Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows.*
+* *"Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows."*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
@@ -49,6 +49,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
+* *I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
+
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 
 * *"FMHY genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for fmhy and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appreciated."*
@@ -57,7 +59,7 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 
-* *I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!*
+* *"I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!"*
 
 * *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
 

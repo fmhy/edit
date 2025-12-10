@@ -30,6 +30,7 @@
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
+* [⁠LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
 * [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
 
 ***
@@ -72,6 +73,7 @@
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
 * [RuckZuck](https://ruckzuck.tools/) - Package Manager
+* [RepoHub](https://repo-hub.com/) - Package Manager / Web-Based / [GitHub](https://github.com/yusufipk/RepoHub)
 * [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
@@ -176,6 +178,7 @@
 * [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [GitHub](https://github.com/microsoft/WSL)
+* [⁠Dockur](https://github.com/dockur) - Run Windows / macOS in Docker Containers
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators

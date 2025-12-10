@@ -206,7 +206,7 @@
 ## ▷ Light Novels
 
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Site Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)**, [2](https://everythingmoe.org/#section-novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/novel)**, [2](https://everythingmoe.org/section/novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[⁠NovelFire](https://novelfire.net/)** - Online Reading
 * ⭐ **[NovelCool](https://www.novelcool.com/)** - Online Reading
@@ -458,7 +458,7 @@
 
 ## ▷ Manga
 
-* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/#section-manga), [2](https://everythingmoe.org/#section-manga) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - Manga Sites Indexes
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/section/manga), [2](https://everythingmoe.org/#section-manga) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - Manga Sites Indexes
 * 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
@@ -485,6 +485,7 @@
 * [MangaHub](https://mangahub.io/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua 
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [Toonily](https://toonily.com/) - Manhwa
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa

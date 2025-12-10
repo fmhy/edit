@@ -183,6 +183,7 @@
 * ⭐ **[/coffee/](https://dan.valeena.dev/guides/coffee-guide/)**, [2](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
+* [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
 * [⁠Aeromatic](https://aeromatic.app/) - AeroPress Recipe App
@@ -312,6 +313,7 @@
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
+* [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates 
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
@@ -929,7 +931,7 @@
 ***
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List / [GitHub](https://github.com/DefiLlama/chainlist)
-* 🌐 **[KYCNOT.ME](https://kycnot.me/)** / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Source Code](https://codeberg.org/pluja/kycnotme) or **[⁠OrangeFren](https://orangefren.com/)** - Non-KYC Exchanges / Services
+* 🌐 **[KYCNOT.ME](https://kycnot.me/)** / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Source Code](https://codeberg.org/pluja/kycnotme), **[NotKYC](https://notkyc.com/)** or **[⁠OrangeFren](https://orangefren.com/)** - Non-KYC Exchanges / Services
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure / [Subreddit](https://www.reddit.com/r/WalletScrutiny) / [Discord](https://discord.gg/yCNdcSJw9k) / [GitLab](https://gitlab.com/walletscrutiny/walletScrutinyCom)
 * ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager / [Discord](https://discord.rotki.com/) / [GitHub](https://github.com/rotki)
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
@@ -1475,7 +1477,7 @@ Emailed me to say they are shutting down
 * [EnigmaLabs](https://enigmalabs.io/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors))
+* [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://ph.kuuro.net/) / [GitHub](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [⁠Doomsday Scoreboard](https://doomsday.march1studios.com/) - Past & Predicted Apocalypse Events / Failed Prediction Scoreboard

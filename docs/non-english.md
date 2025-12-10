@@ -392,7 +392,6 @@
 * [Mrkaj](https://mrkaj.si/) - Movies / TV / Anime / 1080p / Region Locked
 * [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
 * [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked
-* [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
@@ -515,7 +514,7 @@
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://ww7.vostanime.fr/) - Anime / Sub / 1080p
 * [animeko](https://w2.animeko.ws/) - Anime / Sub / 1080p
-* [anime-sama](https://anime-sama.org/) - Anime / Sub / 1080p
+* [anime-sama](https://anime-sama.eu/) - Anime / Sub / 1080p
 * [molotov.tv](https://www.molotov.tv/) - Live TV
 * [tvradiozap](https://tvradiozap.eu/) - Live TV
 * [oohquelbut](https://quelbut.me/) - Live Sports
@@ -801,7 +800,7 @@
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [hungama](https://www.hungama.com/music/) - Music
-* [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.vercel.app/) - Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
+* [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
 * [PhysicsWallah](https://www.pw.live/) - Physics Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
 
