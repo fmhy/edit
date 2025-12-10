@@ -125,8 +125,7 @@
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab
 * [webtor](https://webtor.io/) - No Limit / Download Speed Limited / No Sign-Up
-* [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB 
-* [BitPlay](https://github.com/aculix/bitplay) - Torrent to Stream / Self-Hosted
+* [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***
 
@@ -143,7 +142,7 @@
 * [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
 * [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Tracker Lists
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
-* [⁠cross-seed](https://www.cross-seed.org/) - Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites
+* [⁠cross-seed](https://www.cross-seed.org/) - Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites / [GitHub](https://github.com/cross-seed/cross-seed)
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 

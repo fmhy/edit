@@ -525,7 +525,7 @@
 
 * ⭐ **[PS4 Modding](https://www.youtube.com/playlist?list=PLn7ji3VsPy3FRxLrjz5ScpvpTirAxQ3me)** - PS4 Jailbreak Guides
 * ⭐ **[Vita Hacks Guide](https://vita.hacks.guide/)** - Vita Jailbreak Guide
-* [⁠PSX Place](https://www.psx-place.com/) or [PSX Hax](https://www.psxhax.com/) - Playstation Homebrew Forums
+* [⁠PSX Place](https://www.psx-place.com/) - Playstation Homebrew Forums
 * [PSDevWiki](https://www.psdevwiki.com/) - Playstation Dev / Homebrew Wiki
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit

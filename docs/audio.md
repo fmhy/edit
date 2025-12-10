@@ -372,9 +372,9 @@
 * ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
-* ⭐ **[OnTheSpot](https://github.com/justin025/onthespot)** - Multi-Site / [Discord](https://discord.com/invite/hz4mAwSujH)
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
+* [OnTheSpot](https://github.com/justin025/onthespot) - Multi-Site / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
@@ -740,7 +740,7 @@
 * ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)** / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/)
-* [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8)
+* [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based

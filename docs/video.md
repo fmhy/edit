@@ -560,7 +560,7 @@
 ## ▷ Android TV
 
 * 🌐 **[Awesome Android TV](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)** or **[⁠TroyPoint](https://troypoint.com/)** - Android TV App Indexes
-* ⭐ **[⁠TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)** or [SmartTube](https://github.com/yuliskov/SmartTube) / [2](https://smarttubeapp.github.io/) - Ad-Free Android TV / Firestick YouTube
+* ⭐ **[⁠TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)** / [Discord](https://discord.com/invite/m2P7v8Y2qR) / [Telegram](https://t.me/tizentubecobaltofficial) or [SmartTube](https://github.com/yuliskov/SmartTube) / [2](https://smarttubeapp.github.io/) / [Discord](https://discord.com/invite/Wt8HDDej5z) / [Telegram](https://t.me/SmartTubeEN) - Ad-Free Android TV / Firestick YouTube
 * [⁠Flicky](https://github.com/mlm-games/flicky) - F-Droid Client
 * [Android TV Tools v4](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/) - Multiple Android TV Tools
 * [Android TV Piracy](https://rentry.co/androidtvpiracy) - Android TV Piracy Guide
@@ -744,7 +744,7 @@
 * [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming
+* [RapidBay](https://github.com/hauxir/rapidbay) or [BitPlay](https://github.com/aculix/bitplay) - Self-Hosted Torrent Streaming
 
 ***
 

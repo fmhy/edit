@@ -845,7 +845,7 @@
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Lotus](https://github.com/dn0ne/lotus), [2](https://f-droid.org/packages/com.dn0ne.lotus)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
-* [Harmonoid](https://harmonoid.com/)
+* [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Finamp](https://github.com/jmshrv/finamp) or [Fintunes](https://www.fintunes.app/) / [GitHub](https://github.com/leinelissen/jellyfin-audio-player) - Jellyfin Audio Players
 
 ***

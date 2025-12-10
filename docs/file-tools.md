@@ -14,7 +14,6 @@
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
-* [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
 
 ***
@@ -97,6 +96,7 @@
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
+* [FileBrowser Quantum](https://filebrowserquantum.com/) - Self-Hosted Web File Manager / [GitHub](https://github.com/gtsteffaniak/filebrowser)
 
 ***
 

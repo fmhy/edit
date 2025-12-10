@@ -702,7 +702,6 @@
 * ⭐ **[r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
 * [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
 * [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
-* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
 * [I Am Sober](https://iamsober.com/en/site/home) - Sobriety Tracker / Community
 * [Petals](https://github.com/LeoColman/Petals) - Quit / Reduce Marijuana Usage

@@ -369,7 +369,7 @@
 * [Radiata](https://ddpn08.github.io/Radiata/en/)
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 * [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)
-* [⁠Amuse](https://www.amuse-ai.com/) - Stable Diffusion for AMD Systems / [X](https://x.com/Amuse_AI)
+* [⁠Amuse](https://huggingface.co/TensorStack/Amuse) - Stable Diffusion for AMD Systems / [X](https://x.com/Amuse_AI)
 
 ***
 
