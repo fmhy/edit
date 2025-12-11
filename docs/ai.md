@@ -271,7 +271,7 @@
 * ⭐ **[SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench)
 * [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
 * [⁠AIBenchmarks](https://aibenchmarks.net/) - Coding AI Leaderboard / Benchmarks / [GitHub](https://github.com/panilya/awesome-ai-benchmarks)
-* [WebDev Arena](https://web.lmarena.ai/) - Coding AI Leaderboard / Benchmarks
+* [WebDev Arena](https://lmarena.ai/leaderboard/webdev) - Coding AI Leaderboard / Benchmarks
 
 ***
 
