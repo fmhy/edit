@@ -35,7 +35,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player /  [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-*  [squid.wtf](https://tidal.squid.wtf), [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+*  [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
@@ -356,7 +356,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://tidal.squid.wtf)**, **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+* ⭐ **[squid.wtf](https://tidal.squid.wtf)**, [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
@@ -624,7 +624,6 @@
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
 * [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger)
-* [Music Board](https://musicboard.app/) - Ratings / Reviews
 * [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)
 * [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker
 * [MyPitchFork](https://mypitchfork.fun/) - Individual Song Rating / Tracking

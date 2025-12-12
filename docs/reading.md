@@ -218,6 +218,8 @@
 * [Vynovel](https://vynovel.com/) - Online Reading
 * [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/) - Online Reading
 * [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) - Downloads
+* [⁠jnovels](https://jnovels.com/) - Downloads
+* [MP4DIRECTS](https://mp4directs.com/) - Downloads
 * [⁠Light Novel World](https://lightnovelworld.org/) - Online Reading
 * [Wuxia World](https://wuxiaworld.site/) - Online Reading
 * [Ranobes](https://ranobes.top/) - Online Reading
@@ -493,7 +495,7 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
-* [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
+* [MP4DIRECTS](https://mp4directs.com/) or [⁠jnovels](https://jnovels.com/) - Manga Downloads
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
 * [PlayTorrio](https://playtorrio.pages.dev/) - Manga App / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
@@ -529,7 +531,7 @@
 * [MagDownload](https://magdownload.org/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [Lainzine](https://lainzine.org/) - Lain-Inspired Magazine
-* [Retromags](https://www.retromags.com/) or [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) - Retro Game Magazines
+* [Retromags](https://www.retromags.com/), [⁠Out-of-Print Archive](https://www.outofprintarchive.com/) or [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) - Retro Gaming Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
 * [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive

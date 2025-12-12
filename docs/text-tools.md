@@ -225,7 +225,6 @@
 * ⭐ **Notion Tools** - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/)
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [GitHub](https://github.com/anyproto/anytype-ts)
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / [GitHub](https://github.com/logseq/logseq)
-* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / [Discord](https://discord.com/invite/notesnook-796015620436787241) / [GitHub](https://github.com/streetwriters/notesnook)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / [GitHub](https://github.com/lokus-ai/lokus)
@@ -349,6 +348,7 @@
 ## ▷ Spreadsheet Editors
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
+* [⁠Proton Sheets](https://proton.me/drive/sheets) or [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Viewers / Editors
 * [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Baserow](https://baserow.io/) / [GitLab](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
@@ -357,7 +357,6 @@
 * [ExcelJet](https://exceljet.net/formulas) or [Excel Functions](https://www.excelfunctions.net/) - Excel Formulas
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
-* [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [Structifi](https://structifi.com/) - Convert Files to Structured Data
 * [TadViewer](https://www.tadviewer.com/) - View / Analyze Tabular Data

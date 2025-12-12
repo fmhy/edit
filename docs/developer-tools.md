@@ -461,7 +461,7 @@
 
 * 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
-* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extensions Marketplace](https://rentry.co/vscodiumguide)
+* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[JetBrains](https://jetbrains.com/)** / [Features](https://rentry.co/FMHYB64#jetbrains)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
@@ -592,7 +592,7 @@
 
 ## ▷ VSCode Tools
 
-* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
+* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/), [vsixhub](https://www.vsixhub.com/) or [VSCodiuim Marketplace](https://rentry.co/vscodiumguide)
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
@@ -879,7 +879,7 @@
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Quickly Copy Colors
 * [Khroma](https://www.khroma.co/) or [Paletton](https://paletton.com/) - Color Scheme Designers
 * [Palettte](https://palettte.app/) - Color Palette Editor
-* [Colouris](https://colouris.surge.sh/) - Color Code Format Converter
+* [Colouris](https://colouris.surge.sh/) or [Color Converter](https://colorconverter.dev/) - Color Code Format Converters
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Palette Builders
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests

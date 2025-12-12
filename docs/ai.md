@@ -13,7 +13,7 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3 Pro / 100 Daily / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5 / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#better-reasoning) / [Discord](https://discord.com/invite/go-copilot)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 (Thinking) / Slides / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Grok](https://grok.com/)** - Grok 4 + Grok 3 Fast (96 daily) / Grok 4.1 (24 daily) / [Rate Display](https://greasyfork.org/en/scripts/558017) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -286,7 +286,7 @@
 ***
 
 ## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
-
+6d
 ***
 
 # ► Video Generation
@@ -299,6 +299,7 @@
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - 100 Daily / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Sora](https://openai.com/index/sora/) - 6 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora), [2](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
+* [⁠GeminiGen AI](https://geminigen.ai/) - Unlimited / Sora 2 / Veo 3.1 / Nano Banana Pro
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [PigenAI](https://pigenai.art/) - 10 Per Hour
 * [Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly

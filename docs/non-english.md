@@ -783,6 +783,7 @@
 * [rtally](https://www.rtally.site/), [2](https://www.rtally.xyz/) - Movies / TV / Anime
 * [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
+* [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [jattfilms](https://jattfilms.cfd/) - Movies / TV / Dub / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p

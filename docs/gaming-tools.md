@@ -156,7 +156,7 @@
 ## ▷ Game Saves
 
 * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
-* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)** or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Managers / Backup
+* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)**, [SaveState](https://github.com/Matteo842/SaveState) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Backup Tools / Managers
 * [PCGamingWiki](https://www.pcgamingwiki.com/) - Save Locations Listed Under "Game Data"
 * [Save Game World](https://www.savegameworld.com/) - PC / PlayStation / Switch / Xbox / Wii
 * [SavegameDownload.com](https://www.savegamedownload.com/) - PC / Mobile / PlayStation / Switch / Xbox
@@ -317,7 +317,7 @@
 
 ## ▷ DLC Unlock / DRM Bypass
 
-* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://github.com/Warwolfer/auto-creamapi-2)
+* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Steam DLC Unlocker / [Manager](https://github.com/3vil3vo/GreenLuma-Manager), [2](https://github.com/BlueAmulet/GreenLuma-2024-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover

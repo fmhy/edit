@@ -31,7 +31,7 @@
 
 ***
 
-* ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, **[embeds.video](https://embeds.video/)**, [stolen.shoes](https://stolen.shoes/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
+* ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, **[embeds.video](https://embeds.video/)**, [stolen.shoes](https://stolen.shoes/), [embeddr.top](https://embeddr.top/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Stoat](https://stoat.chat/)** - Discord Alternative / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) 
@@ -171,6 +171,7 @@
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
+* [⁠Sink It](https://gosinkit.com/) - Improved Reddit Comment Navigation
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
@@ -479,7 +480,7 @@
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [SullyGnome](https://sullygnome.com/), [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Trovo](https://trovo.live/), [Rumble](https://rumble.com/), [Kick](https://kick.com/), [dlive](https://dlive.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Rumble](https://rumble.com/), [Kick](https://kick.com/) or [dlive](https://dlive.tv/) - Twitch Alternatives
 
 ***
 

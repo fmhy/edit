@@ -481,7 +481,7 @@
 
 * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
-* ⭐ **[Thunderbird](https://github.com/thunderbird/thunderbird-android)** / [Notifications](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird), [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/mobile/)** / [Notifications](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird) / [GitHub](https://github.com/thunderbird/thunderbird-android), [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * [PairVPN Hotspot](https://pairvpn.com/hotspot), [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [Wolfram Alpha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
@@ -554,7 +554,6 @@
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
 * ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**, [Notally](https://github.com/OmGodse/Notally), [NotallyX](https://github.com/PhilKes/NotallyX), [Google Keep](https://keep.google.com/) or [ColorNote](https://www.colornote.com/) - Minimalistic Note-Taking Apps
-* ⭐ **[Notesnook](https://github.com/streetwriters/notesnook/tree/master/apps/mobile)** - E2E Encrypted Note-Taking App / [Discord](https://discord.com/invite/notesnook-796015620436787241)
 * ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode), **[QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
 * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
@@ -1227,7 +1226,7 @@
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
-* [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
+* [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [Discord](https://discord.com/invite/5G8hpgHkXB) / [GitHub](https://github.com/chatsen/chatsen)
