@@ -699,7 +699,6 @@
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
-* [Rosebud AI](https://www.rosebud.ai/) or [Wild West](https://www.wildwest.gg/) - AI Made Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [⁠gn-math](https://gn-math.github.io/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
