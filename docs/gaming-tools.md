@@ -920,7 +920,7 @@
 ## ▷ Roblox Tools
 
 * ⭐ **[RoSeal](https://www.roseal.live/)**, [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [BTRoblox](https://github.com/AntiBoomz/BTRoblox) or [RoGold](https://rogold.live/free) - Enhance Roblox Website / Add Features / Extensions
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap) or [Fishstrap](https://fishstrap.app/) / [GitHub](https://github.com/fishstrap/fishstrap) - Roblox Player Bootstrapper
+* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)**, [⁠Rotrends](https://rotrends.com/) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [⁠Rojo](https://github.com/rojo-rbx/rojo) - Use External Code Editors for Roblox Studio Projects
