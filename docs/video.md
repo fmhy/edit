@@ -610,6 +610,7 @@
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
+* [CineAmore](https://rentry.co/FMHYB64#cineamore) - Movies
 * [⁠The One Piece](https://m.flixindia.xyz/) - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * [⁠Medeberiya](https://medeberiya.net/) - Movie / TV
 * [TFPDL](https://tfpdl.se/category/movies/), [2](https://tfpdl.to/category/movies/) - Movies / TV / Anime

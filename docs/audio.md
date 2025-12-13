@@ -103,7 +103,6 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Livesets
-* [Mixing.dj](https://mixing.dj/) - DJ Mixes / Streaming
 * [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Streaming
 * [⁠TestPressing](https://www.testpressing.org/) - Rare DJ Mixes / Streaming
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
@@ -336,7 +335,7 @@
 * [Spotlistr](https://www.spotlistr.com/) - Platform-to-Spotify Playlist Converter
 * [Playlistor](https://playlistor.io/) - Convert Apple Music Playlists to Spotify
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Better Shuffle for Playlists
-* [Playlist Sorter](https://www.playlistsorter.com/) or [Sort Your Music](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
+* [Sort Your Music](http://sortyourmusic.playlistmachinery.com/) / [GitHub](https://github.com/plamere/SortYourMusic) - Sort Playlists
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Timelineify](https://www.timelineify.com/) - Create Playlist from an Artist's Discography
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
@@ -638,7 +637,6 @@
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [LibraryThing](https://www.talpasearch.com/) - Find Albums by Describing Them
-* [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others

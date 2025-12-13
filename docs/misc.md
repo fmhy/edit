@@ -598,7 +598,6 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
 ***
@@ -608,6 +607,8 @@
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://en.wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* [Sleeping Guide](https://rentry.co/sleepguide) - Practices ⁠Sleeping Guide
+* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps

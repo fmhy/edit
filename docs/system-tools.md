@@ -25,6 +25,7 @@
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
+* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
@@ -44,7 +45,7 @@
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
-* [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
+* [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) or [BatUtil](https://github.com/abbodi1406/BatUtil) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
@@ -378,6 +379,7 @@
 
 * ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
+* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates

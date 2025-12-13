@@ -157,7 +157,7 @@
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** / [Plugins](https://plugins-list.pages.dev/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq) or [Aliucord](https://github.com/Aliucord/Manager) / [Discord](https://discord.gg/EsNDvBaHVU) - Modded Discord Clients
+* ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** - Modded Discord Client / [Plugins](https://plugins-list.pages.dev/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq)
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Moshidon](https://github.com/LucasGGamerM/moshidon) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
@@ -167,6 +167,7 @@
 * [⁠Beeper](https://www.beeper.com/) / [GitHub](https://github.com/beeper) or [Openvibe](https://openvibe.social/) / [Discord](https://discord.gg/GduN6fB6NN) - Combine Chat / Social Media Apps
 * [Graysky](https://graysky.app/) - Bluesky Client / [GitHub](https://github.com/mozzius/graysky)
 * [Mumla](https://gitlab.com/quite/mumla) or [Meshenger](https://github.com/meshenger-app/meshenger-android) - Voice Chat
+* [Aliucord](https://github.com/Aliucord/Manager) - Modded Discord Client / Join [Discord](https://discord.gg/EsNDvBaHVU) for Themes + Plugins
 * [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence
 * [Dumpus](https://github.com/dumpus-app/dumpus-app) - View Discord Data / Self host for Privacy / [Discord](https://androz2091.fr/discord)
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
