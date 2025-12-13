@@ -1,3 +1,17 @@
+---
+title: Changelog Sites
+description: Added Changelog Sites
+date: 2025-12-12
+next: false
+
+prev: false
+
+footer: true
+---
+
+<Post authors="nbats"/>
+
+
 Hey everyone, as you guys know we make a lot of changes to FMHY, but the current ways to track those changes are pretty limited. The only real options are joining Discord, or watching markdown commits on GitHub, neither of which is ideal for everyone.
 
 To help make things easier, the following two changelog sites have been built. 
