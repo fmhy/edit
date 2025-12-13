@@ -330,7 +330,6 @@
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up Required / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1 / Seedream 4 / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up /[Discord](https://discord.gg/cwDTVKyKJz)
-* [PrisimAI](https://prisimai.github.io/PrisimAI/) - Seadream 4 / Nano Banana Pro / GPT Image-1 Mini
 * [⁠Image-Editor](https://image-editor.org/) - Unlimited / Editing / Nano Banana
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [PigenAI](https://pigenai.art/) - Unlimited / Imagen 4 / Qwen
