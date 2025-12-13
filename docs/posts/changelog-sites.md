@@ -4,13 +4,13 @@ To help make things easier, the following two changelog sites have been built.
 
 ***
 
-### https://changes.fmhy.bid/
+**https://changes.fmhy.bid/**
 
 This covers changes that occur in both the #Recently-Added and #Monthly-Update channels in our Discord.
 
 ***
 
-### https://fmhy-tracker.pages.dev/
+**https://fmhy-tracker.pages.dev/**
 
 This covers links that have been added, updated, or removed by watching GitHub for changes.
 
