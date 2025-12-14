@@ -744,7 +744,7 @@
 
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
-* ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [API](https://embed.rgshows.ru/) / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
+* ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[ToonStream](https://toonstream.world/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.cc/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
@@ -826,6 +826,7 @@
 ## ▷ Reading / Membaca
 
 * [Komiku](https://komiku.id/) - Manga
+* [Komikcast](https://komikcast02.com/) - Manga
 * [maid.my](https://www.maid.my.id/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
@@ -1740,6 +1741,7 @@
 * [Diziyou](https://www.diziyou.to/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
+* [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / VPN Required
 * [Turkish123](https://turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [TR Anime İzle](https://www.tranimeizle.co), [OpenAnime](https://openani.me/), [AnimeciX](https://anm.cx/), [SeiCode](https://seicode.net/), [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime

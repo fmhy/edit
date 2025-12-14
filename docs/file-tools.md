@@ -381,14 +381,14 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
+* **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service. 
 
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
-* ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
-* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
+* ⭐ **[mega](https://mega.io/)** - 20GB Free / 1 Month / ~$10 for 3TB / [GitHub](https://github.com/meganz)
+* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
 * [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Sign-Up Required for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
