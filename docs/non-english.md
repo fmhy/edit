@@ -369,7 +369,6 @@
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
-* [Cumi.to](https://cumi.to/) - Movies / TV
 
 ## ▷ Torrenting
 
@@ -383,7 +382,6 @@
 * [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
 * [gauc](https://gauc.si/) - Movies / TV / Anime / VPN May Be Needed
-* [Mrkaj](https://mrkaj.si/) - Movies / TV / Anime / 1080p / Region Locked
 * [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
 * [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
@@ -408,9 +406,7 @@
 
 ## ▷ Streaming / Nanonood
 
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / NSFW / Sub / Dub / 1080p
-* [Pinoy Movies Hub](https://pinoymovieshub.tv/) - Movies / TV / NSFW / Sub / Dub / 720p
-* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / NSFW / Sub / Dub / 720p
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Some NSFW / Sub / Dub / 1080p
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
 
 ***
@@ -507,7 +503,6 @@
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://ww7.vostanime.fr/) - Anime / Sub / 1080p
 * [animeko](https://w2.animeko.ws/) - Anime / Sub / 1080p
-* [anime-sama](https://anime-sama.eu/) - Anime / Sub / 1080p
 * [molotov.tv](https://www.molotov.tv/) - Live TV
 * [tvradiozap](https://tvradiozap.eu/) - Live TV
 * [oohquelbut](https://quelbut.me/) - Live Sports
