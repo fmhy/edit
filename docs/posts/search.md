@@ -11,9 +11,9 @@ footer: true
 
 <Post authors="nbats" />
 
-### [FMHY-Search](https://fmhy-search.dev.zenir.tech/)
+### [FMHY-Search](https://search.fmhy.bid/)
 
-Search built with NextJS
+Search built with Go
 
 ---
 

@@ -56,7 +56,7 @@
 * [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
 * [Beszel](https://beszel.dev/) - Dev Data Dashboard
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/)
-* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
+* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform / [GitHub](https://github.com/penpot/penpot)
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search

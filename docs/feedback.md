@@ -57,6 +57,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 
 * *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to fmhy I have access to nearly everything."*
 
+* *"I just want to express my gratitude for FMHY. As a guitarist, aspiring sound engineer, and audiophile, having reliable, comprehensive, and easily accessible resources online makes a huge difference for me. The wide range of content you provide has been incredibly helpful both in my music production workflow and in my listening experiences. Thanks to your platform, I can navigate the vast world of online media without getting lost and access the rich content I need. I truly appreciate the effort and dedication behind this service."*
+
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 
 * *"I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!"*

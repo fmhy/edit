@@ -444,7 +444,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumail.icu/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
+* [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](<https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -897,6 +897,7 @@
 * [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
 * [OSINT](https://start.me/p/ZME8nR/osint) - General Index
 * [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
+* [⁠Awesome OSINT For Everything](https://astrosp.github.io/osint-web/) - General Index / [GitHub](https://github.com/Astrosp/Awesome-OSINT-For-Everything/)
 * [OSINTFramework](https://osintframework.com/) - General Index
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index

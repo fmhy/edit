@@ -172,7 +172,6 @@
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [HelloGitHub](https://hellogithub.com/) - GitHub Projects
-* [litt.ly](https://litt.ly/) - Personal Link Homepage
 * [CatoCR](https://catocr.com/) - Image to Text
 * [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
 * [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
@@ -981,6 +980,7 @@
 * [NAVER](https://www.naver.com/) - Search
 * [Free Korean Fonts](https://www.freekoreanfont.com/) - Korean Fonts
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
+* [litt.ly](https://litt.ly/) - Personal Link Homepage
 
 ## ▷ Downloading
 
