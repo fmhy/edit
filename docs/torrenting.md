@@ -82,22 +82,22 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Windows, Mac, Linux / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
-* ⭐ **[Transmission](https://transmissionbt.com/)** - Windows, Mac, Linux
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** / Windows, Mac, Linux / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
+* ⭐ **[Transmission](https://transmissionbt.com/)** / Windows, Mac, Linux
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [Tixati](https://tixati.com/) - Windows, Linux, Android
-* [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare / Windows, Mac, Linux
-* [BiglyBT](https://www.biglybt.com/) - Windows, Mac, Linux, Android
-* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - Windows
-* [PikaTorrent](https://www.pikatorrent.com/) - Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
-* [Distribyted](https://distribyted.com/) -  Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)
-* [rTorrent](https://rakshasa.github.io/rtorrent/) - Linux / [GitHub](https://github.com/rakshasa/rtorrent)
+* [Tixati](https://tixati.com/) / Windows, Linux, Android
+* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare / Windows, Mac, Linux
+* [BiglyBT](https://www.biglybt.com/) / Windows, Mac, Linux, Android
+* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) / Windows
+* [PikaTorrent](https://www.pikatorrent.com/) / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
+* [Distribyted](https://distribyted.com/) / Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)
+* [rTorrent](https://rakshasa.github.io/rtorrent/) / Linux / [GitHub](https://github.com/rakshasa/rtorrent)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontend
 * rTorrent Tools - [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
-* [Fragments](https://apps.gnome.org/Fragments/) - Linux
-* [BitFlu](https://bitflu.workaround.ch/) - Linux
-* [kTorrent](https://apps.kde.org/ktorrent/), [2](https://invent.kde.org/network/ktorrent) - Linux
+* [Fragments](https://apps.gnome.org/Fragments/) / Linux
+* [BitFlu](https://bitflu.workaround.ch/) / Linux
+* [kTorrent](https://apps.kde.org/ktorrent/), [2](https://invent.kde.org/network/ktorrent) / Linux
 * [Instant.io](https://instant.io/) - Stream Torrents in Browser
 * [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
