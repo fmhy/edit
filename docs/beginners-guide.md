@@ -1,11 +1,3 @@
-# -> ***Beginners Guide*** <-
-
-***
-**Table of Contents**
-[TOC2]
-
-***
-
 ### Adblocking
 
 > How important is using an adblocker?
