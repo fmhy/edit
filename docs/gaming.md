@@ -230,7 +230,7 @@
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
-* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
+* [TF2 Classified](https://tf2classified.com/) - Team Fortress 2 Classified Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 * [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project / [Discord](https://discord.gg/zUuABEc6at)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
