@@ -97,9 +97,6 @@
 * [Fragments](https://apps.gnome.org/Fragments/) - Torrent Client / Linux
 * [BitFlu](https://bitflu.workaround.ch/) - Torrent Client / Linux
 * [kTorrent](https://apps.kde.org/ktorrent/), [2](https://invent.kde.org/network/ktorrent) - Torrent Client / Linux
-* [Instant.io](https://instant.io/) - Stream Torrents in Browser
-* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
@@ -138,6 +135,10 @@
 
 ***
 
+## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
+
+***
+
 # ► Private Trackers
 
 * 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [Private_Trackers](https://igwiki.lyci.de/wiki/Private_trackers), [The Sheet](https://inviteroute.github.io/sheet/), [Graph](https://inviteroute.github.io/graph/) or [Invite.icu](https://invite.icu/) - Private Tracker Guides
@@ -156,7 +157,6 @@
 # ► Helpful Sites / Apps
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
-* ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
