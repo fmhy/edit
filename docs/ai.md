@@ -333,6 +333,7 @@
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [PigenAI](https://pigenai.art/) - Unlimited / Imagen 4 / Qwen
 * [zAI](https://zai.is/) - Unlimited / Nano Banana Pro (4K) / [Discord](https://discord.gg/z-ai) Required
+* [⁠GeminiGen AI](https://geminigen.ai/app/imagen) - Unlimited / Nano Banana Pro
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing

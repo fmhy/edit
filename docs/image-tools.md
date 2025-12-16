@@ -314,7 +314,7 @@
 * [Noise & Gradient](https://www.noiseandgradient.com/), [PhotoGradient](https://photogradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
-* [The Textures Resource](https://www.textures-resource.com/) - Game Textures
+* [The Textures Resource](https://textures.spriters-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
 
 ***
