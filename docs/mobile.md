@@ -482,7 +482,7 @@
 
 * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), [Proton Pass](https://proton.me/pass), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/mobile/)** / [Notifications](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird) / [GitHub](https://github.com/thunderbird/thunderbird-android), [K-9 Mail](https://k9mail.app/), [Tuta](https://tuta.com/), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/mobile/)** / [Notifications](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird) / [GitHub](https://github.com/thunderbird/thunderbird-android), [SimpleMail](https://framagit.org/dystopia-project/simple-email), [K-9 Mail](https://k9mail.app/), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
 * ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * [PairVPN Hotspot](https://pairvpn.com/hotspot), [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [Wolfram Alpha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
@@ -1171,7 +1171,7 @@
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser
 * [Brave](https://apps.apple.com/app/id1052879175) or [Firefox Focus](https://apps.apple.com/app/id1055677337) - Privacy-Focused Browsers
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
-* [Proton Mail](https://apps.apple.com/app/id979659905) or [Tuta](https://apps.apple.com/app/id922429609) - Encrypted Emailing Service
+* [Proton Mail](https://apps.apple.com/app/id979659905) - Encrypted Emailing Service
 
 ***
 

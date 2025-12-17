@@ -247,6 +247,7 @@
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
+* [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
 * [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
@@ -891,7 +892,7 @@
 * [Mural](https://www.mural.co/) - Project Manager
 * [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
 * [Nino](https://nino.app/) - Task Manager
-* [Trello](https://trello.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
+* [Trello](https://trello.com/), [WeKan](https:/wekan.fi), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
 * [Airtable](https://www.airtable.com/) - Spreadsheet-Database Hybrid for Team Workflows
 
 ***
@@ -904,6 +905,7 @@
 * ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
 * [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps
 * [⁠Free File](https://apps.irs.gov/app/freeFile/), [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
+* [⁠Infolib](https://infolib.org/) - Customizable Dashboard w/ Financial News, Crypto Tracking, & Trading Tools
 * [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) / [iOS](https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930) or [Sushi](https://github.com/jerameel/sushi) - Mobile Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
@@ -941,6 +943,7 @@
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [Mempool](https://mempool.space/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Crypto Prices / Blockchain Explorers
+* [Privacy Watch](https://privacy.watch/) - Privacy Crypto Price Tracker
 * [CoinGlass](http://www.coinglass.com) - Crypto Derivatives Data
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
@@ -978,6 +981,8 @@
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
+* [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
@@ -1022,6 +1027,7 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
+* [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
 * [⁠EmuReady](https://www.emuready.com/) - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Game Emulation Compatibility / Info
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers

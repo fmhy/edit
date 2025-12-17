@@ -300,6 +300,7 @@
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
 * ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [GitHub](https://github.com/ProtonMail) / [Note](https://proton.me/support/more-free-storage-existing-users)
 * [Disroot](https://disroot.org/en/services/email) - 2GB Free / Encrypted Email
+* [Tuta](https://tuta.com/) - Encrypted Email / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 * [DNMX](https://dnmx.cc/) - Onion-Based Email
 * [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)
 * [Email Privacy Tester](https://www.emailprivacytester.com/) - Email Privacy Test / [GitLab](https://gitlab.com/mikecardwell/ept3)

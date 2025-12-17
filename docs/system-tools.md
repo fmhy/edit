@@ -25,7 +25,6 @@
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
@@ -45,7 +44,7 @@
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
-* [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) or [BatUtil](https://github.com/abbodi1406/BatUtil) - System Scripts
+* [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
@@ -330,7 +329,8 @@
 ## ▷ System Audio
 
 * ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/), **[AutoEq](https://autoeq.app/)**, [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dolby-access--atmos-note) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
-* [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) 
+* [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
+* [⁠Sonar](https://steelseries.com/gg/sonar) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Cancelling Software
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Sony Headphones Clone
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
@@ -338,7 +338,6 @@
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
-* [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
@@ -379,7 +378,7 @@
 
 * ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
-* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
+* [VCRedist](https://gitlab.com/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
@@ -425,7 +424,7 @@
 * [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
 * [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
-* [ModernFlyouts](https://modernflyouts-community.github.io) - Modern Flyouts
+* [FluentFlyout](https://fluentflyout.com/) / [GitHub](https://github.com/unchihugo/FluentFlyout) (use github) or [ModernFlyouts](https://modernflyouts-community.github.io) - Modernized Flyout Menus
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV Screensaver
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows

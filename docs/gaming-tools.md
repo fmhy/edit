@@ -204,7 +204,7 @@
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [⁠Onboard Memory Manager](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) - Modify Logitech G Mouse Memory
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
-* [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
+* [The Manual Project](https://vimm.net/manual) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
@@ -419,6 +419,7 @@
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
+* [⁠Warehouse](https://wiki.aiwarehouse.xyz/) - Transformers, DJ Hero, Blur, Grid, GH3, & Singularity Multiplayer
 * [ElDewrito](https://www.eldewrito.org/) - Halo Online / Halo 3 Servers
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
@@ -510,6 +511,7 @@
 * ⭐ **[3DS Jailbreak Guide](https://3ds.hacks.guide/)** - 3DS Jailbreak Guide
 * ⭐ **[DSi Jailbreak Guide](https://dsi.cfw.guide/)** - DSi Jailbreak Guide
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
+* [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
 * [Pretendo](https://pretendo.network/) - 3DS Network Replacement
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
@@ -921,7 +923,7 @@
 ## ▷ Roblox Tools
 
 * ⭐ **[RoSeal](https://www.roseal.live/)**, [RoPro](https://ropro.io/), [RoValra](https://rovalra.com/) / [GitHub](https://github.com/NotValra/RoValra), [BTRoblox](https://github.com/AntiBoomz/BTRoblox) or [RoGold](https://rogold.live/free) - Enhance Roblox Website / Add Features / Extensions
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
+* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app) - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)**, [⁠Rotrends](https://rotrends.com/) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [⁠Rojo](https://github.com/rojo-rbx/rojo) - Use External Code Editors for Roblox Studio Projects

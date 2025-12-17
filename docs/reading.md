@@ -483,6 +483,7 @@
 * [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaHaven](https://mangahaven.net/)
+* [Anibite Manga](https://anibite.cc/manga)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -715,6 +716,7 @@
 
 ## ▷ Academic Papers
 
+* ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
@@ -774,6 +776,7 @@
 * [bioRvix](https://www.biorxiv.org/) - Biology Preprints
 * [Bioline](https://www.bioline.org.br/) - Bioscience Journals
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
+* [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments 
 * [PapersWithCode](https://huggingface.co/papers), [Catalyzex](https://www.catalyzex.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/), [AI RND](https://www.ai-rnd.com/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [Censored Planet](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.com/) - Find Connected Academic Papers

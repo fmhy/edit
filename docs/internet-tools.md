@@ -61,6 +61,7 @@
 * ⭐ **[wallabag](https://wallabag.org/)** or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
+* [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tools
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 
@@ -404,7 +405,7 @@
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [Tuta](https://tuta.com/) / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota) - Number-Free Email Service
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
 * [Delta Chat](https://delta.chat/en/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
@@ -444,7 +445,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](<https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
+* [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains

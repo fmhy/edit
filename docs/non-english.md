@@ -785,6 +785,7 @@
 
 * [SuccessCDs](https://www.successcds.net/) - CBSE Study Guides
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
+* [⁠Bankelal Comics Lite](https://play.google.com/store/apps/details?id=com.comicslover.bankelalcomics) - Classic Comics App / Use Adblocker
 * [NDLI](https://ndl.iitkgp.ac.in/) - Educational Resources / Documents
 * [Sanskrit Documents](https://sanskritdocuments.org), [sanskritsahitya](https://sanskritsahitya.org/) or [gitasupersite](https://www.gitasupersite.iitk.ac.in/) - Esoteric Texts
 * [Hindwi](https://hindwi.org/) - Hindi Poems

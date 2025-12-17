@@ -319,7 +319,6 @@
 * [Romsie](https://roms2000.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - ROMs
 * [DLPSGame](https://dlpsgame.com/), [2](https://nswgame.com) - ROMs / Avoid PC Games
-* [Romsever](https://romsever.com) - ROMs
 * [ROMsGames](https://www.romsgames.net/roms/) - ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - ROMs
 * [ROMsHQ](https://romshq.com/) - ROMs
