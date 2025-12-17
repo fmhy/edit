@@ -377,7 +377,7 @@
 
 ### Slideshare Downloaders
 
-[SlideShareDownloader](https://www.slidesdownloader.com/), [DownloaderSlides](https://downloderslides.com/), [SlidesDownloaders](https://slidesdownloaders.com/), [SlideShareSaver](https://slidesharesaver.com/) 
+[DownloaderSlides](https://downloderslides.com/), [SlidesDownloaders](https://slidesdownloaders.com/), [SlideShareSaver](https://slidesharesaver.com/) 
 
 ***
 
