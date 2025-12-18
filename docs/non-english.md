@@ -369,6 +369,7 @@
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
+* [hellspy](https://hellspy.to/) - Video / Geoblocked
 
 ## ▷ Torrenting
 
@@ -381,9 +382,9 @@
 * [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
-* [gauc](https://gauc.si/) - Movies / TV / Anime / VPN May Be Needed
-* [uzi](https://uzi.si) - Movies / TV / Anime / Region Locked
-* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Region Locked
+* [mrkaj](https://mrkaj.si/) - Movies / TV / Anime / Geoblocked
+* [uzi](https://uzi.si) - Movies / TV / Anime / Geoblocked
+* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Geoblocked
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
@@ -1369,6 +1370,7 @@
 ## ▷ Streaming / Стриминг
 
 * ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p
+* ⭐ **[reyohoho](https://reyohoho.github.io/reyohoho/)** - Movies / TV / Anime / Sub / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.pro/) - Movies / TV / Dub / 1080p
@@ -1377,7 +1379,6 @@
 * [IVI](https://www.ivi.tv/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
 * [DostFilms](https://dostfilms.site/) - Movies / TV / Anime / Dub / 1080p
-* [reyohoho](https://reyohoho.github.io/reyohoho/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kinogoo](https://hd.kinogoo.cc/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [filmix](https://filmix.my/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
