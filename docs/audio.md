@@ -35,7 +35,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player /  [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-*  [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+*  [squid.wtf](https://tidal.squid.wtf), [Monochrome](https://monochrome.samidy.com/), [⁠Digger](https://digger-ui.vercel.app/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
