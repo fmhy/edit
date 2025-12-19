@@ -964,7 +964,6 @@
 * [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [Pawn Appétit](https://pawnappetit.com/) - Chess Game / Move Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
-* [Decode Chess](https://app.decodechess.com/) - Chess Game / Move Analysis
 * [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
 * [⁠Chessigma](https://www.chessigma.com/) - Chess Game / Move Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
 * [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis

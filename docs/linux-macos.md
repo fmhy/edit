@@ -515,7 +515,8 @@
 * ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) or [dwm](https://dwm.suckless.org) - Dynamic Tiling Window Managers
 * ⭐ **[Hyprland](https://hyprland.org/)** / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/) or **[niri](https://github.com/YaLTeR/niri)** - Dynamic Tiling Wayland Compositors
 * ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway) or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositors
-* [BSPWM](https://github.com/baskerville/bspwm) or [herbstluftwm](https://herbstluftwm.org) - Hybrid Tiling Window Managers
+* [BSPWM](https://github.com/baskerville/bspwm)  Hybrid Tiling Window Manager
+* [herbstluftwm](https://herbstluftwm.org) - Manual Tiling Window Manager
 * [river](https://github.com/riverwm/river/) - Wayland Compositor
 * [LabWC](https://github.com/labwc/labwc) - Wayland Compositor
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositor
