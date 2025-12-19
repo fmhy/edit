@@ -166,7 +166,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           </div>
           <div>
             <button
-              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-$vp-c-text-1 border-$vp-c-divider"
+              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-white border-$vp-c-divider"
               @click="toggleCard()"
             >
               Share Feedback
