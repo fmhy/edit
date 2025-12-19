@@ -97,11 +97,6 @@ export class ThemeHandler {
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
     }
-    
-    // Add dark class for backward compatibility with VitePress
-    if (mode === 'dark') {
-      root.classList.add('dark')
-    }
   }
 
   private applyCSSVariables(colors: ModeColors, theme: Theme) {

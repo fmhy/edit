@@ -202,6 +202,7 @@ onMounted(async () => {
 })
 
 watch(selectedColor, async (color) => {
+  if (!color) return;
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
   // Explicitly set the theme to override any previous selection
@@ -225,7 +226,7 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            selectedColor === color
+            (themeName && themeName.value === `color-${color}`)
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
@@ -248,7 +249,7 @@ const toggleAmoled = () => {
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="setTheme(t)"
+          @click="selectedColor = '' as ColorNames; setTheme(t)"
           :title="themeRegistry[t].displayName"
         >
           <span
