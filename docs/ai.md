@@ -255,7 +255,6 @@
 ## ▷ Specialized Benchmarks
 
 * ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
-* [⁠Alpha Arena](https://nof1.ai/) - AI Investing Ability Benchmark 
 * [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI Design Benchmarks
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
 * [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
