@@ -154,7 +154,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               :class="
                 isCardShown === false
                   ? `i-lucide:mail w-6 h-6 text-$vp-c-text-1`
-                  : `i-lucide:mail-x w-6 h-6 text-$vp-c-text-1`
+                  : `i-lucide:mail-x w-6 h-6 text-white`
               "
             />
           </div>
@@ -166,7 +166,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           </div>
           <div>
             <button
-              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-$vp-c-text-1 border-$vp-c-divider"
+              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-white border-$vp-c-divider"
               @click="toggleCard()"
             >
               Share Feedback
@@ -191,7 +191,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-                class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+                class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="handleSubmit(item.value)"
             >
               <span>{{ item.label }}</span>
