@@ -430,7 +430,7 @@
 * ⭐ **[Watch Footy](https://watchfooty.st/)**, [2](https://www.watchfooty.top) - Stream Aggregator / [Discord](https://discord.gg/T38kUWZHtB) / [Mirrors](https://watchfty.link/)
 * ⭐ **[BINTV](https://bintv.fun/)** / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
 * ⭐ **[SportsBite](https://sportsbite.live/)**, [2](https://sportsbite.pro/) / [Status](https://allbite.xyz/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
-* ⭐ **[SoccerStreamLinks](https://soccerstreamlinks.site/)** or [Iframely](https://iframely.biz/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
+* ⭐ **[SoccerStreamLinks](https://soccerstreamlinks.site/)** or [Streameast24](https://streameast24.sbs/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.online/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
@@ -867,8 +867,7 @@
 * ⭐ **[They Shoot Pictures](https://www.theyshootpictures.com/)** - Movie Top 1000 List
 * ⭐ **[FlickMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
-* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
-* [SeriesGraph](https://seriesgraph.com), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+* ⭐ **[Series Graph](https://seriesgraph.com/)**, [Ratings Graph](https://www.ratingraph.com/), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode / Movie Rating Graphs
 * [RYM Ultimate Film Lists](https://rateyourmusic.com/list/TheScientist/rym-ultimate-film-genres-and-lists/) - In-Depth Film Genre & Recommendation Lists
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Movie / TV / Anime Recommendation Directory
 * [listal](https://www.listal.com/) - Movies / TV

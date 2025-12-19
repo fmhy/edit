@@ -199,7 +199,6 @@
 ## ▷ Git Tools
 
 * 🌐 **[Console](https://console.substack.com/)** - Search Projects on OpenSourceHub.io
-* 🌐 **[Awesome README](https://github.com/matiassingers/awesome-readme)** - GitHub Readme Resources
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)**, [Forgejo](https://forgejo.org/compare/#only-develops-free-software) or [Forgeperf.org](https://forgeperf.org/) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[Fork](https://git-fork.com/)**, [GitButler](https://github.com/gitbutlerapp/gitbutler) or [GitQlient](https://github.com/francescmm/GitQlient) - Git Desktop Clients
@@ -228,7 +227,6 @@
 * [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
-* [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/git-quick-stats/git-quick-stats)
 
 ***
@@ -239,6 +237,7 @@
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
+* 🌐 **[Awesome README](https://github.com/matiassingers/awesome-readme)** - GitHub Readme Resources
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * 🌐 **[GitHub-Userscripts](https://greasyfork.org/en/users/24847)** - GitHub Userscripts
 * ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
@@ -278,6 +277,7 @@
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Markdown Preview](https://aviaryan.github.io/javascripts/github.md/) - Preview GH Markdown
+* [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
 * [ReadmeGallery](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Readme Gallery Creator
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
 * [GitHub Readme Quotes](https://github-readme-quotes-returns.vercel.app/) - GitHub Readme Quote Generator / [GitHub](https://github.com/shravan20/github-readme-quotes)
@@ -799,7 +799,7 @@
 * [Motion](https://motion.dev/) - Animation Library
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Shuttle](https://www.shuttle.dev/) / [GitHub](https://github.com/shuttle-hq/shuttle) or [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
+* [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
 * [Caddy](https://caddyserver.com/) - Web Server
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing

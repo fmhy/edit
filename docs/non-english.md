@@ -476,6 +476,7 @@
 * ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Status](https://movix.website/)
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [xalaflix](https://xalaflix.in/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.zip/) / [Discord](https://discord.gg/7myEXg2tQF) / [Telegram](https://t.me/xalaflixofficiel)
+* [P-Stream](https://pstream.mov/) - Movies / TV / Anime / Auto-Next / Use Extension / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [coflix](https://coflix.cc/) - Movies / TV / Anime / [Status](https://t.me/+3i7POlIHqqVmMWMx)
 * [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
@@ -1017,7 +1018,6 @@
 * 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
-* [IranFirewall](https://viewdns.info/iranfirewall/) - Iranian Firewall Block Test
 * [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](https://www.parseek.com/) - Search
@@ -1113,7 +1113,6 @@
 * [Desu-Online](https://desu-online.pl/) - Anime / Sub / 1080p
 * [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
-* [ogladaj](htps://ogladaj.in/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [Naikamu](https://naikamu.com/) - Anime Streaming / Android
 
@@ -1389,7 +1388,7 @@
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [AniLibria](https://anilibria.top/) - Anime / Sub / 1080p
-* [yummyani](https://site.yummyani.me/) - Anime / Sub / 1080p
+* [yummyani](https://site.yummyani.me/) - Anime / Sub / 720p
 * [animego](https://animego.me/) - Anime / Sub / 1080p
 * [Animebuff](https://animebuff.ru/) - Anime / Sub / 1080p
 * [Animestars](https://animestars.org/) - Anime / Sub / 1080p
@@ -1485,7 +1484,7 @@
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
-* [gauc](https://gauc.si/) - Movies / TV / Anime / VPN May Be Needed
+* [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
 * [MojeVideo](https://www.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting
