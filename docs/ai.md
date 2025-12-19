@@ -385,6 +385,9 @@
 * [IOPaint](https://www.iopaint.com/) - Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing)
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
+* [Online Superscript Generator Tool](https://superscriptgenerator.net/) - A superscript generator for assisting with posting or writing
+* [Completely Free Video Compressor](https://freevideocompressor.online/) - Completely free, completely private
+* 
 
 ***
 
