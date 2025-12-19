@@ -386,6 +386,7 @@
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
 * [Online Superscript Generator Tool](https://superscriptgenerator.net/) - A superscript generator for assisting with posting or writing
+* [PDF to Markdown conversion tool](https://deepocr.cc/pdf-to-markdown/) - Deepseek's latest OCR tool
 * [Completely Free Video Compressor](https://freevideocompressor.online/) - Completely free, completely private
 * 
 
