@@ -221,6 +221,7 @@
 * ⭐ **[AnimeX](https://animex.one/)** - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xNZcSQRbTm)
 * ⭐ **[Anidap](https://anidap.se/)** - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/btsMTSsBM7)
 * ⭐ **[Kuroiru](https://kuroiru.co/)** or **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** - Multi-Site Anime Search
+* ⭐ **[Animelok](https://animelok.to/)** (formerly Animerulz) - Sub / Dub / Multi / Auto-Next / [Telegram](https://t.me/animerulz_xyz)
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [AniBite](https://anibite.cc/) - Sub / Dub / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.com/invite/V5AWy78VTv)
