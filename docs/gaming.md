@@ -373,9 +373,8 @@
 * [MFGG](https://mfgg.net/) - Super Mario Fan Games / Mods / [Discord](https://discord.gg/jchgfw5)
 * [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) / [Discord](https://discord.gg/x7gr3M9) - Super Mario Bros. DS / Wii Mods
 * [SMW Hacks](https://rentry.co/FMHYB64#smw-hacks) or [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
-* [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-* [Pokemerald](https://pokemerald.com/) - Pokémon ROM Mods
+* [Pokémon ROM Mods](https://rentry.co/FMHYB64#pokemerald) - Pokémon ROM Mods
 * [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYB64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
 * [⁠Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - Super Mario Bros. Remake / [Discord](https://discord.com/invite/A68uRsnja3)

@@ -987,6 +987,8 @@
 * [Forever Dreaming](https://transcripts.foreverdreaming.org/) - Media Transcripts
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
+* [MCU Order](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/) - Marvel Cinematic Universe Viewing Orders
+* [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [IMissedTheStart](https://imissedthestart.com/) - Summarize Missed Movie Parts
 * [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
@@ -1003,7 +1005,7 @@
 * [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
-* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
+* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies / Shows
 * [Bechdel Test](https://bechdeltest.com/) - Movie Bechdel Test Check
 * [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis

@@ -924,6 +924,7 @@
 * [ComicBookCanon](https://www.comicbookcanon.com/) - Comics / Manga Top Lists
 * [r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
+* [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [Nevix](https://nevix.com/) - Manga / Social Media
 * [Kitsu](https://kitsu.io/) - Manga

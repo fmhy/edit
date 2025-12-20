@@ -407,6 +407,7 @@
 * [Catima](https://catima.app/) - Loyalty Card Managers
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) or [Quikshort](https://play.google.com/store/apps/details?id=com.atolphadev.quikshort) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) or [Action Notch](https://play.google.com/store/apps/details?id=com.androxus.touchthenotch) - Use Camera Notch as Button
+* [⁠UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) - Gesture Navigation / Custom Actions 
 * [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) or [MiCTS](https://github.com/parallelcc/MiCTS/blob/main/README_en.md) - Circle to Search
 * [notesGPT](https://usenotesgpt.com/) - AI Voice Notes
