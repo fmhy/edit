@@ -153,7 +153,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             <span
               :class="
                 isCardShown === false
-                  ? `i-lucide:mail w-6 h-6 text-$vp-c-text-1`
+                  ? `i-lucide:mail w-6 h-6 text-white`
                   : `i-lucide:mail-x w-6 h-6 text-white`
               "
             />
