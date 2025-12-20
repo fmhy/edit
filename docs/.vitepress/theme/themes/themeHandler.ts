@@ -21,6 +21,7 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
+const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -46,6 +47,20 @@ export class ThemeHandler {
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
       this.state.value.theme = themeRegistry[savedTheme]
+    } else {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY_THEME_DATA)
+        if (raw) {
+          const parsed = JSON.parse(raw) as Record<string, any>
+          if (parsed && parsed[savedTheme]) {
+            themeRegistry[savedTheme] = parsed[savedTheme]
+            this.state.value.currentTheme = savedTheme
+            this.state.value.theme = parsed[savedTheme]
+          }
+        }
+      } catch (e) {
+        // ignore parse errors
+      }
     }
 
     // Set amoled preference

@@ -205,6 +205,16 @@ watch(selectedColor, async (color) => {
   if (!color) return;
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
+  // Hopeful Fix For Preset Themes
+  try {
+    const key = 'vitepress-theme-data'
+    const raw = localStorage.getItem(key)
+    const parsed = raw ? JSON.parse(raw) as Record<string, any> : {}
+    parsed[`color-${color}`] = theme
+    localStorage.setItem(key, JSON.stringify(parsed))
+  } catch (e) {
+    // ignore storage errors
+  }
   // Explicitly set the theme to override any previous selection
   await nextTick()
   console.log('Setting theme to:', `color-${color}`)
