@@ -196,7 +196,13 @@ const normalizeColorName = (colorName: string) =>
   colorName.slice(1).replaceAll(/-/g, ' ')
 
 onMounted(async () => {
-  // Don't auto-apply color theme - only apply when user explicitly selects
+  // apply saved theme on load
+  if (selectedColor.value) {
+    const theme = generateThemeFromColor(selectedColor.value)
+    themeRegistry[`color-${selectedColor.value}`] = theme
+    await nextTick()
+    setTheme(`color-${selectedColor.value}`)
+  }
   // Wait for next tick to ensure theme handler is fully initialized
   await nextTick()
 })
