@@ -18,6 +18,7 @@
 * ⭐ **[FlickyStream](https://flickystream.ru/)** or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/flickystream)
 * ⭐ **[Cinegram](https://cinegram.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
+* [Snowstream](https://snow.ct.ws) - Movies / TV / Anime [Telegram](https://t.me/snowctws) / [Discord](https://discord.gg/zhsdHJd8mW)
 * [1Shows](https://www.1shows.nl/), [1Flex](https://www.1flex.nl/) or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
 * [FilmCave](https://filmcave.ru/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
