@@ -388,21 +388,23 @@
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
+* [audiobook-downloader](https://github.com/aviiciii/audiobook-downloader/) - Audiobook Download Tool
+
 
 ***
 
 ## ▷ Streaming
 
-* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
+* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/aviiciii/audiobook-downloader/)
 * ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
-* [FullLengthAudiobooks](https://fulllengthaudiobooks.net/)
-* [HDAudiobooks](https://hdaudiobooks.net/)
-* [BigAudiobooks](https://bigaudiobooks.net/)
-* [HotAudioBooks](https://hotaudiobooks.com/)
+* [FullLengthAudiobooks](https://fulllengthaudiobooks.net/) / [Downloader](https://github.com/aviiciii/audiobook-downloader/)
+* [HDAudiobooks](https://hdaudiobooks.net/) / [Downloader](https://github.com/aviiciii/audiobook-downloader/)
+* [BigAudiobooks](https://bigaudiobooks.net/) / [Downloader](https://github.com/aviiciii/audiobook-downloader/)
+* [HotAudioBooks](https://hotaudiobooks.com/) 
 * [BookAudiobook](https://bookaudiobook.net/)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
-* [zAudiobooks](https://zaudiobooks.com/)
+* [zAudiobooks](https://zaudiobooks.com/) / [Downloader](https://github.com/aviiciii/audiobook-downloader/)
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
