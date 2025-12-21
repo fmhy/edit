@@ -342,7 +342,7 @@
 * [ImageFX](https://labs.google/fx/tools/image-fx) - Imagen 4 / Unlimited / Region-Based / Sign-Up Required / [Discord](https://discord.com/invite/googlelabs)
 * [⁠Vheer](https://vheer.com/) - Unlimited / Flux Kontext Dev / Flux Schnell
 * [Z-Image](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) - z-Image / [GitHub](https://github.com/Tongyi-MAI/Z-Image)
-* [⁠Image to Image](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev / Nano Banana
+* [⁠Image to Image](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev
 * [⁠Image-Editor](https://image-editor.org/) - Unlimited / Editing / Nano Banana / No Sign-Up
 * [AIImagetoImage](https://aiimagetoimage.io/) -  Nano Banana / Editing / No Sign-Up
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [Genspark](https://www.genspark.ai/) / [Discord](https://discord.com/invite/CsAQ6F4MPy), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell

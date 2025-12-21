@@ -451,7 +451,7 @@
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) - Item Donation
-* [Signsuisse](https://www.sgb-fss.ch/signsuisse/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
+* [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 
 ## ▷ Downloading / Téléchargement
 

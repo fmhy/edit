@@ -826,7 +826,7 @@
 * [The Uncensored Library](https://www.uncensoredlibrary.com/en) - Uncensored / Declassified Documents
 * [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
-* [Archives.gov/](https://www.archives.gov/) - Declassified Documents
+* [Archives.gov](https://www.archives.gov/) - Declassified Documents
 * [DDOS](https://ddosecrets.com/) - Transparency Collective
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [Cryptome](https://cryptome.org/) - Leaked Documents
