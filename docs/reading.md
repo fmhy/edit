@@ -186,6 +186,7 @@
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
 * [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
+* [⁠Music and Books](https://musicsandbooks.org/) - Music Books
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
@@ -539,6 +540,7 @@
 * [RadioShack Catalogs](https://www.radioshackcatalogs.com/) - RadioShack Catalog Archive
 * [HomePower](https://www.homepower.com/archive-browse) - Home Power Magazines
 * [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
+* [⁠Music and Books](https://musicsandbooks.org/) - Music Magazines
 
 ***
 
@@ -768,6 +770,13 @@
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [Local Models Papers](https://rentry.org/LocalModelsPapers) - LLM Related Research Papers
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
+* [Legal Core](https://core.ac.uk/) - Papers / Academic
+* [Dataone](https://www.dataone.org/) - Datasets
+* [Kaggle](https://www.kaggle.com/datasets) - Datasets
+* [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
+* [DBpedia](https://www.dbpedia.org/) - Datasets
+* [GBIF](https://www.gbif.org/) - Biodiversity Datasets
+* [RPubs](https://rpubs.com/) - R Markdown Data Publishing
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals / [Search](https://www.pubmedisearch.com/)
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
@@ -796,49 +805,42 @@
 * [PDFHost](https://pdfhost.io/) - Document Search
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Academic Journals](https://academicjournals.org/) - Science / Articles
-* [Dataone](https://www.dataone.org/) - Datasets
-* [Kaggle](https://www.kaggle.com/datasets) - Datasets
-* [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
-* [DBpedia](https://www.dbpedia.org/) - Datasets
-* [GBIF](https://www.gbif.org/) - Biodiversity Datasets
-* [RPubs](https://rpubs.com/) - R Markdown Data Publishing
 * [DOAJ](https://doaj.org/) - Journals / Articles
 * [Proquest](https://www.proquest.com/) - Journals / Articles
 * [MDPI](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
-* [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
+* [Typewriter](https://tetw.org/) - Educational Articles & Essays
 * [E-International Relations](https://www.e-ir.info/) - International Relation Articles
-* [Legal Core](https://core.ac.uk/) - Papers / Academic
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
-* [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
 * [OATD](https://oatd.org/) - Theses / Dissertations
 * [lol my thesis](https://lolmythesis.com/) - Summarized Theses
+* [NSA Archive](https://nsarchive.gwu.edu/) - Reports
+* [NAP](https://nap.nationalacademies.org/) - Reports
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
+* [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
 * [The Uncensored Library](https://www.uncensoredlibrary.com/en) - Uncensored / Declassified Documents
 * [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
 * [Archives.gov/](https://www.archives.gov/) - Declassified Documents
 * [DDOS](https://ddosecrets.com/) - Transparency Collective
-* [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
-* [NSA Archive](https://nsarchive.gwu.edu/) - Reports
-* [NAP](https://nap.nationalacademies.org/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [Cryptome](https://cryptome.org/) - Leaked Documents
 * [Snowden Archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
-* [Epstein Library](https://www.justice.gov/epstein) - Declassified Epstein Files
+* [Epstein Library](https://www.justice.gov/epstein) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [Google Leaks](https://www.zachvorhies.com/google_leaks/) - Leaked Google Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
 * [Marine Corps Pubs](https://www.marines.mil/News/Publications/MCPEL/), [Air Force Pubs](https://www.e-publishing.af.mil/product-index/), [Army Pubs](https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) or [STI](https://sti.nasa.gov/) - NASA Documents
-* [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
-* [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CourtListerner](https://www.courtlistener.com/), [USA Courts](https://pacer.uscourts.gov/) or [Case.law](https://case.law/) - Court Documents
+* [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
+* [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
+* [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
 * [Aleph](https://docs.aleph.occrp.org/) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
