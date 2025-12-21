@@ -328,7 +328,7 @@
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Sign-Up Required
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
-* [⁠UploadHive](https://uploadhive.com/) - Unlimited / 30 Days After Last Download / Use Adblock
+* [⁠UploadHive](https://uploadhive.com/) - Unlimited / 50 Days After Last Download / Use Adblock
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required
