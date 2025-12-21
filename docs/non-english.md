@@ -198,8 +198,6 @@
 * ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
-* [XX-Net](https://xx-net.com/) - GFW VPN / Paid / [GitHub](https://github.com/XX-net/XX-Net)
-* [New Pac](https://github.com/Alvin9999/new-pac) - Bypass GFW Proxies
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
