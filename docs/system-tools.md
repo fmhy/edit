@@ -43,7 +43,6 @@
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweaked Start Menu / [Start Skin](https://github.com/bonzibudd/Fluent-Metro)
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
-* ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
