@@ -478,7 +478,7 @@
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * [Holy Unblocker](https://holyunblocker.org/) / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Multi Proxy / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
-* [⁠US5](https://us5.thetravelingtourguide.com/) - Multi-Site + App Proxy / [Discord](https://discord.com/invite/VDA8Ngx38Z)
+* [⁠US5](https://us5.thetravelingtourguide.com/) - Multi-Site + App Proxy / Adblocker / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
