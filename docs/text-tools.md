@@ -185,6 +185,8 @@
 * [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+* [TypingTest.me](https://typingtest.me/) - Typing Test
+
 
 ***
 
@@ -294,6 +296,8 @@
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
 * [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
 * [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
+* [NotesOnline](https://notesonline.org/) - Local Saves & 100% Secure
+
 
 ***
 
