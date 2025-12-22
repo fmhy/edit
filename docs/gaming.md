@@ -58,7 +58,7 @@
 ***
 
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/)
-* ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
+* ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYB64#gnarly)** - Download / PW: `gnarly`
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
