@@ -453,7 +453,7 @@
 
 ## ▷ Infrastructure Maps
 
-* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
+* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map / [GitHub](https://github.com/openinframap/openinframap/)
 * [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
 * [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
 * [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps

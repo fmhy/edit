@@ -44,18 +44,18 @@
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[zai.is](https://zai.is/)** - o3-pro / GPT-5.2 / Claude 4 Opus / Gemini 2.5 Pro / [Discord](https://discord.gg/z-ai) Required
 * [Yupp.ai](https://yupp.ai/) - Gemini 3 Pro / GPT-5.1-high / Grok 4.1 / Qwen 3 Max / Google Login / [Discord](https://discord.com/invite/yuppai)
+* [Pollinations](https://chat.pollinations.ai/) - Multiple Chatbots / No Sign-Up
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
+* [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [HiveChat](https://oi.wr.do/) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
+* [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
+* [Scira](https://scira.ai/) - Grok 4 / Qwen 3 / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 3 Pro / Grok 4.1 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up
-* [Pollinations](https://chat.pollinations.ai/) - Multiple Chatbots / No Sign-Up
-* [Scira](https://scira.ai/) - Grok 4 / Qwen 3 / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 
 ***
 

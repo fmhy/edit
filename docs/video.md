@@ -48,7 +48,7 @@
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Sign-Up Required
 * ⭐ **[yFlix](https://yflix.to/)** or [1Movies](https://1movies.bz/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
-* [LookMovie](https://lookmovie2.to/) - Movies / TV / Auto-Next / 480p / [Clones](https://proxymirrorlookmovie.github.io/)
+* [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/) - Movies / TV / Auto-Next / 480p
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [WatchFlix](https://watchflix.to/) - Movies / TV / Anime / 720p
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
@@ -325,7 +325,7 @@
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Classic Martial Arts Films
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
-* [FootageFarm](https://footagefarm.com/) or [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
+* [FootageFarm](https://footagefarm.com/), [Public Domain Movies](https://publicdomainmovie.net/) or [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 
