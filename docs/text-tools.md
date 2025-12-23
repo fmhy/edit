@@ -234,6 +234,7 @@
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Flotes](https://flotes.app/) - Markdown Note-Taking
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking
+* [Notesnook](https://notesnook.com/) - Note-Taking
 * [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / [GitHub](https://github.com/vnotex/vnote)
 * [Tiddly](https://tiddlywiki.com/) - Info Manager / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Org-roam](https://www.orgroam.com/) - Info Manager
@@ -453,7 +454,7 @@
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
 * [Bunny Fonts](https://fonts.bunny.net/) - Open Source
-* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Privacy-Friendly API](https://fonts.coollabs.io/)
+* [Google Fonts](https://fonts.google.com/) - Commercial Use / [Self-Host](https://gwfh.mranftl.com/fonts) / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
 * [OnlineWebFonts](https://www.onlinewebfonts.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
@@ -559,6 +560,7 @@
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [Text-Generator](https://text-generator.app/)
 * [BoldTextGenerator](https://boldtextgenerator.org/)
+* [FontGenerator.design](https://fontgenerator.design/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)
 * [FontGenerator.cool](https://fontgenerator.cool/)

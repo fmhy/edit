@@ -143,6 +143,7 @@
 * [DiscordServers.com](https://discordservers.com/) - Server / Bot Index
 * [Disforge](https://disforge.com/servers) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
+* [Disdex](https://disdex.io/) - Server Index
 * [Top.gg](https://top.gg/) - Bot Index
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
 * [Discord Bots](https://discord.bots.gg/) - Bot Index

@@ -123,12 +123,6 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 ***
 
-### Adobe Guide
-
-* **[Adobe Quick Guide](https://rentry.co/FMHYB64#adobe-guide)**
-
-***
-
 ### Torrenting
 
 > Do I need a VPN to torrent?

@@ -147,6 +147,7 @@
 
 * [F0rc3Run](https://f0rc3run.github.io/F0rc3Run-panel/) / [GitHub](https://github.com/F0rc3Run/F0rc3Run)
 * [V2Nodes](https://v2nodes.com/)
+* [v2ray servers](https://github.com/ebrasha/free-v2ray-public-list)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
