@@ -103,6 +103,7 @@
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
+* [Voibe](https://www.getvoibe.com) - Fast, private, on device AI voice dictation app for Mac
 
 ***
 
