@@ -44,7 +44,7 @@
 * ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Chatbots / No Sign-Up / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[zai.is](https://zai.is/)** - o3-pro / GPT-5.2 / Claude 4 Opus / Gemini 2.5 Pro / [Discord](https://discord.gg/z-ai) Required
 * [Yupp.ai](https://yupp.ai/) - Gemini 3 Pro / GPT-5.1-high / Grok 4.1 / Qwen 3 Max / Google Login / [Discord](https://discord.com/invite/yuppai)
-* [Pollinations](https://chat.pollinations.ai/) - Multiple Chatbots / No Sign-Up
+* [Pollinations](https://chat.pollinations.ai/) - Gemini 3 Pro / Claude 4.5 Opus / GPT 5.2 / No Sign-Up / 2 Per Minute
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [HiveChat](https://oi.wr.do/) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
@@ -321,15 +321,15 @@
 # ► Image Generation
 
 * 🌐 **[LMArena Text to Image](https://lmarena.ai/leaderboard/text-to-image)** or **[LMArena Editing](https://lmarena.ai/leaderboard/image-edit)** - Image Generator Benchmarks / Leaderboards
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - GPT Image 1.4 / Nano Banana Pro / Multiple Generators / Editing / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - GPT Image 1.5 / Nano Banana Pro / Multiple Generators / Editing / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana (100 per day) / Nano Banana Pro (2 per day) / Sign-Up Required / Region-Based / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Whisk](https://labs.google/fx/en/tools/whisk) - Imagen 4 + Ultra / Nano Banana / Sign-Up Required / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[zAI](https://zai.is/)** - Unlimited / Nano Banana Pro (4K) / [Discord](https://discord.gg/z-ai) Required
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / MAI-Image-1 / Editing / Sign-Up Required
 * ⭐ **[PigenAI](https://pigenai.art/)** - Unlimited / Imagen 4 / Qwen / Nano Banana
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 15 Prompts Daily / Seedream 4.0 / Sign-Up Required
-* [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1 / Seedream 4 / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
-* [Pollinations](https://chat.pollinations.ai/) - 1 Per Minute / Nano Banana Pro / Multiple Generators / No Sign-Up
+* [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1.5 / Seedream 4 / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
+* [Pollinations](https://chat.pollinations.ai/) - 2 Per Minute / Nano Banana Pro / GPT Image 1.5 / Multiple Generators / No Sign-Up
 * [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - Hunyuan Image 3.0 / Unlimited
 * [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Flux Kontext (dev) / Editing / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Grok](https://grok.com/) - 96 Daily / Editing / Sign-Up Required / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)

@@ -20,22 +20,22 @@
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
 * [1Shows](https://www.1shows.nl/), [1Flex](https://www.1flex.nl/) or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Auto Next](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#rgshows-autoplay) / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.gg/the-one)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
-* [FilmCave](https://filmcave.ru/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
+* [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.pro/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [Cinema.BZ](https://cinema.bz/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
 * [Cinetaro](https://cinetaro.buzz/) - Movies / TV / Anime / 3rd Party Host
 * [PopcornMovies](https://popcornmovies.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
 * [Smashystream](https://smashystream.com/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl) / [Discord](https://discord.com/invite/tcdcxrbDkE)
 * [TVids](https://www.tvids.to/), [2](https://www.tvids.net/), [3](https://watch-tvseries.net/), [4](https://tvids.me/), [5](https://tvids.tv/) - Movies / TV / Anime / Auto-Next
 * [AZMovies](https://azmovies.to/) - Movies / TV / Anime / Mostly 3rd Party Hosts
-* [StreamM4u](https://streamm4u.com.co/), [2](https://m4uhd.page/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [BFLIX](https://bflix.sh/) - Movies / TV 
 * [MovieHD](https://moviehd.us) - Movies / [Telegram](https://t.me/+NthvAOpP0oNkMWU1)
+* [StreamM4u](https://streamm4u.com.co/), [2](https://m4uhd.page/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
 * [StreamDB](https://streamdb.space/) - Movies / TV / 3rd Party Hosts / [Telegram](https://t.me/streamdb_online)
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://ww1.goojara.to/) - Movies / TV / Anime
 * [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / Mostly 3rd Party Hosts
+* [Cineb](https://cineb.world/) - Movies / TV / Anime / Mostly 3rd Party Hosts
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 3rd Party Hosts
-* [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
 
@@ -87,7 +87,7 @@
 * [Flicker](https://flickermini.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#flicker-proxy) / [Subreddit](https://www.reddit.com/r/flickermini/)
 * [TMovie](https://tmovie.tv/), [2](https://tmovie.cc) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
-* [Netplay](https://netplayz.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
+* [Netplay](https://netplayz.live/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
@@ -112,6 +112,7 @@
 * [Ask4Movies](https://ask4movie.app/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
 * [PlayTorrio](https://playtorrio.pages.dev/) - Desktop App / Use Streaming Mode / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
+* [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
 

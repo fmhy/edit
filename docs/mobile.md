@@ -1038,6 +1038,7 @@ https://t.me/TikTokModCloud
 * [iSH Shell](https://ish.app/) / [GitHub](https://github.com/ish-app/ish) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
+* [⁠Circadian](https://github.com/Pasithea0/circadian-extension) - Auto-Adjust Display Color / Temperature
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
 * [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
 * [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker
