@@ -471,7 +471,7 @@
 ## ▷ Streaming
 
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Status](https://movix.website/)
+* ⭐ **[Movix](https://www.movix.club/)** - Movies / TV / Anime
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [xalaflix](https://xalaflix.in/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.zip/) / [Discord](https://discord.gg/7myEXg2tQF) / [Telegram](https://t.me/xalaflixofficiel)
 * [P-Stream](https://pstream.mov/) - Movies / TV / Anime / Auto-Next / Use Extension / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
