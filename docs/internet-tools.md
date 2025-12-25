@@ -370,6 +370,7 @@
 * [⁠1sh](https://www.1sh.pl/) - `1sh.pl/qIPAbZ`
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
+* [⁠AnonShort](https://anonshort.com/) - `ash.biz.id/JO8Ou`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
 * [f1.tf](https://f1.tf/) - `f1.tf/k94R`
 * [u.to](https://u.to/) - `u.to/jc85Ig`
@@ -438,7 +439,7 @@
 
 ***
 
-* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 20+ Domains
+* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 30+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
