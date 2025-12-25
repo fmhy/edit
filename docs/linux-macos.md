@@ -93,7 +93,7 @@
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note Apps
-* [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text Editors
+* [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text Editors
 * [Kate Editor](https://kate-editor.org/) - Source Code Editor
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 * [Durdraw](https://durdraw.org/) - ASCII Editor

@@ -578,7 +578,7 @@
 * [streamkiste.taxi](https://streamkiste.taxi/) - Movies / TV / Dub / 720p
 * [Einschalten](https://einschalten.in/) - Movies / Dub / 720p
 * [Haschcon](https://haschcon.com/) - Movies / 720p
-* [ardmediathek](ttps://www.ardmediathek.de/) - Free w/ Ads
+* [ardmediathek](https://www.ardmediathek.de/) - Free w/ Ads
 * [zdf](https://www.zdf.de/) - Free w/ Ads
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
 * [FireAnime](https://fireani.me/) - Anime

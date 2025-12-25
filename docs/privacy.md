@@ -104,7 +104,6 @@
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment / [Guide](https://claraiscute.neocities.org/Guides/sandboxie-guide/), [2](https://claraiscute.pages.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
-* [⁠SquareX](https://public.sqrx.com/web) - Browser Sandbox
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -277,7 +276,7 @@
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** - All Platforms / Phone # Required / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android
-* ⭐ **[Briar](https://briarproject.org/)** / Android / [GitLab](https://code.briarproject.org/briar/briar)
+* ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)
 * [Matrix](https://matrix.org/) / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Clients / Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
 * [Wire](https://wire.com/en/download/) - All Platforms / Phone # Required / [GitHub](https://github.com/wireapp)
 * [Session](https://getsession.org/) - All Platforms / [GitHub](https://github.com/session-foundation)

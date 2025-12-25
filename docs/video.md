@@ -82,6 +82,7 @@
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JeMDzxSbhH)
 * [VoidFlix](https://voidflix.pages.dev/) or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
+* [Poprink](https://popr.ink/) - Movies / TV / Anime / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Flicker](https://flickermini.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#flicker-proxy) / [Subreddit](https://www.reddit.com/r/flickermini/)
 * [TMovie](https://tmovie.tv/), [2](https://tmovie.cc) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)

@@ -1548,7 +1548,6 @@ Emailed me to say they are shutting down
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [livecamcroatia](https://www.livecamcroatia.com/en)
-* [WXYZWebcams](https://wxyzwebcams.com/)
 * [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams) or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [BirdCAMs](https://birdcams.live/) - Bird Nests
