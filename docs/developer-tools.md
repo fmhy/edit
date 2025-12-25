@@ -79,6 +79,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [TestSprite](https://www.testsprite.com/) - The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 
 ***
 
