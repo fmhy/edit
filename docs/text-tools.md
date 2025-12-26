@@ -366,7 +366,7 @@
 
 ***
 
-## ▷ Writing Tools6
+## ▷ Writing Tools
 
 * ↪️ **[AI Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_writing_tools)**
 * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
