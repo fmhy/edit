@@ -120,7 +120,7 @@
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://claraiscute.neocities.org/Guides/PygmalionLinks/), [2](https://claraiscute.pages.dev/Guides/PygmalionLinks/) / [Character Guide](https://wikia.schneedc.com/bot-creation/intro) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Chub](https://chub.ai/)** - Character Cards / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
-* ⭐ **[Perchance](https://perchance.org/ai-character-chat)**, [2](https://perchance.org/amoled-chat) - Roleplaying / No Sign-Up / Unlimited / Allows Images / Some NSFW / [Lists](https://perchance.org/perlist / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* ⭐ **[Perchance](https://perchance.org/ai-character-chat)** / [2](https://perchance.org/amoled-chat) or [List](https://perchance.org/perlist) - Roleplaying / No Sign-Up / Unlimited / Allows Images / Some NSFW / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [Llama + SillyTavern](https://rentry.org/llama_v2_sillytavern) - Llama + SillyTavern Roleplaying Setup Guide / No Sign-Up
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) (No Sign-Up) / [Discord](https://discord.gg/3XPdpUdGgV), [HammerAI](https://www.hammerai.com/desktop) or [Agnai](https://agnai.chat/) / [Discord](https://discord.com/invite/DAn38sA8Qj) - Chatbot Builders
@@ -338,7 +338,7 @@
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing
 * [⁠Vheer](https://vheer.com/) - Unlimited / Flux Kontext Dev / Flux Schnell
-* [Perchance](https://perchance.org/ai-photo-generator), [2](https://perchance.org/ai-text-to-image-generator), [3](https://perchance.org/perlist) - Chroma / Unlimited / No Sign-Up / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* [Perchance](https://perchance.org/ai-photo-generator) / [2](https://perchance.org/ai-text-to-image-generator) or [List](https://perchance.org/perlist) - Chroma / Unlimited / No Sign-Up / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [Z-Image](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) - z-Image / [GitHub](https://github.com/Tongyi-MAI/Z-Image)
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
