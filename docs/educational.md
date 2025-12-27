@@ -1389,6 +1389,7 @@
 ## ▷ Study / Research
 
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://foambubble.github.io/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
+* [CGPAHub](https://cgpahub.com/) - CGPA & GPA calculator for college and university students
 * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
