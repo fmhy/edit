@@ -189,23 +189,11 @@
 
 ***
 
-## ▷ LaTeX Tools
-
-* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
-* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
-* [Typst](https://typst.app/home) - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
-* [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
-* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
-
-***
-
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
-* ↪️ **[Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_markdown_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
@@ -430,6 +418,54 @@
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [lvllvl](https://lvllvl.com/) or [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
+
+***
+
+# ► Markup Tools
+
+* ↪️ **[HTML Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html)**
+* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
+* ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
+* [markup.rocks](https://markup.rocks/) - Online Markup Editor
+* [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
+* [YAMLine](https://yamline.com/) - Online YAML Tools / Converters
+* [yq](https://mikefarah.gitbook.io/yq/) - Portable YAML Processor / [GitHub](https://github.com/mikefarah/yq)
+* [readme.so](https://readme.so/) - Create README.md Files
+* [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
+* [Linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Check Markdown Files for Dead Links
+* [Table Magic](https://stevecat.net/table-magic/) - Table to Markdown Converters
+* [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
+* [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
+* [MarkItDown](https://github.com/microsoft/markitdown) or [GetMarkdown](https://www.getmarkdown.com/) - File to Markdown Converter
+* [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
+* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
+* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Emoji Markdown Cheatsheet
+
+***
+
+## ▷ Markdown Editors
+
+* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
+* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
+* [⁠Markdown Monster](https://markdownmonster.west-wind.com/) / [GitHub](https://github.com/RickStrahl/MarkdownMonster) 
+* [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
+* [Dillinger](https://dillinger.io/)
+* [MarkdownTools](https://www.markdowntools.com/)
+* [Glow](https://github.com/charmbracelet/glow)
+* [MarkdownLivePreview](https://markdownlivepreview.com/)
+* [Vrite](https://editor.vrite.io/)
+* [MindForger](https://www.mindforger.com/)
+
+***
+
+## ▷ LaTeX Tools
+
+* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* [Typst](https://typst.app/home) - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
 
 ***
 

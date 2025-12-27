@@ -44,6 +44,7 @@
 # ► Developer Tools
 
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
+* ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
@@ -1250,39 +1251,3 @@
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [horsicq](https://horsicq.github.io/) - File Type Identification Tools / [GitHub](https://github.com/horsicq/)
-
-***
-
-# ► Markup Tools
-
-* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
-* ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
-* [markup.rocks](https://markup.rocks/) - Online Markup Editor
-* [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
-* [YAMLine](https://yamline.com/) - Online YAML Tools / Converters
-* [yq](https://mikefarah.gitbook.io/yq/) - Portable YAML Processor / [GitHub](https://github.com/mikefarah/yq)
-* [readme.so](https://readme.so/) - Create README.md Files
-* [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
-* [Linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Check Markdown Files for Dead Links
-* [Table Magic](https://stevecat.net/table-magic/) - Table to Markdown Converters
-* [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
-* [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
-* [MarkItDown](https://github.com/microsoft/markitdown) or [GetMarkdown](https://www.getmarkdown.com/) - File to Markdown Converter
-* [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
-* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
-* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Emoji Markdown Cheatsheet
-
-***
-
-## ▷ Markdown Editors
-
-* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
-* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [⁠Markdown Monster](https://markdownmonster.west-wind.com/) / [GitHub](https://github.com/RickStrahl/MarkdownMonster) 
-* [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
-* [Dillinger](https://dillinger.io/)
-* [MarkdownTools](https://www.markdowntools.com/)
-* [Glow](https://github.com/charmbracelet/glow)
-* [MarkdownLivePreview](https://markdownlivepreview.com/)
-* [Vrite](https://editor.vrite.io/)
-* [MindForger](https://www.mindforger.com/)

@@ -500,7 +500,6 @@
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands from a Customizable Menu / GNOME Extension
-* [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 
 ***
