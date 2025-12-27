@@ -278,7 +278,10 @@
 # ► AI Writing Tools
 
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
-* ⭐ **[Toolbaz](https://toolbaz.com/)**, [Scrip AI](https://scripai.com/) (No Sign-Up), [INK](https://app.inkforall.com/tools) or [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
+* ⭐ **[Toolbaz](https://toolbaz.com/)** - Online AI Text Tools
+* [Scrip AI](https://scripai.com/) - Online AI Text Tools / No Sign-Up
+* [INK](https://app.inkforall.com/tools) - Online AI Text Tools
+* [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
