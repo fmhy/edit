@@ -175,10 +175,6 @@
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
 * [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#instaeclipse-note) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
-
-https://t.me/TikTokModCloud
-
-
 * [Nobook](https://github.com/ycngmn/Nobook) - Ad-Free Facebook Lite
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -1251,6 +1247,7 @@ https://t.me/TikTokModCloud
 # ► iOS Audio
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
+* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)** - Ad-Free Spotify / Sideloaded / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) / [Telegram](https://t.me/SpotilifeIPAs)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Ad-Free / Modded YouTube Music / [Discord](https://discord.gg/BhdUyCbgkZ)
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
@@ -1266,6 +1263,7 @@ https://t.me/TikTokModCloud
 ## ▷ iOS Podcasts / Radio
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Ad-Free Spotify / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
+* ⭐ **[EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn)** - Ad-Free Spotify / Sideloaded / [Extension](https://github.com/BillyCurtis/OpenSpotifySafariExtension) / [Telegram](https://t.me/SpotilifeIPAs)
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
 * ⭐ **[Triode](https://triode.app/)** - Radio App
 * ⭐ **[Cuterdio](https://cuterdio.com/en)** - Radio App

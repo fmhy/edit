@@ -384,8 +384,8 @@
 * [⁠Globe TV](https://globetv.app/) - TV / Sports
 * [uFreeTV](https://ufreetv.com/) - TV
 * [Heartive](https://heartiveloves.pages.dev/live/) - TV / Sports
-* [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [StreamSports99](https://streamsports99.su/) - TV / Sports
+* [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [lmao.love](https://lmao.love/channels/) - TV / Sports
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
 * [StreamHub](https://thestreamhub.xyz/live_tv) - TV / Sports
@@ -428,10 +428,10 @@
 * ⭐ **[BINTV](https://bintv.fun/)** / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
 * ⭐ **[SportsBite](https://sportsbite.live/)**, [2](https://sportsbite.pro/) / [Status](https://allbite.xyz/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
+* ⭐ **[StreamSports99](https://streamsports99.su)**, [2](https://streamsports99.website/) / [Discord](https://discord.gg/QXKvEbyrVc)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.site/)**, [2](https://timstreams.online/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[WeAreChecking](https://wac.rip/)** - Live Events / Motorsports / [Discord](https://discord.com/invite/wearechecking)
-* [StreamSports99](https://streamsports99.su), [2](https://streamsports99.website/) / [Discord](https://discord.gg/QXKvEbyrVc)
 * [Streamex](https://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [SportDB](https://hoofoot.ru/) - Stream Aggregator

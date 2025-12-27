@@ -18,9 +18,9 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Discord](https://discord.com/invite/j2Q2ZKk3YJ)
+* ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
-* ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Sign-Up Required
 * [Virgil Game Search](https://virgil.samidy.com/Games/), [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
@@ -247,7 +247,7 @@
 * 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators with Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://redsquirrel87.com/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
-* ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
+* ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_emulators_on_android)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/)** - Search for "Emulator Files"
 * ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [Compatible Games](https://retroachievements.vercel.app/) / [DAT Files](https://rentry.co/FMHYB64#ra-dat)

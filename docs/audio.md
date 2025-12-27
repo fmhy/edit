@@ -355,7 +355,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
-* ⭐ **[squid.wtf (Qobuz)](https://qobuz.squid.wtf/)** or **[squid.wtf (tidal)](https://tidal.squid.wtf)** - Qobuz / Tidal / FLAC
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.samidy.com/)** - FLAC 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
@@ -952,7 +952,6 @@
 * ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
 * [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
 * [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
-* [HQVst](https://t.me/HQVst) - Telegram
 
 ***
 

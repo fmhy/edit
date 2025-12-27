@@ -32,7 +32,7 @@
 ## ▷ Streaming / البث
 
 * ⭐ **[Cimaleek](https://m.cimaleek.to/)** - Movies / TV
-* ⭐ **[FaselHD](https://www.faselhds.xyz/)**, [2](https://web33.faselhd1watch.one/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [⁠ma3ak](https://ma3ak.top/) - Movies / TV
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
@@ -437,7 +437,7 @@
 
 # ► French / Français
 
-* 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / [Subreddit](https://reddit.com/r/FrancePirate/)
+* 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / Check Comments / [Subreddit](https://reddit.com/r/FrancePirate/)
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Tseret](https://tseret.com/) - Game Guides
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
