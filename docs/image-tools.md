@@ -814,6 +814,7 @@
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
 * [Lutim](https://lutim.lagout.org/) - 20MB / Forever
 * [FastPic](https://fastpic.org/) - 25MB / Forever
+* [Patchy](https://patchy.moe/) - 1GB / 14 Days
 
 ***
 
