@@ -98,7 +98,7 @@
 ***
 
 * ⭐ **[AuroraScreen](https://www.aurorascreen.org/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/kPUWwAQCzk)
-* ⭐ **[HydraHD](https://hydrahd.com/)**, [2](https://hydrahd.ru/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
+* ⭐ **[HydraHD](https://hydrahd.com/)**, [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[TMovie](https://tmovie.tv/)**, [2](https://tmovie.cc) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)
 * [Vidbox](https://vidbox.cc/), [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
