@@ -1469,12 +1469,14 @@
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
+* [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account 
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [eieio.games](https://eieio.games/) - Experimental Games / Showcases
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
+* [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.com/invite/XPz5Zm42tR)
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
