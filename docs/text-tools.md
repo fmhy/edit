@@ -534,7 +534,6 @@
 * [FontsHub](https://fontshub.pro/)
 * [Font Meme](https://fontmeme.com/)
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
-* [1.5_million_fonts](https://archive.org/details/1.5_million_font_files_collection)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [psd_fonts](https://vk.com/psd_fonts)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
