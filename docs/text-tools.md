@@ -24,6 +24,7 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
+* [Text Zen - Text Expander](https://www.textzen.app/) - Save time with web Text Expander shortcuts and power auto text snippets.
 
 ***
 
