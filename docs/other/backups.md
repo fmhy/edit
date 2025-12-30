@@ -9,14 +9,14 @@
 
 **Backup Sites** (Unofficial)
 
-* [FMHY Archive](https://ffmhy.pages.dev/)
+* [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
 * [fmhy.bid](https://fmhy.bid/)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
 * [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/), [2](https://fmhy.artistgrid.pp.ua/), [3](https://fmhy.blooketbot.me/), [4](https://fmhy.joyconlab.net/), [5](https://fmhy.monochrome.tf/), [6](https://fmhy.piperagossip.org/), [7](https://fmhy.pp.ua/), [8](https://fmhy.prigoana.com/), [9](https://fmhy.prigoana.pp.ua/)
-* [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY) (amoled theme)
-* [fmhy.xyz](https://fmhy.xyz/) (safe for work)
-* [fmhy.vercel.app](https://fmhy.vercel.app/)
+* [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
+* [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY) - Amoled Theme
+* [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Site
 
 These are trusted community ran instances that are out of our control. They currently match FMHY 1:1, but as we don't own them, they should only be used as backups when necessary.
 
