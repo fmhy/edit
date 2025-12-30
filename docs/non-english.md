@@ -478,19 +478,15 @@
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [xalaflix](https://xalaflix.in/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.zip/) / [Discord](https://discord.gg/7myEXg2tQF) / [Telegram](https://t.me/xalaflixofficiel)
 * [P-Stream](https://pstream.mov/) - Movies / TV / Anime / Auto-Next / Use Extension / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
+* [fstream](https://fstream.net/) - Movies / TV / Anime
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
-* [coflix](https://coflix.cc/) - Movies / TV / Anime / [Status](https://t.me/+3i7POlIHqqVmMWMx)
-* [filmoflix](https://www.filmoflix.is/) - Movies / TV / Anime
-* [dpstream](https://dpstream.fyi/) - Movies / TV / Anime
 * [yakriv](https://yakriv.com/), [Kordoz](https://www.kordoz.com/) or [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Sign-Up Required
 * [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / French VPN Required for Some Content
-* [french-streaming](https://www.french-streaming.tv) - Movies / TV / Anime
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [fs6](https://fs6.lol/) - Movies / TV / Anime
-* [nightflix](https://nightflix.world/) - Movies / TV / Anime
 * [flemmix](https://flemmix.mom/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
 * [fstream](https://fstream.info/) - Movies / TV / Anime
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies

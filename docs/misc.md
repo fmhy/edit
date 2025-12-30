@@ -967,8 +967,8 @@
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon 
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
-* [⁠RedRecs](https://www.redrecs.com/) - Rreddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
- * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
+* [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
+* [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
@@ -1384,6 +1384,7 @@
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [OpenGeofiction](https://opengeofiction.net/) - User-Made Fictional Map
+* [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
 * [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation

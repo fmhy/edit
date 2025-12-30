@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check our [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, as well as their respective pros & cons. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking), and use [throwaway emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [aliases](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+* **Note** - Check our [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see scores for each site, as well as their respective pros & cons. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking), and use [throwaway emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [aliases](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
 
 ***
 
@@ -41,7 +41,7 @@
 
 ## ▷ Single Server
 
-* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server) for scores.
+* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server) / [2](https://fmhy-grading.pages.dev/) for scores.
 
 ***
 
@@ -65,7 +65,7 @@
 
 ## ▷ Stream Aggregators
 
-* **Note** - These serve as aggregators for multiple sources, and have custom players that will automatically test streams one-by-one without user input required. Sources vary site-to-site depending on which owners feel are worth using. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#stream-aggregators) for scores.
+* **Note** - These serve as aggregators for multiple sources, and have custom players that will automatically test streams one-by-one without user input required. Sources vary site-to-site depending on which owners feel are worth using. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#stream-aggregators) / [2](https://fmhy-grading.pages.dev/) for scores.
 
 ***
 
@@ -93,7 +93,7 @@
 
 ## ▷ Embed Frontends
 
-* **Note** - These serve as simple frontends for multiple sources, and allow users to select which they want to try from lists. Sources vary site-to-site depending on which owners feel are worth using. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#embed-frontends) for scores.
+* **Note** - These serve as simple frontends for multiple sources, and allow users to select which they want to try from lists. Sources vary site-to-site depending on which owners feel are worth using. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#embed-frontends) / [2](https://fmhy-grading.pages.dev/) for scores.
 
 ***
 
@@ -388,6 +388,7 @@
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** - TV / Sports
 * ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://dlhd.dad/), [3](https://thedaddy.dad/), - TV / [Mirrors](https://daddyny.com/)
 * ⭐ **[TVPass](https://tvpass.org/)**, [2](https://thetvapp.to/) - TV / Sports / US Only
+* [TitanTV](https://titantv.com/) - Live TV Listings / TV Schedule
 * [huhu.to](https://huhu.to/), [vavoo.to](https://vavoo.to/), [kool.to](https://kool.to/) or [oha.to](https://oha.to/) - TV / Sports / European
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
@@ -423,7 +424,6 @@
 * [TV.Jest](https://tv.jest.one/), [Split TV](https://split-tv.co.il/) or [WorldNews24](https://worldnews24.tv/) - News
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
-* [TitanTV](https://titantv.com/) - Live TV Listings
 
 ***
 
@@ -435,9 +435,9 @@
 * ⭐ **[SportyHunter](https://sportyhunter.com/)**, [2](https://nflhunter.com/), [3](https://nhlstreams.io/v1/), [4](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[NTV](https://ntvstream.cx/)** - TV / Sports / Aggregator / [Telegram](https://t.me/ntvsteam) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[Watch Footy](https://watchfooty.st/)**, [2](https://www.watchfooty.top), [3](https://watchfooty.su/) - Stream Aggregator / [Mirrors](https://watchfty.link/) / [Discord](https://discord.gg/T38kUWZHtB)
+* ⭐ **[Sport7](https://sport7.pro/)**, [2](https://sport71.pro//) / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/xcdfVwgEx3)
 * ⭐ **[DaddyLive](https://dlhd.dad/)**, [2](https://dlhd.dad/), [3](https://thedaddy.dad/), [4](https://dlhd.click/), [5](https://daddylivestream.com/) - TV / Sports / [Mirrors](https://daddyny.com/)
 * ⭐ **[PPV.TO](https://ppv.to/)**, [2](https://ppvs.su/) - Live Events / [Mirrors](https://ppv.link/) / [Discord](https://discord.gg/5AMPdpckjH)
-* ⭐ **[Sport7](https://sport7.pro/)**, [2](https://sport71.pro//) / [Player Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sport7) / [Telegram](https://t.me/goatifisports) / [Discord](https://discord.gg/xcdfVwgEx3)
 * ⭐ **[BINTV](https://bintv.fun/)** / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
 * ⭐ **[SportsBite](https://sportsbite.live/)**, [2](https://sportsbite.pro/) / [Status](https://allbite.xyz/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)

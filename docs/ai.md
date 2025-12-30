@@ -45,14 +45,13 @@
 * [Yupp.ai](https://yupp.ai/) - Gemini 3 Pro / GPT-5.1-high / Grok 4.1 / Qwen 3 Max / Google Login / [Discord](https://discord.com/invite/yuppai)
 * [Pollinations](https://chat.pollinations.ai/) - Gemini 3 Pro / Claude 4.5 Opus / GPT 5.2 / No Sign-Up
 * [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
-* [Khoj](https://app.khoj.dev/) - Nano Banana Pro / Gemini 3 Pro / Reset Limits w/ Temp Mail
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [HiveChat](https://oi.wr.do/) - Kimi K2 / DeepSeek R1-0528 / Multiple Chatbots / Sign-Up Required / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up
+* [Khoj](https://app.khoj.dev/) - Grok 4.1 / Gemini 3 Flash / Reset Limits w/ Temp Mail
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
-* [Scira](https://scira.ai/) - Grok 4 / Qwen 3 / AI Search Engine / No Sign-Up / [GitHub](https://github.com/zaidmukaddam/scira)
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 * [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 3 Pro / Grok 4.1 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
@@ -145,7 +144,7 @@
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
-* [Gemini CLI](https://google-gemini.github.io/gemini-cli/) or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
+* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [OpenCode](https://opencode.ai/) - Coding AI / [GitHub](https://github.com/sst/opencode)
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.5 / Limits Reset Weekly
@@ -351,7 +350,7 @@
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Stable Diffustion / Chroma / Unlimited / No Sign-Up / SeeDream 3 / GPT 1 Image / 10 Daily / Sign-Up Required / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [Genspark](https://www.genspark.ai/) / [Discord](https://discord.com/invite/CsAQ6F4MPy), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
-* [Khoj](https://app.khoj.dev/) - Nano Banana Pro / Imagen 4 / Reset Limits w/ Temp Mail
+* [Khoj](https://app.khoj.dev/) - Nano Banana / Imagen 4 / Reset Limits w/ Temp Mail
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required / US Select CA
 * [AIImagetoImage](https://aiimagetoimage.io/) or [⁠Image-Editor](https://image-editor.org/) - Nano Banana / Editing / No Sign-Up
 * [imgsys](https://imgsys.org/) - Compare Generators / Unlimited / No Direct Mode

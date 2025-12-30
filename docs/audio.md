@@ -35,7 +35,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-*  [squid.wtf](https://tidal.squid.wtf), [Monochrome](https://monochrome.samidy.com/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
+* [Monochrome](https://monochrome.samidy.com/), [squid.wtf](https://tidal.squid.wtf) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
@@ -828,6 +828,8 @@
 
 ## ▷ Lyric Sites
 
+* ⭐ **[LRCGET](https://github.com/tranxuanthang/lrcget)** - Download Synced Lyrics
+* ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)**, [Intellectual](https://intellectual.insprill.net/) or [Genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [Lyricsify](https://www.lyricsify.com/), [Lyrhub](https://lyrhub.com/en), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [⁠Lyrical Nonsense](https://www.lyrical-nonsense.com/global/) - Japanese Song Lyrics
@@ -835,8 +837,8 @@
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [⁠LRC Maker](https://lrc-maker.github.io/) - Web-Based Lyrics Editor / [GitHub](https://github.com/magic-akari/lrc-maker)
-* [LRCGET](https://github.com/tranxuanthang/lrcget) - Download Synced Lyrics
-* [LRCLIB](https://lrclib.net/) - Synced Lyrics Search
+
+
 
 ***
 

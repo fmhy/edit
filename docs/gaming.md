@@ -213,6 +213,7 @@
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
+* [⁠YAVSRG (Interlude)](https://www.yavsrg.net/) - Rhythm Game Engine / [Discord](https://discord.com/invite/tA22tWR)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone / [GitHub](https://github.com/itgmania/itgmania)
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)

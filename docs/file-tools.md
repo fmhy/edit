@@ -224,8 +224,9 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[Sejda](https://www.sejda.com/)**
-* ⭐ **[ILovePDF](https://www.ilovepdf.com/)**
+* ⭐ **[BentoPDF](https://bentopdf.com/)** / Web-Based / [GitHub](https://github.com/alam00000/bentopdf)
+* [Sejda](https://www.sejda.com/)
+* [ILovePDF](https://www.ilovepdf.com/)
 * [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
@@ -238,7 +239,6 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** / Web-Based / [GitHub](https://github.com/alam00000/bentopdf)
 * ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows, Mac, Linux / Signup Required / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 * ⭐ **[PDF24](https://www.pdf24.org/)** / Web-Based / Windows
 * [⁠PDF4QT](https://jakubmelka.github.io/) / Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)

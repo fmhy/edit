@@ -342,6 +342,7 @@
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances / Metasearch
+* [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
 * [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)
