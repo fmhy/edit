@@ -1,4 +1,4 @@
-**Websites** (Official)
+**Official Website**
 
 * **[FMHY.net](https://fmhy.net/)** 
 * [fmhyclone](https://fmhyclone.pages.dev/)
@@ -7,7 +7,9 @@
 
 ***
 
-**Backup Sites** (Unofficial)
+**Backup Instances**
+
+Verified frontends that mirror the official FMHY [repository](https://github.com/fmhy/edit) as their data source.
 
 * [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
 * [fmhy.bid](https://fmhy.bid/)
@@ -17,8 +19,6 @@
 * [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
 * [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY) - Amoled Theme
 * [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Site
-
-These are trusted community ran instances that are out of our control. They currently match FMHY 1:1, but as we don't own them, they should only be used as backups when necessary.
 
 ***
 
