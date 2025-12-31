@@ -240,6 +240,7 @@
 * [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning) / [GitHub](https://github.com/celenityy/Phoenix)
 * [LibreWolf](https://librewolf.net/) - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
+* [Helium](https://helium.computer/) - Privacy-Focused Browser based on ungoogled-Chromium
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 
 ***
