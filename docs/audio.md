@@ -740,6 +740,7 @@
 * ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)** / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/)
+* [Wora](https://github.com/playwora/wora) - A beautiful player for audiophiles
 * [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
