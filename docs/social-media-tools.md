@@ -228,7 +228,6 @@
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit) or [Reddit Map](https://redditmap.social/) - Subreddit Maps
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
-* [r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
 * [r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
 * [Subreddit Stats](https://subredditstats.com/) or [SubRanking](https://subranking.com/) - Subreddits Stats / Ranking
 
@@ -650,7 +649,7 @@
 * [Hubzilla Public Sites](https://hubzilla.org/pubsites) - Hubzilla Instances
 * [Friendica Directory](https://dir.friendica.social/servers) - Friendica Instances
 * [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client
-* [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Netoworks
+* [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Netoworks
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
 * [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge

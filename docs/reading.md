@@ -442,7 +442,7 @@
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [GoComics](https://www.gocomics.com/) - Comics Strips / [Bypass Limit](https://pastebin.com/pwUxTPAr), [2](https://bin.disroot.org/?9169f16676b9b1e5#9ZeRZR9Ms37wpCQdwom8yLnYrWZJVDd1sT98d4Yg65YL)
+* [GoComics](https://www.gocomics.com/) - Comics Strips / [Site Fix](https://ludditus.com/2025/04/19/bypassing-gocomics-paywall/)
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Loading Artist](https://loadingartist.com/) - Webcomics
@@ -856,6 +856,7 @@
 * [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
 * [Manned.org](https://manned.org/) - Operating System Manuals
+* [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
 * [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals

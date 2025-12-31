@@ -421,6 +421,7 @@
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
 * [Omniclip](https://omniclip.app/) / [Discord](https://discord.com/invite/Nr8t9s5wSM) / [GitHub](https://github.com/omni-media/omniclip)
+* [Cuttr](https://cuttr.in/) - Transcription Based Editor
 * [Vididoo](https://vididoo.vercel.app/) - Multitool
 * [VideoCandy](https://videocandy.com/) - Multitool
 * [Video2Edit](https://www.video2edit.com/) - Multitool
