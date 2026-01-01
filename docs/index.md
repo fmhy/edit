@@ -175,7 +175,7 @@ onMounted(() => {
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/xmasfmhy.png'
+      img.src = '/test.png'
     })
   }
   if (kawaii === 'true') {
