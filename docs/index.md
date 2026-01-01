@@ -10,7 +10,7 @@ hero:
     title: Jan 2026 Updates 🎇 
     link: /posts/jan-2026
   image:
-    src: /xmasfmhy.png
+    src: test.png
     alt: FMHY Icon
   actions:
     - theme: brand
