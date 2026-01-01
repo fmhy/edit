@@ -21,7 +21,6 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
-const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -43,15 +42,18 @@ export class ThemeHandler {
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
+    if (!localStorage.getItem(STORAGE_KEY_THEME)) {
+      localStorage.setItem(STORAGE_KEY_THEME, 'color-swarm')
+    }
+    if (!localStorage.getItem('preferred-color')) {
+      localStorage.setItem('preferred-color', 'swarm')
+    }
+
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
       this.state.value.theme = themeRegistry[savedTheme]
     } else {
-      const firstCustomTheme = Object.keys(themeRegistry)[0]
-      if (firstCustomTheme) {
-        this.state.value.currentTheme = firstCustomTheme
-        this.state.value.theme = themeRegistry[firstCustomTheme]
-      }
+      this.state.value.currentTheme = savedTheme
     }
 
     // Set amoled preference
@@ -283,7 +285,8 @@ export class ThemeHandler {
       this.ensureColorPickerColors()
     } else {
       this.state.value.currentTheme = themeName
-      localStorage.setItem(STORAGE_KEY_THEME, themeName)
+      localStorage.setItem(STORAGE_KEY_THEME, `color-${themeName}`)
+      localStorage.setItem('preferred-color', themeName)
     }
   }
 
