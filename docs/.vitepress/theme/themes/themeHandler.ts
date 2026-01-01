@@ -27,7 +27,7 @@ export class ThemeHandler {
   private state = ref<ThemeState>({
     currentTheme: 'color-swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry['color-swarm']
+    theme: (Object.values(themeRegistry)[0] || null) as Theme
   })
   private amoledEnabled = ref(false)
 
@@ -39,13 +39,19 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'swarm'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
       this.state.value.theme = themeRegistry[savedTheme]
+    } else {
+      const firstCustomTheme = Object.keys(themeRegistry)[0]
+      if (firstCustomTheme) {
+        this.state.value.currentTheme = firstCustomTheme
+        this.state.value.theme = themeRegistry[firstCustomTheme]
+      }
     }
 
     // Set amoled preference
@@ -78,6 +84,12 @@ export class ThemeHandler {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
+    
+    if (!theme || !theme.modes || !theme.modes[currentMode]) {
+      this.applyDOMClasses(currentMode)
+      return
+    }
+    
     const modeColors = theme.modes[currentMode]
 
     this.applyDOMClasses(currentMode)
@@ -262,18 +274,17 @@ export class ThemeHandler {
   }
 
   public setTheme(themeName: string) {
-    if (!themeRegistry[themeName]) {
-      console.warn(`Theme "${themeName}" not found. Using catppuccin theme.`)
-      themeName = 'catppuccin'
+    // Check if it's a custom theme in registry
+    if (themeRegistry[themeName]) {
+      this.state.value.currentTheme = themeName
+      this.state.value.theme = themeRegistry[themeName]
+      localStorage.setItem(STORAGE_KEY_THEME, themeName)
+      this.applyTheme()
+      this.ensureColorPickerColors()
+    } else {
+      this.state.value.currentTheme = themeName
+      localStorage.setItem(STORAGE_KEY_THEME, themeName)
     }
-
-    this.state.value.currentTheme = themeName
-    this.state.value.theme = themeRegistry[themeName]
-    localStorage.setItem(STORAGE_KEY_THEME, themeName)
-    this.applyTheme()
-    
-    // Force re-apply ColorPicker colors if theme doesn't specify brand colors
-    this.ensureColorPickerColors()
   }
 
   public setMode(mode: DisplayMode) {
@@ -312,7 +323,14 @@ export class ThemeHandler {
   private ensureColorPickerColors() {
     // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
-    const modeColors = this.state.value.theme.modes[currentMode]
+    const theme = this.state.value.theme
+    
+    // Skip if theme doesn't have modes (preset theme)
+    if (!theme || !theme.modes || !theme.modes[currentMode]) {
+      return
+    }
+    
+    const modeColors = theme.modes[currentMode]
     
     if (!modeColors.brand || !modeColors.brand[1]) {
       // Trigger a custom event that ColorPicker can listen to
@@ -335,7 +353,7 @@ export class ThemeHandler {
   }
 
   public getCurrentTheme() {
-    return this.state.value.theme
+    return this.state.value.theme || ({} as Theme)
   }
 
   public getAvailableThemes() {
