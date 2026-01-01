@@ -25,9 +25,9 @@ const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'catppuccin',
+    currentTheme: 'color-swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry.catppuccin
+    theme: themeRegistry['color-swarm']
   })
   private amoledEnabled = ref(false)
 
