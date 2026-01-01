@@ -25,9 +25,9 @@ const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'christmas',
+    currentTheme: 'catppuccin',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry.christmas
+    theme: themeRegistry.catppuccin
   })
   private amoledEnabled = ref(false)
 
@@ -39,7 +39,7 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
@@ -263,8 +263,8 @@ export class ThemeHandler {
 
   public setTheme(themeName: string) {
     if (!themeRegistry[themeName]) {
-      console.warn(`Theme "${themeName}" not found. Using christmas theme.`)
-      themeName = 'christmas'
+      console.warn(`Theme "${themeName}" not found. Using catppuccin theme.`)
+      themeName = 'catppuccin'
     }
 
     this.state.value.currentTheme = themeName
