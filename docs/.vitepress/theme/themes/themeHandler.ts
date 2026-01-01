@@ -21,54 +21,75 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
-const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'christmas',
+    currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry.christmas
+    theme: null
   })
   private amoledEnabled = ref(false)
+  
+  private initTime = 0
 
   constructor() {
+    if (typeof window !== 'undefined') {
+      this.initTime = Date.now()
+    }
     this.initializeTheme()
   }
 
   private initializeTheme() {
     if (typeof window === 'undefined') return
 
-    // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
-    if (themeRegistry[savedTheme]) {
-      this.state.value.currentTheme = savedTheme
-      this.state.value.theme = themeRegistry[savedTheme]
+    if (!localStorage.getItem(STORAGE_KEY_THEME)) {
+      localStorage.setItem(STORAGE_KEY_THEME, 'color-swarm')
+    }
+    if (!localStorage.getItem('preferred-color')) {
+      localStorage.setItem('preferred-color', 'swarm')
     }
 
-    // Set amoled preference
+    console.log('[ThemeHandler] Initializing. Raw Storage:', savedTheme)
+
+    if (themeRegistry[savedTheme]) {
+      console.log('[ThemeHandler] Found Custom Theme:', savedTheme)
+      this.state.value.currentTheme = savedTheme
+      this.state.value.theme = themeRegistry[savedTheme]
+    } 
+    else if (themeRegistry[savedTheme.replace('color-', '')]) {
+      const cleanName = savedTheme.replace('color-', '')
+      console.log('[ThemeHandler] Found Custom Theme (cleaned):', cleanName)
+      this.state.value.currentTheme = cleanName
+      this.state.value.theme = themeRegistry[cleanName]
+    }
+    else {
+      const cleanName = savedTheme.replace('color-', '')
+      console.log('[ThemeHandler] Using Preset Theme:', cleanName)
+      this.state.value.currentTheme = cleanName
+      this.state.value.theme = null
+    }
+
     this.amoledEnabled.value = savedAmoled
 
-    // Set mode
+
     if (savedMode) {
       this.state.value.currentMode = savedMode
     } else {
-      // Detect system preference for initial mode
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
       this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
 
     this.applyTheme()
 
-    // Listen for system theme changes (only if user hasn't set a preference)
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
       if (!localStorage.getItem(STORAGE_KEY_MODE)) {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
         this.applyTheme()
-      } 
-	  else {
+      } else {
         this.applyTheme()
       }
     })
@@ -78,39 +99,44 @@ export class ThemeHandler {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
+    
+    if (!theme || !theme.modes || !theme.modes[currentMode]) {
+      this.applyDOMClasses(currentMode)
+      this.clearCustomCSSVariables()
+      return
+    }
+    
     const modeColors = theme.modes[currentMode]
-
     this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
   }
 
   private applyDOMClasses(mode: DisplayMode) {
     const root = document.documentElement
-    
-    // Remove all mode classes
     root.classList.remove('dark', 'light', 'amoled')
-    
-    // Add current mode class
     root.classList.add(mode)
-    
-    // Add amoled class if enabled in dark mode
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
     }
   }
 
-  private applyCSSVariables(colors: ModeColors, theme: Theme) {
+  private clearCustomCSSVariables() {
     if (typeof document === 'undefined') return
-
     const root = document.documentElement
-
-    // Clear ALL inline styles related to theming to ensure clean slate
     const allStyleProps = Array.from(root.style)
     allStyleProps.forEach(prop => {
       if (prop.startsWith('--vp-')) {
         root.style.removeProperty(prop)
       }
     })
+  }
+
+  private applyCSSVariables(colors: ModeColors, theme: Theme) {
+    if (typeof document === 'undefined') return
+
+    const root = document.documentElement
+    this.clearCustomCSSVariables()
+
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
@@ -121,22 +147,13 @@ export class ThemeHandler {
       bgElvColor = 'rgba(0, 0, 0, 0.9)'
     }
 
-    // Apply brand colors only if theme specifies them
-    // Otherwise, remove inline styles to let ColorPicker CSS take effect
     if (colors.brand && (colors.brand[1] || colors.brand[2] || colors.brand[3] || colors.brand.soft)) {
       if (colors.brand[1]) root.style.setProperty('--vp-c-brand-1', colors.brand[1])
       if (colors.brand[2]) root.style.setProperty('--vp-c-brand-2', colors.brand[2])
       if (colors.brand[3]) root.style.setProperty('--vp-c-brand-3', colors.brand[3])
       if (colors.brand.soft) root.style.setProperty('--vp-c-brand-soft', colors.brand.soft)
-    } else {
-      // Remove inline brand color styles so ColorPicker CSS can apply
-      root.style.removeProperty('--vp-c-brand-1')
-      root.style.removeProperty('--vp-c-brand-2')
-      root.style.removeProperty('--vp-c-brand-3')
-      root.style.removeProperty('--vp-c-brand-soft')
     }
 
-    // Apply background colors
     root.style.setProperty('--vp-c-bg', bgColor)
     root.style.setProperty('--vp-c-bg-alt', bgAltColor)
     root.style.setProperty('--vp-c-bg-elv', bgElvColor)
@@ -144,34 +161,12 @@ export class ThemeHandler {
       root.style.setProperty('--vp-c-bg-mark', colors.bgMark)
     }
 
-    // Apply text colors - always set them to ensure proper theme switching
     if (colors.text) {
       if (colors.text[1]) root.style.setProperty('--vp-c-text-1', colors.text[1])
       if (colors.text[2]) root.style.setProperty('--vp-c-text-2', colors.text[2])
       if (colors.text[3]) root.style.setProperty('--vp-c-text-3', colors.text[3])
-    } else {
-      // Remove inline styles if theme doesn't specify text colors
-      // This allows CSS variables from style.scss to take effect
-      root.style.removeProperty('--vp-c-text-1')
-      root.style.removeProperty('--vp-c-text-2')
-      root.style.removeProperty('--vp-c-text-3')
     }
 
-    // Debug: log applied text color variables so we can inspect in console
-    try {
-      // eslint-disable-next-line no-console
-      console.log('[ThemeHandler] applied text vars', {
-        theme: theme.name,
-        mode: this.state.value.currentMode,
-        vp_text_1: root.style.getPropertyValue('--vp-c-text-1'),
-        vp_text_2: root.style.getPropertyValue('--vp-c-text-2'),
-        vp_text_3: root.style.getPropertyValue('--vp-c-text-3')
-      })
-    } catch (e) {
-      // ignore
-    }
-
-    // Apply button colors
     root.style.setProperty('--vp-button-brand-bg', colors.button.brand.bg)
     root.style.setProperty('--vp-button-brand-border', colors.button.brand.border)
     root.style.setProperty('--vp-button-brand-text', colors.button.brand.text)
@@ -186,7 +181,6 @@ export class ThemeHandler {
     root.style.setProperty('--vp-button-alt-hover-bg', colors.button.alt.hoverBg)
     root.style.setProperty('--vp-button-alt-hover-text', colors.button.alt.hoverText)
 
-    // Apply custom block colors
     const blocks = ['info', 'tip', 'warning', 'danger'] as const
     blocks.forEach((block) => {
       const blockColors = colors.customBlock[block]
@@ -196,84 +190,69 @@ export class ThemeHandler {
       root.style.setProperty(`--vp-custom-block-${block}-text-deep`, blockColors.textDeep)
     })
 
-    // Apply selection color
     root.style.setProperty('--vp-c-selection-bg', colors.selection.bg)
 
-    // Apply home hero colors (if defined)
     if (colors.home) {
       root.style.setProperty('--vp-home-hero-name-color', colors.home.heroNameColor)
       root.style.setProperty('--vp-home-hero-name-background', colors.home.heroNameBackground)
       root.style.setProperty('--vp-home-hero-image-background-image', colors.home.heroImageBackground)
       root.style.setProperty('--vp-home-hero-image-filter', colors.home.heroImageFilter)
-    } else {
-      // Remove home hero color styles if theme doesn't specify them
-      root.style.removeProperty('--vp-home-hero-name-color')
-      root.style.removeProperty('--vp-home-hero-name-background')
-      root.style.removeProperty('--vp-home-hero-image-background-image')
-      root.style.removeProperty('--vp-home-hero-image-filter')
     }
 
-    // Apply fonts (if defined)
-    if (theme.fonts?.body) {
-      root.style.setProperty('--vp-font-family-base', theme.fonts.body)
-    } else {
-      root.style.removeProperty('--vp-font-family-base')
-    }
-    if (theme.fonts?.heading) {
-      root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
-    } else {
-      root.style.removeProperty('--vp-font-family-heading')
-    }
-
-    // Apply border radius (if defined)
-    if (theme.borderRadius) {
-      root.style.setProperty('--vp-border-radius', theme.borderRadius)
-    } else {
-      root.style.removeProperty('--vp-border-radius')
-    }
-
-    // Apply spacing (if defined)
+    if (theme.fonts?.body) root.style.setProperty('--vp-font-family-base', theme.fonts.body)
+    if (theme.fonts?.heading) root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
+    if (theme.borderRadius) root.style.setProperty('--vp-border-radius', theme.borderRadius)
     if (theme.spacing) {
       if (theme.spacing.small) root.style.setProperty('--vp-spacing-small', theme.spacing.small)
-      else root.style.removeProperty('--vp-spacing-small')
       if (theme.spacing.medium) root.style.setProperty('--vp-spacing-medium', theme.spacing.medium)
-      else root.style.removeProperty('--vp-spacing-medium')
       if (theme.spacing.large) root.style.setProperty('--vp-spacing-large', theme.spacing.large)
-      else root.style.removeProperty('--vp-spacing-large')
-    } else {
-      root.style.removeProperty('--vp-spacing-small')
-      root.style.removeProperty('--vp-spacing-medium')
-      root.style.removeProperty('--vp-spacing-large')
     }
-
-    // Apply custom properties (if defined)
     if (theme.customProperties) {
-      Object.entries(theme.customProperties).forEach(([key, value]) => {
-        root.style.setProperty(key, value)
-      })
+      Object.entries(theme.customProperties).forEach(([key, value]) => root.style.setProperty(key, value))
     }
-
-    // Apply custom logo (if defined)
-    if (theme.logo) {
-      root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
-    } else {
-      root.style.removeProperty('--vp-theme-logo')
-    }
+    if (theme.logo) root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
   }
 
   public setTheme(themeName: string) {
-    if (!themeRegistry[themeName]) {
-      console.warn(`Theme "${themeName}" not found. Using christmas theme.`)
-      themeName = 'christmas'
+    console.log('[ThemeHandler] setTheme called with:', themeName)
+
+
+    const isStartup = typeof window !== 'undefined' && (Date.now() - this.initTime < 1000)
+    const isDefaultReset = themeName === 'color-swarm' || themeName === 'swarm'
+    const hasCustomThemeLoaded = !!this.state.value.theme
+
+    if (isStartup && isDefaultReset && hasCustomThemeLoaded) {
+      console.warn('[ThemeHandler] Blocked auto-reset to default theme during startup.')
+      return
     }
 
-    this.state.value.currentTheme = themeName
-    this.state.value.theme = themeRegistry[themeName]
-    localStorage.setItem(STORAGE_KEY_THEME, themeName)
-    this.applyTheme()
+    if (themeRegistry[themeName]) {
+      this.state.value.currentTheme = themeName
+      this.state.value.theme = themeRegistry[themeName]
+      localStorage.setItem(STORAGE_KEY_THEME, themeName)
+      this.applyTheme()
+      this.ensureColorPickerColors()
+      return
+    }
+
+    const cleanName = themeName.replace('color-', '')
+    if (themeRegistry[cleanName]) {
+      this.state.value.currentTheme = cleanName
+      this.state.value.theme = themeRegistry[cleanName]
+      localStorage.setItem(STORAGE_KEY_THEME, cleanName)
+      this.applyTheme()
+      this.ensureColorPickerColors()
+      return
+    }
+
+    console.log('[ThemeHandler] Applying Preset:', cleanName)
+    this.state.value.currentTheme = cleanName
+    this.state.value.theme = null
     
-    // Force re-apply ColorPicker colors if theme doesn't specify brand colors
-    this.ensureColorPickerColors()
+    localStorage.setItem(STORAGE_KEY_THEME, `color-${cleanName}`)
+    localStorage.setItem('preferred-color', cleanName)
+    
+    this.applyTheme()
   }
 
   public setMode(mode: DisplayMode) {
@@ -284,10 +263,7 @@ export class ThemeHandler {
 
   public toggleMode() {
     const currentMode = this.state.value.currentMode
-    
-    // Toggle between light and dark
     const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-    
     this.setMode(newMode)
   }
 
@@ -297,65 +273,38 @@ export class ThemeHandler {
     this.applyTheme()
   }
 
-  public getAmoledEnabled() {
-    return this.amoledEnabled.value
-  }
-
-  public toggleAmoled() {
-    this.setAmoledEnabled(!this.amoledEnabled.value)
-  }
-
-  public getAmoledEnabledRef() {
-    return this.amoledEnabled
-  }
+  public getAmoledEnabled() { return this.amoledEnabled.value }
+  public toggleAmoled() { this.setAmoledEnabled(!this.amoledEnabled.value) }
+  public getAmoledEnabledRef() { return this.amoledEnabled }
 
   private ensureColorPickerColors() {
-    // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
-    const modeColors = this.state.value.theme.modes[currentMode]
+    const theme = this.state.value.theme
+    
+    if (!theme || !theme.modes || !theme.modes[currentMode]) return
+    const modeColors = theme.modes[currentMode]
     
     if (!modeColors.brand || !modeColors.brand[1]) {
-      // Trigger a custom event that ColorPicker can listen to
       if (typeof window !== 'undefined') {
         window.dispatchEvent(new CustomEvent('theme-changed-apply-colors'))
       }
     }
   }
 
-  public getState() {
-    return this.state
-  }
-
-  public getMode() {
-    return this.state.value.currentMode
-  }
-
-  public getTheme() {
-    return this.state.value.currentTheme
-  }
-
-  public getCurrentTheme() {
-    return this.state.value.theme
-  }
-
+  public getState() { return this.state }
+  public getMode() { return this.state.value.currentMode }
+  public getTheme() { return this.state.value.currentTheme }
+  public getCurrentTheme() { return this.state.value.theme || ({} as Theme) }
   public getAvailableThemes() {
     return Object.keys(themeRegistry).map(key => ({
       name: key,
       displayName: themeRegistry[key].displayName
     }))
   }
-
-  public isDarkMode() {
-    const mode = this.state.value.currentMode
-    return mode === 'dark'
-  }
-
-  public isAmoledMode() {
-    return this.state.value.currentMode === 'dark' && this.amoledEnabled.value
-  }
+  public isDarkMode() { return this.state.value.currentMode === 'dark' }
+  public isAmoledMode() { return this.state.value.currentMode === 'dark' && this.amoledEnabled.value }
 }
 
-// Global theme handler instance
 let themeHandlerInstance: ThemeHandler | null = null
 
 export function useThemeHandler() {
@@ -365,13 +314,11 @@ export function useThemeHandler() {
   return themeHandlerInstance
 }
 
-// Composable for use in Vue components
 export function useTheme() {
   const handler = useThemeHandler()
   const state = handler.getState()
 
   onMounted(() => {
-    // Ensure theme is applied on mount
     handler.applyTheme()
   })
 
