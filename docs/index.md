@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Dec 2025 Updates ❄️
-    link: /posts/dec-2025
+    title: Jan 2026 Updates 🎇 
+    link: /posts/jan-2026
   image:
     src: /xmasfmhy.png
     alt: FMHY Icon
