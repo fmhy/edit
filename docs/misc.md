@@ -1637,7 +1637,6 @@
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links
 * [WindowSwap](https://www.window-swap.com/) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
-* [Judgey](https://playjudgey.com/) - Judge A Book By Its Cover
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
