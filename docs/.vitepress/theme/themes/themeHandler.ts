@@ -25,9 +25,9 @@ const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'swarm',
+    currentTheme: 'christmas',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry.swarm
+    theme: themeRegistry.christmas
   })
   private amoledEnabled = ref(false)
 
@@ -39,7 +39,7 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'swarm'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
@@ -263,8 +263,8 @@ export class ThemeHandler {
 
   public setTheme(themeName: string) {
     if (!themeRegistry[themeName]) {
-      console.warn(`Theme "${themeName}" not found. Using swam theme.`)
-      themeName = 'swarm'
+      console.warn(`Theme "${themeName}" not found. Using christmas theme.`)
+      themeName = 'christmas'
     }
 
     this.state.value.currentTheme = themeName
