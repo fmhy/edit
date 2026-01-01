@@ -24,9 +24,9 @@ const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'color-swarm',
+    currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
-    theme: (Object.values(themeRegistry)[0] || null) as Theme
+    theme: null 
   })
   private amoledEnabled = ref(false)
 
@@ -42,6 +42,7 @@ export class ThemeHandler {
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
+
     if (!localStorage.getItem(STORAGE_KEY_THEME)) {
       localStorage.setItem(STORAGE_KEY_THEME, 'color-swarm')
     }
@@ -49,11 +50,18 @@ export class ThemeHandler {
       localStorage.setItem('preferred-color', 'swarm')
     }
 
+
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
       this.state.value.theme = themeRegistry[savedTheme]
     } else {
-      this.state.value.currentTheme = savedTheme
+      // It is a Preset Theme
+      // Fix: Remove 'color-' prefix for the UI display name
+      const cleanName = savedTheme.replace('color-', '')
+      this.state.value.currentTheme = cleanName
+      
+      // Fix: Ensure the theme object is null so we don't load old custom colors
+      this.state.value.theme = null
     }
 
     // Set amoled preference
@@ -76,7 +84,7 @@ export class ThemeHandler {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
         this.applyTheme()
       } 
-	  else {
+      else {
         this.applyTheme()
       }
     })
@@ -89,6 +97,7 @@ export class ThemeHandler {
     
     if (!theme || !theme.modes || !theme.modes[currentMode]) {
       this.applyDOMClasses(currentMode)
+      this.clearCustomCSSVariables() // Clean up any leftovers from previous themes
       return
     }
     
@@ -113,18 +122,25 @@ export class ThemeHandler {
     }
   }
 
-  private applyCSSVariables(colors: ModeColors, theme: Theme) {
+  private clearCustomCSSVariables() {
     if (typeof document === 'undefined') return
-
     const root = document.documentElement
-
-    // Clear ALL inline styles related to theming to ensure clean slate
+    
     const allStyleProps = Array.from(root.style)
     allStyleProps.forEach(prop => {
       if (prop.startsWith('--vp-')) {
         root.style.removeProperty(prop)
       }
     })
+  }
+
+  private applyCSSVariables(colors: ModeColors, theme: Theme) {
+    if (typeof document === 'undefined') return
+
+    const root = document.documentElement
+
+    this.clearCustomCSSVariables()
+
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
@@ -136,18 +152,11 @@ export class ThemeHandler {
     }
 
     // Apply brand colors only if theme specifies them
-    // Otherwise, remove inline styles to let ColorPicker CSS take effect
     if (colors.brand && (colors.brand[1] || colors.brand[2] || colors.brand[3] || colors.brand.soft)) {
       if (colors.brand[1]) root.style.setProperty('--vp-c-brand-1', colors.brand[1])
       if (colors.brand[2]) root.style.setProperty('--vp-c-brand-2', colors.brand[2])
       if (colors.brand[3]) root.style.setProperty('--vp-c-brand-3', colors.brand[3])
       if (colors.brand.soft) root.style.setProperty('--vp-c-brand-soft', colors.brand.soft)
-    } else {
-      // Remove inline brand color styles so ColorPicker CSS can apply
-      root.style.removeProperty('--vp-c-brand-1')
-      root.style.removeProperty('--vp-c-brand-2')
-      root.style.removeProperty('--vp-c-brand-3')
-      root.style.removeProperty('--vp-c-brand-soft')
     }
 
     // Apply background colors
@@ -158,31 +167,11 @@ export class ThemeHandler {
       root.style.setProperty('--vp-c-bg-mark', colors.bgMark)
     }
 
-    // Apply text colors - always set them to ensure proper theme switching
+    // Apply text colors
     if (colors.text) {
       if (colors.text[1]) root.style.setProperty('--vp-c-text-1', colors.text[1])
       if (colors.text[2]) root.style.setProperty('--vp-c-text-2', colors.text[2])
       if (colors.text[3]) root.style.setProperty('--vp-c-text-3', colors.text[3])
-    } else {
-      // Remove inline styles if theme doesn't specify text colors
-      // This allows CSS variables from style.scss to take effect
-      root.style.removeProperty('--vp-c-text-1')
-      root.style.removeProperty('--vp-c-text-2')
-      root.style.removeProperty('--vp-c-text-3')
-    }
-
-    // Debug: log applied text color variables so we can inspect in console
-    try {
-      // eslint-disable-next-line no-console
-      console.log('[ThemeHandler] applied text vars', {
-        theme: theme.name,
-        mode: this.state.value.currentMode,
-        vp_text_1: root.style.getPropertyValue('--vp-c-text-1'),
-        vp_text_2: root.style.getPropertyValue('--vp-c-text-2'),
-        vp_text_3: root.style.getPropertyValue('--vp-c-text-3')
-      })
-    } catch (e) {
-      // ignore
     }
 
     // Apply button colors
@@ -219,45 +208,26 @@ export class ThemeHandler {
       root.style.setProperty('--vp-home-hero-name-background', colors.home.heroNameBackground)
       root.style.setProperty('--vp-home-hero-image-background-image', colors.home.heroImageBackground)
       root.style.setProperty('--vp-home-hero-image-filter', colors.home.heroImageFilter)
-    } else {
-      // Remove home hero color styles if theme doesn't specify them
-      root.style.removeProperty('--vp-home-hero-name-color')
-      root.style.removeProperty('--vp-home-hero-name-background')
-      root.style.removeProperty('--vp-home-hero-image-background-image')
-      root.style.removeProperty('--vp-home-hero-image-filter')
     }
 
     // Apply fonts (if defined)
     if (theme.fonts?.body) {
       root.style.setProperty('--vp-font-family-base', theme.fonts.body)
-    } else {
-      root.style.removeProperty('--vp-font-family-base')
     }
     if (theme.fonts?.heading) {
       root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
-    } else {
-      root.style.removeProperty('--vp-font-family-heading')
     }
 
     // Apply border radius (if defined)
     if (theme.borderRadius) {
       root.style.setProperty('--vp-border-radius', theme.borderRadius)
-    } else {
-      root.style.removeProperty('--vp-border-radius')
     }
 
     // Apply spacing (if defined)
     if (theme.spacing) {
       if (theme.spacing.small) root.style.setProperty('--vp-spacing-small', theme.spacing.small)
-      else root.style.removeProperty('--vp-spacing-small')
       if (theme.spacing.medium) root.style.setProperty('--vp-spacing-medium', theme.spacing.medium)
-      else root.style.removeProperty('--vp-spacing-medium')
       if (theme.spacing.large) root.style.setProperty('--vp-spacing-large', theme.spacing.large)
-      else root.style.removeProperty('--vp-spacing-large')
-    } else {
-      root.style.removeProperty('--vp-spacing-small')
-      root.style.removeProperty('--vp-spacing-medium')
-      root.style.removeProperty('--vp-spacing-large')
     }
 
     // Apply custom properties (if defined)
@@ -270,8 +240,6 @@ export class ThemeHandler {
     // Apply custom logo (if defined)
     if (theme.logo) {
       root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
-    } else {
-      root.style.removeProperty('--vp-theme-logo')
     }
   }
 
@@ -284,9 +252,15 @@ export class ThemeHandler {
       this.applyTheme()
       this.ensureColorPickerColors()
     } else {
-      this.state.value.currentTheme = themeName
-      localStorage.setItem(STORAGE_KEY_THEME, `color-${themeName}`)
-      localStorage.setItem('preferred-color', themeName)
+      const cleanName = themeName.replace('color-', '')
+      
+      this.state.value.currentTheme = cleanName
+      this.state.value.theme = null
+      
+      localStorage.setItem(STORAGE_KEY_THEME, `color-${cleanName}`)
+      localStorage.setItem('preferred-color', cleanName)
+      
+      this.applyTheme()
     }
   }
 
@@ -298,10 +272,8 @@ export class ThemeHandler {
 
   public toggleMode() {
     const currentMode = this.state.value.currentMode
-    
     // Toggle between light and dark
     const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-    
     this.setMode(newMode)
   }
 
