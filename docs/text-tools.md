@@ -212,7 +212,7 @@
 * ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Notion](https://www.notion.com/)** - Note-Taking
 * ⭐ **Notion Tools** - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
-* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
+* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
 * ⭐ **[Simplenote](https://simplenote.com/)** - Note-Taking
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
@@ -222,7 +222,7 @@
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Flotes](https://flotes.app/) - Markdown Note-Taking
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking
-* [Notesnook](https://notesnook.com/) - Note-Taking
+* [Notesnook](https://notesnook.com/) - Note-Taking / E2EE
 * [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / [GitHub](https://github.com/vnotex/vnote)
 * [Tiddly](https://tiddlywiki.com/) - Info Manager / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Org-roam](https://www.orgroam.com/) - Info Manager
@@ -234,11 +234,11 @@
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
 * [DocMost](https://docmost.com/) - Note-Taking
-* [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking
-* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / [GitHub](https://github.com/martinstoeckli/SilentNotes)
+* [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE
+* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes
-* [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes 
-* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
+* [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE
+* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
