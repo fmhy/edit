@@ -24,13 +24,18 @@ const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'swarm', 
+    currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
     theme: null
   })
   private amoledEnabled = ref(false)
+  
+  private initTime = 0
 
   constructor() {
+    if (typeof window !== 'undefined') {
+      this.initTime = Date.now()
+    }
     this.initializeTheme()
   }
 
@@ -64,12 +69,12 @@ export class ThemeHandler {
     else {
       const cleanName = savedTheme.replace('color-', '')
       console.log('[ThemeHandler] Using Preset Theme:', cleanName)
-      
       this.state.value.currentTheme = cleanName
       this.state.value.theme = null
     }
 
     this.amoledEnabled.value = savedAmoled
+
 
     if (savedMode) {
       this.state.value.currentMode = savedMode
@@ -194,64 +199,55 @@ export class ThemeHandler {
       root.style.setProperty('--vp-home-hero-image-filter', colors.home.heroImageFilter)
     }
 
-    if (theme.fonts?.body) {
-      root.style.setProperty('--vp-font-family-base', theme.fonts.body)
-    }
-    if (theme.fonts?.heading) {
-      root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
-    }
-
-    if (theme.borderRadius) {
-      root.style.setProperty('--vp-border-radius', theme.borderRadius)
-    }
-
+    if (theme.fonts?.body) root.style.setProperty('--vp-font-family-base', theme.fonts.body)
+    if (theme.fonts?.heading) root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
+    if (theme.borderRadius) root.style.setProperty('--vp-border-radius', theme.borderRadius)
     if (theme.spacing) {
       if (theme.spacing.small) root.style.setProperty('--vp-spacing-small', theme.spacing.small)
       if (theme.spacing.medium) root.style.setProperty('--vp-spacing-medium', theme.spacing.medium)
       if (theme.spacing.large) root.style.setProperty('--vp-spacing-large', theme.spacing.large)
     }
-
     if (theme.customProperties) {
-      Object.entries(theme.customProperties).forEach(([key, value]) => {
-        root.style.setProperty(key, value)
-      })
+      Object.entries(theme.customProperties).forEach(([key, value]) => root.style.setProperty(key, value))
     }
-
-    if (theme.logo) {
-      root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
-    }
+    if (theme.logo) root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
   }
 
   public setTheme(themeName: string) {
-    console.log('[ThemeHandler] Setting theme to:', themeName)
+    console.log('[ThemeHandler] setTheme called with:', themeName)
+
+
+    const isStartup = typeof window !== 'undefined' && (Date.now() - this.initTime < 1000)
+    const isDefaultReset = themeName === 'color-swarm' || themeName === 'swarm'
+    const hasCustomThemeLoaded = !!this.state.value.theme
+
+    if (isStartup && isDefaultReset && hasCustomThemeLoaded) {
+      console.warn('[ThemeHandler] Blocked auto-reset to default theme during startup.')
+      return
+    }
 
     if (themeRegistry[themeName]) {
       this.state.value.currentTheme = themeName
       this.state.value.theme = themeRegistry[themeName]
-
       localStorage.setItem(STORAGE_KEY_THEME, themeName)
-      
       this.applyTheme()
       this.ensureColorPickerColors()
       return
     }
 
     const cleanName = themeName.replace('color-', '')
-    
     if (themeRegistry[cleanName]) {
       this.state.value.currentTheme = cleanName
       this.state.value.theme = themeRegistry[cleanName]
-      
       localStorage.setItem(STORAGE_KEY_THEME, cleanName)
-      
       this.applyTheme()
       this.ensureColorPickerColors()
       return
     }
 
-    console.log('[ThemeHandler] Theme not in registry. Applying as Preset:', cleanName)
+    console.log('[ThemeHandler] Applying Preset:', cleanName)
     this.state.value.currentTheme = cleanName
-    this.state.value.theme = null 
+    this.state.value.theme = null
     
     localStorage.setItem(STORAGE_KEY_THEME, `color-${cleanName}`)
     localStorage.setItem('preferred-color', cleanName)
@@ -277,24 +273,15 @@ export class ThemeHandler {
     this.applyTheme()
   }
 
-  public getAmoledEnabled() {
-    return this.amoledEnabled.value
-  }
-
-  public toggleAmoled() {
-    this.setAmoledEnabled(!this.amoledEnabled.value)
-  }
-
-  public getAmoledEnabledRef() {
-    return this.amoledEnabled
-  }
+  public getAmoledEnabled() { return this.amoledEnabled.value }
+  public toggleAmoled() { this.setAmoledEnabled(!this.amoledEnabled.value) }
+  public getAmoledEnabledRef() { return this.amoledEnabled }
 
   private ensureColorPickerColors() {
     const currentMode = this.state.value.currentMode
     const theme = this.state.value.theme
     
     if (!theme || !theme.modes || !theme.modes[currentMode]) return
-    
     const modeColors = theme.modes[currentMode]
     
     if (!modeColors.brand || !modeColors.brand[1]) {
