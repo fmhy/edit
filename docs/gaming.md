@@ -48,6 +48,7 @@
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#ads) - Denuvo Games / Works Offline
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
+* [GamePCISO](https://gamepciso.com/) – PC game downloads
 
 ***
 
@@ -383,6 +384,7 @@
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
 * [⁠NS2DB](https://ns2db.com/) - Switch 2 / Switch / 3DS ROM Release Tracker / [Discord](https://discord.com/invite/8CpjeXH4)
+* [NSWGame](https://nswgame.com/) - Nintendo DS / 3DS / Switch / Wii / WiiU ROMs
 
 ***
 
@@ -395,6 +397,8 @@
 * [PS3R](https://ps3r.com/) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
+* [DownloadGamePSP](https://downloadgamepsp.org/) - PSP / PSVita ROMs
+* [DLPSGame](https://dlpsgame.com/) - PS2 / PS3 / PS4 / PS5 ROMs
 
 ***
 
