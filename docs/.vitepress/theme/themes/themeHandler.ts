@@ -24,9 +24,9 @@ const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'swarm',
+    currentTheme: 'color-swarm',
     currentMode: 'light' as DisplayMode,
-    theme: null
+    theme: themeRegistry['color-swarm']
   })
   private amoledEnabled = ref(false)
 
