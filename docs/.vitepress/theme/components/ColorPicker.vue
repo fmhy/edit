@@ -8,7 +8,7 @@ import type { Theme } from '../themes/types'
 import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'christmas')
+const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 
 // Use the theme system
 const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } = useTheme()
