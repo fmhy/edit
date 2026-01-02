@@ -317,7 +317,6 @@
 * [FinalBurn Neo](https://rentry.co/FMHYB64#finalburn-neo) - ROMs / Zip
 * [Romsie](https://roms2000.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - ROMs
-* [DLPSGame](https://dlpsgame.com/), [2](https://nswgame.com) - ROMs / Avoid PC Games
 * [ROMsGames](https://www.romsgames.net/roms/) - ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - ROMs
 * [ROMsHQ](https://romshq.com/) - ROMs
@@ -336,6 +335,7 @@
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
+* [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -359,6 +359,7 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.gg/rgttByzYRY)
+* [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Sign-Up Required
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
@@ -392,9 +393,11 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
+* [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / Avoid PC Games
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
+* [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / Avoid PC Games
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 
 ***
