@@ -77,10 +77,20 @@ export class ThemeHandler {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
-    if (!theme) {
-      this.applyDOMClasses(currentMode)
-      return
-    }
+
+    // Is this the WORST fix of all time???
+    const root = document.documentElement
+    const bgColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#1A1A1A' : '#f8fafc'
+    root.style.setProperty('--vp-c-bg', bgColor)
+    const bgAltColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#171717' : '#eef2f5'
+    root.style.setProperty('--vp-c-bg-alt', bgAltColor)
+    const bgElvColor = currentMode === 'dark' && this.amoledEnabled.value ? 'rgba(0, 0, 0, 0.9)' : currentMode === 'dark' ? '#1a1a1acc' : 'rgba(255, 255, 255, 0.8)'
+    root.style.setProperty('--vp-c-bg-elv', bgElvColor)
+
+    this.applyDOMClasses(currentMode)
+
+    if (!theme) return
+
     const modeColors = theme.modes[currentMode]
 
     this.applyDOMClasses(currentMode)
