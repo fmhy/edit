@@ -16,13 +16,14 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
 Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
 
+* [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
 * [fmhy.bid](https://fmhy.bid/)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
 * [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY)
 * [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[3](https://fmhy.blooketbot.me/)/[4](https://fmhy.joyconlab.net/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.piperagossip.org/)/[7](https://fmhy.pp.ua/)/[8](https://fmhy.prigoana.com/)/[9](https://fmhy.prigoana.pp.ua/))
 * [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
-* [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Version
+* [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Style
 
 ***
 
