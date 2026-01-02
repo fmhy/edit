@@ -335,7 +335,7 @@
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
-* [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360
+* [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360 / Avoid PC Games
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
