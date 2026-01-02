@@ -21,13 +21,12 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
-const STORAGE_KEY_THEME_DATA = 'vitepress-theme-data'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'color-swarm',
+    currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry['color-swarm']
+    theme: null
   })
   private amoledEnabled = ref(false)
 
