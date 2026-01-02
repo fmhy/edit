@@ -481,7 +481,7 @@
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [SullyGnome](https://sullygnome.com/), [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Rumble](https://rumble.com/) - Twitch Alternative
+* [Rumble](https://rumble.com/) or [Kick](https://kick.com/) - Twitch Alternative
 
 ***
 

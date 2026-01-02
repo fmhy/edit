@@ -17,6 +17,8 @@
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
+* [⁠Greenlight](https://github.com/unknownskl/greenlight) - Improved xCloud Client / Xbox Cloud Gaming
+* [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [X](https://x.com/redphx) / [GitHub](https://github.com/redphx/better-xcloud)
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [⁠Lets Play Index](https://www.letsplayindex.com/) - Index of Lets Plays / Longplays
 * [⁠TASVideos](https://tasvideos.org/) - TAS Video Community / Resources / [Emulator Resources](https://tasvideos.org/EmulatorResources) / [Game Resources](https://tasvideos.org/GameResources)
@@ -52,7 +54,7 @@
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
-* [Hydra](https://hydralauncher.gg/) - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Telegram](https://t.me/hydralauncher) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [GitHub](https://github.com/hydralauncher/hydra)
+* [Hydra](https://hydralauncher.gg/) - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [GitHub](https://github.com/hydralauncher/hydra)
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
 * [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
 * [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
@@ -204,8 +206,10 @@
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
-* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
+* [/codmeta/](https://dan.valeena.dev/guides/codmeta/), [2](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
+* [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
+* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
 * [P2SR Wiki](https://wiki.portal2.sr/) - Portal 2 Speedrunning Wiki
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
@@ -393,7 +397,7 @@
 * [Ezz-BOIII](https://rentry.co/FMHYB64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
-* [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4)
+* [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4) / [GitHub](https://github.com/coop-deluxe/sm64coopdx)
 * [Smash64](https://smash64.online/) - Super Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 * [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
@@ -467,7 +471,6 @@
 * [Team Resurgent](https://rentry.co/FMHYB64#team-resurgent) - Xbox Homebrew Tools
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
-* [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [X](https://x.com/redphx) / [GitHub](https://github.com/redphx/better-xcloud)
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 * [NKit](https://wiki.gbatemp.net/wiki/NKit) - Disc Image Processor
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
@@ -629,13 +632,13 @@
 
 ## ▷ Launchers
 
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://gist.github.com/sugoidogo/2e607727cd61324b2d292da96961de3f) / [Free Version](https://rentry.co/FMHYB64#prism) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://gist.github.com/sugoidogo/2e607727cd61324b2d292da96961de3f) / [Free Version](https://rentry.co/FMHYB64#prism)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Discord](https://discord.com/invite/B7TrrzH) or [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic) - Modpack Launchers
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** - Launcher for Bedrock Edition / [Does Not Work w/ Latest MC Versions](https://ibb.co/7NXBJXX5)
+[ElyPrismLauncher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher) or [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher Forks w/ Alt Auth Server Support
 * [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher
-* [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher Fork w/ Alt Auth Server Support
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
@@ -757,8 +760,6 @@
 * ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
-* [/codmeta/](https://dan.valeena.dev/guides/codmeta/), [2](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
-* [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info / Tools
 * [totk.wism.fr](https://totk.wism.fr/) - Zelda TOTK AutoBuild QR Codes

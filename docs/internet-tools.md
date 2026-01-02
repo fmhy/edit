@@ -443,7 +443,7 @@
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
-* ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
+* ⭐ **[Mail.tm](https://mail.tm/)** or [Mail.gw](https://mail.gw/) - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator) or [etempmail](https://eTempMail.com/) - .Edu Addresses
@@ -669,7 +669,7 @@
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
 * [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
 * [Always Visible](https://webextension.org/listing/always-active.html) - Always Active / On-Top Window
-* [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Auto-Adjust Display Color / Temperature
+* [⁠Circadian](https://github.com/Pasithea0/circadian-extension) or  [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Auto-Adjust Display Color / Temperature
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis

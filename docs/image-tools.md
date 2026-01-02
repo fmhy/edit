@@ -251,6 +251,7 @@
 # ► Design Resources / Ideas
 
 * 🌐 **[Evernote.Design](https://www.evernote.design/)** - Design Resources
+* 🌐 **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - Design Resources
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 * ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 

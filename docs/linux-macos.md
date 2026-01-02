@@ -137,6 +137,7 @@
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or  [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) - Searchable Linux Package Database / [Repology](https://repology.org/)
 * [cheat.sh](https://github.com/chubin/cheat.sh) - App Repos
+* [⁠TuxMate](https://tuxmate.com/) - Bulk App Installer / [GitHub](https://github.com/abusoww/tuxmate)
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://github.com/tversteeg/emplace) - System Package Sync
@@ -742,7 +743,7 @@
 ## ▷ System Tools
 
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
-* ⭐ **[Alfred](https://www.alfredapp.com/)** / [Workflows / Themes](https://www.packal.org/) , [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [⁠KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements
+* ⭐ **[Alfred](https://www.alfredapp.com/)** / [Workflows / Themes](https://www.packal.org/), [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [⁠KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools

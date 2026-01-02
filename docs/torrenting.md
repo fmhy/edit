@@ -88,9 +88,10 @@
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontends
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
 * [Tixati](https://tixati.com/) - Torrent Client / Windows, Linux, Android
-* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare / Windows, Mac, Linux
 * [BiglyBT](https://www.biglybt.com/) - Torrent Client / Windows, Mac, Linux, Android
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - Torrent Client / Windows
+* [WizTorrent](https://wiztorrent.com/) - Torrent Client / Streaming / WebShare / Windows, Mac, Linux
+* [rqbit](https://github.com/ikatson/rqbit/) - Lightweight Torrent Client / Streaming / UPnP Integration / Windows, Mac, Linux
 * [PikaTorrent](https://www.pikatorrent.com/) - Torrent Client / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) - Torrent Client / Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)
 * [Fragments](https://apps.gnome.org/Fragments/) - Torrent Client / Linux
@@ -106,13 +107,14 @@
 
 ## ▷ qBittorrent Tools
 
-* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
-* 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
+* 🌐 **[qBit Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
+* 🌐 **[qBit Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
+* 🌐 **[qBit WebUIs](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs)** - WebUI Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
 * [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
+* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
 
