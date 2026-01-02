@@ -26,7 +26,7 @@ export class ThemeHandler {
   private state = ref<ThemeState>({
     currentTheme: 'color-swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry['color-swarm']
+    theme: null
   })
   private amoledEnabled = ref(false)
 
@@ -77,6 +77,10 @@ export class ThemeHandler {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
+    if (!theme) {
+      this.applyDOMClasses(currentMode)
+      return
+    }
     const modeColors = theme.modes[currentMode]
 
     this.applyDOMClasses(currentMode)
@@ -309,10 +313,12 @@ export class ThemeHandler {
   }
 
   private ensureColorPickerColors() {
+    const theme = this.state.value.theme
+    if (!theme) return
     // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
-    const modeColors = this.state.value.theme.modes[currentMode]
-    
+    const modeColors = theme.modes[currentMode]
+
     if (!modeColors.brand || !modeColors.brand[1]) {
       // Trigger a custom event that ColorPicker can listen to
       if (typeof window !== 'undefined') {
