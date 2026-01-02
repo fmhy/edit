@@ -26,7 +26,7 @@ export class ThemeHandler {
   private state = ref<ThemeState>({
     currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
-    theme: null
+    theme: themeRegistry.catppuccin
   })
   private amoledEnabled = ref(false)
 
