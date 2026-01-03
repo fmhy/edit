@@ -44,6 +44,7 @@
 # ► Developer Tools
 
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
+* ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
@@ -102,7 +103,7 @@
 ## ▷ Online Toolkits
 
 * ⭐ **[AppDevTools](https://appdevtools.com/)**
-* [IT Tools](https://it-tools.tech/)
+* [Sharevb IT Tools](https://sharevb-it-tools.vercel.app/) / [GitHub](https://github.com/sharevb/it-tools) or [IT Tools](https://it-tools.tech/) / [GitHub](https://github.com/CorentinTh/it-tools)
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
 * [24x7](https://www.site24x7.com/tools.html)
@@ -371,23 +372,6 @@
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
-
-***
-
-## ▷ Machine Learning
-
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
-* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
-* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
-* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
-* [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
-* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
-* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
-* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
-* [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 
 ***
 

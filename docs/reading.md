@@ -674,6 +674,7 @@
 
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
+* [⁠Eudaimonia](https://www.eudaimonia.wiki/) - Collaborative Book of Wisdom / Quotes
 * [BrainyQuote](https://www.brainyquote.com/)
 * [AZQuotes](https://www.azquotes.com/)
 * [QuoteGarden](https://www.quotegarden.com/)

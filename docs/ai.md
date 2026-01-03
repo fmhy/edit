@@ -54,7 +54,6 @@
 * [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
 * [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
-* [Genspark](https://www.genspark.ai/) - GPT-5-high / Gemini 3 Pro / Grok 4.1 / Sign-Up Required / [Discord](https://discord.com/invite/CsAQ6F4MPy)
 
 ***
 
@@ -89,7 +88,7 @@
 * [Noi](https://noib.app/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
 * [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted
-* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Self-Hosted / Minimal / Lightweight / [Demo](https://ch.at/)
+* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Self-Hosted / Minimal / Lightweight
 
 ***
 
@@ -117,7 +116,7 @@
 ## ▷ Roleplaying Chatbots
 
 * 🌐 **[Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
-* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://claraiscute.neocities.org/Guides/PygmalionLinks/), [2](https://claraiscute.pages.dev/Guides/PygmalionLinks/) / [Character Guide](https://wikia.schneedc.com/bot-creation/intro) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
+* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Self-Hosted Roleplaying Models / [Resources](https://claraiscute.neocities.org/Guides/PygmalionLinks/), [2](https://claraiscute.pages.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Chub](https://chub.ai/)** - Character Cards / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
 * ⭐ **[Perchance](https://perchance.org/ai-character-chat)** / [2](https://perchance.org/amoled-chat) / [3](https://perchance.org/urv-ai-chat) - Roleplaying / No Sign-Up / Unlimited / Allows Images / Some NSFW / [Resources](https://perchance.org/perlist) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
@@ -494,4 +493,27 @@
 
 ***
 
-# ► [Machine Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_machine_learning)
+# ► Machine Learning
+
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
+* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
+* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
+* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
+* [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
+* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [mlsysbook](https://www.mlsysbook.ai/), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
+* [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - ⁠Transformer Visuzliation
+* [Approaching (Almost) Any Machine Learning Problem](https://files.catbox.moe/b34jd4.pdf) - Machine Learning Problem-Solving Book
+* [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
+* [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) or [Practical Deep Learning](https://course.fast.ai/) - Machine / Deep Learning Courses
+* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
+* [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
+* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
+* [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
+* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
+* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
+* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
+* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
+* [Cyberbotics](https://cyberbotics.com/) - Robot Simulator

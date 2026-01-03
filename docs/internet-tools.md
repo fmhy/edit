@@ -407,7 +407,7 @@
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
-* [Delta Chat](https://delta.chat/en/) - Email-Based Messenger
+* [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
 * [Meru](https://github.com/timche/meru) - Gmail Desktop Client
@@ -493,7 +493,9 @@
 ## ▷ Email Aliasing
 
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.pages.dev/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
+
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email) / [Unlimited Guide](https://bitwarden.com/help/generator/#tab-duckduckgo-3Uj911RtQsJD9OAhUuoKrz)
+
 * [addy.io](https://addy.io/) - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * [SimpleLogin](https://simplelogin.io/) - Email Aliasing / 10 Alias Limit / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
 * [Mailgw](https://mailgw.com/) - Email Aliasing
@@ -634,7 +636,7 @@
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions)**
-* ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
+* ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes

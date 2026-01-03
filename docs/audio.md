@@ -362,6 +362,7 @@
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
+* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / M4A
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
@@ -377,7 +378,7 @@
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Sign-Up Required / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
-* [OnTheSpot](https://github.com/justin025/onthespot) - Multi-Site / [Discord](https://discord.com/invite/hz4mAwSujH)
+* [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal/ [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)

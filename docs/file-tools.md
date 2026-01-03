@@ -352,6 +352,7 @@
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Filefast](https://filefa.st/) - 5GB / Forever
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
+* [imgur.gg](https://imgur.gg/) - 5GB / Forever / Sign-Up Required
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days

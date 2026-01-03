@@ -715,7 +715,7 @@
 
 ## ▷ Porn Quitting
 
-* ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
+* ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
@@ -1176,7 +1176,7 @@
 
 ***
 
-## ▷ Productivity Tools
+## ▷ Productivity / Time Tracking
 
 * 🌐 **[ProductivePrivacy](https://priductive.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
@@ -1187,6 +1187,7 @@
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App
+* [⁠AsteroidOS](https://asteroidos.org/) - Linux Distro for Smart Watches
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App

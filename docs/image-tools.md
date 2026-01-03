@@ -803,13 +803,13 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Sign-Up Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
-* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB with Account) / Forever
+* [FreeImage.Host](https://freeimage.host/) - 64MB (128MB W/ Account) / Forever
 * [imgbox](https://imgbox.com/) - 10MB / Forever
 * [i](https://tikolu.net/i/) - 8MB / Forever
 * [IMGPile](https://imgpile.com/) - 100MB / Forever
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
 * [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
-* [GIFYU](https://gifyu.com/) - 50MB (100MB with Account) / Forever
+* [GIFYU](https://gifyu.com/) - 50MB (100MB w/ Account) / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
