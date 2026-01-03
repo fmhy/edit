@@ -226,7 +226,8 @@
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone / [GitHub](https://github.com/Cytoid/)
-* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [Guides](https://wiki-en.purplepalette.net/home) / [Discord](https://discord.gg/zStqbJahH7) / [GitHub](https://github.com/Sonolus) 
+* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [Guides](https://wiki-en.purplepalette.net/home) / [Discord](https://discord.gg/zStqbJahH7) / [GitHub](https://github.com/Sonolus)
+* [Moshi Online](https://moshionline.net/) - Moshi Monsters remake / [Discord](https://discord.com/invite/5Nwz9Xmjkc) / [GitHub](https://github.com/moshionlineteam)
 
 ***
 
