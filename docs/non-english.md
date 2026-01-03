@@ -1918,3 +1918,4 @@
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course
 * [PSL Dictionary](https://psl.org.pk/dictionary) - Urdu Sign Language Dictionary
+* [ApnaMusic](https://apnamusic.com/) - Indian Music / Streaming / Download / MP3 / MP4
