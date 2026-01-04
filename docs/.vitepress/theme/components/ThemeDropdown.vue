@@ -3,7 +3,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
-const { mode, setMode, state, amoledEnabled, setAmoledEnabled, monochromeEnabled, setMonochromeEnabled } = useTheme()
+const { mode, setMode, state, amoledEnabled, setAmoledEnabled } = useTheme()
 
 const isOpen = ref(false)
 const dropdownRef = ref<HTMLElement | null>(null)
@@ -13,25 +13,24 @@ interface ModeChoice {
   label: string
   icon: string
   isAmoled?: boolean
-  isMonochrome?: boolean
 }
 
 const modeChoices: ModeChoice[] = [
   { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
   { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
   { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true },
-  { mode: 'dark', label: 'Monochrome', icon: 'i-ph-circle-half-tilt-duotone', isMonochrome: true }
+  { mode: 'monochrome', label: 'Monochrome', icon: 'i-ph-circle-half-tilt-duotone' }
 ]
 
 const currentChoice = computed(() => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  if (current === 'dark' && monochromeEnabled.value) {
+  if (current === 'monochrome') {
     return modeChoices[3] // Monochrome option
   }
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
   }
-  return modeChoices.find(choice => choice.mode === current && !choice.isAmoled && !choice.isMonochrome) || modeChoices[0]
+  return modeChoices.find(choice => choice.mode === current && !choice.isAmoled) || modeChoices[0]
 })
 
 const toggleDropdown = () => {
@@ -39,31 +38,32 @@ const toggleDropdown = () => {
 }
 
 const selectMode = (choice: ModeChoice) => {
-  if (choice.isMonochrome) {
-    setMode('dark')
-    setAmoledEnabled(false)
-    setMonochromeEnabled(true)
-  } else if (choice.isAmoled) {
-    setMode('dark')
+  setMode(choice.mode)
+  
+  if (choice.isAmoled) {
     setAmoledEnabled(true)
-    setMonochromeEnabled(false)
   } else {
-    setMode(choice.mode)
-    setAmoledEnabled(false)
-    setMonochromeEnabled(false)
+    // Only disable AMOLED if we are explicitly switching away from it
+    // But wait, if we switch to 'monochrome', 'amoled' flag might still be true?
+    // It doesn't matter because amoled is only checked if mode is 'dark'.
+    // However, if we switch back to 'dark', should it be amoled or not?
+    // Standard behavior: clicking 'Dark' (non-amoled) disables amoled.
+    if (choice.mode === 'dark') {
+       setAmoledEnabled(false)
+    }
   }
   isOpen.value = false
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  if (choice.isMonochrome) {
-    return current === 'dark' && monochromeEnabled.value
+  if (choice.mode === 'monochrome') {
+     return current === 'monochrome'
   }
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value
   }
-  return choice.mode === current && !choice.isAmoled && !choice.isMonochrome && !amoledEnabled.value && !monochromeEnabled.value
+  return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
 }
 
 const handleClickOutside = (event: MouseEvent) => {

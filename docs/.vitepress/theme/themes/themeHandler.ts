@@ -21,7 +21,6 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
-const STORAGE_KEY_MONOCHROME = 'vitepress-monochrome-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -30,7 +29,6 @@ export class ThemeHandler {
     theme: null
   })
   private amoledEnabled = ref(false)
-  private monochromeEnabled = ref(false)
 
   constructor() {
     this.initializeTheme()
@@ -43,7 +41,6 @@ export class ThemeHandler {
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
-    const savedMonochrome = localStorage.getItem(STORAGE_KEY_MONOCHROME) === 'true'
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -52,7 +49,6 @@ export class ThemeHandler {
 
     // Set amoled preference
     this.amoledEnabled.value = savedAmoled
-    this.monochromeEnabled.value = savedMonochrome
 
     // Set mode
     if (savedMode) {
@@ -84,8 +80,10 @@ export class ThemeHandler {
 
     // Is this the WORST fix of all time???
     const root = document.documentElement
-    const isMonochrome = currentMode === 'dark' && this.monochromeEnabled.value
+    const isMonochrome = currentMode === 'monochrome'
 
+    // Monochrome overrides everything to pure black/white
+    // Standard Dark/Amoled logic applies otherwise
     const bgColor = isMonochrome ? '#000000' : currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#1A1A1A' : '#f8fafc'
     root.style.setProperty('--vp-c-bg', bgColor)
 
@@ -119,9 +117,11 @@ export class ThemeHandler {
       root.classList.add('amoled')
     }
 
-    // Add monochrome class if enabled in dark mode
-    if (mode === 'dark' && this.monochromeEnabled.value) {
+    // Add monochrome class if enabled
+    if (mode === 'monochrome') {
       root.classList.add('monochrome')
+      // Also add dark class because monochrome is effectively a high contrast dark mode
+      root.classList.add('dark')
     }
   }
 
@@ -141,7 +141,7 @@ export class ThemeHandler {
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
 
-    const isMonochrome = this.state.value.currentMode === 'dark' && this.monochromeEnabled.value
+    const isMonochrome = this.state.value.currentMode === 'monochrome'
 
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
@@ -334,20 +334,6 @@ export class ThemeHandler {
     this.setMode(newMode)
   }
 
-  public setMonochromeEnabled(enabled: boolean) {
-    this.monochromeEnabled.value = enabled
-    localStorage.setItem(STORAGE_KEY_MONOCHROME, enabled.toString())
-    this.applyTheme()
-  }
-
-  public getMonochromeEnabled() {
-    return this.monochromeEnabled.value
-  }
-
-  public isMonochromeMode() {
-    return this.state.value.currentMode === 'dark' && this.monochromeEnabled.value
-  }
-
   public setAmoledEnabled(enabled: boolean) {
     this.amoledEnabled.value = enabled
     localStorage.setItem(STORAGE_KEY_AMOLED, enabled.toString())
@@ -412,6 +398,10 @@ export class ThemeHandler {
   public isAmoledMode() {
     return this.state.value.currentMode === 'dark' && this.amoledEnabled.value
   }
+
+  public isMonochromeMode() {
+    return this.state.value.currentMode === 'monochrome'
+  }
 }
 
 // Global theme handler instance
@@ -447,8 +437,6 @@ export function useTheme() {
     amoledEnabled: handler.getAmoledEnabledRef(),
     setAmoledEnabled: (enabled: boolean) => handler.setAmoledEnabled(enabled),
     toggleAmoled: () => handler.toggleAmoled(),
-    monochromeEnabled: handler.getMonochromeEnabled(),
-    setMonochromeEnabled: (enabled: boolean) => handler.setMonochromeEnabled(enabled),
     isMonochromeMode: () => handler.isMonochromeMode(),
     state
   }
