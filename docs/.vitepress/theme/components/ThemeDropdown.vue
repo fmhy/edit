@@ -18,15 +18,11 @@ interface ModeChoice {
 const modeChoices: ModeChoice[] = [
   { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
   { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
-  { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true },
-  { mode: 'monochrome', label: 'Monochrome', icon: 'i-ph-circle-half-tilt-duotone' }
+  { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true }
 ]
 
 const currentChoice = computed(() => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  if (current === 'monochrome') {
-    return modeChoices[3] // Monochrome option
-  }
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
   }
@@ -38,28 +34,18 @@ const toggleDropdown = () => {
 }
 
 const selectMode = (choice: ModeChoice) => {
-  setMode(choice.mode)
-  
   if (choice.isAmoled) {
+    setMode('dark')
     setAmoledEnabled(true)
   } else {
-    // Only disable AMOLED if we are explicitly switching away from it
-    // But wait, if we switch to 'monochrome', 'amoled' flag might still be true?
-    // It doesn't matter because amoled is only checked if mode is 'dark'.
-    // However, if we switch back to 'dark', should it be amoled or not?
-    // Standard behavior: clicking 'Dark' (non-amoled) disables amoled.
-    if (choice.mode === 'dark') {
-       setAmoledEnabled(false)
-    }
+    setMode(choice.mode)
+    setAmoledEnabled(false)
   }
   isOpen.value = false
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  if (choice.mode === 'monochrome') {
-     return current === 'monochrome'
-  }
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value
   }
