@@ -21,6 +21,7 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
+const STORAGE_KEY_MONOCHROME = 'vitepress-monochrome-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -29,6 +30,7 @@ export class ThemeHandler {
     theme: null
   })
   private amoledEnabled = ref(false)
+  private monochromeEnabled = ref(false)
 
   constructor() {
     this.initializeTheme()
@@ -41,6 +43,7 @@ export class ThemeHandler {
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
+    const savedMonochrome = localStorage.getItem(STORAGE_KEY_MONOCHROME) === 'true'
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -49,6 +52,7 @@ export class ThemeHandler {
 
     // Set amoled preference
     this.amoledEnabled.value = savedAmoled
+    this.monochromeEnabled.value = savedMonochrome
 
     // Set mode
     if (savedMode) {
@@ -66,8 +70,8 @@ export class ThemeHandler {
       if (!localStorage.getItem(STORAGE_KEY_MODE)) {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
         this.applyTheme()
-      } 
-	  else {
+      }
+      else {
         this.applyTheme()
       }
     })
@@ -80,11 +84,15 @@ export class ThemeHandler {
 
     // Is this the WORST fix of all time???
     const root = document.documentElement
-    const bgColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#1A1A1A' : '#f8fafc'
+    const isMonochrome = currentMode === 'dark' && this.monochromeEnabled.value
+
+    const bgColor = isMonochrome ? '#000000' : currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#1A1A1A' : '#f8fafc'
     root.style.setProperty('--vp-c-bg', bgColor)
-    const bgAltColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#171717' : '#eef2f5'
+
+    const bgAltColor = isMonochrome ? '#000000' : currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#171717' : '#eef2f5'
     root.style.setProperty('--vp-c-bg-alt', bgAltColor)
-    const bgElvColor = currentMode === 'dark' && this.amoledEnabled.value ? 'rgba(0, 0, 0, 0.9)' : currentMode === 'dark' ? '#1a1a1acc' : 'rgba(255, 255, 255, 0.8)'
+
+    const bgElvColor = isMonochrome ? 'rgba(0, 0, 0, 0.9)' : currentMode === 'dark' && this.amoledEnabled.value ? 'rgba(0, 0, 0, 0.9)' : currentMode === 'dark' ? '#1a1a1acc' : 'rgba(255, 255, 255, 0.8)'
     root.style.setProperty('--vp-c-bg-elv', bgElvColor)
 
     this.applyDOMClasses(currentMode)
@@ -99,16 +107,21 @@ export class ThemeHandler {
 
   private applyDOMClasses(mode: DisplayMode) {
     const root = document.documentElement
-    
+
     // Remove all mode classes
-    root.classList.remove('dark', 'light', 'amoled')
-    
+    root.classList.remove('dark', 'light', 'amoled', 'monochrome')
+
     // Add current mode class
     root.classList.add(mode)
-    
+
     // Add amoled class if enabled in dark mode
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
+    }
+
+    // Add monochrome class if enabled in dark mode
+    if (mode === 'dark' && this.monochromeEnabled.value) {
+      root.classList.add('monochrome')
     }
   }
 
@@ -127,16 +140,32 @@ export class ThemeHandler {
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
-    
+
+    const isMonochrome = this.state.value.currentMode === 'dark' && this.monochromeEnabled.value
+
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
       bgAltColor = '#000000'
       bgElvColor = 'rgba(0, 0, 0, 0.9)'
     }
 
-    // Apply brand colors only if theme specifies them
-    // Otherwise, remove inline styles to let ColorPicker CSS take effect
-    if (colors.brand && (colors.brand[1] || colors.brand[2] || colors.brand[3] || colors.brand.soft)) {
+    if (isMonochrome) {
+      bgColor = '#000000'
+      bgAltColor = '#000000'
+      bgElvColor = 'rgba(0, 0, 0, 0.9)'
+    }
+
+    // Apply brand colors only if theme specifies them OR if monochrome to override
+    if (isMonochrome) {
+      root.style.setProperty('--vp-c-brand-1', '#d4d4d4')
+      root.style.setProperty('--vp-c-brand-2', '#a3a3a3')
+      root.style.setProperty('--vp-c-brand-3', '#737373')
+      root.style.setProperty('--vp-c-brand-soft', '#525252')
+
+      root.style.setProperty('--vp-c-text-1', '#ffffff')
+      root.style.setProperty('--vp-c-text-2', '#a3a3a3')
+      root.style.setProperty('--vp-c-text-3', '#737373')
+    } else if (colors.brand && (colors.brand[1] || colors.brand[2] || colors.brand[3] || colors.brand.soft)) {
       if (colors.brand[1]) root.style.setProperty('--vp-c-brand-1', colors.brand[1])
       if (colors.brand[2]) root.style.setProperty('--vp-c-brand-2', colors.brand[2])
       if (colors.brand[3]) root.style.setProperty('--vp-c-brand-3', colors.brand[3])
@@ -158,11 +187,12 @@ export class ThemeHandler {
     }
 
     // Apply text colors - always set them to ensure proper theme switching
-    if (colors.text) {
+    // Except whenever Monochrome is active, we handled text colors above
+    if (!isMonochrome && colors.text) {
       if (colors.text[1]) root.style.setProperty('--vp-c-text-1', colors.text[1])
       if (colors.text[2]) root.style.setProperty('--vp-c-text-2', colors.text[2])
       if (colors.text[3]) root.style.setProperty('--vp-c-text-3', colors.text[3])
-    } else {
+    } else if (!isMonochrome) {
       // Remove inline styles if theme doesn't specify text colors
       // This allows CSS variables from style.scss to take effect
       root.style.removeProperty('--vp-c-text-1')
@@ -284,7 +314,7 @@ export class ThemeHandler {
     this.state.value.theme = themeRegistry[themeName]
     localStorage.setItem(STORAGE_KEY_THEME, themeName)
     this.applyTheme()
-    
+
     // Force re-apply ColorPicker colors if theme doesn't specify brand colors
     this.ensureColorPickerColors()
   }
@@ -297,11 +327,25 @@ export class ThemeHandler {
 
   public toggleMode() {
     const currentMode = this.state.value.currentMode
-    
+
     // Toggle between light and dark
     const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-    
+
     this.setMode(newMode)
+  }
+
+  public setMonochromeEnabled(enabled: boolean) {
+    this.monochromeEnabled.value = enabled
+    localStorage.setItem(STORAGE_KEY_MONOCHROME, enabled.toString())
+    this.applyTheme()
+  }
+
+  public getMonochromeEnabled() {
+    return this.monochromeEnabled.value
+  }
+
+  public isMonochromeMode() {
+    return this.state.value.currentMode === 'dark' && this.monochromeEnabled.value
   }
 
   public setAmoledEnabled(enabled: boolean) {
@@ -403,6 +447,9 @@ export function useTheme() {
     amoledEnabled: handler.getAmoledEnabledRef(),
     setAmoledEnabled: (enabled: boolean) => handler.setAmoledEnabled(enabled),
     toggleAmoled: () => handler.toggleAmoled(),
+    monochromeEnabled: handler.getMonochromeEnabled(),
+    setMonochromeEnabled: (enabled: boolean) => handler.setMonochromeEnabled(enabled),
+    isMonochromeMode: () => handler.isMonochromeMode(),
     state
   }
 }
