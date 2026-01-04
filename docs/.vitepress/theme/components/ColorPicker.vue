@@ -211,12 +211,8 @@ watch(selectedColor, async (color) => {
   if (!color) return;
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
-  // Explicitly set the theme to override any previous selection
   await nextTick()
-  console.log('Setting theme to:', `color-${color}`)
-  console.log('Current themeName:', themeName ? themeName.value : undefined, 'mode:', mode ? (mode as any).value : undefined)
   setTheme(`color-${color}`)
-  console.log('After setTheme, themeName:', themeName ? themeName.value : undefined)
 })
 
 const toggleAmoled = () => {

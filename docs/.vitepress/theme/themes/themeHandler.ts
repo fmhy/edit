@@ -66,8 +66,8 @@ export class ThemeHandler {
       if (!localStorage.getItem(STORAGE_KEY_MODE)) {
         this.state.value.currentMode = e.matches ? 'dark' : 'light'
         this.applyTheme()
-      } 
-	  else {
+      }
+      else {
         this.applyTheme()
       }
     })
@@ -95,17 +95,23 @@ export class ThemeHandler {
 
     this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
+
+    if (theme.name === 'monochrome') {
+      root.classList.add('monochrome')
+    } else {
+      root.classList.remove('monochrome')
+    }
   }
 
   private applyDOMClasses(mode: DisplayMode) {
     const root = document.documentElement
-    
+
     // Remove all mode classes
     root.classList.remove('dark', 'light', 'amoled')
-    
+
     // Add current mode class
     root.classList.add(mode)
-    
+
     // Add amoled class if enabled in dark mode
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
@@ -127,7 +133,7 @@ export class ThemeHandler {
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
-    
+
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
       bgAltColor = '#000000'
@@ -168,20 +174,6 @@ export class ThemeHandler {
       root.style.removeProperty('--vp-c-text-1')
       root.style.removeProperty('--vp-c-text-2')
       root.style.removeProperty('--vp-c-text-3')
-    }
-
-    // Debug: log applied text color variables so we can inspect in console
-    try {
-      // eslint-disable-next-line no-console
-      console.log('[ThemeHandler] applied text vars', {
-        theme: theme.name,
-        mode: this.state.value.currentMode,
-        vp_text_1: root.style.getPropertyValue('--vp-c-text-1'),
-        vp_text_2: root.style.getPropertyValue('--vp-c-text-2'),
-        vp_text_3: root.style.getPropertyValue('--vp-c-text-3')
-      })
-    } catch (e) {
-      // ignore
     }
 
     // Apply button colors
@@ -284,7 +276,7 @@ export class ThemeHandler {
     this.state.value.theme = themeRegistry[themeName]
     localStorage.setItem(STORAGE_KEY_THEME, themeName)
     this.applyTheme()
-    
+
     // Force re-apply ColorPicker colors if theme doesn't specify brand colors
     this.ensureColorPickerColors()
   }
@@ -297,10 +289,10 @@ export class ThemeHandler {
 
   public toggleMode() {
     const currentMode = this.state.value.currentMode
-    
+
     // Toggle between light and dark
     const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-    
+
     this.setMode(newMode)
   }
 
