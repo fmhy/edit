@@ -785,6 +785,7 @@
 * [LolShot](https://lolshot.io/) - PvP FPS
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
+* [Hypersomnia](https://play.hypersomnia.io/) - Top-Down Shooter / [GitHub](https://github.com/TeamHypersomnia/Hypersomnia)
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale
 * [Gats.io](https://gats.io/) - Top-Down Battle Royale / [Discord](https://discord.gg/8Tspptdupm)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter

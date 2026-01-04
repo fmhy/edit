@@ -928,7 +928,7 @@
 * [My Episodes](https://www.myepisodes.com/) - TV
 * [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
 * [AniChart](https://anichart.net), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
-* [Upcoming Anime Dubs](https://myanimelist.net/forum/?topicid=1692966) - Anime Dub Release Tracker
+* [Upcoming Anime Dubs](https://myanimelist.net/forum/?topicid=1692966) or [Dub Schedule](https://teamup.com/ksdhpfjcouprnauwda) - Anime Dub Release Trackers
 * [WhenToStream](https://www.whentostream.com/) - Streaming Release News / Updates
 * [showRSS](https://showrss.info/) - RSS / TV
 

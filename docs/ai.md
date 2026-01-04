@@ -285,7 +285,6 @@
 * [INK](https://app.inkforall.com/tools) - Online AI Text Tools
 * [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
-* [PerchanceStory](https://perchancestory.com/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
 
 ***

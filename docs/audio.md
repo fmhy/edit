@@ -362,7 +362,7 @@
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
-* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / M4A
+* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb

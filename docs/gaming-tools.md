@@ -50,11 +50,11 @@
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
 * ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
+* ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
-* [Hydra](https://hydralauncher.gg/) - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [GitHub](https://github.com/hydralauncher/hydra)
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
 * [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
 * [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
