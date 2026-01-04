@@ -38,6 +38,9 @@ importers:
       mark.js:
         specifier: ^8.11.1
         version: 8.11.1
+      minisearch:
+        specifier: ^7.2.0
+        version: 7.2.0
       nitro-cors:
         specifier: ^0.7.1
         version: 0.7.1

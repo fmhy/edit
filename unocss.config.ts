@@ -129,12 +129,13 @@ export default defineConfig({
             )
         }
       }
-    }),
-    presetWebFonts({
-      fonts: {
-        mono: 'Geist Mono'
-      }
     })
+    // Temporarily disabled for build in sandboxed environment
+    // presetWebFonts({
+    //   fonts: {
+    //     mono: 'Geist Mono'
+    //   }
+    // })
   ],
   transformers: [transformerDirectives()]
 })
