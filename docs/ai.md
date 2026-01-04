@@ -310,7 +310,7 @@
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up Required
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 2 (10 Monthly) / Veo 3.1 (5 Monthly)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - Seedream 4.5 / Nano Banana / 129 Credits Daily
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / Use Alt Account
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
@@ -348,8 +348,8 @@
 * [Z-Image](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) - z-Image / [GitHub](https://github.com/Tongyi-MAI/Z-Image)
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
-* [Pollinations Play](https://pollinations.ai/play) - Z-Image Turbo / 5K Daily ⁠Pollinations
-* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [Genspark](https://www.genspark.ai/) / [Discord](https://discord.com/invite/CsAQ6F4MPy), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
+* [Pollinations Play](https://pollinations.ai/play) - Unlimted / Nano Banana / Z-Image Turbo / 5K Daily ⁠Pollinations
+* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [Seedream](https://seedream.pro/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [Khoj](https://app.khoj.dev/) - Nano Banana / Imagen 4 / Reset Limits w/ Temp Mail
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required / US Select CA
 * [AIImagetoImage](https://aiimagetoimage.io/) or [⁠Image-Editor](https://image-editor.org/) - Nano Banana / Editing / No Sign-Up
