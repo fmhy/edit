@@ -14,10 +14,12 @@
  *  limitations under the License.
  */
 import { catppuccinTheme } from './catppuccin'
+import { monochromeTheme } from './monochrome'
 import type { ThemeRegistry } from '../types'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
+  monochrome: monochromeTheme,
 }
 
-export { catppuccinTheme }
+export { catppuccinTheme, monochromeTheme }
