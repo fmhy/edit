@@ -26,12 +26,12 @@ import {
   watchEffect,
   type Ref
 } from 'vue'
-import type { ModalTranslations } from '../../../../types/local-search'
-import { pathToFile } from '../../app/utils'
-import { escapeRegExp } from '../../shared'
-import { useData } from '../composables/data'
-import { LRUCache } from '../support/lru'
-import { createSearchTranslate } from '../support/translation'
+import type { ModalTranslations } from 'vitepress/types/local-search'
+import { pathToFile } from 'vitepress/dist/client/app/utils'
+import { escapeRegExp } from 'vitepress/dist/client/shared'
+import { useData } from 'vitepress/dist/client/theme-default/composables/data'
+import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
+import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 
 const emit = defineEmits<{
   (e: 'close'): void

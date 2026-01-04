@@ -98,6 +98,12 @@ export default defineConfig({
           replacement: fileURLToPath(
             new URL('./theme/components/ThemeDropdown.vue', import.meta.url)
           )
+        },
+        {
+          find: /^.*VPLocalSearchBox\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPLocalSearchBox.vue', import.meta.url)
+          )
         }
       ]
     },
