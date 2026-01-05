@@ -1,8 +1,15 @@
 <script setup lang="ts">
 import Switch from './Switch.vue'
 
-const toggleIndexes = () =>
-  document.documentElement.classList.toggle('indexes-only')
+const toggleIndexes = () => {
+  const root = document.documentElement
+  const enabling = !root.classList.contains('indexes-only')
+  root.classList.toggle('indexes-only')
+
+  if (enabling && root.classList.contains('starred-only')) {
+    root.classList.remove('starred-only')
+  }
+}
 </script>
 
 <template>

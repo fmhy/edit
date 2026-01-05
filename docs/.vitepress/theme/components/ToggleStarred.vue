@@ -3,9 +3,17 @@ import { onBeforeUnmount, onMounted, ref } from 'vue'
 import Switch from './Switch.vue'
 
 const isDisabled = ref(false)
+const switchKey = ref(0)
 
 const syncDisabled = () => {
-  isDisabled.value = document.documentElement.classList.contains('indexes-only')
+  const root = document.documentElement
+  const disabled = root.classList.contains('indexes-only')
+  isDisabled.value = disabled
+
+  if (disabled && root.classList.contains('starred-only')) {
+    root.classList.remove('starred-only')
+    switchKey.value += 1
+  }
 }
 
 let observer: MutationObserver | undefined
@@ -28,7 +36,11 @@ const toggleStarred = () => {
 </script>
 
 <template>
-  <Switch :class="{ disabled: isDisabled }" @click="toggleStarred()" />
+  <Switch
+    :key="switchKey"
+    :class="{ disabled: isDisabled }"
+    @click="toggleStarred()"
+  />
 </template>
 
 <style>
