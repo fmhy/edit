@@ -1075,6 +1075,7 @@
 * [Microsoft To Do](https://to-do.office.com/) or [Twodos](https://apps.apple.com/app/id6463499163) - To-Do Apps
 * [Journal it](https://apps.apple.com/app/id1501944799) - Planner / Journal App
 * [Success](https://apps.apple.com/app/id1544852780) or [(Not Boring) Habits](https://apps.apple.com/app/id1593891243) - Productivity Booster / Habit Trackers
+* [⁠Apple Config Guide](https://redd.it/1731ozp) - iOS App / Distraction Blocking Guide 
 * [Body Clock](https://apps.apple.com/app/id869648628) - Plan / Track Circadian Rhythm
 * [Parcel](https://apps.apple.com/app/id375589283) or [Aftership](https://apps.apple.com/app/id507014023) - Delivery Tracker
 * [KeyPad](https://apps.apple.com/app/id1491684442) - Connect Mac Keyboard to Mobile Devices

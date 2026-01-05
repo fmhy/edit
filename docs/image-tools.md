@@ -689,6 +689,7 @@
 
 * [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
+* [⁠Pro Image Tool](https://proimagetool.com/)
 * [Simple Image Resizer](https://www.simpleimageresizer.com/)
 * [ImageResizer](https://imageresizer.com/)
 * [PicResize](https://picresize.com/)

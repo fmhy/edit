@@ -30,7 +30,6 @@
 * [BFLIX](https://bflix.sh/) - Movies / TV 
 * [MovieHD](https://moviehd.us) - Movies / [Telegram](https://t.me/+NthvAOpP0oNkMWU1)
 * [StreamM4u](https://streamm4u.com.co/), [2](https://m4uhd.page/) - Movies / TV / Anime / [Clones](https://rentry.co/sflix#streamm4u-clones)
-* [StreamDB](https://streamdb.space/) - Movies / TV / 3rd Party Hosts / [Telegram](https://t.me/streamdb_online)
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://ww1.goojara.to/) - Movies / TV / Anime
 * [PrimeWire](https://www.primewire.mov/), [2](https://www.primewire.tf/) - Movies / TV / Anime / Mostly 3rd Party Hosts
 * [Cineb](https://cineb.world/) - Movies / TV / Anime / Mostly 3rd Party Hosts
@@ -79,7 +78,7 @@
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
 * ⭐ **[FlyX](https://tv.vynx.cc/)** - Movies / TV / Anime / [Discord](https://discord.vynx.cc/) / [GitHub](https://github.com/Vynx-Velvet/Flyx-main)
 * ⭐ **[Poprink](https://popr.ink/)** - Movies / TV / Anime / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
-* [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
+* [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 * [Primeshows](https://www.primeshows.uk/) or [Netflex](https://netflex.uk/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JeMDzxSbhH)
 * [VoidFlix](https://voidflix.pages.dev/) or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)

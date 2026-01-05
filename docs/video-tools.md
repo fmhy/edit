@@ -52,6 +52,7 @@
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Sign-Up Required
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
+* [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
 * [Luluvdoo](https://luluvdoo.com/) - 15GB / 60 Days Since Last Download
 * [Streamtape](https://streamtape.com/) - 15GB / Sign-Up Required / [.to](https://streamtape.to/)
@@ -148,7 +149,7 @@
 * [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - Live Stream Recorders / Windows, Mac, Linux
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
-* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
+* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast), [OwnCast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
@@ -269,7 +270,7 @@
 
 * ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
-* ⭐ **[Kodi](https://kodi.tv/)** - Media Server
+* ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools

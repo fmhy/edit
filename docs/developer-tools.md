@@ -1219,6 +1219,7 @@
 
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
+* ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler
 * ⭐ **[GHIDRA](https://github.com/NationalSecurityAgency/ghidra)** - Reverse Engineering Framework
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
 * [⁠LemmeDebug](https://greasyfork.org/en/scripts/537775) - Disable Anti-Devtools for Reverse Engineering / Debugging
