@@ -29,6 +29,13 @@ const enabled = ref(false)
 .switch.enabled {
   background-color: var(--vp-c-brand);
 }
+
+.switch.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  background-color: var(--vp-c-bg-soft);
+  border-color: var(--vp-c-divider);
+}
 </style>
 
 <style scoped>
