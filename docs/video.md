@@ -69,7 +69,7 @@
 ***
 
 * ⭐ **[P-Stream](https://pstream.mov/)** - Movies / TV / Anime / Auto-Next / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)
-* ⭐ **[Flixer](https://flixer.sh)**, [Hexa](https://hexa.su/) or [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/yvwWjqvzjE)
+* ⭐ **[Flixer](https://flixer.sh)** / [Discord](https://discord.com/invite/Z9Hjeqe4Fr), [Hexa](https://hexa.su/) / [Discord](https://discord.com/invite/yvwWjqvzjE) or [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Filmex](https://filmex.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * ⭐ **[Cinezo](https://www.cinezo.net/)** or [Yenime](https://yenime.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Gx27YMK73d)
 * ⭐ **[Vidbox](https://vidbox.cc/)**, [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
