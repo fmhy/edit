@@ -271,6 +271,7 @@
 * [ssavr](https://www.ssavr.com/) - Local Saves
 * [notepad-online.com](https://notepad-online.com/) - Local Saves
 * [JustNotePad](https://justnotepad.com/) - Local Saves
+* [NotesOnline](https://notesonline.org/) - Local Saves
 * [PasteePad](https://pasteepad.com/) - Local Saves
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
@@ -461,7 +462,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa), [⁠Lyx](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions

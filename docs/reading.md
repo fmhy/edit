@@ -138,10 +138,10 @@
 * [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
-* [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
+* [dotepub](https://dotepub.com/) - Convert Webpages to Ebooks
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-* [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers 
+* [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
 
 ***
 
@@ -149,7 +149,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
-* [Annas Archive Reader](https://annas-archive.org/view)
+* [Annas Archive Reader](https://annas-archive.li//view)
 * [Flow](https://www.flowoss.com/)
 * [Online Cloud File Viewer](https://www.fviewer.com/)
 * [Readwok](https://readwok.com/)

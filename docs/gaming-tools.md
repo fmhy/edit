@@ -40,7 +40,8 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
-* [LunaTranslator](https://docs.lunatranslator.org/en/) - Visual Novel Translator / [GitHub](https://github.com/HIllya51/LunaTranslator)
+* [LunaTranslator](https://docs.lunatranslator.org/en/) - Visual Novel Live Translator / [GitHub](https://github.com/HIllya51/LunaTranslator)
+* [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)
@@ -452,6 +453,7 @@
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Toontown Rewritten](https://www.toontownrewritten.com/) or [Corporate Clash](https://corporateclash.net/) - Toontown Multiplayer Revivals
 * [⁠Moshi Monsters Online](https://moshionline.net/) - Moshi Monsters Revival / [Codes](https://moshionline.net/codes/) / [Discord](https://discord.com/invite/5Nwz9Xmjkc)
+* [⁠Echo VR Installer](https://github.com/marshmallow-mia/Echo-VR-Installer) - Echo VR Revival / [Guide](https://quest.echovr.de/) / [Discord](https://discord.gg/pMBGKb4r)
 
 ***
 
@@ -470,11 +472,6 @@
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [Wololo](https://wololo.net/) - Console Modding News
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
-* [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
-* [Team Resurgent](https://rentry.co/FMHYB64#team-resurgent) - Xbox Homebrew Tools
-* [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
-* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 * [NKit](https://wiki.gbatemp.net/wiki/NKit) - Disc Image Processor
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [NESDev](https://www.nesdev.org/) - NES / SNES Dev Homebrew Guides / Forum
@@ -561,6 +558,17 @@
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
 * [VitaDB](https://www.rinnegatamante.eu/vitadb) - PS Vita Homebrews
 * [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
+
+***
+
+## ▷ Xbox Homebrew
+
+* [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
+* [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
+* [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
+* [Team Resurgent](https://rentry.co/FMHYB64#team-resurgent) - Xbox Homebrew Tools
+* [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Decompiler Required
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 
 ***
 
