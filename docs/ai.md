@@ -285,6 +285,7 @@
 * [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [Quarkle](https://quarkle.ai/) - AI Writing Assistant
+* [SENTENCIFY](https://www.sentencify.ai/en/) - AI Free Paraphrasing Tool
 
 ***
 
