@@ -254,7 +254,7 @@
 
 ## ▷ Battery Tools
 
-* ⭐ **[SaverTuner](https://codeberg.org/s1m/savertuner)** - Battery Monitor / Manager / Root / Enable w/ Root or Shizuku + ADB Command
+* ⭐ **[SaverTuner](https://codeberg.org/s1m/savertuner)** - Battery Monitor / Manager / Root / Enable w/ Root or Shizuku
 * [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter) - Battery Monitor / Manager
 * [BatteryGuru](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Battery Monitor / Manager
 * [Batt](https://gitlab.com/narektor/batt) - Battery Monitor / Manager

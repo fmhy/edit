@@ -89,7 +89,7 @@
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [QuickWatch](https://www.quickwatch.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PHDRg4K7hD)
-* [ZXCSTREAM](https://zxcprime.icu/)  / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd) or [Clover](https://clover.seron.dev/) - Movies / TV
+* [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
 * [PlayTorrio](https://playtorrio.xyz/) - Desktop App / Use Streaming Mode / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
