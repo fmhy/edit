@@ -3,43 +3,46 @@ import { onBeforeUnmount, onMounted, ref } from 'vue'
 import Switch from './Switch.vue'
 
 const isDisabled = ref(false)
-const switchKey = ref(0)
+const isOn = ref(false)
 
-const syncDisabled = () => {
+const syncState = () => {
   const root = document.documentElement
-  const disabled = root.classList.contains('indexes-only')
-  isDisabled.value = disabled
-
-  if (disabled && root.classList.contains('starred-only')) {
-    root.classList.remove('starred-only')
-    switchKey.value += 1
-  }
+  isDisabled.value = root.classList.contains('indexes-only')
+  isOn.value = root.classList.contains('starred-only')
 }
 
 let observer: MutationObserver | undefined
 
 onMounted(() =>
-  (observer = new MutationObserver(syncDisabled)).observe(document.documentElement, {
+  (observer = new MutationObserver(syncState)).observe(document.documentElement, {
     attributes: true,
     attributeFilter: ['class']
   })
 )
 
-onMounted(syncDisabled)
+onMounted(syncState)
 
 onBeforeUnmount(() => observer?.disconnect())
 
-const toggleStarred = () => {
-  if (isDisabled.value) return
-  document.documentElement.classList.toggle('starred-only')
+const toggleStarred = (value: boolean) => {
+  if (isDisabled.value) {
+    isOn.value = document.documentElement.classList.contains('starred-only')
+    return
+  }
+
+  const root = document.documentElement
+  root.classList.toggle('starred-only', value)
+  root.dataset.starredWasOn = value ? 'true' : 'false'
+  isOn.value = value
 }
 </script>
 
 <template>
   <Switch
-    :key="switchKey"
+    v-model="isOn"
+    :disabled="isDisabled"
     :class="{ disabled: isDisabled }"
-    @click="toggleStarred()"
+    @update:modelValue="toggleStarred"
   />
 </template>
 

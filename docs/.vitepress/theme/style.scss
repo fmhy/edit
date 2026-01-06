@@ -88,6 +88,31 @@
   img:not(.VPImage) {
     filter: grayscale(100%);
   }
+
+  .switch,
+  .switch * {
+    filter: none;
+  }
+
+  .switch {
+    background-color: #000;
+    border-color: #5a5a5a;
+  }
+
+  .switch .thumb {
+    background-color: #fff !important;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+  }
+
+  .switch.enabled {
+    background-color: #fff;
+    border-color: #5a5a5a;
+  }
+
+  .switch.enabled .thumb {
+    background-color: #000 !important;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+  }
 }
 
 .vp-doc a {
