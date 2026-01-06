@@ -453,7 +453,7 @@
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Toontown Rewritten](https://www.toontownrewritten.com/) or [Corporate Clash](https://corporateclash.net/) - Toontown Multiplayer Revivals
 * [⁠Moshi Monsters Online](https://moshionline.net/) - Moshi Monsters Revival / [Codes](https://moshionline.net/codes/) / [Discord](https://discord.com/invite/5Nwz9Xmjkc)
-* [⁠Echo VR Installer](https://github.com/marshmallow-mia/Echo-VR-Installer) - Echo VR Revival / [Guide](https://quest.echovr.de/) / [Discord](https://discord.gg/pMBGKb4r)
+* [⁠Echo VR Installer](https://github.com/marshmallow-mia/Echo-VR-Installer) - Echo VR Revival / [Guide](https://quest.echovr.de/) / [Discord](https://discord.gg/pMBGKb4r) / [GitHub](https://github.com/moshionlineteam)
 
 ***
 

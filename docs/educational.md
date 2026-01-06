@@ -6,7 +6,7 @@
 
 # ► Documentaries
 
-* 🌐 **[YT Documentary Channels](https://rentry.co/Free-Official-Youtube-Content#documentaries)** - YouTube Documentary Channels / [GitHub](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)
+* 🌐 **[Official YT Documentary Channels](https://rentry.co/Free-Official-Youtube-Content#documentaries)** - YouTube Documentary Channels / [GitHub](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
