@@ -88,6 +88,26 @@
   img:not(.VPImage) {
     filter: grayscale(100%);
   }
+
+  .switch,
+  .switch * {
+    filter: none;
+  }
+
+  .switch .thumb {
+    background-color: #000 !important;
+  }
+
+  /* Keep sidebar toggles legible in monochrome mode */
+  .switch,
+  .switch * {
+    filter: none;
+  }
+
+  /* Ensure toggle thumb stays black in grayscale */
+  .switch .thumb {
+    background-color: #000 !important;
+  }
 }
 
 .vp-doc a {
