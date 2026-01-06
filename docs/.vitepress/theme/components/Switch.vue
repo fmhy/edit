@@ -43,10 +43,10 @@ const emit = defineEmits<{
 }
 
 .switch.disabled {
-  opacity: 1;
+  opacity: 0.5;
   pointer-events: none;
-  background-color: #2f2f2f;
-  border-color: #666;
+  background-color: var(--vp-c-bg-soft, #2f2f2f);
+  border-color: var(--vp-c-divider, #666);
 }
 
 .switch.disabled .thumb {
