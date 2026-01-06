@@ -50,8 +50,8 @@ const emit = defineEmits<{
 }
 
 .switch.disabled .thumb {
-  background-color: #000;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), var(--vp-shadow-1);
+  background-color: #fff;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2), var(--vp-shadow-1);
 }
 
 .dark .switch.disabled {
@@ -67,12 +67,12 @@ const emit = defineEmits<{
 
 .thumb {
   display: inline-block;
-  background-color: #000;
+  background-color: #fff;
   transition: transform 0.25s;
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.08), var(--vp-shadow-1);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.08), var(--vp-shadow-1);
 }
 
 .switch.enabled .thumb {

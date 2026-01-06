@@ -94,19 +94,24 @@
     filter: none;
   }
 
-  .switch .thumb {
-    background-color: #000 !important;
+  .switch {
+    background-color: #000;
+    border-color: #5a5a5a;
   }
 
-  /* Keep sidebar toggles legible in monochrome mode */
-  .switch,
-  .switch * {
-    filter: none;
+  .switch .thumb {
+    background-color: #fff !important;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
   }
 
-  /* Ensure toggle thumb stays black in grayscale */
-  .switch .thumb {
+  .switch.enabled {
+    background-color: #fff;
+    border-color: #5a5a5a;
+  }
+
+  .switch.enabled .thumb {
     background-color: #000 !important;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
   }
 }
 
