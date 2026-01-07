@@ -21,7 +21,7 @@ In many ways, we're still learning. Humanity is still growing. A lot of people a
 
 ***None of the violence, none of the hate, none of the inequality is mandatory.***
 
-We are allowed to go against the grain of things we know are wrong. **We are allowed to improve our world.** Never be scared to do what you know is right, even when its hard, even when it might benefit someone else more than yourself. Match relentless selfishness with your own relentless generosity. Resist chaos and confusion with serenity and understanding. Engulf violence with endless harmony. 
+We are allowed to go against the grain of things we know are wrong. *We are allowed to improve our world.* Never be scared to do what you know is right, even when its hard, even when it might benefit someone else more than yourself. Match relentless selfishness with your own relentless generosity. Resist chaos and confusion with serenity and understanding. Engulf violence with endless harmony. 
 
 Remember that truth doesn't rely on anyone. Truth doesn't ask for our opinions. Truth is eternal, unwavering, and it will always be there, waiting for us to realize what we're capable of together. 
 
