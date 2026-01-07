@@ -543,7 +543,7 @@
 
 * [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
 * [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest), [⁠twmd](https://github.com/mmpx12/twitter-media-downloader) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloaders
-* [GetVideoBot](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
+* [Twitsave](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [Pikaso](https://x.com/pikaso_me) - Twitter Screenshot Bot
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Twitter Archive Services

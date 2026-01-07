@@ -811,6 +811,7 @@
 
 ## ▷ Simulation
 
+* [⁠IsoCity](https://iso-city.com/) - City Building Game / [GitHub](https://github.com/amilich/isometric-city)
 * [HatTrick](https://www.hattrick.org/) - Multiplayer Football League Manager
 * [⁠MatchSimulator](https://matchsimulator.com/) - Football League Simulator
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator
