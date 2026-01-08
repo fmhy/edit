@@ -324,7 +324,6 @@
 * [Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
-* [KBD](https://kbd.news/) - Keyboard vendors and News.
 
 ***
 

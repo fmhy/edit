@@ -155,7 +155,7 @@
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * 🌐 **[RecTG](https://github.com/jackhawks/rectg)** - Chinese Telegram Groups / Bots
 * [ixigua.com](https://www.ixigua.com/) - Chinese Alternative to YouTube and TikTok
-* [Linux Do](https://linux.do/) - Linux Forum
+* [Linux Do](https://linux.do/) - AI, Tech and Linux Forum
 * [⁠Arch Linux Concise Guide](https://arch.icekylin.online/) or [⁠ArchlinuxCN](https://archlinuxcn.org/) - Arch Linux Guides
 * [GitHub Speed Guide](https://forum.blackfox.qzz.io/posts/speed-up-github-in-china-70e2a7/) - Guide to Speed Up GitHub
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum

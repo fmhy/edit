@@ -164,6 +164,7 @@
 * [Unicode Table](https://symbl.cc/)
 * [Unicode Explorer](https://unicode-explorer.com/)
 * [Symbol.so](https://symbol.so/)
+* [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP)
 * [Unifoundry](https://unifoundry.com/)
