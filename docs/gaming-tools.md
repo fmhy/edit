@@ -44,7 +44,7 @@
 * [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
-* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)
+* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
 
 ***
 
