@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: What We're Capable Of 🤍
-    link: /posts/WWCO
+    title: Jan 2026 Updates 🎇
+    link: /posts/jan-2026
   image:
     src: test.png
     alt: FMHY Icon

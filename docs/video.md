@@ -538,7 +538,7 @@
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 * [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
 * [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
-* [PlayTorrio IPTV](https://playtorrio.xyz/) - IPTV Player / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
+* [PlayTorrio IPTV](https://iptv.playtorrio.xyz) - IPTV Player / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [IPTVPlayer](https://iptvplayer.stream/) - IPTV Web Player
 * [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
 * [IPTV Player](https://iptv-player.me/) - IPTV Web Player
