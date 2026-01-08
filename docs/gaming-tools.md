@@ -564,10 +564,10 @@
 
 ## ▷ Xbox Homebrew
 
+* ⭐ **[Team Resurgent](https://rentry.co/FMHYB64#team-resurgent)** - Xbox Homebrew Tools
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [Team Resurgent](https://rentry.co/FMHYB64#team-resurgent) - Xbox Homebrew Tools
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Decompiler Required
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 
