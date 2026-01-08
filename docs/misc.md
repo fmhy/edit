@@ -832,7 +832,7 @@
 ## ▷ Tech Jobs
 
 * 🌐 **[30-sec](https://30secondsofinterviews.org/)** - Tech Interview Questions Indexes
-* 🌐 **[Summer 2025 Internships](https://github.com/SimplifyJobs/Summer2025-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
+* 🌐 **[Summer 2026 Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
 * 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
