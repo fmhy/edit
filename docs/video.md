@@ -11,10 +11,10 @@
 ***
 
 * ⭐ **[Cineby](https://www.cineby.gd/)**, [2](https://www.bitcine.app/) or [Fmovies+](https://www.fmovies.gd/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
+* ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.net/), [3](https://www.rivestream.app/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org/), [3](https://corsflix.net) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[XPrime](https://xprime.today/)**, [2](https://xprime.stream/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/pDjg5ccSgg)
 * ⭐ **[Aether](https://aether.mom/)**, [2](https://legacy.aether.mom/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * ⭐ **[FlickyStream](https://flickystream.ru/)** or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/flickystream)
-* ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.net/), [3](https://www.rivestream.app/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org/), [3](https://corsflix.net) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[VeloraTV](https://veloratv.ru/)** or [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[Cinegram](https://cinegram.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
@@ -54,7 +54,7 @@
 * [Movies4F](https://movies4f.com/) - Movies / TV / Anime
 * [FshareTV](https://fsharetv.co/) - Movies
 * [YesMovie](https://yesmovies.ag/) - Movies / TV / 720p
-* [SFlix](https://sflix2.to/), [2](https://sflix.to/), [3](https://sflixto.tube/) or [FlixHQ](https://flixhq.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
+* [SFlix](https://sflix2.to/), [2](https://sflix.ps/), [3](https://sflixto.tube/) or [FlixHQ](https://flixhq.to/) - Movies / TV / [Clones](https://rentry.co/sflix)
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/), [4](https://nmovies.cc/) - Movies / TV / Anime
 * [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/) - Movies / TV / Auto-Next / 480p
 * [PlayIMDb](https://www.playimdb.com/) - Search VidSrc via IMDb URLs / Official Frontend
