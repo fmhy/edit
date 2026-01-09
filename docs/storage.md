@@ -303,6 +303,17 @@
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
+### MC Launchers (Account Req)
+
+* **Note** - The following options require a official Minecraft account to use.
+
+***
+
+* [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
+* [ATLauncher](https://atlauncher.com/) - Modpack Launcher / [Discord](https://discord.com/invite/B7TrrzH)
+* [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Edition Launcher / [Version Warning](https://ibb.co/7NXBJXX5) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
+
+***
 
 ## Multireddits
 

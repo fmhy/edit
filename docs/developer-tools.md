@@ -669,6 +669,8 @@
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
+* ⭐ **[PlayWright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
+* [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
@@ -707,8 +709,6 @@
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
 * [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery 
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
-* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
-* [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
@@ -1089,7 +1089,6 @@
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources / [Public Servers](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
-* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
 * [MXToolBox](https://mxtoolbox.com/) - MX Record Lookup Tool
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security

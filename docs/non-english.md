@@ -1709,7 +1709,7 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[Caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/)** or [Temiz Arama Motorum](https://gitlab.com/fr0stb1rd/temizaramamotorum) - Get rid of low-quality Turkish results
+* ⭐ **[Universal Blocklist](https://github.com/berkaygediz/universal-blocklist)** - Get rid of low-quality Turkish results
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 

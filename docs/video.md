@@ -36,7 +36,7 @@
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 3rd Party Hosts
 
-***d
+***
 
 ## ▷ Single Server
 
@@ -382,8 +382,8 @@
 
 ## ▷ Live TV
 
+* ⭐ **[PlayTorrio IPTV](https://iptv.playtorrio.xyz/)** / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio) or [Darkness TV](https://tv-channels.pages.dev/) / [GitHub](https://github.com/DarknessShade/TV) - TV / Sports
 * ⭐ **[Famelack](https://famelack.com/)** - TV / Sports
-* ⭐ **[PlayTorrio IPTV](https://playtorrioiptv.pages.dev/)** / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio) or [Darkness TV](https://tv-channels.pages.dev/) / [GitHub](https://github.com/DarknessShade/TV) - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)**, [2](http://ntv.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** - TV / Sports
@@ -535,10 +535,10 @@
 * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
 * ⭐ **[IPTVNator](https://github.com/4gray/iptvnator)** - IPTV Player / [Web App](https://iptvnator.vercel.app) / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player
+* [PlayTorrio IPTV](https://iptv.playtorrio.xyz) - IPTV Player / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 * [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
 * [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
-* [PlayTorrio IPTV](https://iptv.playtorrio.xyz) - IPTV Player / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [IPTVPlayer](https://iptvplayer.stream/) - IPTV Web Player
 * [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
 * [IPTV Player](https://iptv-player.me/) - IPTV Web Player
