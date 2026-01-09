@@ -627,7 +627,7 @@
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
-* [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
+* [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man5
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader) , [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
@@ -636,7 +636,7 @@
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
 * [The Circle](https://the-circle.app/) - Dodge Circles
-* [PARISUCAT](https://parisucat.netlify.app/) - Reflex-Based Grid Browser Game
+* [PARISUCAT](https://parisucat.netlify.app/) - Reflex-Based Grid Browser Game / [Discord](https://discord.gg/q5mSx7uFuC)
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
