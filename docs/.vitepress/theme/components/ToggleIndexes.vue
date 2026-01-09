@@ -2,10 +2,13 @@
 import { onBeforeUnmount, onMounted, ref } from 'vue'
 import Switch from './Switch.vue'
 
+const isDisabled = ref(false)
 const isOn = ref(false)
 
 const syncState = () => {
-  isOn.value = document.documentElement.classList.contains('indexes-only')
+  const root = document.documentElement
+  isDisabled.value = root.classList.contains('starred-only')
+  isOn.value = root.classList.contains('indexes-only')
 }
 
 let observer: MutationObserver | undefined
@@ -22,6 +25,11 @@ onMounted(syncState)
 onBeforeUnmount(() => observer?.disconnect())
 
 const toggleIndexes = (value: boolean) => {
+  if (isDisabled.value) {
+    isOn.value = document.documentElement.classList.contains('indexes-only')
+    return
+  }
+
   const root = document.documentElement
   const enabling = value
   const wasStarred = root.classList.contains('starred-only')
@@ -47,11 +55,13 @@ const toggleIndexes = (value: boolean) => {
 </script>
 
 <template>
-  <Switch v-model="isOn" @update:modelValue="toggleIndexes" />
+  <Switch v-model="isOn" 
+    :disabled="isDisabled"
+    :class="{ disabled: isDisabled }"@update:modelValue="toggleIndexes" />
 </template>
 
 <style>
-.indexes-only li:not(.index) {
+.indexes-only .vp-doc li:not(.index) {
   display: none;
 }
 </style>

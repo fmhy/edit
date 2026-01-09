@@ -47,7 +47,7 @@ const toggleStarred = (value: boolean) => {
 </template>
 
 <style>
-.starred-only li:not(.starred) {
+.starred-only .vp-doc li:not(.starred) {
   display: none;
 }
 </style>
