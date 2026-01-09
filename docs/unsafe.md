@@ -10,6 +10,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * 🌐 **[Untrusted Sites](https://rentry.org/pgames#untrusted-sites)** / **[Uploaders](https://rentry.org/pgames#untrusted-uploaders)** - More Complete Lists
 * 🌐 **[Fake FitGirl Sites](https://claraiscute.neocities.org/Guides/FakeFitgirlwebsites/)**, [2](https://claraiscute.pages.dev/Guides/FakeFitgirlwebsites/)
+* 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware

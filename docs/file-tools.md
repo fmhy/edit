@@ -409,7 +409,6 @@
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
-* [SeaFile](https://www.seafile.com/en/home/) - Self-Hosted Cloud Storage
 
 ***
 
