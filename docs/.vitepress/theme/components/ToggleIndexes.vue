@@ -61,7 +61,7 @@ const toggleIndexes = (value: boolean) => {
 </template>
 
 <style>
-.indexes-only li:not(.index) {
+.indexes-only .vp-doc li:not(.index) {
   display: none;
 }
 </style>
