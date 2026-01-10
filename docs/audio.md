@@ -750,7 +750,7 @@
 * [XMPlay](https://www.un4seen.com/) - Module-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
-* [NCurses++](https://github.com/ncmpcpp/ncmpcpp)
+* [ncmpc++](https://github.com/ncmpcpp/ncmpcpp)
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi)
 * [Museeks](https://museeks.io/)
 * [Audacious](https://audacious-media-player.org/)
