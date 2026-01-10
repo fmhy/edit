@@ -331,6 +331,7 @@
 
 ## ▷ Playlist Tools
 
+* ⭐ **[TuneMyMusic](https://www.tunemymusic.com/)** - Transfer Playlists Between Services
 * ⭐ **[Exportify](https://exportify.app/)** / [GitHub](https://github.com/watsonbox/exportify) or [spotify-backup](https://github.com/caseychu/spotify-backup) - Export Playlists
 * ⭐ **[spotgen](https://epsil.github.io/spotgen)**, [Unheard.FM](https://unheard.fm/) or [Chosic](https://www.chosic.com/) - Playlist Generators
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
@@ -637,7 +638,6 @@
 * [SoundtrackTracklist](https://soundtracktracklist.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
 * [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
-* [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists Between Services
 * [TheIndieRockPlaylist](https://www.theindierockplaylist.com/) - Indie Rock Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
