@@ -694,6 +694,7 @@
 * ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
+* ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 1080p / 4K
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
@@ -705,7 +706,6 @@
 * [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
-* [⁠XDMovies](https://xdmovies.site/) - Movies / TV / 1080p
 * [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://mkvmad.com/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
@@ -724,6 +724,7 @@
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 * [KatDrama](https://katdrama.com/) - Korean Drama
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
+* [AnimeSalt](https://animesalt.top/) - Anime / Sub / Dub / 1080p
 * [Anime Dub Hindi](https://www.animedubhindi.me/) - Anime / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
@@ -742,7 +743,7 @@
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[ToonStream](https://toonstream.world/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[⁠Animelok](https://animelok.to/)** - Anime
-* ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.cc/) - Anime
+* ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
@@ -1478,7 +1479,7 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
-* [MojeVideo](https://www.mojevideo.sk/) - User Videos
+* [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/ ) - User Videos
 
 ## ▷ Torrenting
 

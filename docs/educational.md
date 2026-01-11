@@ -480,7 +480,7 @@
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Engineering Software
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [VisRo Robotics](https://vis-ro.web.app) - Robotics Learning / [Discord](https://discord.com/invite/TfwZ3hH2D2)
+* [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning 
 * [Humanoid Robots Wiki](https://humanoids.wiki/w/Main_Page) - Robotics Courses Index
 * [Diode](https://www.withdiode.com/) - 3D Hardware Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
@@ -543,6 +543,7 @@
 * [periodic-table.io](https://periodic-table.io/) - Interactive Table
 * [Periodic Table App](https://periodictableapp.com/) - Interactive Table
 * [WebElements](https://www.webelements.com) - Interactive Table
+* [⁠Photographic Periodic Table](https://periodictable.com/) - Image-Based Periodic Table w/ Physical Examples
 
 ***
 
@@ -1004,7 +1005,7 @@
 
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
-* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)** - Python Learning Resources
 * 🌐 **[Roadmap](https://roadmap.sh/)** - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
@@ -1021,7 +1022,7 @@
 * [Git Time](https://git.bradwoods.io/) - Git Learning Game
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Checki0](https://checkio.org/) - Code Learning Games
-* [Scrimba](https://scrimba.com/) - Interactive Programming Courses
+* [Scrimba](https://scrimba.com/) or [⁠VittaScience](https://en.vittascience.com/code) - Interactive Programming Learning
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
 * [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses 
 * [EggHead](https://egghead.io/) - Programming Courses

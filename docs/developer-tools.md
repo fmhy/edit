@@ -38,6 +38,7 @@
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
 * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
+* 🌐 **[⁠Awesome Minimalist](https://github.com/neiesc/awesome-minimalist)** - Curated Minimal Dev Frameworks
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
@@ -135,6 +136,7 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
+* 🌐 **[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)** - MySQL Resources
 * ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [SQLook](https://sqlook.com/) or [SQL Lite Studio](https://sqlitestudio.pl/) - SQLite Browsers
 * [DuckDB](https://duckdb.org/) - Database Manager
 * [Qdrant](https://qdrant.tech/) -Database Manager
@@ -1139,6 +1141,7 @@
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework
 * [Frida](https://frida.re/) - Dynamic Instrumentation Toolkit / [GitHub](https://github.com/frida/frida)
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
+* [REMnux](https://remnux.org/) - Reverse Engineering / Malware Analysis
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engeineering
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering

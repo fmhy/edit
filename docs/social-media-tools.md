@@ -32,10 +32,10 @@
 
 ***
 
+* ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
 * ⭐ **[embeddr.top](https://embeddr.top/)**, **[x266.mov](https://x266.mov/discord-embed/)**, [npf.is](https://discord.nfp.is/), [stolen.shoes](https://stolen.shoes/) or  [embeds.video](https://embeds.video/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
-* ⭐ **[Stoat](https://stoat.chat/)** - Discord Alternative / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) 
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openasar) / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
@@ -594,7 +594,7 @@
 
 # ► Instagram Tools
 
-* [Proxigram](https://codeberg.org/proxigram/proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
+* [KittyGram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Codeberg](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test

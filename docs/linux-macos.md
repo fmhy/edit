@@ -274,7 +274,7 @@
 ## ▷ Linux Gaming
 
 * 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility
-* ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
+* ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV)
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager / [Discord](https://discord.com/invite/Pnt5CuY)
@@ -389,6 +389,7 @@
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
+* 🌐 **[⁠RackRat](https://rackrat.net/)** - Ebay Rackmount Server Prices / Comparisons
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages
 * [Glance](https://github.com/glanceapp/glance) - Feed Dashboard 
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)

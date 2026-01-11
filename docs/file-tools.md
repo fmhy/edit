@@ -73,6 +73,7 @@
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
 * [⁠OfflineConvert](https://www.offlineconvert.com/) - File Converter
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
+* [FeeConvert](https://www.freeconvert.com/) - Unlimited / Clear Cookies
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB

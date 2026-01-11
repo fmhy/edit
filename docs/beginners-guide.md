@@ -70,7 +70,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome-back.pages.dev/), [3](https://monochrome.tf/)
 * **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [ReVanced Manager](https://revanced.app/) (Android) / [SpotC++](https://spotc.yodaluca.dev/) (iOS)**
+* **Mobile: [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [ReVanced Manager](https://revanced.app/) (Android) / [Morphe](https://morphe.software/) (Android) / [SpotC++](https://spotc.yodaluca.dev/) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***

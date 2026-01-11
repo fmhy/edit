@@ -365,7 +365,6 @@
 * [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A
-* [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)

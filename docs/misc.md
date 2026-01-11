@@ -562,7 +562,9 @@
 
 * 🌐 **[Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)** - HN Apps & Resources Index
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
-* [Modern for Hacker News](https://www.modernhn.com/) - Modern UI Extension
+* ⭐ **[Modern HN](https://www.modernhn.com/)** - Modern UI Extension
+* [Hacki](https://github.com/Livinglist/Hacki), [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) or [Glider](https://github.com/Mosc/Glider) - Android Hacker News Apps
+* [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
 * [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
@@ -865,7 +867,7 @@
 
 ## ▷ Startup
 
-* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
+* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launching Platforms](https://github.com/DirectorySurf/awesome-launch-platforms), [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [NewIdeas](https://indieideas.io/) - Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
@@ -1005,6 +1007,7 @@
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [⁠MoboMaps](https://mobomaps.com/) - Motherboard Visualizations / Info
+* [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) (discord) - Laptop Suggestions
@@ -1035,7 +1038,8 @@
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
-* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices 
+* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices
+* [⁠RackRat](https://rackrat.net/) - Ebay Rackmount Server Prices / Comparisons
 
 ***
 
@@ -1065,7 +1069,6 @@
 * [App Sales](https://www.app-sales.net/nowfree/) - Android Apps
 * [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Android Apps
-* [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) - Android Deal App
 * [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Multi-Store / Multi Platform
 * [⁠r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Apple Apps
 

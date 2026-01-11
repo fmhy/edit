@@ -95,12 +95,13 @@
 * ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
 * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt)
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Sign-Up Required Chats
 * ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
-* [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
+* [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - General Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Root Required
@@ -268,7 +269,7 @@
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Search Audiobook Sites
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - Search Comic Sites
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
-* [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
+* [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8), [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [Apps & Games Search](https://cse.google.com/cse?cx=066a762d5699f4d91) - Search Android APK Sites
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Search Extension Sites
 * [Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d) - Search Font Sites
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q) - Search YouTube-Like Video Sites
