@@ -228,32 +228,28 @@
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
-* [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
-* [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
-* [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
-* [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
-* [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
-* [Marginalia Search](https://marginalia-search.com/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
-* [TheOldNet](https://theoldnet.com/) or [OldVista](https://www.oldavista.com/) - Oldschool / Retro Site Search Engines
-* [OceanHero](https://oceanhero.today/) or [ekoru](https://ekoru.org/) - Ocean Protection Search Engines
-* [Ecosia](https://www.ecosia.org/) - Plant Trees via Search / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
-* [Bing](https://www.bing.com/)
 * [Google](https://google.com/) / [AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50)
-* [Lycos](https://www.lycos.com/)
-* [WebCrawler](https://www.webcrawler.com/)
-* [Million Short](https://millionshort.com/)
-* [Andi](https://andisearch.com/)
-* [Vuhuv](https://vuhuv.com/)
-* [Carrot2](https://search.carrot2.org/#/web)
-* [Yahoo](https://www.yahoo.com/)
-* [Stract](https://stract.com/) / [GitHub](https://github.com/StractOrg/stract)
-* [AOL](https://search.aol.com/)
-* [All the Internet](https://www.alltheinternet.com/)
-* [eTools.ch](https://www.etools.ch/)
-* [BizNar](https://biznar.com/biznar/desktop/en/search.html)
-* [WorldWideScience](https://worldwidescience.org/)
-* [Whoogle Search](https://github.com/benbusby/whoogle-search) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [Bing](https://www.bing.com/), [Yahoo](https://www.yahoo.com/) or [AOL](https://search.aol.com/) - Bing results
+* [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* [100 Search Engines](https://www.100searchengines.com/), [All the Internet](https://www.alltheinternet.com/) or [eTools.ch](https://www.etools.ch/) - Combined Results
+* [Lycos](https://www.lycos.com/) # Not working
+* [WebCrawler](https://www.webcrawler.com/) - Google results
+* [Marginalia Search](https://marginalia-search.com/) / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+* [Million Short](https://millionshort.com/) - # This is paid please remove
+* [Andi](https://andisearch.com/) - # This is AI search engine please move
+* [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial) - Open Source Decentralized Search Engine
+* [TheOldNet](https://theoldnet.com/) or [OldVista](https://www.oldavista.com/) - Search and browse archived pages from the historical 1990s web.
+* [Carrot2](https://search.carrot2.org/#/web) - Organizes search results into thematic clusters and visual topics.
+* [Stract](https://stract.com/) / [GitHub](https://github.com/StractOrg/stract) - # Not working 
+* [Vuhuv](https://vuhuv.com/) - Bing results
+* [The Search Engine Map](https://www.searchenginemap.com/) - # Depreciated please remove
+* [Ecosia](https://www.ecosia.org/) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)) - Environmental engine that plants trees with its ad revenue.
+* [OceanHero](https://oceanhero.today/) or [ekoru](https://ekoru.org/) - Search engines that fund ocean plastic cleanup and conservation.
+* [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Command-line style tools for fast navigation to specific site searches.
+* [Trovu.net](https://trovu.net/) / [GitHub](https://github.com/trovu/trovu) - Open-source, shortcut-based command search for power users.
+* [BizNar](https://biznar.com/biznar/desktop/en/search.html) - # This is just for Business search please move
+* [WorldWideScience](https://worldwidescience.org/) - # No longer active please remove
+* [Whoogle Search](https://github.com/benbusby/whoogle-search) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Privacy-first Google results / Self-Hosted
 
 ***
 
