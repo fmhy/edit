@@ -303,7 +303,7 @@
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
-### MC Launchers (Account Req)
+### MC Launchers Account Req
 
 * **Note** - The following options require a official Minecraft account to use.
 

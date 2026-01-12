@@ -1384,6 +1384,7 @@
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [OpenGeofiction](https://opengeofiction.net/) - User-Made Fictional Map
 * [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
+* [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
 * [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
