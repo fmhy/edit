@@ -202,7 +202,6 @@
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
-* - Home Assistant Integration for Appliances
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
