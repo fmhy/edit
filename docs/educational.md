@@ -506,7 +506,7 @@
 * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Project Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [⁠NAR](https://www.nar.org/) - Project Rocketry Safety / Learning / [Facebook](https://www.facebook.com/groups/2255560886/)
-* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator
+* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [GitHub](https://github.com/openrocket/openrocket)
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
