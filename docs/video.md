@@ -77,7 +77,6 @@
 * ⭐ **[Willow](https://willow.arlen.icu/)**, [2](https://salix.pages.dev/) - Movies / TV / Anime / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
 * ⭐ **[FlyX](https://tv.vynx.cc/)** - Movies / TV / Anime / [Discord](https://discord.vynx.cc/) / [GitHub](https://github.com/Vynx-Velvet/Flyx-main)
-* ⭐ **[Poprink](https://popr.ink/)** - Movies / TV / Anime / [Telegram](https://t.me/vlopstreaming) / [Discord](https://discord.gg/GzXQWKUbjh)
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 * [Primeshows](https://www.primeshows.uk/) or [Netflex](https://netflex.uk/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JeMDzxSbhH)
