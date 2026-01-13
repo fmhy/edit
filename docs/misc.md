@@ -918,6 +918,7 @@
 * [Simul8or](https://simul8or.com/) - 100K Trading Simulator
 * [r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community / [Wiki](https://www.rxddit.com/r/beermoney/wiki/index)
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
+* [⁠Bogleheads](https://www.bogleheads.org/wiki/Main_Page) - Investing Advice Inspired by John Bogle 
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
 * [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Investment Tracker / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc

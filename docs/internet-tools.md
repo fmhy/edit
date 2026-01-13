@@ -580,6 +580,7 @@
 * [mtab](https://github.com/maxhu08/mtab)
 * [nightTab](https://github.com/zombieFox/nightTab)
 * [⁠TablissNG](https://github.com/BookCatKid/TablissNG/)
+* [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab)
 * [hexagonTab](https://github.com/zombieFox/hexagonTab)
 * [Perfect Home](https://github.com/perfect-things/perfect-home)
 * [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)

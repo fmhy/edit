@@ -491,9 +491,26 @@
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/) or [Instrumentacion](http://instrumentacion.qi.fcen.uba.ar/libro.html) - Electronic Guides
+* [⁠Hacker Fab](https://docs.hackerfab.org/) - Semiconductor Documentation / Research
 * [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
 * [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
 * [Build List](https://buildlist.org/) - On-Demand Online Manufacturers
+
+***
+
+## ▷ Aerospace Engineering
+
+* 🌐 **[Awesome Aerospace Engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering/)** - Aerospace Engineering Learning Resources
+* 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
+* ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
+* ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+* [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Project Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
+* [⁠NAR](https://www.nar.org/) - Project Rocketry Safety / Learning / [Facebook](https://www.facebook.com/groups/2255560886/)
+* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator
+* [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
+* [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
+* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
 ***
 
@@ -695,6 +712,7 @@
 
 ## ▷ Spacecraft
 
+* ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_aerospace_engineering)**
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
 * ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [⁠NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://www.youtube.com/@NASASpaceflight)
@@ -974,6 +992,7 @@
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
 * [⁠Chess Analysis](https://chess-analysis.org/) - Chess Game / Move Analysis / [Discord](https://discord.gg/hvrEXhX8qA)
 * [Pawn Appétit](https://pawnappetit.com/) - Chess Game / Move Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
+* [Chesskit](https://chesskit.org/) - Chess Game / Move Analysis / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit)
 * [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
 * [⁠Chessigma](https://www.chessigma.com/) - Chess Game / Move Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
 * [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis
@@ -1021,6 +1040,7 @@
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
 * [Git Time](https://git.bradwoods.io/) - Git Learning Game
+* [Hack Club](https://hackclub.com/) - Non-Profit High School Coding Community / Resources / [GitHub](https://github.com/hackclub)
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) or [⁠VittaScience](https://en.vittascience.com/code) - Interactive Programming Learning

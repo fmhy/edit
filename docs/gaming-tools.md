@@ -76,7 +76,7 @@
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com) - Game Setting Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
-* [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
+* [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) - FPS / Latency Guides
 * [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/) - Game Optimization Community
@@ -160,7 +160,7 @@
 ## ▷ Game Saves
 
 * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
-* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)**, [SaveState](https://github.com/Matteo842/SaveState) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Backup Tools / Managers
+* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)**, [⁠Ambidex](https://github.com/chwair/ambidex), [SaveState](https://github.com/Matteo842/SaveState) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Backup Tools / Managers
 * [PCGamingWiki](https://www.pcgamingwiki.com/) - Save Locations Listed Under "Game Data"
 * [Save Game World](https://www.savegameworld.com/) - PC / PlayStation / Switch / Xbox / Wii
 * [SavegameDownload.com](https://www.savegamedownload.com/) - PC / Mobile / PlayStation / Switch / Xbox
