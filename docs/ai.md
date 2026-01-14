@@ -322,7 +322,7 @@
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Whisk](https://labs.google/fx/en/tools/whisk) - Imagen 4 + Ultra / Nano Banana / Sign-Up Required / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / MAI-Image-1 / Editing / Sign-Up Required
 * ⭐ **[PigenAI](https://pigenai.art/)** - 50 Daily / Multiple Generators / Editing (50 Credits)
-* ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5/ Nanobanana / Sign-Up Required
+* ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5/ Nano Banana / Sign-Up Required
 * [Yupp.ai](https://yupp.ai/) - Nano Banana Pro / GPT Image 1.5 / Seedream 4.5 Max / Qwen-Image / Google Login / [Discord](https://discord.com/invite/yuppai)
 * [Pollinations](https://chat.pollinations.ai/) - Nano Banana Pro / GPT Image 1.5 / Multiple Generators / No Sign-Up / [Limit Tips](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#pollinations-limits)
 * [⁠ISH](https://ish.chat/) - Unlimited / GPT Image 1 mini / Dall-E 3 / Flux Kontext (dev) / Editing / No Sign-Up / [Discord](https://discord.gg/cwDTVKyKJz)
