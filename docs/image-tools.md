@@ -252,7 +252,7 @@
 * 🌐 **[Evernote.Design](https://www.evernote.design/)** - Design Resources
 * 🌐 **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - Design Resources
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
-* ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
+* [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History Archive
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
 * [SMPoster](https://www.smposter.com/) - Poster Designs
 * [AnotherGraphic](https://anothergraphic.org/) - Typography Designs

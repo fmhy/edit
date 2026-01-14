@@ -800,6 +800,7 @@
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)** - Multi-Site Audio Downloader
+* ⭐ **[ytdlnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
 * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
@@ -814,7 +815,6 @@
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Live Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
 * [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
-* [ytdlnis](https://ytdlnis.org/) - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * [⁠QobuzDownloaderX-Mobile](https://github.com/JemPH/QobuzDownloaderX-Mobile) - Qobuz Audio Downloader
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
@@ -864,7 +864,7 @@
 
 ***
 
-* ⭐ **[Metrolist](https://github.com/mostafaalagamy/metrolist)** or [OuterTune](https://github.com/OuterTune/OuterTune) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://metrolistapp.netlify.app/)** / [GitHub](https://github.com/mostafaalagamy/metrolist) or [OuterTune](https://github.com/OuterTune/OuterTune) - YouTube Music Players / Innertune Forks / Audio Players
 * ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Guide](https://bigbudone.com/posts/youtube-revanced-manager-the-best-guide-for-dummies/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
@@ -954,10 +954,10 @@
 
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
+* ⭐ **[⁠mpvEx](https://mpvex.vercel.app/)** / [GitHub](https://github.com/marlboro-advance/mpvEx)
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [Just Player](https://github.com/moneytoo/Player)
-* [⁠mpvEx](https://mpvex.vercel.app/) / [GitHub](https://github.com/marlboro-advance/mpvEx)
 * [⁠Night Video Player](https://play.google.com/store/apps/details?id=com.rz.night.player)
 * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
@@ -1040,7 +1040,7 @@
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator / [Compatibility](https://appdb.touchhle.org/)
-* [MuffinStore](https://github.com/mineek/MuffinStore) or [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - iOS App Downgraders
+* [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore), [MuffinStore](https://github.com/mineek/MuffinStore) or [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - iOS App Downgraders
 * [Drafts](https://getdrafts.com/), [Strflow](https://strflow.app/), [FreeNotes](https://apps.apple.com/app/id6464237904) or [Bear](https://bear.app/) - Note-Taking / Text Editors
 * [Noteful](https://apps.apple.com/app/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
 * [iSH Shell](https://ish.app/) / [GitHub](https://github.com/ish-app/ish) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators

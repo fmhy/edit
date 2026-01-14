@@ -504,8 +504,13 @@
 * 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
 * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
 * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
+* [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
+* [⁠The Rocketry Forum](https://www.rocketryforum.com/) - Project Rocketry Forums / Community 
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Project Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [⁠NAR](https://www.nar.org/) - Project Rocketry Safety / Learning / [Facebook](https://www.facebook.com/groups/2255560886/)
+* [Nakka Rocketry](https://nakka-rocketry.net/) - Project Rocket Technical Archive
+* [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Project Rocketry Info / Manuals 
 * [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [GitHub](https://github.com/openrocket/openrocket)
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
@@ -725,6 +730,7 @@
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
 * [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
+* [Spacebook](https://www.spacebook.com/) - Evaluates / Tracks Satellite Collision Risks & Maneuvers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
@@ -1049,7 +1055,7 @@
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials 
-* [Scratch](https://scratch.mit.edu/) / [Extra Features](https://scratchaddons.com/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
+* [Scratch](https://scratch.mit.edu/) / [Extra Features](https://scratchaddons.com/) / [Package Projects](https://packager.turbowarp.org/) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming

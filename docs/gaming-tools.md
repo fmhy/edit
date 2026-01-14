@@ -277,6 +277,7 @@
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[SteamDB Ratings](https://steamdb.info/stats/gameratings/)** - Steam Ratings Chart
 * [TasteDive](https://tastedive.com/games) or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* [⁠/V/'s Recommended Games Wiki](https://vsrecommendedgames.miraheze.org/) - Game Recommendations
 * [⁠Emulation Collection](https://docs.google.com/spreadsheets/d/1bYIhExnaQXYyWLnna1WJPLMvXnmSlq2tvazDL3eQ3z0) - Game Recommendation Chart / 7+ Metacritic
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Game Recommendation Directory
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
@@ -297,6 +298,7 @@
 * [⁠Achievement Watcher](https://github.com/darktakayanagi/Achievement-Watcher) - Multi-Platform Achievement Parser / [Setup Guide](https://breadcloud.net/blog/achievements-guide/)
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) or [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Managers
 * [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
+* [⁠VSThemes Steam](https://vsthemes.org/en/steam/) - Custom Steam Profiles
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games

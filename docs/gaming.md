@@ -393,11 +393,12 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
-* [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / Avoid PC Games
+* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games** / [Discord](https://discord.gg/BVc63GqV7Y)
+* [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
-* [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / Avoid PC Games
+* [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 
 ***
@@ -520,7 +521,6 @@
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
-* [Word Golf](https://www.word.golf/) - Word Relation Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Squaredle](https://squaredle.app/) - Daily Word Puzzle

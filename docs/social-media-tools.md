@@ -39,6 +39,7 @@
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openasar) / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
+* [Discord Profile Viewer](https://addynr.nekoweb.org/) - View / Download Discord User's Avatar or Banner
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Wumpus Central](https://discord.gg/zZ6szdKQu6) - Discord Experimental Server Hub
@@ -493,7 +494,7 @@
 * ⭐ **[Chatterino](https://chatterino.com/)** / [2](https://github.com/SevenTV/chatterino7), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/linuxbombay/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
-* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
+* [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player

@@ -17,6 +17,7 @@
 * [Diffr](https://loilo.github.io/diffr/), [Diffchecker](https://www.diffchecker.com/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/), [OnlineTextCompare](https://onlinetextcompare.com/), [CompareText](https://www.comparetext.io/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text from Any Window
+* [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery 
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [BeefText](https://beeftext.org/) - Text Substitution Tool
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)

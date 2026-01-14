@@ -441,6 +441,7 @@
 * [Mused](https://mused.com/) - Text to 3D Historical Simulation Map
 * [NLS Maps](https://maps.nls.uk/) - Historical Maps of Scotland
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
+* [ORBIS](https://orbis.stanford.edu/) - Interactive Simulation of Roman Trade & Travel Logistics
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
 * [⁠Project ’44](https://www.project44.ca/) - World War II Historical Map / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
@@ -903,7 +904,7 @@
 ## ▷ Finance / Savings
 
 * 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
-* ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
+* ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker) or [finviz](https://finviz.com/) - Stock Market Trackers
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or [Candle](https://gitlab.com/cosmosapps/candle) - Mobile Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
 * [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps

@@ -694,6 +694,7 @@
 
 * ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
+* ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
 * ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 1080p / 4K
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -703,7 +704,6 @@
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* [⁠The One Piece](https://m.flixindia.xyz/) - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
