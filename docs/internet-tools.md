@@ -59,9 +59,10 @@
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
-* [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tools
-* [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tools
-* [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tools
+* [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tool
+* [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
+* [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
+* [smry.ai](https://smry.ai/) - Paywall Bypass Tool / [GitHub](https://github.com/mrmps/SMRY)
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 
@@ -502,7 +503,6 @@
 * [33mail](https://33mail.com/) - Email Aliasing
 * [TrashMail](https://trashmail.com/) - Email Aliasing
 * [AdGuard Mail](https://adguard-mail.com/) - Email Aliasing
-* [⁠yey.email](https://yey.email/) - Email Aliasing
 
 ***
 
