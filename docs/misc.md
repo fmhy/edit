@@ -1247,7 +1247,7 @@
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
-* [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gmaing Forums
+* [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gaming Forums
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Airsoft International](https://discord.gg/airsoft) - Airsoft Guides / Community ⁠
