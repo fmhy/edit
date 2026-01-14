@@ -213,6 +213,7 @@
 * [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Fangame / [GitHub](https://github.com/Card-Forge/forge)
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
+* [⁠Hyper Dragon Ball Z](https://discord.gg/W85hmYcJB9) - Fan-Made Dragon Ball Z Inspired Fighting Game 
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
 * [⁠YAVSRG (Interlude)](https://www.yavsrg.net/) - Rhythm Game Engine / [Discord](https://discord.com/invite/tA22tWR)
@@ -777,7 +778,7 @@
 ## ▷ Shooter
 
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
-* ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
+* ⭐ **[NZP](https://nzp.gay/)** - Browser Retro Zombies Recreation
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
 * [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Games
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
