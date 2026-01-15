@@ -245,7 +245,7 @@
 * [Muzei](https://muzei.co/), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Wallpapers
 * [r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
 * [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
-* [⁠WallWidgy](https://www.wallwidgy.me/) - Minimal Wallpapers / [GitHub](https://github.com/not-ayan/wallwidgy)
+* [⁠WallWidgy](https://www.wallwidgy.app/) - Minimal Wallpapers / [GitHub](https://github.com/not-ayan/wallwidgy)
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers

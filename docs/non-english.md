@@ -684,6 +684,7 @@
 
 # ► Indian Languages
 
+* [Ad-Link Bypass Bot](https://t.me/Nick_Bypass_Bot)
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
 * [PCPriceTracker](https://pcpricetracker.in/) - PC Component Price Tracking
