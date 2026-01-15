@@ -877,7 +877,6 @@
 
 ## ▷ Android Podcasts / Radio
 
-* ⭐ **[RadioDroid](https://github.com/segler-alex/RadioDroid)** - Radio App
 * ⭐ **[AntennaPod](https://antennapod.org/)** - Podcast Player / [GitHub](https://github.com/AntennaPod/AntennaPod)
 * ⭐ **[Pocket Casts](https://www.pocketcasts.com/)** - Podcast Player
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
