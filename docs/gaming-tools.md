@@ -1033,3 +1033,4 @@
 * [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
+* [The Spinner Wheel](https://thespinnerwheel.com/) The spinner wheel is a fun and simple tool that lets you spin a colourful wheel to get random results. It’s easy to use and fully customizabl
