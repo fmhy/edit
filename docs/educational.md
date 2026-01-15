@@ -514,8 +514,8 @@
 * [⁠NAR](https://www.nar.org/) - Project Rocketry Safety / Learning / [Facebook](https://www.facebook.com/groups/2255560886/)
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Project Rocket Technical Archive
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Project Rocketry Info / Manuals
-* [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator
-* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [GitHub](https://github.com/openrocket/openrocket)
+* [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
+* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [HalfCatRocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
