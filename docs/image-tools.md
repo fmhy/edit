@@ -396,7 +396,6 @@
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
 * [⁠Bing Visual Search](https://bing.com/camera) - Reverse Image Search
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
-* [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [CopySeeker](https://copyseeker.net/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
