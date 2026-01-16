@@ -455,7 +455,7 @@
 * [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [MainPortal66](https://mainportal66.com/)
 * [⁠GoalieTrend](https://www.goalietrend.com/daily-event) / [Discord](https://discord.gg/VKbvRcjDwa)
-* [StreamCorner](https://streamcorner.info/) / [Discord](https://discord.com/invite/taGZeHc3GA)
+* [StreamCorner](https://streamcorner.xyz/), [2](https://streamcorner.info/) / [Discord](https://discord.com/invite/taGZeHc3GA)
 * [Viprow](https://viprow.cv/) or [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
 * [⁠FCTV33](https://www.fctv33.lat/), [2](https://may01gu.risenow3mtjt0k.sbs/), [3](https://emmau680.driveraudiencej2zeu49.sbs/), [4](https://www.rbsports77.mom/) / [Telegram](https://t.me/madplay77_b)
 * [MrGamingStreams](http://mrgamingstreams.org/), [2](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
