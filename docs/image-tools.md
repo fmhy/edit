@@ -842,7 +842,7 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/) or [Coolors](https://coolors.co/) - Color Palette Generators
+* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
 * [Clariss](https://www.clariss.xyz/), [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes

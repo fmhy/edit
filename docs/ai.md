@@ -294,7 +294,7 @@
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - 30 Daily / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Sora 2 / Veo 3.1 / Grok / Google Login Required / [Discord](https://discord.gg/vJnYe86T8F)
+* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Sora 2 / Grok / Google Login Required / [Discord](https://discord.gg/vJnYe86T8F)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [Sora](https://openai.com/index/sora/) - 6 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora)
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
@@ -302,6 +302,7 @@
 * [⁠Vheer](https://vheer.com/) - Unlimited / No Sign-Up
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up Required
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up Required
+* [⁠Klipy](https://klipy.com/) - Klipy / Veo 3 / Unlimited / Sign-Up Required 
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 2 (10 Monthly) / Veo 3.1 (5 Monthly)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily

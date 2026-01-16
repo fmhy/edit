@@ -119,7 +119,7 @@
 * ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
 * ⭐ **[Lucky Patcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
-* ⭐ **[Obtainium](https://obtainium.imranr.dev/)** / [Configs](https://apps.obtainium.imranr.dev/) / [GitHub](https://github.com/ImranR98/Obtainium), [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
+* ⭐ **[Obtainium](https://obtainium.imranr.dev/)** / [Configs](https://apps.obtainium.imranr.dev/) / [GitHub](https://github.com/ImranR98/Obtainium), [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/) (root) or [APKUpdater](https://github.com/rumboalla/apkupdater) - APK Installers / Updaters
 * ⭐ **[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)** - Merge Split APKs
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box / [Telegram](https://t.me/+ZiW_7bvq8Sc5MzFl)
@@ -325,7 +325,7 @@
 * [TWRP Root](https://twrp.me/) - TWRP Root / [Telegram](https://t.me/samsung_twrp_root)
 * [Orangefox](https://orangefox.download/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework
+* [LSPosed](https://github.com/JingMatrix/LSPosed) - Module-Based Customization Framework
 * [PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel Phone Flashing GUI
 
 ***
@@ -455,6 +455,7 @@
 ## ▷ Android Privacy
 
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
+* ↪️ **[Privacy-Focused Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
@@ -877,6 +878,7 @@
 
 ## ▷ Android Podcasts / Radio
 
+* ⭐ **[RadioDroid](https://github.com/segler-alex/RadioDroid)** - Radio App
 * ⭐ **[AntennaPod](https://antennapod.org/)** - Podcast Player / [GitHub](https://github.com/AntennaPod/AntennaPod)
 * ⭐ **[Pocket Casts](https://www.pocketcasts.com/)** - Podcast Player
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
@@ -1309,6 +1311,7 @@
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV
 * [Mometu](https://apps.apple.com/us/app/mometu/id1609138069) - Movies / TV
+* [⁠NebuloIPTV](https://github.com/mongoosemonke504/NebuloIPTV) - Live Sports
 * [Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro"
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Sign-Up Required
 * [Viki](https://apps.apple.com/app/id445553058) - Asian Drama

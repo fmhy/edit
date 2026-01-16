@@ -453,6 +453,7 @@
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [Murdle](https://murdle.com/) - Daily Murder Mystery
+* [⁠enclose.horse](https://enclose.horse/) - Daily Horse Enclosure Puzzle / Community Levels
 * [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
 * [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
 * [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles

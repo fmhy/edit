@@ -571,6 +571,7 @@
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
 * [HNRankings](https://hnrankings.info/) or [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
+* [⁠Hacker Book](https://hackerbook.dosaygo.com/) - Hacker News Posts + Comment Archive
 * [Hacker News RSS](https://hnrss.github.io/) - HN RSS Feeds
 
 ***
@@ -768,7 +769,7 @@
 * [⁠Invoify](https://invoify.vercel.app/) / [GitHub](https://github.com/al1abb/invoify), [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
 * [Google Patents](https://patents.google.com/) - Searchable Patents Database
 * [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
-* [Layoffs.fyi](https://layoffs.fyi/) - Recent Layoffs Tracker
+* [Layoffs.fyi](https://layoffs.fyi/) or [⁠WarnTracker](https://www.warntracker.com/) - Live Layoffs Trackers
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring

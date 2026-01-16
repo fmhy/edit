@@ -611,7 +611,7 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Acer Movies](https://rentry.co/FMHYB64#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
 * ⭐ **[Scloud](https://rentry.co/FMHYB64#scloud)** - Movies / TV / 4K / [Telegram](https://t.me/scloudmediahub)
-* ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** or [CineAmore](https://rentry.co/FMHYB64#cineamore) - Movies / TV / Anime / Directory / [Discord](https://discord.gg/YjkP4pANpg)
+* ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** - Movies / TV / Anime / Directory / [Discord](https://discord.gg/YjkP4pANpg)
 * ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
@@ -630,6 +630,7 @@
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
 * [⁠Medeberiya](https://medeberiya.net/) - Movie / TV
 * [TFPDL](https://tfpdl.se/category/movies/), [2](https://tfpdl.to/category/movies/) - Movies / TV / Anime
+* [Ripper's Archive](https://rentry.co/FMHYB64#rippers-archive) - Movies / TV / Anime 
 * [P-Stream](https://pstream.mov/) - Movies / TV / Anime / [Discord](https://discord.gg/uHU4knYRPa)
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime

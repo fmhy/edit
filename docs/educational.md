@@ -337,7 +337,7 @@
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
-* [⁠Integrity Index](https://integrityindex.us/) - US Congress Voting / Accountability
+* [⁠Integrity Index](https://integrityindex.us/) - US Political Finance Integrity Database
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [PixelWealth](https://pixelwealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
@@ -507,7 +507,6 @@
 * 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
 * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
 * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
-* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
 * [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
 * [⁠The Rocketry Forum](https://www.rocketryforum.com/) - Project Rocketry Forums / Community 
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Project Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
@@ -515,9 +514,12 @@
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Project Rocket Technical Archive
 * [HalfCatRocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Project Rocketry Info / Manuals
+* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
 * [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
+* [Tripoli Rocketry](https://www.tripoli.org/) - High-Powered Rocket Resources / Info
 * [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
+* [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
@@ -706,7 +708,7 @@
 * [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image quar fViewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
-* [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
+* [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) / [GitHub](https://github.com/Stellarium/stellarium) - Virtual Stellariums
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data / [Home Page](https://worldwidetelescope.org/home/) / [GitHub](https://github.com/WorldWideTelescope)
 * [ESA Hubble](https://esahubble.org/), [SpaceTelescopeLive](https://spacetelescopelive.org/) or [HubbleSite](https://hubblesite.org/) - Hubble Telescope Images
 * [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Sites

@@ -309,10 +309,11 @@
 
 ***
 
-* [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
+* [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [ATLauncher](https://atlauncher.com/) - Modpack Launcher / [Discord](https://discord.com/invite/B7TrrzH)
 * [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / [Discord](https://discord.com/invite/technic)
 * [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Edition Launcher / [Version Warning](https://ibb.co/7NXBJXX5) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
+* [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Fork
 * [LabyMod](https://www.labymod.net/) - Launcher / [Discord](https://discord.com/invite/labymod)
 * [GDLauncher](https://gdlauncher.com/) - Launcher / [Discord](https://discord.com/invite/8n3NnERF22)
 * [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS / Linux
@@ -436,7 +437,7 @@
 * [r/Preppers](https://www.reddit.com/r/preppers/)
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
 
-[OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe)
+[OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe), [CD3WD Project](https://www.cd3wdproject.org/)
 
 ***
 

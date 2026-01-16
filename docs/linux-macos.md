@@ -388,6 +388,7 @@
 ## ▷ Server / Selfhosting
 
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 🌐 **[⁠Awesome Homelab](https://github.com/miantiao-me/awesome-homelab/)** - Homelab App Index
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
 * 🌐 **[⁠RackRat](https://rackrat.net/)** - Ebay Rackmount Server Prices / Comparisons
@@ -415,7 +416,7 @@
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
-* ⭐ **[lf](https://github.com/gokcehan/lf)**, **[ranger](https://ranger.fm)**, **[nnn](https://github.com/jarun/nnn)**, **[clifm](https://github.com/leo-arch/clifm)**, **[fm](https://github.com/mistakenelf/fm)**, **[superfile](https://github.com/yorukot/superfile)**, **[Joshuto](https://github.com/kamiyaa/joshuto)** - Terminal File Managers
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, **[ranger](https://ranger.fm/)** / [Codeberg](https://codeberg.org/ranger/pages), **[nnn](https://github.com/jarun/nnn)**, **[clifm](https://github.com/leo-arch/clifm)**, **[fm](https://github.com/mistakenelf/fm)**, **[superfile](https://github.com/yorukot/superfile)**, **[Joshuto](https://github.com/kamiyaa/joshuto)** - Terminal File Managers
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
