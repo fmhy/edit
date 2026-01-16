@@ -55,7 +55,6 @@
 
 ## ▷ Paywall Bypass
 
-* ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
@@ -817,7 +816,6 @@
 * ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
-* ⭐ **[Archive.today](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages / Paywall Bypass
 * ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [Ghost Archive](https://ghostarchive.org/) - Archive Web Pages
