@@ -550,7 +550,7 @@
 * [The Brutalist Report](https://brutalist.report/) - Tech News
 * [Techxplore](https://techxplore.com/) - Tech News
 * [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - Gaming News
-* [TuxURLs](https://tuxurls.com/, [phoronix](https://www.phoronix.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
+* [TuxURLs](https://tuxurls.com/), [phoronix](https://www.phoronix.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News

@@ -1063,7 +1063,7 @@
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials 
-* [Scratch](https://scratch.mit.edu/) / [Extra Features](https://scratchaddons.com/) / [Package Projects](https://packager.turbowarp.org/) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
+* [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
