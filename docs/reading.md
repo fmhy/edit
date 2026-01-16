@@ -471,7 +471,7 @@
 * ⭐ **[MangaPark](https://mangapark.net/)** / [Discord](https://discord.gg/jctSzUBWyQ)
 * ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
-* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Mirrors](https://batotomirrors.pages.dev/) / [Discord](https://discord.com/invite/batoto)
+* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Mirrors](https://batotomirrors.pages.dev/) / [Discord](https://discord.gg/RW5yzjrHP)
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
