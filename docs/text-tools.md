@@ -309,6 +309,7 @@
 * [Heimer](https://github.com/juzzlin/Heimer)
 * [Cubox](https://cubox.cc/)
 * [vym](https://github.com/insilmaril/vym)
+* [⁠Tangent](https://www.tangentnotes.com/) - Markdown Mind Mapping / [Discord](https://discord.gg/6VpvhUnxFe) / [GitHub](https://github.com/suchnsuch/Tangent)
 * [markmap](https://markmap.js.org/) - Markdown Mind Mapping / [GitHub](https://github.com/markmap/markmap)
 * [Coggle](https://coggle.it/) - Collaborative
 * [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
