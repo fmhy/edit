@@ -457,7 +457,7 @@
 * [SportDB](https://hoofoot.ru/) - Stream Aggregator
 * [TotalSportek.es](https://totalsportek.es/), [2](https://streameast.cz/) - Stream Aggregator
 * [CrackStreams24](http://crackstreams24.cfd/), [Soccereast](https://soccereast.cc/) or [Streameast24](https://streameast24.sbs/) - Stream Aggregator / [Discord](https://discord.gg/HwXeKNu8FU)
-* [FootStreams](https://footstreams.xyz/) - Stream Aggregator
+* [FootStreams](https://footstreams.xyz/), [2](https://www.footstreams.co/) - Stream Aggregator
 * [SportsMerge](https://sportsmerge.org/) - Stream Aggregator
 * [FSL](https://freestreams-live1a.pk/) - Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)
 * [Footfy](https://footfy.net/) - Stream Aggregator
@@ -633,7 +633,6 @@
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movieparadise-code)
 * ⭐ **[Rive](https://rivestream.org/)**, [2](https://rivestream.net/) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[1Shows](https://www.1shows.nl/)** or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/the-one)
-* ⭐ **[Cinepeace](https://cinepeace.in/)** - Movies / TV / Anime / [Discord](https://discord.gg/htmB2TbK)
 * ⭐ **[LunaStream](https://lunastream.fun/)** - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
 * ⭐ **[VidBox](https://vidbox.cc/)** - Movies / TV / Anime / [Discgord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
