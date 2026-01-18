@@ -775,6 +775,7 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [Kartoons](https://kartoons.fun/) - Anime / Cartoons
+* [⁠AnimeDekho](https://animedekho.in/home) - Anime / Cartoons
 * [Aniflix](https://aniflix.uno/) - Anime
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Desi Serials](https://www.desi-serials.to/) - TV
@@ -1110,10 +1111,13 @@
 * [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
 * [KreskówkaSubs](https://kreskowkasubs.blogspot.com/) - Cartoons / Sub / Dub
 * [Filman](https://filman.cc/) - Movies / TV
+* [centrum-dramy](https://centrum-dramy.pl/) - Asian Drama
 * [FilmWeb](https://www.filmweb.pl/vod/free) - Free w/ Ads
 * [Rakuten](https://www.rakuten.tv/pl/gardens/avod-fast) - Free w/ Ads
 * [sweet.tv](https://sweet.tv/pl/free_tv) - Free w/ Ads
-* [player.pl/](https://player.pl/) - Free w/ Ads
+* [vod.tvp](https://vod.tvp.pl/) - Free w/ Ads
+* [Pilot](https://pilot.wp.pl/) - Free w/ Ads
+* [player.pl](https://player.pl/) - Free w/ Ads
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [docchi](https://docchi.pl/) - Anime / Sub / 1080p
 * [animedesu](https://animedesu.pl/) - Anime

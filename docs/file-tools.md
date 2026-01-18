@@ -104,7 +104,7 @@
 
 ## ▷ File Searching
 
-* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine / [Alpha](https://www.voidtools.com/everything-1.5a/)
+* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine / [Alpha](https://www.voidtools.com/everything-1.5a/) / [Date Searching](https://rentry.co/etfd)
 * [Recoll](https://www.recoll.org/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [DocFetcher](https://docfetcher.sourceforge.io/) or [Orange](https://0-range.github.io/) - Cross-Platform Search Engines
 * [AnyTXT](https://anytxt.net/), [WizFile](https://antibody-software.com/wizfile/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
@@ -175,6 +175,7 @@
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
+* [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
 * [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [⁠PrivMeta](https://www.privmeta.com/) / [GitHub](https://github.com/DScaife/privmeta/) or [mat2](https://github.com/jvoisin/mat2) / [Web Version](https://0xacab.org/jvoisin/mat2-web) - Remove Metadata from Files
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties

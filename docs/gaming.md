@@ -39,11 +39,11 @@
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
-* [desolation](https://rentry.co/FMHYB64#desolation) - Download / [Discord](https://discord.gg/Q85SNt2sSz)
 * [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installed / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [Games4U](https://games4u.org/) - Download / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / Sources on DDL Pages
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
+* [⁠The Dark Games](https://the-dark-games.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#ads) - Denuvo Games / Works Offline
@@ -376,7 +376,7 @@
 * [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) / [Discord](https://discord.gg/x7gr3M9) - Super Mario Bros. DS / Wii Mods
 * [SMW Hacks](https://rentry.co/FMHYB64#smw-hacks) or [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
 * [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
-* [Pokémon ROM Mods](https://rentry.co/FMHYB64#pokemerald) - Pokémon ROM Mods
+* [Pokémon ROM Mods](https://rentry.co/FMHYB64#poke) - Pokémon ROM Mods
 * [OOTMM](https://ootmm.com/) - Randomize + Merge Ocarina of Time with Majora's Mask
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Levels](https://rentry.co/FMHYB64#smbx-preservation) / [Discord](https://discord.com/invite/aCZqadJ)
 * [⁠Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - Super Mario Bros. Remake / [Discord](https://discord.com/invite/A68uRsnja3)
@@ -639,7 +639,6 @@
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
 * [The Circle](https://the-circle.app/) - Dodge Circles
-* [PARISUCAT](https://parisucat.netlify.app/) - Reflex-Based Grid Browser Game / [Discord](https://discord.gg/q5mSx7uFuC)
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator

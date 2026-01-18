@@ -142,8 +142,8 @@
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
-* ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
-* ⭐ **[store.rg](https://store.rg-adguard.net/)** or [StoreWeb](https://msft-store.tplant.com.au/) - Paid Microsoft Store Link Generators / [Guide](https://rentry.co/paidAppsMsStore)
+* ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Alt Microsoft Store App
+* ⭐ **[DanStore](https://danstore-ms.vercel.app/)**, **[store.rg](https://store.rg-adguard.net/)** or [StoreWeb](https://msft-store.tplant.com.au/) - Microsoft Store WebUIs / [Guide](https://rentry.co/paidAppsMsStore)
 * [MajorGeeks](https://www.majorgeeks.com/) - Freeware Downloads
 * [Softpedia](https://www.softpedia.com/) - Freeware Directory
 * [Realityripple](https://realityripple.com/) - Freeware Directory

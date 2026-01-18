@@ -613,6 +613,7 @@
 ## ▷ JavaScript
 
 * 🌐 **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - JavaScript Resources
+* 🌐 **[Awesome UIKit](https://github.com/jaywcjlove/awesome-uikit/)** - JS Frameworks / Web Component Index
 * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - JavaScript Cheat Sheet / [GitHub](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
@@ -629,7 +630,7 @@
 ## ▷ React
 
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
+* [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [React Bits](https://reactbits.dev/) / [GitHub](https://github.com/DavidHDev/react-bits), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Refine](https://refine.dev/) - React App Builders
@@ -676,7 +677,7 @@
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
-* [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
+* [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries / [Examples](https://github.com/ln-dev7/square-ui)
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)

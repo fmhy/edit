@@ -327,6 +327,7 @@
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
+* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [Ekvis](https://ekvis.com/) / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
@@ -335,14 +336,13 @@
 * [City Data](https://www.city-data.com/) - US City Data
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
-* [⁠Integrity Index](https://integrityindex.us/) - US Political Finance Integrity Database
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
+* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [PixelWealth](https://pixelwealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
-* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
+* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [Statista](https://www.statista.com/) - Market Statistics
@@ -522,6 +522,7 @@
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
+* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews 
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -974,13 +975,16 @@
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
 * [Rubiks Cube Guide](https://rentry.co/cubingguide) - ⁠Guide to Rubiks Cube
+* [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
 * [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer 
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
+* [Roux Trainers](https://onionhoney.github.io/roux-trainers/) - Learn Roux Solving Method
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wiki / Community Forum
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
 * [Cubing Time Standard](https://cubingtimestandard.com/) - Track Your Performance Across WCA Events
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](https://expertcuber.by/f2l.php) - Algorithm-Specific Trainers
+* [BlindTrainer](https://blindtrainer.com/) - Blindfolded Rubinks Trainer
 * [Hypercubing](https://hypercubing.xyz/) - Hypercubing Wiki
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer

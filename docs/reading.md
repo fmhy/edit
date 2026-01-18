@@ -889,6 +889,7 @@
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
+* [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 * [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 

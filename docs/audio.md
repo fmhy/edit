@@ -46,7 +46,7 @@
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
-* [MTV REWIND](https://wantmymtv.xyz/) - Recreates MTV Experience from Different Eras
+* [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.vercel.app/) - Recreates MTV Experience from Different Eras
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
 * [Hype Machine](https://hypem.com/popular) - Rising
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform

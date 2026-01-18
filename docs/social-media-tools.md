@@ -191,6 +191,7 @@
 
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
 * [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
+* [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
 ***
 
@@ -418,7 +419,7 @@
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
 * [Tube All Images](https://imageyoutube.com/) - Download YouTube Images
-* [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
+* [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/), [ThumbnailDownloader](https://www.thumbnaildownloader.art/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
 * [YT Subtitle Downloader](https://greasyfork.org/en/scripts/520194) - Download Video Subtitles
 

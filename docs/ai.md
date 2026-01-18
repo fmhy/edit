@@ -22,7 +22,7 @@
 * [ChatGPT](https://chatgpt.com/) - GPT-5.2 / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#chatgpt-limits) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Qwen](https://chat.qwen.ai/) - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Claude](https://claude.ai/) - Claude 4.5 Sonnet / Google Login Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
-* [⁠Ernie](https://ernie.baidu.com/) - ERNIE 5.0 Preview 1203 / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo)
+* [⁠Ernie](https://ernie.baidu.com/) - ERNIE 5.0 Preview 1220 / x1 Demo / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo)
 * [Mistral](https://chat.mistral.ai) - Mistral Large 3 / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax-M2.1 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo3 32B / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
@@ -49,10 +49,9 @@
 * [Khoj](https://app.khoj.dev/) - Grok 4.1 / Gemini 3 Flash / Reset Limits w/ Temp Mail
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up
+* [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/XE65JfWm)
 * [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Chatbots / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/) - DeepSeek V3.1 / Kimi K2 / Multiple Chatbots / No Sign-Up
-* [FreePass](https://freepass.ai/) - Gemini 2.5 Pro / GPT-5-chat / No Sign-Up / [Telegram](https://t.me/freepass_ai)
 
 ***
 
@@ -485,7 +484,7 @@
 # ► Machine Learning
 
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)** or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning Resources
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning / LLM Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources

@@ -50,6 +50,7 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
+* [⁠Pastezz](https://paste.vidzee.wtf/) - Plain Text
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support

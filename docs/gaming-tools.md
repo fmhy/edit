@@ -533,6 +533,7 @@
 * [FlagBrew](https://github.com/FlagBrew) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
+* [TomodachiShare](https://tomodachishare.com/) - Tomodachi Life + Miitopia Mii Archive / Codes / [Discord](https://discord.gg/48cXBFKvWQ) / [GitHub](https://github.com/trafficlunar/tomodachi-share)
 
 ***
 
@@ -831,7 +832,6 @@
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves, etc.
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
-* [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokémon Coders](https://www.pokemoncoders.com/) - Hacked Pokémon ROMs
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
@@ -885,7 +885,7 @@
 
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
-* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) - Online Multiplayer Doom
+* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
 * [Classic DOOM](https://classicdoom.com/) or [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
@@ -948,7 +948,7 @@
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
-* [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
+* [Dripzels](https://dripzels.com/) or [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 
 ***
 

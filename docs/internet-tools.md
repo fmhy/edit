@@ -538,7 +538,7 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://karakeep.app/) / [GitHub](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 
@@ -678,7 +678,7 @@
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * [Allow Right Click](https://webextension.org/listing/allow-right-click.html) - Force Enable Right Click / [GitHub](https://github.com/lunu-bounir/allow-right-click)
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
-* [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
+* [CopyFish](https://ocr.space/copyfish) - Grab Text from Images / [GitHub](https://github.com/A9T9/Copyfish/)
 * [Max Focus](https://maxfoc.us/) - Preview Links
 * [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
