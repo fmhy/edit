@@ -50,6 +50,7 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
+* [⁠Pastezz](https://paste.vidzee.wtf/) - Plain Text
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
@@ -309,6 +310,7 @@
 * [Heimer](https://github.com/juzzlin/Heimer)
 * [Cubox](https://cubox.cc/)
 * [vym](https://github.com/insilmaril/vym)
+* [⁠Tangent](https://www.tangentnotes.com/) - Markdown Mind Mapping / [Discord](https://discord.gg/6VpvhUnxFe) / [GitHub](https://github.com/suchnsuch/Tangent)
 * [markmap](https://markmap.js.org/) - Markdown Mind Mapping / [GitHub](https://github.com/markmap/markmap)
 * [Coggle](https://coggle.it/) - Collaborative
 * [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
