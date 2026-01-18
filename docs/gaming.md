@@ -905,7 +905,7 @@
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://likewise.com/games), [Flickle](https://flickle.app/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://pix-media.com/games), [Flickle](https://flickle.app/) or [Framed](https://framed.wtf/) - Movie Guessing Games
 * [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle

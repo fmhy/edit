@@ -20,6 +20,7 @@
 * [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery 
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [BeefText](https://beeftext.org/) - Text Substitution Tool
+* [⁠Asciify](https://asciify.dev/) - ASCII Character Reference
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
 * [Calligrapher.ai](https://www.calligrapher.ai/), [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
