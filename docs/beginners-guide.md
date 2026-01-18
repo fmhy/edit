@@ -117,7 +117,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
 
 * **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
-* **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
+* **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
 
 !!!note Be aware that unofficial sources often re-upload M0nkrus's repacks, sometimes with added malware. Always verify you are downloading from M0nkrus's actual site, which we link on FMHY before downloading anything. Do not trust search engine results blindly for such specific repackers.
 
