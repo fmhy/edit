@@ -14,19 +14,36 @@
  *  limitations under the License.
  */
 export default defineEventHandler(async (event) => {
-  const { cloudflare } = event.context
+  const { cloudflare, request } = event.context
+  if (!cloudflare?.env?.RATE_LIMITER) {
+    throw createError({
+      statusCode: 500,
+      statusMessage: 'Rate limiter not available'
+    })
+  }
 
-  // FIXME: THIS IS NOT RECOMMENDED. BUT I WILL USE IT FOR NOW
-  // Not recommended:  many users may share a single IP, especially on mobile networks
-  // or when using privacy-enabling proxies
-  const ipAddress = getHeader(event, 'CF-Connecting-IP') ?? ''
+  const cf = request?.cf as { connectingIp?: string } | undefined
 
-  const { success } = await // KILL YOURSELF
-  (cloudflare.env as unknown as Env).RATE_LIMITER.limit({
-    key: ipAddress
+  const ip =
+    cf?.connectingIp ??
+    getHeader(event, 'CF-Connecting-IP') ??
+    getHeader(event, 'X-Forwarded-For')?.split(',')[0]?.trim()
+
+  if (!ip) {
+    throw createError({
+      statusCode: 400,
+      statusMessage: 'Unable to determine client IP'
+    })
+  }
+
+  const { success } = await cloudflare.env.RATE_LIMITER.limit({
+    key: ip
   })
 
   if (!success) {
-    throw createError('Failure – global rate limit exceeded')
+    throw createError({
+      statusCode: 429,
+      statusMessage: 'Too many requests'
+    })
   }
 })
