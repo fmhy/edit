@@ -9,6 +9,8 @@ prev: false
 footer: true
 ---
 
+<Post authors="nbats"/>
+
 Happy holidays everyone, I hope you are all doing well.
 
 I would just like to take a moment to talk about something very important to me. My hope is it will provide some clarity as to our motivations behind this project, and spread a bit of love to you all.
