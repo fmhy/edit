@@ -387,7 +387,6 @@
 
 ## ▷ Image Search Engines
 
-* ⭐ **[Yandex Images](https://yandex.com/images/)** or [Mavink](https://mavink.com/) - Image Search
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
@@ -396,6 +395,7 @@
 * [⁠Bing Visual Search](https://bing.com/camera) - Reverse Image Search
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
+* [Yandex Images](https://yandex.com/images/) or [Mavink](https://mavink.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
