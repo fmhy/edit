@@ -9,6 +9,8 @@ prev: false
 footer: true
 ---
 
+<Post authors="nbats"/>
+
 Hello everyone. I hope you are all doing well. I just wanted to take a quick moment to talk about two concepts I think are becoming important in our world: rebellion and disobedience.
 
 ***
