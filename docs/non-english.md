@@ -31,7 +31,7 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[Cimaleek](https://m.cimaleek.to/)** - Movies / TV
+* ⭐ **[Cimaleek](https://cimaleek.ws/)** - Movies / TV
 * ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
