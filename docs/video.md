@@ -114,7 +114,7 @@
 * [LunaStream](https://lunastream.fun/) or [CineFlow](https://www.cineflow.watch/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * [Nunflix.li](https://www.wooflixtv.co/) - Movies / TV / Anime
-* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
+* [zmov](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
 * [Yampi](https://yampi.live/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
