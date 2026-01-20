@@ -31,7 +31,7 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[Cimaleek](https://m.cimaleek.to/)** - Movies / TV
+* ⭐ **[Cimaleek](https://cimaleek.ws/)** - Movies / TV
 * ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
@@ -1922,7 +1922,6 @@
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [NPO](https://npo.nl/) - Dutch / TV Streaming
 * [Oorboekje](https://oorboekje.nl/) or [luisterradio](https://luisterradio.fm/) - Dutch Radio Stations
-* [Eboek.info](https://eboek.info/) - Dutch / Download / Comics
 * [Warez.Ge](https://warez.ge/) - Georgian / Download / Video / Audio 
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [kzkitap](https://t.me/kzkitap) - Kazakh Books

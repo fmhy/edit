@@ -40,7 +40,7 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
-* [LunaTranslator](https://docs.lunatranslator.org/en/) - Visual Novel Live Translator / [GitHub](https://github.com/HIllya51/LunaTranslator)
+* [LunaTranslator](https://docs.lunatranslator.org/en/) / [GitHub](https://github.com/HIllya51/LunaTranslator) or [⁠MTool](https://mtool.app/?lang=en) - Game / Visual Novel Translators
 * [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
@@ -660,6 +660,7 @@
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher / [Discord](https://discord.com/invite/S4cSFjq)
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / [Discord](https://discord.com/invite/W5XVwYY7GQ)
+* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / VPN May Be Required to View Site
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mc_launchers_account_req) - Launchers that Require Official Account
 

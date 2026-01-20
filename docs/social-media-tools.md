@@ -269,6 +269,7 @@
 * ⭐ **[Teldrive](https://teldrive-docs.pages.dev/)** - File Manager / Uploader / [Discord](https://discord.com/invite/8QAeCvTK7G) / [GitHub](https://github.com/tgdrive/teldrive)
 * [tdl](https://docs.iyear.me/tdl/) - File Download / Upload Tool / [GitHub](https://github.com/iyear/tdl)
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
 * [GdriveXbot](https://t.me/TheGdriveXBot) or [google-drive-telegram-bot](https://github.com/viperadnan-git/) - Google Drive Upload Bots
@@ -659,7 +660,7 @@
 * [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
 * [Hubzilla Public Sites](https://hubzilla.org/pubsites) - Hubzilla Instances
 * [Friendica Directory](https://dir.friendica.social/servers) - Friendica Instances
-* [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Netoworks
+* [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
 * [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
