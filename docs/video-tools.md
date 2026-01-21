@@ -80,6 +80,7 @@
 * [RecordScreen](https://recordscreen.io/) / Web
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) / Web
 * [⁠Cursorful](https://cursorful.com/) - Browser Screen Recording
+* [⁠Vidocu](https://vidocu.ai/) - Turn screen recordings into professional videos and documentation
 
 ***
 
