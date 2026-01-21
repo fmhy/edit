@@ -1226,7 +1226,6 @@
 * [Hunter.FM](https://hunter.fm) - Radio
 * [M80 Rádio](https://m80.pt) - Radio
 * [TSF](https://www.tsf.pt) - Radio
-* [MEGA HITS](https://megahits.sapo.pt) - Radio
 * [Radio.pt](https://www.radio.pt) - Radio
 * [Rádios7](http://www.radios7.com) - Radio
 * [Antena 1](https://www.antena1.com.br) - Radio
@@ -1309,7 +1308,6 @@
 * [ClickSud](https://clicksud.co/) - Movies / TV / Sub / 720p
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [luminsangelsseriale](https://luminsangelsseriale.com/) - Movies / TV
-* [FilmeHD](https://filmehd.se/) - Movies
 * [DozaAnimată](https://www.dozaanimata.net/) - Anime / Cartoons / Sub / Dub / 720p
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles

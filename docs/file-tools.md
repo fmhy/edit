@@ -152,7 +152,6 @@
 * [AOMEI Backupper](https://www.ubackup.com/) - File Backup
 * [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
-* [Toucan](https://github.com/PortableApps/Toucan) - Portable File Backup
 
 ***
 
