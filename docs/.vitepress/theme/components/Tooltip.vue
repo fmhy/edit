@@ -1,8 +1,13 @@
 <script setup lang="ts">
-withDefaults(
+import { withBase } from 'vitepress'
+import { computed } from 'vue'
+
+const props = withDefaults(
   defineProps<{ title?: string; icon?: string }>(),
   { icon: '/note.svg' }
 )
+
+const resolvedIcon = computed(() => withBase(props.icon))
 </script>
 
 <template>
@@ -14,8 +19,8 @@ withDefaults(
       <div
         class="size-full bg-current transition-all"
         :style="{
-           mask: `url(${icon}) no-repeat center / contain`,
-           '-webkit-mask': `url(${icon}) no-repeat center / contain`,
+           mask: `url(${resolvedIcon}) no-repeat center / contain`,
+           '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`,
         }"
       />
     </button>
