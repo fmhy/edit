@@ -14,7 +14,7 @@
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3 Pro / 100 Daily / Sign-Up Required / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.7 / Slides / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
-* ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (96 daily) / Grok 4.1 (24 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963-grok-rate-limit-display), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (96 daily) / Grok 4.1 (24 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3 Pro (5 per day) / 3 Flash (Unlimited) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2 / Sign-Up Required / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 (Thinking) / Slides / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
