@@ -221,7 +221,7 @@
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
-* [Advanced Logic Calculators](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#advanced-logic-calculators)
+* [Advanced Logic Calculators](https://fmhynotes.pages.dev/advanced-logic-calculators)
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
@@ -789,7 +789,7 @@
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Wasona](https://wasona.com/) - Toki Pona Learning Site / Minimal Language / [Info](https://en.wikipedia.org/wiki/Toki_Pona#Purpose)
-* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#m%C4%81ori-note)
+* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://fmhynotes.pages.dev/maori)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
 ***

@@ -49,7 +49,7 @@
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
-* [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#softarchive-mirrors) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sanet-warning)
+* [SoftArchive](https://softarchive.download/) - Audio / Books / Comics / Newspapers / Magazines / [Mirrors](https://sastatus.com/), [2](https://fmhynotes.pages.dev/softarchive-mirrors) / [Note](https://fmhynotes.pages.dev/Warnings/sanet)
 
 ***
 
@@ -100,7 +100,7 @@
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/) / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Sign-Up Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
+* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Sign-Up Required / [User Ranks](https://fmhynotes.pages.dev/mobilism-ranks)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Sign-Up Required
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
