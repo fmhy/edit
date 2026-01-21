@@ -20,7 +20,7 @@ import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transformsPlugin } from './transformer'
-import { configureMarkdown } from './utils/markdown'
+import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
@@ -209,7 +209,7 @@ export default defineConfig({
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
       meta.build.api && md.use(headersPlugin)
-      configureMarkdown(md)
+      replaceNoteLink(md)
     }
   },
   themeConfig: {

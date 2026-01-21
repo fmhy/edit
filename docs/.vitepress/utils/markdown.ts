@@ -1,64 +1,44 @@
 import type { MarkdownRenderer } from 'vitepress'
 import { getTooltip } from './tooltips'
 
-export function configureMarkdown(md: MarkdownRenderer) {
-  // We use a "core" rule that runs after the inline parsing is finished.
-  // This allows us to inspect actual link tokens rather than raw text.
+const NOTE_MATCH_RE = /\.vitepress\/notes\/([\w-]+)(?:\.md)?$/
+
+export function replaceNoteLink(md: MarkdownRenderer) {
   md.core.ruler.after('inline', 'url-tooltip', (state) => {
-    // Iterate through all top-level tokens
     for (const token of state.tokens) {
-      if (token.type !== 'inline' || !token.children) continue;
+      if (token.type !== 'inline' || !token.children) continue
 
-      const children = token.children;
-
-      // Iterate through the inline children (text, links, em, etc.)
+      const children = token.children
       for (let i = 0; i < children.length; i++) {
-        const child = children[i];
+        if (children[i].type !== 'link_open') continue
 
-        // 1. Look for the opening of a link
-        if (child.type === 'link_open') {
-          const href = child.attrGet('href') || '';
-          
-          // 2. Check if the URL matches your notes path
-          // This regex handles various path formats (.md, no extension, etc.)
-          const match = href.match(/\.vitepress\/notes\/([\w-]+)(?:\.md)?$/);
-          
-          if (match) {
-            const filename = match[1];
-            const item = getTooltip(filename);
+        const href = children[i].attrGet('href') || ''
+        const match = href.match(NOTE_MATCH_RE)
+        if (!match) continue
 
-            if (item) {
-              // 3. Find where the link ends (the link_close token)
-              let j = i + 1;
-              while (j < children.length && children[j].type !== 'link_close') {
-                j++;
-              }
+        const item = getTooltip(match[1])
+        if (!item) continue
 
-              // 4. Generate the replacement HTML
-              const icon = item.frontmatter.icon ? `icon="${item.frontmatter.icon}"` : '';
-              const title = item.frontmatter.title 
-                ? `title="${item.frontmatter.title}"` 
-                : `title="${item.id}"`;
-              
-              const props = `${icon} ${title}`.trim();
-              
-              // We render the tooltip content here. 
-              // Note: md.render is recursive, so it handles markdown inside your note.
-              const renderedContent = md.render(item.content);
+        // Find closing link tag
+        let j = i + 1
+        while (j < children.length && children[j].type !== 'link_close') j++
 
-              // 5. Create a new HTML token to replace the entire link sequence
-              const tooltipToken = new state.Token('html_inline', '', 0);
-              tooltipToken.content = `<Tooltip ${props}>${renderedContent}</Tooltip>`;
+        const tooltip = new state.Token('html_inline', '', 0)
 
-              // Replace the range [link_open, ...text..., link_close] with our new token
-              children.splice(i, j - i + 1, tooltipToken);
-              
-              // Adjust index because we reduced multiple tokens into one
-              i = i; 
-            }
-          }
-        }
+        let title = ''
+        // Extract first header to be used as title
+        const content = item.content.replace(/^#+\s+(.*)$/m, (_, t) => {
+          title = t
+          return ''
+        })
+
+        const rendered = md.render(content)
+        const props = title ? `title="${title.replace(/"/g, '&quot;')}"` : ''
+        const footer = `<div class="mt-2 text-right opacity-50 text-xs"><a href="${href}">Source</a></div>`
+        tooltip.content = `<Tooltip ${props}>${rendered}${footer}</Tooltip>`
+
+        children.splice(i, j - i + 1, tooltip)
       }
     }
-  });
+  })
 }

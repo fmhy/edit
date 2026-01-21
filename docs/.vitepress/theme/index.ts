@@ -26,28 +26,13 @@ import 'virtual:uno.css'
 import Feedback from './components/Feedback.vue'
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
-import './styles/tooltip-hint.css'
 import Tooltip from './components/Tooltip.vue'
 
 export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ router, app }) {
-    app.use(FloatingVue, {
-      themes: {
-        hint: {
-          $extend: 'tooltip',
-          delay: { show: 0, hide: 0 },
-          html: true
-        },
-        'vp-tooltip': {
-          $extend: 'tooltip',
-          $resetCss: true,
-          triggers: ['click', 'touch'],
-          autoHide: true
-        }
-      }
-    })
+    app.use(FloatingVue)
     app.use(Components)
     app.component('Post', Post)
     app.component('Feedback', Feedback)
