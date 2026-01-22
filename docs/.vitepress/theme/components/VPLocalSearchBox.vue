@@ -72,6 +72,7 @@ const { localeIndex, theme } = vitePressData
 
 // Fuzzy search toggle state (default: false = exact search)
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+const isUrlSearch = useLocalStorage('vitepress:local-search-url', true)
 
 const searchIndex = computedAsync(async () =>
   markRaw(
@@ -151,8 +152,8 @@ const mark = computedAsync(async () => {
 const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
 
 debouncedWatch(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value, isUrlSearch.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue, urlSearchValue], old, onCleanup) => {
     if (old?.[0] !== index) {
       // in case of hmr
       cache.clear()
@@ -259,6 +260,7 @@ debouncedWatch(
         // We use the raw search query (lowerCaseFilterText) to check for matches in the link's href.
         // Highlight hyperlinks that contain the entire search term in their href
         if (
+          urlSearchValue &&
           href &&
           lowerCaseFilterText.length > 0 &&
           href.toLowerCase().includes(lowerCaseFilterText)
@@ -439,6 +441,10 @@ function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
 
+function toggleUrlSearch() {
+  isUrlSearch.value = !isUrlSearch.value
+}
+
 function formMarkRegex(terms: Set<string>) {
   return new RegExp(
     [...terms]
@@ -536,6 +542,16 @@ function onMouseMove(e: MouseEvent) {
             >
               <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
               <span v-else class="exact-icon">=</span>
+            </button>
+
+            <button
+              class="toggle-url-search-button"
+              type="button"
+              :class="{ 'url-search-active': isUrlSearch }"
+              :title="isUrlSearch ? 'Disable URL Search' : 'Enable URL Search'"
+              @click="toggleUrlSearch"
+            >
+              <span class="url-icon">🔗</span>
             </button>
 
             <button
@@ -782,6 +798,27 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .toggle-fuzzy-button.fuzzy-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-search-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-url-search-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-search-button.url-search-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
 }
