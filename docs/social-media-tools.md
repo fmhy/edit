@@ -86,7 +86,7 @@
 
 * 🌐 **[Client Themes](https://betterdiscord.app/themes)** or [Discord Themes](https://github.com/topics/discord-theme) - Client Theme Index
 * ⭐ **[Discohook](https://discohook.app/)**, [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
-* ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
+* ⭐ **[CustomRP](https://www.customrp.xyz/)** or [geetRPCS](https://geetrpcs.vercel.app/) / [GitHub](https://github.com/makcrtve/geetRPCS) - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/overlayeddev/overlayed)
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support
@@ -584,6 +584,7 @@
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
+* [⁠FB Login Wall Remover](https://greasyfork.org/en/scripts/548145) - Remove Facebook Login Wall 
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool

@@ -281,7 +281,7 @@
 * [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
-* [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
+* [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [⁠FreeLogoMaker](https://myfreelogomaker.com/), [⁠BrandCrowd](https://www.brandcrowd.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
 * [Logo Fast](https://logofa.st/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
@@ -514,7 +514,7 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
+* [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
 * [STLFinder](https://www.stlfinder.com/) - Multi-Site Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
