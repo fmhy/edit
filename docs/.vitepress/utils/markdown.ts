@@ -34,7 +34,7 @@ export function replaceNoteLink(md: MarkdownRenderer) {
 
         const rendered = md.render(content)
         const props = title ? `title="${title.replace(/"/g, '&quot;')}"` : ''
-        const footer = `<div class="mt-2 text-right opacity-50 text-xs"><a href="${href}">Source</a></div>`
+        const footer = `<div class="mt-2 text-right opacity-50 text-xs"><a class="tooltip-source-link" href="${href}">Source</a></div>`
         tooltip.content = `<Tooltip ${props}>${rendered}${footer}</Tooltip>`
 
         children.splice(i, j - i + 1, tooltip)
