@@ -234,6 +234,7 @@
 ## ▷ Revival Projects
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
+* [ Age of the Ring](https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) - LOTR: The Battle for Middle-Earth II Revival Mod / [Discord](https://discord.com/invite/MB8Kj9N)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Forum](https://forum.falcon-bms.com/) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [GitLab](https://gitlab.com/flightgear/flightgear)
@@ -709,6 +710,7 @@
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / Unblocked / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
+* [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
@@ -907,11 +909,10 @@
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://pix-media.com/games), [Flickle](https://flickle.app/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/) / [TV](https://actorle.tv/), [Kino.wtf](https://www.kino.wtf/), [Likewise](https://pix-media.com/games), [Flickle](https://flickle.app/), [⁠Flickle](https://www.flickle.co/) or [Framed](https://framed.wtf/) - Movie / TV Guessing Games
 * [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
-* [Actorle TV](https://actorle.tv/) - TV Show Guessing
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [Play Football](https://playfootball.games/) - Football Quizzes / Trivia

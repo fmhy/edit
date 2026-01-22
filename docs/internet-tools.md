@@ -453,6 +453,7 @@
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [CF Temp Mail](https://em.bjedu.tech/en), [2](https://mail.awsl.uk/en) - Forever / Forever / 5 Domains / [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email/blob/main/README_EN.md)
 * [⁠DuckSpam](https://duckspam.com/) - Forever / Forever / 1 Domain
+* [Reusable.email](https://reusable.email/) - Forever / Forever / 1 Domain / [Telegram](https://t.me/reusable)
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Vortex Email](https://vortex.skyfall.dev/) - Forever / 9 Domains / [GitHub](https://github.com/SkyfallWasTaken/vortex.email)
@@ -643,9 +644,7 @@
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **ScrollAnywhere** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/) / [Chrome](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi) - Improves Scrolling Functionality
 * ⭐ **[Auto Tab Discard](https://webextension.org/listing/tab-discard.html)** or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
-
 * ⭐ **Clipboard2File** - [Firefox](https://github.com/vord1080/clipboard2file/) / [Chrome](https://github.com/daijro/Clipboard2File-Chrome) - Upload Images from Clipboard
-
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Omni](https://github.com/alyssaxuu/omni) - Browser Quick Launcher
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
@@ -661,6 +660,7 @@
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
+* [⁠LinkHints](https://lydell.github.io/LinkHints/) - Adds Ability to Click Links via Keyboard
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * Print Edit WE - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/print-edit-we/) / [Chrome](https://chrome.google.com/webstore/detail/print-edit-we/olnblpmehglpcallpnbgmikjblmkopia) - Edit Pages to Make them Printable
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages

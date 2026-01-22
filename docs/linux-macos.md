@@ -129,6 +129,7 @@
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
+* [⁠TuxMate](https://tuxmate.com/) - Bulk App Installer / [GitHub](https://github.com/abusoww/tuxmate)
 * [Awesome Linux Minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - FOSS Software
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
 * [Open Source Linux Programs](https://files.catbox.moe/o99qyz.jpg) - FOSS Software Chart
@@ -140,7 +141,6 @@
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or  [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) - Searchable Linux Package Database / [Repology](https://repology.org/)
 * [cheat.sh](https://github.com/chubin/cheat.sh) - App Repos
-* [⁠TuxMate](https://tuxmate.com/) - Bulk App Installer / [GitHub](https://github.com/abusoww/tuxmate)
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://github.com/tversteeg/emplace) - System Package Sync

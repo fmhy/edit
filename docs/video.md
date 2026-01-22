@@ -72,7 +72,7 @@
 
 * ⭐ **[Flixer](https://flixer.sh)** / [Discord](https://discord.com/invite/Z9Hjeqe4Fr), [Hexa](https://hexa.su/) / [Discord](https://discord.com/invite/yvwWjqvzjE) or [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cinezo](https://www.cinezo.net/)** or [Yenime](https://yenime.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Gx27YMK73d)
-* ⭐ **[bCine](https://bcine.app/)** or [BEECH](https://www.beech.watch/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FekgaSAtJa)
+* ⭐ **[bCine](https://bcine.app/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[Filmex](https://filmex.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * ⭐ **[Vidbox](https://vidbox.cc/)**, [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[Willow](https://willow.arlen.icu/)**, [2](https://salix.pages.dev/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
@@ -124,6 +124,7 @@
 * [KrakenFlix](https://krakenflix.cx/) - Movies / TV / Anime
 * [StreameX](https://streamex.net/) - Movies / TV / Anime
 * [Snowstream](https://snowstream.vercel.app/) - Movies / TV / Anime / [Telegram](https://t.me/snowstreamchat) / [Discord](https://discord.gg/fXBhvRzFKY)
+* [KiraStreams](https://kirastreamsv2.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/amalxloop/kirastreams)
 * [Altair](https://altair.mollusk.top/) or [Nova](https://novastream.top/) - Movies / TV / [Discord](https://discord.gg/s9kUZw7CqP)
 * [Ask4Movies](https://ask4movie.app/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
@@ -598,7 +599,8 @@
 * [S0undTV](https://github.com/S0und/S0undTV) - Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [SmartTVKick](https://github.com/CxWatcher/SmartTVKick) - Ad-Free Kick App
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Emby Android TV App
-*  [Nuvio](https://tapframe.github.io/NuvioStreaming/) / [GitHub](https://github.com/tapframe/NuvioStreaming) - Streaming App / Stremio Support
+* [Nuvio](https://tapframe.github.io/NuvioStreaming/) / [GitHub](https://github.com/tapframe/NuvioStreaming) - Streaming App / Stremio Support
+* [⁠Sozo](https://sozo.azamov.me/) - Anime Streaming App
 * [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
 * [Projectivy Launcher](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack) / [GitHub](https://github.com/spocky/miproja1/releases) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
@@ -648,7 +650,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 * [TMovie](https://tmovie.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)
-* [bCine](https://bcine.app/) or [BEECH](https://beech.watch/) - Movies / TV / Anime / [Discord](https://discord.gg/FekgaSAtJa)
+* [bCine](https://bcine.app/) - Movies / TV / Anime / [Discord](https://discord.gg/FekgaSAtJa)
 * [Sinflix](https://rentry.co/FMHYB64#sinflix) - Asian Drama
 * [DramaSuki](https://rentry.co/FMHYB64#dramasuki) - Asian Drama
 * [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / 4K / Google Account Required / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -759,7 +761,7 @@
 * 🌐 **[Awesome *Arr](https://ravencentric.cc/awesome-arr/)** - Torrent App / Automation Tool Index / [GitHub](https://github.com/Ravencentric/awesome-arr)
 * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
 * ↪️ **[Media Server Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
-* ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App / [WebUI](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio)
+* ⭐ **[Stremio](https://www.stremio.com/)** or [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-desktop-v5) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio)
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Torrent Streaming App / Stremio Addon Support / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [Auto-Subtitles](https://www.bazarr.media/) / [GitHub](https://github.com/Radarr/Radarr)
@@ -964,7 +966,7 @@
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - ffsubsync Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) or [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
-* [WithSubtitles](https://withsubtitles.com/), [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator), [Vibe](https://thewh1teagle.github.io/vibe/) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers
+* [WithSubtitles](https://withsubtitles.com/), [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator), [Vibe](https://thewh1teagle.github.io/vibe/), [⁠VideoLingo](https://github.com/Huanshere/VideoLingo) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers / Subtitle Generators
 * [Subtitle Edit](https://www.nikse.dk/subtitleedit) / [GitHub](https://github.com/SubtitleEdit/subtitleedit), [TranslatesSubtitles](https://translatesubtitles.com/) / [2](https://translatesubtitles.co/), [SRT AI Translator](https://github.com/passthesh3ll/srt-ai-translator) or [GPTSubtitler](https://gptsubtitler.com/) - Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [SoniTranslate](https://github.com/R3gm/SoniTranslate) - Video Translator
@@ -1019,6 +1021,7 @@
 * [Forever Dreaming](https://transcripts.foreverdreaming.org/) - Media Transcripts
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
+* [⁠IMAX Guide](https://143190.xyz/) - Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide) 
 * [MCU Order](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/) - Marvel Cinematic Universe Viewing Orders
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [RunPee](https://runpee.com/) - Best Movie Break Times

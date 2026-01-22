@@ -228,6 +228,7 @@
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [BreezePDF](https://breezepdf.com/)
+* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
 * [PDFClear](https://www.pdfclear.com/)
