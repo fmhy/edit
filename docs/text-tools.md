@@ -143,7 +143,7 @@
 * [Scribens](https://www.scribens.com/) - Web App
 * [EditGPT](https://www.editgpt.app/) - Web App / Sign-Up Required
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Sign-Up Required
-* [Outwrite](https://www.outwrite.com/) -  - Web App / Sign-Up Required
+* [Outwrite](https://www.outwrite.com/) - Web App / Sign-Up Required
 
 ***
 

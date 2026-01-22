@@ -159,7 +159,7 @@
 ## ▷ Window Managers
 
 * ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**  - Tiling Window Manager
+* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** - Tiling Window Manager
 * ⭐ **[WorkSpacer](https://workspacer.org/)** / [GitHub](https://github.com/workspacer/workspacer) - Tiling Window Manager
 * [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) - Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)
 * [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
