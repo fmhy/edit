@@ -53,7 +53,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [WatchSports](https://watchsports.to/)**
 * **Drama Streaming: [DramaCool](https://dramacoolt.com.in/)**
-* **Track / Discover: [Simkl](https://simkl.com/)  / [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
+* **Track / Discover: [Simkl](https://simkl.com/) / [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
 

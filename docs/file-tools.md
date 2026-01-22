@@ -228,6 +228,7 @@
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [BreezePDF](https://breezepdf.com/)
+* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
 * [PDFClear](https://www.pdfclear.com/)
@@ -320,7 +321,7 @@
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by Mega.nz
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
-* [hostb](https://hostb.org/ ) - Unlimited / 30 Days After Last Download / [Source](https://r-w-x.org/r/hostb.git)
+* [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Sign-Up Required
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download

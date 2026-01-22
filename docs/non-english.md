@@ -396,7 +396,7 @@
 * [xTrance](https://xtrance.info/) - Books / Download / Sign-Up Required
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
-* [eknihovna](https://eknihovna.maxzone.eu/index.html ) - Books
+* [eknihovna](https://eknihovna.maxzone.eu/index.html) - Books
 * [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
 
@@ -761,7 +761,7 @@
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
-* [tamilbulb](https://tamilbulb.world/) -  Tamil Movie / TV
+* [tamilbulb](https://tamilbulb.world/) - Tamil Movie / TV
 * [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 720p / 1080p
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
@@ -962,7 +962,7 @@
 * [rawfree](https://rawfree.to/) - Manga
 * [rawkuma](https://rawkuma.net/) - Manga
 * [raw1001](https://raw1001.net/) - Manga
-* [gomuraw](https://gomuraw.com/) -  Manga / Some NSFW
+* [gomuraw](https://gomuraw.com/) - Manga / Some NSFW
 * [mangakoma01](https://mangakoma01.net/) - Manga
 * [mangakoma](https://mangakoma.net/) - Manga
 * [rawfree](https://rawfree.me/) - Manga
@@ -1333,7 +1333,7 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
@@ -1498,7 +1498,7 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
-* [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/ ) - User Videos
+* [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting
 
@@ -1788,7 +1788,7 @@
 
 # ► Ukrainian / Українська
 
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 
 ## ▷ Torrenting
 
