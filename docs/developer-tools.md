@@ -853,6 +853,7 @@
 * [faustjs](https://faustjs.org) - WordPress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
+* [Comments Firewall](https://wordpress.org/plugins/comments-firewall/) - a powerful anti-spam Wordpress plugin
 
 ***
 
