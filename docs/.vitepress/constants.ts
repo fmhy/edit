@@ -156,6 +156,15 @@ export const search: DefaultTheme.Config['search'] = {
   provider: 'local'
 }
 
+export const algolia: DefaultTheme.Config['algolia'] = {
+  appId: 'R21YQW149I',
+  apiKey: 'b573aa609857d05f2327598413f9566',
+  indexName: 'fmhy',
+  searchParameters: {
+    facetFilters: ['lang:en-US']
+  }
+}
+
 export const socialLinks: DefaultTheme.SocialLink[] = [
   { icon: 'github', link: 'https://github.com/fmhy/edit' },
   { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },

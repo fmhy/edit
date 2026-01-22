@@ -44,6 +44,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20251202.0",
+    "@docsearch/css": "^4.5.3",
     "@ianvs/prettier-plugin-sort-imports": "^4.7.0",
     "@iconify-json/carbon": "^1.2.15",
     "@iconify-json/fluent": "^1.2.35",
