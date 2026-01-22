@@ -166,9 +166,12 @@ debouncedWatch(
     if (!index) return
 
     // Search with dynamic fuzzy option
+    // Prefix matching is always enabled to allow partial word matches (e.g. "Spot" -> "Spotify").
     const searchOptions = {
-      fuzzy: isFuzzySearch.value ? 0.2 : false
+      fuzzy: isFuzzySearch.value ? 0.2 : false,
+      prefix: true
     }
+
     results.value = index
       .search(filterTextValue, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
@@ -246,10 +249,39 @@ debouncedWatch(
     })
 
     const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
+    const lowerCaseFilterText = filterTextValue.trim().toLowerCase()
+
     for (const excerpt of excerpts) {
-      excerpt
-        .querySelector('mark[data-markjs="true"]')
-        ?.scrollIntoView({ block: 'center' })
+      const anchors = excerpt.querySelectorAll('a')
+      for (const anchor of anchors) {
+        const href = anchor.getAttribute('href')
+        // URL Highlighting Logic
+        // We use the raw search query (lowerCaseFilterText) to check for matches in the link's href.
+        // Highlight hyperlinks that contain the entire search term in their href
+        if (
+          href &&
+          lowerCaseFilterText.length > 0 &&
+          href.toLowerCase().includes(lowerCaseFilterText)
+        ) {
+          anchor.classList.add('search-match-url')
+          
+          // Add priority class for precise scrolling if the query is specific enough (> 2 chars).
+          // This prioritizes showing the exact link match over a generic page match at the top.
+          if (lowerCaseFilterText.length > 2) {
+             anchor.classList.add('search-match-url-priority')
+          }
+        }
+      }
+
+      // Scroll to the first match, prioritizing exact URL matches
+      const priorityMatch = excerpt.querySelector('.search-match-url-priority')
+      if (priorityMatch) {
+        priorityMatch.scrollIntoView({ block: 'center' })
+      } else {
+        excerpt
+          .querySelector('mark[data-markjs="true"], .search-match-url')
+          ?.scrollIntoView({ block: 'center' })
+      }
     }
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
@@ -285,7 +317,8 @@ onMounted(() => {
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') {
-    focusSearchInput()
+    // Disable auto-select on click so user can edit query easily without clearing it
+    focusSearchInput(false)
   }
 }
 
@@ -875,7 +908,9 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .titles :deep(mark),
-.excerpt :deep(mark) {
+.excerpt :deep(mark),
+.excerpt :deep(.search-match-url),
+.excerpt :deep(.search-match-url-priority) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
