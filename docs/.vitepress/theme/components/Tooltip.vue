@@ -14,10 +14,10 @@ const resolvedIcon = computed(() => withBase(props.icon))
   <VDropdown :triggers="['click', 'touch']" :auto-hide="true" :distance="15" placement="auto">
     <button
       aria-label="Tooltip"
-      class="text-brand-1 inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[2em] translate-y-[0.14em]"
+      class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[1.7em]"
     >
       <div
-        class="size-full bg-current transition-all"
+        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-2.5 w-[1.6em] h-[1.6em] bg-current transition-all"
         :style="{
            mask: `url(${resolvedIcon}) no-repeat center / contain`,
            '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`,

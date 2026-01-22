@@ -1,12 +1,1 @@
-<svg width="200.00000000000003" height="100.00000000000001" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <mask id="cutout">
-   <rect id="svg_1" fill="white" height="100%" width="100%"/>
-   <text id="svg_2" fill="black" font-size="65" font-weight="bold" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" y="55%" x="50%">NOTE</text>
-  </mask>
- </defs>
- <g>
-  <title>Layer 1</title>
-  <rect id="svg_3" mask="url(#cutout)" fill="#000000" ry="20" rx="20" height="100" width="200"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><!-- Icon from Majesticons by Gerrit Halfmann - https://github.com/halfmage/majesticons/blob/main/LICENSE --><path fill="currentColor" fill-rule="evenodd" d="M5 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h9v-5a3 3 0 0 1 3-3h5V5a3 3 0 0 0-3-3zm12.293 19.121a3 3 0 0 1-1.293.762V17a1 1 0 0 1 1-1h4.883a3 3 0 0 1-.762 1.293zM7 6a1 1 0 0 0 0 2h10a1 1 0 1 0 0-2zm0 4a1 1 0 1 0 0 2h10a1 1 0 1 0 0-2zm0 4a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2z" clip-rule="evenodd"/></svg>
