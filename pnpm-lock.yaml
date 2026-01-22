@@ -75,9 +75,6 @@ importers:
       '@cloudflare/workers-types':
         specifier: ^4.20251202.0
         version: 4.20251202.0
-      '@docsearch/css':
-        specifier: ^4.5.3
-        version: 4.5.3
       '@ianvs/prettier-plugin-sort-imports':
         specifier: ^4.7.0
         version: 4.7.0(@vue/compiler-sfc@3.5.27)(prettier@3.7.4)
@@ -812,9 +809,6 @@ packages:
 
   '@docsearch/css@3.8.2':
     resolution: {integrity: sha512-y05ayQFyUmCXze79+56v/4HpycYF3uFqB78pLPrSV5ZKAlDuIAAJNhaRi8tTdRNXh05yxX/TyNnzD6LwSM89vQ==}
-
-  '@docsearch/css@4.5.3':
-    resolution: {integrity: sha512-kUpHaxn0AgI3LQfyzTYkNUuaFY4uEz/Ym9/N/FvyDE+PzSgZsCyDH9jE49B6N6f1eLCm9Yp64J9wENd6vypdxA==}
 
   '@docsearch/js@3.8.2':
     resolution: {integrity: sha512-Q5wY66qHn0SwA7Taa0aDbHiJvaFJLOJyHmooQ7y8hlwwQLQ/5WwCcoX0g7ii04Qi2DJlHsd0XXzJ8Ypw9+9YmQ==}
@@ -5733,8 +5727,6 @@ snapshots:
       '@jridgewell/trace-mapping': 0.3.9
 
   '@docsearch/css@3.8.2': {}
-
-  '@docsearch/css@4.5.3': {}
 
   '@docsearch/js@3.8.2(@algolia/client-search@5.46.0)':
     dependencies:
