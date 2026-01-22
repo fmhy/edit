@@ -680,7 +680,7 @@
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
 * [VAPOR](https://vapor.my/) - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/BHwm9rrK55)
-* [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/)  - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/D4c9VFYWyU)
+* [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports / Unblocked 
 * [Selenite](https://selenite.cc/), [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / Unblocked / [Discord](https://discord.gg/7jyufnwJNf)
 * [Poki](https://poki.com/) - Browser Games
