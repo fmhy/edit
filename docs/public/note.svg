@@ -1,0 +1,12 @@
+<svg width="200.00000000000003" height="100.00000000000001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <mask id="cutout">
+   <rect id="svg_1" fill="white" height="100%" width="100%"/>
+   <text id="svg_2" fill="black" font-size="65" font-weight="bold" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" y="55%" x="50%">NOTE</text>
+  </mask>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" mask="url(#cutout)" fill="#000000" ry="20" rx="20" height="100" width="200"/>
+ </g>
+</svg>
