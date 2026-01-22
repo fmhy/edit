@@ -11,7 +11,7 @@ const resolvedIcon = computed(() => withBase(props.icon))
 </script>
 
 <template>
-  <VDropdown :triggers="['click', 'touch']" :auto-hide="true" :distance="15" placement="auto">
+  <VDropdown :triggers="['click']" :auto-hide="true" :distance="15" placement="auto">
     <button
       aria-label="Tooltip"
       class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[1.7em]"
