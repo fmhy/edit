@@ -1,4 +1,4 @@
-#### Ranks 1337x
+#### 1337x Ranks
 
 * ⬛ Black - Admin
 * 🟩 Green - Moderator
