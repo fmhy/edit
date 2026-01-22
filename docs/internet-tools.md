@@ -710,6 +710,7 @@
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
 * [Edge Stats](https://edge-stats.com/) - Compare / Analyze Edge Extensions
 
+
 ***
 
 ## ▷ Firefox Extensions
@@ -776,6 +777,8 @@
 * [Resizing](https://resizing.app/) - Resize Images
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
+* [Extension Manager](https://chromewebstore.google.com/detail/jafcieombbedhpdkjlhcggagepcgaihp) - Enable/disable all Chrome extensions with one click
+* [HLS Player](https://chromewebstore.google.com/detail/lljjhhjbbppcbfbhmflgjhloagchmijo) - Play HLS Streams directly on your browser
 
 ***
 
