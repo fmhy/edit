@@ -12,6 +12,7 @@ import {
   meta,
   nav,
   search,
+  algolia,
   sidebar,
   socialLinks
 } from './constants'
@@ -105,6 +106,12 @@ export default defineConfig({
           replacement: fileURLToPath(
             new URL('./theme/components/VPLocalSearchBox.vue', import.meta.url)
           )
+        },
+        {
+          find: /^.*VPNavBarSearch\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPNavBarSearch.vue', import.meta.url)
+          )
         }
       ]
     },
@@ -130,6 +137,7 @@ export default defineConfig({
       VitePWA({
         registerType: 'autoUpdate',
         workbox: {
+          maximumFileSizeToCacheInBytes: 4000000,
           globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
           runtimeCaching: [
             {
@@ -214,6 +222,7 @@ export default defineConfig({
   },
   themeConfig: {
     search,
+    algolia,
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
       copyright:

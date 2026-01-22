@@ -66,11 +66,11 @@ export const search: DefaultTheme.Config['search'] = {
     _render(src, env, md) {
       // Check if current file should be excluded from search
       const relativePath = env.relativePath || env.path || ''
-      const shouldExclude = excluded.some(excludedFile => 
-        relativePath.includes(excludedFile) || 
+      const shouldExclude = excluded.some(excludedFile =>
+        relativePath.includes(excludedFile) ||
         relativePath.endsWith(excludedFile)
       )
-      
+
       // Return empty content for excluded files so they don't appear in search
       if (shouldExclude) {
         return ''
@@ -82,7 +82,15 @@ export const search: DefaultTheme.Config['search'] = {
         contents = transformGuide(contents)
       contents = transform(contents)
       const html = md.render(contents, env)
-      return html
+
+      // Append the URL to the indexed text content so search works on links too.
+      return html.replace(/<a[^>]+href="([^"]+)"[^>]*>/g, (match, href) => {
+        try {
+          return match + ' ' + decodeURI(href) + ' '
+        } catch {
+          return match + ' ' + href + ' '
+        }
+      })
     },
     miniSearch: {
       options: {
@@ -146,6 +154,15 @@ export const search: DefaultTheme.Config['search'] = {
     detailedView: true
   },
   provider: 'local'
+}
+
+export const algolia: DefaultTheme.Config['algolia'] = {
+  appId: 'R21YQW149I',
+  apiKey: 'b573aa609857d05f2327598413f9566',
+  indexName: 'fmhy',
+  searchParameters: {
+    facetFilters: ['lang:en-US']
+  }
 }
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
@@ -319,9 +336,9 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       meta.build.nsfw
         ? {
-            text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-            link: 'https://rentry.org/NSFW-Checkpoint'
-          }
+          text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
+          link: 'https://rentry.org/NSFW-Checkpoint'
+        }
         : {},
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',

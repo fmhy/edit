@@ -72,6 +72,7 @@ const { localeIndex, theme } = vitePressData
 
 // Fuzzy search toggle state (default: false = exact search)
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+const isUrlSearch = useLocalStorage('vitepress:local-search-url', true)
 
 const searchIndex = computedAsync(async () =>
   markRaw(
@@ -151,8 +152,8 @@ const mark = computedAsync(async () => {
 const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
 
 debouncedWatch(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value, isUrlSearch.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue, urlSearchValue], old, onCleanup) => {
     if (old?.[0] !== index) {
       // in case of hmr
       cache.clear()
@@ -166,9 +167,12 @@ debouncedWatch(
     if (!index) return
 
     // Search with dynamic fuzzy option
+    // Prefix matching is always enabled to allow partial word matches (e.g. "Spot" -> "Spotify").
     const searchOptions = {
-      fuzzy: isFuzzySearch.value ? 0.2 : false
+      fuzzy: isFuzzySearch.value ? 0.2 : false,
+      prefix: true
     }
+
     results.value = index
       .search(filterTextValue, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
@@ -246,10 +250,40 @@ debouncedWatch(
     })
 
     const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
+    const lowerCaseFilterText = filterTextValue.trim().toLowerCase()
+
     for (const excerpt of excerpts) {
-      excerpt
-        .querySelector('mark[data-markjs="true"]')
-        ?.scrollIntoView({ block: 'center' })
+      const anchors = excerpt.querySelectorAll('a')
+      for (const anchor of anchors) {
+        const href = anchor.getAttribute('href')
+        // URL Highlighting Logic
+        // We use the raw search query (lowerCaseFilterText) to check for matches in the link's href.
+        // Highlight hyperlinks that contain the entire search term in their href
+        if (
+          urlSearchValue &&
+          href &&
+          lowerCaseFilterText.length > 0 &&
+          href.toLowerCase().includes(lowerCaseFilterText)
+        ) {
+          anchor.classList.add('search-match-url')
+          
+          // Add priority class for precise scrolling if the query is specific enough (> 2 chars).
+          // This prioritizes showing the exact link match over a generic page match at the top.
+          if (lowerCaseFilterText.length > 2) {
+             anchor.classList.add('search-match-url-priority')
+          }
+        }
+      }
+
+      // Scroll to the first match, prioritizing exact URL matches
+      const priorityMatch = excerpt.querySelector('.search-match-url-priority')
+      if (priorityMatch) {
+        priorityMatch.scrollIntoView({ block: 'center' })
+      } else {
+        excerpt
+          .querySelector('mark[data-markjs="true"], .search-match-url')
+          ?.scrollIntoView({ block: 'center' })
+      }
     }
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
@@ -285,7 +319,8 @@ onMounted(() => {
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') {
-    focusSearchInput()
+    // Disable auto-select on click so user can edit query easily without clearing it
+    focusSearchInput(false)
   }
 }
 
@@ -406,6 +441,10 @@ function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
 
+function toggleUrlSearch() {
+  isUrlSearch.value = !isUrlSearch.value
+}
+
 function formMarkRegex(terms: Set<string>) {
   return new RegExp(
     [...terms]
@@ -503,6 +542,16 @@ function onMouseMove(e: MouseEvent) {
             >
               <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
               <span v-else class="exact-icon">=</span>
+            </button>
+
+            <button
+              class="toggle-url-search-button"
+              type="button"
+              :class="{ 'url-search-active': isUrlSearch }"
+              :title="isUrlSearch ? 'Disable URL Search' : 'Enable URL Search'"
+              @click="toggleUrlSearch"
+            >
+              <span class="url-icon">🔗</span>
             </button>
 
             <button
@@ -753,6 +802,27 @@ function onMouseMove(e: MouseEvent) {
   background: var(--vp-c-bg-soft);
 }
 
+.toggle-url-search-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-url-search-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-search-button.url-search-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
 .search-keyboard-shortcuts {
   font-size: 0.8rem;
   opacity: 75%;
@@ -875,7 +945,9 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .titles :deep(mark),
-.excerpt :deep(mark) {
+.excerpt :deep(mark),
+.excerpt :deep(.search-match-url),
+.excerpt :deep(.search-match-url-priority) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
