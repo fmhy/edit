@@ -471,7 +471,7 @@
 * [InviZible](https://github.com/Gedsh/InviZible) - Tor, DNSCrypt, And Purple I2P Hybrid VPN 
 * [Intra](https://getintra.org) - Encrypted DNS App
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
-* [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / No Requires Root / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-lock) 
+* [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / Works Without Root / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#app-lock) 
 * [Orbot](https://orbot.app/en/), [2](https://guardianproject.info/apps/org.torproject.android/) - Tor Proxy Apps
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager

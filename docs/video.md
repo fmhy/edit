@@ -101,7 +101,7 @@
 ***
 
 * ⭐ **[VoidFlix](https://voidflix.pages.dev/)** or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
-* ⭐ **[AuroraScreen](https://www.aurorascreen.org/)** - Movies / TV / Anime / Chromium-Required / [Discord](https://discord.com/invite/kPUWwAQCzk)
+* ⭐ **[AuroraScreen](https://www.aurorascreen.org/)** - Movies / TV / Anime / Requires Chromium / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * ⭐ **[TMovie](https://tmovie.tv/)**, [2](https://tmovie.cc) - Movies / TV / Anime / [Discord](https://discord.com/invite/R7a6yWMmfK)
 * [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - Movies / TV / Anime / [Status](https://cinemadeck.com/official-domains) / [Discord](https://discord.com/invite/tkGPsX5NTT)
 * [Redflix](https://redflix.co/), [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)

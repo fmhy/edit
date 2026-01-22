@@ -660,7 +660,7 @@
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher / [Discord](https://discord.com/invite/S4cSFjq)
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / [Discord](https://discord.com/invite/W5XVwYY7GQ)
-* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / VPN May Be Required to View Site
+* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / May Require VPN to View Site
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mc_launchers_account_req) - Launchers that Require Official Account
 

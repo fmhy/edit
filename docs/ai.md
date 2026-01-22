@@ -345,7 +345,7 @@
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Requires Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators), [⁠ZonerAI](https://zonerai.com/) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
-* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required / US Select CA
+* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Requires Sign-Up with Phone / US Select CA
 * [AIImagetoImage](https://aiimagetoimage.io/) or [⁠Image-Editor](https://image-editor.org/) - Nano Banana / Editing / No Sign-Up
 * [imgsys](https://imgsys.org/) - Compare Generators / Unlimited / No Direct Mode
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)
