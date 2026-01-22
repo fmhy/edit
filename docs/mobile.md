@@ -14,13 +14,13 @@
 * ⭐ **[PlatinMods](https://platinmods.com/)** / Sign-Up Required
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
 * ⭐ **[AN1](https://an1.com/)** / [Telegram](https://t.me/android1com)
+* [APKVision](https://apkvision.org/) / [Telegram](https://t.me/apkvision)
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md) / [Telegram](https://t.me/liteapks)
 * [Modyolo](https://modyolo.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md) / [Telegram](https://t.me/modyolo_official)
 * [Nsane Forums](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/) / [Subreddit](https://www.reddit.com/r/SbennyOfficial/)
 * [farsroid](https://www.farsroid.com/) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/farsroid_official)
 * [APKSum](https://www.apksum.com/)
-* [APKVision](https://apkvision.org/) / [Telegram](https://t.me/apkvision)
 * [⁠Android Zone](https://android-zone.ws/)
 * [AndroidRepublic](https://androidrepublic.org/)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) / [Telegram](https://t.me/androeed_store)
@@ -528,7 +528,7 @@
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Firefox-Based / Extensions
 * [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Firefox-Based / Extensions / [GitLab](https://gitlab.com/relan/fennecbuild)
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
-* [Eruda](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eruda.md) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
+* [Eruda](https://github.com/liriliri/eruda) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eruda.md)
 * [Hermit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
 
 ***
@@ -1153,7 +1153,7 @@
 
 * ⭐ **[Sideloading Guide](https://rentry.co/sideloadingguide)**, [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) or [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Sideloading Guides
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Limit Bypass Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md) / [Guide](https://docs.sidestore.io/docs/advanced/)
+* ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Guide](https://docs.sidestore.io/docs/advanced/) / [Limit Bypass Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
 * ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [AltStore Classic](https://altstore.io/) - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)

@@ -19,7 +19,7 @@
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2 / Sign-Up Required / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2 (Thinking) / Slides / Sign-Up Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md) / [Discord](https://discord.com/invite/go-copilot)
-* [ChatGPT](https://chatgpt.com/) - GPT-5.2 / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
+* [ChatGPT](https://chatgpt.com/) - GPT-5.2 / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md) / / [Discord](https://discord.com/invite/openai)
 * [Qwen](https://chat.qwen.ai/) - Qwen3-Max / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Claude](https://claude.ai/) - Claude 4.5 Sonnet / Google Login Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE 5.0 Preview 1220 / x1 Demo / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo)
@@ -299,13 +299,13 @@
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - 30 Daily / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Sora 2 / Grok / Google Login Required / [Discord](https://discord.gg/vJnYe86T8F)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
-* [Sora](https://openai.com/index/sora/) - 6 Daily / [Signup Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sora.md) / [Remove Watermarks](https://unmarkit.app/sora)
+* [Sora](https://openai.com/index/sora/) - 6 Daily / [Remove Watermarks](https://unmarkit.app/sora) / [Signup Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sora.md)
 * [Wan AI](https://wan.video/) / Wan Ai / Wan 2.6 / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [⁠Vheer](https://vheer.com/) - Unlimited / No Sign-Up
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up Required
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up Required
-* [LMArena](https://lmarena.ai/?mode=direct) - 3 Daily / Sign-Up Required / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [LMArena](https://lmarena.ai/?mode=direct) - 3 Daily / Sign-Up Required / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠Klipy](https://klipy.com/) - Klipy / Veo 3 / GIFs / Unlimited / Sign-Up Required 
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 2 (10 Monthly) / Veo 3.1 (5 Monthly)
@@ -314,7 +314,6 @@
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / Use Alt Account
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
 * [Vivago](https://vivago.ai/) - 1 Daily
-* [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / NVIDIA GPU Required
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 

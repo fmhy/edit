@@ -31,7 +31,7 @@
 * 🌐 **[HiFi Tidal Instances](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Manager / Deleter](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics)
-* ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome-back.pages.dev/), [3](https://monochrome.tf/) - HiFi Tidal Instance / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
+* ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome.tf/), [3](https://monochrome.prigoana.com/), [4](https://monochrome-back.pages.dev/) - HiFi Tidal Instance / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
@@ -361,7 +361,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
-* ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome-back.pages.dev/), [3](https://monochrome.tf/) - FLAC / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
+* ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome.tf/), [3](https://monochrome.prigoana.com/), [4](https://monochrome-back.pages.dev/) - FLAC / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
@@ -817,7 +817,7 @@
 
 ## ▷ Song Identification
 
-* ⭐ **[Google Song Identification](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)** / Android, iOS
+* ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088) ** / Android, iOS / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)
 * ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
