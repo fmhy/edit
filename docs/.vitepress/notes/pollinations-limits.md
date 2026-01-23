@@ -15,6 +15,3 @@ If you're hitting limits on the chat site:
 1. Slow down slightly (wait 3-5s between messages).
 2. **Log in** at [enter.pollinations.ai](https://enter.pollinations.ai) to use your daily free credits.
 3. If you need massive throughput, use an API key (`sk_`) with purchased credits.
-
-To use this site for image generation, scroll down to "Image Feed" and change it to  "Try" from "Watch". Available models are flux (schnell), turbo (SDXL Turbo), and gptimage. For gptimage, allowed resolutions are 1024x1024, 1536x1024 (landscape), and 1024x1536 (portrait). Change the seed to a random number for different output. The "Write the 'Imagine' word only" button is the submit button. Pretty sure its unlimited for all models, at least through UI.
-

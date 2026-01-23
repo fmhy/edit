@@ -78,6 +78,7 @@
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
 * [MiConv](https://miconv.com/) - File Converter / 75MB
+* [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
 
 ***
 
@@ -392,6 +393,7 @@
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
+* ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
 * ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
 * ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$10 for 3TB / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
