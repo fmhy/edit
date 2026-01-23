@@ -141,9 +141,9 @@
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/) - Web App
-* [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up
-* [Outwrite](https://www.outwrite.com/) -  - Web App / Requires Sign-Up
+* [EditGPT](https://www.editgpt.app/) - Web App / Sign-Up Required
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Sign-Up Required
+* [Outwrite](https://www.outwrite.com/) - Web App / Sign-Up Required
 
 ***
 
@@ -246,7 +246,7 @@
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
-* [BookStack](https://www.bookstackapp.com/) / [Github](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
+* [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 
 ***
 

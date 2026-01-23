@@ -221,8 +221,12 @@
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
-* [Advanced Logic Calculators](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#advanced-logic-calculators)
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
+* [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
+* [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
+* [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
+* [ModalLogic](https://rkirsling.github.io/modallogic/) - Model Logic Playground
+* [Logitext](http://logitext.mit.edu/tutorial) - Sequent Calculus Tutorial
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
@@ -328,8 +332,8 @@
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
-* [Ekvis](https://ekvis.com/) / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
@@ -364,7 +368,6 @@
 * [Flag Guesser](https://flagguesser.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes
 * [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
-* [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 
 ***
 
@@ -733,7 +736,7 @@
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [⁠Spaceflight Archive](https://spaceflight-archive.com/) - Rocket Launch History / Visualizations / Stats / [X](https://x.com/S_F_Archive)
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
-* [⁠Ringwatchers](https://ringwatchers.com/) - Starship Diagrams / Articles / Community  / [X](https://x.com/ringwatchers) / [Discord](https://discord.com/invite/ringwatchers)
+* [⁠Ringwatchers](https://ringwatchers.com/) - Starship Diagrams / Articles / Community / [X](https://x.com/ringwatchers) / [Discord](https://discord.com/invite/ringwatchers)
 * [Sen](https://www.sen.com/) - ISS Live Feed + Video Archive / [YouTube](https://www.youtube.com/@Sen) / [X](https://x.com/sen)
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
@@ -785,11 +788,11 @@
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
-* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)  
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Wasona](https://wasona.com/) - Toki Pona Learning Site / Minimal Language / [Info](https://en.wikipedia.org/wiki/Toki_Pona#Purpose)
-* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#m%C4%81ori-note)
+* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mori-note.md)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
 ***
@@ -818,7 +821,7 @@
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [EFSET](https://www.efset.org/) - English Proficiency Test
 * [Spellcheck](https://spellcheck.xyz) - English Spelling Game
-* [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [⁠Learn English](https://learnenglishteens.britishcouncil.org/ ) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
+* [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [⁠Learn English](https://learnenglishteens.britishcouncil.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
 * [EnglishCentral](https://www.englishcentral.com/), [EngVid](https://www.engvid.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
 * [Frenglish](https://frenglish.ru/) or [English E-Reader](https://english-e-reader.net/) - English Learning Books
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
@@ -1375,7 +1378,7 @@
 * ⭐ **[OnePrep](https://oneprep.xyz/)** - SAT Practice Exams / Questions
 * [SAT Slayer](https://www.satslayer.org/), [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
-* [⁠Sat DB](https://www.satdbfor.me/) -  SAT Practice Exams / Questions / Requires Sign-Up 
+* [⁠Sat DB](https://www.satdbfor.me/) - SAT Practice Exams / Questions / Sign-Up Required 
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
@@ -1387,7 +1390,7 @@
 ## ▷ JEE / NEET
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)** -  JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)** - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs

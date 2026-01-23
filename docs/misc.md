@@ -181,7 +181,7 @@
 
 * ⭐ **[/coffee/](https://dan.valeena.dev/guides/coffee-guide/)**, [2](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
-* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
+* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
 * [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
@@ -265,6 +265,7 @@
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
+* [⁠IMAX Guide](https://143190.xyz/) - Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)
 * [FindFright](https://frightfind.com/) - Spooky Attractions / Walkthroughs
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
@@ -337,7 +338,7 @@
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
-* [DeFlock](https://deflock.me/) - AI Automated License Plate Reader Cameras / ALPR Map / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock)
+* [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.me/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
@@ -692,6 +693,7 @@
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
 * [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
+* [ORAC Values](https://superfoodly.com/orac-values/) - ORAC Value Database / Information
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 
 ***
@@ -875,6 +877,7 @@
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launching Platforms](https://github.com/DirectorySurf/awesome-launch-platforms), [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
+* [⁠Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization/) - Monetization Approaches for OSS Projects
 * [NewIdeas](https://indieideas.io/) - Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
@@ -900,7 +903,7 @@
 * [Mural](https://www.mural.co/) - Project Manager
 * [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
 * [Nino](https://nino.app/) - Task Manager
-* [Trello](https://trello.com/), [WeKan](https:/wekan.fi), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
+* [Trello](https://trello.com/), [WeKan](https://github.com/wekan/wekan), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
 * [Airtable](https://www.airtable.com/) - Spreadsheet-Database Hybrid for Team Workflows
 
 ***
@@ -1136,7 +1139,7 @@
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/), [FamilySearch](https://www.familysearch.org/) or [WikiTree](https://wikitree.com/) - Find Family Trees
-* [FamilyEcho](https://www.familyecho.com/) - Create Custom Family Tree
+* [⁠Family Chart](https://github.com/donatso/family-chart) or [FamilyEcho](https://www.familyecho.com/) - Create Custom Family Tree
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
@@ -1163,6 +1166,7 @@
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [Disroot](https://disroot.org/en/#services) - Text / Social Media
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
+* [delphitools](https://tools.rmv.fyi//) - Social Media / Text / Image
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
 * [uFreeTools](https://www.ufreetools.com/en/) - Text / Code
@@ -1206,7 +1210,7 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#forest-extensions) - Site Blocking Extensions
+* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
 * [Time Tracker](https://www.wfhg.cc/) - Browser Time Tracking Extension / [GitHub](https://github.com/sheepzh/time-tracker-4-browser)
 * [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
@@ -1328,7 +1332,7 @@
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
-* [Synaptic Spiral](https://synapticspiral.nz/) - Fractal Visualizer / Creator
+* [Synaptic Spiral](https://synapticspiral.nz/) or [Mandelbrot Explorer](https://math.hws.edu/eck/js/mandelbrot/MB.html) / [WebGPU](https://math.hws.edu/eck/js/mandelbrot/MBgpu.html) - Fractal Visualizers / Creators
 * [Inspirograph](https://inspiral-web.nathanfriend.com/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
@@ -1591,6 +1595,7 @@
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* [OpenChaos.dev](https://www.openchaos.dev/) - Evolving Open-Source Project Governed by Community Votes / [GitHub](https://github.com/skridlevsky/openchaos)
 * [Grant Kot](https://grantkot.com/) - Toys / Games
 * [Oimo](https://oimo.io/works) - Toys / Games
 * [AIDN](https://aidn.jp/) - Toys / Games

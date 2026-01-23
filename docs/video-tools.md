@@ -14,6 +14,7 @@
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
+* [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Easily Change Default MKV Subtitle / Audio Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
 * [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
@@ -128,7 +129,7 @@
 * [ffmpeg-web](https://ffmpeg-web.netlify.app/) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) - FFmpeg Web App / [GitHub](https://github.com/Dinoosauro/ffmpeg-web)
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
 * [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Languages
-* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
+* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
 * [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
@@ -307,7 +308,7 @@
 ## ▷ Plex Tools
 
 * [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tautulli-note)
+* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
@@ -359,7 +360,7 @@
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://toolbrew.org/), [2](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/), [2](https://cobalt.directory/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
-* ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#video-downloadhelper), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [⁠XT Fetch](https://xt-fetch.vercel.app/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online

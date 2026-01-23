@@ -396,7 +396,7 @@
 * [xTrance](https://xtrance.info/) - Books / Download / Requires Sign-Up
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
-* [eknihovna](https://eknihovna.maxzone.eu/index.html ) - Books
+* [eknihovna](https://eknihovna.maxzone.eu/index.html) - Books
 * [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
 
@@ -761,7 +761,7 @@
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
-* [tamilbulb](https://tamilbulb.world/) -  Tamil Movie / TV
+* [tamilbulb](https://tamilbulb.world/) - Tamil Movie / TV
 * [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 720p / 1080p
 * [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
@@ -962,7 +962,7 @@
 * [rawfree](https://rawfree.to/) - Manga
 * [rawkuma](https://rawkuma.net/) - Manga
 * [raw1001](https://raw1001.net/) - Manga
-* [gomuraw](https://gomuraw.com/) -  Manga / Some NSFW
+* [gomuraw](https://gomuraw.com/) - Manga / Some NSFW
 * [mangakoma01](https://mangakoma01.net/) - Manga
 * [mangakoma](https://mangakoma.net/) - Manga
 * [rawfree](https://rawfree.me/) - Manga
@@ -1035,7 +1035,6 @@
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [soft98](https://soft98.ir/) - Courses / Software / Games / [Anti-Adblock Fix](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#soft98-note) / PW: `soft98.ir`
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1226,7 +1225,6 @@
 * [Hunter.FM](https://hunter.fm) - Radio
 * [M80 Rádio](https://m80.pt) - Radio
 * [TSF](https://www.tsf.pt) - Radio
-* [MEGA HITS](https://megahits.sapo.pt) - Radio
 * [Radio.pt](https://www.radio.pt) - Radio
 * [Rádios7](http://www.radios7.com) - Radio
 * [Antena 1](https://www.antena1.com.br) - Radio
@@ -1309,7 +1307,6 @@
 * [ClickSud](https://clicksud.co/) - Movies / TV / Sub / 720p
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [luminsangelsseriale](https://luminsangelsseriale.com/) - Movies / TV
-* [FilmeHD](https://filmehd.se/) - Movies
 * [DozaAnimată](https://www.dozaanimata.net/) - Anime / Cartoons / Sub / Dub / 720p
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles
@@ -1336,14 +1333,14 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#captcha-4pda)
+* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) / Android
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
@@ -1501,7 +1498,7 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
-* [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/ ) - User Videos
+* [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting
 
@@ -1791,7 +1788,7 @@
 
 # ► Ukrainian / Українська
 
-* [⁠NoWar.help](https://www.nowar.help/) -  War Resources / Help
+* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 
 ## ▷ Torrenting
 

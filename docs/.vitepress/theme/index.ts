@@ -21,19 +21,22 @@ import { loadProgress } from './composables/nprogress'
 import { useThemeHandler } from './themes/themeHandler'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
-
 import './style.scss'
 import 'virtual:uno.css'
-
 import Feedback from './components/Feedback.vue'
+import FloatingVue from 'floating-vue'
+import 'floating-vue/dist/style.css'
+import Tooltip from './components/Tooltip.vue'
 
 export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ router, app }) {
+    app.use(FloatingVue)
     app.use(Components)
     app.component('Post', Post)
     app.component('Feedback', Feedback)
+    app.component('Tooltip', Tooltip)
     loadProgress(router)
     // Initialize theme handler
     useThemeHandler()

@@ -32,6 +32,8 @@ import { escapeRegExp } from 'vitepress/dist/client/shared'
 import { useData } from 'vitepress/dist/client/theme-default/composables/data'
 import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
+import Tooltip from './Tooltip.vue'
+import FloatingVue from 'floating-vue'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -186,6 +188,8 @@ debouncedWatch(
       const comp = mod.default ?? mod
       if (comp?.render || comp?.setup) {
         const app = createApp(comp)
+        app.use(FloatingVue)
+        app.component('Tooltip', Tooltip)
         // Silence warnings about missing components
         app.config.warnHandler = () => {}
         app.provide(dataSymbol, vitePressData)
