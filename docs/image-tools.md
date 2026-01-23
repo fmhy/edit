@@ -514,8 +514,8 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
-* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
+* [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
 * [STLFinder](https://www.stlfinder.com/) - Multi-Site Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Requires Sign-Up
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models

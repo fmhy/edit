@@ -141,9 +141,9 @@
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/) - Web App
-* [EditGPT](https://www.editgpt.app/) - Web App / Sign-Up Required
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Sign-Up Required
-* [Outwrite](https://www.outwrite.com/) - Web App / Sign-Up Required
+* [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up
+* [Outwrite](https://www.outwrite.com/) - Web App / Requires Sign-Up
 
 ***
 

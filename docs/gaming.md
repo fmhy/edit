@@ -112,7 +112,7 @@
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - VR Games / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
-* [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Sign-Up Required / [Discord](https://discord.gg/wfJs3eJvHa)
+* [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Requires Sign-Up / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
 * [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
@@ -363,7 +363,7 @@
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.gg/rgttByzYRY)
 * [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
-* [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Sign-Up Required
+* [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [SwitchROM](https://switchroms.io/) - ROMs / Switch
@@ -417,7 +417,7 @@
 * ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console / [Supported Systems](https://emulatorjs.org/docs/systems) / [Discord](https://discord.gg/6akryGkETU) / [GitHub](https://github.com/EmulatorJS/EmulatorJS)
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Multi-Console / [Discord](https://discord.gg/dTCnM2r5e5)
 * [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console / [Discord](https://discord.gg/PtgKse35q7)
-* [rom.so](https://rom.so/) - Multi-Console / Sign-Up Required
+* [rom.so](https://rom.so/) - Multi-Console / Requires Sign-Up
 * [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro Consoles / Archive.org
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
@@ -558,7 +558,7 @@
 * [FreeBoardGames](https://www.freeboardgames.org/) - Online Board Games / [Discord](https://discord.gg/AaE6n3n) / [GitHub](https://github.com/freeboardgames/FreeBoardGames.org)
 * [FunNode](https://www.funnode.com/) - Online Board Games
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
-* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Sign-Up Required
+* [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Requires Sign-Up
 * [MahjongFun](https://www.mahjongfun.com/), [Mahjong 4 Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
 * [lishogi.org](https://lishogi.org/) - Shogi / [Discord](https://discord.gg/YFtpMGg3rR)
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO
@@ -659,15 +659,15 @@
 * [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Sign-Up Required
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / Sign-Up Required / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
+* [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Requires Sign-Up
+* [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
-* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Sign-Up Required
-* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Sign-Up Required
+* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
+* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Requires Sign-Up
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
 
 ***
@@ -966,7 +966,7 @@
 
 * 🌐 **[GGHY](https://gghy.net/)** - GeoGuessr Resources
 * ⭐ **[Plonk It](https://www.plonkit.net/)** / [Discord](https://discord.gg/plonk-it-854419081813164042), **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd), [⁠GeoMetas](https://www.geometas.com/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
-* ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Sign-Up Required
+* ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Requires Sign-Up
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
 * [LearnableMeta](https://learnablemeta.com/) / [Discord](https://discord.gg/AcXEWznYZe) or [helloquiz](https://helloquiz.app/) / [Discord](https://discord.gg/td7bN9HKhX) - Geoguessr Practice Maps
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
@@ -983,7 +983,7 @@
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuessr](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
-* [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr / Sign-Up Required
+* [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr / Requires Sign-Up
 * [Artifact Guesser](https://artifactguesser.com/) or [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
