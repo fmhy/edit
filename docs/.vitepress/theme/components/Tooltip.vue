@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { withBase } from 'vitepress'
 import { computed } from 'vue'
+import { useMediaQuery } from '@vueuse/core'
 
 const props = withDefaults(
   defineProps<{ title?: string; icon?: string }>(),
@@ -8,16 +9,19 @@ const props = withDefaults(
 )
 
 const resolvedIcon = computed(() => withBase(props.icon))
+
+const isHoverable = useMediaQuery('(hover: hover)')
+const triggers = computed(() => isHoverable.value ? ['hover'] : ['click'])
 </script>
 
 <template>
-  <VDropdown :triggers="['click']" :auto-hide="true" :distance="15" placement="auto">
+  <VDropdown :triggers="triggers" :popper-triggers="triggers" :delay="{ show: 50, hide: 50 }" :auto-hide="true" :distance="15" placement="auto">
     <button
       aria-label="Tooltip"
-      class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[1.7em]"
+      class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.2em] w-[1.5em]"
     >
       <div
-        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-2.5 w-[1.6em] h-[1.6em] bg-current transition-all"
+        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1.2 w-[1.3em] h-[1.3em] bg-current transition-all"
         :style="{
            mask: `url(${resolvedIcon}) no-repeat center / contain`,
            '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`,
