@@ -310,7 +310,7 @@
 * [LMArena](https://lmarena.ai/?mode=direct) - 3 Daily / Sign-Up Required /  Random Models / Reset Limits w/ Cookie Delete or Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [LMArena (Discord)](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark
 * [⁠Klipy](https://klipy.com/) - Klipy / Veo 3 / GIFs / Unlimited / Sign-Up Required 
-* [ModelScope Video](https://modelscope.ai/civision/videoGeneration) -  Wan 2.2 14B / 3 Daily
+* [ModelScope Video](https://modelscope.ai/civision/videoGeneration) -  Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 2 (10 Monthly) / Veo 3.1 (5 Monthly)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily
@@ -347,7 +347,7 @@
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / No Sign-Up / Seedream 3 / GPT Image 1 / 10 Daily / Sign-Up Required / [Discord](https://discord.gg/v6KzUbPeKh)
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up Required
 * [⁠Vheer](https://vheer.com/) - Unlimited / Flux Kontext Dev / Flux Schnell
-* [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit (50 Daily) / Z-Image Turbo (100 Daily)
+* [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit (50 Daily) / Z-Image Turbo (100 Daily) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Pollinations Play](https://pollinations.ai/play) or [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) - Z-Image Turbo
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
