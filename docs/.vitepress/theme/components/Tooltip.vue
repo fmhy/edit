@@ -15,7 +15,7 @@ const triggers = computed(() => isHoverable.value ? ['hover'] : ['click'])
 </script>
 
 <template>
-  <VDropdown :triggers="triggers" :auto-hide="true" :distance="15" placement="auto">
+  <VDropdown :triggers="triggers" :popper-triggers="triggers" :delay="{ show: 50, hide: 50 }" :auto-hide="true" :distance="15" placement="auto">
     <button
       aria-label="Tooltip"
       class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.2em] w-[1.5em]"
