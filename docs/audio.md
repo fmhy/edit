@@ -289,7 +289,7 @@
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
-* [Flow-fi](https://www.flowfi.app/) - Lofi Radio
+* [Flow-Fi](https://www.flowfi.app/) - Lofi Radio
 * [Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
 * [FlowTunes](https://www.flowtunes.app/) - Lofi + Focus Radio / Ambient Sounds
 * [Lofizen](https://www.lofizen.co/) - Lofi Radio / Ambient Sounds

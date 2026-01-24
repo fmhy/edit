@@ -675,11 +675,11 @@
 ## ▷ Multi-Game Sites
 
 * ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
-* ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
+* ⭐ **[Poki](https://poki.com/)** - Browser Game Aggregator
+* ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator / [Discord](https://discord.com/invite/crazygames)
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
-* [Poki](https://poki.com/) - Browser Game Aggregator
 * [Kongregate](https://www.kongregate.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
@@ -742,7 +742,7 @@
 * [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports 
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games
-* [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked
+* [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
 
