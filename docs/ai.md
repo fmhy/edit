@@ -41,19 +41,19 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Claude 4.5 Opus / Multiple Models / No Sign-Up / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Yupp.ai](https://yupp.ai/) - Google Login / Multiple Models / [Discord](https://discord.com/invite/yuppai)
-* [Pollinations](https://chat.pollinations.ai/) - Gemini 3 Pro / Claude 4.5 Opus / GPT 5.2 / No Sign-Up / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pollinations-limits.md)
-* [⁠ISH](https://ish.chat/) - GPT-5 / Grok 4.1 / Kimi K2 / Multiple Models / No Sign-Up / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct)** - Multiple Models / No Sign-Up / Reset Limits w/ Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login / [Discord](https://discord.com/invite/yuppai)
+* [Pollinations](https://chat.pollinations.ai/) - Gemini 3 Pro / Claude 4.5 Opus / GPT 5.2 / No Sign-Up / [Limits]([https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pollinations-limits.md](https://chat.pollinations.ai/))
+* [⁠ISH](https://ish.chat/) - GPT-5 / Gemini 2.5 Pro / Claude Opus 4.1 / No Sign-Up / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Mistral Large 3 / Kimi K2 / Multiple Models / No Sign-Up
-* [Khoj](https://app.khoj.dev/) - Grok 4.1 Fast (non-reasoning) / Deepseek V3.2 / Gemini 3 Flash / Reset Limits w/ Temp Mail
-* [Cerebras Chat](https://chat.cerebras.ai/) - GLM 4.7 / Multiple Models / Sign-Up Required
+* [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / DeepSeek V3.2 / Grok 4.1 Fast (non-reasoning) / Reset Limits w/ Temp Mail
+* [Cerebras Chat](https://chat.cerebras.ai/) - GLM 4.7 / Qwen3 235B / Sign-Up Required
 * [Groq](https://groq.com/) - Kimi K2-0905 / GPT-OSS 120B / Sign-Up Required / [Discord](https://discord.com/invite/e6cj7aA4Ts)
-* [⁠Together.ai](https://chat.together.ai/) - DeepSeek V3.1 / Qwen 3 235B-2507 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3 / Multiple Models / No Sign-Up / [Discord](https://discord.gg/XE65JfWm)
-* [⁠EaseMate AI](https://www.easemate.ai/ai-chat) - Multiple Models / No Sign-Up
-* [Duck AI](https://duck.ai/) - GPT-5 mini / Multiple Models / No Sign-Up
-* [NVIDIA NIM](https://build.nvidia.com/) - GLM-4.7 / Deepseek V3.1 / Kimi K2 Thinking / Multiple Models / No Sign-Up
+* [⁠Together.ai](https://chat.together.ai/) - GLM 4.7 / Kimi K2 Thinking / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [⁠Woozlit](https://woozlit.com/) - DeepSeek V3.2 / Qwen3 235B / Multiple Models / No Sign-Up / [Discord](https://discord.gg/XE65JfWm)
+* [⁠EaseMate AI](https://www.easemate.ai/ai-chat) - GPT-5.2 / Gemini 3 Pro / Veo 3.1 / Nano Banana Pro / No Sign-Up
+* [Duck AI](https://duck.ai/) - GPT-5 mini / gpt-image-1-mini / No Sign-Up
+* [NVIDIA NIM](https://build.nvidia.com/) - Deepseek V3.2 / Kimi K2 Thinking / No Sign-Up
 
 ***
 
