@@ -1,17 +1,29 @@
 <script setup lang="ts">
 import { colors } from '@fmhy/colors'
 import { useStorage } from '@vueuse/core'
-import { watch, onMounted, nextTick } from 'vue'
+import { watch, onMounted, nextTick, ref, computed } from 'vue'
+import { useData } from 'vitepress'
 import { useTheme } from '../themes/themeHandler'
 import { themeRegistry } from '../themes/configs'
 import type { Theme } from '../themes/types'
-import Switch from './Switch.vue'
+import CustomColorSelector from './CustomColorSelector.vue'
 
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 
+const { frontmatter, page } = useData()
+
+const showPalette = computed(() => {
+  // console.log('Current layout:', frontmatter.value.layout)
+  // console.log('Page relative path:', page.value.relativePath)
+  return frontmatter.value.layout !== 'home' && page.value.relativePath !== 'index.md'
+})
+
 // Use the theme system
-const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } = useTheme()
+const { amoledEnabled, setAmoledEnabled, setTheme, mode, themeName } = useTheme()
+
+// Custom color selector state
+const showCustomColorSelector = ref(false)
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
@@ -196,13 +208,25 @@ const normalizeColorName = (colorName: string) =>
   colorName.slice(1).replaceAll(/-/g, ' ')
 
 onMounted(async () => {
-  // apply saved theme on load
-  if (selectedColor.value) {
+  // Check if custom theme was last selected
+  const savedTheme = localStorage.getItem('vitepress-theme-name')
+  
+  if (savedTheme === 'custom') {
+    // Load saved custom colors
+    const savedLinkColor = localStorage.getItem('custom-theme-link-color') || '#ffffff'
+    const savedTextColor = localStorage.getItem('custom-theme-text-color') || '#cccccc'
+    const savedBgColor = localStorage.getItem('custom-theme-bg-color') || '#000000'
+    
+    // Apply the custom theme
+    applyCustomColors({ link: savedLinkColor, text: savedTextColor, background: savedBgColor })
+  } else if (selectedColor.value) {
+    // apply saved color theme on load
     const theme = generateThemeFromColor(selectedColor.value)
     themeRegistry[`color-${selectedColor.value}`] = theme
     await nextTick()
     setTheme(`color-${selectedColor.value}`)
   }
+  
   // Wait for next tick to ensure theme handler is fully initialized
   await nextTick()
 })
@@ -215,9 +239,180 @@ watch(selectedColor, async (color) => {
   setTheme(`color-${color}`)
 })
 
+// Keep this function - it might be used elsewhere
 const toggleAmoled = () => {
   setAmoledEnabled(!amoledEnabled.value)
 }
+
+const openCustomColorSelector = () => {
+  showCustomColorSelector.value = true
+}
+
+const applyCustomColors = (colors: { link: string; text: string; background: string }) => {
+  // Store custom colors  
+  const customLinkColor = useStorage('custom-theme-link-color', colors.link)
+  const customTextColor = useStorage('custom-theme-text-color', colors.text)
+  const customBgColor = useStorage('custom-theme-bg-color', colors.background)
+  
+  customLinkColor.value = colors.link
+  customTextColor.value = colors.text
+  customBgColor.value = colors.background
+  
+  // Generate a custom theme - link color for links, text color for body text
+  const customTheme: Theme = {
+    name: 'custom',
+    displayName: 'Custom',
+    preview: colors.background,
+    modes: {
+      light: {
+        brand: {
+          1: colors.link,  // Links will use this color
+          2: colors.link,
+          3: colors.link,
+          soft: colors.link
+        },
+        bg: colors.background,
+        bgAlt: colors.background,
+        bgElv: colors.background,
+        text: {
+          1: colors.text,  // Body text uses this color
+          2: colors.text,
+          3: colors.text
+        },
+        button: {
+          brand: {
+            bg: colors.link,
+            border: colors.link,
+            text: colors.background,
+            hoverBorder: colors.link,
+            hoverText: colors.background,
+            hoverBg: colors.link,
+            activeBorder: colors.link,
+            activeText: colors.background,
+            activeBg: colors.link
+          },
+          alt: {
+            bg: '#484848',
+            text: '#f0eeee',
+            hoverBg: '#484848',
+            hoverText: '#f0eeee'
+          }
+        },
+        customBlock: {
+          info: {
+            bg: colors.background,
+            border: colors.link,
+            text: colors.text,
+            textDeep: colors.text
+          },
+          tip: {
+            bg: '#D8F8E4',
+            border: '#447A61',
+            text: '#2D6A58',
+            textDeep: '#166534'
+          },
+          warning: {
+            bg: '#FCEFC3',
+            border: '#9A8034',
+            text: '#9C701B',
+            textDeep: '#92400e'
+          },
+          danger: {
+            bg: '#FBE1E2',
+            border: '#B3565E',
+            text: '#912239',
+            textDeep: '#991b1b'
+          }
+        },
+        selection: {
+          bg: colors.link
+        },
+        home: {
+          heroNameColor: colors.link,
+          heroNameBackground: colors.background,
+          heroImageBackground: `linear-gradient(135deg, ${colors.background} 0%, ${colors.link} 100%)`,
+          heroImageFilter: 'blur(44px)'
+        }
+      },
+      dark: {
+        brand: {
+          1: colors.link,  // Links will use this color
+          2: colors.link,
+          3: colors.link,
+          soft: colors.link
+        },
+        bg: colors.background,
+        bgAlt: colors.background,
+        bgElv: colors.background,
+        text: {
+          1: colors.text,  // Body text uses this color
+          2: colors.text,
+          3: colors.text
+        },
+        button: {
+          brand: {
+            bg: colors.link,
+            border: colors.link,
+            text: colors.background,
+            hoverBorder: colors.link,
+            hoverText: colors.background,
+            hoverBg: colors.link,
+            activeBorder: colors.link,
+            activeText: colors.background,
+            activeBg: colors.link
+          },
+          alt: {
+            bg: '#484848',
+            text: '#f0eeee',
+            hoverBg: '#484848',
+            hoverText: '#f0eeee'
+          }
+        },
+        customBlock: {
+          info: {
+            bg: colors.background,
+            border: colors.link,
+            text: colors.text,
+            textDeep: colors.text
+          },
+          tip: {
+            bg: '#0C2A20',
+            border: '#184633',
+            text: '#B0EBC9',
+            textDeep: '#166534'
+          },
+          warning: {
+            bg: '#403207',
+            border: '#7E6211',
+            text: '#F9DE88',
+            textDeep: '#92400e'
+          },
+          danger: {
+            bg: '#3F060A',
+            border: '#7C0F18',
+            text: '#F7C1BC',
+            textDeep: '#991b1b'
+          }
+        },
+        selection: {
+          bg: colors.link
+        },
+        home: {
+          heroNameColor: colors.link,
+          heroNameBackground: colors.background,
+          heroImageBackground: `linear-gradient(135deg, ${colors.background} 0%, ${colors.link} 100%)`,
+          heroImageFilter: 'blur(44px)'
+        }
+      }
+    }
+  }
+  
+  // Register and apply the custom theme
+  themeRegistry['custom'] = customTheme
+  selectedColor.value = '' as ColorNames
+  setTheme('custom')
+}
+
 </script>
 
 <template>
@@ -228,7 +423,7 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            (themeName && themeName.value === `color-${color}`)
+            (themeName === `color-${color}`)
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
@@ -247,7 +442,7 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            (themeName && themeName.value === t)
+            (themeName === t)
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
@@ -260,6 +455,32 @@ const toggleAmoled = () => {
           ></span>
         </button>
       </div>
+
+      <!-- Custom theme button (after preset themes) -->
+      <div v-if="showPalette">
+        <button
+          :class="[
+            'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2 relative overflow-hidden',
+            (themeName === 'custom')
+              ? 'border-slate-200 dark:border-slate-400 shadow-lg'
+              : 'border-transparent'
+          ]"
+          @click="openCustomColorSelector"
+          title="Custom Theme"
+        >
+          <span
+            class="inline-block w-full h-full rounded-full bg-gradient-to-br from-purple-500 via-pink-500 to-red-500 flex items-center justify-center"
+          >
+            <div class="i-lucide-palette text-white text-xs" />
+          </span>
+        </button>
+      </div>
     </div>
+
+    <!-- Custom Color Selector Modal -->
+    <CustomColorSelector
+      v-model="showCustomColorSelector"
+      @apply="applyCustomColors"
+    />
   </div>
 </template>
