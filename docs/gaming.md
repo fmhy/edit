@@ -59,7 +59,7 @@
 
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/)
 * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
-* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
+* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYB64#gnarly)** - Download / PW: `gnarly`
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
@@ -111,7 +111,7 @@
 ## ▷ Virtual Reality
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
-* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - VR Games / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
+* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - VR Games / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Sign-Up Required / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
 * [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
@@ -144,13 +144,7 @@
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
-* [DOS Games Archive](https://www.dosgamesarchive.com/) - DOS Games / Online
-* [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
-* [Best Old Games](https://www.bestoldgames.net/) - DOS Games / Online
-* [DOSGames](https://dosgames.com/) - DOS Games / Online
-* [FreeDOSGames](https://www.freedosgames.de/) - DOS Games
-* [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games / Online
-* [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
+* [DOS HAVEN](https://www.doshaven.eu/), [FreeDOSGames](https://www.freedosgames.de/) or [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
@@ -287,6 +281,7 @@
 
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
+* [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
@@ -429,6 +424,8 @@
 * [Play Classic Games](https://playclassic.games/) - Retro Consoles / Multiple-Emulators
 * [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
 * [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
+* [Emupedia](https://emupedia.net/beta/) - Retro Consoles
+* [DOS Games Archive](https://www.dosgamesarchive.com/), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/) or [RGB Classic Games](https://www.classicdosgames.com/) - DOS Browser Emulators
 * [⁠Meowio](https://www.information-superhighway.net/meowio/) - NES Browser Emulator / Custom Music + Sounds
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator / Multiplayer
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
@@ -448,7 +445,8 @@
 # ► Puzzle Games
 
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [⁠Puzzmo](https://www.puzzmo.com/) - Daily Word + Puzzle Games 
+* [⁠Puzzmo](https://www.puzzmo.com/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
+* [⁠ThinkyGames](https://thinkygames.com/games/?free=true&platforms=Web) - Indie Puzzle Games 
 * [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
@@ -546,7 +544,9 @@
 
 # ► Tabletop Games
 
-* 🌐 **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** - Evan Leed's Board Games Index
+* 🌐 **[BoardGameGeek](https://boardgamegeek.com/)** or **[Kallax](https://kallax.io/)** - Board Game Databases
+* 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
+* 🌐 **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** - Online Board Game Database / Image
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
 * ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 * [⁠BoardGameplay](https://boardgameplay.com/) - Online Board Games / [Discord](https://discord.gg/EC5ZvQa7M5)
@@ -674,54 +674,77 @@
 
 ## ▷ Multi-Game Sites
 
-* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Flash Game Archives / [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
-* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games / [Discord](https://discord.gg/qDaYeXPsRK)
-* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
-* ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
-* [Nitrome](https://www.nitrome.com/) - Browser Games
-* [Browser Craft](https://browsercraft.com/) - Indie Browser Games
-* [Addicting Games](https://www.addictinggames.com/) - Browser Games
-* [Kongregate](https://www.kongregate.com/) - Browser Games
-* [Y8](https://www.y8.com/) - Browser Games
-* [VAPOR](https://vapor.my/) - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/BHwm9rrK55)
-* [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/D4c9VFYWyU)
-* [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports / Unblocked 
-* [Selenite](https://selenite.cc/), [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / Unblocked / [Discord](https://discord.gg/7jyufnwJNf)
-* [Poki](https://poki.com/) - Browser Games
-* [Crazy Games](https://www.crazygames.com/) - Browser Games
-* [GamezHero](https://www.gamezhero.com/) - Browser Games
-* [Nexiloop Games](https://nexiloop.games/) - Browser Games / [Discord](https://discord.gg/Wvxr9YsHHf)
-* [Deepnight](https://deepnight.net/) - Browser Games
-* [Nicky Case](https://ncase.me/) - Browser Games
-* [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
-* [watabou](https://watabou.itch.io/) - Browser Games
-* [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
-* [Miniplay](https://www.miniplay.com/) - Browser Games
-* [Yandex Games](https://yandex.com/games/) - Browser Games
-* [Arkadium](https://www.arkadium.com/) - Browser Games
-* [GamePix](https://www.gamepix.com/) - Browser Games
-* [RoundGames](https://www.roundgames.com/) - Browser Games
-* [Snokido](https://www.snokido.com/) - Browser Games
-* [Game-Game](https://game-game.com/) - Browser Games
-* [Alfy](https://www.alfy.com/) - Browser Games
-* [Andkon](https://andkon.com/arcade/) - Browser Games
-* [FreeGames](https://freegames.org/) - Browser Games
-* [Friv](https://www.friv.com/) - Browser Games
-* [Emupedia](https://emupedia.net/beta/) - Browser Games
-* [Cool Math Games](https://www.coolmathgames.com/) - Browser Games
-* [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games / Unblocked
-* [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked
-* [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / Unblocked / [Discord](https://discord.com/invite/VDA8Ngx38Z)
+* ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
+* ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
+* ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8)
+* ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
+* [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
+* [Poki](https://poki.com/) - Browser Game Aggregator
+* [Kongregate](https://www.kongregate.com/) - Browser Game Aggregator
+* [Game-Game](https://game-game.com/) - Browser Game Aggregator
+* [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
+* [Nexiloop Games](https://nexiloop.games/) - Browser Game Aggregator / [Discord](https://discord.gg/Wvxr9YsHHf)
+* [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
+* [Y8](https://www.y8.com/) - Browser Game Aggregator
+* [Alfy](https://www.alfy.com/) - Browser Game Aggregator
+* [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator
+* [Snokido](https://www.snokido.com/) - Browser Game Aggregator
+* [FreeGames](https://freegames.org/) - Browser Game Aggregator
+* [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
+* [Yandex Games](https://yandex.com/games/) - Browser Game Aggregator
+* [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Game Aggregator
+* [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
+* [Friv](https://www.friv.com/) - Browser Game Aggregator
+* [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
+* [Flash by Night](http://www.flashbynight.com/) - Browser Game Aggregator
+* [FlashMuseum](https://flashmuseum.org/) - Browser Game Aggregator
+* [FlashLegacy](https://www.flashlegacy.com/) - Browser Game Aggregator
+* [iogames.space](https://iogames.space/) - Browser Game Aggregator
+* [IOGames](https://iogames.party/) - Browser Game Aggregator
+* [Kevin Games](https://kevin.games/) - Browser Game Aggregator
+* [TheBestarcade](https://html5.thebestarcadescript.com/) - Browser Game Aggregator
+* [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Game Aggregator
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
-* [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en), [FlashLegacy](https://www.flashlegacy.com/) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
-* [Arcade Prehacks](https://www.arcadeprehacks.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
-* [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [IOGames](https://iogames.party/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
+
+***
+
+## ▷ Indie Browser Games
+
+* 🌐 **[Browser Craft](https://browsercraft.com/)** - Indie Browser Game Index / Tracker
+* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Indie Games / Community Developed
+* ⭐ **[Nitrome](https://www.nitrome.com/)** - Indie Games / In-House Dev Team
+* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Indie Games / Community Developed / [Discord](https://discord.gg/qDaYeXPsRK)
+* ⭐ **[Armor Games](https://armorgames.com/)** - Indie Games / Official Publisher
+* [Js13kGames](https://js13kgames.com/entries) - Indie Browser Game Competition
+* [Deepnight](https://deepnight.net/) - Indie Games / In-House Dev Team
+* [watabou](https://watabou.itch.io/) - Indie Games / In-House Dev Team
+* [DAN-BALL](https://dan-ball.jp/en/) - Indie Games / In-House Dev Team
+* [Modd.io](https://www.modd.io/) - Indie Games / Community Developed
+* [Kindanice](https://kindanice.itch.io/) - Indie Games / itch.io Developer
+* [Graeme Borland](https://graebor.itch.io/) - Indie Games / itch.io Developer
+* [Jezzamon](https://jezzamon.itch.io/) - Indie Games / itch.io Developer
+
+***
+
+## ▷ Unblocked Games
+
+* **Note** - These are browser game collections that also function as proxies / unblockers.
+
+***
+
+* ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
+* [VAPOR](https://vapor.my/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
+* [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
+* [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports 
+* [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games
+* [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked
+* [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
+* [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
 
 ***
 
@@ -753,6 +776,7 @@
 * [Foony](https://foony.com/) - Multiple Games
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
+* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [Deeeep](https://deeeep.io/) - Multiplayer Feeding Frenzy Games
 * [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game / [Discord](https://discord.com/invite/FKEzJSf)
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
@@ -793,6 +817,7 @@
 * [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Games
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [⁠Voxiom](https://voxiom.io/) - Minecraft Inspired PVP FPS / [Discord](https://discord.gg/GBFtRcY)
+* [Debug Survivor](https://debug-survivor.leek.io/) - Dev Themed Roguelike Shooter
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/), [2](https://kourio.online/) - PvP FPS
 * [ev.io](https://ev.io/) - PvP FPS
@@ -938,7 +963,7 @@
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/), [WhatTheHex](https://yizzle.com/whatthehex/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
-* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
+* [⁠MCdle](https://www.mcdle.net/) or [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Guessing Games
 * [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [Pokémon Infinite Heardle](https://pkmn-infinite-heardle.glitch.me/) - Pokémon Music Guessing
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
