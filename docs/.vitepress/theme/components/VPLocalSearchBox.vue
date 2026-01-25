@@ -402,6 +402,10 @@ function resetSearch() {
   nextTick().then(() => focusSearchInput(false))
 }
 
+function handleInput(e: Event) {
+  filterText.value = (e.target as HTMLInputElement).value
+}
+
 function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
@@ -464,7 +468,8 @@ function onMouseMove(e: MouseEvent) {
           </div>
           <input
             ref="searchInput"
-            v-model="filterText"
+            :value="filterText"
+            @input="handleInput"
             :aria-activedescendant="selectedIndex > -1 ? ('localsearch-item-' + selectedIndex) : undefined"
             aria-autocomplete="both"
             :aria-controls="results?.length ? 'localsearch-list' : undefined"

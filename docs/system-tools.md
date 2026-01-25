@@ -230,6 +230,7 @@
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System Info & Monitoring
+* [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) - Task Manager Alt
 * [Task Manager DeLuxe](https://www.mitec.cz/tmx.html) - Task Manager Alt
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
