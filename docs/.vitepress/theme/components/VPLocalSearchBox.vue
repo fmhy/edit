@@ -285,7 +285,7 @@ onMounted(() => {
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') {
-    focusSearchInput()
+    focusSearchInput(false)
   }
 }
 
