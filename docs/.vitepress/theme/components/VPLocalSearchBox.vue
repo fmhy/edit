@@ -169,8 +169,10 @@ debouncedWatch(
     const searchOptions = {
       fuzzy: isFuzzySearch.value ? 0.2 : false
     }
+    const query = filterTextValue
+
     results.value = index
-      .search(filterTextValue, searchOptions)
+      .search(query, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
     enableNoResults.value = true
 
@@ -179,48 +181,9 @@ debouncedWatch(
       ? await Promise.all(results.value.map((r) => fetchExcerpt(r.id)))
       : []
     if (canceled) return
-    for (const { id, mod } of mods) {
-      const mapId = id.slice(0, id.indexOf('#'))
-      let map = cache.get(mapId)
-      if (map) continue
-      map = new Map()
-      cache.set(mapId, map)
-      const comp = mod.default ?? mod
-      if (comp?.render || comp?.setup) {
-        const app = createApp(comp)
-        app.use(FloatingVue)
-        app.component('Tooltip', Tooltip)
-        // Silence warnings about missing components
-        app.config.warnHandler = () => {}
-        app.provide(dataSymbol, vitePressData)
-        Object.defineProperties(app.config.globalProperties, {
-          $frontmatter: {
-            get() {
-              return vitePressData.frontmatter.value
-            }
-          },
-          $params: {
-            get() {
-              return vitePressData.page.value.params
-            }
-          }
-        })
-        const div = document.createElement('div')
-        app.mount(div)
-        const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
-        headings.forEach((el) => {
-          const href = el.querySelector('a')?.getAttribute('href')
-          const anchor = href?.startsWith('#') && href.slice(1)
-          if (!anchor) return
-          let html = ''
-          while ((el = el.nextElementSibling!) && !/^h[1-6]$/i.test(el.tagName))
-            html += el.outerHTML
-          map!.set(anchor, html)
-        })
-        app.unmount()
-      }
-      if (canceled) return
-    }
+
+    await processExcerpts(mods, vitePressData, () => canceled)
+    if (canceled) return
 
     const terms = new Set<string>()
 
@@ -228,11 +191,18 @@ debouncedWatch(
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
       const text = map?.get(anchor) ?? ''
-      for (const term in r.match) {
-        terms.add(term)
+      if (isFuzzySearch.value) {
+        for (const term in r.match) {
+          terms.add(term)
+        }
       }
       return { ...r, text }
     })
+
+    if (!isFuzzySearch.value) {
+      terms.add(filterTextValue)
+      results.value = filterResults(results.value, filterTextValue)
+    }
 
     await nextTick()
     if (canceled) return
@@ -245,7 +215,7 @@ debouncedWatch(
       })
     })
 
-    const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
+    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
     for (const excerpt of excerpts) {
       excerpt
         .querySelector('mark[data-markjs="true"]')
@@ -266,6 +236,64 @@ async function fetchExcerpt(id: string) {
     console.error(e)
     return { id, mod: {} }
   }
+}
+
+async function processExcerpts(
+  mods: { id: string; mod: any }[],
+  vitePressData: any,
+  isCanceled: () => boolean
+) {
+  for (const { id, mod } of mods) {
+    if (isCanceled()) return
+    const mapId = id.slice(0, id.indexOf('#'))
+    let map = cache.get(mapId)
+    if (map) continue
+    map = new Map()
+    cache.set(mapId, map)
+    const comp = mod.default ?? mod
+    if (comp?.render || comp?.setup) {
+      const app = createApp(comp)
+      app.use(FloatingVue)
+      app.component('Tooltip', Tooltip)
+      app.config.warnHandler = () => {}
+      app.provide(dataSymbol, vitePressData)
+      Object.defineProperties(app.config.globalProperties, {
+        $frontmatter: {
+          get() {
+            return vitePressData.frontmatter.value
+          }
+        },
+        $params: {
+          get() {
+            return vitePressData.page.value.params
+          }
+        }
+      })
+      const div = document.createElement('div')
+      app.mount(div)
+      const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+      headings.forEach((el) => {
+        const href = el.querySelector('a')?.getAttribute('href')
+        const anchor = href?.startsWith('#') && href.slice(1)
+        if (!anchor) return
+        let html = ''
+        while ((el = el.nextElementSibling!) && !/^h[1-6]$/i.test(el.tagName))
+          html += el.outerHTML
+        map!.set(anchor, html)
+      })
+      app.unmount()
+    }
+  }
+}
+
+function filterResults(results: (SearchResult & Result)[], filterTextValue: string) {
+  return results.filter((r) => {
+    const phrase = filterTextValue.toLowerCase()
+    const inText = r.text?.toLowerCase().includes(phrase)
+    const inTitle = r.title.toLowerCase().includes(phrase)
+    const inTitles = r.titles.some((t) => t.toLowerCase().includes(phrase))
+    return inText || inTitle || inTitles
+  })
 }
 
 /* Search input focus */
