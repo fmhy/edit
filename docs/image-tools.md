@@ -98,6 +98,7 @@
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
+* [Photiu_ImageUpscaler](https://photiu.ai/image-upscaler) - Upscale Image / Online / No Sign-Up 
 
 ***
 
