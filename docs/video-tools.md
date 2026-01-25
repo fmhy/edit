@@ -300,6 +300,7 @@
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) / [Mobile](https://github.com/jellyseerr/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management
+* [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 
@@ -363,6 +364,7 @@
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [⁠XT Fetch](https://xt-fetch.vercel.app/) - Multi-Site / Online
+* [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)

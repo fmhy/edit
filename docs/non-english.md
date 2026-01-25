@@ -476,7 +476,6 @@
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[Movix](https://www.movix.blog/)** - Movies / TV / Anime
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
-* [xalaflix](https://xalaflix.in/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.zip/) / [Discord](https://discord.gg/7myEXg2tQF) / [Telegram](https://t.me/xalaflixofficiel)
 * [noctaflix](https://noctaflix.lol/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
@@ -720,6 +719,7 @@
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
+* [MoviesDrive](https://moviesdrive.forum/) - Movies / TV / Anime / [Status](https://moviesdrives.cv/), [2](https://moviedrive.org/) / [Telegram](https://t.me/moviesdrivee)
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
 * [FiberMovies](https://fibermovies.beer/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
@@ -1040,14 +1040,8 @@
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
-* [MusicGeek](https://musicgeek.ir/) - Music / MP3 / FLAC
-* [pop-music](https://pop-music.ir/) - Music / MP3
-* [MusicDagh](https://www.musicdagh.ir/) - Music / MP3
 * [GolsarMusic](https://golsarmusic.ir/) - Music / MP3
-* [upmusics](https://upmusics.com/) - Music / MP3
-* [ezmusic](https://ezmusic.ir/) - Music / MP3
 * [Download1Music](https://download1music.ir/) - Music / MP3
-* [mytehranmusic](https://mytehranmusic.com/) - Music / MP3
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [Pixinema](https://www.pixinema.ir/) - Soundtracks
 * [farsroid](https://www.farsroid.com/) - APKs
@@ -1062,7 +1056,6 @@
 * [imvbox](https://www.imvbox.com/) - Movies / TV / Sub
 * [hikoca](https://hikoca.co.uk/) - Movies / TV
 * [Anten.ir](https://www.anten.ir/) - Live TV / Sports
-* [Sepehr](https://sepehrtv.ir/) - Live TV
 * [ParsaTV](https://www.parsatv.com/) - Live TV
 * [Split TV](https://split-tv.co.il/) - Live News / Split Screen
 * [MusicGeek](https://musicgeek.ir/) - Music
@@ -1070,7 +1063,6 @@
 
 ## ▷ Reading / خواندن
 
-* [parsbook](https://www.parsbook.com/) - Educational Books
 * [Afghanistandl](https://afghanistandl.nyu.edu/) - Historical Books
 
 ***
