@@ -129,6 +129,7 @@
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) - Desktop Client
+* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Desktop Client / Built Into Windows
 * [Remotly](https://remotly.com/) - Desktop Client
 * [Bananas](https://getbananas.net/) - Desktop Client / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Web-Based
@@ -242,7 +243,6 @@
 ## ▷ GPU Tools
 
 * ⭐ **[NVTOP](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
-* ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
 * ⭐ **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility-continued.457504/) - NVIDIA Driver Packages
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker

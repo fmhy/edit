@@ -307,12 +307,12 @@
 * [⁠Vheer](https://vheer.com/) - Unlimited / No Sign-Up
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up Required
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up Required
-* [LMArena](https://lmarena.ai/?mode=direct) - 3 Daily / Sign-Up Required /  Random Models / Reset Limits w/ Cookie Delete or Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [LMArena](https://lmarena.ai/?chat-modality=video) - 3 Daily / Sign-Up Required /  Random Models / Reset Limits w/ Cookie Delete or Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [LMArena (Discord)](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark
 * [⁠Klipy](https://klipy.com/) - Klipy / Veo 3 / GIFs / Unlimited / Sign-Up Required 
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) -  Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
-* [Google Flow](https://labs.google/fx/tools/flow) - Veo 2 (10 Monthly) / Veo 3.1 (5 Monthly)
+* [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 (5 Monthly)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / Use Alt Account
@@ -341,7 +341,7 @@
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up Required / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up Required / [Discord](https://discord.gg/recraft)
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up Required / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
-* [Khoj](https://app.khoj.dev/) - Nano Banana / Imagen 4 / Reset Limits w/ Temp Mail
+* [Khoj](https://app.khoj.dev/?v=app) - Nano Banana / Imagen 4 / Reset Limits w/ Temp Mail
 * [ImageFX](https://labs.google/fx/tools/image-fx) - Imagen 4 / Unlimited / Region-Based / Sign-Up Required / [Discord](https://discord.com/invite/googlelabs)
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / No Sign-Up / Seedream 3 / GPT Image 1 / 10 Daily / Sign-Up Required / [Discord](https://discord.gg/v6KzUbPeKh)

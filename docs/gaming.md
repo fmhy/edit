@@ -23,7 +23,7 @@
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Sign-Up Required
-* [Virgil Game Search](https://virgil.samidy.com/Games/), [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [Playseek](https://playseek.app/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
@@ -675,19 +675,19 @@
 ## ▷ Multi-Game Sites
 
 * ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
-* ⭐ **[Poki](https://poki.com/)** - Browser Game Aggregator
+* ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator / [Discord](https://discord.com/invite/crazygames)
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
+* [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
-* [Kongregate](https://www.kongregate.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
 * [Nexiloop Games](https://nexiloop.games/) - Browser Game Aggregator / [Discord](https://discord.gg/Wvxr9YsHHf)
-* [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 * [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator
+* [Poki](https://poki.com/) - Browser Game Aggregator
 * [Snokido](https://www.snokido.com/) - Browser Game Aggregator
 * [FreeGames](https://freegames.org/) - Browser Game Aggregator
 * [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
@@ -930,7 +930,7 @@
 
 ***
 
-## ▷ Trivia
+## ▷ Trivia / Guessing
 
 * ⭐ **[GuessTheGame](https://guessthe.game/)** or [Gamedle](https://www.gamedle.wtf/) - Game Guessing Games
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
@@ -946,7 +946,8 @@
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [Play Football](https://playfootball.games/) - Football Quizzes / Trivia
-* [The Wiki Game](https://www.thewikigame.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://www.sixdegreesofwikipedia.com/), [2](https://gitlab.com/johanbluecreek/wikiracer)
+* [The Wiki Game](https://www.thewikigame.com/) or [WikiRacer](https://wikiracer.io/) - Wikipedia Exploration Games / [Automation Tool](https://www.sixdegreesofwikipedia.com/), [2](https://gitlab.com/johanbluecreek/wikiracer)
+* [⁠FactorDay](https://factorday.com/) - Daily Wikipedia-Based Trivia / Crosswords
 * [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
