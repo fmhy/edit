@@ -705,8 +705,8 @@ function formMarkRegex(terms: Set<string>) {
 
 function onMouseMove(e: MouseEvent) {
   if (!disableMouseOver.value) return
-  const el = (e.target as HTMLElement)?.closest<HTMLAnchorElement>('.result')
-  const index = Number.parseInt(el?.dataset.index!)
+  const el = (e.target as HTMLElement)?.closest<HTMLElement>('.result-item')
+  const index = el?.dataset?.index ? Number.parseInt(el.dataset.index) : -1
   if (index >= 0 && index !== selectedIndex.value) {
     selectedIndex.value = index
   }
@@ -819,6 +819,8 @@ function onMouseMove(e: MouseEvent) {
             :id="'localsearch-item-' + index"
             :aria-selected="selectedIndex === index ? 'true' : 'false'"
             role="option"
+            class="result-item"
+            :data-index="index"
           >
             <a
               :href="p.id"
@@ -852,20 +854,24 @@ function onMouseMove(e: MouseEvent) {
                   <div v-if="p.text" class="excerpt" inert>
                     <div class="vp-doc" v-html="p.text" />
                   </div>
+
                   <div class="excerpt-gradient-bottom" />
                   <div class="excerpt-gradient-top" />
-                  <div v-if="(resultMarks.get(index)?.length ?? 0) > 1" class="excerpt-actions" @click.prevent.stop @mousedown.prevent.stop>
-                    <button class="match-nav-button" @click.prevent.stop="prevMatch(index)" title="Previous match">
-                      <span class="vpi-chevron-left navigate-icon" />
-                    </button>
-                    <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
-                    <button class="match-nav-button" @click.prevent.stop="nextMatch(index)" title="Next match">
-                      <span class="vpi-chevron-right navigate-icon" />
-                    </button>
-                  </div>
                 </div>
               </div>
             </a>
+            <div
+              v-if="showDetailedList && (resultMarks.get(index)?.length ?? 0) > 1"
+              class="excerpt-actions"
+            >
+              <button type="button" class="match-nav-button" @click="prevMatch(index)" title="Previous match">
+                <span class="vpi-chevron-left navigate-icon" />
+              </button>
+              <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
+              <button type="button" class="match-nav-button" @click="nextMatch(index)" title="Next match">
+                <span class="vpi-chevron-right navigate-icon" />
+              </button>
+            </div>
           </li>
           <li
             v-if="filterText && !results.length && enableNoResults"
@@ -996,10 +1002,17 @@ function onMouseMove(e: MouseEvent) {
 }
 
 /* Custom Feature: Match navigation controls overlay */
+.result-item {
+  position: relative;
+}
+
 .excerpt-actions {
   position: absolute;
-  bottom: 5px;
-  right: 5px;
+  /* (12px margin + 2px border + 5px spacing) */
+  bottom: 19px;
+  right: 19px;
+  z-index: 2000;
+  cursor: default;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -1008,6 +1021,14 @@ function onMouseMove(e: MouseEvent) {
   border-radius: 4px;
   padding: 2px 4px;
   box-shadow: var(--vp-shadow-1);
+}
+
+@media (max-width: 767px) {
+  .excerpt-actions {
+    /* (8px margin + 2px border + 5px spacing) */
+    bottom: 15px;
+    right: 15px;
+  }
 }
 
 .match-nav-button {
@@ -1019,6 +1040,7 @@ function onMouseMove(e: MouseEvent) {
   border-radius: 2px;
   color: var(--vp-c-text-2);
   transition: color 0.2s, background-color 0.2s;
+  cursor: pointer;
 }
 
 .match-nav-button:hover {
