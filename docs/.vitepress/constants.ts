@@ -66,11 +66,11 @@ export const search: DefaultTheme.Config['search'] = {
     _render(src, env, md) {
       // Check if current file should be excluded from search
       const relativePath = env.relativePath || env.path || ''
-      const shouldExclude = excluded.some(excludedFile => 
-        relativePath.includes(excludedFile) || 
+      const shouldExclude = excluded.some(excludedFile =>
+        relativePath.includes(excludedFile) ||
         relativePath.endsWith(excludedFile)
       )
-      
+
       // Return empty content for excluded files so they don't appear in search
       if (shouldExclude) {
         return ''
@@ -86,7 +86,7 @@ export const search: DefaultTheme.Config['search'] = {
     },
     miniSearch: {
       options: {
-        tokenize: (text) => text.split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
+        tokenize: (text) => text.replace(/[\u2060\u200B]/g, '').split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
         processTerm: (term, fieldName) => {
           // biome-ignore lint/style/noParameterAssign: h
           term = term
@@ -319,9 +319,9 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     items: [
       meta.build.nsfw
         ? {
-            text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
-            link: 'https://rentry.org/NSFW-Checkpoint'
-          }
+          text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
+          link: 'https://rentry.org/NSFW-Checkpoint'
+        }
         : {},
       {
         text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
