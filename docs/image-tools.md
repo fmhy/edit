@@ -281,6 +281,7 @@
 * [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
+* [⁠Square Face Generator](https://squareface.app/) - Square Face Avatar Generator
 * [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [⁠FreeLogoMaker](https://myfreelogomaker.com/), [⁠BrandCrowd](https://www.brandcrowd.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
@@ -749,6 +750,10 @@
 ***
 
 ## ▷ Offline Galleries
+
+* **Note** - Note that the options listed in this section require self-hosting.
+
+***
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**

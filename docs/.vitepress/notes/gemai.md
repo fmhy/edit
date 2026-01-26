@@ -1,0 +1,1 @@
+Nano Banana Pro is a bit glitchy as of now, but its being worked on according to their Discord staff

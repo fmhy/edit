@@ -115,6 +115,7 @@
 * [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
 * [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS
 * [ClassicGameZone](https://classicgamezone.com/) - Retro Consoles / EmulatorJS
+* [Pegasus Online](https://pegasus-online.pl/en/) - Retro Consoles / EmulatorJS
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
@@ -390,7 +391,7 @@
 * [⁠Z.ai](https://chat.z.ai/) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
-* [Slidev](https://sli.dev/) - MArkdown Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
+* [Slidev](https://sli.dev/) - Markdown Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 
 [Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/)
 

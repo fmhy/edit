@@ -184,7 +184,7 @@
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
-* [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Sherlock](https://github.com/sherlock-project/sherlockfair/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
+* [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Sherlock](https://github.com/sherlock-project/sherlock), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [Soovle](https://www.seo.com/soovle/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
@@ -330,7 +330,7 @@
 
 * ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
-* [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Discord](https://discord.gg/5tVkG8eMg)
+* [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js) / [Discord](https://discord.gg/5tVkG8eMg)
 * [Evade](https://skipped.lol/evade/evade.user.js) - Ad-Links Bypasser / [Site](https://skipped.lol/) / [Discord](https://discord.gg/aaw9jmw4BC)
 * [bypass.link](https://bypass.link/) - Bypass Link Shorteners
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
@@ -351,6 +351,7 @@
 * [URL Expander](https://t.ly/tools/link-expander/) - URL Unshortener
 * [CheckShortURL](https://checkshorturl.com/) - URL Unshortener
 * [ExpandURL](https://www.expandurl.net/) - URL Unshortener
+* [TrueURL](https://trueurl.com/) - URL Unshortener
 * [Unshorten.me](https://unshorten.me/) - URL Unshortener
 * [Unshorten.It!](https://unshorten.it/) - URL Unshortener
 
