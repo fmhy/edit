@@ -1,4 +1,28 @@
 <script lang="ts" setup>
+/**
+ * VPLocalSearchBox - Enhanced Local Search Modal Component
+ * 
+ * Base: VitePress default local search component
+ * 
+ * Custom Features Added:
+ * ----------------------
+ * 1. Fuzzy Search Toggle
+ *    - Toggle between exact and fuzzy matching modes
+ *    - Fuzzy mode includes typo tolerance and multi-word queries
+ *    - Searches both space-separated and dash-separated variants
+ * 
+ * 2. Smart Highlight Merging (Fuzzy Mode)
+ *    - Automatically merges nearby highlights (< 20px apart) in fuzzy mode
+ *    - Reduces navigation tedium when multiple words are highlighted
+ *    - Preserves text between merged highlights
+ * 
+ * 3. Match Navigation System
+ *    - Navigate through highlights with left/right arrow keys
+ *    - Visual controls: prev/next buttons with match counter (e.g., "2/5")
+ *    - Smooth scrolling to center the active match
+ *    - Yellow highlight for currently focused match
+ * 
+ */
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -47,7 +71,7 @@ const resultsEl = shallowRef<HTMLElement>()
 
 const searchIndexData = shallowRef(localSearchIndex)
 
-// hmr
+// Hot Module Replacement - updates search index without full page reload during development
 if (import.meta.hot) {
   import.meta.hot.accept('/@localSearchIndex', (m) => {
     if (m) {
@@ -71,7 +95,12 @@ const { activate } = useFocusTrap(el, {
 })
 const { localeIndex, theme } = vitePressData
 
-// Fuzzy search toggle state (default: false = exact search)
+/**
+ * Fuzzy search toggle state.
+ * - false: Exact phrase matching (default)
+ * - true: Fuzzy matching with typo tolerance and multi-word queries
+ * Persisted in localStorage for user preference across sessions.
+ */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
 const searchIndex = computedAsync(async () =>
@@ -151,13 +180,18 @@ const mark = computedAsync(async () => {
   return markRaw(new Mark(resultsEl.value))
 }, null)
 
-const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
+// LRU cache for rendered excerpts (16 most recently viewed files)
+const cache = new LRUCache<string, Map<string, string>>(16)
 
+/**
+ * Main search handler - debounced to avoid excessive re-renders while typing.
+ * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
+ */
 debouncedWatch(
   () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
   async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
     if (old?.[0] !== index) {
-      // in case of hmr
+      // Clear cache on index change (e.g., locale switch or HMR update)
       cache.clear()
     }
 
@@ -168,7 +202,13 @@ debouncedWatch(
 
     if (!index) return
 
-    // Search with dynamic fuzzy option
+    /**
+     * Configure search options based on fuzzy mode.
+     * Fuzzy search splits multi-word queries and searches for:
+     * 1. All words present (AND) - matches "PC Optimization Hub"
+     * 2. Dashed version - matches "PC-Optimization-Hub"
+     * This allows flexible matching of space-separated or dash-separated content.
+     */
     const searchOptions = {
       fuzzy: isFuzzySearch.value ? 0.2 : false
     }
@@ -201,7 +241,7 @@ debouncedWatch(
       .slice(0, 16) as (SearchResult & Result)[]
     enableNoResults.value = true
 
-    // Highlighting
+    // Fetch and process excerpts for detailed view highlighting
     const mods = showDetailedListValue
       ? await Promise.all(results.value.map((r) => fetchExcerpt(r.id)))
       : []
@@ -240,7 +280,11 @@ debouncedWatch(
       })
     })
 
-    // Merge nearby marks in fuzzy mode for better navigation
+    /**
+     * Custom feature: Merge nearby highlights in fuzzy mode.
+     * Combines individual word highlights that are close together (< 20px apart)
+     * into single continuous highlights, reducing navigation tedium.
+     */
     if (isFuzzySearch.value) {
       await mergeNearbyMarks()
     }
@@ -252,7 +296,11 @@ debouncedWatch(
         ?.scrollIntoView({ block: 'center' })
     }
     
-    // Populate match navigation state
+    /**
+     * Custom feature: Initialize match navigation state.
+     * Collects all highlight marks in each result for prev/next navigation.
+     * Each result tracks its own array of marks and current position.
+     */
     const newResultMarks = new Map<number, HTMLElement[]>()
     const newCurrentMarkIndex = new Map<number, number>()
     
@@ -273,10 +321,19 @@ debouncedWatch(
   { debounce: 200, immediate: true }
 )
 
+/* Custom Feature: Match Navigation State */
 const resultMarks = shallowRef<Map<number, HTMLElement[]>>(new Map())
 const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
 
-// Merge marks that are close together in fuzzy mode
+/**
+ * Merges adjacent highlight marks that are visually close together.
+ * This reduces the number of navigation stops in fuzzy mode where
+ * each individual word match would otherwise be a separate highlight.
+ * 
+ * Merging criteria:
+ * - Marks must be on the same line (within 5px vertical distance)
+ * - Marks must be close horizontally (< 20px apart)
+ */
 async function mergeNearbyMarks() {
   const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
   
@@ -315,7 +372,10 @@ async function mergeNearbyMarks() {
   }
 }
 
-// Helper function to get text between two mark elements
+/**
+ * Extracts the plain text content between two mark elements.
+ * Used when merging adjacent highlights to preserve the spacing/text between them.
+ */
 function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
   const parent = mark1.parentNode
   if (!parent) return ''
@@ -333,6 +393,11 @@ function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
   return text
 }
 
+/**
+ * Custom feature: Navigate to the next highlighted match in the current result.
+ * Cycles back to the first match when reaching the end.
+ * Smoothly scrolls the excerpt to center the highlighted match.
+ */
 function nextMatch(index: number) {
   const marks = resultMarks.value.get(index)
   let curr = currentMarkIndex.value.get(index) ?? 0
@@ -362,6 +427,11 @@ function nextMatch(index: number) {
   }
 }
 
+/**
+ * Custom feature: Navigate to the previous highlighted match in the current result.
+ * Cycles to the last match when going before the first.
+ * Smoothly scrolls the excerpt to center the highlighted match.
+ */
 function prevMatch(index: number) {
   const marks = resultMarks.value.get(index)
   let curr = currentMarkIndex.value.get(index) ?? 0
@@ -542,9 +612,13 @@ onKeyStroke('Escape', () => {
   emit('close')
 })
 
-// Keyboard shortcuts for match navigation (Left/Right arrow keys)
+/**
+ * Custom feature: Keyboard navigation for cycling through highlights.
+ * Left/Right arrow keys navigate prev/next match within the selected result.
+ * Only active when detailed view is enabled and matches exist.
+ */
 onKeyStroke('ArrowLeft', (event) => {
-  // Only navigate matches if detailed view is enabled and there are matches
+  // Navigate to previous match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
     event.preventDefault()
     prevMatch(selectedIndex.value)
@@ -552,7 +626,7 @@ onKeyStroke('ArrowLeft', (event) => {
 })
 
 onKeyStroke('ArrowRight', (event) => {
-  // Only navigate matches if detailed view is enabled and there are matches
+  // Navigate to next match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
     event.preventDefault()
     nextMatch(selectedIndex.value)
@@ -921,6 +995,7 @@ function onMouseMove(e: MouseEvent) {
   width: 100%;
 }
 
+/* Custom Feature: Match navigation controls overlay */
 .excerpt-actions {
   position: absolute;
   bottom: 5px;
@@ -996,6 +1071,7 @@ function onMouseMove(e: MouseEvent) {
   opacity: 0.37;
 }
 
+/* Custom Feature: Fuzzy search toggle button */
 .toggle-fuzzy-button {
   display: flex;
   align-items: center;
@@ -1145,6 +1221,7 @@ function onMouseMove(e: MouseEvent) {
   line-height: 130% !important;
 }
 
+/* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
@@ -1154,6 +1231,7 @@ function onMouseMove(e: MouseEvent) {
   transition: background-color 0.2s;
 }
 
+/* Custom Feature: Currently focused highlight (during navigation) */
 .excerpt :deep(mark.current) {
   background-color: var(--vp-c-yellow-3);
   color: #000;
