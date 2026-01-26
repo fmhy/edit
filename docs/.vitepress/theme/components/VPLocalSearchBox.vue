@@ -81,7 +81,7 @@ const searchIndex = computedAsync(async () =>
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
         tokenize: (text: string) =>
-          text.split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/).filter((t) => t),
+          text.replace(/[\u2060\u200B]/g, '').split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/).filter((t) => t),
         searchOptions: {
           fuzzy: false,
           prefix: true,
