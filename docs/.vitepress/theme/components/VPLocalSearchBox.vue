@@ -59,6 +59,7 @@ import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import Tooltip from './Tooltip.vue'
 import FloatingVue from 'floating-vue'
+import { sidebar } from '../../shared'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -236,9 +237,34 @@ debouncedWatch(
       }
     }
 
-    results.value = index
+    function findPageTitle(items: any[], path: string): string | null {
+      for (const item of items) {
+        if (item.link === path) return item.text
+        if (item.items) {
+          const found = findPageTitle(item.items, path)
+          if (found) return found
+        }
+      }
+      return null
+    }
+
+    const rawResults = index
       .search(query, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
+
+    results.value = rawResults.map((r) => {
+      const [id] = r.id.split('#')
+      const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
+      const pageTitle = findPageTitle(Array.isArray(sidebar) ? sidebar : [], cleanPath)
+      const titles = [...r.titles]
+      
+      if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
+        titles.unshift(pageTitle)
+      }
+
+      return { ...r, titles }
+    })
+
     enableNoResults.value = true
 
     // Fetch and process excerpts for detailed view highlighting
@@ -256,11 +282,13 @@ debouncedWatch(
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
       const text = map?.get(anchor) ?? ''
+      
       if (isFuzzySearch.value) {
         for (const term in r.match) {
           terms.add(term)
         }
       }
+
       return { ...r, text }
     })
 
@@ -705,8 +733,8 @@ function formMarkRegex(terms: Set<string>) {
 
 function onMouseMove(e: MouseEvent) {
   if (!disableMouseOver.value) return
-  const el = (e.target as HTMLElement)?.closest<HTMLAnchorElement>('.result')
-  const index = Number.parseInt(el?.dataset.index!)
+  const el = (e.target as HTMLElement)?.closest<HTMLElement>('.result-item')
+  const index = el?.dataset?.index ? Number.parseInt(el.dataset.index) : -1
   if (index >= 0 && index !== selectedIndex.value) {
     selectedIndex.value = index
   }
@@ -819,6 +847,8 @@ function onMouseMove(e: MouseEvent) {
             :id="'localsearch-item-' + index"
             :aria-selected="selectedIndex === index ? 'true' : 'false'"
             role="option"
+            class="result-item"
+            :data-index="index"
           >
             <a
               :href="p.id"
@@ -852,20 +882,24 @@ function onMouseMove(e: MouseEvent) {
                   <div v-if="p.text" class="excerpt" inert>
                     <div class="vp-doc" v-html="p.text" />
                   </div>
+
                   <div class="excerpt-gradient-bottom" />
                   <div class="excerpt-gradient-top" />
-                  <div v-if="(resultMarks.get(index)?.length ?? 0) > 1" class="excerpt-actions" @click.prevent.stop @mousedown.prevent.stop>
-                    <button class="match-nav-button" @click.prevent.stop="prevMatch(index)" title="Previous match">
-                      <span class="vpi-chevron-left navigate-icon" />
-                    </button>
-                    <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
-                    <button class="match-nav-button" @click.prevent.stop="nextMatch(index)" title="Next match">
-                      <span class="vpi-chevron-right navigate-icon" />
-                    </button>
-                  </div>
                 </div>
               </div>
             </a>
+            <div
+              v-if="showDetailedList && (resultMarks.get(index)?.length ?? 0) > 1"
+              class="excerpt-actions"
+            >
+              <button type="button" class="match-nav-button" @click="prevMatch(index)" title="Previous match">
+                <span class="vpi-chevron-left navigate-icon" />
+              </button>
+              <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
+              <button type="button" class="match-nav-button" @click="nextMatch(index)" title="Next match">
+                <span class="vpi-chevron-right navigate-icon" />
+              </button>
+            </div>
           </li>
           <li
             v-if="filterText && !results.length && enableNoResults"
@@ -996,10 +1030,17 @@ function onMouseMove(e: MouseEvent) {
 }
 
 /* Custom Feature: Match navigation controls overlay */
+.result-item {
+  position: relative;
+}
+
 .excerpt-actions {
   position: absolute;
-  bottom: 5px;
-  right: 5px;
+  /* (12px margin + 2px border + 5px spacing) */
+  bottom: 19px;
+  right: 19px;
+  z-index: 2000;
+  cursor: default;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -1008,6 +1049,14 @@ function onMouseMove(e: MouseEvent) {
   border-radius: 4px;
   padding: 2px 4px;
   box-shadow: var(--vp-shadow-1);
+}
+
+@media (max-width: 767px) {
+  .excerpt-actions {
+    /* (8px margin + 2px border + 5px spacing) */
+    bottom: 15px;
+    right: 15px;
+  }
 }
 
 .match-nav-button {
@@ -1019,6 +1068,7 @@ function onMouseMove(e: MouseEvent) {
   border-radius: 2px;
   color: var(--vp-c-text-2);
   transition: color 0.2s, background-color 0.2s;
+  cursor: pointer;
 }
 
 .match-nav-button:hover {
@@ -1168,6 +1218,7 @@ function onMouseMove(e: MouseEvent) {
 .titles {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 4px;
   position: relative;
   z-index: 1001;
@@ -1178,6 +1229,17 @@ function onMouseMove(e: MouseEvent) {
   display: flex;
   align-items: center;
   gap: 4px;
+}
+
+.title .text {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.title-icon + .title .text {
+  font-weight: 600;
+  border-bottom: 1px solid var(--vp-c-brand-1);
 }
 
 .title.main {
