@@ -381,7 +381,7 @@
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Sign-Up Required / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
-* [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal/ [Discord](https://discord.com/invite/hz4mAwSujH)
+* [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
@@ -403,7 +403,7 @@
 * ⭐ **[Music Hunters](https://t.me/MusicsHuntersbot)** - Spotify / Apple / Tidal / Deezer / 320kb MP3
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / Soundcloud / VK / 320kb MP3 / FLAC / [Support](https://t.me/DeezerMusicNews)
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)
-* [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify /Apple / YouTube / FLAC / 25 Daily
+* [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Apple / YouTube / FLAC / 25 Daily
 * [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kb MP3
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3
 * [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3

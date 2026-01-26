@@ -15,7 +15,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends / Viewers
 * [Proxitok](https://github.com/pablouser1/ProxiTok), [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends / Viewers
-* [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker ⁠/ [Telegram](https://t.me/tiktokinfosite)
+* [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
