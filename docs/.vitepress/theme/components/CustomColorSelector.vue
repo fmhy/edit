@@ -110,7 +110,7 @@ const apply = () => {
       <div
         v-if="modelValue"
         class="fixed inset-0 z-999 flex items-center justify-center bg-black/50 backdrop-blur-sm"
-        @click.self="close"
+
       >
         <div
           class="bg-$vp-c-bg border-$vp-c-default-soft relative w-full max-w-xl rounded-lg border-2 p-6 shadow-xl select-none"
