@@ -4,8 +4,5 @@ You can [enable an extension](https://pstream.org/onboarding/extension) / [2](ht
 
 Note that it can be ran in a new browser or fresh browser profile if you don't want to use your main browser.
 
-For a setup guide (including 4k) you can watch this video: 
-https://vimeo.com/1059834885/c3ab398d42
-
 Docs + selfhosting guides can be found here: 
 https://docs.pstream.mov/
