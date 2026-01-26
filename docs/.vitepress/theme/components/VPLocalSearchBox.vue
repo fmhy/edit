@@ -1,4 +1,28 @@
 <script lang="ts" setup>
+/**
+ * VPLocalSearchBox - Enhanced Local Search Modal Component
+ * 
+ * Base: VitePress default local search component
+ * 
+ * Custom Features Added:
+ * ----------------------
+ * 1. Fuzzy Search Toggle
+ *    - Toggle between exact and fuzzy matching modes
+ *    - Fuzzy mode includes typo tolerance and multi-word queries
+ *    - Searches both space-separated and dash-separated variants
+ * 
+ * 2. Smart Highlight Merging (Fuzzy Mode)
+ *    - Automatically merges nearby highlights (< 20px apart) in fuzzy mode
+ *    - Reduces navigation tedium when multiple words are highlighted
+ *    - Preserves text between merged highlights
+ * 
+ * 3. Match Navigation System
+ *    - Navigate through highlights with left/right arrow keys
+ *    - Visual controls: prev/next buttons with match counter (e.g., "2/5")
+ *    - Smooth scrolling to center the active match
+ *    - Yellow highlight for currently focused match
+ * 
+ */
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -22,6 +46,7 @@ import {
   onMounted,
   ref,
   shallowRef,
+  triggerRef,
   watch,
   watchEffect,
   type Ref
@@ -46,7 +71,7 @@ const resultsEl = shallowRef<HTMLElement>()
 
 const searchIndexData = shallowRef(localSearchIndex)
 
-// hmr
+// Hot Module Replacement - updates search index without full page reload during development
 if (import.meta.hot) {
   import.meta.hot.accept('/@localSearchIndex', (m) => {
     if (m) {
@@ -70,7 +95,12 @@ const { activate } = useFocusTrap(el, {
 })
 const { localeIndex, theme } = vitePressData
 
-// Fuzzy search toggle state (default: false = exact search)
+/**
+ * Fuzzy search toggle state.
+ * - false: Exact phrase matching (default)
+ * - true: Fuzzy matching with typo tolerance and multi-word queries
+ * Persisted in localStorage for user preference across sessions.
+ */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
 const searchIndex = computedAsync(async () =>
@@ -80,6 +110,8 @@ const searchIndex = computedAsync(async () =>
       {
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
+        tokenize: (text: string) =>
+          text.replace(/[\u2060\u200B]/g, '').split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/).filter((t) => t),
         searchOptions: {
           fuzzy: false,
           prefix: true,
@@ -148,13 +180,18 @@ const mark = computedAsync(async () => {
   return markRaw(new Mark(resultsEl.value))
 }, null)
 
-const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
+// LRU cache for rendered excerpts (16 most recently viewed files)
+const cache = new LRUCache<string, Map<string, string>>(16)
 
+/**
+ * Main search handler - debounced to avoid excessive re-renders while typing.
+ * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
+ */
 debouncedWatch(
   () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
   async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
     if (old?.[0] !== index) {
-      // in case of hmr
+      // Clear cache on index change (e.g., locale switch or HMR update)
       cache.clear()
     }
 
@@ -165,62 +202,53 @@ debouncedWatch(
 
     if (!index) return
 
-    // Search with dynamic fuzzy option
+    /**
+     * Configure search options based on fuzzy mode.
+     * Fuzzy search splits multi-word queries and searches for:
+     * 1. All words present (AND) - matches "PC Optimization Hub"
+     * 2. Dashed version - matches "PC-Optimization-Hub"
+     * This allows flexible matching of space-separated or dash-separated content.
+     */
     const searchOptions = {
       fuzzy: isFuzzySearch.value ? 0.2 : false
     }
+    let query: any = filterTextValue
+
+    if (isFuzzySearch.value) {
+      const parts = filterTextValue.split(/\s+/).filter((p) => p)
+      if (parts.length > 0) {
+        const dashed = parts.join('-')
+        query = {
+          combineWith: 'OR',
+          queries: [
+            {
+              queries: parts,
+              combineWith: 'AND',
+              fuzzy: 0.2
+            },
+            {
+              queries: [dashed],
+              combineWith: 'AND',
+              fuzzy: 0.2
+            }
+          ]
+        }
+      }
+    }
+
     results.value = index
-      .search(filterTextValue, searchOptions)
+      .search(query, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
     enableNoResults.value = true
 
-    // Highlighting
+    // Fetch and process excerpts for detailed view highlighting
     const mods = showDetailedListValue
       ? await Promise.all(results.value.map((r) => fetchExcerpt(r.id)))
       : []
     if (canceled) return
-    for (const { id, mod } of mods) {
-      const mapId = id.slice(0, id.indexOf('#'))
-      let map = cache.get(mapId)
-      if (map) continue
-      map = new Map()
-      cache.set(mapId, map)
-      const comp = mod.default ?? mod
-      if (comp?.render || comp?.setup) {
-        const app = createApp(comp)
-        app.use(FloatingVue)
-        app.component('Tooltip', Tooltip)
-        // Silence warnings about missing components
-        app.config.warnHandler = () => {}
-        app.provide(dataSymbol, vitePressData)
-        Object.defineProperties(app.config.globalProperties, {
-          $frontmatter: {
-            get() {
-              return vitePressData.frontmatter.value
-            }
-          },
-          $params: {
-            get() {
-              return vitePressData.page.value.params
-            }
-          }
-        })
-        const div = document.createElement('div')
-        app.mount(div)
-        const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
-        headings.forEach((el) => {
-          const href = el.querySelector('a')?.getAttribute('href')
-          const anchor = href?.startsWith('#') && href.slice(1)
-          if (!anchor) return
-          let html = ''
-          while ((el = el.nextElementSibling!) && !/^h[1-6]$/i.test(el.tagName))
-            html += el.outerHTML
-          map!.set(anchor, html)
-        })
-        app.unmount()
-      }
-      if (canceled) return
-    }
+
+    await processExcerpts(mods, vitePressData, () => canceled)
+    if (canceled) return
 
     const terms = new Set<string>()
 
@@ -228,11 +256,18 @@ debouncedWatch(
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
       const text = map?.get(anchor) ?? ''
-      for (const term in r.match) {
-        terms.add(term)
+      if (isFuzzySearch.value) {
+        for (const term in r.match) {
+          terms.add(term)
+        }
       }
       return { ...r, text }
     })
+
+    if (!isFuzzySearch.value) {
+      terms.add(filterTextValue)
+      results.value = filterResults(results.value, filterTextValue)
+    }
 
     await nextTick()
     if (canceled) return
@@ -245,17 +280,186 @@ debouncedWatch(
       })
     })
 
-    const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
+    /**
+     * Custom feature: Merge nearby highlights in fuzzy mode.
+     * Combines individual word highlights that are close together (< 20px apart)
+     * into single continuous highlights, reducing navigation tedium.
+     */
+    if (isFuzzySearch.value) {
+      await mergeNearbyMarks()
+    }
+
+    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
     for (const excerpt of excerpts) {
       excerpt
         .querySelector('mark[data-markjs="true"]')
         ?.scrollIntoView({ block: 'center' })
     }
+    
+    /**
+     * Custom feature: Initialize match navigation state.
+     * Collects all highlight marks in each result for prev/next navigation.
+     * Each result tracks its own array of marks and current position.
+     */
+    const newResultMarks = new Map<number, HTMLElement[]>()
+    const newCurrentMarkIndex = new Map<number, number>()
+    
+    results.value.forEach((_, index) => {
+      const item = el.value?.querySelector(`#localsearch-item-${index}`)
+      const marks = Array.from(item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []) as HTMLElement[]
+      if (marks.length > 0) {
+        newResultMarks.set(index, marks)
+        newCurrentMarkIndex.set(index, 0)
+      }
+    })
+    resultMarks.value = newResultMarks
+    currentMarkIndex.value = newCurrentMarkIndex
+
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
   },
   { debounce: 200, immediate: true }
 )
+
+/* Custom Feature: Match Navigation State */
+const resultMarks = shallowRef<Map<number, HTMLElement[]>>(new Map())
+const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
+
+/**
+ * Merges adjacent highlight marks that are visually close together.
+ * This reduces the number of navigation stops in fuzzy mode where
+ * each individual word match would otherwise be a separate highlight.
+ * 
+ * Merging criteria:
+ * - Marks must be on the same line (within 5px vertical distance)
+ * - Marks must be close horizontally (< 20px apart)
+ */
+async function mergeNearbyMarks() {
+  const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
+  
+  for (const excerpt of excerpts) {
+    const marks = Array.from(excerpt.querySelectorAll('mark[data-markjs="true"]')) as HTMLElement[]
+    if (marks.length <= 1) continue
+    
+    // Process marks to merge those within 20 characters of each other
+    let i = 0
+    while (i < marks.length - 1) {
+      const currentMark = marks[i]
+      const nextMark = marks[i + 1]
+      
+      // Calculate distance between marks
+      const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
+      const nextStart = nextMark.offsetLeft
+      const distance = nextStart - currentEnd
+      
+      // Also check if they're on the same line (similar offsetTop)
+      const onSameLine = Math.abs(currentMark.offsetTop - nextMark.offsetTop) < 5
+      
+      // Merge if they're close (within 20px) and on the same line
+      if (distance >= 0 && distance < 20 && onSameLine) {
+        // Create a merged mark element
+        const textBetween = getTextBetweenMarks(currentMark, nextMark)
+        const mergedText = currentMark.textContent + textBetween + nextMark.textContent
+        currentMark.textContent = mergedText
+        
+        // Remove the next mark
+        nextMark.remove()
+        marks.splice(i + 1, 1)
+      } else {
+        i++
+      }
+    }
+  }
+}
+
+/**
+ * Extracts the plain text content between two mark elements.
+ * Used when merging adjacent highlights to preserve the spacing/text between them.
+ */
+function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
+  const parent = mark1.parentNode
+  if (!parent) return ''
+  
+  let text = ''
+  let node: Node | null = mark1.nextSibling
+  
+  while (node && node !== mark2) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      text += node.textContent || ''
+    }
+    node = node.nextSibling
+  }
+  
+  return text
+}
+
+/**
+ * Custom feature: Navigate to the next highlighted match in the current result.
+ * Cycles back to the first match when reaching the end.
+ * Smoothly scrolls the excerpt to center the highlighted match.
+ */
+function nextMatch(index: number) {
+  const marks = resultMarks.value.get(index)
+  let curr = currentMarkIndex.value.get(index) ?? 0
+  if (!marks) return
+
+  // Remove 'current' class from previous mark
+  marks[curr].classList.remove('current')
+
+  curr = (curr + 1) % marks.length
+  currentMarkIndex.value.set(index, curr)
+  triggerRef(currentMarkIndex)
+
+  // Add 'current' class to new mark
+  const newMark = marks[curr]
+  newMark.classList.add('current')
+  
+  const excerpt = newMark.closest('.excerpt')
+  if (excerpt) {
+    const markTop = newMark.offsetTop
+    const markHeight = newMark.offsetHeight
+    const excerptHeight = excerpt.clientHeight
+    
+    excerpt.scrollTo({
+      top: markTop - excerptHeight / 2 + markHeight / 2,
+      behavior: 'smooth'
+    })
+  }
+}
+
+/**
+ * Custom feature: Navigate to the previous highlighted match in the current result.
+ * Cycles to the last match when going before the first.
+ * Smoothly scrolls the excerpt to center the highlighted match.
+ */
+function prevMatch(index: number) {
+  const marks = resultMarks.value.get(index)
+  let curr = currentMarkIndex.value.get(index) ?? 0
+  if (!marks) return
+
+  // Remove 'current' class from previous mark
+  marks[curr].classList.remove('current')
+
+  curr = (curr - 1 + marks.length) % marks.length
+  currentMarkIndex.value.set(index, curr)
+  triggerRef(currentMarkIndex)
+
+  // Add 'current' class to new mark
+  const newMark = marks[curr]
+  newMark.classList.add('current')
+  
+  const excerpt = newMark.closest('.excerpt')
+  if (excerpt) {
+    const markTop = newMark.offsetTop
+    const markHeight = newMark.offsetHeight
+    const excerptHeight = excerpt.clientHeight
+    
+    excerpt.scrollTo({
+      top: markTop - excerptHeight / 2 + markHeight / 2,
+      behavior: 'smooth'
+    })
+  }
+}
 
 async function fetchExcerpt(id: string) {
   const file = pathToFile(id.slice(0, id.indexOf('#')))
@@ -266,6 +470,64 @@ async function fetchExcerpt(id: string) {
     console.error(e)
     return { id, mod: {} }
   }
+}
+
+async function processExcerpts(
+  mods: { id: string; mod: any }[],
+  vitePressData: any,
+  isCanceled: () => boolean
+) {
+  for (const { id, mod } of mods) {
+    if (isCanceled()) return
+    const mapId = id.slice(0, id.indexOf('#'))
+    let map = cache.get(mapId)
+    if (map) continue
+    map = new Map()
+    cache.set(mapId, map)
+    const comp = mod.default ?? mod
+    if (comp?.render || comp?.setup) {
+      const app = createApp(comp)
+      app.use(FloatingVue)
+      app.component('Tooltip', Tooltip)
+      app.config.warnHandler = () => {}
+      app.provide(dataSymbol, vitePressData)
+      Object.defineProperties(app.config.globalProperties, {
+        $frontmatter: {
+          get() {
+            return vitePressData.frontmatter.value
+          }
+        },
+        $params: {
+          get() {
+            return vitePressData.page.value.params
+          }
+        }
+      })
+      const div = document.createElement('div')
+      app.mount(div)
+      const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+      headings.forEach((el) => {
+        const href = el.querySelector('a')?.getAttribute('href')
+        const anchor = href?.startsWith('#') && href.slice(1)
+        if (!anchor) return
+        let html = ''
+        while ((el = el.nextElementSibling!) && !/^h[1-6]$/i.test(el.tagName))
+          html += el.outerHTML
+        map!.set(anchor, html)
+      })
+      app.unmount()
+    }
+  }
+}
+
+function filterResults(results: (SearchResult & Result)[], filterTextValue: string) {
+  return results.filter((r) => {
+    const phrase = filterTextValue.toLowerCase()
+    const inText = r.text?.toLowerCase().includes(phrase)
+    const inTitle = r.title.toLowerCase().includes(phrase)
+    const inTitles = r.titles.some((t) => t.toLowerCase().includes(phrase))
+    return inText || inTitle || inTitles
+  })
 }
 
 /* Search input focus */
@@ -285,7 +547,7 @@ onMounted(() => {
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') {
-    focusSearchInput()
+    focusSearchInput(false)
   }
 }
 
@@ -348,6 +610,27 @@ onKeyStroke('Enter', (e) => {
 
 onKeyStroke('Escape', () => {
   emit('close')
+})
+
+/**
+ * Custom feature: Keyboard navigation for cycling through highlights.
+ * Left/Right arrow keys navigate prev/next match within the selected result.
+ * Only active when detailed view is enabled and matches exist.
+ */
+onKeyStroke('ArrowLeft', (event) => {
+  // Navigate to previous match - only when viewing detailed excerpts with highlights
+  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    event.preventDefault()
+    prevMatch(selectedIndex.value)
+  }
+})
+
+onKeyStroke('ArrowRight', (event) => {
+  // Navigate to next match - only when viewing detailed excerpts with highlights
+  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    event.preventDefault()
+    nextMatch(selectedIndex.value)
+  }
 })
 
 // Translations
@@ -571,6 +854,15 @@ function onMouseMove(e: MouseEvent) {
                   </div>
                   <div class="excerpt-gradient-bottom" />
                   <div class="excerpt-gradient-top" />
+                  <div v-if="(resultMarks.get(index)?.length ?? 0) > 1" class="excerpt-actions" @click.prevent.stop @mousedown.prevent.stop>
+                    <button class="match-nav-button" @click.prevent.stop="prevMatch(index)" title="Previous match">
+                      <span class="vpi-chevron-left navigate-icon" />
+                    </button>
+                    <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
+                    <button class="match-nav-button" @click.prevent.stop="nextMatch(index)" title="Next match">
+                      <span class="vpi-chevron-right navigate-icon" />
+                    </button>
+                  </div>
                 </div>
               </div>
             </a>
@@ -599,6 +891,15 @@ function onMouseMove(e: MouseEvent) {
               <span class="vpi-corner-down-left navigate-icon" />
             </kbd>
             {{ translate('modal.footer.selectText') }}
+          </span>
+          <span v-if="showDetailedList">
+            <kbd>
+              <span class="vpi-arrow-left navigate-icon" />
+            </kbd>
+            <kbd>
+              <span class="vpi-arrow-right navigate-icon" />
+            </kbd>
+            to cycle matches
           </span>
           <span>
             <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">esc</kbd>
@@ -694,6 +995,46 @@ function onMouseMove(e: MouseEvent) {
   width: 100%;
 }
 
+/* Custom Feature: Match navigation controls overlay */
+.excerpt-actions {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background-color: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding: 2px 4px;
+  box-shadow: var(--vp-shadow-1);
+}
+
+.match-nav-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 2px;
+  color: var(--vp-c-text-2);
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.match-nav-button:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+.match-count {
+  font-size: 11px;
+  font-family: var(--vp-font-family-mono);
+  color: var(--vp-c-text-2);
+  user-select: none;
+  min-width: 24px;
+  text-align: center;
+}
+
 @media (max-width: 767px) {
   .search-input {
     padding: 6px 4px;
@@ -730,6 +1071,7 @@ function onMouseMove(e: MouseEvent) {
   opacity: 0.37;
 }
 
+/* Custom Feature: Fuzzy search toggle button */
 .toggle-fuzzy-button {
   display: flex;
   align-items: center;
@@ -879,12 +1221,21 @@ function onMouseMove(e: MouseEvent) {
   line-height: 130% !important;
 }
 
+/* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
+  transition: background-color 0.2s;
+}
+
+/* Custom Feature: Currently focused highlight (during navigation) */
+.excerpt :deep(mark.current) {
+  background-color: var(--vp-c-yellow-3);
+  color: #000;
+  font-weight: bold;
 }
 
 .excerpt :deep(.vp-code-group) .tabs {
