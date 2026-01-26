@@ -7,6 +7,7 @@ import { useTheme } from '../themes/themeHandler'
 import { themeRegistry } from '../themes/configs'
 import type { Theme } from '../themes/types'
 import CustomColorSelector from './CustomColorSelector.vue'
+import tinycolor from 'tinycolor2'
 
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
@@ -20,7 +21,7 @@ const showPalette = computed(() => {
 })
 
 // Use the theme system
-const { amoledEnabled, setAmoledEnabled, setTheme, mode, themeName } = useTheme()
+const { amoledEnabled, setAmoledEnabled, setTheme, setMode, mode, themeName, restorePreviousMode } = useTheme()
 
 // Custom color selector state
 const showCustomColorSelector = ref(false)
@@ -233,6 +234,8 @@ onMounted(async () => {
 
 watch(selectedColor, async (color) => {
   if (!color) return;
+  // Restore previous mode when switching away from custom
+  restorePreviousMode()
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
   await nextTick()
@@ -258,6 +261,10 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
   customTextColor.value = colors.text
   customBgColor.value = colors.background
   
+  // Create lighter versions of background for cards
+  const lightenedBg = tinycolor(colors.background).lighten(5).toString()
+  const lightenedBgAlt = tinycolor(colors.background).lighten(8).toString()
+  
   // Generate a custom theme - link color for links, text color for body text
   const customTheme: Theme = {
     name: 'custom',
@@ -272,8 +279,8 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
           soft: colors.link
         },
         bg: colors.background,
-        bgAlt: colors.background,
-        bgElv: colors.background,
+        bgAlt: lightenedBg,
+        bgElv: lightenedBgAlt,
         text: {
           1: colors.text,  // Body text uses this color
           2: colors.text,
@@ -342,8 +349,8 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
           soft: colors.link
         },
         bg: colors.background,
-        bgAlt: colors.background,
-        bgElv: colors.background,
+        bgAlt: lightenedBg,
+        bgElv: lightenedBgAlt,
         text: {
           1: colors.text,  // Body text uses this color
           2: colors.text,
@@ -411,6 +418,8 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
   themeRegistry['custom'] = customTheme
   selectedColor.value = '' as ColorNames
   setTheme('custom')
+  // Auto-set custom mode
+  setMode('custom')
 }
 
 </script>
@@ -446,7 +455,7 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="selectedColor = '' as ColorNames; setTheme(t)"
+          @click="selectedColor = '' as ColorNames; restorePreviousMode(); setTheme(t)"
           :title="themeRegistry[t].displayName"
         >
           <span

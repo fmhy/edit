@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-export type DisplayMode = 'light' | 'dark'
+export type DisplayMode = 'light' | 'dark' | 'custom'
 
 export interface ModeColors {
   // Brand colors (optional - if not specified, ColorPicker values are used)
