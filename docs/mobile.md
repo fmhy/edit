@@ -142,12 +142,12 @@
 
 * 🌐 **[ReVanced Megathread](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - ReVanced Resources / Megathread
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
-* ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
-* ⭐ **[ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Update ReVanced Apps Automatically / Unofficial
-* [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / Unofficial / [Telegram](https://t.me/fiorenmas)
-* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / Unofficial / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)
+* ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / Official / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* ⭐ **[ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Update ReVanced Apps Automatically
+* [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
+* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
-* [Enhancify](https://github.com/Graywizard888/Enhancify) - TUI Wrapper / Unofficial
+* [Enhancify](https://github.com/Graywizard888/Enhancify) - TUI Wrapper
 
 ***
 
@@ -245,12 +245,13 @@
 * [Muzei](https://muzei.co/), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Wallpapers
 * [r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
 * [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
+* [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Wallpapers
 * [⁠WallWidgy](https://www.wallwidgy.app/) - Minimal Wallpapers / [GitHub](https://github.com/not-ayan/wallwidgy)
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Diffuse](https://diffuse.app/) - Live Audio Wallpapers
-* [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Alembicons](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
+* [Candybar](https://github.com/zixpo/candybar), [⁠Wallpapers Clan](https://wallpapers-clan.com/), [Arcticons](https://arcticons.com/) or [Alembicons](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
 
 ***
 
@@ -540,8 +541,8 @@
 * ⭐ **[SD Maid SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Unlock Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sd-maid.md) / [Discord](https://discord.com/invite/8Fjy6PTfXu)
 * ⭐ **[Material Files](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
-* ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** or [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
-* ⭐ **[Pairdrop](https://pairdrop.net/)** - File Sharing / [GitHub](https://github.com/fm-sys/snapdrop-android)
+* ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** - File Manager / Archiver
+* ⭐ **[Pairdrop](https://pairdrop.net/)** - File Sharing / [GitHub](https://github.com/fm-sys/snapdrop-android) - File Archiver
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [File Navigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator) or [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Managers / Explorers
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
@@ -550,6 +551,7 @@
 * [RSAF](https://github.com/chenxiaolong/RSAF) - Add RClone Remotes to Android Storage Framework
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) or [Wormhole](https://gitlab.com/lukas-heiligenbrunner/wormhole) - File Sync / Sharing
 * [CrocGUI](https://github.com/howeyc/crocgui) - File Sync / Sharing
+* [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - File Archivers
 * [ConnectBot](https://connectbot.org/) - SSH Client
 * [Disky](https://felixnuesse.de/disky/) - Disk Usage Analyzer / [GitHub](https://github.com/newhinton/disky)
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
