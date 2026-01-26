@@ -240,6 +240,11 @@ debouncedWatch(
       })
     })
 
+    // Merge nearby marks in fuzzy mode for better navigation
+    if (isFuzzySearch.value) {
+      await mergeNearbyMarks()
+    }
+
     const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
     for (const excerpt of excerpts) {
       excerpt
@@ -270,6 +275,63 @@ debouncedWatch(
 
 const resultMarks = shallowRef<Map<number, HTMLElement[]>>(new Map())
 const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
+
+// Merge marks that are close together in fuzzy mode
+async function mergeNearbyMarks() {
+  const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
+  
+  for (const excerpt of excerpts) {
+    const marks = Array.from(excerpt.querySelectorAll('mark[data-markjs="true"]')) as HTMLElement[]
+    if (marks.length <= 1) continue
+    
+    // Process marks to merge those within 20 characters of each other
+    let i = 0
+    while (i < marks.length - 1) {
+      const currentMark = marks[i]
+      const nextMark = marks[i + 1]
+      
+      // Calculate distance between marks
+      const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
+      const nextStart = nextMark.offsetLeft
+      const distance = nextStart - currentEnd
+      
+      // Also check if they're on the same line (similar offsetTop)
+      const onSameLine = Math.abs(currentMark.offsetTop - nextMark.offsetTop) < 5
+      
+      // Merge if they're close (within 20px) and on the same line
+      if (distance >= 0 && distance < 20 && onSameLine) {
+        // Create a merged mark element
+        const textBetween = getTextBetweenMarks(currentMark, nextMark)
+        const mergedText = currentMark.textContent + textBetween + nextMark.textContent
+        currentMark.textContent = mergedText
+        
+        // Remove the next mark
+        nextMark.remove()
+        marks.splice(i + 1, 1)
+      } else {
+        i++
+      }
+    }
+  }
+}
+
+// Helper function to get text between two mark elements
+function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
+  const parent = mark1.parentNode
+  if (!parent) return ''
+  
+  let text = ''
+  let node: Node | null = mark1.nextSibling
+  
+  while (node && node !== mark2) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      text += node.textContent || ''
+    }
+    node = node.nextSibling
+  }
+  
+  return text
+}
 
 function nextMatch(index: number) {
   const marks = resultMarks.value.get(index)
@@ -478,6 +540,23 @@ onKeyStroke('Enter', (e) => {
 
 onKeyStroke('Escape', () => {
   emit('close')
+})
+
+// Keyboard shortcuts for match navigation (Left/Right arrow keys)
+onKeyStroke('ArrowLeft', (event) => {
+  // Only navigate matches if detailed view is enabled and there are matches
+  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    event.preventDefault()
+    prevMatch(selectedIndex.value)
+  }
+})
+
+onKeyStroke('ArrowRight', (event) => {
+  // Only navigate matches if detailed view is enabled and there are matches
+  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    event.preventDefault()
+    nextMatch(selectedIndex.value)
+  }
 })
 
 // Translations
@@ -738,6 +817,15 @@ function onMouseMove(e: MouseEvent) {
               <span class="vpi-corner-down-left navigate-icon" />
             </kbd>
             {{ translate('modal.footer.selectText') }}
+          </span>
+          <span v-if="showDetailedList">
+            <kbd>
+              <span class="vpi-arrow-left navigate-icon" />
+            </kbd>
+            <kbd>
+              <span class="vpi-arrow-right navigate-icon" />
+            </kbd>
+            to cycle matches
           </span>
           <span>
             <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">esc</kbd>
