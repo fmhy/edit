@@ -59,6 +59,7 @@ import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import Tooltip from './Tooltip.vue'
 import FloatingVue from 'floating-vue'
+import { sidebar } from '../../shared'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -236,9 +237,34 @@ debouncedWatch(
       }
     }
 
-    results.value = index
+    function findPageTitle(items: any[], path: string): string | null {
+      for (const item of items) {
+        if (item.link === path) return item.text
+        if (item.items) {
+          const found = findPageTitle(item.items, path)
+          if (found) return found
+        }
+      }
+      return null
+    }
+
+    const rawResults = index
       .search(query, searchOptions)
       .slice(0, 16) as (SearchResult & Result)[]
+
+    results.value = rawResults.map((r) => {
+      const [id] = r.id.split('#')
+      const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
+      const pageTitle = findPageTitle(Array.isArray(sidebar) ? sidebar : [], cleanPath)
+      const titles = [...r.titles]
+      
+      if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
+        titles.unshift(pageTitle)
+      }
+
+      return { ...r, titles }
+    })
+
     enableNoResults.value = true
 
     // Fetch and process excerpts for detailed view highlighting
@@ -256,11 +282,13 @@ debouncedWatch(
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
       const text = map?.get(anchor) ?? ''
+      
       if (isFuzzySearch.value) {
         for (const term in r.match) {
           terms.add(term)
         }
       }
+
       return { ...r, text }
     })
 
@@ -1190,6 +1218,7 @@ function onMouseMove(e: MouseEvent) {
 .titles {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 4px;
   position: relative;
   z-index: 1001;
@@ -1200,6 +1229,17 @@ function onMouseMove(e: MouseEvent) {
   display: flex;
   align-items: center;
   gap: 4px;
+}
+
+.title .text {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.title-icon + .title .text {
+  font-weight: 600;
+  border-bottom: 1px solid var(--vp-c-brand-1);
 }
 
 .title.main {
