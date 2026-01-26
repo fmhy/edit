@@ -529,7 +529,7 @@
 * [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
-* [Ground.news](https://ground.news/) - Sign-Up Required
+* [Ground.news](https://ground.news/) - Requires Sign-Up
 * [Upstract](https://upstract.com/)
 * [⁠100.news](https://100.news/)
 * [AllSides](https://www.allsides.com/)
@@ -761,7 +761,7 @@
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
-* [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
+* [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Requires Library Card
 * [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools

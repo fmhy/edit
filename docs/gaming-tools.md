@@ -112,7 +112,7 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Gamepad-Tester](https://hardwaretester.com/gamepad) or [Test Gamepad](https://testgamepad.online/) - Online Controller Testers
 * [DualSense Tester](https://ds.daidr.me/) - Web ⁠DualSense Tester / [GitHub](https://github.com/daidr/dualsense-tester)
-* [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Chromium Required / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
+* [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
@@ -403,7 +403,7 @@
 * ⭐ **[CnCNet](https://cncnet.org/)** - Multiplayer Command & Conquer, Red Alert & more / [Discord](https://discord.com/invite/aJRJFe5)
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classified](https://tf2classified.com/) - Team Fortress 2 Classified Mod
-* [AlterWare](https://alterware.dev/) - COD BO3, AW, and Ghosts Multiplayer Client / Clean Files Required / [Docs](https://alterware.dev/docs) / [Discord](https://discord.com/invite/2ETE8engZM)
+* [AlterWare](https://alterware.dev/) - COD BO3, AW, and Ghosts Multiplayer Client / Requires Clean Files / [Docs](https://alterware.dev/docs) / [Discord](https://discord.com/invite/2ETE8engZM)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/)
 * [Ezz-BOIII](https://rentry.co/FMHYB64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
@@ -432,7 +432,7 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
-* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup
+* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Requires Sign-Up
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [⁠Warehouse](https://wiki.aiwarehouse.xyz/) - Transformers, DJ Hero, Blur, Grid, GH3, & Singularity Multiplayer
@@ -578,7 +578,7 @@
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
 * [xbGuard](https://xbguard.live) - Xbox 360 Stealth Server / [Discord](https://discord.gg/YkpmBHK)
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
-* [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Decompiler Required
+* [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 
 ***
@@ -665,7 +665,7 @@
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher / [Discord](https://discord.com/invite/S4cSFjq)
 * [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Launcher / Prism Launcher Fork w/ Alt Offline Support / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / [Discord](https://discord.com/invite/W5XVwYY7GQ)
-* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / VPN May Be Required to View Site
+* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / May Require VPN to View Site
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mc_launchers_account_req) - Launchers that Require Official Account
 
@@ -907,7 +907,7 @@
 
 * ⭐ **[Retro Rewind](https://rentry.org/Retro-Rewind)** - Retro MKW Tracks / Multiplayer / [Discord](https://discord.gg/qbr3Y4PJFH)
 * ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/) / [Troubleshooting](https://rentry.org/RR-Fixes)
-* ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc Required / [Discord](https://discord.com/invite/XMEQGDK)
+* ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Requires Disc / [Discord](https://discord.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
 * ⭐ **[CTGP Deluxe](https://www.ctgpdx.com/)** - Custom MK8DX Tracks
@@ -1022,7 +1022,7 @@
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/), [Master Duel Meta](https://www.masterduelmeta.com/) / [Discord](https://discord.com/invite/masterduelmeta) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists / Metas
-* [Untap.in](https://untap.in/) - Test Card Game Decks / Signup
+* [Untap.in](https://untap.in/) - Test Card Game Decks / Requires Sign-Up
 
 ***
 
@@ -1036,8 +1036,8 @@
 * [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
-* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Signup
-* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Signup
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Requires Sign-Up
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Requires Sign-Up
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
 

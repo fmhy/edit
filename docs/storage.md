@@ -424,7 +424,7 @@
 ## SMS Verification Sites
 
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
-* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Sign-Up Required
+* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Sign-Up
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**, [2](https://receive-sms.com/)
 * ⭐ **[receive-sms](https://receive-sms.cc/)**

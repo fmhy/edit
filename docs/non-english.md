@@ -134,8 +134,8 @@
 
 ## ▷ Torrenting / Торентиране
 
-* [Zamunda](https://zamunda.net/) - Video / Audio / Books / Sign-Up Required
-* [ArenaBG](https://arenabg.com/en/) - Movies / TV / Sign-Up Required
+* [Zamunda](https://zamunda.net/) - Video / Audio / Books / Requires Sign-Up
+* [ArenaBG](https://arenabg.com/en/) - Movies / TV / Requires Sign-Up
 
 ## ▷ Streaming / Стрийминг
 
@@ -295,7 +295,7 @@
 * [books.l3zc](https://books.l3zc.com/) - Fiction / Non-fiction
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
-* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
 * [yodu](https://www.yodu.org/) - Books / Light-Novels
 * [256zw](https://www.256zw.org/) - Light-Novels
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
@@ -393,7 +393,7 @@
 
 ## ▷ Reading / Čtení
 
-* [xTrance](https://xtrance.info/) - Books / Download / Sign-Up Required
+* [xTrance](https://xtrance.info/) - Books / Download / Requires Sign-Up
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 * [eknihovna](https://eknihovna.maxzone.eu/index.html) - Books
@@ -415,7 +415,7 @@
 
 # ► Finnish / Suomi
 
-* [finna.fi](https://www.finna.fi/) - Media Archive / Library Card Required
+* [finna.fi](https://www.finna.fi/) - Media Archive / Requires Library Card
 * [Sanuli](https://sanuli.fi/) - Finnish Wordle
 * [Viittomaluettelot](https://suvi.viittomat.net/) - Sign Language Dictionary
 
@@ -423,7 +423,7 @@
 
 * [Elonet](https://elonet.finna.fi/) - Classic Movies
 * [Areena](https://areena.yle.fi/) - Movies / TV / 1080p
-* [Viddla](https://www.viddla.fi/) - Movies / TV / Library Card Required
+* [Viddla](https://www.viddla.fi/) - Movies / TV / Requires Library Card
 * [TVKaista](https://www.tvkaista.org/) - Finnish IPTV
 * [Podcast24](https://podcast24.fi/) - Podcasts
 * [helpotnopat](https://helpotnopat.fi/) - Courses
@@ -466,10 +466,10 @@
 
 ## ▷ Torrenting
 
-* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Sign-Up Required
+* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Requires Sign-Up
 * [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://www1.cpasbien.to/) - Video / Audio / ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Sign-Up Required
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Requires Sign-Up
 
 ## ▷ Streaming
 
@@ -483,16 +483,16 @@
 * [yakriv](https://yakriv.com/), [Kordoz](https://www.kordoz.com/) or [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
-* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Sign-Up Required
-* [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / French VPN Required for Some Content
+* [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
+* [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / Requires French VPN for Some Content
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [fs6](https://fs6.lol/) - Movies / TV / Anime
 * [flemmix](https://flemmix.mom/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
-* [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Sign-Up Required
-* [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Sign-Up Required
-* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Sign-Up Required
-* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Sign-Up Required
+* [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Sign-Up
+* [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Requires Sign-Up
+* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Requires Sign-Up
+* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Requires Sign-Up
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [toonanime](https://www.toonanime.biz/) - Anime / Sub / Dub
 * [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
@@ -558,7 +558,7 @@
 * [FilmFans](https://filmfans.org/) - Video
 * [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
-* [Data Load](https://www.data-load.in/) - Movies / Sign-Up Required
+* [Data Load](https://www.data-load.in/) - Movies / Requires Sign-Up
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [CannaPower](https://canna-power.to/) - Audio
 
@@ -591,7 +591,7 @@
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
 * [Edels Gute Stube](https://edels-stube.eu/) - Live TV / Sports / Movies / TV / Documentaries / Dub / 720p
 * [LiveTV](https://livetv.sx/dex/) - Sports
-* [SRF.CH](https://www.srf.ch/) - Live TV / Sports / Swiss VPN Required
+* [SRF.CH](https://www.srf.ch/) - Live TV / Sports / Requires Swiss VPN
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [livestream](https://www.livestream.ad/) - Live TV
 * [⁠Zapp](https://github.com/mediathekview/zapp) - Live TV / Android
@@ -870,8 +870,8 @@
 * [Altadefinizione](https://altadefinizione.ist/) - Movies / Dub / 1080p / [Status](https://telegra.ph/Link-Aggiornato-Altadefinizione-08-07) / [Telegram](https://t.me/+x_9jyFBbYBpkYTRi)
 * [CB01](https://cb01net.site/), [2](https://cb01.uno) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Italian VPN Required / Sign-Up Unlocks Extra Features
-* [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Italian VPN Required / Sign-Up Unlocks Channel History
+* [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
+* [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Requires Italian VPN / Sign-Up Unlocks Channel History
 * [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animeworlditalia.com/) / [Telegram](https://t.me/AnimeWorldITA2)
 * [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animesaturn.me/) / [Telegram](https://t.me/AnimeSaturnRedirect)
 * [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
@@ -1348,7 +1348,7 @@
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
-* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / VPN Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [UZTracker](https://uztracker.net/) - Video / Audio / Books
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
@@ -1373,7 +1373,7 @@
 
 ## ▷ Streaming / Стриминг
 
-* ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / VPN Required
+* ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * ⭐ **[reyohoho](https://reyohoho.github.io/reyohoho/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[yummyani](https://site.yummyani.me/)** - Anime / Sub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
@@ -1499,7 +1499,7 @@
 ## ▷ Reading
 
 * [pdfknihy](https://pdfknihy.sk/zadarmo/) - Books
-* [eknizky](https://eknizky.sk/) - Books / Signup Required for Downloads
+* [eknizky](https://eknizky.sk/) - Books / Requires Sign-Up for Downloads
 
 ***
 
@@ -1584,9 +1584,9 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Sign-Up Required / Castilian / Latino / [Discord](https://discord.gg/BRKCXEe)
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
-* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Sign-Up Required / [Telegram](https://t.me/playdedelink)
+* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Requires Sign-Up / [Telegram](https://t.me/playdedelink)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [ModoCine](https://modocine.com/) - Movies / TV
@@ -1659,7 +1659,7 @@
 
 ## ▷ Reading / Leer
 
-* ⭐ **[EpubLibre](https://www.epublibre.org/)** - Books / Torrents / VPN may be Required
+* ⭐ **[EpubLibre](https://www.epublibre.org/)** - Books / Torrents / May Require VPN
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
@@ -1749,7 +1749,7 @@
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
-* [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / VPN Required
+* [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
@@ -1758,7 +1758,7 @@
 * [AnimeciX](https://anm.cx/) - Anime
 * [SeiCode](https://seicode.net/) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
-* [Canlı TV](https://www.canlitv.me/) - Live TV / VPN Required 
+* [Canlı TV](https://www.canlitv.me/) - Live TV / Requires VPN
 * [Kral Bozguncu](https://discord.gg/kral) - Talk and watch football.
 
 ## ▷ Reading / Okuma
@@ -1838,7 +1838,7 @@
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
-* [NetHD](https://nethd.org/) - Video / Audio / Sign-Up Required
+* [NetHD](https://nethd.org/) - Video / Audio / Requires Sign-Up
 
 ## ▷ Streaming / Phát trực tuyến
 
@@ -1862,7 +1862,7 @@
 * [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Live TV / Movies / TV / Anime / Sub / 720p
-* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Sign-Up Required
+* [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p / Requires Sign-Up
 
 ## ▷ Reading / Đọc
 
