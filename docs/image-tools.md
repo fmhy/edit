@@ -106,7 +106,7 @@
 * ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
-* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Sign-Up Required
+* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
 * [PhotoJoiner](https://www.photojoiner.com/) - Collage Maker
 * [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc 
@@ -281,6 +281,7 @@
 * [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
+* [⁠Square Face Generator](https://squareface.app/) - Square Face Avatar Generator
 * [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [⁠FreeLogoMaker](https://myfreelogomaker.com/), [⁠BrandCrowd](https://www.brandcrowd.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
@@ -464,7 +465,7 @@
 * [Buzzly](https://buzzly.art/) - User-Made Art / Fanart
 * [Artfol](https://www.artfol.app/) - User-Made Art / Fanart
 * [Cara](https://cara.app/) - User-Made Art / Fanart
-* [InkBlot](https://inkblot.art/) - User-Made Art / Fanart / Sign-Up Required
+* [InkBlot](https://inkblot.art/) - User-Made Art / Fanart / Requires Sign-Up
 * [⁠Zerochan](https://www.zerochan.net/) - Japanese Fanart / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
 * [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
@@ -514,10 +515,10 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
 * [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Sign-Up Required
-* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Sign-Up Required
+* [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
+* [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
 * [STLFinder](https://www.stlfinder.com/) - Multi-Site Search
-* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Sign-Up Required
+* [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Requires Sign-Up
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Handz](https://www.handz.design/) - 3D Hand Models
@@ -750,6 +751,10 @@
 
 ## ▷ Offline Galleries
 
+* **Note** - Note that the options listed in this section require self-hosting.
+
+***
+
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
 * [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [GitHub](https://github.com/immich-app/immich)
@@ -777,14 +782,14 @@
 
 * ⭐ **[Postimages](https://postimages.org/)** - 32MB / Forever
 * [Rimgo](https://rimgo.codeberg.page/), [2](https://codeberg.org/rimgo/instances) - Imgur Frontend
-* [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Sign-Up Required
-* [lookimg](https://lookimg.com/) - 20MB / Forever / Sign-Up Required
-* [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Sign-Up Required
+* [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Requires Sign-Up
+* [lookimg](https://lookimg.com/) - 20MB / Forever / Requires Sign-Up
+* [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Requires Sign-Up
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/)
 * [Google Photos](https://photos.google.com/) - 200MB / 15GB Cloud / Forever
 * [Ente](https://ente.io/) - Unlimited / 10GB Cloud
-* [Piczel](https://piczel.tv/) - 10MB / Forever / Sign-Up Required
+* [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
@@ -797,7 +802,7 @@
 
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
-* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Sign-Up Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB W/ Account) / Forever
 * [imgbox](https://imgbox.com/) - 10MB / Forever

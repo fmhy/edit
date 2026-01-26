@@ -170,7 +170,7 @@
 
 ## ▷ Virtual Machines
 
-* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - OS Emulators / VMs
+* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - Browser Operating Systems / VMs
 * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
 * ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
 * ⭐ **[QEMU](https://www.qemu.org/)** - Virtual Machine / Use w/ Virt-Manager or Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
@@ -416,7 +416,7 @@
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
-* [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Extension Not Required
+* [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension 
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
 * [ElevenClock](https://www.marticliment.com/elevenclock/) - Clock Customization

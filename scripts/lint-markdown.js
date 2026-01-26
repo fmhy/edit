@@ -105,13 +105,49 @@ files.forEach(file => {
                 }
             }
         }
+        // Check 8: Asymmetric spaces around slash
+        // We must exclude URLs (http://...)
+        const lineWithoutLinks = line.replace(/https?:\/\/[^\s)]+/g, 'LINK_PLACEHOLDER');
 
+        // Ignore VitePress sidebar links (e.g. "link: /foo")
+        if (!/^\s*link:/i.test(line)) {
+            // A. Missing space after slash: " /Word"
+            // Exception: /> (HTML close tag)
+            // Exception: /Word/ (Path/Board e.g. /co/)
+            const missingSpaceAfter = lineWithoutLinks.matchAll(/\s\/([^\s]+)/g);
+            for (const match of missingSpaceAfter) {
+                const wordAfter = match[1];
+                if (wordAfter.startsWith('>')) continue; // Ignore />
+                // Ignore paths (e.g. /bin), subreddits (/r/foo), or compound words (Word/Word)
+                if (wordAfter.includes('/')) continue;
+
+                errors.push(`Missing space after slash (e.g. "Word /Word"): "${match[0]}"`);
+                break;
+            }
+
+            // B. Missing space before slash: "Word/ "
+            // Exceptions: w/ (with), r/ (reddit), u/ (user), c/ (community)
+            // Exception: /Word/ (Path/Board e.g. /b/)
+            const missingSpaceBefore = lineWithoutLinks.matchAll(/([^\s]+)\/\s/g);
+            for (const match of missingSpaceBefore) {
+                const wordBefore = match[1];
+                // Allow common abbreviations: w/, r/, u/, c/
+                if (/^(w|r|u|c)$/i.test(wordBefore)) continue;
+                // Allow paths ending in slash or containing slash: /b/ or [/int
+                if (wordBefore.includes('/')) continue;
+
+                errors.push(`Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`);
+                break;
+            }
+        }
 
         if (errors.length > 0) {
             hasErrors = true;
             errors.forEach(err => {
-                console.log(`${relativePath}:${lineNum} - ${err}`);
-                console.log(`  Line: ${line.trim()}`);
+                // file:line - Error (in red/cyan)
+                console.log(`\x1b[36m${relativePath}:${lineNum}\x1b[0m - \x1b[31m${err}\x1b[0m`);
+                // Source line (dimmed)
+                console.log(`  \x1b[90m${line.trim()}\x1b[0m`);
             });
         }
     });

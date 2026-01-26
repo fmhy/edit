@@ -31,7 +31,7 @@
 
 ## ▷ Pastebins
 
-* ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Sign-Up Required
+* ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)**, [2](https://notebin.de/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
@@ -135,15 +135,15 @@
 
 * ⭐ **[LanguageTool](https://languagetool.org/)** - Web App
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
-* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Sign-Up Required
+* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Requires Sign-Up
 * [Harper](https://writewithharper.com/) - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [DeepL Write](https://www.deepl.com/write) - Web App
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/) - Web App
-* [EditGPT](https://www.editgpt.app/) - Web App / Sign-Up Required
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Sign-Up Required
-* [Outwrite](https://www.outwrite.com/) - Web App / Sign-Up Required
+* [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up
+* [Outwrite](https://www.outwrite.com/) - Web App / Requires Sign-Up
 
 ***
 

@@ -289,7 +289,7 @@
 
 # ► Game Dev Tools
 
-* 🌐 **[List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines)**, [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
+* 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://en.wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
@@ -367,7 +367,7 @@
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
-* [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-Up Required / Online Workspace
+* [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
 * [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
 * [Helix](https://helix-editor.com/) - Kakuone / Neovim-Based Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
@@ -395,7 +395,7 @@
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
-* [Atheos](https://www.atheos.io/) - Server Required / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
+* [Atheos](https://www.atheos.io/) - Requires Server / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Cloud IDE
 * [html-css-js](https://html-css-js.com/) - Cloud IDE
@@ -669,6 +669,7 @@
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev YouTube Channel Indexes
 * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
+* ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
@@ -710,7 +711,7 @@
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
-* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery 
+* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -844,9 +845,9 @@
 
 ## ▷ WordPress Tools
 
-* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Sign-Up Required
+* ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Requires Sign-Up
 * ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
-* [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
+* [Babiato](https://babia.to/) - Themes / Plugins Forum / Requires Sign-Up
 * [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Themes / Telegram
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
@@ -929,7 +930,7 @@
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
-* [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Real Information Required / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
+* [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum

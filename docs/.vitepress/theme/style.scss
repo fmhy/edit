@@ -390,3 +390,13 @@
   background-color: currentColor;
   color: inherit;
 }
+
+/* Search modal blurred backdrop */
+.VPLocalSearchBox .backdrop {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.dark .VPLocalSearchBox .backdrop {
+  background: rgba(0, 0, 0, 0.6);
+}

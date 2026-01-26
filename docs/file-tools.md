@@ -242,7 +242,7 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows, Mac, Linux / Signup Required / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+* ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows, Mac, Linux / Requires Sign-Up / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 * ⭐ **[PDF24](https://www.pdf24.org/)** / Web-Based / Windows
 * [⁠PDF4QT](https://jakubmelka.github.io/) / Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)
 * [Foxit](https://www.foxit.com/pdf-reader/) / Web-Based / Windows, Linux, Android, iOS / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
@@ -325,61 +325,61 @@
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Sign-Up Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
-* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Sign-Up Required
-* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
+* [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Requires Sign-Up
+* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Sign-Up
 * [⁠UploadHive](https://uploadhive.com/) - Unlimited / 50 Days After Last Download / Use Adblock
-* [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Sign-Up Required
+* [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Sign-Up
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
-* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Sign-Up Required
+* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Sign-Up
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
-* [Drop Download](https://drop.download/) - 25GB / 90 Days / Sign-Up Required
+* [Drop Download](https://drop.download/) - 25GB / 90 Days / Requires Sign-Up
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [⁠Filecad](https://www.filecad.com/) - 10GB / 120 Days
 * [⁠Dfiles](https://dfiles.com/) - 10GB / 90 Days
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
-* [⁠Gulfup](https://www.gulf-up.com/) - 10GB / 30 Days / Sign-Up Required
+* [⁠Gulfup](https://www.gulf-up.com/) - 10GB / 30 Days / Requires Sign-Up
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [FileFast](https://filefa.st/), [2](https://gofile.to/) - 5GB / Unlimited
-* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Sign-Up Required
+* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Requires Sign-Up
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Filefast](https://filefa.st/) - 5GB / Forever
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
-* [imgur.gg](https://imgur.gg/) - 5GB / Forever / Sign-Up Required
+* [imgur.gg](https://imgur.gg/) - 5GB / Forever / Requires Sign-Up
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
-* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Sign-Up Required
+* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
-* [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
+* [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)
-* [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
+* [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Requires Email
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [KrakenFiles](https://krakenfiles.com/) - 1GB / 3 Months on Sign-Up
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
-* [FileGo](https://filego.app/) - 2GB / 30 Days / Sign-Up Required
+* [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
-* [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Sign-Up Required
-* [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Sign-Up Required
-* [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Sign-Up Required
-* [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
+* [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
+* [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Requires Sign-Up
+* [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Requires Sign-Up
+* [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
@@ -398,7 +398,7 @@
 * ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
 * ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$10 for 3TB / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
-* [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Sign-Up Required for Sharing
+* [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Requires Sign-Up for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB

@@ -240,7 +240,7 @@
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md) / [GitHub](https://github.com/celenityy/Phoenix)
-* [LibreWolf](https://librewolf.net/) - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
+* [LibreWolf](https://librewolf.net/) - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater), [2](https://codeberg.org/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 
@@ -277,11 +277,10 @@
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
-* ⭐ **[Signal](https://signal.org/)** - All Platforms / Phone # Required / [Stickers](https://signalstickers.org/) / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android
-Sticker Packs for Signal / Some NSFW
+* ⭐ **[Signal](https://signal.org/)** - All Platforms / Requires Phone / [Stickers](https://signalstickers.org/) / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android Sticker Packs for Signal / Some NSFW
 * ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)
 * [Matrix](https://matrix.org/) / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Clients / Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
-* [Wire](https://wire.com/en/download/) - All Platforms / Phone # Required / [GitHub](https://github.com/wireapp)
+* [Wire](https://wire.com/en/download/) - All Platforms / Requires Phone / [GitHub](https://github.com/wireapp)
 * [Session](https://getsession.org/) - All Platforms / [GitHub](https://github.com/session-foundation)
 * [Keybase](https://keybase.io/) - All Platforms / [GitHub](https://github.com/keybase/client)
 * [Jami](https://jami.net/) - All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
@@ -317,7 +316,7 @@ Sticker Packs for Signal / Some NSFW
 
 * ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches / [GitHub](https://github.com/HaveIBeenPwned)
 * ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - Password Breach Check
-* [Mozilla Monitor](https://monitor.mozilla.org/) - Data Breach Check / Sign-up Required / [GitHub](https://github.com/mozilla/blurts-server)
+* [Mozilla Monitor](https://monitor.mozilla.org/) - Data Breach Check / Requires Sign-Up / [GitHub](https://github.com/mozilla/blurts-server)
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
 * [Intelligence X](https://intelx.io/) - Password Breach Check / [GitHub](https://github.com/IntelligenceX)
 * [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check

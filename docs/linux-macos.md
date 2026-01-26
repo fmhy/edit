@@ -65,7 +65,7 @@
 
 * 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index w/ News + Rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
 * 🌐 **[ATL ISO Archive](https://iso.atl.dev/)** - Linux / BSD ISO Archive
-* ⭐ **[DistroChooser](https://distrochooser.de/)** - Quiz-Based Distro Selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) - Quiz-Based Distro Selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
 * [distro.moe](https://distro.moe/) - Random Distro Finder
 * [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
 * [OpenSourceFeed](https://www.opensourcefeed.org/) - Open-Source Distros
@@ -282,7 +282,7 @@
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)**, [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) or [Proton Sarek](https://github.com/pythonlover02/Proton-Sarek) (old gpus) - Linux Game Launcher Compatibility Managers
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Sign-Up Required
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)**, [2](https://1337x.to/user/johncena141/) - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
 * [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
@@ -393,10 +393,11 @@
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
 * 🌐 **[⁠RackRat](https://rackrat.net/)** - Ebay Rackmount Server Prices / Comparisons
+* ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages
 * [Glance](https://github.com/glanceapp/glance) - Feed Dashboard 
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
-* [r/SelfHosted Wiki](https://wiki.r-selfhosted.com/) - Selfhosting Guides / Resources / Community / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
+* [r/SelfHosted Wiki](https://wiki.r-selfhosted.com/) - Self-Hosting Guides / Resources / Community / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
 * [HowtoForge](https://www.howtoforge.com/) / [GitHub](https://github.com/lollipopkit/flutter_server_box) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [serverbox](https://cdn.lpkt.cn/serverbox/), [⁠Termix](https://github.com/Termix-SSH/Termix) / [Discord](https://discord.gg/jVQGdvHDrf), [EasyPanel](https://easypanel.io/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/), [CasaOS](https://casaos.zimaspace.com/) / [GitHub](https://github.com/IceWhaleTech/CasaOS) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Managers / Status
@@ -485,6 +486,7 @@
 ## ▷ Raspberry Pi
 
 * 🌐 **[Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)** - Raspberry Pi Tools / Resources
+* 🌐 **[Pi-Apps](https://pi-apps.io/)** - Raspberry Pi App Store / [GitHub](https://github.com/Botspot/pi-apps)
 * [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
@@ -636,7 +638,7 @@
 * [Haxmac](https://haxmac.cc/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacKed](https://macked.app/)
-* [WebCatalog](https://webcatalog.io/) - Signup Required
+* [WebCatalog](https://webcatalog.io/) - Requires Sign-Up
 * [Macintosh Garden](https://macintoshgarden.org/) - Oldschool Software
 * [MacintoshRepository](https://www.macintoshrepository.org/) - Oldschool Software
 * [ThriftMac](https://thriftmac.com/) - Freeware

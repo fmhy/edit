@@ -41,22 +41,22 @@
 ***
 
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Sign-Up Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Sign-Up Required
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Sign-Up Required
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Requires Sign-Up
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
-* [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/), [4](https://filemoon.in/) - 50GB / 40TB per account / Forever / Sign-Up Required
+* [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/), [4](https://filemoon.in/) - 50GB / 40TB per account / Forever / Requires Sign-Up
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Sign-Up Required
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
 * [Luluvdoo](https://luluvdoo.com/) - 15GB / 60 Days Since Last Download
-* [Streamtape](https://streamtape.com/) - 15GB / Sign-Up Required / [.to](https://streamtape.to/)
+* [Streamtape](https://streamtape.com/) - 15GB / Requires Sign-Up / [.to](https://streamtape.to/)
 * [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
@@ -201,7 +201,7 @@
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
 * [AVPlayer](http://www.awesomevideoplayer.com/), [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
-* [PotPlayer](https://potplayer.daum.net/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
+* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
 * [uView](https://www.idruf.com/) - Video Player
@@ -363,7 +363,7 @@
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
-* [⁠XT Fetch](https://xt-fetch.vercel.app/) - Multi-Site / Online
+* [Downaria](https://downaria.vercel.app/) - Multi-Site / Online
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
@@ -392,7 +392,7 @@
 ## ▷ Video Editors
 
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Sign-Up Required (Fake Info Works) / [Subtitle Generator](https://github.com/tmoroney/auto-subs) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Subtitle Generator](https://github.com/tmoroney/auto-subs) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
 * [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
@@ -422,7 +422,7 @@
 
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
-* ⭐ **[Mastershot](https://mastershot.app/)** - Sign-Up Required
+* ⭐ **[Mastershot](https://mastershot.app/)** - Requires Sign-Up
 * [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
