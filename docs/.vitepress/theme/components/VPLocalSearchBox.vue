@@ -80,6 +80,8 @@ const searchIndex = computedAsync(async () =>
       {
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
+        tokenize: (text: string) =>
+          text.split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/).filter((t) => t),
         searchOptions: {
           fuzzy: false,
           prefix: true,
@@ -169,7 +171,29 @@ debouncedWatch(
     const searchOptions = {
       fuzzy: isFuzzySearch.value ? 0.2 : false
     }
-    const query = filterTextValue
+    let query: any = filterTextValue
+
+    if (isFuzzySearch.value) {
+      const parts = filterTextValue.split(/\s+/).filter((p) => p)
+      if (parts.length > 0) {
+        const dashed = parts.join('-')
+        query = {
+          combineWith: 'OR',
+          queries: [
+            {
+              queries: parts,
+              combineWith: 'AND',
+              fuzzy: 0.2
+            },
+            {
+              queries: [dashed],
+              combineWith: 'AND',
+              fuzzy: 0.2
+            }
+          ]
+        }
+      }
+    }
 
     results.value = index
       .search(query, searchOptions)
