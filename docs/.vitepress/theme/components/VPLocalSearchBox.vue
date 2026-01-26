@@ -22,6 +22,7 @@ import {
   onMounted,
   ref,
   shallowRef,
+  triggerRef,
   watch,
   watchEffect,
   type Ref
@@ -245,11 +246,88 @@ debouncedWatch(
         .querySelector('mark[data-markjs="true"]')
         ?.scrollIntoView({ block: 'center' })
     }
+    
+    // Populate match navigation state
+    const newResultMarks = new Map<number, HTMLElement[]>()
+    const newCurrentMarkIndex = new Map<number, number>()
+    
+    results.value.forEach((_, index) => {
+      const item = el.value?.querySelector(`#localsearch-item-${index}`)
+      const marks = Array.from(item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []) as HTMLElement[]
+      if (marks.length > 0) {
+        newResultMarks.set(index, marks)
+        newCurrentMarkIndex.set(index, 0)
+      }
+    })
+    resultMarks.value = newResultMarks
+    currentMarkIndex.value = newCurrentMarkIndex
+
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
   },
   { debounce: 200, immediate: true }
 )
+
+const resultMarks = shallowRef<Map<number, HTMLElement[]>>(new Map())
+const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
+
+function nextMatch(index: number) {
+  const marks = resultMarks.value.get(index)
+  let curr = currentMarkIndex.value.get(index) ?? 0
+  if (!marks) return
+
+  // Remove 'current' class from previous mark
+  marks[curr].classList.remove('current')
+
+  curr = (curr + 1) % marks.length
+  currentMarkIndex.value.set(index, curr)
+  triggerRef(currentMarkIndex)
+
+  // Add 'current' class to new mark
+  const newMark = marks[curr]
+  newMark.classList.add('current')
+  
+  const excerpt = newMark.closest('.excerpt')
+  if (excerpt) {
+    const markTop = newMark.offsetTop
+    const markHeight = newMark.offsetHeight
+    const excerptHeight = excerpt.clientHeight
+    
+    excerpt.scrollTo({
+      top: markTop - excerptHeight / 2 + markHeight / 2,
+      behavior: 'smooth'
+    })
+  }
+}
+
+function prevMatch(index: number) {
+  const marks = resultMarks.value.get(index)
+  let curr = currentMarkIndex.value.get(index) ?? 0
+  if (!marks) return
+
+  // Remove 'current' class from previous mark
+  marks[curr].classList.remove('current')
+
+  curr = (curr - 1 + marks.length) % marks.length
+  currentMarkIndex.value.set(index, curr)
+  triggerRef(currentMarkIndex)
+
+  // Add 'current' class to new mark
+  const newMark = marks[curr]
+  newMark.classList.add('current')
+  
+  const excerpt = newMark.closest('.excerpt')
+  if (excerpt) {
+    const markTop = newMark.offsetTop
+    const markHeight = newMark.offsetHeight
+    const excerptHeight = excerpt.clientHeight
+    
+    excerpt.scrollTo({
+      top: markTop - excerptHeight / 2 + markHeight / 2,
+      behavior: 'smooth'
+    })
+  }
+}
 
 async function fetchExcerpt(id: string) {
   const file = pathToFile(id.slice(0, id.indexOf('#')))
@@ -623,6 +701,15 @@ function onMouseMove(e: MouseEvent) {
                   </div>
                   <div class="excerpt-gradient-bottom" />
                   <div class="excerpt-gradient-top" />
+                  <div v-if="(resultMarks.get(index)?.length ?? 0) > 1" class="excerpt-actions" @click.prevent.stop @mousedown.prevent.stop>
+                    <button class="match-nav-button" @click.prevent.stop="prevMatch(index)" title="Previous match">
+                      <span class="vpi-chevron-left navigate-icon" />
+                    </button>
+                    <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
+                    <button class="match-nav-button" @click.prevent.stop="nextMatch(index)" title="Next match">
+                      <span class="vpi-chevron-right navigate-icon" />
+                    </button>
+                  </div>
                 </div>
               </div>
             </a>
@@ -744,6 +831,45 @@ function onMouseMove(e: MouseEvent) {
   padding: 6px 12px;
   font-size: inherit;
   width: 100%;
+}
+
+.excerpt-actions {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background-color: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding: 2px 4px;
+  box-shadow: var(--vp-shadow-1);
+}
+
+.match-nav-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 2px;
+  color: var(--vp-c-text-2);
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.match-nav-button:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+.match-count {
+  font-size: 11px;
+  font-family: var(--vp-font-family-mono);
+  color: var(--vp-c-text-2);
+  user-select: none;
+  min-width: 24px;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
@@ -937,6 +1063,13 @@ function onMouseMove(e: MouseEvent) {
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
+  transition: background-color 0.2s;
+}
+
+.excerpt :deep(mark.current) {
+  background-color: var(--vp-c-yellow-3);
+  color: #000;
+  font-weight: bold;
 }
 
 .excerpt :deep(.vp-code-group) .tabs {
