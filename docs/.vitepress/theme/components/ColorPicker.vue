@@ -259,8 +259,9 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
   customBgColor.value = colors.background
   
   // Create lighter versions of background for cards
-  const lightenedBg = tinycolor(colors.background).lighten(5).toString()
-  const lightenedBgAlt = tinycolor(colors.background).lighten(8).toString()
+  // Increase lightening to make cards more distinct
+  const lightenedBg = tinycolor(colors.background).lighten(10).toString()
+  const lightenedBgAlt = tinycolor(colors.background).lighten(15).toString()
   
   // Generate a custom theme - link color for links, text color for body text
   const customTheme: Theme = {

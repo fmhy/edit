@@ -46,8 +46,9 @@ export class ThemeHandler {
     const savedBgColor = localStorage.getItem('custom-theme-bg-color') || '#000000'
     
     // Create lighter versions of background for cards
-    const lightenedBg = tinycolor(savedBgColor).lighten(5).toString()
-    const lightenedBgAlt = tinycolor(savedBgColor).lighten(8).toString()
+    // Increase lightening to make cards more distinct
+    const lightenedBg = tinycolor(savedBgColor).lighten(10).toString()
+    const lightenedBgAlt = tinycolor(savedBgColor).lighten(15).toString()
     
     // Create custom theme with saved colors
     const customTheme = {
