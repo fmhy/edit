@@ -3,7 +3,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
-const { mode, setMode, state, amoledEnabled, setAmoledEnabled } = useTheme()
+const { mode, setMode, amoledEnabled, setAmoledEnabled } = useTheme()
 
 const isOpen = ref(false)
 const dropdownRef = ref<HTMLElement | null>(null)

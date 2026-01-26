@@ -242,10 +242,7 @@ watch(selectedColor, async (color) => {
   setTheme(`color-${color}`)
 })
 
-// Keep this function - it might be used elsewhere
-const toggleAmoled = () => {
-  setAmoledEnabled(!amoledEnabled.value)
-}
+
 
 const openCustomColorSelector = () => {
   showCustomColorSelector.value = true
