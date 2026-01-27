@@ -495,6 +495,7 @@
 
 * ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
 * [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki
+* [Minesweeper Advent Calendar](https://heptaveegesimal.com/2018/advent-calendar/) - 60+ Versions of Minesweeper
 * [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
