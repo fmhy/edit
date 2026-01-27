@@ -1279,6 +1279,16 @@ function onMouseMove(e: MouseEvent) {
   line-height: 130% !important;
 }
 
+/* Ensure excerpt content is visible and correctly styled */
+.excerpt :deep(*) {
+  font-size: 0.8rem !important;
+  line-height: 130% !important;
+}
+
+.excerpt :deep(li) {
+  display: list-item !important;
+}
+
 /* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
