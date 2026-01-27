@@ -52,6 +52,7 @@
 * [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/), [4](https://filemoon.in/) - 50GB / 40TB per account / Forever / Requires Sign-Up
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
+* [⁠Streamain](https://streamain.com/) - Unlimited / Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
@@ -63,6 +64,7 @@
 * [uguu](https://uguu.se/) - 128MB / 3 Hours
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
+* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
 
 ***
 
@@ -166,13 +168,12 @@
 * [Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794) - VTuber Resources
 * [VTResources](https://vtresources.carrd.co/) - VTuber Resources
 * [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
-* [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) - VTuber App
-* [Inochi2D](https://inochi2d.com/) - VTuber App / [Discord](https://discord.com/invite/abnxwN6r9v)
-* [Vtube Studio](https://denchisoft.com/) - VTuber App
-* [Kalidoface 3D](https://3d.kalidoface.com/), [VRoid](https://vroid.com/en/studio), [Animaze](https://www.animaze.us/) or [TransTube](https://girkovarpa.itch.io/transtube) - VTuber Characters
-* [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
+* [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [VRoid](https://vroid.com/en/studio) - VTuber Character Creators / Tracking
+* [VSeeFace](https://www.vseeface.icu/), [Kalidoface 3D](https://3d.kalidoface.com/) or [Animaze](https://www.animaze.us/) - 3D Tracking & Puppeteering (VRM)
+* [Vtube Studio](https://denchisoft.com/) or [Inochi2D](https://inochi2d.com/) / [Discord](https://discord.com/invite/abnxwN6r9v) - 2D / Live2D Tracking
+* [veadotube](https://olmewe.itch.io/veadotube-mini) or [TransTube](https://girkovarpa.itch.io/transtube) - PNGTuber & Reactive Software
+* [avatarify-python](https://github.com/alievk/avatarify-python) - Real-Time Photo / Video Avatars
 * [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
-* [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
 
 ***
 
@@ -212,6 +213,7 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
+* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 
@@ -363,7 +365,6 @@
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
-* [Downaria](https://downaria.vercel.app/) - Multi-Site / Online
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
