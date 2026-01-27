@@ -74,7 +74,7 @@
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.3.0",
-    "vue": "^3.4.0",
+    "vue": "^3.5.0",
     "wrangler": "^4.52.1"
   },
   "pnpm": {
