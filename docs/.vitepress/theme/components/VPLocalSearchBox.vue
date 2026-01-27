@@ -1231,11 +1231,7 @@ function onMouseMove(e: MouseEvent) {
   gap: 4px;
 }
 
-.title .text {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-}
+
 
 .title-icon + .title .text {
   font-weight: 600;
@@ -1283,13 +1279,23 @@ function onMouseMove(e: MouseEvent) {
   line-height: 130% !important;
 }
 
+/* Ensure excerpt content is visible and correctly styled */
+.excerpt :deep(*) {
+  font-size: 0.8rem !important;
+  line-height: 130% !important;
+}
+
+.excerpt :deep(li) {
+  display: list-item !important;
+}
+
 /* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
-  padding: 0 2px;
+  padding: 0 1px;
   transition: background-color 0.2s;
 }
 
