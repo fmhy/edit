@@ -30,8 +30,8 @@ const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
 ) as Array<ColorNames>
 
-// Preset themes (exclude dynamically generated color- themes)
-const presetThemeNames = Object.keys(themeRegistry).filter((k) => !k.startsWith('color-'))
+// Preset themes (exclude dynamically generated color- themes and custom theme)
+const presetThemeNames = Object.keys(themeRegistry).filter((k) => !k.startsWith('color-') && k !== 'custom')
 
 const getThemePreviewStyle = (name: string) => {
   const theme = themeRegistry[name]
@@ -288,12 +288,12 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
           brand: {
             bg: colors.link,
             border: colors.link,
-            text: colors.background,
+            text: colors.text,
             hoverBorder: colors.link,
-            hoverText: colors.background,
+            hoverText: colors.text,
             hoverBg: colors.link,
             activeBorder: colors.link,
-            activeText: colors.background,
+            activeText: colors.text,
             activeBg: colors.link
           },
           alt: {
@@ -358,12 +358,12 @@ const applyCustomColors = (colors: { link: string; text: string; background: str
           brand: {
             bg: colors.link,
             border: colors.link,
-            text: colors.background,
+            text: colors.text,
             hoverBorder: colors.link,
-            hoverText: colors.background,
+            hoverText: colors.text,
             hoverBg: colors.link,
             activeBorder: colors.link,
-            activeText: colors.background,
+            activeText: colors.text,
             activeBg: colors.link
           },
           alt: {

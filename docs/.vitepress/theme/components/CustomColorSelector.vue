@@ -180,9 +180,10 @@ const apply = () => {
               :class="[
                 'flex-1 rounded-lg px-4 py-2 text-sm font-medium transition-colors',
                 activeTab === 'link' 
-                  ? 'bg-$vp-c-brand-1 text-white' 
+                  ? '' 
                   : 'bg-$vp-c-bg-alt text-$vp-c-text-2 hover:text-$vp-c-text-1'
               ]"
+              :style="activeTab === 'link' ? { backgroundColor: linkColor, color: textColor } : {}"
             >
               Link
             </button>
@@ -191,9 +192,10 @@ const apply = () => {
               :class="[
                 'flex-1 rounded-lg px-4 py-2 text-sm font-medium transition-colors',
                 activeTab === 'bg' 
-                  ? 'bg-$vp-c-brand-1 text-white' 
+                  ? '' 
                   : 'bg-$vp-c-bg-alt text-$vp-c-text-2 hover:text-$vp-c-text-1'
               ]"
+              :style="activeTab === 'bg' ? { backgroundColor: linkColor, color: textColor } : {}"
             >
               Background
             </button>
@@ -202,9 +204,10 @@ const apply = () => {
               :class="[
                 'flex-1 rounded-lg px-4 py-2 text-sm font-medium transition-colors',
                 activeTab === 'text' 
-                  ? 'bg-$vp-c-brand-1 text-white' 
+                  ? '' 
                   : 'bg-$vp-c-bg-alt text-$vp-c-text-2 hover:text-$vp-c-text-1'
               ]"
+              :style="activeTab === 'text' ? { backgroundColor: linkColor, color: textColor } : {}"
             >
               Text
             </button>
@@ -381,7 +384,8 @@ const apply = () => {
               Cancel
             </button>
             <button
-              class="bg-$vp-c-brand-1 hover:bg-$vp-c-brand-2 flex-1 rounded-lg px-4 py-2 font-medium text-white transition-colors"
+              class="flex-1 rounded-lg px-4 py-2 font-medium transition-colors"
+              :style="{ backgroundColor: linkColor, color: textColor }"
               @click="apply"
             >
               Apply
