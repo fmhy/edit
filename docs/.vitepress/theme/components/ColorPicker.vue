@@ -10,14 +10,12 @@ import Switch from './Switch.vue'
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 
-// Use the theme system
 const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } = useTheme()
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
 ) as Array<ColorNames>
 
-// Preset themes (exclude dynamically generated color- themes)
 const presetThemeNames = Object.keys(themeRegistry).filter((k) => !k.startsWith('color-'))
 
 const getThemePreviewStyle = (name: string) => {
@@ -223,7 +221,6 @@ const toggleAmoled = () => {
 <template>
   <div>
     <div class="flex flex-wrap gap-2">
-      <!-- Color picker generated themes (render first) -->
       <div v-for="color in colorOptions" :key="color">
         <button
           :class="[
@@ -233,7 +230,7 @@ const toggleAmoled = () => {
               : 'border-transparent'
           ]"
           @click="selectedColor = color"
-          :title="normalizeColorName(color)"
+          v-tooltip="normalizeColorName(color)"
         >
           <span
             class="inline-block w-full h-full rounded-full"
@@ -242,7 +239,6 @@ const toggleAmoled = () => {
         </button>
       </div>
 
-      <!-- Preset themes (render at the end) -->
       <div v-for="t in presetThemeNames" :key="t">
         <button
           :class="[
@@ -252,7 +248,7 @@ const toggleAmoled = () => {
               : 'border-transparent'
           ]"
           @click="selectedColor = '' as ColorNames; setTheme(t)"
-          :title="themeRegistry[t].displayName"
+          v-tooltip="themeRegistry[t].displayName"
         >
           <span
             class="inline-block w-full h-full rounded-full"
