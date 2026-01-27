@@ -68,6 +68,22 @@ const linkColor = computed(() => rgbToHex(linkR.value, linkG.value, linkB.value)
 const textColor = computed(() => rgbToHex(textR.value, textG.value, textB.value))
 const bgColor   = computed(() => rgbToHex(bgR.value, bgG.value, bgB.value))
 
+/* ================= WARNINGS ================= */
+const linkBgContrast = computed(() => tinycolor.readability(linkColor.value, bgColor.value))
+const textBgContrast = computed(() => tinycolor.readability(textColor.value, bgColor.value))
+
+const warnings = computed(() => {
+  const list: string[] = []
+  // WCAG AA for normal text is 4.5:1
+  if (linkBgContrast.value < 4.5) {
+    list.push('Warning: Low contrast between Link and Background')
+  }
+  if (textBgContrast.value < 4.5) {
+    list.push('Warning: Low contrast between Text and Background')
+  }
+  return list
+})
+
 /* ================= STORAGE ================= */
 const savedLink = useStorage('custom-theme-link-color', '#ffffff')
 const savedText = useStorage('custom-theme-text-color', '#cccccc')
@@ -372,6 +388,14 @@ const apply = () => {
                 <input v-model.number="textB" type="number" min="0" max="255"
                   class="bg-$vp-c-bg-alt border-$vp-c-divider text-$vp-c-text-1 w-full rounded border px-2 py-1.5 text-xs" />
               </div>
+            </div>
+          </div>
+
+          <!-- Warnings -->
+          <div v-if="warnings.length" class="mb-4 rounded-lg bg-yellow-500/10 border border-yellow-500/20 p-3">
+            <div v-for="(warn, i) in warnings" :key="i" class="flex items-center gap-2 text-yellow-500 text-xs font-medium">
+              <div class="i-carbon-warning h-4 w-4 shrink-0" />
+              <span>{{ warn }}</span>
             </div>
           </div>
 
