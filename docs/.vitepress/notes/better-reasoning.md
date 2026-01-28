@@ -1,3 +1,3 @@
 #### Better Reasoning
 
-For better reasoning, switch mode to "think deeper"
+To get better reasoning, switch to "Think Deeper" mode.
