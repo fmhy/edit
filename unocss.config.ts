@@ -102,12 +102,12 @@ export default defineConfig({
       {
         display: 'inline-block',
         padding: '0.2em 0.4em',
-        fontSize: '0.75em',
-        fontWeight: '500',
-        lineHeight: '1',
+        'font-size': '0.75em',
+        'font-weight': '500',
+        'line-height': '1',
         color: 'var(--vp-c-text-1)',
-        backgroundColor: 'rgb(var(--vp-c-bg-alt))',
-        borderRadius: '4px'
+        'background-color': 'rgb(var(--vp-c-bg-alt))',
+        'border-radius': '4px'
       }
     ]
   ],

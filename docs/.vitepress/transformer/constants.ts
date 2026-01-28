@@ -147,7 +147,7 @@ export function getHeader(id: string) {
   const title =
     '<div class="space-y-2 not-prose"><h1 class="text-4xl font-extrabold tracking-tight text-primary underline lg:text-5xl lg:leading-[3.5rem]">'
 
-  const description = '<p class="text-black dark:text-text-2">'
+  const description = '<p style="color: var(--vp-c-text-1)">'
 
   const feedback = meta.build.api ? '<Feedback />' : ''
 
