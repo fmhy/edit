@@ -112,8 +112,6 @@
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
-* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
-* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [Readest](https://readest.com/) - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
@@ -138,11 +136,6 @@
 * [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
 * [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
-* [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
-* [dotepub](https://dotepub.com/) - Convert Webpages to Ebooks
-* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
-* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-* [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
 
 ***
 
@@ -166,15 +159,21 @@
 
 ***
 
-## ▷ Kindle Tools
+## ▷ E-Reader Tools
 
 * ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYB64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
+* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
+* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
-* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
+* [Techy Notes Guide](https://techy-notes.com/remove-drm-from-kindle-ebooks/) or [ItsFOSS Guide](https://itsfoss.com/calibre-remove-drm-kindle/) - Kindle DRM Removal Guides
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
+* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
+* [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
+* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
+* [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Convert Manga / Comic Files to E-Reader Formats / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 
 ***
 
@@ -312,15 +311,15 @@
 
 ## ▷ Esoteric / Cultural
 
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Esoterica / Mythology / Folklore / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
+* [Hermetic International](https://www.hermetics.net/) - Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
-* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
-* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
-* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
+* [Dhamma Talks](https://www.dhammatalks.org/) - Esoterica / Buddhism
+* [Sutta Central](https://suttacentral.net/) - Esoterica / Buddhism
+* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Esoterica
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
@@ -353,7 +352,7 @@
 * [eSword](https://e-sword.net/) - Christian Bible Desktop App
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [Quran.com](https://quran.com/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
+* [Quran.com](https://quran.com/), [Tanzil](https://tanzil.net/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
@@ -894,7 +893,7 @@
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 * [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
-* [libib](https://www.libib.com/) - Desktop Media Catalog
+* [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
 
 ***
 
@@ -948,14 +947,16 @@
 
 # ► Helpful Sites / Apps
 
-* 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converter Indexes
+* 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)** or [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter Software Indexes
 * 🌐 **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)** - Ebook DRM Removal Tools
 * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [Speed Reader](https://speed-reader.com/), [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
-* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
+* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter / App
+* ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer), [dotepub](https://dotepub.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [⁠Scribd DL](https://github.com/rkwyu/scribd-dl), [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
+* [Ebook-Online-Convert](https://ebook.online-convert.com/) - Multi-Format Converter / Online
+* [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Online / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip)

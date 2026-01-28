@@ -28,7 +28,7 @@
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
-* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md) / [Discord](https://discord.gg/TBs8Te5nwn)
+* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Discord](https://discord.gg/TBs8Te5nwn) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md) 
 * [⁠GoMorGames](https://gomorgames.com/) - Download / [Discord](https://discord.gg/raWtANAZqF)
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info) / [Discord](https://discord.gg/TvKnH6P)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
@@ -65,7 +65,7 @@
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
 * [⁠Vanya Games](https://vanya-games.site/) - Download
-* [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)** / [Discord](https://discord.gg/D9WU7C9FSE)
+* [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)** 
 * [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Elamigos](https://elamigos.site/) - Download
@@ -611,7 +611,7 @@
 * [gTOONS Remastered](https://gtoons.app/) - Cartoon Network Strategy Card Game / [Discord](https://discord.gg/KM2ggJtkMr)
 * [Picture Cards](https://picturecards.online/) / [Discord](https://discord.gg/kJB4bxSksw), [Bad Cards](https://bad.cards/) or [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) - Online Cards Against Humanity
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
-* [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sh-note.md) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/)
+* [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sh-note.md) 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
@@ -753,7 +753,7 @@
 
 ## ▷ Party / Multiplayer
 
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [⁠AmplerLauncher](https://irv77.github.io/AmplerLauncher/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md) / [Site List](https://deev.is/)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [⁠AmplerLauncher](https://irv77.github.io/AmplerLauncher/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Site List](https://deev.is/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/) / [Public Servers](https://topeaglerservers.com/) / [Improved Servers](https://github.com/lax1dude/eaglerxserver), [2](https://modrinth.com/organization/eaglercraftxserver)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games

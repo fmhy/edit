@@ -326,7 +326,7 @@
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database
+* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.com/invite/nhGZzpux)
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
@@ -1004,6 +1004,7 @@
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
+* ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
@@ -1108,7 +1109,7 @@
 ## ► Coding Tutorials
 
 * 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
-* ⭐ **[Build your own X](https://codecrafters.io)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P) / [GitHub](https://github.com/codecrafters-io/build-your-own-x)
+* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P)
 * [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Hackr.io](https://hackr.io/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [GeeksforGeeks](https://www.geeksforgeeks.org/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
 * [Guru99](https://www.guru99.com/) - Software / Web Development
 * [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials

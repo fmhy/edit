@@ -940,6 +940,7 @@
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [srvrlss](https://srvrlss.io/) - Search / Compare Serverless Platforms
+* [⁠Instances (Vantage)](https://instances.vantage.sh/) - Compare AWS, Azure, and GCP Instances / [GitHub](https://github.com/vantage-sh/ec2instances.info) 
 * [⁠Val Town](https://www.val.town/) - Serverless Scripting and Sharing
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts

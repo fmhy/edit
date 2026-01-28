@@ -362,6 +362,7 @@
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
 * [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 * [GGNTW](https://ggntw.com/steam)
+* [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD)
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)

@@ -310,7 +310,7 @@
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
@@ -836,13 +836,13 @@
 
 * ⭐ **[LRCGET](https://github.com/tranxuanthang/lrcget)** - Download Synced Lyrics
 * ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search
+* ⭐ **[LyricsTranslate](https://lyricstranslate.com/)** - Lyric Translations / Requests
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)**, [Intellectual](https://intellectual.insprill.net/) or [Genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [Lyricsify](https://www.lyricsify.com/), [Lyrhub](https://lyrhub.com/en), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [⁠Lyrical Nonsense](https://www.lyrical-nonsense.com/global/) - Japanese Song Lyrics
 * [⁠AnimeSongLyrics](https://www.animesonglyrics.com/) - Anime Song Lyrics
 * [Lyricify](https://github.com/WXRIW/Lyricify-App) - Lyrics Desktop App
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
-* [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [⁠LRC Maker](https://lrc-maker.github.io/) - Web-Based Lyrics Editor / [GitHub](https://github.com/magic-akari/lrc-maker)
 
 ***

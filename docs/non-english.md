@@ -1609,7 +1609,6 @@
 * [AceStream Links](https://rentry.co/FMHYB64#acestream) - Live Sports Acestream IDs
 * [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
-* [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 * [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
@@ -1831,6 +1830,7 @@
 * [Phudeviet](http://phudeviet.org/) - Subtitles
 * [Forumvi](https://www.forumvi.com/) - Forum Creator
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
+* [Escape From Porn](https://thu-tram.github.io/tpl/) - Porn Quitting Guide / EasyPeasy Translation
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
 
 ## ▷ Downloading / Tải xuống

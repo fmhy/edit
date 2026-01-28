@@ -151,7 +151,7 @@
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
 * [Duplicati](https://www.duplicati.com/) - File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - File Backup
-* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
+* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup / [WebUI](https://github.com/karanhudia/borg-ui)
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
 
 ***
@@ -225,16 +225,17 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** / Web-Based / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* [BreezePDF](https://breezepdf.com/) - Client-Side
+* [⁠ihatepdf](https://www.ihatepdf.cv/) - Client-Side
+* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
+* [PDFClear](https://www.pdfclear.com/) - Client-Side
+* [SimplePDF](https://simplepdf.com/) - Client-Side
+
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
-* [BreezePDF](https://breezepdf.com/)
-* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [⁠PDRResizer](https://pdfresizer.com/)
-* [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
-* [PDFClear](https://www.pdfclear.com/)
-* [SimplePDF](https://simplepdf.com/)
 * [DPDF](https://dpdf.com/)
 * [Digiparser](https://www.digiparser.com/free-tools/pdf)
 
@@ -285,7 +286,7 @@
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla.md)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [GUI](https://ar-puuk.github.io/robocopy-gui/)
+* [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
 ***
 
@@ -314,7 +315,7 @@
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
