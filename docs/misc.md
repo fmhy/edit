@@ -44,8 +44,8 @@
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)**, [2](https://csrin.org/) - Game Piracy Index
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
@@ -314,12 +314,14 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
-* [Map to Poster](https://github.com/originalankur/maptoposter) - City Map Poster Generator 
+* [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster Generators 
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
+* [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics Map
 * [BlueW](https://bluew.org/) - Free Water Refill Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [NukeSim](https://www.nukesim.com/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
@@ -332,6 +334,7 @@
 * ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://osmand.net/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
+* ⭐ **[StreetComplete](https://streetcomplete.app/)** - OpenStreetMap Surveyor App / Quests / [GitHub](https://github.com/streetcomplete/streetcomplete)
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Features](https://github.com/deevroman/better-osm-org) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [Magic Earth](https://www.magicearth.com/) - Mobile Maps
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
@@ -473,7 +476,6 @@
 
 * ⭐ **[Google Earth](https://www.google.com/earth/about/versions/)** - Earth Viewer
 * [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
-* [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
@@ -561,6 +563,7 @@
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
 * [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
+* [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
 * [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
 
 ***
@@ -709,7 +712,19 @@
 * [DoItRight](https://trust.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.org/) - Sexual / Reproductive Health App
 * [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+
+***
+
+## ▷ HRT / Trans Health
+
+* 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)**
+* [Trans Harm Reduction](https://transharmreduction.org/) - HRT Saftey / [Testing](https://transharmreduction.org/hrt-testing)
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics / Map
+* [Gender Dysphoria Bible](https://genderdysphoria.fyi/) - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
+* [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
+* [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Training Resources / [Discord](https://discord.gg/8weEXE7RzU)
+* [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
+* [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 
 ***
 
@@ -994,6 +1009,7 @@
 * [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - Outdoor Gear Comparisons / Reviews
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
+* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
@@ -1139,7 +1155,6 @@
 * [colnect](https://colnect.com/en) - Manage Personal Collections
 * [Diffchecker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
-* [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Training Resources / [Discord](https://discord.gg/8weEXE7RzU)
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
@@ -1345,7 +1360,7 @@
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Remoji](https://remoji.com/) - Emoji Painting
 * [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
-* [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
+* [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokémon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
@@ -1375,7 +1390,6 @@
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
-* [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
@@ -1491,7 +1505,7 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
 * [Hypertranslate](https://www.ravbug.com/hypertranslate/) - Google Translate Telephone Game
-* [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account 
+* [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [eieio.games](https://eieio.games/) - Experimental Games / Showcases
@@ -1677,6 +1691,7 @@
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
+* [JUST SCREAM!](https://justscream.baby/listen/) - Screams into the Universe / Archive
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)

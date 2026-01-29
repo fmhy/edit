@@ -362,6 +362,7 @@
 * [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts
 * [UNT Digital Library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) or [chopin](https://chopin.lib.uchicago.edu/) - Rare Manuscripts
 * [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) - Digital Mozart Collection
+* [The Session](https://thesession.org/) - Traditional Irish Sheet Music
 * [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
 * [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
 * [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities

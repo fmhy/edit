@@ -146,7 +146,7 @@
 * ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
 * ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
 * ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix) or [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - Privacy-Focused Operating Systems
-* [r/Privacy](https://reddit.com/r/privacy), [r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion / Forums
+* [r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [r/privatelife](https://www.reddit.com/r/privatelife/) - Privacy Discussion / Forums
 * [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
 * [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
@@ -171,11 +171,11 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [GitHub](https://github.com/Anon-Planet/thgtoa) or [The OPSEC Bible](https://bible.beginnerprivacy.com/opsec/) / [.onion](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/) - Extensive Online Anonymity Guides
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [GitHub](https://github.com/Anon-Planet/thgtoa) or [The OPSEC Bible](https://bible.beginnerprivacy.com/opsec/) / [.onion](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/) / [SimpleX Chat](http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/simplex.html) - Extensive Online Anonymity Guides
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening), [⁠sizeof.cat](https://sizeof.cat/links/) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
@@ -240,7 +240,7 @@
 * ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/) - Onion-Routed Browser / [TG Downloads / Bridges](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network) / [GitHub](https://github.com/mullvad)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
-* [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md) / [GitHub](https://github.com/celenityy/Phoenix)
+* [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [LibreWolf](https://librewolf.net/) - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater), [2](https://codeberg.org/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
@@ -366,8 +366,8 @@
 
 * 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Map
-* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) (kill switch) / [Alt Client](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/alt-warp-clients.md) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing), [2](https://f0rc3run.github.io/free-warp-endpoints/)
-* ⭐ **[Proton VPN](https://protonvpn.com)** - Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Torrent Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/proton-torrenting.md) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
+* ⭐ **[WARP](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) (kill switch) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing), [2](https://f0rc3run.github.io/free-warp-endpoints/) / [Alt Client](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/alt-warp-clients.md)
+* ⭐ **[Proton VPN](https://protonvpn.com)** - Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/) / [Torrent Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/proton-torrenting.md) 
 * ⭐ **[Windscribe](https://windscribe.com)** - No Torrenting w/ Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [GitHub](https://github.com/riseupnet)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
@@ -455,7 +455,7 @@
 * [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
 * [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / Mac, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
 * [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / Windows, Mac, Linux / [GitHub](https://github.com/throneproj/Throne)
-* [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) / Android, [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) / Proxy Client / iOS
+* [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) / Android, [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), iOS / Proxy Client
 * [ClashVerge](https://www.clashverge.dev/) - Proxy Client / Windows, Mac, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, Mac, Linux, Android
@@ -471,6 +471,8 @@
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tool 
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [GitHub](https://github.com/msasanmh/DNSveil)
+* [DNSTT.XYZ](https://dnstt.xyz/) - Mobile DNS Tunnel / Censorship Bypass Tool / [Telegram](https://t.me/dnstt_xyz) / [GitHub](https://github.com/dnstt-xyz/dnstt_xyz_app)
+* [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
 * [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers
 

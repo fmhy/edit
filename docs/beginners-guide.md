@@ -30,7 +30,7 @@ We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/interne
 
 For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
-For iOS, we recommend **[Orion](https://kagi.com/orion/)**, **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
+For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 

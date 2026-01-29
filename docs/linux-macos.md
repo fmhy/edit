@@ -30,7 +30,7 @@
 * [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner CLI Tools
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Alts for GUI Tasks
 * [CommandlineFU](https://www.commandlinefu.com/) - Community-Driven Command Snippets
-* [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [cheat.sh](https://github.com/chubin/cheat.sh) or [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
 * [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
 * [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
@@ -139,8 +139,7 @@
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
-* [Pkgs](https://pkgs.org/) - Searchable Linux Package Database / [Repology](https://repology.org/)
-* [cheat.sh](https://github.com/chubin/cheat.sh) - App Repos
+* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://github.com/tversteeg/emplace) - System Package Sync
@@ -216,7 +215,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
@@ -250,6 +249,7 @@
 
 ## ▷ Linux Image
 
+* ↪️ **[Linux Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
 * [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -366,6 +366,7 @@
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
 * [⁠OpenWRT](https://openwrt.org/) - Linux Router Firmware
+* [⁠dae](https://github.com/daeuniverse/dae) - Linux Router Performance Proxy App / [WebUI](https://github.com/daeuniverse/daed)
 * [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
 * [Netcat](https://rentry.co/Netcat) - Networking Tool
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool
@@ -395,7 +396,8 @@
 * 🌐 **[⁠RackRat](https://rackrat.net/)** - Ebay Rackmount Server Prices / Comparisons
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages
-* [Glance](https://github.com/glanceapp/glance) - Feed Dashboard 
+* [Glance](https://github.com/glanceapp/glance) - Feed Dashboard
+* [⁠ThingsBoard](https://github.com/thingsboard/thingsboard) - IoT Device Manager / Visualizer / Data Collection 
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
 * [r/SelfHosted Wiki](https://wiki.r-selfhosted.com/) - Self-Hosting Guides / Resources / Community / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
@@ -549,6 +551,7 @@
 * [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings Editor
 * [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux Theme
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
+* [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma 
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
 * [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
@@ -661,7 +664,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
@@ -839,7 +842,7 @@
 * 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
 * [UnitedBSD](https://www.unitedbsd.com/) - BSD Forum / Community
 * [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
-* [Pkgs](https://pkgs.org/) - Unix Packages / [Repology](https://repology.org/)
+* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Unix-Like Package Database
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer

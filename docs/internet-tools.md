@@ -62,7 +62,7 @@
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
 * [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool / [GitHub](https://github.com/mrmps/SMRY)
-* [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
+* [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 
 ***
@@ -865,6 +865,7 @@
 * [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler / [GitHub](https://github.com/internetarchive/heritrix3)
 * [80legs](https://80legs.com/) - Cloud-Based
 * [Crawly](https://crawly.diffbot.com/) - Online Scraper
+* [⁠Scrapling](https://github.com/D4Vinci/Scrapling) - Web Scraper
 * [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
 * [Waymore](https://github.com/xnl-h4ck3r/waymore/) - Web Scraper
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler

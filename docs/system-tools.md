@@ -129,6 +129,7 @@
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) - Desktop Client
+* [⁠DWS](https://www.dwservice.net/) - Web-Based
 * [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Desktop Client / Built Into Windows
 * [Remotly](https://remotly.com/) - Desktop Client
 * [Bananas](https://getbananas.net/) - Desktop Client / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
