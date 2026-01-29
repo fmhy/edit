@@ -1,3 +1,3 @@
 #### Android Spotify Note
 
-Many modded apks are buggy as of now and may not work at all.
+Many modded APKs are buggy as of now and may not work at all.

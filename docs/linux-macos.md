@@ -824,7 +824,7 @@
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 * [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
-* [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://claraiscute.neocities.org/Guides/jdownloader2/) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader.md)
+* [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://claraiscute.neocities.org/Guides/jdownloader2/) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [eza](https://eza.rocks/) - Modern `ls` Replacement

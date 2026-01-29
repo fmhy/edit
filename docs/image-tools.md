@@ -498,7 +498,7 @@
 ## ▷ Download Extensions
 
 * [Download all Images](https://webextension.org/listing/save-images.html) / [GitHub](https://github.com/belaviyo/save-images/)
-* [Cute Save Button](https://github.com/Dezaimasu/cute-button)
+* [Cute Save Button](https://github.com/Dezaimasu/cute-button) / [Changing the Save Icon](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cute-save-button-icon.md)
 * [svgexport](https://svgexport.io/)
 * [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
 * [Image Picka](https://github.com/eight04/image-picka)
