@@ -17,7 +17,7 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Discord](https://discord.com/invite/j2Q2ZKk3YJ)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Discord](https://discord.com/invite/dkKxZGjyF8)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Requires Sign-Up / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
@@ -791,7 +791,7 @@
 * [Betrayal](https://betrayal.io/) - Among Us Clone
 * [Death by AI](https://deathbyai.gg/) - Survival Plan Game
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
-* [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/Spacewar.md)
+* [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacewar.md)
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
 
 ***
