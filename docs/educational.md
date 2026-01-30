@@ -1364,6 +1364,7 @@
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
+* [⁠Get Sum Math](https://www.getsummath.com/) - GED Prep / Practice
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool

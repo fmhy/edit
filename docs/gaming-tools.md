@@ -468,7 +468,7 @@
 
 # ► Homebrew
 
-* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
+* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware Archive
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
 * 🌐 **[Firmware / Bios Files](https://rentry.co/FMHYB64#console-firmware)**
 * ⭐ **[Hacks.Guide](https://hacks.guide/)** / [2](https://wiki.hacks.guide/), **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
@@ -551,7 +551,6 @@
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [⁠OrbisPatches](https://orbispatches.com/) or [ProsperoPatches](https://www.prosperopatches.com/) - PS4 / PS5 Game Updates / [Discord](https://discord.com/invite/2ApmZKs)
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits

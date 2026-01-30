@@ -570,7 +570,7 @@
 * [tilde](https://github.com/xvvvyz/tilde)
 * [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity)
 * [AllMyFaves](https://allmyfaves.com/)
-* [start.me](https://start.me/start/int/startpage)
+* [start.me](https://start.me/)
 * [Combobox](https://combobox.me)
 
 ***

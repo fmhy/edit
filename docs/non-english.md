@@ -365,6 +365,7 @@
 ## ▷ Downloading / Stahování
 
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
+* [Datoid](https://datoid.to/ ) - Video / Audio / Books / Sign-Up Required for 1GB+ Files
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 * [hellspy](https://hellspy.to/) - Video / Geoblocked
@@ -406,8 +407,9 @@
 
 ## ▷ Streaming / Nanonood
 
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Some NSFW / Sub / Dub / 1080p
-* [Pinoy Movies Hub](https://pinoymovieshub.tv/) - Movies / TV / NSFW / Sub / Dub / 720p
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Anime / Some NSFW / Sub / Dub / 1080p
+* [Pinoy Movies Hub](https://pinoymovieshub.tv/) - Movies / TV / Anime / NSFW / Sub / Dub / 720p
+* [cinema](https://cinema.com.ph) - Movies / TV / Anime
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / NSFW / Sub / Dub / 720p
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
 
@@ -1574,7 +1576,10 @@
 * [MandraAnime](https://mandranime.com/) - Anime / Sub
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [japanpaw](https://japanpaw.com/) - Anime
-* [ivanime](https://www.ivanime.com/) - Anime
+* [ivanime](https://www.ivanime.com/) - Anime / [Discord](https://discord.gg/PTbSKQbBJc)
+* [DW Anime](https://dw-anime.net/) - Anime
+* [AZ Anime](https://www.az-animex.com/) - Anime
+* [sphinxanime](https://sphinxanime.com/) - Anime
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub
@@ -1768,12 +1773,17 @@
 * [Dizipal](https://dizipal1532.com/), [2](https://dizipalx61.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.to/) - Movies / TV / Sub / Dub / 1080p
 * [canlidizi14](https://www.canlidizi14.com/) - Movies / TV / Anime
+* [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime
+* [diziyo](https://diziyo.sh/) - Movies / TV / Anime
+* [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
+* [webteizle3](https://webteizle3.xyz/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
+* [webdramaturkey2](https://webdramaturkey2.com/) - Asian Drama
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
@@ -1781,6 +1791,8 @@
 * [AnimeciX](https://anm.cx/) - Anime
 * [SeiCode](https://seicode.net/) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
+* [cizgimax](https://cizgimax.online/) - Cartoons
+* [belgeselx](https://belgeselx.com/) - Documentaries
 * [Canlı TV](https://www.canlitv.me/) - Live TV / Requires VPN
 * [Kral Bozguncu](https://discord.gg/kral) - Talk and watch football.
 
@@ -1866,7 +1878,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.li/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
+* ⭐ **[rophim](https://www.rophim.nl/)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
