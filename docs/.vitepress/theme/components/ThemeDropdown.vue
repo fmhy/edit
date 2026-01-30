@@ -3,7 +3,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
-const { mode, setMode, amoledEnabled, setAmoledEnabled } = useTheme()
+const { mode, setMode, state, amoledEnabled, setAmoledEnabled } = useTheme()
 
 const isOpen = ref(false)
 const dropdownRef = ref<HTMLElement | null>(null)
@@ -15,33 +15,18 @@ interface ModeChoice {
   isAmoled?: boolean
 }
 
-const baseModeChoices: ModeChoice[] = [
+const modeChoices: ModeChoice[] = [
   { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
   { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
-  { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true },
-  { mode: 'custom', label: 'Custom', icon: 'i-lucide-palette' }
+  { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true }
 ]
-
-// Only show custom mode when already in custom mode
-const modeChoices = computed(() => {
-  const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  if (current === 'custom') {
-    return baseModeChoices
-  }
-  // Filter out custom mode when not in custom
-  return baseModeChoices.filter(choice => choice.mode !== 'custom')
-})
 
 const currentChoice = computed(() => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  // Handle custom mode
-  if (current === 'custom') {
-    return baseModeChoices[3] // Custom option
-  }
   if (current === 'dark' && amoledEnabled.value) {
-    return baseModeChoices[2] // AMOLED option
+    return modeChoices[2] // AMOLED option
   }
-  return baseModeChoices.find(choice => choice.mode === current && !choice.isAmoled) || baseModeChoices[0]
+  return modeChoices.find(choice => choice.mode === current && !choice.isAmoled) || modeChoices[0]
 })
 
 const toggleDropdown = () => {
@@ -49,20 +34,6 @@ const toggleDropdown = () => {
 }
 
 const selectMode = (choice: ModeChoice) => {
-  const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  
-  // Prevent switching to Light/Dark/AMOLED when in custom mode
-  if (current === 'custom' && choice.mode !== 'custom') {
-    isOpen.value = false
-    return
-  }
-  
-  // Prevent switching when clicking custom (clicking custom does nothing)
-  if (choice.mode === 'custom') {
-    isOpen.value = false
-    return
-  }
-  
   if (choice.isAmoled) {
     setMode('dark')
     setAmoledEnabled(true)
@@ -75,29 +46,10 @@ const selectMode = (choice: ModeChoice) => {
 
 const isActiveChoice = (choice: ModeChoice) => {
   const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  // Handle custom mode
-  if (choice.mode === 'custom') {
-    return current === 'custom'
-  }
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value
   }
   return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
-}
-
-// Check if a choice should be disabled
-const isDisabled = (choice: ModeChoice) => {
-  const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
-  // Disable Light/Dark/AMOLED when in custom mode
-  return current === 'custom' && choice.mode !== 'custom'
-}
-
-// Get tooltip for disabled items
-const getTooltip = (choice: ModeChoice) => {
-  if (isDisabled(choice)) {
-    return 'Use default themes to select this'
-  }
-  return choice.label
 }
 
 const handleClickOutside = (event: MouseEvent) => {
@@ -134,8 +86,7 @@ onUnmounted(() => {
           v-for="(choice, index) in modeChoices"
           :key="index"
           class="theme-dropdown-item"
-          :class="{ active: isActiveChoice(choice), disabled: isDisabled(choice) }"
-          :title="getTooltip(choice)"
+          :class="{ active: isActiveChoice(choice) }"
           @click="selectMode(choice)"
         >
           <div :class="[choice.icon, 'text-lg']" />
@@ -213,16 +164,6 @@ onUnmounted(() => {
   &.active {
     color: var(--vp-c-brand-1);
     font-weight: 500;
-  }
-
-  &.disabled {
-    color: var(--vp-c-text-3);
-    opacity: 0.5;
-    cursor: not-allowed;
-
-    &:hover {
-      background: transparent;
-    }
   }
 
   span {
