@@ -1410,7 +1410,7 @@
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [animang](https://animang.one/) - Anime / Dub / 1080p
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
-* [anilib](https://anilib.me/), [2]https://v3.animelib.org) - Anime / Dub / 1080p
+* [anilib](https://anilib.me/), [2](https://v3.animelib.org) - Anime / Dub / 1080p
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [AniLibria](https://anilibria.top/) - Anime / Sub / 1080p
 * [animego](https://animego.me/) - Anime / Sub / 1080p

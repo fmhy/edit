@@ -30,7 +30,7 @@ We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/interne
 
 For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
-For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
+For iOS, we recommend **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)** or **[Brave](https://brave.com/)**.
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
@@ -119,8 +119,6 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 * **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 * **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
-
-!!!note Be aware that unofficial sources often re-upload M0nkrus's repacks, sometimes with added malware. Always verify you are downloading from M0nkrus's actual site, which we link on FMHY before downloading anything. Do not trust search engine results blindly for such specific repackers.
 
 ***
 

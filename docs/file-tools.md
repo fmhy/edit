@@ -292,11 +292,9 @@
 
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
-* ⭐ **[SpaceDrop](https://spacedrop.app/)**
 * [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
-* [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
 
 ***
