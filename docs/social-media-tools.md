@@ -533,7 +533,7 @@
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [X Cancelled](https://xcancel.com/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [⁠Twitter Viewer](https://xtwitterviewer.com/) or [nitter](https://nitter.net/), [2](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - X.com Frontends / Viewers
+* [X Cancelled](https://xcancel.com/), [2](https://nitter.net/), [3](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers

@@ -619,10 +619,10 @@
 * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
 * ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 * [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md) - Firefox Hidden Settings
-* [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
