@@ -17,12 +17,10 @@
 import { ref, onMounted, computed } from 'vue'
 import type { DisplayMode, ThemeState, Theme, ModeColors } from './types'
 import { themeRegistry } from './configs'
-import tinycolor from 'tinycolor2'
 
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
-const STORAGE_KEY_PREVIOUS_MODE = 'vitepress-previous-mode'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -31,176 +29,9 @@ export class ThemeHandler {
     theme: null
   })
   private amoledEnabled = ref(false)
-  private previousMode = ref<DisplayMode>('light')
 
   constructor() {
     this.initializeTheme()
-  }
-
-  private registerCustomThemeFromStorage() {
-    if (typeof window === 'undefined') return
-    
-    // Load saved custom colors from localStorage
-    const savedLinkColor = localStorage.getItem('custom-theme-link-color') || '#ffffff'
-    const savedTextColor = localStorage.getItem('custom-theme-text-color') || '#cccccc'
-    const savedBgColor = localStorage.getItem('custom-theme-bg-color') || '#000000'
-    
-    // Create lighter versions of background for cards
-    // Increase lightening to make cards more distinct
-    const lightenedBg = tinycolor(savedBgColor).lighten(10).toString()
-    const lightenedBgAlt = tinycolor(savedBgColor).lighten(15).toString()
-    
-    // Create custom theme with saved colors
-    const customTheme = {
-      name: 'custom',
-      displayName: 'Custom',
-      preview: savedBgColor,
-      modes: {
-        light: {
-          brand: {
-            1: savedLinkColor,
-            2: savedLinkColor,
-            3: savedLinkColor,
-            soft: savedLinkColor
-          },
-          bg: savedBgColor,
-          bgAlt: lightenedBg,
-          bgElv: lightenedBgAlt,
-          text: {
-            1: savedTextColor,
-            2: savedTextColor,
-            3: savedTextColor
-          },
-          button: {
-            brand: {
-              bg: savedLinkColor,
-              border: savedLinkColor,
-              text: savedBgColor,
-              hoverBorder: savedLinkColor,
-              hoverText: savedBgColor,
-              hoverBg: savedLinkColor,
-              activeBorder: savedLinkColor,
-              activeText: savedBgColor,
-              activeBg: savedLinkColor
-            },
-            alt: {
-              bg: '#484848',
-              text: '#f0eeee',
-              hoverBg: '#484848',
-              hoverText: '#f0eeee'
-            }
-          },
-          customBlock: {
-            info: {
-              bg: savedBgColor,
-              border: savedLinkColor,
-              text: savedTextColor,
-              textDeep: savedTextColor
-            },
-            tip: {
-              bg: '#D8F8E4',
-              border: '#447A61',
-              text: '#2D6A58',
-              textDeep: '#166534'
-            },
-            warning: {
-              bg: '#FCEFC3',
-              border: '#9A8034',
-              text: '#9C701B',
-              textDeep: '#92400e'
-            },
-            danger: {
-              bg: '#FBE1E2',
-              border: '#B3565E',
-              text: '#912239',
-              textDeep: '#991b1b'
-            }
-          },
-          selection: {
-            bg: savedLinkColor
-          },
-          home: {
-            heroNameColor: savedLinkColor,
-            heroNameBackground: savedBgColor,
-            heroImageBackground: `linear-gradient(135deg, ${savedBgColor} 0%, ${savedLinkColor} 100%)`,
-            heroImageFilter: 'blur(44px)'
-          }
-        },
-        dark: {
-          brand: {
-            1: savedLinkColor,
-            2: savedLinkColor,
-            3: savedLinkColor,
-            soft: savedLinkColor
-          },
-          bg: savedBgColor,
-          bgAlt: lightenedBg,
-          bgElv: lightenedBgAlt,
-          text: {
-            1: savedTextColor,
-            2: savedTextColor,
-            3: savedTextColor
-          },
-          button: {
-            brand: {
-              bg: savedLinkColor,
-              border: savedLinkColor,
-              text: savedBgColor,
-              hoverBorder: savedLinkColor,
-              hoverText: savedBgColor,
-              hoverBg: savedLinkColor,
-              activeBorder: savedLinkColor,
-              activeText: savedBgColor,
-              activeBg: savedLinkColor
-            },
-            alt: {
-              bg: '#484848',
-              text: '#f0eeee',
-              hoverBg: '#484848',
-              hoverText: '#f0eeee'
-            }
-          },
-          customBlock: {
-            info: {
-              bg: savedBgColor,
-              border: savedLinkColor,
-              text: savedTextColor,
-              textDeep: savedTextColor
-            },
-            tip: {
-              bg: '#0C2A20',
-              border: '#184633',
-              text: '#B0EBC9',
-              textDeep: '#166534'
-            },
-            warning: {
-              bg: '#403207',
-              border: '#7E6211',
-              text: '#F9DE88',
-              textDeep: '#92400e'
-            },
-            danger: {
-              bg: '#3F060A',
-              border: '#7C0F18',
-              text: '#F7C1BC',
-              textDeep: '#991b1b'
-            }
-          },
-          selection: {
-            bg: savedLinkColor
-          },
-          home: {
-            heroNameColor: savedLinkColor,
-            heroNameBackground: savedBgColor,
-            heroImageBackground: `linear-gradient(135deg, ${savedBgColor} 0%, ${savedLinkColor} 100%)`,
-            heroImageFilter: 'blur(44px)'
-          }
-        }
-      }
-    }
-    
-    // Register custom theme
-    themeRegistry['custom'] = customTheme
   }
 
   private initializeTheme() {
@@ -210,11 +41,6 @@ export class ThemeHandler {
     const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
-
-    // If custom theme was saved, register it early from localStorage
-    if (savedTheme === 'custom') {
-      this.registerCustomThemeFromStorage()
-    }
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -265,9 +91,7 @@ export class ThemeHandler {
 
     if (!theme) return
 
-    // Custom mode uses dark mode colors from the theme
-    const effectiveMode = currentMode === 'custom' ? 'dark' : currentMode
-    const modeColors = theme.modes[effectiveMode]
+    const modeColors = theme.modes[currentMode]
 
     this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
@@ -283,7 +107,7 @@ export class ThemeHandler {
     const root = document.documentElement
 
     // Remove all mode classes
-    root.classList.remove('dark', 'light', 'amoled', 'custom')
+    root.classList.remove('dark', 'light', 'amoled')
 
     // Add current mode class
     root.classList.add(mode)
@@ -335,14 +159,6 @@ export class ThemeHandler {
     root.style.setProperty('--vp-c-bg', bgColor)
     root.style.setProperty('--vp-c-bg-alt', bgAltColor)
     root.style.setProperty('--vp-c-bg-elv', bgElvColor)
-    
-    // Apply additional background variables for cards and other elements
-    root.style.setProperty('--vp-c-bg-soft', bgAltColor)
-    root.style.setProperty('--vp-c-default-soft', bgElvColor)
-    root.style.setProperty('--vp-c-default-1', bgAltColor)
-    root.style.setProperty('--vp-c-default-2', bgElvColor)
-    root.style.setProperty('--vp-c-default-3', bgColor)
-    
     if (colors.bgMark) {
       root.style.setProperty('--vp-c-bg-mark', colors.bgMark)
     }
@@ -466,12 +282,6 @@ export class ThemeHandler {
   }
 
   public setMode(mode: DisplayMode) {
-    // Save current mode as previous mode before switching to custom
-    if (mode === 'custom' && this.state.value.currentMode !== 'custom') {
-      this.previousMode.value = this.state.value.currentMode
-      localStorage.setItem(STORAGE_KEY_PREVIOUS_MODE, this.previousMode.value)
-    }
-    
     this.state.value.currentMode = mode
     localStorage.setItem(STORAGE_KEY_MODE, mode)
     this.applyTheme()
@@ -509,9 +319,7 @@ export class ThemeHandler {
     if (!theme) return
     // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
-    // Custom mode uses dark mode colors
-    const effectiveMode = currentMode === 'custom' ? 'dark' : currentMode
-    const modeColors = theme.modes[effectiveMode]
+    const modeColors = theme.modes[currentMode]
 
     if (!modeColors.brand || !modeColors.brand[1]) {
       // Trigger a custom event that ColorPicker can listen to
@@ -552,15 +360,6 @@ export class ThemeHandler {
   public isAmoledMode() {
     return this.state.value.currentMode === 'dark' && this.amoledEnabled.value
   }
-
-  public restorePreviousMode() {
-    // Only restore if currently in custom mode
-    if (this.state.value.currentMode === 'custom') {
-      const savedPreviousMode = localStorage.getItem(STORAGE_KEY_PREVIOUS_MODE) as DisplayMode | null
-      const modeToRestore = savedPreviousMode || this.previousMode.value
-      this.setMode(modeToRestore)
-    }
-  }
 }
 
 // Global theme handler instance
@@ -596,7 +395,6 @@ export function useTheme() {
     amoledEnabled: handler.getAmoledEnabledRef(),
     setAmoledEnabled: (enabled: boolean) => handler.setAmoledEnabled(enabled),
     toggleAmoled: () => handler.toggleAmoled(),
-    restorePreviousMode: () => handler.restorePreviousMode(),
     state
   }
 }
