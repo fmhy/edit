@@ -5,7 +5,7 @@
 ***
 
 # ► Social Media Tools
-
+* 🛑 **[TikTok info tools](https://tiktokinfo.vercel.app)** - View public TikTok profile information including follower count, following count, likes, user ID, country (when publicly available), and TikTok stories. / [Telegram](https://t.me/Z_0_G)
 * 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [canine.tools](https://canine.tools/services/), [PrivacyRedirect](https://privacyredirect.com/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
