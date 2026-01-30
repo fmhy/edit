@@ -49,7 +49,7 @@
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / DeepSeek V3.2 / Grok 4.1 Fast (non-reasoning) / Reset Limits w/ Temp Mail
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM 4.7 / Qwen3 235B / Requires Sign-Up
 * [Groq](https://console.groq.com/playground) - Kimi K2-0905 / GPT-OSS 120B / Requires Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
-* [⁠Together.ai](https://chat.together.ai/) - GLM 4.7 / Kimi K5 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [⁠Together.ai](https://chat.together.ai/) - GLM 4.7 / Kimi K2.5 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Woozlit](https://woozlit.com/) - DeepSeek V3.2 / Qwen3 235B / Multiple Models / No Sign-Up / [Discord](https://discord.gg/XE65JfWm)
 * [Duck AI](https://duck.ai/) - GPT-5 mini / gpt-image-1-mini / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/) - GPT-5 mini / Llama 4 scout / No Sign-Up
