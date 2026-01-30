@@ -207,6 +207,13 @@ export default defineConfig({
     build: {
       // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
+    },
+    css: {
+      preprocessorOptions: {
+        scss: {
+          api: 'modern-compiler'
+        }
+      }
     }
   },
   markdown: {
