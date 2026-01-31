@@ -765,7 +765,7 @@
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/) / [Albert GitHub](https://github.com/albertlauncher/albert)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Windows-Style Alt-Tab for Mac
-* [MuMuPlayer](https://www.mumuplayer.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
+* [MuMuPlayer](https://www.mumuplayer.com/, [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
