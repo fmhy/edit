@@ -251,7 +251,6 @@
 * [AOL](https://search.aol.com/)
 * [All the Internet](https://www.alltheinternet.com/)
 * [eTools.ch](https://www.etools.ch/)
-* [BizNar](https://biznar.com/biznar/desktop/en/search.html)
 * [WorldWideScience](https://worldwidescience.org/)
 * [Whoogle Search](https://github.com/benbusby/whoogle-search) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
 
@@ -330,6 +329,7 @@
 
 * ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
+* [Zen Bypass](https://izen.lol/) - Ad Links Bypasser / [Telegram](https://t.me/izenlol) / [Discord](https://discord.com/invite/ua7SCUAg3A)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js) / [Discord](https://discord.gg/5tVkG8eMg)
 * [Evade](https://skipped.lol/evade/evade.user.js) - Ad-Links Bypasser / [Site](https://skipped.lol/) / [Discord](https://discord.gg/aaw9jmw4BC)
 * [bypass.link](https://bypass.link/) - Bypass Link Shorteners
@@ -707,7 +707,7 @@
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
 * [Caffeine](https://webextension.org/listing/caffeine.html) - Prevent OS from Sleeping
 * [Broken Link Checker](https://webextension.org/listing/broken-link-checker.html) - Checks Page for Broken Links
-* [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/full-page-screen-capture-/) - Full Page Screenshots
+* [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [XKit](https://github.com/new-xkit/XKit) - Tumblr Enhancement Extension

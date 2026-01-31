@@ -718,6 +718,7 @@
 ## ▷ HRT / Trans Health
 
 * 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)**
+* ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
 * [Trans Harm Reduction](https://transharmreduction.org/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Saftey Guides / [Testing](https://transharmreduction.org/hrt-testing)
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics / Map
 * [DIYHRT.Market](https://diyhrt.market/) - HRT Vendor Directory / Price Comparison & Safety Guides
@@ -1039,9 +1040,11 @@
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [⁠MoboMaps](https://mobomaps.com/) - Motherboard Visualizations / Info
+* [GPU Scout](https://www.gpuscout.com/) - eBay GPU Price Tracker
+* [CPU Scout](https://www.cpuscout.com/) - eBay CPU Price Tracker
 * [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
-* [Disk Prices](https://diskprices.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Tracker
+* [Disk Prices](https://diskprices.com/), [⁠PricePerGig](https://pricepergig.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Trackers
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) (discord) - Laptop Suggestions
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
@@ -1501,6 +1504,7 @@
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
 * [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
+* [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
 * [spurious correlations](https://tylervigen.com/spurious-correlations) - Random Correlations
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings

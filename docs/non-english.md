@@ -134,8 +134,7 @@
 
 ## ▷ Torrenting / Торентиране
 
-* [Zamunda](https://zamunda.net/) - Video / Audio / Books / Requires Sign-Up
-* [ArenaBG](https://arenabg.com/en/) - Movies / TV / Requires Sign-Up
+* [Zamunda](https://www.zamunda.se/) - Video / Audio / Books / Requires Sign-Up
 
 ## ▷ Streaming / Стрийминг
 
@@ -365,7 +364,8 @@
 ## ▷ Downloading / Stahování
 
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
-* [Datoid](https://datoid.to/ ) - Video / Audio / Books / Sign-Up Required for 1GB+ Files
+* [Datoid](https://datoid.to/) - Video / Audio / Books / Sign-Up Required for 1GB+ Files
+* [FastShare.cloud](https://fastshare.cloud/) -  Video / Audio / Books
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 * [hellspy](https://hellspy.to/) - Video / Geoblocked
@@ -452,7 +452,7 @@
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [carto.tchoo](https://carto.tchoo.net/) - Live Train Map
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
-* [Donnons](https://donnons.org/) - Item Donation
+* [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting  
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/), [LSF Dico](https://lsfdico.injs-metz.fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 * [I Say LSF](https://dico.swax-lsf.fr/) - French Sign Translator
 
@@ -513,6 +513,7 @@
 * [DirectFR](https://directfr.sbs/) - Live TV
 * [witv](https://witv.soccer/) - Live TV
 * [oohquelbut](https://quelbut.me/) - Live Sports
+* [hiboux](https://hiboux.plus/) - Live Sports / [Telegram](https://t.me/+K3gsWeZY06NhMjM0) / [Discord](https://discord.gg/hiboux3)
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations

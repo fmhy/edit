@@ -135,12 +135,12 @@
 ***
 
 * ⭐ **[LanguageTool](https://languagetool.org/)** - Web App
+* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) / [Features](https://rentry.co/FMHYB64#quill)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Requires Sign-Up
 * [Harper](https://writewithharper.com/) - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [DeepL Write](https://www.deepl.com/write) - Web App
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
-* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/) - Web App
 * [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up

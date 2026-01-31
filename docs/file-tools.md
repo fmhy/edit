@@ -225,8 +225,9 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
+* [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
@@ -277,6 +278,7 @@
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
+* [NahrajSoubor](https://nahrajsoubor.cz/) - Desktop / Mobile Transfer
 * [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
@@ -294,6 +296,7 @@
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
 * [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
+* [⁠Station307](https://www.station307.com/)
 * [new.space](https://new.space/)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
 
