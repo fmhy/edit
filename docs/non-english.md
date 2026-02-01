@@ -389,6 +389,7 @@
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 * [StarStreams](https://starstreams.pro/) - Live Football / Hockey
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
 
@@ -1512,6 +1513,7 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 * [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting
@@ -1834,6 +1836,7 @@
 * [UAKino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
 * [UASerials](https://uaserials.pro/) - Movies / TV / Anime
 * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 
 ***
 
