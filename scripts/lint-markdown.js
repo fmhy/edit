@@ -139,6 +139,67 @@ files.forEach(file => {
                 errors.push(`Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`);
                 break;
             }
+
+            // C. Double slash separated by spaces: "/ /"
+            if (/\/\s+\//.test(lineWithoutLinks)) {
+                errors.push('Double slash with spaces detected (e.g. "/ /")');
+            }
+        }
+
+
+
+        // Check 9: Adjacent links without separator (e.g. "Text [Link]" instead of "Text / [Link]")
+        const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
+            'docs/beginners-guide.md',
+            'docs/unsafe.md'
+        ];
+
+        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => file.endsWith(ignoredFile))) {
+            const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+            let match;
+            while ((match = linkRegex.exec(line)) !== null) {
+                const index = match.index;
+                if (index === 0) continue;
+
+                const preceding = line.slice(0, index);
+
+                // Ignore if line starts with valid list marker followed immediately by this link
+                // e.g. "* [Link]" or "- [Link]" or "1. [Link]"
+                if (/^\s*([*+-]|\d+\.)\s*$/.test(preceding)) continue;
+                // Ignore if Starred item "* ⭐ [Link]"
+                if (/^\s*[*+-]\s+⭐\s*$/.test(preceding)) continue;
+                // Ignore if link is preceded by bold/italic markers only (start of line)
+                if (/^\s*[*+-]\s+[*_]+\s*$/.test(preceding)) continue;
+
+                const trimmedPreceding = preceding.trimEnd();
+                if (trimmedPreceding.length === 0) continue;
+
+                // Check last character
+                const lastChar = trimmedPreceding.slice(-1);
+                // Allowed: separators, openers, end of sentences
+                // ! for images (![Alt]), * for bold, ( for parens, etc.
+                const allowedChars = ['/', '-', ',', '(', '&', '>', ':', '|', '*', '!', '.', '?', ';', '_', '⭐', '+', '#', '►', '▷'];
+                if (allowedChars.includes(lastChar)) continue;
+
+                // Check for allowed functional words (prepositions, conjunctions, determiners, etc.)
+                // to avoid flagging sentences like "Try a [VPN]" or "Use [Adblock]"
+                const allowedWords = [
+                    'or', 'and',
+                    'a', 'an', 'the',
+                    'use', 'using', 'via', 'with',
+                    'in', 'on', 'at', 'by',
+                    'to', 'for', 'from',
+                    'check', 'see', 'try',
+                    'requires', 'including', 'includes',
+                    'that', 'your', 'our',
+                    'of', 'about', 'their', 'join', 'getting', 'most',
+                    'like', 'every', 'being', 'mostly', 'highly', 'up', 'we', 'optionally'
+                ];
+                const wordRegex = new RegExp(`(^|[^a-zA-Z0-9])(${allowedWords.join('|')})$`, 'i');
+                if (wordRegex.test(trimmedPreceding)) continue;
+
+                errors.push(`Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`);
+            }
         }
 
         if (errors.length > 0) {

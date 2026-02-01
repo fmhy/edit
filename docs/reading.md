@@ -874,7 +874,7 @@
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Manga + Novel Rating Aggregator / Tracking / [Discord](https://mangabaka.org/discord)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
