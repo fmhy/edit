@@ -940,7 +940,7 @@
 
 ## ▷ Recommendation Tools
 
-* ⭐ **[⁠Nothing To Watch](https://nothing-to-watch.port80.ch/)** - Interactive Movie Discovery Visualization / [GitHub](https://github.com/gnovotny/nothing-to-watch)
+* ⭐ **[⁠Nothing To Watch](https://nothing-to-watch.port80.ch/)** - Interactive Movie Discovery Visualization / Uses 250MB / [GitHub](https://github.com/gnovotny/nothing-to-watch)
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
