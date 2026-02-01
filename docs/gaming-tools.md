@@ -815,19 +815,19 @@
 
 ## ▷ Fan Games
 
+* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
 * ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** -  Online Multiplayer Fangame / Deltarune Elements
 * ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
 * ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
 * ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
 * [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
-* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - hara Boss Fight
-* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - ndertale Yellow Inspired
+* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
+* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
 * [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
 * [Ink Sans](https://gamejolt.com/games/inksans025/321332) - AU Multiverse Character Fan Game
 * [ClickerTale](https://gamejolt.com/games/clickertale2/249516) - Cookie Clicker Inspired
 * [Bad Monday Simulator](https://lumpytouch.itch.io/bad-monday-simulator) - Garfield Sans Fan Game
 * [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Garfield Sans Fan Game 
-* [GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale) or  [itch.io Undertale](https://itch.io/games/tag-undertale) - Fan Games / Indie Tributes
 
 ***
 
