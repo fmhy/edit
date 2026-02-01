@@ -260,6 +260,7 @@
 * [Co-Optimus](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
+* [⁠Backwards Compatible](https://www.backwards-compatible.com/) - PS4 / PS5 Backwards Compatibility Database 
 * [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Combability Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
@@ -793,11 +794,11 @@
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - All Dialogue in Undertale and Deltarune
 * [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Complete Game Dialogue Spreadsheet
 * [Under-Lore](https://under-lore.tumblr.com/) - Monster Biology and Narrative Logic Analysis
-* [Starmen.net Forum](https://forum.starmen.net/forum) - Historical Community / EarthBound/Undertale Roots / Requires Sign-Up
+* [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
 * [Steam Undertale Community](https://store.steampowered.com/app/391540/Undertale/) - Discussion Boards & Guides
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
-* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor / [Guide](https://tennaproject.com/welcome)
+* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
 
 ***
 
@@ -1032,9 +1033,10 @@
 
 ## ▷ RimWorld Tools
 
-* [RimWorld Wiki](https://rimworldwiki.com/) - Official Wiki
+* ⭐ **[RimWorld Wiki](https://rimworldwiki.com/)** - Official Wiki
+* ⭐ **[RimSort](https://rimsort.github.io/RimSort/)** - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
 * [RimWorld Discord](https://discord.com/invite/rimworld) - Official Community Discord
-* [RimSort](https://rimsort.github.io/RimSort/) - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
+* [r/RimWorld](https://www.reddit.com/r/RimWorld/) - Official Community Subreddit
 * [Judge My List](https://jumli.sysrqmagician.dev/) - Automated Modlist Feedback / [GitHub](https://github.com/sysrqmagician/jumli)
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
 * [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides

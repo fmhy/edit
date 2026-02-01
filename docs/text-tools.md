@@ -419,7 +419,7 @@
 
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
-* [ASCII Paint](https://ascii.alienmelon.com/) - ASCII Paint Tool
+* [ASCII Paint](https://ascii.alienmelon.com/, [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster)- ASCII Paint Tools
 * [⁠shabzefilters](https://shabzefilters.netlify.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [ascii-exploration](https://ascii-exploration.vercel.app/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
@@ -462,6 +462,7 @@
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)
+* [⁠Markpad](https://github.com/alecdotdev/Markpad) - Lightweight / Minimal
 
 ***
 
@@ -577,6 +578,7 @@
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
 * [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
+* [The Ransomizer](https://www.ransomizer.com/) - Ransom Note Style Text
 * [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
 
 ***

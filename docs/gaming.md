@@ -290,6 +290,7 @@
 * [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
+* [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
 * [Hash Tool](https://www.romhacking.net/hash/) - ROM Patch Compatibility Checker
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
