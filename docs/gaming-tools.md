@@ -701,7 +701,7 @@
 * [No Telemetry](https://modrinth.com/mod/no-telemetry), [2](https://www.curseforge.com/minecraft/mc-mods/no-telemetry) - Disable Telemetry Data / [Github](https://github.com/kb-1000/no-telemetry?tab=readme-ov-file)
 * [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX) / [Github](https://github.com/henkelmax/simple-voice-chat)
 * [ReplayMod](https://replaymod.com/) / [Discord](https://discord.com/invite/5GR7RSb) / [Github](https://github.com/ReplayMod/ReplayMod) or [FlashBack](https://modrinth.com/mod/flashback) / [Discord](https://discord.com/invite/mAYDZ9c7rD) / [Github](https://github.com/Moulberry/Flashback?tab=readme-ov-file) - Record Game Sessions
-* [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music Services / [Github](https://github.com/ThatGravyBoat/Craftify)
+* [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music from Streaming Services / [Github](https://github.com/ThatGravyBoat/Craftify)
 * [Vanilla Tweaks](https://www.vanillatweaks.net/) - Semi-custom Resource Packs, Data Packs, and Crafting Tweaks / [X](https://x.com/vanillatweaks) / [Discord](https://discord.com/invite/qG53qwF)
 * [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial Vanilla Tweaks Port to Bedrock Edition / [Discord](https://discord.com/invite/xq9JpJ3) / [Github](https://github.com/bedrocktweaks)
 * [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
