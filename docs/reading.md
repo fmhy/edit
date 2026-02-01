@@ -482,7 +482,6 @@
 * [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW / [Discord](https://discord.gg/syp3a6Eucq)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
-* [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaHaven](https://mangahaven.net/)
 * [Anibite Manga](https://anibite.cc/manga)

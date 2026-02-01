@@ -780,6 +780,57 @@
 
 ***
 
+# ► Undertale / Deltarune
+
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/)  - Main Gameplay & Lore Databases
+* ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
+* ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)**, - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
+* ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
+* ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
+* ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
+* [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
+* [Official Undertale Tumblr](https://undertale.tumblr.com/) / [Official Q&A](http://undertaleqa.tumblr.com/) - Archived Developer Posts & Insights
+* [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - All Dialogue in Undertale and Deltarune
+* [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Complete Game Dialogue Spreadsheet
+* [Under-Lore](https://under-lore.tumblr.com/) - Monster Biology and Narrative Logic Analysis
+* [Starmen.net Forum](https://forum.starmen.net/forum) - Historical Community / EarthBound/Undertale Roots / Requires Sign-Up
+* [Steam Undertale Community](https://store.steampowered.com/app/391540/Undertale/) - Discussion Boards & Guides
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
+* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor / [Guide](https://tennaproject.com/welcome)
+
+***
+
+## ▷ Modding & Fan Content
+
+* ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Essential Datamining / Modding Tool
+* ⭐ **[CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk)** - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [r/Unitale](https://www.reddit.com/r/Unitale/)
+* ⭐ **[Undertale GameBanana](https://gamebanana.com/games/5506)**, [Nexus Undertale](https://www.nexusmods.com/games/undertale) or [Nexus Deltarune](https://www.nexusmods.com/games/deltarune) - Mod Repositories
+* ⭐ **[Undertale AU Wiki](https://undertale-au.fandom.com/)** - AU Documentation / Multiverse Content
+* [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
+* [Create Your Kris (CYK)](https://github.com/RhenaudTheLukark/CreateYourKris) - CYF Mod for DELTARUNE-Like Encounters
+* [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
+
+***
+
+## ▷ Fan Games
+
+* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** -  Online Multiplayer Fangame / Deltarune Elements
+* ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
+* ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
+* ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
+* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
+* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - hara Boss Fight
+* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - ndertale Yellow Inspired
+* [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
+* [Ink Sans](https://gamejolt.com/games/inksans025/321332) - AU Multiverse Character Fan Game
+* [ClickerTale](https://gamejolt.com/games/clickertale2/249516) - Cookie Clicker Inspired
+* [Bad Monday Simulator](https://lumpytouch.itch.io/bad-monday-simulator) - Garfield Sans Fan Game
+* [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Garfield Sans Fan Game 
+* [GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale) or  [itch.io Undertale](https://itch.io/games/tag-undertale) - Fan Games / Indie Tributes
+
+***
+
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources

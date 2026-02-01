@@ -1134,11 +1134,11 @@
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler
 * ⭐ **[GHIDRA](https://github.com/NationalSecurityAgency/ghidra)** - Reverse Engineering Framework
+* ⭐ **[Frida](https://frida.re/)** - Dynamic Instrumentation Toolkit / [GitHub](https://github.com/frida/frida)
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
 * [⁠LemmeDebug](https://greasyfork.org/en/scripts/537775) - Disable Anti-Devtools for Reverse Engineering / Debugging
 * [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [Discord](https://discord.gg/YBey7CR9jf) / [GitHub](https://github.com/radareorg/radare2)
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework
-* [Frida](https://frida.re/) - Dynamic Instrumentation Toolkit / [GitHub](https://github.com/frida/frida)
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [REMnux](https://remnux.org/) - Reverse Engineering / Malware Analysis
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
