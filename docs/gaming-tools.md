@@ -521,6 +521,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
 ***
@@ -580,7 +581,7 @@
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [xbGuard](https://xbguard.live) - Xbox 360 Stealth Server / [Discord](https://discord.gg/YkpmBHK)
+* [xbGuard](https://xbguard.live) / [Discord](https://discord.gg/YkpmBHK) or [Proto Stealth](https://www.freestealth.com/) / [Discord](https://discord.gg/gwNQ5SdFbF) - Xbox 360 Stealth Servers 
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter

@@ -723,7 +723,7 @@
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files

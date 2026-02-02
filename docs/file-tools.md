@@ -387,6 +387,7 @@
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) - Bypass Premium Link Speed Limits
 
 ***
 

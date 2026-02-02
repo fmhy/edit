@@ -78,7 +78,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Gaming
 
-* **Download / Torrent: [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Download / Torrent: [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYB64#myrient)**
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**

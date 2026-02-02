@@ -239,6 +239,7 @@
 * ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) - Bypass Premium Link Speed Limits 
 
 ***
 

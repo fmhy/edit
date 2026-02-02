@@ -359,7 +359,6 @@
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [NetBoot](https://netboot.xyz/) - iPXE Network Boot
 * [⁠MrChromebox](https://docs.mrchromebox.tech/), [Chrultrabook](https://docs.chrultrabook.com/) or [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows / Linux on Chromebook
-* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
 
 ***
 

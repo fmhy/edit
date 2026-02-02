@@ -525,8 +525,10 @@
 
 ## ▷ Bookmark Managers
 
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager
 * [Start.me](https://about.start.me/) - Web-Based Manager
+* [Bookmark Manager Zero](https://bmz.absolutezero.fyi/) - Firefox / Chrome Extension / Android
 * [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
 * [wallabag](https://wallabag.org/) - Web-Based Manager
 * [Dropmark](https://www.dropmark.com/) - Web-Based Manager
@@ -720,7 +722,6 @@
 
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/firefox/extensions/)** - Firefox Addon Store
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Bookmark Manager
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [ContextSearch web-ext](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools

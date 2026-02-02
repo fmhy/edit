@@ -239,7 +239,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en, [TGStat](https://tgstat.com/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSEs
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
@@ -412,6 +412,7 @@
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
+* [yoink.tools](https://yoink.tools/) - YouTube Downloader / Online / [GitHub](https://github.com/coah80/yoink)
 * [⁠YT1s](https://yt1s.com.co/) - YouTube Downloader / Online
 * [⁠YTDown](https://ytdown.io/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online / [Subreddit](https://www.reddit.com/r/cnvmp3)
@@ -653,7 +654,7 @@
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* [Nostr](https://nstart.me/) - Federated Twitter Alternative
+* [Nostr](https://nstart.me/) - Federated Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search

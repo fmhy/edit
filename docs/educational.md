@@ -128,10 +128,10 @@
 
 * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
+* ⭐ **[Knots 3D](https://knots3d.com/)**, [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [ARRL](https://www.arrl.org/) - Amateur Radio Resources / Learning / [Exam Search](https://www.arrl.org/find-an-amateur-radio-license-exam-session) / [Question Pools](https://www.arrl.org/question-pools)
 * [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
-* [Knots 3D](https://knots3d.com/), [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
@@ -834,6 +834,7 @@
 * [TalkEnglish](https://www.talkenglish.com/) or [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - Improve Spoken English
 * [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
 * [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
+* [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 * [CEFR Lookup](ttps://cefrlookup.com/) - CEFR Word Level Lookup
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
@@ -1368,7 +1369,6 @@
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
 * [⁠Get Sum Math](https://www.getsummath.com/) - GED Prep / Practice
-* [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
@@ -1460,7 +1460,6 @@
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
-* [⁠Self Attendance](https://github.com/xtractiion/self.attendance) - Class Attendance Tracker / Android
 * [StudyCraft](https://studycraft.dev/) - Flashcards / Markdown Notes / PDF Reader / [GitHub](https://github.com/rodmarkun/StudyCraft)
 * [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [⁠Paper Trails](https://www.papertrailshq.com/) - Academic Paper Tracker 

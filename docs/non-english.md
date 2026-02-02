@@ -1142,7 +1142,8 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
-* [Naikamu](https://naikamu.com/) - Anime Streaming / Android
+* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
+* [Naikamu](https://naikamu.com/) - Anime Streaming App / Android
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
@@ -1185,7 +1186,7 @@
 
 ## ▷ Torrenting
 
-* 🌐 **[Trackers.md](https://pirataria.link/trackers#🔰-➜-trackers-brasileiros)** - Private Tracker Index
+* 🌐 **[Trackers.md](https://pirataria.link/trackers)** - Private Tracker Index
 * [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
@@ -1335,7 +1336,7 @@
 * [RKN Dump Check](https://t.me/u2ckbot) - Censorship Check
 * [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
-* [tgstat](https://tgstat.ru/) - Telegram Channel Stats
+* [TGStat](https://tgstat.ru/) - Telegram Channel Stats
 * [EDA](https://eda.ru/) - Recipes
 * [Songs Pro](https://songspro.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
