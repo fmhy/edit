@@ -779,6 +779,7 @@
 * [Resizing](https://resizing.app/) - Resize Images
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
+* [Word Cloud Generator](https://chromewebstore.google.com/detail/word-cloud-generator/ohdkpdnmamkdpmbcenpohkjhkmhnnfkf) - Create word clouds from text
 
 ***
 
