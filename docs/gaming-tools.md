@@ -786,7 +786,7 @@
 
 # ► Undertale / Deltarune
 
-* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/)  - Main Gameplay & Lore Databases
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/) - Main Gameplay & Lore Databases
 * ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
 * ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)**, - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
 * ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
@@ -820,7 +820,7 @@
 ## ▷ Fan Games
 
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
-* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** -  Online Multiplayer Fangame / Deltarune Elements
+* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** - Online Multiplayer Fangame / Deltarune Elements
 * ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
 * ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
 * ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story

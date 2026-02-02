@@ -308,7 +308,7 @@
 
 ### Premium Only Launchers
 
-* **Note** - The following options require a official Minecraft account to use.
+* **Note** - The following options require an official Minecraft account to use.
 
 ***
 

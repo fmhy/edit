@@ -365,7 +365,7 @@
 
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
 * [Datoid](https://datoid.to/) - Video / Audio / Books / Sign-Up Required for 1GB+ Files
-* [FastShare.cloud](https://fastshare.cloud/) -  Video / Audio / Books
+* [FastShare.cloud](https://fastshare.cloud/) - Video / Audio / Books
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 * [WebShare](https://webshare.cz/) - Video / Audio / Books
 * [hellspy](https://hellspy.to/) - Video / Geoblocked
@@ -453,7 +453,7 @@
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [carto.tchoo](https://carto.tchoo.net/) - Live Train Map
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
-* [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting  
+* [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/), [LSF Dico](https://lsfdico.injs-metz.fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 * [I Say LSF](https://dico.swax-lsf.fr/) - French Sign Translator
 
@@ -1067,7 +1067,7 @@
 
 * [RadioVatani](https://www.radiovatani.com/) - Persian Movies / TV / Live / 1080p
 * [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
-* [myket](https://myket.ir/ ) - Movies / TV / Region Locked
+* [myket](https://myket.ir/) - Movies / TV / Region Locked
 * [imvbox](https://www.imvbox.com/) - Movies / TV / Sub
 * [hikoca](https://hikoca.co.uk/) - Movies / TV
 * [Anten.ir](https://www.anten.ir/) - Live TV / Sports
@@ -1111,7 +1111,7 @@
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [Virpe](https://virpe.cc/) - Movies / TV
 * [Vestroiakr](https://vestroiakr.blogspot.com/) - Movies / TV / Anime
-* [kinoteka](https://kinoteka.cc/) -  Movies / TV / Anime
+* [kinoteka](https://kinoteka.cc/) - Movies / TV / Anime
 * [premiumsmart](https://premiumsmart.eu/) - Movies / TV / Anime
 * [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
 * [Zaluknij](https://zaluknij.cc/) - Movies / TV / Anime
