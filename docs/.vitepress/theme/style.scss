@@ -1,3 +1,7 @@
+body {
+  transition: background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1), color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
 :root {
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');

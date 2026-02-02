@@ -3,7 +3,7 @@ import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
-const { mode, setMode, amoledEnabled, setAmoledEnabled } = useTheme()
+const { mode, amoledEnabled, setAppearance } = useTheme()
 
 const wrapperRef = ref<HTMLElement | null>(null)
 
@@ -30,11 +30,9 @@ const currentChoice = computed(() => {
 
 const selectMode = (choice: ModeChoice) => {
   if (choice.isAmoled) {
-    setMode('dark')
-    setAmoledEnabled(true)
+    setAppearance('dark', true)
   } else {
-    setMode(choice.mode)
-    setAmoledEnabled(false)
+    setAppearance(choice.mode, false)
   }
 }
 
@@ -112,7 +110,9 @@ onUnmounted(() => {
         :title="currentChoice.label"
         >
         <ClientOnly>
-            <div :class="[currentChoice.icon, 'text-xl']" />
+          <Transition name="fade" mode="out-in">
+            <div :key="currentChoice.label" :class="[currentChoice.icon, 'text-xl']" />
+          </Transition>
         </ClientOnly>
         </button>
 
@@ -126,7 +126,9 @@ onUnmounted(() => {
             @click="selectMode(choice)"
             v-close-popper
             >
-            <div :class="[choice.icon, 'text-lg']" />
+            <Transition name="fade" mode="out-in">
+              <div :key="choice.label" :class="[choice.icon, 'text-lg']" />
+            </Transition>
             <span>{{ choice.label }}</span>
             <div v-if="isActiveChoice(choice)" class="i-ph-check text-lg ml-auto" />
             </button>
@@ -202,5 +204,15 @@ onUnmounted(() => {
   span {
     flex: 1;
   }
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.25s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
 }
 </style>
