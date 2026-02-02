@@ -59,12 +59,6 @@ Search the Markdown manually (Ctrl+F)
 
 ---
 
-### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
-
-Multi-site custom search engines
-
----
-
 ### [Dupe Checker](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
