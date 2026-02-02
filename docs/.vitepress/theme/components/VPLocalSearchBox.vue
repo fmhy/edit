@@ -324,6 +324,12 @@ debouncedWatch(
         for (const term in r.match) {
           terms.add(term)
         }
+      } else {
+        // In exact search, also add matched terms so that full words are highlighted
+        // e.g. searching "oaders" will highlight "Downloaders"
+        for (const term in r.match) {
+           terms.add(term)
+        }
       }
 
       return { ...r, text }
@@ -688,6 +694,12 @@ onKeyStroke('Escape', () => {
 onKeyStroke('ArrowLeft', (event) => {
   // Navigate to previous match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    if (event.target === searchInput.value) {
+      if (event.shiftKey) return
+      const { selectionStart, selectionEnd } = searchInput.value!
+      // Only hijack if cursor is collapsed at the start
+      if (selectionStart !== 0 || selectionEnd !== 0) return
+    }
     event.preventDefault()
     prevMatch(selectedIndex.value)
   }
@@ -696,6 +708,12 @@ onKeyStroke('ArrowLeft', (event) => {
 onKeyStroke('ArrowRight', (event) => {
   // Navigate to next match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    if (event.target === searchInput.value) {
+      if (event.shiftKey) return
+      const { selectionStart, selectionEnd, value } = searchInput.value!
+      // Only hijack if cursor is collapsed at the end
+      if (selectionStart !== value.length || selectionEnd !== value.length) return
+    }
     event.preventDefault()
     nextMatch(selectedIndex.value)
   }
