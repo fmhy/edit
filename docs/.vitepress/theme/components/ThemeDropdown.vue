@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
-const { mode, setMode, state, amoledEnabled, setAmoledEnabled } = useTheme()
+const { mode, setMode, amoledEnabled, setAmoledEnabled } = useTheme()
 
-const isOpen = ref(false)
-const dropdownRef = ref<HTMLElement | null>(null)
+const wrapperRef = ref<HTMLElement | null>(null)
 
 interface ModeChoice {
   mode: DisplayMode
@@ -29,10 +28,6 @@ const currentChoice = computed(() => {
   return modeChoices.find(choice => choice.mode === current && !choice.isAmoled) || modeChoices[0]
 })
 
-const toggleDropdown = () => {
-  isOpen.value = !isOpen.value
-}
-
 const selectMode = (choice: ModeChoice) => {
   if (choice.isAmoled) {
     setMode('dark')
@@ -41,7 +36,6 @@ const selectMode = (choice: ModeChoice) => {
     setMode(choice.mode)
     setAmoledEnabled(false)
   }
-  isOpen.value = false
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
@@ -52,56 +46,108 @@ const isActiveChoice = (choice: ModeChoice) => {
   return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
 }
 
-const handleClickOutside = (event: MouseEvent) => {
-  if (dropdownRef.value && !dropdownRef.value.contains(event.target as Node)) {
-    isOpen.value = false
+// Logic to override the parent VPFlyout behavior to be click-based
+const setupParentFlyoutOverride = () => {
+  if (!wrapperRef.value) return
+
+  const flyout = wrapperRef.value.closest('.VPFlyout')
+  if (!flyout) return
+
+  // Add class to disable CSS hover via global style
+  flyout.classList.add('click-based-flyout')
+
+  // Find the toggle button
+  const button = flyout.querySelector('button')
+  if (!button) return
+
+  // Click handler for toggle
+  const toggleFlyout = (e: MouseEvent) => {
+    flyout.classList.toggle('open')
+  }
+
+  button.addEventListener('click', toggleFlyout)
+
+  // Global click listener to close when clicking outside
+  const closeFlyout = (e: MouseEvent) => {
+    if (!flyout.contains(e.target as Node)) {
+      flyout.classList.remove('open')
+    }
+  }
+
+  document.addEventListener('click', closeFlyout)
+
+  ;(wrapperRef.value as any)._cleanup = () => {
+    flyout.classList.remove('click-based-flyout')
+    button.removeEventListener('click', toggleFlyout)
+    document.removeEventListener('click', closeFlyout)
   }
 }
 
 onMounted(() => {
-  document.addEventListener('click', handleClickOutside)
+  // defer slightly to ensuring DOM is ready
+  setTimeout(setupParentFlyoutOverride, 100)
 })
 
 onUnmounted(() => {
-  document.removeEventListener('click', handleClickOutside)
+  if (wrapperRef.value && (wrapperRef.value as any)._cleanup) {
+    ;(wrapperRef.value as any)._cleanup()
+  }
 })
 </script>
 
 <template>
-  <div ref="dropdownRef" class="theme-dropdown">
-    <button
-      type="button"
-      class="theme-dropdown-toggle"
-      :title="currentChoice.label"
-      @click="toggleDropdown"
+  <div ref="wrapperRef" class="theme-dropdown-wrapper">
+    <VDropdown 
+        class="theme-dropdown" 
+        theme="theme-selector"
+        :distance="12" 
+        placement="bottom-end" 
+        :triggers="['click']"
+        :popper-triggers="['click']"
+        :auto-hide="true"
     >
-      <ClientOnly>
-        <div :class="[currentChoice.icon, 'text-xl']" />
-      </ClientOnly>
-    </button>
-
-    <Transition name="dropdown">
-      <div v-if="isOpen" class="theme-dropdown-menu">
         <button
-          v-for="(choice, index) in modeChoices"
-          :key="index"
-          class="theme-dropdown-item"
-          :class="{ active: isActiveChoice(choice) }"
-          @click="selectMode(choice)"
+        type="button"
+        class="theme-dropdown-toggle"
+        :title="currentChoice.label"
         >
-          <div :class="[choice.icon, 'text-lg']" />
-          <span>{{ choice.label }}</span>
-          <div v-if="isActiveChoice(choice)" class="i-ph-check text-lg ml-auto" />
+        <ClientOnly>
+            <div :class="[currentChoice.icon, 'text-xl']" />
+        </ClientOnly>
         </button>
-      </div>
-    </Transition>
+
+        <template #popper>
+        <div class="theme-dropdown-content">
+            <button
+            v-for="(choice, index) in modeChoices"
+            :key="index"
+            class="theme-dropdown-item"
+            :class="{ active: isActiveChoice(choice) }"
+            @click="selectMode(choice)"
+            v-close-popper
+            >
+            <div :class="[choice.icon, 'text-lg']" />
+            <span>{{ choice.label }}</span>
+            <div v-if="isActiveChoice(choice)" class="i-ph-check text-lg ml-auto" />
+            </button>
+        </div>
+        </template>
+    </VDropdown>
   </div>
 </template>
 
 <style lang="scss" scoped>
+.theme-dropdown-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
 .theme-dropdown {
-  position: relative;
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
 .theme-dropdown-toggle {
@@ -121,25 +167,12 @@ onUnmounted(() => {
     color: var(--vp-c-text-1);
     background: var(--vp-c-bg-elv);
     transition: color 0.25s, background 0.25s;
+    backdrop-filter: blur(12px);
   }
 }
 
-.theme-dropdown-menu {
-  position: absolute;
-  top: calc(100% + 8px);
-  right: 0;
+.theme-dropdown-content {
   min-width: 180px;
-  background: var(--vp-c-bg-elv);
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-  padding: 6px;
-  z-index: 1000;
-  backdrop-filter: blur(12px);
-
-  .dark & {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
-  }
 }
 
 .theme-dropdown-item {
@@ -169,16 +202,5 @@ onUnmounted(() => {
   span {
     flex: 1;
   }
-}
-
-.dropdown-enter-active,
-.dropdown-leave-active {
-  transition: opacity 0.15s ease, transform 0.15s ease;
-}
-
-.dropdown-enter-from,
-.dropdown-leave-to {
-  opacity: 0;
-  transform: translateY(-8px);
 }
 </style>
