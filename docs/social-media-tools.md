@@ -199,7 +199,6 @@
 
 * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
 * [Raddle](https://raddle.me/) - Minimalist / Privacy-Focused
-* [Saidit](https://saidit.net/) - Free-Speech / Dual Upvote System
 * [r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [Tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
