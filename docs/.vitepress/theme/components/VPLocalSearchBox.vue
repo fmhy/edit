@@ -330,7 +330,10 @@ debouncedWatch(
     })
 
     if (!isFuzzySearch.value) {
-      terms.add(filterTextValue)
+      // Only highlight search term if results exist to avoid highlighting "No results" message
+      if (results.value.length > 0) {
+        terms.add(filterTextValue)
+      }
       results.value = filterResults(results.value, filterTextValue)
     }
 
