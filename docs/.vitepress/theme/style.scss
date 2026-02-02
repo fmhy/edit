@@ -400,3 +400,17 @@
 .dark .VPLocalSearchBox .backdrop {
   background: rgba(0, 0, 0, 0.6);
 }
+
+/* Glassy Tooltips */
+.v-popper--theme-tooltip .v-popper__inner {
+  background: var(--vp-c-bg-elv) !important;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border: 1px solid var(--vp-c-divider) !important;
+  color: var(--vp-c-text-1) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.v-popper--theme-tooltip .v-popper__arrow {
+  display: none !important;
+}
