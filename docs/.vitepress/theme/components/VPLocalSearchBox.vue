@@ -237,6 +237,43 @@ debouncedWatch(
       }
     }
 
+    /**
+     * Suffix Search / Substring Matching:
+     * If the user searches for a suffix (e.g. "abolic"), scan the index for terms
+     * containing that substring (e.g. "parabolic") and add them to the query.
+     * This mimics "contains" behavior which is missing in strict prefix search.
+     */
+    if (!isFuzzySearch.value && filterTextValue.length > 2) {
+      const candidateTerms: string[] = []
+      const miniSearch = index as any
+      if (miniSearch._index) {
+        const it = miniSearch._index.keys()
+        const match = filterTextValue.toLowerCase()
+        let result = it.next()
+        while (!result.done) {
+          const term = result.value
+          if (term.includes(match) && term !== match) {
+            candidateTerms.push(term)
+          }
+          result = it.next()
+        }
+      }
+
+      if (candidateTerms.length > 0) {
+        // In exact mode, use an explicit OR query.
+        // This ensures that if the original search term ("arabolic") returns no results
+        // due to prefix matching, the substring matches ("Parabolic") are still returned.
+        // A string query might default to AND depending on global config, which would fail here.
+        query = {
+          combineWith: 'OR',
+          queries: [
+            filterTextValue,
+            ...candidateTerms
+          ]
+        }
+      }
+    }
+
     function findPageTitle(items: any[], path: string): string | null {
       for (const item of items) {
         if (item.link === path) return item.text
@@ -905,8 +942,7 @@ function onMouseMove(e: MouseEvent) {
             v-if="filterText && !results.length && enableNoResults"
             class="no-results"
           >
-            {{ translate('modal.noResultsText') }} "<strong>{{ filterText }}</strong
-            >"
+            {{ translate('modal.noResultsText') }} "{{ filterText }}"
           </li>
         </ul>
 
