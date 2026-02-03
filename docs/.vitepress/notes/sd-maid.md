@@ -1,3 +1,3 @@
-#### SD Maid 
+#### SD Maid Note
 
-Google play version is paid. Press donate to unlock the app on F-Droid and GitHub versions.
+The Google Play Store version is paid only. On the F-Droid and GitHub versions, however, you can use paid features for free by pressing `Support the development` and not donating.

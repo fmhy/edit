@@ -1,6 +1,6 @@
 #### Pollinations Limits
 
-For `chat.pollinations.ai` (and the underlying API), the rate limits depend on how you're using it:
+For chat.pollinations.ai (and the underlying API), the rate limits depend on how you're using it:
 
 **Anonymous / Free Tier (No Login)**
 - **Text/Chat**: ~1 request every **3 seconds** (per IP).
