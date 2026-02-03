@@ -132,10 +132,6 @@
 
 * [YavkA](https://yavka.net/), [subsunacs](https://subsunacs.net/) or [subs.sab.bz](http://subs.sab.bz/) - Subtitles
 
-## ▷ Torrenting / Торентиране
-
-* [Zamunda](https://www.zamunda.se/) - Video / Audio / Books / Requires Sign-Up
-
 ## ▷ Streaming / Стрийминг
 
 * [NovaPlay](https://play.nova.bg/) - Live TV / TV / Sub / Dub / 1080p

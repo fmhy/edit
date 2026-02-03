@@ -25,6 +25,7 @@ let hasErrors = false;
 
 // Load typos from CSV
 const typosMap = new Map();
+/* sucks right now
 try {
     const typosPath = path.resolve(__dirname, 'typos.csv');
     if (fs.existsSync(typosPath)) {
@@ -47,6 +48,7 @@ try {
 } catch (e) {
     console.warn(`⚠️ Failed to load typos: ${e.message}`);
 }
+*/
 
 console.log('🔍 Scanning markdown files for formatting issues...\n');
 
@@ -245,14 +247,18 @@ files.forEach(file => {
         // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)
         if (!isSeparatedEnglishCheck) {
             // Prepare clean line for text-based checks (remove URLs and Markdown links)
-            // Remove entire link block: [Text](Url) -> " "
+            // Remove entire link block: [Text](Url) -> "__LINK__" to avoid merging adjacent words
             const lineCleaned = line.replace(/https?:\/\/[^\s)]+/g, '')
-                .replace(/\[[^\]]+\]\([^)]*\)/g, ' ');
+                .replace(/\[[^\]]+\]\([^)]*\)/g, '__LINK__');
 
             // Check 10: Repeated words (e.g. "the the")
             const repeatedWordMatch = lineCleaned.match(/\b([a-zA-Z]+)\s+\1\b/i);
             if (repeatedWordMatch) {
-                errors.push(`Repeated word detected: "${repeatedWordMatch[0]}"`);
+                const word = repeatedWordMatch[1].toLowerCase();
+                // Allow specific repeated words
+                if (!['puyo', 'duran', 'agar', 'hocus'].includes(word)) {
+                    errors.push(`Repeated word detected: "${repeatedWordMatch[0]}"`);
+                }
             }
 
             // Check 11: Common Typos

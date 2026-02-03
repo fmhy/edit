@@ -237,6 +237,43 @@ debouncedWatch(
       }
     }
 
+    /**
+     * Suffix Search / Substring Matching:
+     * If the user searches for a suffix (e.g. "abolic"), scan the index for terms
+     * containing that substring (e.g. "parabolic") and add them to the query.
+     * This mimics "contains" behavior which is missing in strict prefix search.
+     */
+    if (!isFuzzySearch.value && filterTextValue.length > 2) {
+      const candidateTerms: string[] = []
+      const miniSearch = index as any
+      if (miniSearch._index) {
+        const it = miniSearch._index.keys()
+        const match = filterTextValue.toLowerCase()
+        let result = it.next()
+        while (!result.done) {
+          const term = result.value
+          if (term.includes(match) && term !== match) {
+            candidateTerms.push(term)
+          }
+          result = it.next()
+        }
+      }
+
+      if (candidateTerms.length > 0) {
+        // In exact mode, use an explicit OR query.
+        // This ensures that if the original search term ("arabolic") returns no results
+        // due to prefix matching, the substring matches ("Parabolic") are still returned.
+        // A string query might default to AND depending on global config, which would fail here.
+        query = {
+          combineWith: 'OR',
+          queries: [
+            filterTextValue,
+            ...candidateTerms
+          ]
+        }
+      }
+    }
+
     function findPageTitle(items: any[], path: string): string | null {
       for (const item of items) {
         if (item.link === path) return item.text
@@ -288,12 +325,14 @@ debouncedWatch(
           terms.add(term)
         }
       }
-
       return { ...r, text }
     })
 
     if (!isFuzzySearch.value) {
-      terms.add(filterTextValue)
+      // Only highlight search term if results exist to avoid highlighting "No results" message
+      if (results.value.length > 0) {
+        terms.add(filterTextValue)
+      }
       results.value = filterResults(results.value, filterTextValue)
     }
 
@@ -317,11 +356,16 @@ debouncedWatch(
       await mergeNearbyMarks()
     }
 
-    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
+    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? []) as HTMLElement[]
     for (const excerpt of excerpts) {
-      excerpt
-        .querySelector('mark[data-markjs="true"]')
-        ?.scrollIntoView({ block: 'center' })
+      const mark = excerpt.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      if (mark) {
+        const markTop = mark.offsetTop
+        const markHeight = mark.offsetHeight
+        const excerptHeight = excerpt.clientHeight
+        
+        excerpt.scrollTop = markTop - excerptHeight / 2 + markHeight / 2
+      }
     }
     
     /**
@@ -343,8 +387,10 @@ debouncedWatch(
     resultMarks.value = newResultMarks
     currentMarkIndex.value = newCurrentMarkIndex
 
-    // FIXME: without this whole page scrolls to the bottom
-    resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
+    // Reset scroll position to top
+    if (resultsEl.value) {
+      resultsEl.value.scrollTop = 0
+    }
   },
   { debounce: 200, immediate: true }
 )
@@ -648,6 +694,12 @@ onKeyStroke('Escape', () => {
 onKeyStroke('ArrowLeft', (event) => {
   // Navigate to previous match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    if (event.target === searchInput.value) {
+      if (event.shiftKey) return
+      const { selectionStart, selectionEnd } = searchInput.value!
+      // Only hijack if cursor is collapsed at the start
+      if (selectionStart !== 0 || selectionEnd !== 0) return
+    }
     event.preventDefault()
     prevMatch(selectedIndex.value)
   }
@@ -656,6 +708,12 @@ onKeyStroke('ArrowLeft', (event) => {
 onKeyStroke('ArrowRight', (event) => {
   // Navigate to next match - only when viewing detailed excerpts with highlights
   if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
+    if (event.target === searchInput.value) {
+      if (event.shiftKey) return
+      const { selectionStart, selectionEnd, value } = searchInput.value!
+      // Only hijack if cursor is collapsed at the end
+      if (selectionStart !== value.length || selectionEnd !== value.length) return
+    }
     event.preventDefault()
     nextMatch(selectedIndex.value)
   }
@@ -905,8 +963,7 @@ function onMouseMove(e: MouseEvent) {
             v-if="filterText && !results.length && enableNoResults"
             class="no-results"
           >
-            {{ translate('modal.noResultsText') }} "<strong>{{ filterText }}</strong
-            >"
+            {{ translate('modal.noResultsText') }} "{{ filterText }}"
           </li>
         </ul>
 
