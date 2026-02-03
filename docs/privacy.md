@@ -177,7 +177,7 @@
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [GitHub](https://github.com/Anon-Planet/thgtoa) or [The OPSEC Bible](https://bible.beginnerprivacy.com/opsec/) / [.onion](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/) / [SimpleX Chat](http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/simplex.html) - Extensive Online Anonymity Guides
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights
-* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening), [⁠sizeof.cat](https://sizeof.cat/links/) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service
+* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
@@ -278,7 +278,7 @@
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
-* ⭐ **[Signal](https://signal.org/)** - All Platforms / Requires Phone / [Stickers](https://signalstickers.org/) / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Android Sticker Packs for Signal / Some NSFW
+* ⭐ **[Signal](https://signal.org/)** - All Platforms / Requires Phone / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Some NSFW / [Stickers](https://signalstickers.org/)
 * ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)
 * [Matrix](https://matrix.org/) / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Clients / Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
 * [Wire](https://wire.com/en/download/) - All Platforms / Requires Phone / [GitHub](https://github.com/wireapp)
@@ -397,7 +397,7 @@
 * [OpenConnect](https://gitlab.com/openconnect/openconnect) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/) 
 * [Pritunl](https://pritunl.com/) - VPN Server / [GitHub](https://github.com/pritunl/pritunl)
 * [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) - Cloud VPN / [GitHub](https://github.com/trailofbits/algo)
-* [SShuttle](https://sshuttle.readthedocs.io/en) - SSH VPN Server [GitHub](https://github.com/sshuttle/sshuttle)
+* [SShuttle](https://sshuttle.readthedocs.io/en) - SSH VPN Server / [GitHub](https://github.com/sshuttle/sshuttle)
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Simple VPN Server
 * [Openconnect](https://ocserv.gitlab.io/www/index.html) - SSL VPN Server
 
@@ -449,7 +449,7 @@
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, Mac, Linux
 * ⭐ **[NekoBox](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
-* [v2rayNG](https://github.com/2dust/v2rayNG) - Proxy Client / Android
+* [v2rayNG](https://github.com/2dust/v2rayNG) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2]( https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
 * [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / All Platforms / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
@@ -468,13 +468,15 @@
 ## ▷ Anti Censorship
 
 * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
+* ⭐ **[⁠Net4people](https://github.com/net4people/bbs/issues)** - Worldwide Censorship Circumvention  Discussion
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tool 
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [GitHub](https://github.com/msasanmh/DNSveil)
-* [DNSTT.XYZ](https://dnstt.xyz/) - Mobile DNS Tunnel / Censorship Bypass Tool / [Telegram](https://t.me/dnstt_xyz) / [GitHub](https://github.com/dnstt-xyz/dnstt_xyz_app)
+* [DNSTT.XYZ](https://dnstt.xyz/) / [Telegram](https://t.me/dnstt_xyz) / [GitHub](https://github.com/dnstt-xyz/dnstt_xyz_app), [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
-* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter Tools
+* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [⁠Paqet](https://github.com/hanselime/paqet), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter / Packet Level Proxies
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers
+* [Scamalytics](https://scamalytics.com/) - Check IP Blacklists
 
 ***
 

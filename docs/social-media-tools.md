@@ -96,7 +96,6 @@
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
-* [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
 * [mgcounts](https://tags.mgcounts.com/) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
 * [Emoji List](https://discords.com/emoji-list), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
@@ -173,6 +172,7 @@
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
+* [⁠Reddit Migrate](https://github.com/nileshnk/reddit-migrate) - Reddit Account Migrator 
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [⁠Sink It](https://gosinkit.com/) - Improved Reddit Comment Navigation
@@ -199,7 +199,6 @@
 
 * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
 * [Raddle](https://raddle.me/) - Minimalist / Privacy-Focused
-* [Saidit](https://saidit.net/) - Free-Speech / Dual Upvote System
 * [r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [Tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
@@ -239,7 +238,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [TGStat](https://tgstat.com/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSEs
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
@@ -412,6 +411,7 @@
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [⁠Social Saver](https://socialsaver.site/) / [GitHub](https://github.com/VishalKaleria/social-saver/), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
+* [yoink.tools](https://yoink.tools/) - YouTube Downloader / Online / [GitHub](https://github.com/coah80/yoink)
 * [⁠YT1s](https://yt1s.com.co/) - YouTube Downloader / Online
 * [⁠YTDown](https://ytdown.io/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online / [Subreddit](https://www.reddit.com/r/cnvmp3)
@@ -530,10 +530,10 @@
 
 # ► Twitter/X Tools
 
+* ⭐ **[XCancel](https://xcancel.com/)**, [nitter](https://nitter.net/), [3](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [X Cancelled](https://xcancel.com/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [⁠Twitter Viewer](https://xtwitterviewer.com/) or [nitter](https://nitter.net/), [2](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - X.com Frontends / Viewers
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
@@ -612,7 +612,7 @@
 ## ▷ Viewers / Downloaders
 
 * ⭐ **[Instaloader](https://instaloader.github.io/) / [GitHub](https://github.com/instaloader/instaloader)** - CLI Downloader
-* [FastDL](https://fastdl.app/en), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
+* [FastDL](https://fastdl.app/en2), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
 * [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/), [anonyig](https://anonyig.com/) or [mollygram](https://mollygram.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
 * [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/jmpdoloapmhninneneekkepmkpmpkhjn) - Chrome Extensions
@@ -653,7 +653,7 @@
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* [nStart](https://nstart.me/) - Federated Twitter Alternative
+* [Nostr](https://nstart.me/) - Federated Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search

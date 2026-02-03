@@ -225,8 +225,9 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
+* [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
@@ -277,6 +278,7 @@
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
 * [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
+* [NahrajSoubor](https://nahrajsoubor.cz/) - Desktop / Mobile Transfer
 * [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
@@ -294,6 +296,7 @@
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
 * [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
+* [⁠Station307](https://www.station307.com/)
 * [new.space](https://new.space/)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
 
@@ -384,6 +387,7 @@
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) - Bypass Premium Link Speed Limits
 
 ***
 
@@ -413,6 +417,7 @@
 * [Blomp](https://www.blomp.com/) - 40GB Free / 1 Month / ~$3 for 2TB
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
+* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$12 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 

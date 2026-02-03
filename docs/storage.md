@@ -30,12 +30,11 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com//) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
-* [Bulma](https://bulma.io/) - CSS Framework
 
 ***
 
@@ -137,7 +136,7 @@
 * [Rethink DNS](https://rethinkdns.com/configure)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* [AdGuard](https://adguard-dns.io/en/public-dns.html)
+* [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
 * [DNS for Family](https://dnsforfamily.com/)
 * [Hurricane Electric](https://dns.he.net/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
@@ -307,9 +306,9 @@
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
-### MC Launchers Account Req
+### Premium Only Launchers
 
-* **Note** - The following options require a official Minecraft account to use.
+* **Note** - The following options require an official Minecraft account to use.
 
 ***
 

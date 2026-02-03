@@ -260,6 +260,8 @@
 * [Co-Optimus](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
+* [⁠Backwards Compatible](https://www.backwards-compatible.com/) - PS4 / PS5 Backwards Compatibility Database 
+* [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Combability Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
@@ -449,6 +451,7 @@
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
+* [⁠Carbon](https://discord.gg/52d8ydB5dz) - Self-Hostable Private Fortnite Servers / 1.7.2-30.00 & 30.10+ Via Proxy
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/clashofmagic) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
@@ -468,13 +471,14 @@
 
 # ► Homebrew
 
-* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
+* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware Archive
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
 * 🌐 **[Firmware / Bios Files](https://rentry.co/FMHYB64#console-firmware)**
 * ⭐ **[Hacks.Guide](https://hacks.guide/)** / [2](https://wiki.hacks.guide/), **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * [r/Homebrew](https://www.reddit.com/r/homebrew/) - Homebrew Subreddit
+* [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Firmware / Hardware Mods
 * [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
 * [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
@@ -517,6 +521,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
 ***
@@ -551,7 +556,6 @@
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
 * [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [⁠OrbisPatches](https://orbispatches.com/) or [ProsperoPatches](https://www.prosperopatches.com/) - PS4 / PS5 Game Updates / [Discord](https://discord.com/invite/2ApmZKs)
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
@@ -577,7 +581,7 @@
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [xbGuard](https://xbguard.live) - Xbox 360 Stealth Server / [Discord](https://discord.gg/YkpmBHK)
+* [xbGuard](https://xbguard.live) / [Discord](https://discord.gg/YkpmBHK) or [Proto Stealth](https://www.freestealth.com/) / [Discord](https://discord.gg/gwNQ5SdFbF) - Xbox 360 Stealth Servers 
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
@@ -672,7 +676,7 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / [Discord](https://discord.com/invite/W5XVwYY7GQ)
 * [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / May Require VPN to View Site
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mc_launchers_account_req) - Launchers that Require Official Account
+* [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_premium_only_launchers) - Launchers that Require Official Account
 
 ***
 
@@ -681,27 +685,29 @@
 * 🌐 **[Not Essential](https://alternatives.microcontrollers.dev/)** - List of Alternatives to Essential / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_mod_.2F_resource_pack_indexes)**
-* [Forge](https://files.minecraftforge.net/), [NeoForged](https://neoforged.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
-* [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric Mod for Joining All Versions
-* [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
+* [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [Github](https://github.com/MinecraftForge/MinecraftForge), [NeoForged](https://neoforged.net/) / [X](https://x.com/NeoForged_MC) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [Github](https://github.com/neoforged), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [Github](https://github.com/QuiltMC) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) / [Github](https://github.com/FabricMC) - Mod Loaders
+* [ViaFabricPlus](https://modrinth.com/mod/viafabricplus), [2](https://www.curseforge.com/minecraft/mc-mods/viafabricplus) - Fabric Mod for Joining All Versions / [Discord](https://discord.com/invite/viaversion) / [Github](https://github.com/ViaVersion/ViaFabricPlus?tab=readme-ov-file)
+* [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools / [Github](https://discord.com/invite/axiomtool)
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
-* [quark](https://quarkmod.net/) - Add Vanilla-like / QoL Features
-* [Voxy](https://modrinth.com/mod/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) or [Bobby](https://modrinth.com/mod/bobby) - Lightweight Distance Rendering Mods
-* [Nvidium](https://modrinth.com/mod/nvidium) - Nvidia OpenGL Rendering Mod
-* [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Rendering Mod / [Discord](https://discord.gg/FVXg7AYR2Q)
-* [PAX](https://github.com/maradotwebp/pax), [ModMenu](https://modrinth.com/mod/modmenu) (fabric) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [quark](https://quarkmod.net/) - Add Vanilla-like / QoL Features / [Github](https://github.com/VazkiiMods/Quark)
+* [Voxy](https://modrinth.com/mod/voxy) / [Github](https://github.com/MCRcortex/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [Gitlab](https://gitlab.com/distant-horizons-team/distant-horizons) or [Bobby](https://modrinth.com/mod/bobby), [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [Github](https://github.com/Johni0702/bobby) - Lightweight Distance Rendering Mods
+* [Nvidium](https://modrinth.com/mod/nvidium) - Nvidia OpenGL Rendering Mod / [Github](https://github.com/MCRcortex/nvidium)
+* [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Rendering Mod / [Discord](https://discord.gg/FVXg7AYR2Q) / [Github](https://github.com/xCollateral/VulkanMod)
+* [ModMenu](https://modrinth.com/mod/modmenu) / [Github](https://github.com/TerraformersMC/ModMenu), [PAX](https://github.com/maradotwebp/pax) / [Discord](https://discord.com/invite/GQ4MTquzyX) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
 * [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Discord](https://discord.gg/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit)
-* [CraftPresence](https://modrinth.com/mod/craftpresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) - Discord RPC for Java Edition
-* [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition
-* [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
-* [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX)
-* [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
-* [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music
-* [Vanilla Tweaks](https://www.vanillatweaks.net/) / [Discord](https://discord.com/invite/qG53qwF), [Bedrock Tweaks](https://bedrocktweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
+* [CraftPresence](https://modrinth.com/mod/craftpresence) / [Gitlab](https://gitlab.com/CDAGaming/CraftPresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) / [Github](https://github.com/ThePhaseCat/phases-discord-rich-presence) - Discord RPC for Java Edition
+* [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition / [Github](https://github.com/isXander/Controlify)
+* [No Telemetry](https://modrinth.com/mod/no-telemetry), [2](https://www.curseforge.com/minecraft/mc-mods/no-telemetry) - Disable Telemetry Data / [Github](https://github.com/kb-1000/no-telemetry?tab=readme-ov-file)
+* [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX) / [Github](https://github.com/henkelmax/simple-voice-chat)
+* [ReplayMod](https://replaymod.com/) / [Discord](https://discord.com/invite/5GR7RSb) / [Github](https://github.com/ReplayMod/ReplayMod) or [FlashBack](https://modrinth.com/mod/flashback) / [Discord](https://discord.com/invite/mAYDZ9c7rD) / [Github](https://github.com/Moulberry/Flashback?tab=readme-ov-file) - Record Game Sessions
+* [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music from Streaming Services / [Github](https://github.com/ThatGravyBoat/Craftify)
+* [Vanilla Tweaks](https://www.vanillatweaks.net/) - Semi-custom Resource Packs, Data Packs, and Crafting Tweaks / [X](https://x.com/vanillatweaks) / [Discord](https://discord.com/invite/qG53qwF)
+* [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial Vanilla Tweaks Port to Bedrock Edition / [Discord](https://discord.com/invite/xq9JpJ3) / [Github](https://github.com/bedrocktweaks)
+* [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
-* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [GitHub](https://github.com/MCreator/MCreator)
+* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Reddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
 
 ***
@@ -709,7 +715,7 @@
 ## ▷ Maps / World Tools
 
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
-* [Amulet](https://www.amuletmc.com/) / [Discord](https://discord.com/invite/RCFKvhs9sz), [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) / [Discord](https://discord.com/invite/TCmvrPyA9x) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
+* [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) / [Discord](https://discord.com/invite/TCmvrPyA9x) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
 * [MineAtlas](http://mineatlas.com/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Minecraft Seeds
 * [MapVerse](https://mapverse.net/) - Download / Play Minecraft Map Servers / [Discord](https://discord.gg/xFgTJtebgp)
 * [MinecraftMaps](https://www.minecraftmaps.com/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/), [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
@@ -775,6 +781,57 @@
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT2Components](https://misode.github.io/nbt2components/) - NBT to Component Converter
 * [Layoutit](https://voxels.layoutit.com/), [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+
+***
+
+# ► Undertale / Deltarune
+
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/) - Main Gameplay & Lore Databases
+* ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
+* ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)**, - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
+* ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
+* ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
+* ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
+* [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
+* [Official Undertale Tumblr](https://undertale.tumblr.com/) / [Official Q&A](http://undertaleqa.tumblr.com/) - Archived Developer Posts & Insights
+* [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - All Dialogue in Undertale and Deltarune
+* [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Complete Game Dialogue Spreadsheet
+* [Under-Lore](https://under-lore.tumblr.com/) - Monster Biology and Narrative Logic Analysis
+* [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
+* [Steam Undertale Community](https://store.steampowered.com/app/391540/Undertale/) - Discussion Boards & Guides
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
+* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
+
+***
+
+## ▷ Modding & Fan Content
+
+* ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Essential Datamining / Modding Tool
+* ⭐ **[CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk)** - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [r/Unitale](https://www.reddit.com/r/Unitale/)
+* ⭐ **[Undertale GameBanana](https://gamebanana.com/games/5506)**, [Nexus Undertale](https://www.nexusmods.com/games/undertale) or [Nexus Deltarune](https://www.nexusmods.com/games/deltarune) - Mod Repositories
+* ⭐ **[Undertale AU Wiki](https://undertale-au.fandom.com/)** - AU Documentation / Multiverse Content
+* [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
+* [Create Your Kris (CYK)](https://github.com/RhenaudTheLukark/CreateYourKris) - CYF Mod for DELTARUNE-Like Encounters
+* [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
+
+***
+
+## ▷ Fan Games
+
+* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
+* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** - Online Multiplayer Fangame / Deltarune Elements
+* ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
+* ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
+* ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
+* [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Time-Travel Themed Fan Game 
+* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
+* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
+* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
+* [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
+* [Ink Sans](https://gamejolt.com/games/inksans025/321332) - AU Multiverse Character Fan Game
+* [ClickerTale](https://gamejolt.com/games/clickertale2/249516) - Cookie Clicker Inspired
+* [Bad Monday Simulator](https://lumpytouch.itch.io/bad-monday-simulator) - Garfield Sans Fan Game
 
 ***
 
@@ -979,9 +1036,10 @@
 
 ## ▷ RimWorld Tools
 
-* [RimWorld Wiki](https://rimworldwiki.com/) - Official Wiki
+* ⭐ **[RimWorld Wiki](https://rimworldwiki.com/)** - Official Wiki
+* ⭐ **[RimSort](https://rimsort.github.io/RimSort/)** - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
 * [RimWorld Discord](https://discord.com/invite/rimworld) - Official Community Discord
-* [RimSort](https://rimsort.github.io/RimSort/) - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
+* [r/RimWorld](https://www.reddit.com/r/RimWorld/) - Official Community Subreddit
 * [Judge My List](https://jumli.sysrqmagician.dev/) - Automated Modlist Feedback / [GitHub](https://github.com/sysrqmagician/jumli)
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
 * [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides

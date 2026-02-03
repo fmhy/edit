@@ -37,7 +37,7 @@ GitHub page search engine
 
 ### [Bookmark HTML](https://github.com/fmhy/bookmarks)
 
-Turn FMHY into Bookmarks
+Turn FMHY into browser bookmarks
 
 ---
 
@@ -49,19 +49,13 @@ Search FMHY using Brave Goggles
 
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
-Search markdown via python script
+Search the Markdown via a Python script
 
 ---
 
 ### [Raw Markdown](https://api.fmhy.net/single-page)
 
-Search markdown manually (ctrl+f)
-
----
-
-### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
-
-Multi-site search engines
+Search the Markdown manually (Ctrl+F)
 
 ---
 

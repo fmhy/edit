@@ -320,7 +320,7 @@
 * [Dhamma Talks](https://www.dhammatalks.org/) - Esoterica / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Esoterica / Buddhism
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Esoterica
-* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
+* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Esoterica / Occult
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
@@ -403,7 +403,7 @@
 * [BookAudiobook](https://bookaudiobook.net/)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
-* [zAudiobooks](https://zaudiobooks.com/)
+* [NAudios](https://naudios.com/)
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
@@ -461,7 +461,9 @@
 
 ## ▷ Manga
 
-* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox) or [EverythingMoe](https://everythingmoe.com/section/manga), [2](https://everythingmoe.org/#section-manga) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - Manga Sites Indexes
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
@@ -480,7 +482,6 @@
 * [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW / [Discord](https://discord.gg/syp3a6Eucq)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
-* [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaHaven](https://mangahaven.net/)
 * [Anibite Manga](https://anibite.cc/manga)
@@ -757,6 +758,7 @@
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
 * [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
+* [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Sign-Up Required 
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://psyarxiv.com/) - Psychology Research Papers
@@ -872,7 +874,7 @@
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Manga + Novel Rating Aggregator / Tracking / [Discord](https://mangabaka.org/discord)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases

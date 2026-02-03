@@ -12,10 +12,10 @@
 
 * 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
-* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Torrent / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Discord](https://discord.com/invite/dkKxZGjyF8)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
@@ -110,11 +110,14 @@
 
 ## ▷ Virtual Reality
 
+
+* ↪️ **[PCVR Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - VR Games / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Requires Sign-Up / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
-* [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
+* [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
+* [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Subreddit
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
@@ -258,6 +261,7 @@
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
 * [Switch Emulation](https://rentry.co/FMHYB64#switch-emulation) - Switch Emulator Setup Guides
 * [Wiki of Axekin](https://wiki.axekin.com/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
+* [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Emulation Guides⁠
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
 * [Two-Torial](https://two-torial.maimaidxprism.plus/) - Arcade Game Emulation Guides
@@ -286,6 +290,7 @@
 * [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
+* [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
 * [Hash Tool](https://www.romhacking.net/hash/) - ROM Patch Compatibility Checker
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
@@ -632,6 +637,7 @@
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Man
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
+* ⭐ **[Super Monkey Ball Web](https://rentry.co/FMHYB64#mb-online)** - Browser Super Monkey Ball
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** / [GitHub](https://github.com/Vanilagy/MarbleBlast) or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) / [GitHub](https://github.com/RandomityGuy/MBHaxe) - Browser Marble Blast
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
@@ -641,11 +647,10 @@
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
-* [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [Fluppy](https://fluppy.pages.dev/), [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader) , [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
-* [⁠LEGO Island Web Port](https://isle.pizza/) - Browser LEGO Island / [GitHub](https://github.com/isledecomp/isle-portable)
+* [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
@@ -656,8 +661,8 @@
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
-* [Web osu!mania](https://webosumania.com/) - Browser osu!mania Beatmaps / [Discord](https://discord.com/invite/8zfxCdkfTx) / [GitHub](https://github.com/HecticKiwi/Web-Osu-Mania)
-* [Taiko Web](https://cjdgrevival.com/) - Taiko no Tatsujin / Rhythm Game
+* [Web osu!mania](https://rentry.co/FMHYB64#wosu) - Browser osu!mania Beatmaps / [Discord](https://discord.com/invite/8zfxCdkfTx)
+* [Taiko Web](https://rentry.co/FMHYB64#tnt) - Taiko no Tatsujin / Rhythm Game
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Discord](https://discord.gg/aB6ucmx) / [GitHub](https://github.com/bemusic/bemuse)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
@@ -692,6 +697,7 @@
 * [Nexiloop Games](https://nexiloop.games/) - Browser Game Aggregator / [Discord](https://discord.gg/Wvxr9YsHHf)
 * [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
+* [⁠Gamesfrog](https://gamesfrog.com/) - Browser Game Aggregator
 * [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator
 * [Poki](https://poki.com/) - Browser Game Aggregator
 * [Snokido](https://www.snokido.com/) - Browser Game Aggregator
@@ -734,6 +740,7 @@
 * [Kindanice](https://kindanice.itch.io/) - Indie Games / itch.io Developer
 * [Graeme Borland](https://graebor.itch.io/) - Indie Games / itch.io Developer
 * [Jezzamon](https://jezzamon.itch.io/) - Indie Games / itch.io Developer
+* [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
 
 ***
 
