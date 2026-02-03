@@ -317,11 +317,16 @@ debouncedWatch(
       await mergeNearbyMarks()
     }
 
-    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
+    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? []) as HTMLElement[]
     for (const excerpt of excerpts) {
-      excerpt
-        .querySelector('mark[data-markjs="true"]')
-        ?.scrollIntoView({ block: 'center' })
+      const mark = excerpt.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      if (mark) {
+        const markTop = mark.offsetTop
+        const markHeight = mark.offsetHeight
+        const excerptHeight = excerpt.clientHeight
+        
+        excerpt.scrollTop = markTop - excerptHeight / 2 + markHeight / 2
+      }
     }
     
     /**
@@ -343,8 +348,10 @@ debouncedWatch(
     resultMarks.value = newResultMarks
     currentMarkIndex.value = newCurrentMarkIndex
 
-    // FIXME: without this whole page scrolls to the bottom
-    resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
+    // Reset scroll position to top
+    if (resultsEl.value) {
+      resultsEl.value.scrollTop = 0
+    }
   },
   { debounce: 200, immediate: true }
 )
