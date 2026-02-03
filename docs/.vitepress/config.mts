@@ -122,7 +122,9 @@ export default defineConfig({
         output: ['console', 'terminal']
       }),
       UnoCSS({
-        configFile: '../unocss.config.ts'
+        configFile: fileURLToPath(
+          new URL('../../unocss.config.ts', import.meta.url)
+        )
       }),
       AutoImport({
         dts: '../.cache/imports.d.ts',
