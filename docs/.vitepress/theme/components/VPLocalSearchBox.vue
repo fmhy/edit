@@ -324,14 +324,7 @@ debouncedWatch(
         for (const term in r.match) {
           terms.add(term)
         }
-      } else {
-        // In exact search, also add matched terms so that full words are highlighted
-        // e.g. searching "oaders" will highlight "Downloaders"
-        for (const term in r.match) {
-           terms.add(term)
-        }
       }
-
       return { ...r, text }
     })
 
