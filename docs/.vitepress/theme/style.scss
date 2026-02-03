@@ -3,6 +3,7 @@ body {
 }
 
 :root {
+  scroll-behavior: smooth;
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
