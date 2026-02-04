@@ -834,7 +834,7 @@
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [Cryptome](https://cryptome.org/) - Leaked Documents
 * [Snowden Archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
-* [Epstein Library](https://www.justice.gov/epstein), [Epstein Files Browser](https://epstein-files-browser.vercel.app/) or [JMail](https://www.jmail.world/) (email) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* [JMail](https://www.jmail.world/), [Epstein Library](https://www.justice.gov/epstein) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [Google Leaks](https://www.zachvorhies.com/google_leaks/) - Leaked Google Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
