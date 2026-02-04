@@ -200,6 +200,7 @@
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
 * [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI Piracy Guide / Resources
+* [AI Graph Generator](https://venngage.com/ai-tools/graph-generator) - Turn raw data into clear, AI-generated graphs in seconds.
 
 ***
 
