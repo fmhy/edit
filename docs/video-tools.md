@@ -301,6 +301,7 @@
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
+* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) / [Mobile](https://github.com/jellyseerr/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management
 * [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
@@ -452,7 +453,7 @@
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
-* [effect.app](https://effect.app/) - Online Video Effects
+* [Efecto](https://efecto.app/) or [effect.app](https://effect.app/) - Online Video Effects
 
 ***
 

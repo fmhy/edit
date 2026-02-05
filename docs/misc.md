@@ -1136,6 +1136,7 @@
 
 # ► Useful Sites
 
+* ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_skills_.2F_hobbies_.2F_diy)**
 * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
 * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
@@ -1487,7 +1488,6 @@
 
 ## ▷ Interesting
 
-* 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** or [InfiniteConvo](https://infiniteconvo.ai/) - Never-Ending AI Conversations
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
@@ -1546,12 +1546,6 @@
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 * [BogLeech](https://bogleech.com/) - Monster Design Reviews
-* [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual Lego Building
-* [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - Free Projects / Crafts
-* [cholyknight](https://cholyknight.com/) - Free Sewing Patterns for Plushies / Wearables
-* [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
-* [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
-* [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs

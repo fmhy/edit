@@ -370,7 +370,6 @@
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
-* [SwitchROM](https://switchroms.io/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
 * [RetroNDS](https://t.me/retronds) - ROMs / Switch / Requires Telegram
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
@@ -646,6 +645,7 @@
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Level Share Square](https://levelsharesquare.com/) - Custom Mario Fangame Maps
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [Club Penguin Legacy](https://play.cplegacy.com/) or [Club Penguin Journey](https://cpjourney.net/) - ⁠Club Penguin Revival Projects / [Server Tracker](https://penguintrack.com/)
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
@@ -707,6 +707,7 @@
 * [Yandex Games](https://yandex.com/games/) - Browser Game Aggregator
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Game Aggregator
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
+* [⁠Gameflare](https://www.gameflare.com/) - Browser Game Aggregator
 * [Friv](https://www.friv.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
 * [Flash by Night](http://www.flashbynight.com/) - Browser Game Aggregator
@@ -755,7 +756,6 @@
 * [VAPOR](https://vapor.my/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
 * [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports
-* [⁠Cubeflix Games](https://cubeflix.org/games) / [2](https://cubeflix.pages.dev/games) - Browser Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
@@ -869,6 +869,7 @@
 ## ▷ Simulation
 
 * [⁠IsoCity](https://iso-city.com/) - City Building Game / [GitHub](https://github.com/amilich/isometric-city)
+* [IsoCoaster](https://iso-coaster.com/) - Theme-Park Building Game / [GitHub](https://github.com/amilich/isometric-city)
 * [HatTrick](https://www.hattrick.org/) - Multiplayer Football League Manager
 * [⁠MatchSimulator](https://matchsimulator.com/) - Football League Simulator
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator
@@ -970,7 +971,6 @@
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
-* [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
 * [Graphs](https://www.graphs.world/) - Graph Guessing Game

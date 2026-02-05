@@ -37,7 +37,8 @@
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [fluffle](https://fluffle.cc/) - Markdown Support / [Source](https://git.0x8e.net/t/fluffle)
-* [Text.is](https://text.is/) - Markdown Support / Rentry Clone
+* [Text.is](https://text.is/) - Markdown Support
+* [Yasosu](https://yaso.su/) - Multi-Syntax / Markdown Support / [Telegram](https://t.me/yaso_updates)
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
@@ -204,10 +205,11 @@
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
-* [Kompad](https://kompad.vercel.app/) - Text Editor / [GitHub](https://github.com/hudy9x/kompad)
+* [Kompad](https://github.com/hudy9x/kompad) - Text Editor
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / [Package Manager](https://packagecontrol.io/)
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
+* [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor
 
 ***
 
@@ -419,7 +421,7 @@
 ## ▷ ASCII Art
 
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
-* [REXPaint](https://www.gridsagegames.com/rexpaint/), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors
+* [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster)- ASCII Paint Tools
 * [⁠shabzefilters](https://shabzefilters.netlify.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [ascii-exploration](https://ascii-exploration.vercel.app/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
@@ -608,6 +610,7 @@
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [Text-Generator](https://text-generator.app/)
 * [BoldTextGenerator](https://boldtextgenerator.org/)
+* [TextEditor](https://texteditor.com/)
 * [FontGenerator.design](https://fontgenerator.design/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)

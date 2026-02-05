@@ -49,7 +49,7 @@
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
-* [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews)
+* [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews) / [Discord](https://discord.gg/discord-603970300668805120)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
 * [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
