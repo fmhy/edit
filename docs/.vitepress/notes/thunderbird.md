@@ -1,4 +1,4 @@
-#### Thunderbird
+#### Thunderbird Notifications
 
 To get real-time notifications:
 
