@@ -1,6 +1,6 @@
 #### OpenRGB Beta
 
-The latest stable release (0.9) is from July, 2023. It is lacking support for many devices, you may want to use a newer experimental release instead.
+The latest stable release (0.9) is from July, 2023. It is lacking support for many devices, so you may want to use a newer experimental release instead.
 
 * Supported devices for the latest stable release (0.9): https://openrgb.org/devices_0.9.html
 * Supported devices for the latest experimental release: https://openrgb.org/devices.html
