@@ -155,7 +155,7 @@
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
-* [Windsurf](https://www.windsurf.com/) - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
+* [Windsurf](https://www.windsurf.com/) - Coding AI / SWE-1.5 for Free until 24.03.2026 / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
 * [⁠Qwen Code](https://github.com/QwenLM/qwen-code) - CLI Coding AI / [Docs](https://qwenlm.github.io/qwen-code-docs/en/)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
