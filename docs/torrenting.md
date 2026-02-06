@@ -21,7 +21,7 @@
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [UZTracker](https://uztracker.net/) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Requires Sign-Up
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies
