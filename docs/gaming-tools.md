@@ -826,7 +826,6 @@
 * ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
 * [⁠TS!UNDERSWAP](https://teamswitched.dev/) - Undertale Fangame / Reimagining / [GameJolt](https://gamejolt.com/games/tsunderswap/160094)
 * [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Universe Hopping Fangame
-* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
 * [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
 * [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
 * [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
