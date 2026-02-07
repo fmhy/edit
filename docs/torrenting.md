@@ -82,7 +82,7 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / Windows, Mac, Linux / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, Mac, Linux
 * ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / Linux / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [GitHub](https://github.com/rakshasa/rtorrent)
