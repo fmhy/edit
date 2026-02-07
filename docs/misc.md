@@ -818,7 +818,7 @@
 ## ▷ Resume / Portfolio
 
 * 🌐 **[⁠r/Resumes Wiki](https://www.reddit.com/r/resumes/wiki/index/)** - Resume Resources / Guides
-* ⭐ **[RX Resume](https://rxresu.me/)** / [GitHub](https://github.com/amruthpillai/reactive-resume), [FlowCV](https://flowcv.com/), [HeyCV](https://heycv.app/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) or [Sheets](https://sheetsresume.com/builder) - Resume Builders
+* ⭐ **[RX Resume](https://rxresu.me/)** / [GitHub](https://github.com/amruthpillai/reactive-resume), [FlowCV](https://flowcv.com/), [HeyCV](https://heycv.app/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) , [Sheets](https://sheetsresume.com/builder) or [ResumeGuru](https://airesume.guru/) - Resume Builders
 * ⭐ **[KickResume Samples](https://www.kickresume.com/en/help-center/resume-samples/)** - Resume Samples
 * [ResumGO](https://www.resumgo.com/) - Resume Templates
 * [⁠YAMLResume](https://yamlresume.dev/) / [GitHub](https://github.com/yamlresume/yamlresume) or [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv) - YAML Based Resume Builders
