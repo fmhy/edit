@@ -789,7 +789,6 @@
 * ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/) - Main Gameplay & Lore Databases
 * ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
 * ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)** - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
-* ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
 * ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
 * ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
@@ -935,10 +934,10 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
-* ⭐ **[FiveM](https://fivem.net/)**, [alt:V](https://altv.mp/) / [Discord](https://discord.com/invite/yQvKgSs) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA
+* [FiveM](https://fivem.net/), [alt:V](https://altv.mp/) / [Discord](https://discord.com/invite/yQvKgSs) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
