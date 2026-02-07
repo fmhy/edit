@@ -549,6 +549,7 @@
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+* ⭐ **[⁠LWN](https://lwn.net/Archives/)** - Linux News
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 * [⁠DeadStack](https://deadstack.net/) - Tech / AI News Aggregator
 * [TechURLs](https://techurls.com/) - Tech News
@@ -556,7 +557,7 @@
 * [The Brutalist Report](https://brutalist.report/) - Tech News
 * [Techxplore](https://techxplore.com/) - Tech News
 * [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - Gaming News
-* [TuxURLs](https://tuxurls.com/), [phoronix](https://www.phoronix.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
+* [TuxURLs](https://tuxurls.com/) or [phoronix](https://www.phoronix.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
