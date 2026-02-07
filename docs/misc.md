@@ -1249,7 +1249,7 @@
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
-* [Proton Calendar](https://proton.me/calendar) - Calendar
+* [Proton Calendar](https://proton.me/calendar) - Calendar / [Discord](https://discord.com/invite/proton)
 * [Tuta Calendar](https://tuta.com/calendar) - Calendar
 * [Tweek](https://tweek.so/) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar

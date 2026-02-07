@@ -410,7 +410,7 @@
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
 * [FEB](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
-* [Proton Drive](https://proton.me/drive) - 5GB Free / 1 Year / ~$10 for 1TB / [Note](https://proton.me/support/more-free-storage-existing-users)
+* [Proton Drive](https://proton.me/drive) - 5GB Free / 1 Year / ~$10 for 1TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [FileLu](https://filelu.com/) - 10GB / Forever / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
 * [CyberFile](https://cyberfile.me/) - 10GB Free

@@ -908,7 +908,7 @@
 * [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 * [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1) - Learn Chinese Stroke Orders
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
-* [Laoshi](https://laoshi.io/) - Chinese Vocabulary
+* [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
 * [MDBG](https://www.mdbg.net/) or [CantoWords](https://cantowords.com/) - Chinese Dictionary
 * [Maorma](https://www.maorma.net/) - Chinese Tone Practice
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
@@ -922,11 +922,13 @@
 
 * 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)** - Cantonese Learning Resources
 * [Live Lingua Cantonese](https://www.livelingua.com/courses/Cantonese) - Free Cantonese Courses
-* [EdUHK](https://corpus.eduhk.hk/cantonese/e_index.html) - Cantonese Learning / Practice
+* [EdUHK](https://corpus.eduhk.hk/cantonese/e_index.html), [polyu](https://www.polyu.edu.hk/clc/cantonese/home/?lang=en) or [eMini_MOOC2k](https://www.eduhk.hk/cle/resources/Mini_MOOC2/index.htm) - Cantonese Learning / Practice
 * [Cantonese.ca](https://cantonese.ca/) or [CantoScrolls](https://cantoscrolls.com/) - Cantonese Vocabulary
 * [Beginner's Cantonese](https://ywjt2.user.srcf.net/cantonese/) - Cantonese Grammar Lesson 
 * [CantoWords](https://cantowords.com/) - Cantonese Dictionary
+* [HKDict](https://hkdict.megaexplorer.net/) - Contemporary Cantonese-English Dictionary
 * [Cantonese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+* [OnlineCantonese](https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/OnlineCantonese/) - Cantonese Tone Practice
 * [CanPro](https://play.google.com/store/apps/details?id=com.app.can_pro) / [iOS](https://apps.apple.com/hk/app/cantonese-pronunciation-app/id1625045916) - Cantonese Pronunciation App
 * [Jyutping](https://jyutping.org/en/) - Cantonese Romanization System
 

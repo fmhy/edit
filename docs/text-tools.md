@@ -10,7 +10,7 @@
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-* ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [SortMyList](https://sortmylist.com/), [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [SmartDoc](https://killytoronto.github.io/textanalyzer/) - Document Analyzer
@@ -221,8 +221,8 @@
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
 * ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
-* ⭐ **[Simplenote](https://simplenote.com/)** - Note-Taking
-* [Notesnook](https://notesnook.com/) - Note-Taking / E2EE
+* ⭐ **[Simplenote](https://simplenote.com/)** - Note-Taking / [GitHub](https://github.com/Automattic/simplenote-elect)
+* [Notesnook](https://notesnook.com/) - Note-Taking / E2EE / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [Notion](https://www.notion.com/) - Note-Taking
 * Notion Tools - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
@@ -267,7 +267,7 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves
+* ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
@@ -349,7 +349,7 @@
 ## ▷ Spreadsheet Editors
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
-* [⁠Proton Sheets](https://proton.me/drive/sheets), [⁠dSheets](https://sheets.fileverse.io/) or [EditCSVOnline](https://www.editcsvonline.com/) - Online Spreadsheet Viewers / CSV Editors
+* [⁠Proton Sheets](https://proton.me/drive/sheets) / [Discord](https://discord.com/invite/proton), [⁠dSheets](https://sheets.fileverse.io/) or [EditCSVOnline](https://www.editcsvonline.com/) - Online Spreadsheet Viewers / CSV Editors
 * [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Baserow](https://baserow.io/) / [GitLab](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [EtherCalc](https://ethercalc.net/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
@@ -554,7 +554,7 @@
 
 # ► Font Tools
 
-* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** - Download Fonts from Websites
+* ⭐ **[Font Interceptor](https://fontinterceptor.mschfmag.com/)** or [⁠Font Stealer ](https://font-download.vercel.app/) - Download Fonts from Websites
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Linux Font Manager](https://github.com/FontManager/font-manager) - Font Managers

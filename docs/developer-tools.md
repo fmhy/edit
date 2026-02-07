@@ -1022,7 +1022,7 @@
 * [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
 * [⁠AppWrite](https://appwrite.io/) - 2GB Storage / 5GB Bandwidth
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
-* [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
+* [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
 * [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 
 ***

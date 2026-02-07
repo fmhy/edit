@@ -304,7 +304,7 @@
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
-* [android-call-recorder](https://gitlab.com/axet/android-call-recorder) or [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) - Call Recorders
+* [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) - Call Recorders
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
@@ -324,8 +324,7 @@
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
-* [TWRP Root](https://twrp.me/) - TWRP Root / [Telegram](https://t.me/samsung_twrp_root)
-* [Orangefox](https://orangefox.download/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
+* [Orangefox](https://orangefox.download/), [TWRP Root](https://twrp.me/) / [Telegram](https://t.me/samsung_twrp_root) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [⁠Rezygisk](https://github.com/PerformanC/ReZygisk) - Zygote Injection Engine 
 * [ReLSPosed](https://github.com/ThePedroo/ReLSPosed) or [LSPosed](https://github.com/JingMatrix/LSPosed) - Module-Based Customization Framework
@@ -837,6 +836,7 @@
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers / Spectrograms
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
+* [Ad Silence](https://github.com/aghontpi/ad-silence) - Mutes Ads on Music Platforms
 
 ***
 
@@ -876,7 +876,7 @@
 * ⭐ **[Metrolist](https://mostafaalagamy.github.io/)** / [Discord](https://discord.com/invite/rJwDxXsf8c) / [GitHub](https://github.com/mostafaalagamy/metrolist) - YouTube Music Players / Innertune Forks / Audio Players
 * ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-* [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - YouTube Music Player / Downloader / Playlist Extractor
+* [NewPipe](https://newpipe.net/) -  YouTube Music Player / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
 * [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
@@ -927,7 +927,7 @@
 # ► Android Streaming
 
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
-* ⭐ **[Stremio](https://www.stremio.com/)** or [Nuvio](https://tapframe.github.io/NuvioStreaming/) / [GitHub](https://github.com/tapframe/NuvioStreaming) - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Stremio](https://www.stremio.com/)** or [Nuvio](https://tapframe.github.io/NuvioMobile/) / [GitHub](https://github.com/tapframe/NuvioMobile) - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
@@ -1195,7 +1195,7 @@
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser
 * [Brave](https://apps.apple.com/app/id1052879175) or [Firefox Focus](https://apps.apple.com/app/id1055677337) - Privacy-Focused Browsers
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
-* [Proton Mail](https://apps.apple.com/app/id979659905) - Encrypted Emailing Service
+* [Proton Mail](https://apps.apple.com/app/id979659905) - Encrypted Emailing Service / [Discord](https://discord.com/invite/proton)
 
 ***
 
@@ -1313,7 +1313,7 @@
 
 # ► iOS Streaming
 
-* ⭐ **[Nuvio](https://tapframe.github.io/NuvioStreaming/)** / [GitHub](https://github.com/tapframe/NuvioStreaming), [Stremio Lite](https://www.stremio.com/) or [Web Stremio](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Nuvio](https://tapframe.github.io/NuvioMobile/)** / [GitHub](https://github.com/tapframe/NuvioStreaming), [Stremio Lite](https://www.stremio.com/) or [Web Stremio](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync

@@ -1100,7 +1100,6 @@
 ## ▷ Streaming
 
 * 🌐 **[Polish Kodi Addons](https://github.com/mtr81/kodi_addons)**
-* ⭐ **[Kreskowki24](https://kreskowki24.top/)** - Movies / Cartoons / [Discord](https://discord.gg/SB5bdaRNfb)
 * ⭐ **[Obejrzyj](https://www.obejrzyj.to/)** - Movies / TV
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
@@ -1114,7 +1113,6 @@
 * [ninateka](https://ninateka.pl/) - Movies
 * [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/), [3](https://ekino.sx/), [4](https://ekino.ws/) - Movies / TV / Sub / 720p
-* [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
 * [KreskówkaSubs](https://kreskowkasubs.blogspot.com/) - Cartoons / Sub / Dub
 * [Filman](https://filman.cc/) - Movies / TV
 * [centrum-dramy](https://centrum-dramy.pl/) - Asian Drama
@@ -1137,7 +1135,7 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
-* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
+* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
 * [Naikamu](https://naikamu.com/) - Anime Streaming App / Android
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 

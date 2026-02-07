@@ -105,6 +105,7 @@
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
+* [DownloadHa](https://www.downloadha.com/)
 * [Moum](https://moum.top/en/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels

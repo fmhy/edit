@@ -104,7 +104,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Discord](https://discord.premid.app/) / [GitHub](https://github.com/PreMiD/PreMiD)
-* [Music Presence](https://musicpresence.pocha.moe/) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
+* [Music Presence](https://musicpresence.app/), [2](https://musicpresence.pocha.moe/) - Audio Player Rich Presence / [Discord](https://discord.com/invite/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
