@@ -901,7 +901,7 @@
 ## ▷ Chinese
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
-* 🌐 **[SinoSplice](https://www.sinosplice.com/)** or [Cantonese Sheik](https://www.cantonese.sheik.co.uk/) - Chinese Learning Resources
+* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)** or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
