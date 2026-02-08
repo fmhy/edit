@@ -787,6 +787,7 @@
 * [Arr Scripts](https://github.com/RandomNinjaAtk/arr-scripts/) - Torrent App Automation Scripts
 * [Autobrr](https://github.com/autobrr/autobrr) - Autodownload Movie Torrents
 * [Powder](https://powder.media/) - Torrent Streaming App
+* [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Torrent Streaming App w/ Stremio Addons
 * [Popcorn Time](https://popcorn-time.site/) - Torrent Streaming App / [GitHub](https://github.com/popcorn-time-ru/popcorn-desktop)
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/), [3](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App / [GitHub](https://github.com/webtorrent/webtorrent)

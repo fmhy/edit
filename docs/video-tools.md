@@ -287,6 +287,7 @@
 * [Plex](https://www.plex.tv/) - Media Server
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
+* [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
