@@ -943,6 +943,7 @@
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
 * [Anti Matter Dimensions](https://ivark.github.io/) - Anti Matter Idle Game
+* [Antimatter Dimensions](https://ivark.github.io/) - Antimatter Idle Game / [Android](https://play.google.com/store/apps/details?id=kajfosz.antimatterdimensions) / [Discord](https://discord.gg/AntimatterDimensions)
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
 * [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
 * [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game
