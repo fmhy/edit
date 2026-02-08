@@ -694,7 +694,6 @@
 * [Nvidium](https://modrinth.com/mod/nvidium) - Nvidia OpenGL Rendering Mod / [GitHub](https://github.com/MCRcortex/nvidium)
 * [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Rendering Mod / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod)
 * [ModMenu](https://modrinth.com/mod/modmenu) / [GitHub](https://github.com/TerraformersMC/ModMenu), [PAX](https://github.com/maradotwebp/pax) / [Discord](https://discord.com/invite/GQ4MTquzyX) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
-* [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
 * [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Discord](https://discord.gg/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit)
 * [CraftPresence](https://modrinth.com/mod/craftpresence) / [Gitlab](https://gitlab.com/CDAGaming/CraftPresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) / [GitHub](https://github.com/ThePhaseCat/phases-discord-rich-presence) - Discord RPC for Java Edition
@@ -806,32 +805,16 @@
 
 ## ▷ Modding & Fan Content
 
+* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
+
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Essential Datamining / Modding Tool
 * ⭐ **[CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk)** - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [r/Unitale](https://www.reddit.com/r/Unitale/)
 * ⭐ **[Undertale GameBanana](https://gamebanana.com/games/5506)**, [Nexus Undertale](https://www.nexusmods.com/games/undertale) or [Nexus Deltarune](https://www.nexusmods.com/games/deltarune) - Mod Repositories
+* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** - Online Multiplayer Fangame / Deltarune Elements
 * ⭐ **[Undertale AU Wiki](https://undertale-au.fandom.com/)** - AU Documentation / Multiverse Content
 * [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
 * [Create Your Kris (CYK)](https://github.com/RhenaudTheLukark/CreateYourKris) - CYF Mod for DELTARUNE-Like Encounters
 * [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
-
-***
-
-## ▷ Fan Games
-
-* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
-* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** - Online Multiplayer Fangame / Deltarune Elements
-* ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
-* ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
-* ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
-* [⁠TS!UNDERSWAP](https://teamswitched.dev/) - Undertale Fangame / Reimagining / [GameJolt](https://gamejolt.com/games/tsunderswap/160094)
-* [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Universe Hopping Fangame
-* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
-* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
-* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
-* [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
-* [Ink Sans](https://gamejolt.com/games/inksans025/321332) - AU Multiverse Character Fan Game
-* [ClickerTale](https://gamejolt.com/games/clickertale2/249516) - Cookie Clicker Inspired
-* [Bad Monday Simulator](https://lumpytouch.itch.io/bad-monday-simulator), [2](https://www.newgrounds.com/portal/view/845834) - Garfield Sans Fan Game
 
 ***
 

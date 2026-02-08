@@ -42,8 +42,8 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[Arena](https://arena.ai/?mode=direct)** - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat)** - Gemini 3 Pro / Claude Opus 4.5 / GPT- 5.2 / Multiple Chatbots
 * [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini 3 Pro / Claude Opus 4.5 / GPT- 5.2 / Multiple Chatbots
 * [⁠ISH](https://beta.ish.chat/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / Unlimited Ad-Based / Github Login / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Pollinations](https://chat.pollinations.ai/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / No Sign-Up / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pollinations-limits.md)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Kimi K2 / Multiple Models / No Sign-Up
