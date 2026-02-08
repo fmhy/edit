@@ -15,7 +15,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * xGIROx - Caught with malware
 * BBRepacks - Caught with malware
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://claraiscute.neocities.org/Announcements/qoob/), [2](https://claraiscute.pages.dev/Announcements/qoob/)
-* cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
 * IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting [demoted on 1337x](https://i.imgur.com/MwAYARu.png) / [2](https://i.ibb.co/39WDrb0m/image.png) / [3](https://www.reddit.com/r/PiratedGames/comments/muc5wz/comment/gv4wfqq/) for malware
 * GameFabrique - IGG uploads + [adware installers](https://claraiscute.neocities.org/Announcements/gamefabrique_adware), [2](https://claraiscute.pages.dev/Announcements/gamefabrique_adware/)

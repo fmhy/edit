@@ -1,3 +1,3 @@
 #### MVSEP Note
 
-Register for wav and flac output, and lower queue times
+Register to get .wav and .flac output, and lower queue times.
