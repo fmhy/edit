@@ -406,7 +406,6 @@
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
-* [⁠ToxicGame](https://toxicgame.net/) - ROMs / PS3
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
 * [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
