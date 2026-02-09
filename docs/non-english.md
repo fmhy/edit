@@ -375,7 +375,6 @@
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/K4rDRa5WAS)
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
-* [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
 * [mrkni](https://mrkni.tv/) - Movies / TV / Anime
 * [mrkaj](https://mrkaj.si/) - Movies / TV / Anime / Geoblocked
