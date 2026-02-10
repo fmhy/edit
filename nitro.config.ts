@@ -22,7 +22,8 @@ export default defineNitroConfig({
   preset: 'cloudflare_module',
   compatibilityDate: '2024-11-01',
   runtimeConfig: {
-    WEBHOOK_URL: process.env.WEBHOOK_URL
+    WEBHOOK_URL: process.env.WEBHOOK_URL,
+    JWT_SECRET: process.env.JWT_SECRET || 'change-me-in-production'
   },
   srcDir: 'api/',
   routeRules: {

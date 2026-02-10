@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
 import Announcement from './components/Announcement.vue'
+import Login from './components/Login.vue'
 import Sidebar from './components/SidebarCard.vue'
 
 const { isDark } = useData()
@@ -46,6 +47,9 @@ const { Layout } = DefaultTheme
   <Layout>
     <template #sidebar-nav-after>
       <Sidebar />
+    </template>
+    <template #nav-bar-content-after>
+      <Login />
     </template>
     <template #home-hero-info-before>
       <Announcement />

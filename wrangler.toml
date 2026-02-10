@@ -13,6 +13,10 @@ routes = [
 binding = "STORAGE"
 id = "6f18adea26a64d6b8858ffbdfd3f4cf2"
 
+[[kv_namespaces]]
+binding = "AUTH_STORE"
+id = "auth_store_kv_id_placeholder"
+
 [[unsafe.bindings]]
 name = "RATE_LIMITER"
 type = "ratelimit"

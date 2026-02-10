@@ -2,5 +2,6 @@
 
 interface Env {
 	STORAGE: KVNamespace;
+	AUTH_STORE: KVNamespace;
 	RATE_LIMITER: RateLimit;
 }
