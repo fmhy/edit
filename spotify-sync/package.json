@@ -1,0 +1,15 @@
+{
+  "name": "spotify-sync-dual-mac",
+  "version": "1.0.0",
+  "description": "Synchronize Spotify playback across two MacBooks for stereo 2.0 sound",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "ws": "^8.18.0",
+    "open": "^10.1.0"
+  }
+}

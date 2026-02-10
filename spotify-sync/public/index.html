@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Sync - Dual Mac 2.0 Stereo</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #121212;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+    }
+
+    header h1 {
+      font-size: 1.8rem;
+      background: linear-gradient(135deg, #1DB954, #1ed760);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    header p {
+      color: #b3b3b3;
+      margin-top: 0.4rem;
+      font-size: 0.9rem;
+    }
+
+    .container {
+      max-width: 600px;
+      width: 100%;
+      padding: 1rem;
+    }
+
+    .card {
+      background: #1e1e1e;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .card h2 {
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+      color: #1DB954;
+    }
+
+    .status-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.8rem;
+    }
+
+    .status-item {
+      background: #282828;
+      border-radius: 8px;
+      padding: 0.8rem;
+      text-align: center;
+    }
+
+    .status-item .label {
+      font-size: 0.75rem;
+      color: #b3b3b3;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .status-item .value {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-top: 0.3rem;
+    }
+
+    .dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      margin-right: 6px;
+    }
+
+    .dot.green { background: #1DB954; }
+    .dot.red { background: #e74c3c; }
+    .dot.yellow { background: #f39c12; }
+
+    .role-buttons {
+      display: flex;
+      gap: 0.8rem;
+    }
+
+    .role-btn {
+      flex: 1;
+      padding: 1rem;
+      border: 2px solid #333;
+      border-radius: 10px;
+      background: #282828;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .role-btn:hover { border-color: #1DB954; background: #2a2a2a; }
+    .role-btn.active { border-color: #1DB954; background: #1a3a2a; }
+    .role-btn .icon { font-size: 2rem; display: block; margin-bottom: 0.5rem; }
+
+    button {
+      background: #1DB954;
+      color: #000;
+      border: none;
+      padding: 0.7rem 1.5rem;
+      border-radius: 30px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    button:hover { background: #1ed760; transform: scale(1.03); }
+    button:disabled { background: #535353; color: #b3b3b3; cursor: not-allowed; transform: none; }
+
+    .btn-outline {
+      background: transparent;
+      border: 1px solid #535353;
+      color: #fff;
+    }
+
+    .btn-outline:hover { border-color: #fff; }
+
+    .search-box {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .search-box input {
+      flex: 1;
+      padding: 0.7rem 1rem;
+      border-radius: 8px;
+      border: 1px solid #333;
+      background: #282828;
+      color: #fff;
+      font-size: 0.95rem;
+      outline: none;
+    }
+
+    .search-box input:focus { border-color: #1DB954; }
+
+    .track-list {
+      list-style: none;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+
+    .track-item {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      padding: 0.6rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+
+    .track-item:hover { background: #282828; }
+
+    .track-item img {
+      width: 44px;
+      height: 44px;
+      border-radius: 4px;
+    }
+
+    .track-info { flex: 1; min-width: 0; }
+    .track-info .name { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .track-info .artist { font-size: 0.8rem; color: #b3b3b3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+    .now-playing {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .now-playing img {
+      width: 64px;
+      height: 64px;
+      border-radius: 6px;
+    }
+
+    .now-playing .info { flex: 1; }
+    .now-playing .info .title { font-size: 1.1rem; font-weight: 600; }
+    .now-playing .info .artist { color: #b3b3b3; font-size: 0.9rem; }
+
+    .controls {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .controls button {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      padding: 0;
+    }
+
+    .controls .play-btn {
+      width: 56px;
+      height: 56px;
+      font-size: 1.5rem;
+    }
+
+    .sync-indicator {
+      text-align: center;
+      padding: 0.5rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      margin-top: 0.8rem;
+    }
+
+    .sync-indicator.synced { background: rgba(29, 185, 84, 0.15); color: #1DB954; }
+    .sync-indicator.syncing { background: rgba(243, 156, 18, 0.15); color: #f39c12; }
+    .sync-indicator.error { background: rgba(231, 76, 60, 0.15); color: #e74c3c; }
+
+    .hidden { display: none !important; }
+
+    .channel-label {
+      font-size: 3rem;
+      font-weight: 800;
+      text-align: center;
+      padding: 0.5rem;
+      border-radius: 8px;
+    }
+
+    .channel-label.left { color: #1DB954; }
+    .channel-label.right { color: #1ed760; }
+
+    .volume-control {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      margin-top: 1rem;
+    }
+
+    .volume-control input[type="range"] {
+      flex: 1;
+      accent-color: #1DB954;
+    }
+
+    .volume-control .vol-label {
+      font-size: 0.8rem;
+      color: #b3b3b3;
+      min-width: 3rem;
+      text-align: right;
+    }
+
+    #login-section { text-align: center; padding: 2rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Spotify Sync</h1>
+    <p>Dual MacBook 2.0 Stereo System</p>
+  </header>
+
+  <div class="container">
+    <!-- Login -->
+    <div id="login-section" class="card">
+      <h2>Connect Spotify</h2>
+      <p style="color:#b3b3b3; margin-bottom:1rem;">Log in with Spotify to get started</p>
+      <a href="/login"><button>Log in with Spotify</button></a>
+    </div>
+
+    <!-- Role Selection -->
+    <div id="role-section" class="card hidden">
+      <h2>Select Speaker Role</h2>
+      <p style="color:#b3b3b3; margin-bottom:1rem; font-size:0.85rem;">
+        Choose which channel this MacBook will play.
+        Assign one MacBook as Left and the other as Right.
+      </p>
+      <div class="role-buttons">
+        <button class="role-btn" onclick="selectRole('left')">
+          <span class="icon">&#9664;</span>
+          Left Speaker
+        </button>
+        <button class="role-btn" onclick="selectRole('right')">
+          <span class="icon">&#9654;</span>
+          Right Speaker
+        </button>
+      </div>
+    </div>
+
+    <!-- Status -->
+    <div id="status-section" class="card hidden">
+      <h2>System Status</h2>
+      <div class="status-grid">
+        <div class="status-item">
+          <div class="label">This MacBook</div>
+          <div class="value" id="my-role">--</div>
+        </div>
+        <div class="status-item">
+          <div class="label">Connection</div>
+          <div class="value" id="conn-status"><span class="dot yellow"></span>...</div>
+        </div>
+        <div class="status-item">
+          <div class="label">Left Speaker</div>
+          <div class="value" id="left-status"><span class="dot red"></span>Offline</div>
+        </div>
+        <div class="status-item">
+          <div class="label">Right Speaker</div>
+          <div class="value" id="right-status"><span class="dot red"></span>Offline</div>
+        </div>
+      </div>
+      <div id="sync-indicator" class="sync-indicator syncing hidden">
+        Synchronizing clocks...
+      </div>
+    </div>
+
+    <!-- Channel Display -->
+    <div id="channel-display" class="card hidden" style="text-align:center;">
+      <div class="channel-label" id="channel-label"></div>
+      <div class="volume-control">
+        <span style="font-size:0.9rem;">&#128264;</span>
+        <input type="range" id="volume-slider" min="0" max="100" value="80" oninput="setVolume(this.value)">
+        <span class="vol-label" id="vol-label">80%</span>
+      </div>
+    </div>
+
+    <!-- Search & Play (only on controller) -->
+    <div id="search-section" class="card hidden">
+      <h2>Search & Play</h2>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Search for a song..." onkeydown="if(event.key==='Enter')searchTracks()">
+        <button onclick="searchTracks()">Search</button>
+      </div>
+      <ul class="track-list" id="track-list"></ul>
+    </div>
+
+    <!-- Now Playing -->
+    <div id="player-section" class="card hidden">
+      <h2>Now Playing</h2>
+      <div class="now-playing">
+        <img id="track-art" src="" alt="">
+        <div class="info">
+          <div class="title" id="track-title">--</div>
+          <div class="artist" id="track-artist">--</div>
+        </div>
+      </div>
+      <div class="controls">
+        <button class="btn-outline" onclick="sendPause()" id="pause-btn">&#10074;&#10074;</button>
+        <button class="play-btn" onclick="sendResume()" id="play-btn">&#9654;</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://sdk.scdn.co/spotify-player.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>
