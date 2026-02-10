@@ -147,6 +147,7 @@
 * [ChartDB](https://chartdb.io/) - Database Visualization / [GitHub](https://github.com/chartdb/chartdb)
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
+* [Convex](https://www.convex.dev/) - Convex – Sync-first backend platform
 
 ***
 
@@ -168,6 +169,7 @@
 * [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/git-quick-stats/git-quick-stats)
+* [ohshitgit](https://ohshitgit.com/) - Plain-English Git disaster recovery guide
 
 ***
 
