@@ -434,7 +434,7 @@
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
-* [Cover](https://frenchfrysoftware.com/cover/), [PlayTorrio](https://playtorrio.xyz/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [⁠GonVisor](https://www.gonvisor.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Comic Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover/), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [PlayTorrio](https://playtorrio.xyz/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [⁠GonVisor](https://www.gonvisor.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Comic Readers / Managers
 * [XOXO Comics](https://xoxocomic.com/)
 * [ReadAllComics](https://readallcomics.com/)
 * [Read Comics Online](https://readcomicsonline.ru/)
@@ -450,7 +450,7 @@
 * [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Requires Tor
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Comics Downloader](https://github.com/Girbons/comics-downloader), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
+* [Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Comic Reader
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Comic Translate](https://github.com/ogkalu2/comic-translate) - Comic Translator
@@ -730,7 +730,7 @@
 * ⭐ **[SciLit](https://www.scilit.com/)** - Research Papers / Publications
 * ⭐ **[Mendeley](https://www.mendeley.com/)** - Research Papers / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
-* [Lumina](https://www.lumina.sh/) - AI Research Paper Search / [Discord](https://discord.com/invite/YSsSK2g3rY)
+* [Lumina](https://www.lumina.sh/) - AI Research Paper Search
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers

@@ -13,9 +13,9 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3 Pro Preview / 11 Daily / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.7 / Slides / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[Grok](https://grok.com/)** - Grok 4 Fast (96 daily) / Grok 4.1 (24 daily) / [Rate Display](https://greasyfork.org/en/scripts/533963), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3 Pro (5 per day) / Gemini 3 Flash (Unlimited) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 4.7 / Slides / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi-K2.5 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V3.2 / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5.1 / Unlimited / [Discord](https://discord.com/invite/go-copilot) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
@@ -45,7 +45,6 @@
 * ⭐ **[⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat)** - Gemini 3 Pro / Claude Opus 4.5 / GPT- 5.2 / Multiple Chatbots
 * [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://beta.ish.chat/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / Unlimited Ad-Based / Github Login / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
-* [Pollinations](https://chat.pollinations.ai/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / No Sign-Up / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pollinations-limits.md)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Kimi K2 / Multiple Models / No Sign-Up
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / DeepSeek V3.2 / Grok 4.1 Fast (non-reasoning) / Reset Limits w/ Temp Mail
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM 4.7 / Qwen3 235B / Requires Sign-Up
@@ -150,7 +149,7 @@
 * ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [GitHub](https://github.com/sst/opencode)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.5 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
@@ -158,7 +157,7 @@
 * [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
 * [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
-* [Supermaven](https://supermaven.com/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
+* [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
@@ -301,8 +300,8 @@
 ***
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
+* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s/ Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - Traffic-Based / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 /  Grok / Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [Arena](https://arena.ai/?chat-modality=video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Sora](https://openai.com/index/sora/) - 6 Daily / [Remove Watermarks](https://unmarkit.app/sora) / [Signup Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sora.md)
@@ -337,7 +336,6 @@
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up Required
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / No Sign-Up / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [Yupp.ai](https://yupp.ai/) - GPT Image 1.5 / Nano Banana Pro / Multiple Generators / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [Pollinations](https://chat.pollinations.ai/) - Nano Banana Pro / GPT Image 1.5 / Multiple Generators / No Sign-Up / [Limit / Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pollinations-limits.md)
 * [⁠GeminiGenAI](https://geminigen.ai/app/imagen) - Nano Banana Pro /  Login Required / Reset Limits w/ Temp Mail / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md)
 * [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - HunyuanImage 3.0-Instruct / Unlimited
 * [Grok](https://grok.com/) - Traffic-Based / Editing / Generating / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -470,7 +468,7 @@
 ## ▷ Voice Change / Clone
 
 * ⭐ **[Applio](https://applio.org/)** - Voice Cloning / No Sign-Up / [Discord](https://discord.gg/urxFjYmYYh) / [GitHub](https://github.com/IAHispano/Applio)
-* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (Locally) / [Colab](https://colab.research.google.com/github/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/Retrieval_based_Voice_Conversion_WebUI_v2.ipynb) / [Discord](https://discord.gg/HcsmBBGyVk)
+* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (Locally) / [Discord](https://discord.gg/HcsmBBGyVk)
 * ⭐ **[Voice Changer](https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md)** - Real-Time Voice Changer (W-Okada) / [Guide](https://rentry.co/VoiceChangerGuide) / [Colab](https://colab.research.google.com/github/w-okada/voice-changer/blob/master/Realtime_Voice_Changer_on_Colab.ipynb)
 * [Voice Models](https://voice-models.com/) / [Discord](https://discord.gg/3WJ8r6Bf5A) - AI Voice Models and Guides
 * [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) - Voice Cloning / No Sign-Up

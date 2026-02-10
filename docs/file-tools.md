@@ -36,6 +36,7 @@
 * [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
+* [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)

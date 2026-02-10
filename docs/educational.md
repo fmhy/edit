@@ -149,7 +149,6 @@
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
-* [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
@@ -160,6 +159,7 @@
 
 ## ▷ History
 
+* ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
 * ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
@@ -167,7 +167,6 @@
 * ⭐ **[Histography](https://histography.io/)** - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
-* [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Museo](https://museo.app/) - Museum Search
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Shorpy](https://shorpy.com/) - Historical Photos
@@ -335,7 +334,7 @@
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.com/invite/nhGZzpux)
+* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/)
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
@@ -523,6 +522,7 @@
 * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
 * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
 * [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
+* [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
 * [⁠The Rocketry Forum](https://www.rocketryforum.com/) - Project Rocketry Forums / Community 
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Project Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [⁠NAR](https://www.nar.org/) - Project Rocketry Safety / Learning / [Facebook](https://www.facebook.com/groups/2255560886/)
@@ -530,15 +530,20 @@
 * [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry)
 * [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Project Rocketry Info / Manuals
+* [⁠RocketReviews](https://www.rocketreviews.com/) - Project Rocket Reviews / Test Results 
 * [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
-* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
+* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
+* [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
 * [Tripoli Rocketry](https://www.tripoli.org/) - High-Powered Rocket Resources / Info
+* [JCRocket](https://www.jcrocket.com) - High-Power Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCokerhttps://www.youtube.com/@JohnLCoker)
 * [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
+* [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
 * [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
 * [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [YouTube](https://www.youtube.com/@ChrisBrady737)
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
+* [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews 
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
@@ -842,7 +847,7 @@
 * [TalkEnglish](https://www.talkenglish.com/) or [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - Improve Spoken English
 * [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
 * [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
-* [Spanish-English](https://discord.com/invite/spanish-english) - English Learning Community / Discord
+* [Spanish-English](https://discord.com/invite/spanish-english) or [English Chat](https://discord.gg/english) - English Learning Community / Discord
 * [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 * [CEFR Lookup](ttps://cefrlookup.com/) - CEFR Word Level Lookup
@@ -938,8 +943,8 @@
 
 * 🌐 **[French Comprehensible Input](https://docs.google.com/spreadsheets/d/e/2PACX-1vS35pIJ5A3g5tBSyOcYY6RXhkfGyHGYUc_iD08MYbRmZta8R4ydXbMyrgOpy9Ignq7iyrqyThusQ8mu/pubhtml)** - French Comprehensible Input Resources
 * ⭐ **[StudySpanish](https://studyspanish.com/)** or [LibreLingo](https://librelingo.app/) - Learn Spanish
+* ⭐ **[SpanishDict](https://www.spanishdict.com/)** - Spanish Translation Dictionary
 * [Spanish-English](https://discord.com/invite/spanish-english) - Spanish Learning Community / Discord
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [SpanishChecker](https://spanishchecker.com/) - Spanish Grammar Check
 * [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials

@@ -123,7 +123,7 @@
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
-* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot) / [Discord](https://discord.gg/Kqdn8CHacP) or [MusicBot](https://github.com/jagrosh/MusicBot) - Music Bots
+* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot) or [MusicBot](https://github.com/jagrosh/MusicBot) - Music Bots
 * [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot

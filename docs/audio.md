@@ -64,7 +64,7 @@
 
 * [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip-Hop
 * [DatPiff](https://datpiff.com/) - Hip-Hop / Mixtapes
-* [MixtapeMonkey](https://mixtapemonkey.com/) - Hip-Hop / Mixtapes / [Discord](https://discord.gg/4Vsb73fQgd)
+* [MixtapeMonkey](https://mixtapemonkey.com/) - Hip-Hop / Mixtapes
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Jamendo](https://www.jamendo.com/) or [Free Music Archive](https://freemusicarchive.org/) - Independent Music
@@ -327,7 +327,7 @@
 * [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [ReleaseFeed](https://releasefeed.elomatreb.eu/) - Create RSS Feeds of Favorite Artists
-* [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify / [Discord](https://discord.com/invite/H7Xg9AAHsq)
+* [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
 
 ***
 
@@ -896,7 +896,7 @@
 * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
 * ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
-* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials / [Discord](https://discord.gg/KfyHfUTjsK)
+* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
 * [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [GitHub](https://github.com/stakira/OpenUtau)
 * [Tonocracy](https://tonocracy.com/), [NeuralAmpModeler](https://www.neuralampmodeler.com/), [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Guitar Tones, Effects & Virtual Amps
 * [Tone3000](https://tone3000.com/) - Guitar Tone Profiles

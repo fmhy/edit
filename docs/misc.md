@@ -648,7 +648,7 @@
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
-* ⭐ **[/u/KNightNox Diagram](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - Zoomable Exercise Diagram
+* ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/gEfyf0q.jpeg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg) - Zoomable Exercise Diagram
 * ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
@@ -747,7 +747,6 @@
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
-* [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
@@ -1011,7 +1010,7 @@
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [JetPens Blog](https://www.jetpens.com/blog) - Mechanical Pen / Pencil Guides / Shopping
 * [⁠Knockology](https://forum.knockology.com/) or [r/mechanicalpencils](https://www.reddit.com/r/mechanicalpencils/) / [Wiki](https://www.reddit.com/r/mechanicalpencils/wiki/index/) / [Discord](https://discord.com/invite/2zZfsax) - Mechanical Pencil Communities
-* [Unsharpen](https://unsharpen.com/) - Mechanical Pencil Reviews / [YouTube](https://www.youtube.com/@unsharpen)
+* [Unsharpen](https://www.youtube.com/@unsharpen) - Mechanical Pencil Reviews / [Blog](https://unsharpen.com/)
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
@@ -1091,7 +1090,7 @@
 * [r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [CheapShark](https://www.cheapshark.com/) - Multi-Store / [Discord](https://discord.com/invite/cheapshark)
 * [PSPrices](https://psprices.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.com/invite/hN57zh8Ey2)
-* [DekuDeals](https://www.dekudeals.com/) - Console Game Price Tracker / [Discord](https://discord.gg/WEuq5CTcBa)
+* [DekuDeals](https://www.dekudeals.com/) - Console Game Price Tracker
 * [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [CheapCharts](https://games.cheapcharts.com/) - Switch, Xbox and Playstation Price Tracker
 * [r/GameDeals](https://www.reddit.com/r/gamedeals) - Game Deal Subreddit
@@ -1217,6 +1216,7 @@
 * 🌐 **[ProductivePrivacy](https://priductive.com/)** - Privacy-Focused Productivity Apps
 * 🌐 **[Time and Date](https://www.timeanddate.com/)** - Multiple Time Tracking Tools
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
+* ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/mod/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
 * ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons
@@ -1226,6 +1226,7 @@
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App
+* [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
@@ -1237,7 +1238,7 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
+* [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
 * [Time Tracker](https://www.wfhg.cc/) - Browser Time Tracking Extension / [GitHub](https://github.com/sheepzh/time-tracker-4-browser)
 * [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
@@ -1391,7 +1392,7 @@
 * 🌐 **[David.li](https://david.li/)** - Physics Games
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Video](https://youtu.be/iSAKEnRfles) / [Discord](https://discord.gg/ZsrAAByEnr)
-* ⭐ **[Sandboxels](https://sandboxels.r74n.com/)**, [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/) - Falling Sand Physics Sandbox
+* ⭐ **[Sandboxels](https://neal.fun/sandboxels/)**, [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/) - Falling Sand Physics Sandbox
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** or [geneticars](https://geneticars.vercel.app/) - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)

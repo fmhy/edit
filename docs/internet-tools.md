@@ -61,6 +61,7 @@
 * ⭐ **[wallabag](https://wallabag.org/)** or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [PaywallBuster](https://paywallbuster.com/) - Paywall Bypass Tool
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
+* [⁠PressReleased](https://pressreleased.alwaysdata.net/) - Paywall Bypass Tool / [Discord](https://discord.gg/fn33a5mq8w)
 * [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool / [GitHub](https://github.com/mrmps/SMRY)
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls

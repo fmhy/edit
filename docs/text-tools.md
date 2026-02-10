@@ -225,7 +225,7 @@
 * [Simplenote](https://simplenote.com/) - Note-Taking / [GitHub](https://github.com/Automattic/simplenote-elect)
 * [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
 * [Notion](https://www.notion.com/) - Note-Taking
-* Notion Tools - [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
+* Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
 * [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / [GitHub](https://github.com/lokus-ai/lokus)
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools

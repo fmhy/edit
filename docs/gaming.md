@@ -30,20 +30,18 @@
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Discord](https://discord.gg/TBs8Te5nwn) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md) 
 * [⁠GoMorGames](https://gomorgames.com/) - Download / [Discord](https://discord.gg/raWtANAZqF)
-* [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info) / [Discord](https://discord.gg/TvKnH6P)
+* [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
-* [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installed / [Discord](https://discord.gg/XqMpBdVWvK)
-* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
+* [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/XqMpBdVWvK)
+* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
-* [GetFreeGames](https://getfreegames.net/) - Download / [Discord](https://discord.gg/Pc5TtEzk7k)
-* [World of PC Games](https://worldofpcgames.com/) - Download / Pre-Installed / Use Adblock / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
+* [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [Games4U](https://games4u.org/) - Download / Use Adblock / Sources on DDL Pages
 * [CG Games](https://www.cg-gamespc.com/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
-* [⁠The Dark Games](https://the-dark-games.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#ads) - Denuvo Games / Works Offline
@@ -227,7 +225,7 @@
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia (Discord)](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone / [GitHub](https://github.com/Cytoid/)
-* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [Guides](https://wiki-en.purplepalette.net/home) / [Discord](https://discord.gg/zStqbJahH7) / [GitHub](https://github.com/Sonolus) 
+* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [Guides](https://wiki-en.purplepalette.net/home) / [GitHub](https://github.com/Sonolus) 
 
 ***
 
@@ -311,7 +309,7 @@
 * ⭐ **[Vimms Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
 * ⭐ **[No-Intro](https://rentry.co/FMHYB64#no-intro)** - ROMs / [Discord](https://discord.gg/dvk6W6vZmp)
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
-* ⭐ **[Ziperto](https://ziperto.com/)** - ROMs / [Discord](https://discord.gg/VgZ66bM87u)
+* ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * ⭐ **[CDRomance](https://cdromance.org/)** / [Forum](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [WowROMs](https://wowroms.com/en) - ROMs
@@ -353,7 +351,7 @@
 * [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
-* [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) / [Discord](https://discord.com/invite/CPy4cjE) / [GitHub](https://github.com/sonicretro/) - Sonic Fan Games + Mods
+* [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) / [GitHub](https://github.com/sonicretro/) - Sonic Fan Games + Mods
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
 ***
@@ -393,7 +391,7 @@
 * [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
-* [⁠NS2DB](https://ns2db.com/) - Switch 2 / Switch / 3DS ROM Release Tracker / [Discord](https://discord.com/invite/8CpjeXH4)
+* [⁠NS2DB](https://ns2db.com/) - Switch 2 / Switch / 3DS ROM Release Tracker
 
 ***
 
@@ -690,7 +688,7 @@
 
 * ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
 * ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
-* ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator / [Discord](https://discord.com/invite/crazygames)
+* ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
@@ -783,7 +781,7 @@
 * [Slither.io](https://slither.io/) - Grow the Longest Worm
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
-* [Powerline.io](https://powerline.io/) - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
+* [Powerline.io](https://powerline.io/) - Multiplayer Snake
 * [agar.io](https://agar.io/) - Become the Biggest Circle
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)

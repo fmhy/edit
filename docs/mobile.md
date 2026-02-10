@@ -629,7 +629,7 @@
 
 ***
 
-## ▷ Productivity Trackers
+## ▷ Productivity / App Blockers
 
 * ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
 * ⭐ **[Loop Habit Tracker](https://github.com/iSoron/uhabits)** - Habit Tracker
@@ -643,6 +643,7 @@
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Digital Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Digital Productivity Tracker / App Blocker
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
+* [one sec](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - App Blocker
 * [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
 * [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
 * [SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Productivity / Time Tracker
@@ -795,6 +796,7 @@
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
+* [Futon](https://github.com/LandWarderer2772/Futon/) - Manga Reader
 * [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga Reader / [Discord](https://discord.com/invite/sfPJSQNxfW)
 * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
