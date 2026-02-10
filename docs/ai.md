@@ -137,49 +137,6 @@
 
 ***
 
-## ▷ Coding AIs
-
-* **Note** - Keep in mind many coding AIs run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions. Remember to backup code first before running the AI or prompts, as they can sometimes break things.
-
-***
-
-* 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
-* 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
-* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
-* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** or [AIStudio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
-* [GitHub Copilot](https://github.com/features/copilot) - Coding AI
-* [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [GitHub](https://github.com/sst/opencode)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
-* [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
-* [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) or [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) - Coding AI
-* [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
-* [Windsurf](https://www.windsurf.com/) - Coding AI / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
-* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
-* [Llama Coder](https://llamacoder.together.ai/) - Code Generator / No Sign-Up / [GitHub](https://github.com/Nutlope/llamacoder)
-* [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
-* [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
-* [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
-* [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
-* [GitWit](https://gitwit.dev/) - Coding AI
-* [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder) - Coding AI
-* [AI SDK](https://sdk.vercel.ai/) - Coding AI / [GitHub](https://github.com/vercel/ai)
-* [Qodo](https://www.qodo.ai/) - Coding AI
-* [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
-* [Aider](https://aider.chat/) - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
-* [⁠Orchids](https://orchids.app/) - Text to Site Code
-* [v0](https://v0.app/) - Text to Site Code
-* [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - Text to Site Code / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
-* [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
-* [Fragments](https://fragments.e2b.dev/) - AI App Builder / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev)
-* [⁠Rork](https://rork.com/) - AI App Builder / [Code Export Bypass](https://greasyfork.org/en/scripts/538090)
-* [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase into Single LLM Prompt
-* [PR-Agent](https://github.com/qodo-ai/pr-agent) - Automated Pull Requests
-* [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - Convert Repos to Prompt-Friendly Text
-
-***
-
 # ► AI Tools
 
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
