@@ -80,6 +80,7 @@
 * ⭐ **[FlyX](https://tv.vynx.cc/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Eq2P3bRpyb) / [GitHub](https://github.com/Vynx-Velvet/Flyx-main)
 * ⭐ **[AuroraScreen](https://www.aurorascreen.org/)** - Movies / TV / Anime / Auto-Next / Requires Chromium / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
+* [Youplex](https://youplex.site/) - Movies / TV / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.gg/5eWu9Vz6tQ) / [Github](https://github.com/steveyout/youplex)
 * [Primeshows](https://www.primeshows.uk/) or [Netflex](https://netflex.uk/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JeMDzxSbhH)
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
