@@ -9,4 +9,5 @@ node_modules
 dist
 .eslintcache
 docs/.vitepress/.temp
+.wrangler
 result
