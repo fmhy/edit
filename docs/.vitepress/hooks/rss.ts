@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ import { Feed } from 'feed'
 import { createContentLoader } from 'vitepress'
 import { meta } from '../constants'
 
-export async function generateFeed(config: SiteConfig): Promise {
+export async function generateFeed(config: SiteConfig): Promise<void> {
   const feed: Feed = new Feed({
     id: meta.hostname,
     link: meta.hostname,

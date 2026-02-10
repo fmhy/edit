@@ -3,7 +3,7 @@ title: Monthly Updates [March]
 description: March 2024 Updates
 date: 2024-03-01
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -11,10 +11,12 @@ footer: true
 
 <Post authors="nbats"/>
 
-:::info These update threads only contains major updates. If you're interested
+:::info 
+These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
-[Updates Channel](https://redd.it/17f8msf) in Discord. :::
+[Updates Channel](https://redd.it/17f8msf) in Discord.
+:::
 
 ### Wiki Updates
 
@@ -22,74 +24,72 @@ in seeing all minor changes you can follow our
   [Courses](https://cse.google.com/cse?cx=f7a118c70d0804fc4) and
   [Fonts](https://cse.google.com/cse?cx=82154ebab193e493d).
 
-- Added section for
-  [Productivity Tools](https://fmhy.net/miscguide#productivity-tools) in Useful
+- Added a section for
+  [Productivity Tools](https://fmhy.net/misc#productivity-tools) in Useful
   Sites.
 
-- Added section for [File Recovery](https://fmhy.net/file-tools#file-recovery)
+- Added a section for [File Recovery](https://fmhy.net/file-tools#file-recovery)
   in File Tools.
 
-- Added section for
-  [Fingerprinting / Tracking](https://fmhy.net/adblockvpnguide#fingerprinting-tracking)
+- Added a section for
+  [Fingerprinting / Tracking](https://fmhy.net/privacy#fingerprinting-tracking)
   in Privacy.
 
 - Added sections for
-  [Mario Kart](https://fmhy.net/gamingpiracyguide#mario-kart-tools) +
-  [Geometry Dash](https://fmhy.net/gamingpiracyguide#geometry-dash-tools) in
+  [Mario Kart](https://fmhy.net/gaming#mario-kart-tools) +
+  [Geometry Dash](https://fmhy.net/gaming#geometry-dash-tools) in
   Gaming.
 
-- Added section for
-  [Crypto / Bitcoin](https://fmhy.net/miscguide#crypto-bitcoin) in Career.
+- Added a section for
+  [Crypto / Bitcoin](https://fmhy.net/misc#crypto-bitcoin) in Career.
 
-- Added section for [Raspberry Pi](https://fmhy.net/linuxguide#raspberry-pi) in
+- Added a section for [Raspberry Pi](https://fmhy.net/linux-macos#raspberry-pi) in
   Linux.
 
-- Added sections for [Design Apps](https://fmhy.net/img-tools#design-apps) +
-  [Design Assets](https://fmhy.net/img-tools#free-assets) in Image Tools.
+- Added sections for [Design Apps](https://fmhy.net/image-tools#design-apps) +
+  [Design Assets](https://fmhy.net/image-tools#free-assets) in Image Tools.
 
 - Our Minecraft Server is now live. Click
   **[here](https://fmhy.net/posts/minecraft-server)** to join.
-
-- Moved `fmhy.tk` to `old.fmhy.net`
 
 ---
 
 ### Stars Added ⭐
 
 - Starred
-  [yet another music server](https://fmhy.net/audiopiracyguide#audio-downloading)
-  in Audio Downloading. Multi-site DDL (deezer, qobuz, tidal, spotify, youtube,
-  FLAC.)
+  [yet another music server](https://fmhy.net/audio#audio-downloading)
+  in Audio Downloading. Multi-site DDL (Deezer, Qobuz, Tidal, Spotify, YouTube,
+  FLAC).
 
-- Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No
-  limit GPT-4, tell it to always talk in english.
+- Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No-limit
+  GPT-4; tell it to always talk in English.
 
 - Starred
-  [M4UFree + YesMovies](https://fmhy.net/videopiracyguide#streaming-sites) in
+  [M4UFree + YesMovies](https://fmhy.net/video#streaming-sites) in
   Streaming. Both have huge libraries, fast 1080p, and have been around for over
   a decade.
 
 - Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100
-  SDXL and 100 Playground Gens.
+  SDXL and 100 Playground gens.
 
 - Starred
   [Simply Optimized](https://fmhy.net/storage#minecraft-optimization-mods) in
   Minecraft Optimization. Some prefer this to Fabulously Optimized.
 
-- Starred [SolidTorrents](https://fmhy.net/torrentpiracyguide#aggregators) in
+- Starred [SolidTorrents](https://fmhy.net/torrenting#aggregators) in
   Torrent Aggregators.
 
-- Starred [MrGamingStreams](https://fmhy.net/videopiracyguide#live-tv-sports) in
+- Starred [MrGamingStreams](https://fmhy.net/video#live-tv-sports) in
   Live TV. Fast streams, nice UI, no ads.
 
-- Starred [720pier](https://fmhy.net/videopiracyguide#sports-streaming) in
+- Starred [720pier](https://fmhy.net/video#sports-streaming) in
   Sports Streaming. Sport replay torrents.
 
 - Starred
   [Enhancer for YT](https://fmhy.net/social-media-tools#youtube-customization)
   in YouTube Customization. YouTube enhancement extension.
 
-- Starred [RatS](https://fmhy.net/videopiracyguide#tracking-discovery) in
+- Starred [RatS](https://fmhy.net/video#tracking-discovery) in
   Tracking / Discovery. Sync media ratings between sites.
 
 ---
@@ -104,8 +104,8 @@ in seeing all minor changes you can follow our
 - Unstarred bypass.vip and FastForward as they
   [don't work as well](https://i.imgur.com/EMRcqX6.png) as they used to.
 
-- Unstarred claude in chatbots as it requires email + phone number and doesn't
+- Unstarred Claude in chatbots as it requires email + phone number and doesn't
   give as good results as it used to.
 
-- Unstarred Harmonoid as its not longer being updated and has 100+ issues on
-  github.
+- Unstarred Harmonoid as it's no longer being updated and has 100+ issues on
+  GitHub.

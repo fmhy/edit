@@ -1,10 +1,13 @@
 <script setup lang="ts">
+import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import Announcement from './components/Announcement.vue'
 import Login from './components/Login.vue'
 import Sidebar from './components/SidebarCard.vue'
+import { useTheme } from './themes/themeHandler'
 
 const { isDark } = useData()
+const { setMode } = useTheme()
 
 const enableTransitions = () =>
   'startViewTransition' in document &&
@@ -13,6 +16,8 @@ const enableTransitions = () =>
 provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
   if (!enableTransitions()) {
     isDark.value = !isDark.value
+    // Sync with theme handler
+    setMode(isDark.value ? 'dark' : 'light')
     return
   }
 
@@ -27,6 +32,8 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
   // @ts-expect-error
   await document.startViewTransition(async () => {
     isDark.value = !isDark.value
+    // Sync with theme handler
+    setMode(isDark.value ? 'dark' : 'light')
     await nextTick()
   }).ready
 

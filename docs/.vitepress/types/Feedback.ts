@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -18,10 +18,10 @@ import z from 'zod'
 
 export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
-  type: z.enum(['bug', 'suggestion', 'appreciation', 'other']),
-  page: z.string().min(3).max(20),
+  type: z.enum(['suggestion', 'appreciation', 'other']),
+  page: z.string().min(3).max(25),
   // For heading based feedback
-  heading: z.string().min(3).max(20).optional()
+  heading: z.string().min(3).max(99).optional()
 })
 
 export interface Option {
@@ -34,8 +34,6 @@ export const feedbackOptions: Option[] = [
     label: '💡 I have a suggestion',
     value: 'suggestion'
   },
-
-  { label: '🐛 I want to report a website bug', value: 'bug' },
   {
     label: '👍 I appreciate the work',
     value: 'appreciation'

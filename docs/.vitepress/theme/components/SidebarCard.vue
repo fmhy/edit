@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import Field from './CardField.vue'
+import ColorPicker from './ColorPicker.vue'
+import ThemeSelector from './ThemeSelector.vue'
 import InputField from './InputField.vue'
 import ToggleStarred from './ToggleStarred.vue'
+import ToggleIndexes from './ToggleIndexes.vue'
 </script>
 
 <template>
@@ -16,7 +19,7 @@ import ToggleStarred from './ToggleStarred.vue'
     <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
     <Field icon="i-twemoji-repeat-button">Storage Links</Field>
     <Field icon="i-twemoji-star">Recommendations</Field>
-    <div class="align-center mb-4 flex justify-between">
+    <div class="align-center mb-4 mt-4 flex justify-between">
       <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Options</div>
     </div>
     <InputField id="toggle-starred" label="Toggle Starred">
@@ -24,17 +27,18 @@ import ToggleStarred from './ToggleStarred.vue'
         <ToggleStarred />
       </template>
     </InputField>
+    <InputField id="toggle-indexes" label="Toggle Indexes">
+      <template #display>
+        <ToggleIndexes />
+      </template>
+    </InputField>
 
-    <Field icon="i-lucide:github">
-      <a
-        href="https://github.com/fmhy/edit"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Star FMHY on GitHub"
-        class="text-primary underline font-bold"
-      >
-        Star on GitHub
-      </a>
-    </Field>
+    <div class="mt-4">
+      <ColorPicker />
+    </div>
+
+    <div class="mt-6 pt-6 border-t border-$vp-c-divider">
+      <ThemeSelector />
+    </div>
   </div>
 </template>

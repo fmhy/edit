@@ -35,10 +35,6 @@ function getPrompt() {
 }
 
 const messages = {
-  bug: [
-    "We're sorry to hear that!",
-    'Please try to be as specific as possible and provide us with the steps to reproduce the bug.'
-  ],
   suggestion: [
     "We're glad you want to share your ideas!",
     'Nix the fluff and just tell us what you think!',
@@ -73,10 +69,12 @@ const isDisabled = computed(() => {
 })
 
 const router = useRouter()
-// prettier-ignore
-const feedback = reactive<
-  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
->({
+
+const feedback = reactive<{
+  message: string
+  page: string
+  type?: FeedbackType['type']
+}>({
   page: router.route.path,
   message: ''
 })
@@ -138,151 +136,112 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   <template v-if="props.heading">
     <button
       @click="toggleCard()"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
+      class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
     >
       <span
-        :class="
-          isCardShown === false
-            ? `i-lucide:heart-handshake`
-            : `i-lucide:circle-x`
-        "
+        :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
       />
     </button>
   </template>
   <template v-else>
-    <button
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="toggleCard()"
+    <div
+      class="mt-2 p-4 border-2 border-solid bg-$vp-c-bg-alt border-$vp-c-divider rounded-xl col-span-3 transition-colors duration-250"
     >
-      <span
-        :class="
-          isCardShown === false
-            ? `i-lucide:heart-handshake mr-2`
-            : `i-lucide:circle-x mr-2`
-        "
-      />
-      <span>Send Feedback</span>
-    </button>
+      <div class="flex items-start md:items-center gap-3">
+        <div class="pt-1 md:pt-0">
+          <div class="w-10 h-10 rounded-full flex items-center justify-center bg-$vp-c-brand-3">
+            <span
+              :class="
+                isCardShown === false
+                  ? `i-lucide:mail w-6 h-6 text-white`
+                  : `i-lucide:mail-x w-6 h-6 text-white`
+              "
+            />
+          </div>
+        </div>
+        <div class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row">
+          <div class="flex-grow">
+            <div class="font-semibold text-$vp-c-text-1">Got feedback?</div>
+            <div class="text-sm text-$vp-c-text-2">We'd love to know what you think about this page.</div>
+          </div>
+          <div>
+            <button
+              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-white border-$vp-c-divider"
+              @click="toggleCard()"
+            >
+              Share Feedback
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   </template>
 
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
     >
       <Transition name="fade" mode="out-in">
-        <div v-if="!feedback.type" class="step">
-          <div>
-            <div>
-              <p class="desc">{{ prompt }}</p>
-              <p class="heading">
-                {{ helpfulText }}
-              </p>
-            </div>
-          </div>
+        <div v-if="!feedback.type">
+          <p class="heading">
+            {{ helpfulText }}
+          </p>
           <div class="flex flex-wrap gap-2">
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-              class="btn"
+                class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="handleSubmit(item.value)"
             >
               <span>{{ item.label }}</span>
             </button>
           </div>
         </div>
-        <div v-else-if="feedback.type && !success" class="step">
+        <div v-else-if="feedback.type && !success">
           <div>
-            <p class="desc">
-              {{ helpfulDescription }}
-            </p>
-            <div>
-              <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
-              <button
-                style="margin-left: 0.5rem"
-                class="btn"
-                @click="feedback.type = undefined"
-              >
-                <span class="i-lucide:arrow-left-from-line">close</span>
-              </button>
-            </div>
+            <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
+            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
           </div>
-          <p class="heading">
-            {{ message }}
-          </p>
+          <p class="heading" v-text="message"></p>
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
-            <details>
-              <summary>
-                <span class="i-lucide:shield-alert bg-cerise-400 mb-1 ml-1" />
-                Do not submit any of the following:
-              </summary>
-              <strong>🕹️ Emulators</strong>
-              <p class="desc">
-                They're already on the
-                <a
-                  class="text-primary text-underline font-bold"
-                  href="https://emulation.gametechwiki.com/index.php/Main_Page"
-                >
-                  Game Tech Wiki.
-                </a>
-              </p>
-              <strong>🔻 Leeches</strong>
-              <p class="desc">
-                They're already on the
-                <a
-                  class="text-primary text-underline font-bold"
-                  href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
-                >
-                  File Hosting Wiki.
-                </a>
-              </p>
-              <strong>🐧 Distros</strong>
-              <p class="desc">
-                They're already on
-                <a
-                  class="text-primary text-underline font-bold"
-                  href="https://distrowatch.com/"
-                >
-                  DistroWatch.
-                </a>
-              </p>
-              <strong>🎲 Mining / Betting Sites</strong>
-              <p class="desc">
-                Don't post anything related to betting, mining, BINs, CCs, etc.
-              </p>
-              <strong>🎮 Multiplayer Game Hacks</strong>
-              <p class="desc">
-                Don't post any hacks/exploits that give unfair advantages in
-                multiplayer games.
-              </p>
-            </details>
+            <p>Please read the <a href="/other/contributing">Contribute Guide</a> before submitting your feedback!</p>
           </div>
           <textarea
             v-model="feedback.message"
             autofocus
-            class="input"
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
             placeholder="What a lovely wiki!"
           />
           <p class="desc mb-2">
-            If you want a reply to your feedback, feel free to mention a contact
-            in the message or join our
+            Add your Discord handle if you would like a response, or if we need
+            more information from you, otherwise join our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://rentry.co/FMHY-Invite/"
+              href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"
             >
               Discord.
             </a>
           </p>
-          <button
-            type="submit"
-            class="btn btn-primary"
-            :disabled="isDisabled"
-            @click="handleSubmit()"
-          >
-            Send Feedback 📩
-          </button>
+          <div class="flex flex-row gap-2">
+            <button
+              class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+              @click="feedback.type = undefined"
+            >
+              <span class="i-lucide:panel-left-close">close</span>
+            </button>
+            <button
+              type="submit"
+              class="btn btn-primary"
+              :disabled="isDisabled"
+              @click="handleSubmit()"
+              :style="isDisabled ? {} : { 'background-color': 'var(--vp-button-brand-bg)', 'border-color': 'var(--vp-button-brand-border)', color: 'var(--vp-button-brand-text)' }"
+            >
+              Send Feedback 📩
+            </button>
+          </div>
         </div>
-        <div v-else class="step">
+        <div v-else>
           <p class="heading">Thanks for your feedback!</p>
         </div>
       </Transition>
@@ -291,10 +250,6 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </template>
 
 <style scoped lang="css">
-.step > * + * {
-  margin-top: 1rem;
-}
-
 .btn {
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
@@ -322,29 +277,19 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: var(--vp-c-brand);
-  border-color: var(--vp-c-brand);
+  color: var(--vp-button-brand-text);
+  background-color: var(--vp-button-brand-bg);
+  border-color: var(--vp-button-brand-border);
 }
 
 .btn-primary:hover {
-  background-color: var(--vp-c-brand-darker);
-  border-color: var(--vp-c-brand-darker);
+  background-color: var(--vp-button-brand-hover-bg);
+  border-color: var(--vp-button-brand-hover-border);
 }
 
 .heading {
   font-size: 1.2rem;
   font-weight: 700;
-}
-
-.input {
-  background-color: var(--vp-c-bg-alt);
-  color: var(--vp-c-text-2);
-  width: 100%;
-  height: 100px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  padding: 0.375rem 0.75rem;
 }
 
 .desc {

@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -15,6 +15,26 @@
  */
 /* eslint-disable ts/consistent-type-imports */
 declare module '*.vue' {
+  const component: import('vue').Component
+  export default component
+}
+
+
+declare module 'vitepress/dist/client/theme-default/composables/nav' {
+  export function useNav(): {
+    isScreenOpen: import('vue').Ref<boolean>
+    openScreen: () => void
+    closeScreen: () => void
+    toggleScreen: () => void
+  }
+}
+
+declare module 'vitepress/dist/client/theme-default/components/VPNavBar.vue' {
+  const component: import('vue').Component
+  export default component
+}
+
+declare module 'vitepress/dist/client/theme-default/components/VPNavScreen.vue' {
   const component: import('vue').Component
   export default component
 }

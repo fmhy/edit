@@ -3,7 +3,7 @@ title: Monthly Updates [April]
 description: April 2023 updates.
 date: 2023-04-01
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -12,7 +12,7 @@ footer: true
 <Post authors="nbats"/>
 
 :::info
-These update threads only contains major updates. If you're interested
+These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
@@ -25,16 +25,16 @@ in seeing all minor changes you can follow our
   section.
 
 - Added Optimization, Tabletop, and Git Gud subsections in
-  [Gaming](/gamingpiracyguide/#gaming-tools).
+  [Gaming](/gaming/#gaming-tools).
 
-- Split [Language Learning](/edupiracyguide/#language-learning) into
+- Split [Language Learning](/educational/#language-learning) into
   subsections.
 
-- Split [Shopping](/miscguide/#shopping) into subsections.
+- Split [Shopping](/misc/#shopping) into subsections.
 
-- Split the learning portion of [Dev Tools](/devtools/) into subsections.
+- Split the learning portion of [Dev Tools](/developer-tools/) into subsections.
 
-- Added Art Education section to [Image Tools](/img-tools/#art-education).
+- Added Art Education section to [Image Tools](/image-tools/#art-education).
 
 - Added NoFap section to NSFW to save souls.
 
@@ -44,28 +44,28 @@ in seeing all minor changes you can follow our
 
 ### Stars Added ⭐
 
-- Starred [ChatPDF](/ai/#ai-chatbots) in AI chatbots. AI that turns any book
+- Starred [ChatPDF](/ai/#ai-chatbots) in AI Chatbots. AI that turns any book
   into a chatbot.
 
-- Starred [Foogle](/videopiracyguide/#drives--directories) in Video Download.
-  Fast, single click video downloads.
+- Starred [Foogle](/video/#drives--directories) in Video Download.
+  Fast, single-click video downloads.
 
-- Starred [JustChill](/videopiracyguide/#dedicated-hosts) in Streaming Sites.
+- Starred [JustChill](/video/#dedicated-hosts) in Streaming Sites.
   Nice UI, fast 1080p.
 
-- Starred [movie-web](/videopiracyguide/#multi-hosts) Streaming Sites. Nice UI,
+- Starred [movie-web](/video/#multi-hosts) in Streaming Sites. Nice UI,
   fast 1080p.
 
-- Starred [Primewire](/videopiracyguide/#multi-hosts) in Streaming Sites.
+- Starred [Primewire](/video/#multi-hosts) in Streaming Sites.
   Primewire has started adding links to pirated content again.
 
 - Starred [Wotaku](https://wotaku.pages.dev/) in Indexes. Awesome Japanese
   piracy index.
 
-- Starred [RLSLOAD](/downloadpiracyguide/#software-sites) in software sites.
-  Software site with single click downloads.
+- Starred [RLSLOAD](/downloading/#software-sites) in Software Sites.
+  Software site with single-click downloads.
 
-- Starred [Flameshot](/img-tools/#screenshot-tools) in Screenshot Tools. Some
+- Starred [Flameshot](/image-tools/#screenshot-tools) in Screenshot Tools. Some
   people like this more than ShareX.
 
 ---
@@ -79,4 +79,4 @@ in seeing all minor changes you can follow our
   adblock defenders are no longer working for many users.
 
 - Removed anti-anti-copy userscript. Script enables F7 "Caret Browsing mode"
-  without telling the user its been enabled, or how to turn it off.
+  without telling the user it's been enabled, or how to turn it off.

@@ -3,7 +3,7 @@ title: Internet Archive Breach
 description: Internet Archive was hacked
 date: 2024-10-09
 next: false
-aside: right
+
 prev: false
 
 footer: true
@@ -15,4 +15,4 @@ footer: true
 
 * https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/
 
-* https://haveibeenpwned.com/ 
+* https://haveibeenpwned.com/
