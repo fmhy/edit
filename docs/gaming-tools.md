@@ -150,7 +150,6 @@
 * [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
-* [⁠UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - GameMaker Modding Tool
 * [Thunderstore](https://thunderstore.io/) - Unity Game Mods / [Discord](https://discord.thunderstore.io/)
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) / [Discord](https://discord.thunderstore.io/) - Thunderstore / BepInEx Unity Mod Managers
 * [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
@@ -784,41 +783,6 @@
 
 ***
 
-# ► Undertale / Deltarune
-
-* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/) - Main Gameplay & Lore Databases
-* ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
-* ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)** - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
-* ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
-* ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
-* [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
-* [Official Undertale Tumblr](https://undertale.tumblr.com/) / [Official Q&A](http://undertaleqa.tumblr.com/) - Archived Developer Posts & Insights
-* [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - All Dialogue in Undertale and Deltarune
-* [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Complete Game Dialogue Spreadsheet
-* [Under-Lore](https://under-lore.tumblr.com/) - Monster Biology and Narrative Logic Analysis
-* [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
-* [Steam Undertale Community](https://store.steampowered.com/app/391540/Undertale/) - Discussion Boards & Guides
-* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
-* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
-* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
-
-***
-
-## ▷ Modding & Fan Content
-
-* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
-
-* ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Essential Datamining / Modding Tool
-* ⭐ **[CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk)** - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [r/Unitale](https://www.reddit.com/r/Unitale/)
-* ⭐ **[Undertale GameBanana](https://gamebanana.com/games/5506)**, [Nexus Undertale](https://www.nexusmods.com/games/undertale) or [Nexus Deltarune](https://www.nexusmods.com/games/deltarune) - Mod Repositories
-* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** - Online Multiplayer Fangame / Deltarune Elements
-* ⭐ **[Undertale AU Wiki](https://undertale-au.fandom.com/)** - AU Documentation / Multiverse Content
-* [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
-* [Create Your Kris (CYK)](https://github.com/RhenaudTheLukark/CreateYourKris) - CYF Mod for DELTARUNE-Like Encounters
-* [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
-
-***
-
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
@@ -1030,6 +994,23 @@
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
 * [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides
 * RimWorld Infographs - [Basic](https://mortalsmurph.com/?page_id=184) / [Anomaly DLC](http://mortalsmurph.com/?page_id=50)
+
+***
+
+## ▷ Undertale / Deltarune Tools
+
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases
+* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
+* ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
+* [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
+* [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue), [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump
+* [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
+* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
+* [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris)) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
+* [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
+* [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
 
 ***
 
