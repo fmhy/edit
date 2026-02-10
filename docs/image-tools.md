@@ -102,7 +102,7 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[Mosh](https://moshpro.app/)**, [Efecto](https://efecto.app/), [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
+* ⭐ **[Mosh](https://moshpro.app/)**, **[Efecto](https://efecto.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
@@ -564,10 +564,10 @@
 
 ## ▷ 3D Modeling Tools
 
+* ⭐ **[Efecto](https://efecto.app/)** - 3D Model Visual Effects
 * [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
-* [Efecto](https://efecto.app/) - 3D Model Visual Effects
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking

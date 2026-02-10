@@ -15,7 +15,7 @@
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
-* ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/WkyjpA3Ua9)
+* ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Discord](https://discord.com/invite/dkKxZGjyF8)
@@ -290,6 +290,7 @@
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
+* [⁠Romifleur](https://github.com/4Sitam4/Romifleur/) - ROM Downloader / Manager
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
 * [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
 * [Hash Tool](https://www.romhacking.net/hash/) - ROM Patch Compatibility Checker
@@ -405,7 +406,6 @@
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
-* [⁠ToxicGame](https://toxicgame.net/) - ROMs / PS3
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
 * [PSXROMs](https://psxroms.pro/) - ROMs / PS2 / PSP
 * [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
@@ -755,9 +755,9 @@
 
 ***
 
+* ⭐ **[GN-Math](https://gn-math.dev/)**, [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [VAPOR](https://vapor.my/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
-* [GN-Math](https://gn-math.dev/), [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games
 * [UBG365](https://ubg365.github.io/) - Browser Games
@@ -944,6 +944,7 @@
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
 * [Anti Matter Dimensions](https://ivark.github.io/) - Anti Matter Idle Game
+* [Antimatter Dimensions](https://ivark.github.io/) - Antimatter Idle Game / [Android](https://play.google.com/store/apps/details?id=kajfosz.antimatterdimensions) / [Discord](https://discord.gg/AntimatterDimensions)
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
 * [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
 * [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game

@@ -68,7 +68,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
-* uTorrent - Considered [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
+* uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware

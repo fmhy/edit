@@ -91,7 +91,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
-* **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* **Ebook Readers: [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 

@@ -287,6 +287,7 @@
 * [Plex](https://www.plex.tv/) - Media Server
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
+* [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Media Server
@@ -396,7 +397,7 @@
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Subtitle Generator](https://github.com/tmoroney/auto-subs) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
 * [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
@@ -446,6 +447,7 @@
 
 ## ▷ Effects / Enhancements
 
+* ⭐ **[Efecto](https://efecto.app/)** or [effect.app](https://effect.app/) - Online Video Effects
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
 * [Gyroflow](https://gyroflow.xyz/) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
@@ -454,7 +456,6 @@
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
-* [Efecto](https://efecto.app/) or [effect.app](https://effect.app/) - Online Video Effects
 
 ***
 

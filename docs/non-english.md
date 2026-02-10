@@ -375,7 +375,6 @@
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/K4rDRa5WAS)
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
-* [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
 * [mrkni](https://mrkni.tv/) - Movies / TV / Anime
 * [mrkaj](https://mrkaj.si/) - Movies / TV / Anime / Geoblocked
@@ -1607,7 +1606,6 @@
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
-* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Requires Sign-Up / [Telegram](https://t.me/playdedelink)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [ModoCine](https://modocine.com/) - Movies / TV

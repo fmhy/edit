@@ -303,6 +303,7 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
+* [Forgix](https://github.com/PacifistMC/Forgix) - Merge Minecraft Mod Loaders
 
 ***
 
@@ -783,7 +784,6 @@
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [Stylify Me](http://stylifyme.com/) - Extract Webpage Colors
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
-* [uiGradients](https://uigradients.com/) - Hex Gradients
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) or [Colour Contrast](https://colourcontrast.cc/) - Background / Text Contrast Checkers

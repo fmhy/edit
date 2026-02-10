@@ -324,7 +324,7 @@
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
-* [Orangefox](https://orangefox.download/), [TWRP Root](https://twrp.me/) / [Telegram](https://t.me/samsung_twrp_root) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
+* [Orangefox](https://orangefox.download/), [twrp](https://twrp.me/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [⁠Rezygisk](https://github.com/PerformanC/ReZygisk) - Zygote Injection Engine 
 * [ReLSPosed](https://github.com/ThePedroo/ReLSPosed) or [LSPosed](https://github.com/JingMatrix/LSPosed) - Module-Based Customization Framework
@@ -582,7 +582,7 @@
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Logseq](https://logseq.com/) - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
-* [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
+* [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [Read Aloud AI](https://readaloudai.com/android) - Text to Speech / [Discord](https://readaloudai.com/discord)
@@ -873,7 +873,7 @@
 
 ***
 
-* ⭐ **[Metrolist](https://mostafaalagamy.github.io/)** / [Discord](https://discord.com/invite/rJwDxXsf8c) / [GitHub](https://github.com/mostafaalagamy/metrolist) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://mostafaalagamy.github.io/)** / [Discord](https://discord.com/invite/rJwDxXsf8c) / [GitHub](https://github.com/MetrolistGroup/Metrolist) - YouTube Music Players / Innertune Forks / Audio Players
 * ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
@@ -1023,7 +1023,6 @@
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
 * [Tubular](https://github.com/polymorphicshade/Tubular) - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
-* [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) or [⁠SkyTubeLegacy](https://github.com/SkyTubeTeam/SkyTubeLegacy) - YouTube Player
 * [BravePipe](https://github.com/bravepipeproject/BravePipe) - Fork with YT, Rumble, Bitchute, ReturnYTDislike and SponsorBlock

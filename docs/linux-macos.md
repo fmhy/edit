@@ -640,7 +640,6 @@
 * [MacBB](https://macbb.org/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
 * [Haxmac](https://haxmac.cc/)
-* [⁠ToxicGame](https://toxicgame.net/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacKed](https://macked.app/)
 * [WebCatalog](https://webcatalog.io/) - Requires Sign-Up
@@ -702,7 +701,6 @@
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
-* [⁠ToxicGame](https://toxicgame.net/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [AppsTorrent](https://appstorrent.ru/games/) - Mac Games
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
