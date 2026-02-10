@@ -999,8 +999,8 @@
 
 ## ▷ Undertale / Deltarune Tools
 
-* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue), [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump
