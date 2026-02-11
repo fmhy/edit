@@ -97,7 +97,7 @@
 * ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
 * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
-* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt)
+* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up
 * ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients

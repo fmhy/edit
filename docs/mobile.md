@@ -181,7 +181,7 @@
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher / [Telegram](https://t.me/waenhancer)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
-* [PurrfectSnap](https://github.com/particle-box/PurrfectSnap) (Root/LSPosed Recommended), [FouadMODS](https://t.me/FouadMODS) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
+* [PurrfectSnap](https://purrfectsnap.vercel.app) / [GitHub](https://github.com/particle-box/PurrfectSnap) (Root/LSPosed Recommended), [FouadMODS](https://t.me/FouadMODS) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
 
 ***
 

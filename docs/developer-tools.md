@@ -616,7 +616,7 @@
 
 ## ▷ Java / Kotlin
 
-* 🌐 **[Awesome Java](hhttps://github.com/akullpp/awesome-java)** - Java Resources
+* 🌐 **[Awesome Java](https://github.com/akullpp/awesome-java)** - Java Resources
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor / [GUI](https://github.com/Col-E/Recaf-Launcher/)
