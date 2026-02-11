@@ -532,9 +532,9 @@
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
 * [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results 
 * [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
-* [⁠OpenRocket](https://openrocket.info/) - Model Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
-* [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
+* [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
+* [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
 * [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
