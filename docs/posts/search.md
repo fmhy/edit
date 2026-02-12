@@ -11,12 +11,6 @@ footer: true
 
 <Post authors="nbats" />
 
-### [FMHY-Search](https://search.fmhy.bid/)
-
-Search built with Go
-
----
-
 ### [Streamlit Search](https://fmhy-search.streamlit.app/)
 
 Search engine hosted on Streamlit

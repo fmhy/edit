@@ -29,7 +29,7 @@
 * [⁠LongCat](https://longcat.chat/) - LongCat-Flash-Chat / Requires Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
 * [⁠Cohere](https://dashboard.cohere.com/playground/chat) - Command-A-Reasoning / 1000 Monthly / Requires Sign-Up / [Discord](https://discord.com/invite/co-mmunity)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 2 Model / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
-* [⁠StepFun](https://stepfun.ai/) - Step 3 / DeepSeek R1
+* [⁠StepFun](https://stepfun.ai/) - Step 3.5 Flash / DeepSeek R1
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Requires Sign-Up
@@ -45,7 +45,7 @@
 * ⭐ **[⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat)** - GPT-5.2 / Gemini 3 Pro / Claude Sonnet 4.5 / Multiple Chatbots
 * [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://beta.ish.chat/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / Unlimited Ad-Based / Github Login / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
-* [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Kimi K2 / Multiple Models / No Sign-Up
+* [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Kimi K2.5 / Mistral Large 3 / Multiple Models / No Sign-Up
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / DeepSeek V3.2 / Grok 4.1 Fast (non-reasoning) / Reset Limits w/ Temp Mail
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM 4.7 / Qwen3 235B / Requires Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/) - GLM -4.7 / Kimi K2.5 / Multiple Generators / No Sign-Up
@@ -234,6 +234,10 @@
 * [WebDev Arena](https://arena.ai/leaderboard/webdev) - Coding AI Leaderboard / Benchmarks
 * [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
 * [⁠Vals AI](https://www.vals.ai/) - Coding AI Leaderboard / Benchmarks
+
+***
+
+# ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
 
 ***
 

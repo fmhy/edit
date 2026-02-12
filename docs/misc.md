@@ -694,6 +694,7 @@
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
+* [Nutrient Sorter](https://michaelf314.github.io/nutrient-sorter/) - Vegan Food Nutrient Sorter
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
 * [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
@@ -988,6 +989,11 @@
 
 # ► Shopping
 
+
+* **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
+
+***
+
 * 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - Monero-Friendly Online Shop Index
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
@@ -1005,12 +1011,19 @@
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
 * [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [⁠Carryology](https://www.carryology.com/) - Baggage, Luggage and Everyday Carry Reviews
+* [Best Damn EDC](https://www.youtube.com/channel/UCK5R1BsMtGd4DtI5uGQRHIg) - Everyday Carry Reviews / [Blog](https://bestdamnedc.com/)
+* [⁠PackHacker](https://www.packhacker.com/) - Everyday Carry and Travel Gear Reviews / [YouTube](https://www.youtube.com/channel/UC_rI3y1DzDULTr-UIvshiwg)
 * [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - Outdoor Gear Comparisons / Reviews
-* [⁠Everyday Commentary](https://www.everydaycommentary.com/best-of) - Flashlight + Knife Reviews / [YouTube](https://www.youtube.com/@EverydayCommentary) 
+* [⁠Everyday Commentary](https://www.everydaycommentary.com/best-of) - Flashlight and Knife Reviews / [YouTube](https://www.youtube.com/@EverydayCommentary) 
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
+* [⁠The Gentleman Stationer](https://www.gentlemanstationer.com/resources) - Writing Instrument and Stationary Reviews 
+* [Unsharpen](https://www.youtube.com/@unsharpen) - Mechanical Pencil Reviews / [Blog](https://unsharpen.com/)
 * [JetPens Blog](https://www.jetpens.com/blog) - Mechanical Pen / Pencil Guides / Shopping
 * [⁠Knockology](https://forum.knockology.com/) or [r/mechanicalpencils](https://www.reddit.com/r/mechanicalpencils/) / [Wiki](https://www.reddit.com/r/mechanicalpencils/wiki/index/) / [Discord](https://discord.com/invite/2zZfsax) - Mechanical Pencil Communities
+* [⁠Pen Addict](https://www.penaddict.com/) - Mechanical Pencil and Stationary Reviews
+* [⁠UK Fountain Pens](https://ukfountainpens.com/) - Fountain Pen Reviews
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
@@ -1049,7 +1062,7 @@
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
-* [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
+* [PSU Tier List](https://psutierlist.org/) - PSU Buying Guide / [Document](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) / [Discord](https://discord.gg/qkrJy3hDa8)
 * [4K TV Guide](https://www.reddit.com/r/4kTV/comments/1mxcuv7/) - 4K TV Buying Guide
 * [⁠r/HTBuyingGuides](https://www.reddit.com/r/HTBuyingGuides/) - Home Theater Buying Guides 
 * [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides

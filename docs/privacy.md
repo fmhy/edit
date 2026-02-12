@@ -313,7 +313,7 @@
 
 ## ▷ Data Breach Monitoring
 
-* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)**  / [GitHub](https://github.com/HaveIBeenPwned) or * [F-Secure](https://www.f-secure.com/en/identity-theft-checker) / [X](https://x.com/FSecure) - Monitor Email Breaches
+* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** / [GitHub](https://github.com/HaveIBeenPwned) or [F-Secure](https://www.f-secure.com/en/identity-theft-checker) / [X](https://x.com/FSecure) - Monitor Email Breaches
 * ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - Password Breach Check
 * [Mozilla Monitor](https://monitor.mozilla.org/) - Data Breach Check / Requires Sign-Up / [GitHub](https://github.com/mozilla/blurts-server)
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) / [Discord](https://discord.gg/8Hzbrnkr7E) / [GitHub](https://github.com/trufflesecurity/trufflehog) or [LeakPeek](https://leakpeek.com/) / [Discord](https://discord.com/invite/mNxhSRWKwq) - Data Breach Search Engines
