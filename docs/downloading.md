@@ -112,7 +112,7 @@
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
-
+* [kuyhaa](https://www.kuyhaa.me) - Software
 ***
 
 ## ▷ FOSS Sites
