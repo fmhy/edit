@@ -34,20 +34,24 @@ const openLink = () => {
           <div class="i-carbon:information-filled text-primary" />
           Base64 Encoded Link
         </h2>
-        <p class="mb-4 text-text-2">
+        <p class="mb-4 text-text-1">
           The link you clicked leads to a Base64 encoded string.
         </p>
-        <p class="mb-2 text-text-2">
+        <p class="mb-2 text-text-1">
           To decode it, you can use:
         </p>
-        <ul class="list-disc list-inside mb-6 space-y-2 text-text-2">
+        <ul class="list-disc list-inside mb-4 space-y-2 text-text-1">
           <li>
-            Online tools like <a href="https://www.base64decode.org/" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">base64decode.org</a>
+            An online tool: <a href="https://www.base64decode.org/" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">Base64 Decode</a>
           </li>
           <li>
-            Userscript: <a href="https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">FMHY Base64 Auto Decoder</a>
+            A userscript: <a href="https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">FMHY Base64 Auto Decoder</a>
           </li>
         </ul>
+        
+        <p class="mb-6 text-sm text-text-2">
+          For more options: <a href="/text-tools#encode-decode" target="_blank" class="text-primary hover:underline font-medium">Base64 Decoders</a>
+        </p>
         
         <div class="flex items-center gap-2 mb-4">
           <input 
@@ -56,7 +60,7 @@ const openLink = () => {
             v-model="dontShowAgain"
             class="rounded border-border bg-bg-input text-brand focus:ring-brand"
           >
-          <label for="dont-show" class="text-sm text-text-2 select-none">Don't show again</label>
+          <label for="dont-show" class="text-sm text-text-1 select-none">Don't show again</label>
         </div>
 
         <div class="flex justify-end gap-3">
@@ -68,7 +72,7 @@ const openLink = () => {
           </button>
           <button
             @click="openLink"
-            class="px-4 py-2 bg-brand text-white rounded-lg hover:bg-brand-dark transition-colors font-medium"
+            class="px-4 py-2 border-2 border-brand text-brand bg-[var(--vp-c-bg-alt)] hover:bg-brand hover:text-white rounded-lg transition-colors font-medium"
           >
             Open Link
           </button>
