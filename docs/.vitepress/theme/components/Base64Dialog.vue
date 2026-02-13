@@ -30,17 +30,17 @@ const openLink = () => {
         style="background-color: var(--vp-c-bg); border: 1px solid var(--vp-c-divider);"
         @click.stop
       >
-        <h2 class="text-xl font-bold mb-4 flex items-center gap-2 text-white">
+        <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
           <div class="i-carbon:information-filled text-primary" />
           Base64 Encoded Link
         </h2>
-        <p class="mb-4 text-white">
+        <p class="mb-4 text-text-2">
           The link you clicked leads to a Base64 encoded string.
         </p>
-        <p class="mb-2 text-white">
+        <p class="mb-2 text-text-2">
           To decode it, you can use:
         </p>
-        <ul class="list-disc list-inside mb-6 space-y-2 text-white">
+        <ul class="list-disc list-inside mb-6 space-y-2 text-text-2">
           <li>
             Online tools like <a href="https://www.base64decode.org/" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">base64decode.org</a>
           </li>
@@ -56,7 +56,7 @@ const openLink = () => {
             v-model="dontShowAgain"
             class="rounded border-border bg-bg-input text-brand focus:ring-brand"
           >
-          <label for="dont-show" class="text-sm text-white select-none">Don't show again</label>
+          <label for="dont-show" class="text-sm text-text-2 select-none">Don't show again</label>
         </div>
 
         <div class="flex justify-end gap-3">
