@@ -45,7 +45,7 @@ const openLink = () => {
             An online tool: <a href="https://www.base64decode.org/" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">Base64 Decode</a>
           </li>
           <li>
-            A userscript: <a href="https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">FMHY Base64 Auto Decoder</a>
+            A userscript: <a href="https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder" target="_blank" rel="noreferrer" class="text-primary hover:underline font-medium">FMHY Base64 Auto Decoder</a> (using a <a href="/internet-tools#userscripts" target="_blank" class="text-primary hover:underline font-medium">userscript manager</a>)
           </li>
         </ul>
         
