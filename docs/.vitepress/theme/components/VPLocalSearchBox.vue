@@ -420,6 +420,12 @@ async function mergeNearbyMarks() {
     while (i < marks.length - 1) {
       const currentMark = marks[i]
       const nextMark = marks[i + 1]
+
+      // Ensure they are siblings to safely merge
+      if (currentMark.parentNode !== nextMark.parentNode) {
+        i++
+        continue
+      }
       
       // Calculate distance between marks
       const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
@@ -431,8 +437,17 @@ async function mergeNearbyMarks() {
       
       // Merge if they're close (within 20px) and on the same line
       if (distance >= 0 && distance < 20 && onSameLine) {
-        // Create a merged mark element
-        const textBetween = getTextBetweenMarks(currentMark, nextMark)
+        // Collect text between and remove intermediate nodes
+        let textBetween = ''
+        let node = currentMark.nextSibling
+        
+        while (node && node !== nextMark) {
+          textBetween += node.textContent || ''
+          const next = node.nextSibling
+          node.parentNode?.removeChild(node)
+          node = next
+        }
+
         const mergedText = currentMark.textContent + textBetween + nextMark.textContent
         currentMark.textContent = mergedText
         
@@ -444,27 +459,6 @@ async function mergeNearbyMarks() {
       }
     }
   }
-}
-
-/**
- * Extracts the plain text content between two mark elements.
- * Used when merging adjacent highlights to preserve the spacing/text between them.
- */
-function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
-  const parent = mark1.parentNode
-  if (!parent) return ''
-  
-  let text = ''
-  let node: Node | null = mark1.nextSibling
-  
-  while (node && node !== mark2) {
-    if (node.nodeType === Node.TEXT_NODE) {
-      text += node.textContent || ''
-    }
-    node = node.nextSibling
-  }
-  
-  return text
 }
 
 /**
