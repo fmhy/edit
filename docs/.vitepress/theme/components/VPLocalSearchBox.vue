@@ -638,6 +638,18 @@ function scrollToSelectedResult() {
 
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
+
+  if (resultsEl.value && document.activeElement === resultsEl.value && selectedIndex.value === 0) {
+    selectedIndex.value = -1
+    searchInput.value?.focus()
+    return
+  }
+
+  if (resultsEl.value && document.activeElement === searchInput.value) {
+    resultsEl.value.focus()
+    // Fall through to wrap to bottom
+  }
+
   selectedIndex.value--
   if (selectedIndex.value < 0) {
     selectedIndex.value = results.value.length - 1
@@ -648,6 +660,12 @@ onKeyStroke('ArrowUp', (event) => {
 
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
+
+  if (resultsEl.value && document.activeElement === searchInput.value) {
+    resultsEl.value.focus()
+    // Fall through to select first item (from -1 to 0)
+  }
+
   selectedIndex.value++
   if (selectedIndex.value >= results.value.length) {
     selectedIndex.value = 0
@@ -687,29 +705,37 @@ onKeyStroke('Escape', () => {
  */
 onKeyStroke('ArrowLeft', (event) => {
   // Navigate to previous match - only when viewing detailed excerpts with highlights
-  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
-    if (event.target === searchInput.value) {
-      if (event.shiftKey) return
-      const { selectionStart, selectionEnd } = searchInput.value!
-      // Only hijack if cursor is collapsed at the start
-      if (selectionStart !== 0 || selectionEnd !== 0) return
+  const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+    if (document.activeElement === searchInput.value) {
+      // Only hijack if modifier is pressed
+      if (!event.altKey && !event.ctrlKey) return
     }
     event.preventDefault()
-    prevMatch(selectedIndex.value)
+    prevMatch(targetIndex)
   }
 })
 
 onKeyStroke('ArrowRight', (event) => {
   // Navigate to next match - only when viewing detailed excerpts with highlights
-  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
-    if (event.target === searchInput.value) {
+  const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+    if (document.activeElement === searchInput.value) {
       if (event.shiftKey) return
-      const { selectionStart, selectionEnd, value } = searchInput.value!
-      // Only hijack if cursor is collapsed at the end
-      if (selectionStart !== value.length || selectionEnd !== value.length) return
+      if (event.altKey || event.ctrlKey) {
+        // Allow modifier to force nav
+      } else {
+        // Shortcut: If at end of input, go to next match AND focus results
+        const { selectionStart, selectionEnd, value } = searchInput.value!
+        if (selectionStart !== value.length || selectionEnd !== value.length) return
+        
+        // Use the target index (0) if we were at -1
+        if (selectedIndex.value === -1) selectedIndex.value = 0
+        resultsEl.value?.focus()
+      }
     }
     event.preventDefault()
-    nextMatch(selectedIndex.value)
+    nextMatch(targetIndex) // Use targetIndex as we might have just updated selectedIndex from -1 to 0 or kept valid index
   }
 })
 
@@ -891,6 +917,7 @@ function onMouseMove(e: MouseEvent) {
           :role="results?.length ? 'listbox' : undefined"
           :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
           class="results"
+          tabindex="-1"
           @mousemove="onMouseMove"
         >
           <li
@@ -1237,6 +1264,7 @@ function onMouseMove(e: MouseEvent) {
 .results {
   display: flex;
   flex-direction: column;
+  outline: none;
   gap: 6px;
   overflow-x: hidden;
   overflow-y: auto;
