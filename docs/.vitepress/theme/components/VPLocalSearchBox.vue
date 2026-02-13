@@ -1341,12 +1341,17 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .excerpt {
-  opacity: 50%;
   pointer-events: none;
   max-height: 140px;
   overflow: hidden;
   position: relative;
   margin-top: 4px;
+}
+
+@media (hover: hover) {
+  .excerpt {
+    opacity: 0.5;
+  }
 }
 
 .result.selected .excerpt {
