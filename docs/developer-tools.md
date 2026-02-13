@@ -289,7 +289,7 @@
 
 # ► Game Dev Tools
 
-* 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://en.wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
+* 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
