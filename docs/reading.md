@@ -45,7 +45,7 @@
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
 * ⭐ **[Unglue.it](https://unglue.it/)**
-* [Wikisource](https://en.wikisource.org)
+* [Wikisource](https://wikisource.org)
 * [Open Library](https://openlibrary.org/)
 * [OpenChapter](https://openchapter.io/)
 * [FreeEditorial](https://www.freeditorial.com/en/) / [Spanish](https://www.freeditorial.com)
@@ -253,7 +253,7 @@
 
 * ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * ⭐ **[Short Stories](https://short-stories.co/)**
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Fork Read](https://forkread.com/) - Publish Short Stories
 * [Booksie](https://www.booksie.com/) - Short Stories
@@ -611,7 +611,7 @@
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - TextBooks
-* [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
+* [Wikibooks](https://wikibooks.org/) - Open-Content Texbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 
@@ -674,7 +674,7 @@
 
 ## ▷ Quotes / Poetry
 
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Wikiquote](https://wikiquote.org)**
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
 * [⁠Eudaimonia](https://www.eudaimonia.wiki/) - Collaborative Book of Wisdom / Quotes
 * [BrainyQuote](https://www.brainyquote.com/)
