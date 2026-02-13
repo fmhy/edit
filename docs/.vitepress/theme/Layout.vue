@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
+import { ref, onMounted, onUnmounted, provide, nextTick } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import Announcement from './components/Announcement.vue'
 import Sidebar from './components/SidebarCard.vue'
+import Base64Dialog from './components/Base64Dialog.vue'
 import { useTheme } from './themes/themeHandler'
 
 const { isDark } = useData()
@@ -28,7 +30,6 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     )}px at ${x}px ${y}px)`
   ]
 
-  // @ts-expect-error
   await document.startViewTransition(async () => {
     isDark.value = !isDark.value
     // Sync with theme handler
@@ -47,6 +48,40 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 })
 
 const { Layout } = DefaultTheme
+const showBase64Dialog = ref(false)
+const formattedUrl = ref('')
+
+const handleClick = (e: MouseEvent) => {
+  // Check if the clicked element is a link or within a link
+  const target = e.target as HTMLElement
+  const link = target.closest ? target.closest('a') : null
+  
+  if (link) {
+    const href = (link as HTMLAnchorElement).href
+    
+    if (typeof href === 'string') {
+      if (href.includes('https://rentry.co/FMHYB64') || href.startsWith('https://rentry.co/FMHYB64')) {
+        const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
+        if (dontShow === 'true') {
+          return // Let the link click proceed normally
+        }
+        
+        e.preventDefault()
+        e.stopPropagation()
+        formattedUrl.value = href
+        showBase64Dialog.value = true
+      }
+    }
+  }
+}
+
+onMounted(() => {
+  window.addEventListener('click', handleClick, { capture: true })
+})
+
+onUnmounted(() => {
+  window.removeEventListener('click', handleClick, { capture: true })
+})
 </script>
 
 <template>
@@ -65,6 +100,7 @@ const { Layout } = DefaultTheme
     </template>
     <Content />
   </Layout>
+  <Base64Dialog :show="showBase64Dialog" :url="formattedUrl" @close="showBase64Dialog = false" />
 </template>
 
 <style>
