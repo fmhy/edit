@@ -1010,7 +1010,7 @@
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
 * [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
-* [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris)) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
+* [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
 * [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
 * [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
 
