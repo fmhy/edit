@@ -264,6 +264,7 @@
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s/ Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - Traffic-Based / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* ⭐ **[⁠Klipy](https://klipy.com/)** - Veo 3 / GIF Only / 4s-5s / Unlimited / Requires Sign-Up
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [Arena](https://arena.ai/?chat-modality=video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct / Side by Side Mode / Reset Limits/ w Temp Mail
@@ -273,7 +274,6 @@
 * [⁠Vheer](https://vheer.com/) - Unlimited / No Sign-Up
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Requires Sign-Up
 * [Meta AI](https://www.meta.ai/) - Unlimited / Requires Sign-Up
-* [⁠Klipy](https://klipy.com/) - Veo 3 / GIFs / 4s-5s / Unlimited / Requires Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 (5 Monthly)
