@@ -8,6 +8,10 @@
 
 ## ▷ Modded APKs
 
+* **Note** - Keep in mind some modded APK sites will list apps with fake names which are generally not worth using.
+
+***
+
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/viewforum.php?f=398) - Free Books / Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
