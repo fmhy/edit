@@ -244,6 +244,37 @@ files.forEach(file => {
             }
         }
 
+        // Check 13: Duplicate Descriptions
+        if (line.includes('/')) {
+            const BLOCK_SPLIT = '___BLOCK_SPLIT___';
+            const lineCleanedLinks = line.replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT);
+            const blocks = lineCleanedLinks.split(BLOCK_SPLIT);
+
+            blocks.forEach(block => {
+                if (!block || !block.includes('/')) return;
+
+                // Split by " / " (slash surrounded by spaces) to avoid matching paths (/bin), w/ (w/ acc), TCP/IP
+                // This assumes standard formatting (Check 8 enforces spaces)
+                const parts = block.split(/\s+\/\s+/);
+                if (parts.length < 2) return;
+
+                const seenDescriptions = new Set();
+                parts.forEach(part => {
+                    let desc = part.trim();
+                    desc = desc.replace(/^[\s\-\*⭐]+/, '').replace(/[\s\-\*⭐]+$/, '');
+
+                    if (!desc) return;
+
+                    const checkDesc = desc.toLowerCase();
+                    if (seenDescriptions.has(checkDesc)) {
+                        errors.push(`Duplicate description detected: "${desc}"`);
+                    } else {
+                        seenDescriptions.add(checkDesc);
+                    }
+                });
+            });
+        }
+
         // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)
         if (!isSeparatedEnglishCheck) {
             // Prepare clean line for text-based checks (remove URLs and Markdown links)
