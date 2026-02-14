@@ -52,7 +52,7 @@
 * [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/), [4](https://filemoon.in/) - 50GB / 40TB per account / Forever / Requires Sign-Up
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
-* [⁠Streamain](https://streamain.com/) - Unlimited / Unlimited / Forever
+* [⁠Streamain](https://streamain.com/) - Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
