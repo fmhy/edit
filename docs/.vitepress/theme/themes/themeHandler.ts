@@ -106,15 +106,21 @@ export class ThemeHandler {
   private applyDOMClasses(mode: DisplayMode) {
     const root = document.documentElement
 
-    // Remove all mode classes
-    root.classList.remove('dark', 'light', 'amoled')
+    const isDark = mode === 'dark'
+    const isAmoled = isDark && this.amoledEnabled.value
 
-    // Add current mode class
-    root.classList.add(mode)
+    if (isDark) {
+      if (!root.classList.contains('dark')) root.classList.add('dark')
+      if (root.classList.contains('light')) root.classList.remove('light')
+    } else {
+      if (!root.classList.contains('light')) root.classList.add('light')
+      if (root.classList.contains('dark')) root.classList.remove('dark')
+    }
 
-    // Add amoled class if enabled in dark mode
-    if (mode === 'dark' && this.amoledEnabled.value) {
-      root.classList.add('amoled')
+    if (isAmoled) {
+      if (!root.classList.contains('amoled')) root.classList.add('amoled')
+    } else {
+      if (root.classList.contains('amoled')) root.classList.remove('amoled')
     }
   }
 
@@ -124,12 +130,12 @@ export class ThemeHandler {
     const root = document.documentElement
 
     // Clear ALL inline styles related to theming to ensure clean slate
-    const allStyleProps = Array.from(root.style)
-    allStyleProps.forEach(prop => {
-      if (prop.startsWith('--vp-')) {
-        root.style.removeProperty(prop)
-      }
-    })
+    // const allStyleProps = Array.from(root.style)
+    // allStyleProps.forEach(prop => {
+    //   if (prop.startsWith('--vp-')) {
+    //     root.style.removeProperty(prop)
+    //   }
+    // })
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv
@@ -296,6 +302,14 @@ export class ThemeHandler {
     this.setMode(newMode)
   }
 
+  public setAppearance(mode: DisplayMode, amoled: boolean) {
+    this.state.value.currentMode = mode
+    this.amoledEnabled.value = amoled
+    localStorage.setItem(STORAGE_KEY_MODE, mode)
+    localStorage.setItem(STORAGE_KEY_AMOLED, amoled.toString())
+    this.applyTheme()
+  }
+
   public setAmoledEnabled(enabled: boolean) {
     this.amoledEnabled.value = enabled
     localStorage.setItem(STORAGE_KEY_AMOLED, enabled.toString())
@@ -332,7 +346,6 @@ export class ThemeHandler {
   public getState() {
     return this.state
   }
-
   public getMode() {
     return this.state.value.currentMode
   }
@@ -395,6 +408,7 @@ export function useTheme() {
     amoledEnabled: handler.getAmoledEnabledRef(),
     setAmoledEnabled: (enabled: boolean) => handler.setAmoledEnabled(enabled),
     toggleAmoled: () => handler.toggleAmoled(),
+    setAppearance: (mode: DisplayMode, amoled: boolean) => handler.setAppearance(mode, amoled),
     state
   }
 }

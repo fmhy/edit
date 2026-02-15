@@ -89,6 +89,13 @@ export default defineConfig({
       .finally(() => consola.success('Success!'))
   },
   vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          api: 'modern-compiler'
+        }
+      }
+    },
     ssr: {
       noExternal: ['@fmhy/components']
     },
@@ -122,7 +129,9 @@ export default defineConfig({
         output: ['console', 'terminal']
       }),
       UnoCSS({
-        configFile: '../unocss.config.ts'
+        configFile: fileURLToPath(
+          new URL('../../unocss.config.ts', import.meta.url)
+        )
       }),
       AutoImport({
         dts: '../.cache/imports.d.ts',
