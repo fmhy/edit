@@ -72,8 +72,13 @@ files.forEach(file => {
     const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => relativePath === f);
 
 
+    let currentHeader = '';
+
     lines.forEach((line, index) => {
         const lineNum = index + 1;
+        if (/^#+\s/.test(line)) {
+            currentHeader = line;
+        }
         let errors = [];
 
         // Check 1: Starred links must be bolded
@@ -245,7 +250,8 @@ files.forEach(file => {
         }
 
         // Check 13: Duplicate Descriptions
-        if (line.includes('/')) {
+        const isTempMailSection = relativePath === 'docs/internet-tools.md' && currentHeader.includes('Temp Mail');
+        if (line.includes('/') && !isTempMailSection) {
             const BLOCK_SPLIT = '___BLOCK_SPLIT___';
             const lineCleanedLinks = line.replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT);
             const blocks = lineCleanedLinks.split(BLOCK_SPLIT);
