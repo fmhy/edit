@@ -1483,6 +1483,18 @@
 
 ***
 
+# ► Belorussian / Белорусский
+
+## ▷ Streaming / Стрымiнг
+
+* ⭐ **[HDrezka](https://hdrezka.by/)**, [2](https://hdrezka.cyou/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / No VPN
+
+* ⭐ **[Dorama](https://dorama.by/) - Movies / TV / Dorama / Anime / Sub / Dub / 4K / 1080p / No VPN
+
+* ⭐ **[Animan](https://animan.ru/) - Movies / TV / Cartoons / Anime / Sub / Dub / 4K / 1080p / No VPN
+
+***
+
 # ► Slovak / Slovenčina
 
 ## ▷ Streaming
