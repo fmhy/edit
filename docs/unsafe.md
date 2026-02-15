@@ -90,8 +90,8 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
-* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.neocities.org/Announcements/gshade_notice/), [2](https://claraiscute.pages.dev/Announcements/gshade_notice/)
-* TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
+* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.neocities.org/Announcements/gshade_notice/) / [2](https://claraiscute.pages.dev/Announcements/gshade_notice/)
+* TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)
 * 360 Total Security - Apps give [constant popups](https://wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
 

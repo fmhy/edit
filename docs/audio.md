@@ -77,15 +77,15 @@
 # ► Specialty Streaming
 
 * ⭐ **[UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php)** - Cylinder Audio Archive
+* [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Indonesian Music
-* [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
+* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [CLPGS](https://www.clpgs.org.uk/) or [Tinfoil](https://www.tinfoil.com/) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
-* [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 
 ***
 
@@ -381,7 +381,7 @@
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [Votify](https://github.com/glomatico/votify) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
+* [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [Archive](https://rentry.co/FMHYB64#archive) - Qobuz / Tidal / Soundcloud / FLAC
@@ -817,7 +817,7 @@
 ## ▷ Song Identification
 
 * ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088)** / Android, iOS / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)
-* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)
+* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb), [2](https://chromewebstore.google.com/detail/librezam/kolhjbddamlepljhchmgmlabaanmpegk)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [AudioTag](https://audiotag.info/) / Web

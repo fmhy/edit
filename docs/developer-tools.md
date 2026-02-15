@@ -519,6 +519,7 @@
 * [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
+* [Ampcode](https://ampcode.com/) - Coding AI
 * [Denigma](https://denigma.app/) - Coding AI / No Sign-Up / [Discord](https://discord.gg/mZx4REBvKm)
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
 
@@ -534,7 +535,7 @@
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [GitHub](https://github.com/sst/opencode)
+* [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
 * [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
@@ -957,7 +958,7 @@
 
 * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
 * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
-* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/), [SVG Editor](https://editor.svg-gen.com/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [FrameSVG](https://framesvg.romelium.cc/) - GIF to Animated SVG / [GitHub](https://github.com/Romelium/FrameSVG)

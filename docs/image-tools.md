@@ -67,7 +67,6 @@
 ## ▷ Content Removers
 
 * ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
-* ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - Background Remover
 * ⭐ **[BG Bye](https://bgbye.io/)**, [2](https://fyrean.itch.io/bgbye-background-remover), [3](https://bgbye.fyrean.com/) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Ripolas Background Remover](https://ripolas.org/background-remover/) - Background Remover / Non-AI
@@ -155,6 +154,7 @@
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
 * [⁠Vectorpea](https://www.vectorpea.com/) - Vector Editor / Web
+* [Tilda](https://tilda.cc/lp/vector/) - Vector Editor / Web
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing / Web
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting / Web
@@ -458,7 +458,7 @@
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
-* ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Downloader](https://github.com/kuanyui/BooruShinshi)
+* ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [Sankaku Complex](https://www.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Downloader](https://github.com/kuanyui/BooruShinshi)
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [GitHub](https://github.com/hydrusnetwork/hydrus)
 * [Buzzly](https://buzzly.art/) - User-Made Art / Fanart
 * [Artfol](https://www.artfol.app/) - User-Made Art / Fanart
@@ -528,6 +528,7 @@
 * [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
 * [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
 * [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
+* [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
 * [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
 * [⁠Gridfinity](https://gridfinity.xyz/) - 3D Storage Systems

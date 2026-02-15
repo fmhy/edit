@@ -454,7 +454,7 @@
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
-* ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Adblocking App
+* ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/adguard-android/) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
@@ -690,6 +690,7 @@
 * [Overmorrow](https://play.google.com/store/apps/details?id=com.marotidev.Overmorrow)
 * [Bura](https://github.com/davidtakac/bura)
 * [omWeather](https://github.com/woheller69/omweather)
+* [⁠Flowx](https://flowx.io/) - Weather Visualization / Map
 * [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App
 
 ***
@@ -942,7 +943,6 @@
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [CineHD](https://cinehd.xyz/) - Movies / TV
 * [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
-* [Cinema HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
@@ -1172,7 +1172,6 @@
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - Non-Jailbreak Sideloading
 * [⁠PlumeImpactor](https://github.com/khcrysalis/Impactor) - Non-Jailbreak Sideloading
 * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing / Bypass Sidestore limits
-* [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager Bot
 * [⁠BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) - Lift Revoked Certificate Blacklist / iOS 17.0 -> iOS 18.0.1
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
 * [Cyan](https://github.com/asdfzxcvbn/pyzule-rw) - Modify IPAs / Inject Tweaks
@@ -1183,7 +1182,7 @@
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants) (requires patch)
+* ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants) (requires patch) / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** - Adblock Browser
 * [Orion](https://kagi.com/orion/) - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
 * [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) - Safari Adblocker

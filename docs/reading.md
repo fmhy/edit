@@ -29,6 +29,7 @@
 * [BooksMania](https://t.me/booksmania) - Books / Telegram
 * [BookArticlesBot](https://t.me/BookArticlesBot) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
+* [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending 
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search

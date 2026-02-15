@@ -96,7 +96,8 @@
 * ↪️ **[Discord Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_discord_tools)**
 * ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
 * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
-* ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+* ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+* ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
 * ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up
@@ -479,6 +480,7 @@
 * [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
 * [AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
+* [Xeramail](https://xeramail.com/) - 1 Day / 1 Day / 2 Domains
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [⁠TempMail](https://mail.re146.dev/) - 1 Day / 1 Hour / 2 Domains
 * [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
@@ -709,7 +711,6 @@
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
-* [Caffeine](https://webextension.org/listing/caffeine.html) - Prevent OS from Sleeping
 * [Broken Link Checker](https://webextension.org/listing/broken-link-checker.html) - Checks Page for Broken Links
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click
@@ -776,6 +777,7 @@
 * [Lazy Tabs](https://github.com/jman/lazy_tab) - Auto Discard Inactive Tabs
 * [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
 * [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
+* [Caffeine](https://webextension.org/listing/caffeine.html) - Prevent OS from Sleeping
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
 * [Amino](https://amino.dev/) - Customize Webpage CSS
 * [Resizing](https://resizing.app/) - Resize Images

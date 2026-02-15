@@ -355,6 +355,8 @@
 # ► Czech / Čeština
 
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
+* [FuckCards](https://fuckcards.store/) or [NoCard](https://nocard.cz/) - Public Czech Club Cards / [Android App](https://github.com/HelloOO7/Karticky)
+* [spojenka](https://spojenka.cz/) - Public Czech Transport App
 
 ## ▷ Downloading / Stahování
 
@@ -378,7 +380,7 @@
 * [mrkni](https://mrkni.tv/) - Movies / TV / Anime
 * [mrkaj](https://mrkaj.si/) - Movies / TV / Anime / Geoblocked
 * [uzi](https://uzi.si) - Movies / TV / Anime / Geoblocked
-* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Geoblocked
+* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Geoblocked / [Discord](https://discord.com/invite/tSzJW4fBtF)
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
@@ -730,7 +732,6 @@
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 * [KatDrama](https://katdrama.com/) - Korean Drama
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
-* [AnimeSalt](https://animesalt.top/) - Anime / Sub / Dub / 1080p
 * [Anime Dub Hindi](https://www.animedubhindi.me/) - Anime / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
@@ -747,8 +748,8 @@
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[⁠Animelok](https://animelok.site/)** - Anime / Cartoons / 1080p / Auto-Next / [Telegram](https://t.me/animerulz_xyz)
-* ⭐ **[ToonStream](https://toonstream.world/)**, [2](https://toonstream.one/) - Anime / Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
+* ⭐ **[⁠Animelok](https://animelok.site/)** - Anime / Cartoons / 1080p / Auto-Next / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
+* ⭐ **[ToonStream](https://toonstream.world/)**, [2](https://toonstream.one/) - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
@@ -1315,6 +1316,7 @@
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [subtitry](https://subtitry.ru/) or [DXP](https://dxp.ru/) - Subtitles
 * [RKN Dump Check](https://t.me/u2ckbot) - Censorship Check
+* [⁠EtoNeYa](https://tseya.a9fm.site/) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
 * [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [TGStat](https://tgstat.ru/) - Telegram Channel Stats

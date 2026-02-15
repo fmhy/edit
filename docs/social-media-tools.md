@@ -585,7 +585,8 @@
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
-* [⁠FB Login Wall Remover](https://greasyfork.org/en/scripts/548145) - Remove Facebook Login Wall 
+* [⁠FB Login Wall Remover](https://greasyfork.org/en/scripts/548145) - Remove Facebook Login Wall
+* [⁠Messenger Plus](https://messenger-plus.com/) - Facebook Messenger Desktop App / Tray Icon / Notifications 
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
