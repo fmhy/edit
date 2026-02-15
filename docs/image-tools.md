@@ -84,11 +84,11 @@
 
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Hosted
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Online / Self-Hosted
+* ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Online
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Hosted
-* [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling / Online
 * [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
 * [Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online

@@ -65,6 +65,12 @@ const emit = defineEmits<{
   (e: 'close'): void
 }>()
 
+const show = ref(true)
+
+function close() {
+  show.value = false
+}
+
 const el = shallowRef<HTMLElement>()
 const resultsEl = shallowRef<HTMLElement>()
 
@@ -690,12 +696,12 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     router.go(selectedPackage.id)
-    emit('close')
+    close()
   }
 })
 
 onKeyStroke('Escape', () => {
-  emit('close')
+  close()
 })
 
 /**
@@ -769,7 +775,7 @@ onMounted(() => {
 
 useEventListener('popstate', (event) => {
   event.preventDefault()
-  emit('close')
+  close()
 })
 
 /** Lock body */
@@ -822,16 +828,18 @@ function onMouseMove(e: MouseEvent) {
 
 <template>
   <Teleport to="body">
-    <div
-      ref="el"
-      role="button"
-      :aria-owns="results?.length ? 'localsearch-list' : undefined"
-      aria-expanded="true"
-      aria-haspopup="listbox"
-      aria-labelledby="localsearch-label"
-      class="VPLocalSearchBox"
-    >
-      <div class="backdrop" @click="$emit('close')" />
+    <Transition name="vp-local-search" appear :duration="200" @after-leave="$emit('close')">
+      <div
+        v-if="show"
+        ref="el"
+        role="button"
+        :aria-owns="results?.length ? 'localsearch-list' : undefined"
+        aria-expanded="true"
+        aria-haspopup="listbox"
+        aria-labelledby="localsearch-label"
+        class="VPLocalSearchBox"
+      >
+      <div class="backdrop" @click="close" />
 
       <div class="shell">
         <form
@@ -850,7 +858,7 @@ function onMouseMove(e: MouseEvent) {
             <button
               class="back-button"
               :title="translate('modal.backButtonTitle')"
-              @click="$emit('close')"
+              @click="close"
             >
               <span class="vpi-arrow-left local-search-icon" />
             </button>
@@ -938,7 +946,7 @@ function onMouseMove(e: MouseEvent) {
               :aria-label="[...p.titles, p.title].join(' > ')"
               @mouseenter="!disableMouseOver && (selectedIndex = index)"
               @focusin="selectedIndex = index"
-              @click="$emit('close')"
+              @click="close"
               :data-index="index"
             >
               <div>
@@ -1019,7 +1027,8 @@ function onMouseMove(e: MouseEvent) {
           </span>
         </div>
       </div>
-    </div>
+      </div>
+    </Transition>
   </Teleport>
 </template>
 
@@ -1030,12 +1039,10 @@ function onMouseMove(e: MouseEvent) {
   inset: 0;
   display: flex;
 }
-
 .backdrop {
   position: absolute;
   inset: 0;
   background: var(--vp-backdrop-bg-color);
-  transition: opacity 0.5s;
 }
 
 .shell {
@@ -1431,5 +1438,18 @@ function onMouseMove(e: MouseEvent) {
 
 svg {
   flex: none;
+}
+
+@keyframes vp-backdrop-enter {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.vp-local-search-enter-active .backdrop {
+  animation: vp-backdrop-enter 0.2s ease-out both;
+}
+
+.vp-local-search-leave-active {
+  animation: vp-backdrop-enter 0.2s ease-in reverse both;
 }
 </style>

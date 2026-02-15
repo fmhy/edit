@@ -43,7 +43,7 @@
 
 ## ▷ Public Domain
 
-* ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
+* ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
 * ⭐ **[Unglue.it](https://unglue.it/)**
 * [Wikisource](https://wikisource.org)
 * [Open Library](https://openlibrary.org/)
@@ -408,7 +408,7 @@
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
-* [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) - Historical Fiction / Nonfiction
+* [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
 * [PlayTorrio](https://playtorrio.xyz/) - Audiobook App / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
@@ -724,7 +724,7 @@
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[arXiv](https://arxiv.org/)** or [ChinaRxiv](https://chinarxiv.org/) - Research Papers
-* ⭐ **arXiv Tools** - [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Chatbot](https://www.alphaxiv.org/), [2](https://github.com/evanhu1/talk2arxiv) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
+* ⭐ **arXiv Tools** - [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Chatbot](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
 * ⭐ **[Citrus Search](https://citrus-search.com/)** - Find Similar Research Papers
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications

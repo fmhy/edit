@@ -658,7 +658,7 @@
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
-* [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts 
+* [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
 * [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
 * [AlbumOfTheYear](https://www.albumoftheyear.org/) - Ratings / Reviews
 * [AllMusic](https://www.allmusic.com/) - Ratings / Reviews
@@ -669,7 +669,7 @@
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
-* [CET](https://rentry.org/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
+* [CET](https://rentry.org/CET) / [2](https://rentry.co/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
 
 ***
 
