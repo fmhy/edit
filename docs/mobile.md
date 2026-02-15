@@ -478,7 +478,7 @@
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
 * [⁠AppLock](https://github.com/PranavPurwar/AppLock) - App Locker / Works without Root / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/app-lock.md) 
 * [Orbot](https://orbot.app/en/), [2](https://guardianproject.info/apps/org.torproject.android/) - Tor Proxy Apps
-* [Privacy Guides](https://www.privacyguides.org/en/android/), [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
+* [Privacy Guides](https://www.privacyguides.org/en/android/), [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
 * [TrackerControl](https://trackercontrol.org/) / [GitHub](https://github.com/TrackerControl/tracker-control-android) or [⁠Privacy Guard](https://play.google.com/store/apps/details?id=com.franko.privacyguard) - Tracker Monitors / Controllers
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries

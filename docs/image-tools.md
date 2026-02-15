@@ -705,7 +705,7 @@
 ***
 
 * ⭐ **[ImageToText](https://www.imagetotext.info/)** - Online OCR
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [⁠NormCap](https://dynobo.github.io/normcap/), / [GitHub](https://github.com/dynobo/normcap) [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [⁠NormCap](https://dynobo.github.io/normcap/), / [GitHub](https://github.com/dynobo/normcap), [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross-Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool

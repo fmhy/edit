@@ -615,7 +615,7 @@
 * [SmartTVKick](https://github.com/CxWatcher/SmartTVKick) - Ad-Free FireTV + Android TV Kick App
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Emby Android TV App
 * [CloudStream](https://github.com/recloudstream/cloudstream) - Streaming App
-* [Nuvio](https://github.com/tapframe/NuvioTV/releases/) / [GitHub](https://github.com/tapframe/NuvioMobile) or  [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support 
+* [Nuvio](https://github.com/tapframe/NuvioTV/releases/) / [GitHub](https://github.com/tapframe/NuvioMobile) or [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support 
 * [⁠Sozo](https://sozo.azamov.me/) - Anime Streaming App
 * [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
 * [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Sign-Up Required

@@ -482,7 +482,7 @@
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
-* [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / Requires French VPN for Some Content
+* [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [toflix](https://toflix.xyz/) - Movies / TV / Anime
 * [fs6](https://fs6.lol/) - Movies / TV / Anime
@@ -619,7 +619,7 @@
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
-* [tenies](https://tenies.gr/) - Movies / TV / Anime / Live TV / Live Sports
+* [tenies](https://tenies.gr/) - Live TV / Live Sports / Movies / TV / Anime
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
@@ -699,18 +699,18 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://vegamovies.gratis/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.gratis/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
-* ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 1080p / 4K
+* ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 4K / 1080p
 * ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p
+* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
@@ -724,7 +724,7 @@
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
-* [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.app/)
+* [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.app/)
 * [Fojik](https://fojik.site/) - Movies
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -741,7 +741,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 
 ## ▷ Streaming
 
@@ -752,20 +752,20 @@
 * ⭐ **[ToonStream](https://toonstream.world/)**, [2](https://toonstream.one/) - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
-* [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [saicord](https://saicord.com/hi/) - Movies / TV 
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
-* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
-* [tamilbulb](https://tamilbulb.world/) - Tamil Movie / TV
-* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 720p / 1080p
-* [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
-* [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
-* [Fixer](https://fixer.buzz/) - Movies / TV / Anime
-* [rtally](https://www.rtally.xyz/) - Movies / TV / Anime
-* [Watch Movies](https://www.watch-movies.com.pk/) - Movies / TV / Anime
-* [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
+* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 1080p / 720p
+* [tamildhool](https://www.tamildhool.net/) - TV / Serial
+* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p
+* [TamilBlasters](https://tamilblasters.tampa/) - Movies / TV / 1080p / 720p
+* [1TamilMV](https://www.1tamilmv.ru/) - Movies / TV / 1080p / 720p
+* [Pulsar](https://pulsar.fm/) - Music / 320kbps
+* [Bolly2Tolly](https://www.bolly2tolly.net/) - Movies / TV / Dub
+* [Isaimini](https://isaimini.com.co/) - Movies / 4K / 1080p
+* [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 4K / 1080p
 * [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
@@ -1530,8 +1530,8 @@
 * [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
-* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino
-* [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 1080p / 4K / Latino
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino
+* [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 4K / 1080p / Latino
 * [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
@@ -1635,7 +1635,7 @@
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / LATAM Only
-* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
+* [AtresPlayer](https://www.atresplayer.com/) - Live TV / Movies / TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
 * [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
@@ -1747,7 +1747,7 @@
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.ws/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p 
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
-* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
+* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
 * [Izlelan](https://izlelan.vercel.app/) - Movies / TV / Anime
 * [Dizipal](https://dizipal1532.com/), [2](https://dizipalx61.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.to/) - Movies / TV / Sub / Dub / 1080p

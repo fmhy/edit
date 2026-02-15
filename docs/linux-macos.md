@@ -427,7 +427,7 @@
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
-* [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png), [2](https://files.catbox.moe/2390ha.png)  - Linux Filesystem Chart
+* [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png), [2](https://files.catbox.moe/2390ha.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
