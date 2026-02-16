@@ -86,7 +86,7 @@
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)** / [Discord](https://discord.gg/qDaYeXPsRK), [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/cDKH3R4nR2), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
-* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing / [Discord](https://discord.gg/3Gtqp9BDeY)
+* [Playtester](https://playtester.io/) / [Discord](https://discord.gg/A5yzKNP7FE) or [Alpha Beta Gamer](https://alphabetagamer.com/) / [Discord](https://discord.gg/3Gtqp9BDeY) - Play Games in Alpha / Beta Testing
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
@@ -162,7 +162,7 @@
 * 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations
 * 🌐 **[awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Ports, Decompilations, etc
-* 🌐 **[TheGamingEmporium](https://www.thegamingemporium.com/)** - Game Ports, Decompilations, etc
+* 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Ports, Decompilations, etc
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Ports, Decompilations, etc
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
@@ -199,7 +199,7 @@
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo 1 / [GitHub](https://github.com/diasurgical/devilutionx)
 * [Team Forever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/mods/games/10601) / [S2A Mods](https://gamebanana.com/mods/games/15019) / [YouTube](https://www.youtube.com/@teamforeverdev) / [BlueSky](https://bsky.app/profile/teamforever.bsky.social)
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/mods/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods (Official)](https://gamebanana.com/mods/games/6878), [Alt](https://sonic3air.boards.net/board/6/mod-releases) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [Addons](https://mb.srb2.org/addons/) / [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [Requires OpenRA](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)

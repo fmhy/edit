@@ -662,6 +662,7 @@
 * [YOGA](https://yoga.flozz.org/) - Image Optimization
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
 * [tiny.pictures](https://tiny.pictures/) - Image Optimization
+* [Pingo](https://css-ig.net/pingo) - Image Optimization / [GUI](https://css-ig.net/pinga)
 * [Ihancer](https://ihancer.com) - Image Optimization
 * [Waifu2x](https://www.waifu2x.net/) - Image Optimization
 * [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization

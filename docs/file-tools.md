@@ -281,7 +281,7 @@
 * [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
 * [NahrajSoubor](https://nahrajsoubor.cz/) - Desktop / Mobile Transfer
 * [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
-* [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer
+* [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) or [qrcp](https://qrcp.sh/) / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network

@@ -304,12 +304,16 @@
 
 ## ▷ Number / SMS
 
+* **Note** - Note that alternative SMS apps don't support RCS.
+
+***
+
 * ⭐ **[Quik](https://github.com/octoshrimpy/quik)** - Stock Messaging App Replacement
 * ⭐ **[Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/)** / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/yet-another-call-blocker-note.md) , [Should I Answer?](https://www.shouldianswer.net/), [SpamBlocker](https://github.com/aj3423/SpamBlocker) or [Silence](https://f-droid.org/packages/me.lucky.silence) - Block Spam Calls
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
-* [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) - Call Recorders
+* [BCR](https://github.com/chenxiaolong/BCR) - Call Recorder / [GUI](https://github.com/nicorac/bcr-gui)
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
@@ -960,6 +964,7 @@
 * [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
+* [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Improved Bilibili Client
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
 * [Showly](https://github.com/michaldrabik/showly) - TV Trackers
@@ -1254,7 +1259,7 @@
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/redditfilter-note.md), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) or [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Arctic](https://getarctic.app/), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
-* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)**, **[piko](https://github.com/crimera/twitter-apk)**, [2](https://github.com/lluni/twitter-apk) / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
+* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Kettu](https://www.raincord.dev/kettu) - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Codeberg](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps

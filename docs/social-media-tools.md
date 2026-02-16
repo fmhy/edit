@@ -40,7 +40,7 @@
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
 * [Discord Profile Viewer](https://addynrpfp.vercel.app/) - View / Download Discord User's Avatar or Banner
-* [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
+* [DAVB](https://rentry.co/FMHYB64#davb) - Discord Age Verification Bypass
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Wumpus Central](https://discord.gg/zZ6szdKQu6) - Discord Experimental Server Hub
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption / [Discord](https://discord.gg/rSUyXeCHBE)

@@ -11,6 +11,7 @@
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
+* [YT Video Essay Hall of Fame](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539) - YouTube Video Essay Archive
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
@@ -334,7 +335,7 @@
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](ttps://discord.com/invite/pUFf2tUnrP)
+* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
@@ -408,7 +409,7 @@
 
 ## ▷ Physics
 
-* 🌐 **[Physics Aviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** or [Falstad](https://www.falstad.com/) - Physics Tools
+* 🌐 **[Physics Aviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** or [Falstad](https://www.falstad.com/mathphysics.html) - Physics Tools
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
@@ -503,6 +504,7 @@
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [LibreTexts Engineering](https://eng.libretexts.org/Bookshelves) - Engineering Learning / Guides
 * [CESDB](https://www.cesdb.com/) - Engineering Software
+* [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning 
@@ -511,7 +513,7 @@
 * [Diode](https://www.withdiode.com/) - 3D Hardware Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
-* [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://docs.atopile.io/atopile/quickstart), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design Tools
+* [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://docs.atopile.io/atopile/quickstart), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
@@ -1054,7 +1056,7 @@
 
 ## ▷ Chess
 
-* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
+* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠Immortal Chess Network](https://t.me/Immortal_Chess_Network), [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
@@ -1097,6 +1099,8 @@
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
 * [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
+* [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
+* [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
 * [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
 * [GM Binder](https://www.gmbinder.com/) - 5E Homebrew Document Editors
 * [D&D Wiki](https://www.dandwiki.com/) - D&D Homebrew Wiki
