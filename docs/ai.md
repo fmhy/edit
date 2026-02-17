@@ -346,7 +346,7 @@
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 * [ComfyUI-Zluda](https://github.com/patientx/ComfyUI-Zluda)
 * [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
-* [⁠Amuse](https://huggingface.co/TensorStack/Amuse) - Stable Diffusion for AMD Systems / [X](https://x.com/Amuse_AI)
+* [⁠Diffuse](https://huggingface.co/TensorStack/Diffuse) - Stable Diffusion for AMD Systems / [Discord](https://discord.gg/ptgMMv36Xu)
 
 ***
 
