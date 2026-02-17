@@ -639,7 +639,6 @@
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
-* [Haxmac](https://haxmac.cc/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacKed](https://macked.app/)
 * [WebCatalog](https://webcatalog.io/) - Requires Sign-Up
