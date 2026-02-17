@@ -130,7 +130,6 @@
 * [⁠AlternativeOSS](https://alternativeoss.com/) - FOSS Alt Directory
 * [OpenAlternative](https://openalternative.co/) - FOSS Alt Directory
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - FOSS Alt Directory
-* [⁠switching.software](https://switching.software/) - FOSS Alt Directory / [Codeberg](https://codeberg.org/swiso/website)
 * [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) or [CLI Club](https://cli.club/) - FOSS CLI Apps / Tools
 * [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Wikis
 * [FOSS Wiki](https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Wikis
