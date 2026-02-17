@@ -62,6 +62,7 @@
 
 ## ▷ File Converters
 
+* ⭐ **[Universal File Converter](https://convert.to.it/)** - Online / Truly Universal File Converter / [GitHub](https://github.com/p2r3/convert)
 * ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB
