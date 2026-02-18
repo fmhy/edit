@@ -116,7 +116,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
-* [FixEmbed](https://fixembed.app/) - Fix Embeds on Discord Bot / [GitHub](https://github.com/kenhendricks00/FixEmbed)
+* [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling

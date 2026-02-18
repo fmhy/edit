@@ -4,13 +4,13 @@
 ***
 ***
 
-* **Warning** - It's best to avoid torrent sites (including aggregators) for software and games, with the exception of RuTracker and m0nkrus. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+* **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
 
 # ► Torrent Sites
 
-* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Requires Sign-Up
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires Sign-Up
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [GenP](https://rentry.co/FMHYB64#genp) / [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)

@@ -30,7 +30,7 @@
 * [⁠Affinity](https://www.affinity.studio/) or [⁠AffinityOnLinux](https://github.com/ryzendew/Linux-Affinity-Installer) / Windows, Mac, Linux / [No Login Method](https://rentry.co/FMHYB64#affinity)
 * [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
-* [⁠RapidRAW](https://github.com/CyberTimon/RapidRAW) / Windows, Mac, Linux
+* [⁠RapidRAW](https://www.getrapidraw.com/) / Windows, Mac, Linux / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW)
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Gimel Studio](https://gimelstudio.com/) / Windows / [GitHub](https://github.com/GimelStudio/GimelStudio)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
@@ -148,7 +148,8 @@
 * [KRESKA.art](https://kreska.art/) - Browser Painting / Drawing / Web
 * [⁠Wigglypaint](https://wigglypaint.net/) - Browser Painting / Animated Brushes
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
-* [AutoDraw](https://www.autodraw.com/) - AI Drawing Tools / Web
+* [AutoDraw](https://www.autodraw.com/) - AI Drawing Tool / Web
+* [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool
 * [VectorPaint](https://vectorpaint.yaks.co.nz/) - Vector Editor / Painting / Web
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.rs/) - Vector Editor / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
@@ -179,6 +180,7 @@
 ## ▷ Pixel Art
 
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
+* ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / [Guide](https://youtu.be/Z4Enx-Nb43E)
 * ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor
@@ -190,6 +192,7 @@
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, Mac
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
+* [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)
 * [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor
 * [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
@@ -575,7 +578,7 @@
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
-* [Ninja Ripper](https://kemono.cr/patreon/user/45591569) / [2](https://gamebanana.com/tools/5638) / [3](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
+* [Ninja Ripper](https://gamebanana.com/tools/5638) / [2](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
 
 ***
 
@@ -886,7 +889,7 @@
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
-* [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, Mac, Linux
+* [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, Mac, Linux
 * [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator

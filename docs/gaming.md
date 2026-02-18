@@ -970,7 +970,7 @@
 * [⁠FactorDay](https://factorday.com/) - Daily Wikipedia-Based Trivia / Crosswords
 * [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
 * [More or Less](https://moreorless.io/) - More or Less Guessing
-* [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
+* [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More

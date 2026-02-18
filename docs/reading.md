@@ -234,6 +234,7 @@
 * [Armaell's Library](https://armaell-library.net/) - Downloads
 * [Baka-Tsuki](https://www.baka-tsuki.org) - Online Reading
 * [WuxiaWorld.com](https://www.wuxiaworld.com/) - Online Reading
+* [⁠WuxiaDreams](https://wuxiadreams.com/) - Online Reading
 * [AsianHobbyist](https://www.asianhobbyist.com/) - Online Reading
 * [Ocean of EPUB](https://oceanofepub.net/) - Downloads
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram / Downloads
@@ -482,6 +483,7 @@
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MangaBall](https://mangaball.net/)
 * [mangapill](https://mangapill.com/)
+* [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
 * [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW / [Discord](https://discord.gg/syp3a6Eucq)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
@@ -515,7 +517,7 @@
 ## ▷ Magazines
 
 * ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)** - Multi-Host / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-* ⭐ **[PDFMagazines](https://pdfmagazines.club/)** - Novafile
+* ⭐ **[PDFMagazines](https://pdfmagazines.club/news/)** - Novafile / Some NSFW
 * ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile / Turbobit
 * ⭐ **[MagazineLib](https://magazinelib.com/)** - VK
 * [Calameo](https://calameo.com/) - Online Reading
@@ -803,7 +805,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[Nexus Search](https://t.me/nexus_search/214)**, [2](https://t.me/libgen_scihub_science_nexus_bot) - Science / Articles
-* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)**, **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDoc](https://idoc.pub/) - Document Search
 * [Higher Intellect](https://preterhuman.net/) - Document Search

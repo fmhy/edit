@@ -8,7 +8,7 @@
 
 * 🌐 **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)** - YouTube Documentary Channels
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://pastebin.com/e77cHmgm), [Chrome](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
 * [YT Video Essay Hall of Fame](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539) - YouTube Video Essay Archive

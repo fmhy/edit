@@ -22,8 +22,8 @@
 * ⭐ **[ShuttleTV](https://shuttletv.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * [1Shows](https://www.1shows.nl/), [1Flex](https://www.1flex.nl/) or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.gg/the-one) / [Auto Next](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rgshows-autoplay.md)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
-* [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.pro/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [Cinema.BZ](https://cinema.bz/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
+* [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.pro/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [PopcornMovies](https://popcornmovies.org/) or [Movish](https://movish.net/) - Movies / TV / Anime / [Discord](https://discord.com/invite/JAxTMkmcpd)
 * [Cinetaro](https://cinetaro.buzz/) - Movies / TV / Anime
 * [IceFY](https://icefy.top/) - Movies / TV / Anime
@@ -248,7 +248,7 @@
 * [Kuudere](https://kuudere.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
 * [Gojo](https://animetsu.net/) - Sub / Dub
 * [⁠AnimeZ](https://animeyy.com/) - Sub / Dub
-* [⁠JustAnime](https://justanime.to/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/P3yqksmGun)
+* [⁠JustAnime](https://justanime.to/), [2](https://justanime.fun/) - Sub / Dub / Auto-Next / [Mirrors](https://justanime.site/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)
 * [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
@@ -755,7 +755,7 @@
 * [Animevilla](https://animevilla.in/az-list/) - Sub / Dub / Some NSFW
 * [AnimeSalt](https://animesalt.top/) - Sub / Dub
 * [anime7.download](https://anime7.download/) - Sub
-* [⁠JustAnime](https://justanime.to/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/P3yqksmGun)
+* [⁠JustAnime](https://justanime.to/), [2](https://justanime.fun/) - Sub / Dub / [Mirrors](https://justanime.site/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)
 * [⁠AnimeOut](https://www.animeout.xyz/) - Sub / Requires Sign-Up
 * [⁠AnimeDDL](https://www.animeddl.xyz/) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
@@ -991,7 +991,7 @@
 * [Sushi.net](https://github.com/maxpiva/Sushi.Net) - Automatic Subtitle Shifter Based on Audio
 * [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Easily Change Default MKV Subtitle / Audio Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/), [gmkvextractgui](https://sourceforge.net/projects/gmkvextractgui/) or [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) - Extract Subtitles from MKV Files
-* [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
+* [⁠VideOCR](https://github.com/timminator/VideOCR) or [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractors
 * [Subtitling Guide](https://baechusquad.download/guide/) - Subtitling Guide
 * [YukiSubs Guides](https://yukisubs.wordpress.com/guides/), [I am Scum](https://iamscum.wordpress.com/guides/) or [Fansub Guide](https://unanimated.github.io/guides.htm) - Fansubbing Encoding Guides
 
