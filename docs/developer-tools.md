@@ -196,6 +196,7 @@
 * [Nightly.link](https://nightly.link/) - GitHub Shareable Nightly Links
 * [act](https://nektosact.com/) - Run GitHub Actions Locally / [GitHub](https://github.com/nektos/act)
 * [Star History](https://star-history.com/) - Repository Star History Graph
+* [git-leaderboard](https://git-leaderboard.dev) - GitHub projects sorted by stars/trending / [GitHub](https://github.com/idefasoft/git-leaderboard)
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
@@ -473,6 +474,8 @@
 * [NeoVim Kickstart](https://github.com/nvim-lua/kickstart.nvim), [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim), [NvChad](https://nvchad.com/) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
 * [DotFyle](https://dotfyle.com/) - Neovim Config Search
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
+* [mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim, allowing you to easily install and manage LSP servers, DAP servers, linters, and formatters
+* [nvim-treesiter](https://github.com/nvim-treesitter/nvim-treesitter) - Parser generator tool for Neovim
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
 * [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
@@ -597,6 +600,7 @@
 * [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
 * [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
+* [ruff](https://github.com/astral-sh/ruff) - Extremely fast Python linter and code formatter
 * [Thonny](https://thonny.org/) - Python IDE
 * [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
