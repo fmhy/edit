@@ -135,6 +135,8 @@
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
 * [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
+* [JS Audio Converter] (https://video-cutter-js.com/js-audio-converter/) and [JS Video Converter] (https://video-cutter-js.com/js-video-converter/) - Conversion tools based on FFmpeg
+* [FFmpeg Online by wide.video] (https://ffmpeg.wide.video/) - Direct, command-line FFmpeg Web App
 
 ***
 
