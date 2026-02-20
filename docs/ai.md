@@ -53,6 +53,8 @@
 * [⁠Together.ai](https://chat.together.ai/) - GLM 4.7 / Kimi K2.5 / Up-To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Woozlit](https://woozlit.com/) - DeepSeek V3.2 / Gemini 3 pro / Multiple Models / No Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [Duck AI](https://duck.ai/chat?q=DuckDuckGo+AI+Chat&duckai=1) - GPT-4o mini / GPT-5 mini / No Sign-Up
+* [GPTchatly] (https://www.gptchatly.com/) - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete
+* [Koala.sh] (https://www.koala.sh) - Gemini 3 Flash / GPT-5.2 / Claude 4.5 Haiku / Claude 4.5 Sonnet / No Sign-Up
 
 ***
 
