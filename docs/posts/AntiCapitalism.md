@@ -9,7 +9,7 @@ prev: false
 footer: true
 ---
 
-<Post authors="" />
+<Post authors="nbats" />
 
 I think it's important, especially as we get older, to remember that anti-capitalist views are not something we're meant to grow out of. That's a trap so many of us fall into as we get older, and it's a big reason why things never change. It's okay to point out when things are clearly wrong or could be better, even as adults.
 
@@ -30,3 +30,7 @@ Every human on earth deserves food, water, shelter, education, comfort, and happ
 * *"The strains and stresses suffered by the individual in society are grounded in the normal functioning of that society (and of the individual!) rather than in its disturbances and diseases."* - Herbert Marcuse
 
 * *"We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words"* - Ursula K. Le Guin
+
+***
+
+**Discussion**: https://redd.it/1r9xdu8
