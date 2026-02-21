@@ -550,7 +550,7 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://karakeep.app/) / [GitHub](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [Linkwarden](https://linkwarden.app/) / [GitHub](https://github.com/linkwarden/linkwarden), [KaraKeep](https://karakeep.app/) / [GitHub](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 

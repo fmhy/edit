@@ -143,7 +143,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [Private_Trackers](https://igwiki.lyci.de/wiki/Private_trackers), [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)**, [⁠OpenSignup](https://opensignup.xyz/) / [GitHub](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 

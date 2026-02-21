@@ -41,7 +41,7 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[Arena](https://arena.ai/?mode=direct)** - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[Arena](https://arena.ai/text/direct)** - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat)** - GPT-5.2 / Gemini 3 Pro / Claude Sonnet 4.5 / Multiple Chatbots
 * [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://beta.ish.chat/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / Unlimited Ad-Based / Github Login / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
@@ -291,17 +291,17 @@
 # ► Image Generation
 
 * 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / Leaderboards
-* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)** - GPT Image 1.5 / Nano Banana Pro / Multiple Generators / Editing / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana (100 per day) / Nano Banana Pro (5 per day) / Google Login Required / Region-Based / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Whisk](https://labs.google/fx/en/tools/whisk) - Nano Banana / Google Login Required / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Khoj](https://app.khoj.dev/?v=app)** - Nano Banana / Imagen 4 / Unlimited
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / DALL-E-3 / Editing / Generating / Sign-Up Required 
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up Required
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / No Sign-Up / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
-* [Yupp.ai](https://yupp.ai/) - GPT Image 1.5 / Nano Banana Pro / Multiple Generators / Google Login Required / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multiple Generators / Google Login Required / / [Discord](https://discord.com/invite/yuppai)
 * [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up Required / No Direct / Side by Side Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠GeminiGenAI](https://geminigen.ai/app/imagen) - Nano Banana Pro /  Login Required / Reset Limits w/ Temp Mail / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
-* [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - HunyuanImage 3.0-Instruct / Unlimited
+* [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/visual) - HunyuanImage 3.0-Instruct / Generating / Editing / Unlimited
 * [Grok](https://grok.com/) - Traffic-Based / Editing / Generating / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Requires Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Requires Sign-Up / [Discord](https://discord.gg/recraft)
