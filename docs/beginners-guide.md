@@ -161,7 +161,3 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
-
-***
-
-**[^ Back to Top](#beginners-guide-to-piracy)**

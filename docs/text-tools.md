@@ -37,6 +37,7 @@
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
 * ⭐ **[fluffle](https://fluffle.cc/)** - Markdown Support / [Source](https://git.0x8e.net/t/fluffle)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
+* [⁠Pretrey](https://pretrey.fmhy.bid/) -  Markdown Support
 * [Text.is](https://text.is/) - Markdown Support
 * [Yasosu](https://yaso.su/) - Multi-Syntax / Markdown Support / [Telegram](https://t.me/yaso_updates)
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
