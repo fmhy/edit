@@ -1097,7 +1097,6 @@
 * [Plinky](https://www.plinky.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [⁠Clean Links](https://cleanlinks.app/) - URL Cleaning + QR Destination Viewer
 * [Kagi Translate](https://apps.apple.com/app/kagi-translate/id6748310237) or [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
-* [Microsoft Lens](https://apps.apple.com/app/id975925059) - Scan & Digitize Documents
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [Microsoft To Do](https://to-do.office.com/) or [Twodos](https://apps.apple.com/app/id6463499163) - To-Do Apps
 * [Journal it](https://apps.apple.com/app/id1501944799) - Planner / Journal App

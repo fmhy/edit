@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Living under capitalism sucks
-    link: /posts/AntiCapitalism
+    title: February Updates 🌸
+    link: /posts/feb-2026
   image:
     src: test.png
     alt: FMHY Icon
