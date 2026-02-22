@@ -543,6 +543,7 @@
 * [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App
 * [All About Berlin](https://allaboutberlin.com/) - Berlin Expat Guide / Relocation Tools
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
+* [Emoji Creator](https://emojicreator.ai/de/) - Custom emoji creation in Deutsch
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/), [GebaerdenLernen](https://gebaerdenlernen.de/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries / Learning
 
 ## ▷ Downloading / Herunterladen
@@ -903,6 +904,7 @@
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
+* [Emoji Creator](https://emojicreator.ai/es/) - Creation of custom emojis
 * [fuseji](http://fuseji.net/) - Hidden Character Search
 * [goo](https://www.goo.ne.jp/) or [Yahoo Japan](https://search.yahoo.co.jp/) - Search
 * [megalodon](https://megalodon.jp/) or [gyo.tc](https://gyo.tc/) - JP Web Archive Tool
@@ -989,6 +991,7 @@
 * [Free Korean Fonts](https://www.freekoreanfont.com/) - Korean Fonts
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
 * [litt.ly](https://litt.ly/) - Personal Link Homepage
+* [Emoji Creator](https://emojicreator.ai/ko/) - Custom emojis for koreans
 
 ## ▷ Downloading
 
@@ -1167,6 +1170,8 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
+* [Emoji Creator](https://emojicreator.ai/pt/) - Pack de emojis para Slack, Discord, Twitch e Microsoft Teams
+
 
 ## ▷ Torrenting
 
@@ -1204,6 +1209,7 @@
 * [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
+* [PM3 School](https://pm3.com.br) - Courses about Product Management
 * [Veduca](https://veduca.org) - Courses
 * [Eaulas](https://eaulas.usp.br/portal/home) - Learning Videos
 * [Moodle](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) - MOOC Courses
@@ -1512,6 +1518,7 @@
 
 * 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [Minijuegos](https://www.minijuegos.com/) - Browser Games
+* [Emoji Creador](https://emojicreator.ai/es/) - Crea emojis animados personalizados en segundos
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [AIfindy](https://aifindy.com/) - AI Tools Index
 * [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
