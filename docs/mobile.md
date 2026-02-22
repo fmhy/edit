@@ -185,7 +185,7 @@
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher / [Telegram](https://t.me/waenhancer)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
-* [PurrfectSnap](https://purrfectsnap.vercel.app) / [GitHub](https://github.com/particle-box/PurrfectSnap) or [SE Extended](https://github.com/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
+* [PurrfectSnap](https://purrfectsnap.vercel.app) / [GitHub](https://github.com/particle-box/PurrfectSnap) or [SE Extended](https://git.seextended.org/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
 
 ***
 
@@ -416,6 +416,7 @@
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) or [fooView](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - Multi-Tool Apps
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [Inverse AI](https://play.google.com/store/apps/details?id=com.inverseai.video_converter) - Video Converter / Compressor
+* [⁠Compressor](https://github.com/JoshAtticus/Compressor) - Video Compressor
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) / [2](https://github.com/PeterCxy/Shelter), [Island](https://github.com/oasisfeng/island) or [Insular](https://secure-system.gitlab.io/Insular/) / [GitLab](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps via Work Profiles
 * [Geto](https://github.com/JackEblan/Geto) - Custom App Settings / Requires Shizuku
@@ -590,7 +591,7 @@
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Logseq](https://logseq.com/) - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
-* [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Reader
+* [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [Read Aloud AI](https://readaloudai.com/android) - Text to Speech / [Discord](https://readaloudai.com/discord)

@@ -394,7 +394,7 @@
 * 🌐 **[⁠Awesome Homelab](https://github.com/miantiao-me/awesome-homelab/)** - Homelab App Index
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
 * 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
-* 🌐 **[⁠RackRat](https://rackrat.net/)** - Ebay Rackmount Server Prices / Comparisons
+* 🌐 **[⁠RackRat](https://rackrat.net/)** - eBay Rackmount Server Prices / Comparisons
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages
@@ -658,6 +658,7 @@
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders / [Cap GitHub](https://github.com/CapSoftware/Cap)
+* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS
 
 ***
 

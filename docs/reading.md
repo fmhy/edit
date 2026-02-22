@@ -359,6 +359,8 @@
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
+* [Sikh National Archives](https://www.sikhnationalarchives.com/) or [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Login Required
+* [Sri Granth](https://www.srigranth.org/) - Guru Granth Sahib Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
 * [Sefaria](https://www.sefaria.org/) - Jewish Texts Translations
@@ -658,7 +660,8 @@
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
-* [ToposText](https://topostext.org/) - Historical Greek Documents
+* [ToposText](https://topostext.org/) - Greek Historical Documents
+* [Panjab Digital Library](http://www.panjabdigilib.org/) - Panjab Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
@@ -806,7 +809,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[Nexus Search](https://t.me/nexus_search/214)**, [2](https://t.me/libgen_scihub_science_nexus_bot) - Science / Articles
-* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/) / [Wiki](https://jmail.world/wiki), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDoc](https://idoc.pub/) - Document Search
 * [Higher Intellect](https://preterhuman.net/) - Document Search

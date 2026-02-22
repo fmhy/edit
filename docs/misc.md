@@ -1096,7 +1096,7 @@
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews 
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
 * [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices
-* [⁠RackRat](https://rackrat.net/) - Ebay Rackmount Server Prices / Comparisons
+* [⁠RackRat](https://rackrat.net/) - eBay Rackmount Server Prices / Comparisons
 
 ***
 
@@ -1211,6 +1211,7 @@
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [Disroot](https://disroot.org/en/#services) - Text / Social Media
+* [Private.coffee](https://private.coffee/services.html) - Text / Code 
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [delphitools](https://tools.rmv.fyi//) - Social Media / Text / Image
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
@@ -1583,7 +1584,7 @@
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
-* [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/) or [8values](https://8values.github.io/) - Political Alignment Test
+* [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/), [PolitiScales](https://politiscales.party/) or [8values](https://8values.github.io/) - Political Alignment Tests
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [Face Shape Detectors](https://www.faceshapedetectors.org/) - Face Shape Detectors
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective

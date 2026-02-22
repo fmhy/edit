@@ -770,6 +770,7 @@
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
+* [Can I Email?](https://www.caniemail.com/) - Email Functionality Check
 * [Typebot](https://typebot.io/) - Embedded Chat App
 * [Google Map Themes](https://snazzymaps.com/) - Google Map Themes for Web Developers
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
@@ -1032,9 +1033,9 @@
 
 ## ▷ Dynamic Page Hosting
 
+* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
 * ⭐ **[vercel](https://vercel.com/)**
 * ⭐ **[netlify](https://www.netlify.com/)**
-* ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
 * ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB Storage / Unlimited Bandwidth / Unlimited DB
 * ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB Storage / Unlimited Bandwidth / 2 DB
 * [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB

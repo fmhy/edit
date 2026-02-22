@@ -316,11 +316,11 @@
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblocker / [Discord](https://discord.gg/EPEFC6KkpF)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
+* ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [⁠ZeroFS](https://zerofs.link/) - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days

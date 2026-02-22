@@ -17,7 +17,7 @@
 
 ## ▷ Network Tools
 
-* ⭐ **[fast](https://fast.com/)** / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)**, **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** - Speed Tests
+* ⭐ **[fast](https://fast.com/)** / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)** / [CLI](https://github.com/kavehtehrani/cloudflare-speed-cli), **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** - Speed Tests
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
 * [Pinging](https://www.pinging.net/), [GlobalPing](https://globalping.io/) or [PingTracer](https://github.com/bp2008/pingtracer) - Network Testing / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
@@ -104,7 +104,7 @@
 * ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [⁠Prose](https://prose.org/), [⁠Fluux](https://github.com/processone/fluux-messenger/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
-* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt
+* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Server Index](https://fluxerservers.com/)
 * [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - General Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients

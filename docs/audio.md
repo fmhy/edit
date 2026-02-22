@@ -30,7 +30,7 @@
 
 * 🌐 **[HiFi Tidal Instances](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs
-* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Manager / Deleter](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics)
+* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Manager / Deleter](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [YouLy+](https://github.com/ibratabian17/YouLyPlus) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -983,17 +983,21 @@
 
 ## ▷ SFX / Loops
 
-* ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
-* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
-* ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)**, [FreeSoundsLibrary](https://www.freesoundslibrary.com/), [BandLab Samples](https://www.bandlab.com/sounds/free-samples) or [SoundGator](https://www.soundgator.com/) - Free-to-Use
+* ⭐ **[Kits4Beats](https://kits4beats.com/)** - Sound Effects / [Telegram](https://t.me/kits4beats)
+* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Sound Effects / Telegram / [VK](https://vk.com/pluggsupply)
+* ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)** - Sound Effects
+* [FreeSoundsLibrary](https://www.freesoundslibrary.com/) - Sound Effects
+* [BandLab Samples](https://www.bandlab.com/sounds/free-samples) - Sound Effects
+* [SoundGator](https://www.soundgator.com/) - Sound Effects
+* [GDC](https://sonniss.com/gameaudiogdc) - Sound Effects
+* [⁠BigSoundBank](https://bigsoundbank.com/) - Sound Effects
+* [Citizen DJ](https://citizen-dj.labs.loc.gov/) - Sound Effects
+* [Free Adobe SFX](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html) - Sound Effects
+* [r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted Sound Effects
 * [⁠SmoredBoard](https://www.smoredboard.com/) / [Discord](https://discord.gg/bkYY39VgQ2), [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/), [Amplitude Soundboard](https://amplitude-soundboard.dan0v.com/) / [GitHub](https://github.com/dan0v/AmplitudeSoundboard) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://www.bfxr.net/) / [GitHub](https://github.com/increpare/bfxr2), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
-* [r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted
-* [Free Adobe SFX](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [GDC](https://sonniss.com/gameaudiogdc) - Royalty Free Sound Effects Archive
-* [Citizen DJ](https://citizen-dj.labs.loc.gov/) - Free-to-Use Sounds from the Library of Congress
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) or [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts
 
 ***
