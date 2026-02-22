@@ -164,6 +164,8 @@
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
+* [Emoji Packs](https://emojicreator.ai/packs) - Emoji Packs
+
 
 ***
 
