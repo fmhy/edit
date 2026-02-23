@@ -43,35 +43,17 @@ features:
     link: /video
     details: Stream, download, torrent and binge all your favourite movies and shows!
     icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
-      0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="lucide
-      lucide-projector"><path d="M5 7 3 5"/><path d="M9 6V3"/><path d="m13 7
-      2-2"/><circle cx="9" cy="13" r="3"/><path d="M11.83 12H20a2 2 0 0 1 2
-      2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h2.17"/><path d="M16
-      16h2"/><title>Streaming</title></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-tv-minimal-play"><path d="M15.033 9.44a.647.647 0 0 1 0 1.12l-4.065 2.352a.645.645 0 0 1-.968-.56V7.648a.645.645 0 0 1 .967-.56z"/><path d="M7 21h10"/><rect width="20" height="14" x="2" y="3" rx="2"/><title>Streaming</title></svg>
 
   - title: Listening
     icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
-      0 24 24" fill="none" stroke="#7c82fe" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="lucide
-      lucide-drum"><path d="m2 2 8 8"/><path d="m22 2-8 8"/><ellipse cx="12"
-      cy="9" rx="10" ry="5"/><path d="M7 13.4v7.9"/><path d="M12 14v8"/><path
-      d="M17 13.4v7.9"/><path d="M2 9v8a10 5 0 0 0 20 0V9"/><title>Listening</title></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7c82fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-music"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/><title>Listening</title></svg>
     link: /audio
     details: Stream, download and torrent songs, podcasts and more!
 
   - title: Gaming
     icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
-      0 24 24" fill="none" stroke="#49d3e9" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="lucide
-      lucide-swords"><polyline points="14.5 17.5 3 6 3 3 6 3 17.5 14.5"/><line
-      x1="13" x2="19" y1="19" y2="13"/><line x1="16" x2="20" y1="16"
-      y2="20"/><line x1="19" x2="21" y1="21" y2="19"/><polyline points="14.5 6.5
-      18 3 21 3 21 6 17.5 9.5"/><line x1="5" x2="9" y1="14" y2="18"/><line
-      x1="7" x2="4" y1="17" y2="20"/><line x1="3" x2="5" y1="19" y2="21"/><title>Gaming</title></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#49d3e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-gamepad-2"><line x1="6" x2="10" y1="11" y2="11"/><line x1="8" x2="8" y1="9" y2="13"/><line x1="15" x2="15.01" y1="12" y2="12"/><line x1="18" x2="18.01" y1="10" y2="10"/><path d="M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z"/><title>Gaming</title></svg>
     link: /gaming
     details:
       Download and play all your favourite games or emulate some old but gold
@@ -79,12 +61,7 @@ features:
 
   - title: Reading
     icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
-      0 24 24" fill="none" stroke="#3ccd93" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="lucide
-      lucide-book-marked"><path d="M10 2v8l3-3 3 3V2"/><path d="M4 19.5v-15A2.5
-      2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1
-      0-5H20"/><title>Reading</title></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3ccd93" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-text"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/><path d="M8 11h8"/><path d="M8 7h6"/><title>Reading</title></svg>
     link: /reading
     details:
       Whether you're a bookworm, otaku or comic book fan, you'll be able to find
@@ -106,12 +83,7 @@ features:
 
   - title: Educational
     icon: |
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
-      0 24 24" fill="none" stroke="#A8D8B9" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round" class="lucide
-      lucide-book-copy"><path d="M2 16V4a2 2 0 0 1 2-2h11"/><path d="M22 18H11a2
-      2 0 1 0 0 4h10.5a.5.5 0 0 0 .5-.5v-15a.5.5 0 0 0-.5-.5H11a2 2 0 0 0-2
-      2v12"/><path d="M5 14H4a2 2 0 1 0 0 4h1"/><title>Educational</title></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#A8D8B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-graduation-cap"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/><title>Educational</title></svg>
     link: /educational
     details: Educational content for all ages.
 
