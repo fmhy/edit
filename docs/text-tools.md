@@ -478,7 +478,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa), [⁠Lyx](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa), [⁠LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) - AI-Powered LaTex Editor w/ Image to Text OCR / [Discord](https://discord.gg/Q4chBVDFvK)
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
