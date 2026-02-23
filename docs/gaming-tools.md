@@ -234,6 +234,7 @@
 * [RankOne](https://www.rankone.global/) - Tracking / Database
 * [GG](https://ggapp.io/) - Tracking / Database
 * [KeepTrackOfMyGames](https://keeptrackofmygames.com/) - Tracking / Database
+* [Nodal.gg](https://nodal.gg/) - Game Discovery / Recommendations (Steam) / Interactive Map
 * [PlayTracker](https://playtracker.net/) - Tracking / Database
 * [Gamelib](https://gamelib.app/explore) - Tracking / Database
 * [Backloggery](https://backloggery.com/) - Tracking / Database
