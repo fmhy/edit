@@ -511,23 +511,7 @@
 
 ## ▷ Coding Agents / Extensions
 
-* **Note** - Keep in mind many coding AIs run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions. Remember to backup code first before running the AI or prompts, as they can sometimes break things.
-
-***
-
-* ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
-* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
-* [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
-* [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
-* [Qodo](https://www.qodo.ai/) - Coding AI
-* [Ampcode](https://ampcode.com/) - Coding AI
-* [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
-
-***
-
-## ▷ IDE Extensions / Agents
-
-* **Note** - Use caution with autonomous agents; they can modify files and execute terminal commands. Running in a container or VM is recommended.
+* **Note** - Keep in mind many coding AIs run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions as they can modify files and execute terminal commands. Remember to backup code first before running the AI or prompts, as they can sometimes break things. Running in a container or VM is recommended.
 
 ***
 
@@ -554,9 +538,6 @@
 
 ## ▷ Web / App Builders
 
-* [AI Studio](https://aistudio.google.com/app/apps) - Coding AI 
-* [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct / Side by Side Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [⁠Orchids](https://orchids.app/) - Text to Site Code
 * [v0](https://v0.app/) - Text to Site Code
 * [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - Text to Site Code / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
