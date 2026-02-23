@@ -280,6 +280,7 @@
 * [⁠ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - Broadcast 3DS Games to Emulators / Requires No Game Dump
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
+* [shadPS4](https://shadps4.net/) - PS4 Emulator / [GitHub](https://github.com/shadps4-emu/shadPS4)
 
 ***
 
