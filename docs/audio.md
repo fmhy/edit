@@ -365,7 +365,7 @@
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Download CLI](https://github.com/PrathxmOp/dab-downloader) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [QQDL](https://tidal.qqdl.site/) - Tidal / FLAC
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
-* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A
+* [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A / ALAC / Atmos
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -445,6 +445,7 @@
 * [Mixupload](https://mixupload.com/) - MP3
 * [zvu4no](https://zvu4no.org/) - MP3
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
+* [⁠T2Tunes](https://t2tunes.site/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [Lossless-FLAC](https://lossless-flac.com/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
@@ -752,7 +753,7 @@
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi)
-* [Museeks](https://museeks.io/)
+* [Museeks](https://museeks.io/) / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/)
 * [Strawberry](https://www.strawberrymusicplayer.org/)
 * [Exaile](https://exaile.org/)

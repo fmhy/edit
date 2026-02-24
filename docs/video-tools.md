@@ -283,7 +283,6 @@
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
-* [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
 * [Seanime](https://seanime.app/) - Anime Server
 * [Plex](https://www.plex.tv/) - Media Server
 * [DMS](https://github.com/anacrolix/dms) - Media Server

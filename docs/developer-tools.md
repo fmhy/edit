@@ -556,6 +556,7 @@
 
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
+* [Skills](https://skills.sh/) - Add Capabilities to AI Agents
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
 * [PR-Agent](https://github.com/qodo-ai/pr-agent) - Automated Pull Request Reviews
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
@@ -1109,6 +1110,7 @@
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
+* [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source](https://git.madhouse-project.org/iocaine/iocaine)
 
 ***
 
