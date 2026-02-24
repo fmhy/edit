@@ -298,6 +298,7 @@
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
 * [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
 * [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
+* [The Notepad App](https://thenotepadapp.com/) - Local Saves
 
 ***
 
