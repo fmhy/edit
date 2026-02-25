@@ -9,7 +9,6 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 * [Selfhosting Guide](https://fmhy.net/other/selfhosting) - Run FMHY Locally
 * [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip) - Raw .zip Archive
 * [Markdown Page](https://api.fmhy.net/single-page) (Mirrors: [2](https://xtwnunsbzyrrxaiqekyt.supabase.co/functions/v1/single-page-docs)/[3](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
-* [JSON Page](https://fmhy-api.lyu63651-8ca.workers.dev/) - Entire JSON on Single Page
 
 ***
 
