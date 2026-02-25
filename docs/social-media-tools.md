@@ -48,6 +48,7 @@
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
+* [Discord Quest Script](https://rentry.co/FMHYB64#discord-quests) - Discord Quest Auto-Complete
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews) / [Discord](https://discord.gg/discord-603970300668805120)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
