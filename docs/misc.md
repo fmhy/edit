@@ -145,6 +145,7 @@
 * [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
+* [mealideas](https://mealideas.ai/) - AI-powered meal decisions that learn your taste
 
 ***
 
