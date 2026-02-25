@@ -517,12 +517,12 @@
 ***
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3.1 Pro / Claude Opus 4.6 / Limits Resets Weekly / Account Manager / Usage Tracker / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
-* [GitHub Copilot](https://github.com/features/copilot) - Coding AI
+* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
+* [GitHub Copilot](https://github.com/features/copilot) - Coding AI / Claude Haiku 4.5 / GPT-5 mini
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
-* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
+* [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
+* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3-Coder / Qwen3.5-Plus (Qwen3.5-397B-A17B) / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
