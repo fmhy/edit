@@ -517,7 +517,7 @@
 ***
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
+* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / Gemini 3 Flash/ Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI / Claude Haiku 4.5 / GPT-5 mini
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
