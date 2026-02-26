@@ -197,7 +197,7 @@
 * [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
 * [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
-* [PixelartVillage](https://pixelartvillage.com/), [Pixel It](https://giventofly.github.io/pixelit/), [PixelartGenerator](https://pixelartgenerator.app/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converter / Web
+* [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/), [PixelartGenerator](https://pixelartgenerator.app/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
@@ -538,7 +538,7 @@
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
 * [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
-* [⁠Gridfinity](https://gridfinity.xyz/) - 3D Storage Systems
+* [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://www.multiboard.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
 * [Vertex](https://vertex.im/) - 3D Icons
@@ -589,6 +589,7 @@
 
 ## ▷ 3D Printing
 
+* 🌐 **[Awesome 3D Printing](https://github.com/ad-si/awesome-3d-printing)** - 3D Printing Resources
 * [Polymaker](https://wiki.polymaker.com/) / [Discord](https://discord.com/invite/polymaker) or [Teaching Tech](https://teachingtechyt.github.io/index.html) / [GitHub](https://github.com/teachingtechYT/teachingtechYT.github.io) - 3D Printer Guides / Learning 
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
 * [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices 

@@ -534,7 +534,7 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
-* ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager
+* ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager / [TUI](https://github.com/davep/braindrop)
 * [Start.me](https://about.start.me/) - Web-Based Manager
 * [Bookmark Manager Zero](https://bmz.absolutezero.fyi/) - Firefox / Chrome Extension / Android
 * [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox

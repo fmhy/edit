@@ -269,7 +269,7 @@
 # ► File Transfer
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[Blip](https://blip.net/)** - Desktop / Mobile Transfer
+* ⭐ **[Blip](https://blip.net/)** - Desktop / Mobile Transfer / Turn "Searchable by Name" Off in Settings
 * [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Wormhole](https://wormhole.app/) - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)

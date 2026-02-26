@@ -66,9 +66,9 @@
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [MiroThinker](https://dr.miromind.ai/) - Research Chatbot / [Discord](https://discord.gg/GPqEnkzQZd) / [GitHub](https://github.com/MiroMindAI)
-* [SciSpace](https://scispace.com/) - Research Chatbot
+* [SciSpace](https://scispace.com/) - Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)
 * [⁠iAsk AI](https://iask.ai/) - Research Chatbot
-* [⁠Bohrium](https://www.bohrium.com/) - Research Chatbot
+* [⁠Bohrium](https://www.bohrium.com/) - Research Chatbot / [Discord](https://discord.com/invite/x4FWNxar3c)
 * [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
 * [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
 * [Alphaxiv](https://www.alphaxiv.org/) - Document Chatbot

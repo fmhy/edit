@@ -307,6 +307,7 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
+* [⁠Decompedia](https://decomp.wiki/) - Game Decomp Resources 
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Minecraft Mod Loaders
 
 ***
@@ -1108,7 +1109,7 @@
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
-* [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source](https://git.madhouse-project.org/iocaine/iocaine)
+* [⁠Iocaine](https://iocaine.madhouse-project.org/) / [Source](https://git.madhouse-project.org/iocaine/iocaine) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Anti-Web Crawler Software
 
 ***
 

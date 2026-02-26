@@ -88,6 +88,7 @@
 * [Ryzen Master Utility](https://www.amd.com/en/products/software/ryzen-master.html) - Overclocking Control for Ryzen Desktop CPU
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
 * [DLSS Swapper](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
+* [⁠RTX Features Update](https://forums.guru3d.com/threads/rtx-features-total-update-package-v4-and-dlss-4-5-discussion.459016/) - Latest DLSS Without NVIDIA App 
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [⁠DXVK Studio](https://dxvkstudio.netlify.app/) - DXVK Manager
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction 
@@ -216,6 +217,7 @@
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
 * [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary 
 * [⁠FAT Online](https://fullmeter.com/fatonline) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
+* [⁠Melee Calculator](https://ikneedata.com/calculator.html) - Melee Frame Data Calculator
 * [⁠Ultimate Frame Data](https://ultimateframedata.com/) - Move Database for Smash + Street Fighter
 * [SF6Frames](https://sf6frames.com/) or [FighterCenter](https://fightercenter.net/) - Street Fight 6 Move Databases
 * [⁠Wavu](https://wavu.wiki/) / [Discord](https://discord.com/invite/86UFj8GEcC), [Okizeme](https://okizeme.gg/) or [TekkenDocs](https://tekkendocs.com/) - Tekken Game Guides / Move Databases
@@ -274,7 +276,7 @@
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 * [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
-* [Incendar](https://incendar.com/) - Game Release Date Tracker
+* [Incendar](https://incendar.com/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Tracker
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker
 
 ***
@@ -462,6 +464,7 @@
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 * [⁠Carbon](https://discord.gg/52d8ydB5dz) - Self-Hostable Private Fortnite Servers / 1.7.2-30.00 & 30.10+ Via Proxy
+* [Revive Joint Operations](https://revivejointops.com/) or [JointOps2024](https://jointops2024.com/) - Joint Ops Revival Project / Clean Files Required / [YouTube](https://www.youtube.com/@SPAGHETTI-JO) / [Discord](https://discord.com/invite/7AG8gTq)
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/clashofmagic) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
@@ -591,7 +594,7 @@
 * ⭐ **[Team Resurgent](https://rentry.co/FMHYB64#team-resurgent)** - Xbox Homebrew Tools
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [xbGuard](https://xbguard.live) / [Discord](https://discord.gg/YkpmBHK) or [Proto Stealth](https://www.freestealth.com/) - Xbox 360 Stealth Servers 
+* [Xbox 360 Stealth Servers Guide](https://rentry.co/FMHYB64#xbox-ss)
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
@@ -636,7 +639,7 @@
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search / [Discord](https://discord.com/invite/ccleaf)
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Blockmatic](https://blockmatic.trafficlunar.net/) - Minecraft Pixel Art Editor / [GitHub](https://github.com/trafficlunar/blockmatic)
-* [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
+* [PixelStacker](https://taylorlove.info/pixelstacker/), [MinecraftArt](https://minecraftart.org/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Import images to Minecraft Art
 * [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
@@ -773,7 +776,7 @@
 * [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes), [SkinsRestorer](https://skinsrestorer.net/) / [GitHub](https://github.com/SkinsRestorer/SkinsRestorer) or [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editors
 * [MinecraftCapes](https://minecraftcapes.net/) / [Discord](https://discord.com/invite/jqRU9SN) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [Minecraft Heads](https://minecraft-heads.com/) - Custom Minecraft Heads / [Discord](https://discord.com/invite/K7yxDD2HP3)
-* [PVPRP](https://pvprp.com/) - PVP Texture Packs
+* [PVPRP](https://pvprp.com/) - PVP Texture Packs / [Auto-Download Script](https://greasyfork.org/en/scripts/467663)
 * [⁠ConvertMCPack](https://convertmcpack.net/) - Texture Pack Version Converter 
 
 ***

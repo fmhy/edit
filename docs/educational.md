@@ -11,7 +11,7 @@
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://pastebin.com/e77cHmgm), [Chrome](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
-* [YT Video Essay Hall of Fame](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539) - YouTube Video Essay Archive
+* [YT Video Essay Hall of Fame](https://heyitsdean.github.io/Video-Essay-Hall-Of-Fame/) - YouTube Video Essay Archive / [Document](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539)
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
@@ -525,7 +525,7 @@
 * [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
 * [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - Free 3D Printable Hardware Parts + Tools
-* [Build List](https://buildlist.org/) - On-Demand Online Manufacturers
+* [Build List](https://buildlist.org/) or [Parts Made Fast](https://partsmadefast.com/) - On-Demand Online Manufacturers
 
 ***
 
@@ -537,7 +537,7 @@
 * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
 * [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
 * [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
-* [⁠The Rocketry Forum](https://www.rocketryforum.com/) - Rocketry Forums / Community 
+* [⁠The Rocketry Forum](https://www.rocketryforum.com/ or [Ye Olde Rocket Forum](https://www.oldrocketforum.com/) - Rocketry Forums / Community 
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
 * [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information  / [YouTube](https://www.youtube.com/@JohnLCoker)
@@ -553,6 +553,8 @@
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [AirVectors](https://www.airvectors.net/) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
+* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
 * [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
 * [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [YouTube](https://www.youtube.com/@ChrisBrady737)
@@ -561,6 +563,7 @@
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews 
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet) / [Discord](https://discord.com/invite/txzvKMSd)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -781,7 +784,7 @@
 * [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [Spacebook](https://www.spacebook.com/) - Evaluates / Tracks Satellite Collision Risks & Maneuvers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
-* [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
+* [Orbiter](https://www.orbiter-forum.com/) - Open Source Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
 
 ***
@@ -867,6 +870,7 @@
 * [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
 * [Spanish-English](https://discord.com/invite/spanish-english) or [English Chat](https://discord.gg/english) - English Learning Community / Discord
 * [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
+* [⁠IELTS Liz](https://ieltsliz.com/) - IELTS Test Preparation
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 * [CEFR Lookup](https://cefrlookup.com/) - CEFR Word Level Lookup
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
@@ -1273,6 +1277,7 @@
 * [Code.org](https://code.org/) - Computer Science Courses
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
+* [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
@@ -1626,6 +1631,7 @@
 * 🌐 **[Wiki Portals](https://rentry.co/wikiportals)** - Wiki Portals Navigation
 * [HatNote](https://top.hatnote.com/) - Top Pages
 * [Reversepedia](https://reversepedia.org/) - Page Connections
+* [⁠WikiBoard](https://www.wikiboard.org/) - Pin Board Style Browser
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](https://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [Substance](https://substance.reorx.com/) - Extract Markdown

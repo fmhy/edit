@@ -68,10 +68,8 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 **This information above is from the following page**: 
 
-## https://keepandroidopen.org/
-
-***
+https://keepandroidopen.org/
 
 **Discussion Post**:
 
-## https://redd.it/1rf71xj
+https://redd.it/1rf71xj
