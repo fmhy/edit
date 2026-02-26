@@ -72,6 +72,6 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 ***
 
-**Discussion Post**
+**Discussion Post**:
 
 ## https://redd.it/1rf71xj
