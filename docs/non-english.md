@@ -75,6 +75,7 @@
 * [3asq](https://3asq.org/) - Manga
 * [Azoramoon](https://azoramoon.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
+* [⁠Eshadow](https://www.eshadow.net/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 * [Almaany](https://www.almaany.com/) - Multilingual Dictionary
@@ -534,7 +535,6 @@
 
 # ► German / Deutsch
 
-* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion / [Telegram](https://t.me/Tarnkappe_info)
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
@@ -619,7 +619,7 @@
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
-* [tenies](https://tenies.gr/) - Live TV / Live Sports / Movies / TV / Anime
+* [tenies](https://tenies.gr/) - Movies / TV / Anime
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
@@ -1607,6 +1607,7 @@
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+* [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads
 * [tele-libre](https://tele-libre.fans/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [futbollibrehd](https://futbollibrehd.cl/) - Live Sports

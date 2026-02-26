@@ -376,7 +376,7 @@
 ## ▷ Downloading
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
@@ -531,7 +531,6 @@
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [⁠EBooksYard](https://ebooksyard.com/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
-* [ItsAllInEnglish](https://t.me/itsallinenglishs) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
@@ -648,7 +647,7 @@
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
 * ⭐ **[World History](https://www.worldhistory.org/)** or [Livius](https://www.livius.org/) - History Encyclopedias
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
-* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
+* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [⁠Brown Digital Repository](https://repository.library.brown.edu/studio/collections/library/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
 * [Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
@@ -809,7 +808,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[Nexus Search](https://t.me/nexus_search/214)**, [2](https://t.me/libgen_scihub_science_nexus_bot) - Science / Articles
-* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/) / [Wiki](https://jmail.world/wiki), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://www.jmail.world/)** / [2](https://jmailarchive.org/) / [Wiki](https://jmail.world/wiki), [Epstein Secrets](https://epsteinsecrets.com/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDoc](https://idoc.pub/) - Document Search
 * [Higher Intellect](https://preterhuman.net/) - Document Search
@@ -828,7 +827,7 @@
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
-* [OATD](https://oatd.org/) - Theses / Dissertations
+* [OATD](https://oatd.org/) or [⁠Brown Digital Repository](https://repository.library.brown.edu/studio/collections/dissertation/) - Theses / Dissertations
 * [lol my thesis](https://lolmythesis.com/) - Summarized Theses
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://nap.nationalacademies.org/) - Reports

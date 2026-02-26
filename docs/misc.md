@@ -126,7 +126,7 @@
 # ► Food
 
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
-* 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
+* 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) or [KitchenOwl](https://kitchenowl.org/) / [GitHub](https://github.com/TomBursch/kitchenowl) - Grocery / Pantry Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
@@ -204,7 +204,7 @@
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
-* [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
+* [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
 * [PlanYourRoom](https://www.planyourroom.com/) - Visualize PC Setups
 
@@ -299,7 +299,8 @@
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
+* [World Monitor](https://worldmonitor.app/) - Real-Time News Map / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor)
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
@@ -496,6 +497,7 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
 * ⭐ **[Current Events Wiki](https://wikipedia.org/wiki/Portal:Current_events)** - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
+* [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
 * [News as Facts](https://newsasfacts.com/) - Wiki-Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Top Stories](https://murmel.social/top) - Top Fediverse News
@@ -550,6 +552,7 @@
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+* [World Monitor](https://tech.worldmonitor.app/) - Real-Time Tech News Aggregator / Monitor / Map / [GitHub](https://github.com/koala73/worldmonitor)
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 * [⁠DeadStack](https://deadstack.net/) - Tech / AI News Aggregator
 * [TechURLs](https://techurls.com/) - Tech News
@@ -774,6 +777,7 @@
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
+* [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform-Based Side Work
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -1241,7 +1245,7 @@
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
 * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/mod/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
 * ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List
-* ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
+* ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App / [GitHub](https://github.com/HabitRPG/habitica)
 * [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons
 * [⁠FocusTube](https://github.com/malekwael229/FocusTube), [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Distraction / Doomscroll Blocking Extensions
 * [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
@@ -1433,6 +1437,7 @@
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
 * [Just Type Stuff](https://justtypestuff.com/) - Type Things into Existence
+* [⁠HammyHome](https://hammyhome.com/) - Interactive Virtual Pet Hamsters
 * [Nicky Case](https://ncase.me/) - Interactive Social Simulations / Puzzles
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
@@ -1528,6 +1533,7 @@
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [elgooG](https://elgoog.im/) - Google Easter Eggs
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
+* [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
 * [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
@@ -1584,7 +1590,7 @@
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
-* [Politiscales](https://politiscales.party/), [8dreams](https://8dreams.github.io/), [PolitiScales](https://politiscales.party/) or [8values](https://8values.github.io/) - Political Alignment Tests
+* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [Face Shape Detectors](https://www.faceshapedetectors.org/) - Face Shape Detectors
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
@@ -1613,6 +1619,8 @@
 * [webcamhopper](https://www.webcamhopper.com/)
 * [WorldCam](https://worldcam.eu/)
 * [mangolinkworld](https://www.mangolinkworld.com/)
+* [Insecam](http://www.insecam.org/en/)
+* [CameraFTP](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [livecamcroatia](https://www.livecamcroatia.com/en)

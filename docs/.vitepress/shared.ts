@@ -95,7 +95,7 @@ export const nav: DefaultTheme.NavItem[] = [
             },
             {
                 text: '😇 SFW FMHY',
-                link: 'https://rentry.org/piracy'
+                link: 'https://fmhy.xyz/'
             },
             {
                 text: '🏠 Selfhosting',

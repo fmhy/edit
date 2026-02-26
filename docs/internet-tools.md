@@ -43,7 +43,7 @@
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
-* ⭐ **[KeePass](https://keepass.info/)** / [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only](https://subdavis.com/Tusk/) or **[KeePassXC](https://keepassxc.org/)**
+* ⭐ **[KeePass](https://keepass.info/)** / [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only](https://tusk.subdavis.com/) or **[KeePassXC](https://keepassxc.org/)**
 * ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
@@ -75,6 +75,7 @@
 * ⭐ **[Linkstack](https://linkstack.org)** / [GitHub](https://github.com/LinkStackOrg/LinkStack) or **[LittleLink](https://littlelink.io/)** - Unlimited / Custom URLs / Self-Hosted
 * ⭐ **[Carrd](https://carrd.co/)** - Unlimited / Custom URLs / Multiple Designs
 * [⁠WonderLink](https://en.wonderlink.de/) - Unlimited / Custom URLs
+* [OneURL](https://www.oneurl.live/) - Unlimited / Custom URLs / [GitHub](https://github.com/KartikLabhshetwar/oneurl)
 * [BioSites](https://biosites.com/) - Unlimited / Custom URLs
 * [Linkr](https://linkr.com/) - Unlimited / Custom URLs
 * [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
@@ -161,7 +162,7 @@
 * [Feed Flow](https://www.feedflow.dev/) - RSS Reader / Multi-Platform / [GitHub](https://github.com/prof18/feed-flow)
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader / Multi-Platform
 * [NewsBlur](https://www.newsblur.com/) - RSS Reader / Web-Based / [GitHub](https://github.com/samuelclay/NewsBlur)
-* [rss.fmhy](https://rss.fmhy.bid/) - RSS Reader / Web-Based
+* [rss.fmhy](https://rss.fmhy.bid/) or [Prodottoinrete](https://freshrss.prodottoinrete.com/i/) - RSS Reader / Web-Based
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) - RSS Reader / Web-Based
 * [JungleReader](https://www.zajungle.com/) - RSS Reader / Web-Based
 * [JesterEngine](https://jesterengine.com/) - RSS Reader / Web-Based
@@ -388,6 +389,7 @@
 * [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [Kutt](https://kutt.it/) - Account Required / [GitHub](https://github.com/thedevs-network/kutt)
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten Wikimedia Domain Links
@@ -428,7 +430,7 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#thunderbird) 
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
 * [Outlook](https://outlook.live.com/owa/)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail)
@@ -473,6 +475,7 @@
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
+* [⁠Driftz Mail](https://driftz.net/) - 23 Domains
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains

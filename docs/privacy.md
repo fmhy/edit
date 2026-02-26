@@ -36,6 +36,7 @@
 * [Hagezi Blocklists](https://github.com/hagezi/dns-blocklists) - Blocklist Collection
 * [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
+* [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites 
 * [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines 
 
 ***
@@ -280,7 +281,7 @@
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
-* 🌐 **[Matrix Clients](https://matrix.org/ecosystem/clients/)** / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
+* 🌐 **[Matrix Clients](https://matrix.org/ecosystem/clients/)** / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers), [7](https://masl.dev/)
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** - All Platforms / Requires Phone / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Some NSFW / [Stickers](https://signalstickers.org/)
 * ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)

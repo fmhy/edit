@@ -23,6 +23,8 @@
 * [⁠Lets Play Index](https://www.letsplayindex.com/) - Index of Lets Plays / Longplays
 * [⁠TASVideos](https://tasvideos.org/) - TAS Video Community / Resources / [Emulator Resources](https://tasvideos.org/EmulatorResources) / [Game Resources](https://tasvideos.org/GameResources)
 * [VGHF Digital Archive](https://library.gamehistory.org/) - Historical Documents, Magazines, Transcripts, etc. / [Archive](http://archive.gamehistory.org/)
+* [⁠The Data Dungeon](https://archive.thedatadungeon.com/) - Pre-Release Video Game Content Archive / [Discord](https://discord.gg/bJKBRNagfA)
+* [⁠The Playstation Datacenter](https://psxdatacenter.com/) - Playstation Data Index 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
 * [NIWA](https://www.niwanetwork.org/) - Nintendo Independent Wiki Alliance / [Discord](https://discord.gg/59Mq6qB)
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
@@ -50,7 +52,7 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
 * ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
@@ -212,6 +214,11 @@
 * [/codmeta/](https://dan.valeena.dev/guides/codmeta/), [2](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database
+* [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary 
+* [⁠FAT Online](https://fullmeter.com/fatonline) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
+* [⁠Ultimate Frame Data](https://ultimateframedata.com/) - Move Database for Smash + Street Fighter
+* [SF6Frames](https://sf6frames.com/) or [FighterCenter](https://fightercenter.net/) - Street Fight 6 Move Databases
+* [⁠Wavu](https://wavu.wiki/) / [Discord](https://discord.com/invite/86UFj8GEcC), [Okizeme](https://okizeme.gg/) or [TekkenDocs](https://tekkendocs.com/) - Tekken Game Guides / Move Databases
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [Ukikipedia](https://ukikipedia.net/) - SM64 Speedrunning Wiki
 * [P2SR Wiki](https://wiki.portal2.sr/) - Portal 2 Speedrunning Wiki
@@ -279,6 +286,7 @@
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[SteamDB Ratings](https://steamdb.info/stats/gameratings/)** - Steam Ratings Chart
 * [TasteDive](https://tastedive.com/games) or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* [⁠Nodal](https://nodal.gg/) - Game Recommendations
 * [⁠/V/'s Recommended Games Wiki](https://vsrecommendedgames.miraheze.org/) - Game Recommendations
 * [⁠Emulation Collection](https://docs.google.com/spreadsheets/d/1bYIhExnaQXYyWLnna1WJPLMvXnmSlq2tvazDL3eQ3z0) - Game Recommendation Chart / 7+ Metacritic
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Game Recommendation Directory
@@ -400,8 +408,7 @@
 ## ▷ Multiplayer Mods
 
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
-* 🌐 **[⁠CoD All](https://gitlab.com/xifil/cod-all)** - CoD Multiplayer Mod Index
-* 🌐 **[CoD Servers](https://codservers.xyz/)** or **[GameServe.rs](https://gameserve.rs/)** - COD Multiplayer Mod Server Tracker
+* 🌐 **[CoD Servers](https://codservers.xyz/)**, **[cod.pm](https://cod.pm/)** or **[GameServe.rs](https://gameserve.rs/)** - COD Multiplayer Mod Server Trackers
 * ⭐ **[Plutonium](https://plutonium.pw/)** - COD BO1/BO2, MW3 and WaW Multiplayer Client / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
 * ⭐ **[CnCNet](https://cncnet.org/)** - Multiplayer Command & Conquer, Red Alert & more / [Discord](https://discord.com/invite/aJRJFe5)
 * [Balatro Multiplayer](https://balatromp.com/) - Balatro Multiplayer Mod / [Discord](https://discord.com/invite/W22FEqVWsq) / [GitHub](https://github.com/Balatro-Multiplayer/BalatroMultiplayer)
@@ -763,10 +770,11 @@
 * [MinecraftSkins](https://www.minecraftskins.com/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
 * [MSkins](https://mskins.net/en) - Skin Grabber
 * [Ely.by](https://ely.by/) - Skin System / Authorization
-* [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes) or [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editor
+* [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes), [SkinsRestorer](https://skinsrestorer.net/) / [GitHub](https://github.com/SkinsRestorer/SkinsRestorer) or [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editors
 * [MinecraftCapes](https://minecraftcapes.net/) / [Discord](https://discord.com/invite/jqRU9SN) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [Minecraft Heads](https://minecraft-heads.com/) - Custom Minecraft Heads / [Discord](https://discord.com/invite/K7yxDD2HP3)
 * [PVPRP](https://pvprp.com/) - PVP Texture Packs
+* [⁠ConvertMCPack](https://convertmcpack.net/) - Texture Pack Version Converter 
 
 ***
 
@@ -783,7 +791,7 @@
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT2Components](https://misode.github.io/nbt2components/) - NBT to Component Converter
-* [Layoutit](https://voxels.layoutit.com/), [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Layoutit](https://voxels.layoutit.com/), [⁠vengi](https://vengi-voxel.github.io/vengi/ / [GitHub](https://github.com/vengi-voxel/vengi)), [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 
 ***
 
@@ -924,8 +932,8 @@
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKWii Tracks / Multiplayer / Requires Disc / [Discord](https://discord.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
-* ⭐ **[CTGP Deluxe](https://www.ctgpdx.com/)** - Custom MK8DX Tracks
-* ⭐ **[CTGP-7](https://ctgp-7.github.io/)** - Custom MK7 Tracks
+* ⭐ **[CTGP Deluxe](https://www.ctgpdx.com/)** - Custom MK8DX Tracks / [Discord](https://discord.gg/9k5AjARVP9)
+* ⭐ **[CTGP-7](https://ctgp-7.github.io/)** - Custom MK7 Tracks / [Discord](https://discord.gg/0uTPwYv3SPQww54l)
 * [Combo Builder](https://mariokart.info/) - Setup Builder MK7, MK8(D), and MKW
 * [MKWorld](https://www.mkworldbuilder.com/) - Mario Kart World Setup Builder
 * [MKW Statpedia](https://docs.google.com/spreadsheets/d/1EQd2XYGlB3EFFNE-35hFLaBzJo4cipU9DZT4MRSjBlc/) - Mario Kart World Stats
@@ -938,9 +946,10 @@
 * [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe) - Custom MKWii Tracks
 * [TTs Online](https://redd.it/ie6gi7) - MKWii Online Time Trials Mod
 * [CTGPRecords](https://www.youtube.com/@CTGPRecords) - Custom Track Records / Videos
-* [MaxVRList](https://maxvrlist.com/) - VR Leaderboards
+* [MaxVRList](https://maxvrlist.com/) - VR Leaderboards / [Discord](https://discord.gg/S8HcYawzhx)
 * [xer](https://xer.fr/mkw) - MKWii Item Probabilities
-* Tockdom Wikis - [MKWii](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis
+* [MK8DX Prob](https://japan-mk.blog.jp/mk8dx/note4/prob.html) - MK8DX Item Probabilities
+* Tockdom Wikis - [MKWii](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis / [Discord](https://discord.gg/pppFCpWtFJ)
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKWii Textures
 * [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide

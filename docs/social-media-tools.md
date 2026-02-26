@@ -48,6 +48,7 @@
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
+* [Discord Quest Script](https://rentry.co/FMHYB64#discord-quests) - Discord Quest Auto-Complete
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews) / [Discord](https://discord.gg/discord-603970300668805120)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
@@ -414,7 +415,7 @@
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
 * [yoink.tools](https://yoink.tools/) - YouTube Downloader / Online / [GitHub](https://github.com/coah80/yoink)
 * [⁠YT1s](https://yt1s.com.co/) - YouTube Downloader / Online
-* [⁠YTDown](https://ytdown.io/) - YouTube Downloader / Online
+* [⁠YTDown](https://app.ytdown.to/en7/) - YouTube Downloader / Online
 * [CNVMP3](https://cnvmp3.com/) - YouTube Downloader / Online / [Subreddit](https://www.reddit.com/r/cnvmp3)
 * [SongCharts](https://dl2mp3.to/) - YouTube Downloader / Online
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine

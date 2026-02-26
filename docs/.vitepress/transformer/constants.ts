@@ -66,7 +66,7 @@ export const headers: Header = {
   },
   'non-english.md': {
     title: 'Non-English',
-    description: 'International Piracy Sites'
+    description: 'International Free Sites'
   },
   'reading.md': {
     title: 'Books / Comics / Manga',

@@ -157,6 +157,7 @@
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
@@ -283,7 +284,6 @@
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
-* [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
 * [Seanime](https://seanime.app/) - Anime Server
 * [Plex](https://www.plex.tv/) - Media Server
 * [DMS](https://github.com/anacrolix/dms) - Media Server
@@ -410,7 +410,6 @@
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review
 * [Remotion](https://www.remotion.dev/) - Video Editor
 * [Olive](https://www.olivevideoeditor.org/) - Video Editor
-* [EZVid](https://www.ezvid.com/) - Video Editor
 * [OpenShot](https://www.openshot.org/) - Video Editor
 * [Lightworks](https://lwks.com/) - Video Editor
 * [VSDC](https://www.videosoftdev.com/) - Video Editor
@@ -503,7 +502,7 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator / [Gitea](https://gitea.adhd.sh/root/spritesheet-generator)
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
