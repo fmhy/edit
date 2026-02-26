@@ -962,7 +962,6 @@
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [couchmoney](https://couchmoney.tv/) - Trakt History Based Recommendations
 * [Simkl](https://simkl.com/) - Simkl History Based Recommendations
-* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies with Friends
 * [NextFlick](https://nextflick.tv/) - Random Trailers
 
 ***

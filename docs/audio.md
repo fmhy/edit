@@ -13,7 +13,7 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Pear Desktop](https://github.com/pear-devs/pear-desktop)** - YouTube Music Client w/ Adblock
 * [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
-* [Audion](https://audionplayer.com/) - Streaming / Plugin-Based / [GitHub](https://github.com/dupitydumb/Audion)
+* [Audion](https://audionplayer.com/) - Streaming / Plugin-Based / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [PlayTorrio](https://playtorrio.xyz/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
@@ -387,7 +387,7 @@
 * [Archive](https://rentry.co/FMHYB64#archive) - Qobuz / Tidal / Soundcloud / FLAC
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
-* [Audion](https://audionplayer.com/) - Tidal / [GitHub](https://github.com/dupitydumb/Audion)
+* [Audion](https://audionplayer.com/) - Tidal / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / 128kb AAC
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free 256 ACC Premium / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
