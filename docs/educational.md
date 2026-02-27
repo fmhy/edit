@@ -175,9 +175,6 @@
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [BlackPast](https://www.blackpast.org/) - African History Encyclopedia
 * [Athena](https://athena.unige.ch/athena/) - Greek History Encyclopedia
-* [Theoi](https://www.theoi.com/) - Greek Mythology
-* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [Mission US](https://www.mission-us.org/) - American History Learning Games
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
@@ -203,6 +200,9 @@
 
 * [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology History
+* [Theoi](https://www.theoi.com/) - Greek Mythology
+* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
+* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
 * [Mythology.net](https://mythology.net/) - Mythology / Religion
