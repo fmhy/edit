@@ -470,6 +470,7 @@
 * ⭐ **[TimStreams](https://timstreams.lol/)**, [2](https://timstreams.space/), [3](https://timstreams.top/) - Live Events / [Status](https://timstreams.online/) / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * [⁠StreamFree](https://streamfree.app) / [Telegram](https://t.me/streamfreeto) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
+* [TheStreamDen](https://thestreamden.com/) - Stream Aggregator
 * [SportDB](https://hoofoot.ru/) - Stream Aggregator
 * [TotalSportek.es](https://totalsportek.es/), [2](https://streameast.cz/) - Stream Aggregator
 * [CrackStreams24](http://crackstreams24.cfd/) - Stream Aggregator
