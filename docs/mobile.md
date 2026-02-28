@@ -1345,6 +1345,7 @@
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Requires Sign-Up
 * [Viki](https://apps.apple.com/app/id445553058) - Asian Drama
 * [TVBAnywhere](https://apps.apple.com/app/id1191642382) - Chinese Drama
+* [Tunity](https://tunity.tempurl.host/) - Hear Any Muted TV / US Only
 
 ***
 
