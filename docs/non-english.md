@@ -327,6 +327,7 @@
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://godamh.com/) - Manga
+* [MangaGulf] (https://mangagulf.com/)). Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
 * [tvbsmh](https://www.tvbsmh.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
