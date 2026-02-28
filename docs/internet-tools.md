@@ -787,6 +787,7 @@
 * [Resizing](https://resizing.app/) - Resize Images
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
+* [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga) - Night mode for Chrome: dark theme, yellow filter & text resize
 
 ***
 
