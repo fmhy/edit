@@ -225,6 +225,7 @@
 * [HGSearch](https://hgsearch.ridhom.dev/) - HealthyGamerGG Video Dialogue Search
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
+* [RentalFinder](https://www.rentalfinder.nl/) - Automated Rental Finder in the Netherlands
 
 ***
 
