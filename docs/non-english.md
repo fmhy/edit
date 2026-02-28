@@ -1919,6 +1919,7 @@
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.com/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
+* [krydsordspil.dk](https://www.krydsordspil.dk/) - Danish / Crosswords / Ordbog / Spil
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [NPO](https://npo.nl/) - Dutch / TV Streaming
 * [Oorboekje](https://oorboekje.nl/) or [luisterradio](https://luisterradio.fm/) - Dutch Radio Stations
