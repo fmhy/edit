@@ -1074,6 +1074,7 @@
 * [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
+* [ChapterDB.org Archive](https://chapterdb.plex.tv/) - Community-driven online chapter database. Archived version of ChapterDB.org
 
 ***
 
