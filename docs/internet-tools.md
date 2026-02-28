@@ -259,6 +259,7 @@
 * [eTools.ch](https://www.etools.ch/)
 * [WorldWideScience](https://worldwidescience.org/)
 * [Whoogle Search](https://github.com/benbusby/whoogle-search) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [FansFinder](https://fansfinder.cc/) - The Search Engine For OnlyFans
 
 ***
 
