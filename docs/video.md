@@ -337,6 +337,7 @@
 * [Vidbox](https://vidbox.cc/asian-drama) - TV / Movies / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
 * [KissAsian.video](https://kissasian.video/) - TV / Movies
+* [Kdramacool](https://kdramacool.com.ro/) - TV / Movies
 * [KissKH.dk](https://kisskh.dk/) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [AsianSubs](https://asiansubs.com/) - TV / Movies
