@@ -1,3 +1,3 @@
 #### Android Spotify Note
 
-Many modded APKs are buggy as of now and may not work at all.
+None of Spotify apk(for rooted and non-rooted users) works for now due to server side restriction.
