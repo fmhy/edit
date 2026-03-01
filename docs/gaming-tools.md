@@ -527,6 +527,7 @@
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guide
 * ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
 * ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - Wii U Homebrew Wiki
+* ⭐ **[⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager)** - Wii Backup Manager / Homebrew App 
 * ⭐ **[WiiLink](https://wiilink.ca/)** - Wii Channel Restoration / [BlueSky](https://bsky.app/profile/wiilink.ca) / [X](https://x.com/WiiLink24) / [Discord](https://discord.gg/wiilink) / [GitHub](https://github.com/WiiLink24)
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink WFC](https://wfc.wiilink.ca/) / [BlueSky](https://bsky.app/profile/wiilink.ca) / [X](https://x.com/WiiLink24) / [Discord](https://discord.gg/wiilink) - Wii Multiplayer Servers
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
@@ -534,7 +535,6 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
 ***
