@@ -356,7 +356,7 @@
 # ► Android Camera
 
 * ⭐ **[Google Lens](https://lens.google.com/)** - Multiple Camera Tools
-* ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** / [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) / [Windows Driver](https://ip-webcam.appspot.com/), [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam / Live Cam
+* ⭐ **[Reincubate Camo](https://camo.com/studio)** / [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) / [Windows Driver](https://ip-webcam.appspot.com/), [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam / Live Cam
 * [Libre Camera](https://github.com/iakdis/librecamera) - Camera App
 * [GrapheneOS Camera](https://github.com/GrapheneOS/Camera) - Camera App
 * [Blackmagic Camera](https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam) - Camera App
@@ -1050,7 +1050,7 @@
 * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
 * ⭐ **[Bitwarden](https://bitwarden.com/download/apple-iphone-password-manager/)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden), **[Keepassium](https://keepassium.com/)**, [Proton Pass](https://proton.me/pass/download/ios), [AuthPass](https://authpass.app/) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
-* ⭐ **[Reincubate Camo](https://reincubate.com/camo/)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
+* ⭐ **[Reincubate Camo](https://camo.com/studio)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
 * [iTorrent](https://github.com/XITRIX/iTorrent) / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json) or [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent) - Torrent Clients 
 * [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iOS/iPad) Management Tool
 * [Toolbox](https://github.com/Koizeay/Toolbox) - Multi-Tool App
