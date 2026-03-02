@@ -81,7 +81,11 @@
 * [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB
 * [MiConv](https://miconv.com/) - Online / File Converter / 75MB
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
+* [Docpose.cloud](https://docpose.cloud/convert/) - Online / File Converter / 25MB (guest) / 100MB (free Registered) / File Conversion API Access
 
+***
+## ▷ File Converter APIs
+* [Docpose.cloud](https://docpose.cloud/api-docs/) - File Converter API/ 25MB (guest) / 100MB (free Registered) / 10 Conversion Per Day
 ***
 
 ## ▷ File Managers
