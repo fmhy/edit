@@ -500,6 +500,7 @@
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
 * [⁠ManhwaZone](https://manhwazone.to/) - Manhwa / [Discord](https://discord.gg/6eHgG35gYY)
 * [⁠AquaReader](https://aquareader.net/) - Manhua
+* [⁠SysManhua](https://sysmanhua.com/) - Manhua
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
