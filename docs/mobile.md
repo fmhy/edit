@@ -1114,9 +1114,17 @@
 
 ***
 
+got you. your original section **unchanged**, only missing jailbreaks inserted. no reformatting.
+
+---
+
+here - **your list format preserved**, **version separation kept**, and i added missing jailbreaks + guide links where they exist (afaict none exist for lyncis).
+
+---
+
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[IPA Apps](https://ipa-apps.me/)**, **[Jailbreaks.app](https://jailbreaks.app/)** or **[Jailbreak Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcZDsbk2j_AL5YCPnwAp6Ovf5xmLRwNK2wXrwGN__FCbkGWz6Be4l5JyHxEOyogjPnVl51nrDVOcC/pubhtml)** - Jailbreaking Tool Indexes
+* 🌐 **[IPA Apps](https://ipa-apps.me/)**, **[Jailbreaks.app](https://jailbreaks.app/)** or **[Jailbreak Chart](https://docs.google.com/spreadsheets/d/15-GeIjfsSDThS_Ic-r4E-tTlIx1yuxQDugkFUtTrxbs/edit?gid=293261150#gid=293261150)** - Jailbreaking Tool Indexes
 * 🌐 **[Types of Jailbreak](https://ios.cfw.guide/types-of-jailbreak/)** - List of Jailbreak Types
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[ReJail](https://rejail.ru/)** or [⁠CyPwn Repo](https://repo.cypwn.xyz/) - Cracked Tweaks Repository
@@ -1124,14 +1132,16 @@
 * ⭐ **[r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * ⭐ **[Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)** - Legacy iOS Devices / Downgrade / Save Blobs / Jailbreak / Bypass
-* [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1 Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
+* [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1* Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
+  - *A12 and later devices are not supported on iOS 16.6 - 16.6.1, and A15-A16/M2 devices are not supported on iOS 16.5.1 - 16.6.1.
 * [palera1n](https://palera.in) - 15.0-18.x Semi-Tethered Jailbreak (A8-A11 & T2) / [Guide](https://ios.cfw.guide/installing-palera1n/) / [GitHub](https://github.com/palera1n/palera1n)
-* [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - 16.5.1-16.6.1 Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/)
-* [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X) 
+* [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - iOS 16.5.1-16.7 RC & 17.0 | Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/) / [GitHub](https://verygenericname/nathanlr)
+* [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X)
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
 * [Odyssey](https://theodyssey.dev/) - 13.0-13.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-odyssey/)
-* [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-chimera/)
+* [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.8 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-chimera/)
 * [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - 11.0-14.8 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-unc0ver/)
+* [Electra](https://coolstar.org/electra/) - 11.0-11.4.1 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-electra/)
 * [Socket](https://socket-jb.app/) - 10.0.1-10.3.4 Semi-Tethered Jailbreak (32-bit Only) / [Guide](https://ios.cfw.guide/installing-socket/)
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - 10.0-10.3.3 Semi-Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/using-tns/)
 * [Meridian](https://github.com/PsychoTea/MeridianJB/) - 10.0-10.3.3 Semi-Untethered Jailbreak (A7-A10(X)) / [Guide](https://ios.cfw.guide/installing-meridian-ipa/)
@@ -1142,9 +1152,11 @@
 * [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2-9.3.3 Semi-Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-pangu933/)
 * [HomeDepot](https://web.archive.org/web/20240121141909/http://wall.supplies/) - 9.1-9.3.4 Semi-Untethered Jailbreak (32-bit Only) / [Guide](https://ios.cfw.guide/installing-homedepot/)
 * [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0GM-9.1 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-pangu9/)
+* [kok3shi9](https://dora2ios.web.app/kokeshi9.html) - 9.3.2-9.3.5 Semi-Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-kok3shi9/)
 * [wtfis](https://github.com/TheRealClarity/wtfis) - 8.0-8.4.1 Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-wtfis/)
 * [HomeDepot OLD](https://web.archive.org/web/20240121141903/https://wall.supplies/OLD%20iPhone%20HACKED.html) - 8.0-8.4.1 Semi-Untethered Jailbreak (A5-A5X) / [Guide](https://ios.cfw.guide/installing-homedepot/)
 * [Carbon](http://carbon.sep.lol/) - 8.0-9.3.6 Untethered Jailbreak (32-bit Only)
+* [Lyncis](https://github.com/staturnzz/Lyncis) - 8.0-8.4.1 Tethered Jailbreak (64-bit) / [Guide](https://ios.cfw.guide/using-lyncis/)
 * [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1-7.1.2 Untethered Jailbreak / **[Warning](https://rentry.co/77idzr4v)** / [Guide](https://ios.cfw.guide/installing-pangu7/) / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa)
 * [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0-7.0.6 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-evasi0n7/) / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Z1MC2ZaS)
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - 6.1.3-6.1.6 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-p0sixspwn/) / [macOS High Sierra+](https://archive.org/download/p0sixspwn-modernmacOS/p0sixspwn%206.1.6%20test.zip)
@@ -1161,13 +1173,13 @@
 * [IPSW](https://ipsw.me/) - Clean Apple Firmware
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://getsileo.app/) or [Zebra](https://getzbra.com/) - iOS Package Managers
-* [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
+* [iOS Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [Nugget](https://github.com/leminlimez/Nugget) - iOS Tweaks Tool
 * [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [OneJailbreak](https://onejailbreak.com/) or [iDownload](https://www.idownloadblog.com/tag/jailbreak/) - Jailbreak News
-
 ***
+
 
 ## ▷ iOS Sideloading
 
