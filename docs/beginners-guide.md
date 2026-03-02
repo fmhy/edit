@@ -51,8 +51,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.today/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [Streamed](https://streamed.pk/) / [WatchSports](https://watchsports.to/)**
-* **Drama Streaming: [DramaCool](https://dramacoolt.com.in/)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/)**
+* **Drama Streaming: [DramaCool](https://dramacoolt.com.in/) / [GoPlay](https://goplay.su/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
@@ -60,7 +60,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 ### Anime
 
 * **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
-* **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
+* **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
@@ -68,7 +68,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Music
 
-* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome.tf/), [3](https://monochrome.prigoana.com/), [4](https://monochrome-back.pages.dev/) 
+* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
 * **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Android: [Metrolist](https://mostafaalagamy.github.io/) / [ReVanced Manager](https://revanced.app/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
@@ -88,10 +88,10 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 ### Reading
 
 * **Downloading: [Anna's Archive](https://annas-archive.li/) / [Z-Library](https://z-lib.gd/)**
-* **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
-* **Manga: [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
-* **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
-* **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* **Audiobooks:  [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Tokybook](https://tokybook.com/)**
+* **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
+* **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
+* **Ebook Readers: [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
@@ -161,7 +161,3 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
-
-***
-
-**[^ Back to Top](#beginners-guide-to-piracy)**

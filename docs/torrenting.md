@@ -4,13 +4,13 @@
 ***
 ***
 
-* **Warning** - It's best to avoid torrent sites (including aggregators) for software and games, with the exception of RuTracker and m0nkrus. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+* **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
 
 # ► Torrent Sites
 
-* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Software / Requires Sign-Up
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires Sign-Up
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [GenP](https://rentry.co/FMHYB64#genp) / [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
@@ -47,7 +47,6 @@
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
 * [uIndex](https://uindex.org/)
-* [BTSearch](https://btsearch.19950817.xyz/en)
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/) - Magnet Link Sharing Platform
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Search Web App
@@ -143,7 +142,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [Private_Trackers](https://igwiki.lyci.de/wiki/Private_trackers), [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)**, [⁠OpenSignup](https://opensignup.xyz/) / [GitHub](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 
@@ -153,7 +152,6 @@
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
 * [⁠cross-seed](https://www.cross-seed.org/) - Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites / [GitHub](https://github.com/cross-seed/cross-seed)
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
-* [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 
 ***
 

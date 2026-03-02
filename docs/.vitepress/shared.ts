@@ -86,7 +86,8 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
             { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
             { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
-            { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+            { text: '✴️ rss.fmhy', link: 'https://rss.fmhy.bid/' },
+            { text: '📋 paste.fmhy', link: 'https://paste.fmhy.bid/' },
             { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
             {
                 text: '💡 Site Hunting',
@@ -94,7 +95,7 @@ export const nav: DefaultTheme.NavItem[] = [
             },
             {
                 text: '😇 SFW FMHY',
-                link: 'https://rentry.org/piracy'
+                link: 'https://fmhy.xyz/'
             },
             {
                 text: '🏠 Selfhosting',

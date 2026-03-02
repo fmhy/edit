@@ -72,8 +72,13 @@ files.forEach(file => {
     const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => relativePath === f);
 
 
+    let currentHeader = '';
+
     lines.forEach((line, index) => {
         const lineNum = index + 1;
+        if (/^#+\s/.test(line)) {
+            currentHeader = line;
+        }
         let errors = [];
 
         // Check 1: Starred links must be bolded
@@ -242,6 +247,38 @@ files.forEach(file => {
 
                 errors.push(`Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`);
             }
+        }
+
+        // Check 13: Duplicate Descriptions
+        const isTempMailSection = relativePath === 'docs/internet-tools.md' && currentHeader.includes('Temp Mail');
+        if (line.includes('/') && !isTempMailSection) {
+            const BLOCK_SPLIT = '___BLOCK_SPLIT___';
+            const lineCleanedLinks = line.replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT);
+            const blocks = lineCleanedLinks.split(BLOCK_SPLIT);
+
+            blocks.forEach(block => {
+                if (!block || !block.includes('/')) return;
+
+                // Split by " / " (slash surrounded by spaces) to avoid matching paths (/bin), w/ (w/ acc), TCP/IP
+                // This assumes standard formatting (Check 8 enforces spaces)
+                const parts = block.split(/\s+\/\s+/);
+                if (parts.length < 2) return;
+
+                const seenDescriptions = new Set();
+                parts.forEach(part => {
+                    let desc = part.trim();
+                    desc = desc.replace(/^[\s\-\*⭐]+/, '').replace(/[\s\-\*⭐]+$/, '');
+
+                    if (!desc) return;
+
+                    const checkDesc = desc.toLowerCase();
+                    if (seenDescriptions.has(checkDesc)) {
+                        errors.push(`Duplicate description detected: "${desc}"`);
+                    } else {
+                        seenDescriptions.add(checkDesc);
+                    }
+                });
+            });
         }
 
         // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)

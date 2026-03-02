@@ -65,6 +65,12 @@ const emit = defineEmits<{
   (e: 'close'): void
 }>()
 
+const show = ref(true)
+
+function close() {
+  show.value = false
+}
+
 const el = shallowRef<HTMLElement>()
 const resultsEl = shallowRef<HTMLElement>()
 
@@ -420,6 +426,12 @@ async function mergeNearbyMarks() {
     while (i < marks.length - 1) {
       const currentMark = marks[i]
       const nextMark = marks[i + 1]
+
+      // Ensure they are siblings to safely merge
+      if (currentMark.parentNode !== nextMark.parentNode) {
+        i++
+        continue
+      }
       
       // Calculate distance between marks
       const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
@@ -431,8 +443,17 @@ async function mergeNearbyMarks() {
       
       // Merge if they're close (within 20px) and on the same line
       if (distance >= 0 && distance < 20 && onSameLine) {
-        // Create a merged mark element
-        const textBetween = getTextBetweenMarks(currentMark, nextMark)
+        // Collect text between and remove intermediate nodes
+        let textBetween = ''
+        let node = currentMark.nextSibling
+        
+        while (node && node !== nextMark) {
+          textBetween += node.textContent || ''
+          const next = node.nextSibling
+          node.parentNode?.removeChild(node)
+          node = next
+        }
+
         const mergedText = currentMark.textContent + textBetween + nextMark.textContent
         currentMark.textContent = mergedText
         
@@ -444,27 +465,6 @@ async function mergeNearbyMarks() {
       }
     }
   }
-}
-
-/**
- * Extracts the plain text content between two mark elements.
- * Used when merging adjacent highlights to preserve the spacing/text between them.
- */
-function getTextBetweenMarks(mark1: HTMLElement, mark2: HTMLElement): string {
-  const parent = mark1.parentNode
-  if (!parent) return ''
-  
-  let text = ''
-  let node: Node | null = mark1.nextSibling
-  
-  while (node && node !== mark2) {
-    if (node.nodeType === Node.TEXT_NODE) {
-      text += node.textContent || ''
-    }
-    node = node.nextSibling
-  }
-  
-  return text
 }
 
 /**
@@ -644,6 +644,18 @@ function scrollToSelectedResult() {
 
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
+
+  if (resultsEl.value && document.activeElement === resultsEl.value && selectedIndex.value === 0) {
+    selectedIndex.value = -1
+    searchInput.value?.focus()
+    return
+  }
+
+  if (resultsEl.value && document.activeElement === searchInput.value) {
+    resultsEl.value.focus()
+    // Fall through to wrap to bottom
+  }
+
   selectedIndex.value--
   if (selectedIndex.value < 0) {
     selectedIndex.value = results.value.length - 1
@@ -654,6 +666,12 @@ onKeyStroke('ArrowUp', (event) => {
 
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
+
+  if (resultsEl.value && document.activeElement === searchInput.value) {
+    resultsEl.value.focus()
+    // Fall through to select first item (from -1 to 0)
+  }
+
   selectedIndex.value++
   if (selectedIndex.value >= results.value.length) {
     selectedIndex.value = 0
@@ -678,12 +696,12 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     router.go(selectedPackage.id)
-    emit('close')
+    close()
   }
 })
 
 onKeyStroke('Escape', () => {
-  emit('close')
+  close()
 })
 
 /**
@@ -693,29 +711,37 @@ onKeyStroke('Escape', () => {
  */
 onKeyStroke('ArrowLeft', (event) => {
   // Navigate to previous match - only when viewing detailed excerpts with highlights
-  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
-    if (event.target === searchInput.value) {
-      if (event.shiftKey) return
-      const { selectionStart, selectionEnd } = searchInput.value!
-      // Only hijack if cursor is collapsed at the start
-      if (selectionStart !== 0 || selectionEnd !== 0) return
+  const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+    if (document.activeElement === searchInput.value) {
+      // Only hijack if modifier is pressed
+      if (!event.altKey && !event.ctrlKey) return
     }
     event.preventDefault()
-    prevMatch(selectedIndex.value)
+    prevMatch(targetIndex)
   }
 })
 
 onKeyStroke('ArrowRight', (event) => {
   // Navigate to next match - only when viewing detailed excerpts with highlights
-  if (showDetailedList.value && selectedIndex.value >= 0 && (resultMarks.value.get(selectedIndex.value)?.length ?? 0) > 0) {
-    if (event.target === searchInput.value) {
+  const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+    if (document.activeElement === searchInput.value) {
       if (event.shiftKey) return
-      const { selectionStart, selectionEnd, value } = searchInput.value!
-      // Only hijack if cursor is collapsed at the end
-      if (selectionStart !== value.length || selectionEnd !== value.length) return
+      if (event.altKey || event.ctrlKey) {
+        // Allow modifier to force nav
+      } else {
+        // Shortcut: If at end of input, go to next match AND focus results
+        const { selectionStart, selectionEnd, value } = searchInput.value!
+        if (selectionStart !== value.length || selectionEnd !== value.length) return
+        
+        // Use the target index (0) if we were at -1
+        if (selectedIndex.value === -1) selectedIndex.value = 0
+        resultsEl.value?.focus()
+      }
     }
     event.preventDefault()
-    nextMatch(selectedIndex.value)
+    nextMatch(targetIndex) // Use targetIndex as we might have just updated selectedIndex from -1 to 0 or kept valid index
   }
 })
 
@@ -749,7 +775,7 @@ onMounted(() => {
 
 useEventListener('popstate', (event) => {
   event.preventDefault()
-  emit('close')
+  close()
 })
 
 /** Lock body */
@@ -802,16 +828,18 @@ function onMouseMove(e: MouseEvent) {
 
 <template>
   <Teleport to="body">
-    <div
-      ref="el"
-      role="button"
-      :aria-owns="results?.length ? 'localsearch-list' : undefined"
-      aria-expanded="true"
-      aria-haspopup="listbox"
-      aria-labelledby="localsearch-label"
-      class="VPLocalSearchBox"
-    >
-      <div class="backdrop" @click="$emit('close')" />
+    <Transition name="vp-local-search" appear :duration="200" @after-leave="$emit('close')">
+      <div
+        v-if="show"
+        ref="el"
+        role="button"
+        :aria-owns="results?.length ? 'localsearch-list' : undefined"
+        aria-expanded="true"
+        aria-haspopup="listbox"
+        aria-labelledby="localsearch-label"
+        class="VPLocalSearchBox"
+      >
+      <div class="backdrop" @click="close" />
 
       <div class="shell">
         <form
@@ -830,7 +858,7 @@ function onMouseMove(e: MouseEvent) {
             <button
               class="back-button"
               :title="translate('modal.backButtonTitle')"
-              @click="$emit('close')"
+              @click="close"
             >
               <span class="vpi-arrow-left local-search-icon" />
             </button>
@@ -897,6 +925,7 @@ function onMouseMove(e: MouseEvent) {
           :role="results?.length ? 'listbox' : undefined"
           :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
           class="results"
+          tabindex="-1"
           @mousemove="onMouseMove"
         >
           <li
@@ -917,7 +946,7 @@ function onMouseMove(e: MouseEvent) {
               :aria-label="[...p.titles, p.title].join(' > ')"
               @mouseenter="!disableMouseOver && (selectedIndex = index)"
               @focusin="selectedIndex = index"
-              @click="$emit('close')"
+              @click="close"
               :data-index="index"
             >
               <div>
@@ -998,7 +1027,8 @@ function onMouseMove(e: MouseEvent) {
           </span>
         </div>
       </div>
-    </div>
+      </div>
+    </Transition>
   </Teleport>
 </template>
 
@@ -1009,12 +1039,10 @@ function onMouseMove(e: MouseEvent) {
   inset: 0;
   display: flex;
 }
-
 .backdrop {
   position: absolute;
   inset: 0;
   background: var(--vp-backdrop-bg-color);
-  transition: opacity 0.5s;
 }
 
 .shell {
@@ -1243,6 +1271,7 @@ function onMouseMove(e: MouseEvent) {
 .results {
   display: flex;
   flex-direction: column;
+  outline: none;
   gap: 6px;
   overflow-x: hidden;
   overflow-y: auto;
@@ -1319,12 +1348,17 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .excerpt {
-  opacity: 50%;
   pointer-events: none;
   max-height: 140px;
   overflow: hidden;
   position: relative;
   margin-top: 4px;
+}
+
+@media (hover: hover) {
+  .excerpt {
+    opacity: 0.5;
+  }
 }
 
 .result.selected .excerpt {
@@ -1404,5 +1438,18 @@ function onMouseMove(e: MouseEvent) {
 
 svg {
   flex: none;
+}
+
+@keyframes vp-backdrop-enter {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.vp-local-search-enter-active .backdrop {
+  animation: vp-backdrop-enter 0.2s ease-out both;
+}
+
+.vp-local-search-leave-active {
+  animation: vp-backdrop-enter 0.2s ease-in reverse both;
 }
 </style>

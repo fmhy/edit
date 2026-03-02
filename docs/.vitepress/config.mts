@@ -89,6 +89,13 @@ export default defineConfig({
       .finally(() => consola.success('Success!'))
   },
   vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          api: 'modern-compiler'
+        }
+      }
+    },
     ssr: {
       noExternal: ['@fmhy/components']
     },

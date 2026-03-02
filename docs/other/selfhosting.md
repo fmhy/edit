@@ -6,7 +6,7 @@ description: This guide will help you set up and run your own instance of FMHY l
 # Selfhosting
 
 :::warning
-Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given below.
+Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given in step 4.
 :::
 
 This guide will help you set up and run your own instance of FMHY locally.
